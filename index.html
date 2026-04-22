@@ -386,6 +386,37 @@
     display: flex; align-items: center; gap: 16px;
   }
 
+  /* Primary nav — Newsletter / Blog / About */
+  .nav-links {
+    display: flex; align-items: center; gap: 14px;
+    font-family: "Inter", sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  .nav-links a {
+    color: var(--ink-2);
+    text-decoration: none;
+    padding: 4px 0;
+    border-bottom: 1px solid transparent;
+    transition: color 160ms ease, border-color 160ms ease;
+  }
+  .nav-links a:hover {
+    color: var(--ink);
+    border-bottom-color: var(--ink);
+  }
+  .nav-links a.accent {
+    color: var(--cat-cancelled);
+  }
+  .nav-links a.accent:hover {
+    color: var(--cat-cancelled);
+    border-bottom-color: var(--cat-cancelled);
+  }
+  .nav-sep {
+    width: 1px; height: 18px; background: var(--rule-strong);
+  }
+
   /* view toggle — segmented control */
   .view-toggle {
     display: inline-flex;
@@ -527,7 +558,7 @@
     border-bottom: 1px solid var(--rule);
   }
   .feed-eyebrow {
-    display: flex; align-items: baseline; justify-content: space-between;
+    display: flex; align-items: center; gap: 10px;
     margin-bottom: 14px;
   }
   .feed-eyebrow-label {
@@ -537,6 +568,34 @@
     color: var(--ink-3);
     text-transform: uppercase;
     letter-spacing: 0.18em;
+  }
+  .sort-toggle {
+    margin-left: auto;
+    display: inline-flex;
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    overflow: hidden;
+    background: var(--paper-2);
+  }
+  .sort-toggle button {
+    background: transparent;
+    border: none;
+    padding: 4px 10px;
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--ink-3);
+    cursor: pointer;
+    transition: all 160ms ease;
+    border-right: 1px solid var(--rule-strong);
+  }
+  .sort-toggle button:last-child { border-right: none; }
+  .sort-toggle button:hover { color: var(--ink); }
+  .sort-toggle button.active {
+    background: var(--ink);
+    color: var(--paper);
   }
   .feed-state-pill {
     font-family: "Inter", sans-serif;
@@ -666,6 +725,28 @@
     text-transform: uppercase;
     letter-spacing: 0.12em;
   }
+  .stat-trend {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    margin-left: 4px;
+  }
+  .stat-trend.up   { color: var(--cat-cancelled); }
+  .stat-trend.down { color: var(--cat-announced); }
+  .stat-trend.flat { color: var(--ink-3); }
+  .stat-val-row {
+    display: flex; align-items: baseline;
+  }
+  .stat-asof {
+    font-family: "Inter", sans-serif;
+    font-size: 9px;
+    font-style: italic;
+    color: var(--ink-faint);
+    text-transform: none;
+    letter-spacing: 0.02em;
+    margin-top: 2px;
+  }
   .stat-source {
     margin-left: auto;
     font-family: "Inter", sans-serif;
@@ -709,6 +790,97 @@
     letter-spacing: 0.1em;
   }
 
+  /* Subscribe block — above the footer stats */
+  .subscribe-block {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 40px;
+    padding: 28px 32px;
+    background: #F2EEDF;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    align-items: center;
+  }
+  .subscribe-eyebrow {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    font-weight: 600;
+    color: var(--cat-cancelled);
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    margin-bottom: 8px;
+  }
+  .subscribe-copy h2 {
+    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+    font-size: 26px;
+    font-weight: 400;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+    margin: 0 0 6px 0;
+  }
+  .subscribe-copy p {
+    font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+    font-size: 14px;
+    color: var(--ink-2);
+    line-height: 1.5;
+    margin: 0;
+  }
+  .subscribe-form {
+    display: flex; flex-wrap: wrap; gap: 8px;
+    align-items: center;
+  }
+  .subscribe-form input[type="email"] {
+    flex: 1 1 260px;
+    min-width: 240px;
+    padding: 11px 14px;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    color: var(--ink);
+    background: var(--paper);
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    outline: none;
+    transition: border-color 160ms ease;
+  }
+  .subscribe-form input[type="email"]:focus {
+    border-color: var(--ink);
+  }
+  .subscribe-form button {
+    padding: 11px 22px;
+    font-family: "Inter", sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--paper);
+    background: var(--ink);
+    border: 1px solid var(--ink);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background 160ms ease;
+  }
+  .subscribe-form button:hover { background: #000; }
+  .subscribe-fine {
+    flex-basis: 100%;
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    color: var(--ink-3);
+    letter-spacing: 0.04em;
+  }
+  .subscribe-success {
+    flex-basis: 100%;
+    font-family: "Inter", sans-serif;
+    font-size: 11.5px;
+    font-weight: 500;
+    color: var(--cat-announced);
+    letter-spacing: 0.02em;
+  }
+  @media (max-width: 840px) {
+    .subscribe-block { grid-template-columns: 1fr; gap: 20px; padding: 22px 20px; }
+  }
+
   /* scrollbar */
   .feed-scroll::-webkit-scrollbar { width: 4px; }
   .feed-scroll::-webkit-scrollbar-track { background: transparent; }
@@ -723,6 +895,12 @@
       <span class="sub">prototype · v0.2</span>
     </div>
     <div class="header-right">
+      <nav class="nav-links" aria-label="Primary">
+        <a class="accent" href="#subscribe">Newsletter</a>
+        <a href="blog.html">Blog</a>
+        <a href="#about">About</a>
+      </nav>
+      <span class="nav-sep" aria-hidden="true"></span>
       <div class="view-toggle" id="view-toggle">
         <button class="active" data-view="state">State</button>
         <button data-view="social">Social Sentiment</button>
@@ -759,6 +937,10 @@
       <div class="feed-eyebrow">
         <span class="feed-eyebrow-label">Live Feed</span>
         <span id="state-indicator"></span>
+        <div class="sort-toggle" id="sort-toggle" role="tablist" aria-label="Sort feed">
+          <button class="active" data-sort="top"    role="tab" aria-selected="true">Top</button>
+          <button              data-sort="latest" role="tab" aria-selected="false">Latest</button>
+        </div>
       </div>
       <div class="filter-row" id="filters">
         <button class="filter-chip active" data-cat="all">All</button>
@@ -790,26 +972,49 @@
     <div class="feed-scroll" id="feed"></div>
   </div>
 
-  <footer>
+  <section id="subscribe" class="subscribe-block">
+    <div class="subscribe-copy">
+      <div class="subscribe-eyebrow">The Sunday Watch · free weekly brief</div>
+      <h2>Get the week in data-center opposition — in 5 minutes.</h2>
+      <p>Every Sunday morning. What passed, what got cancelled, which states are heating up, and what's on next week's docket.</p>
+    </div>
+    <form class="subscribe-form" id="subscribe-form" novalidate>
+      <input type="email" name="email" placeholder="you@example.com" required autocomplete="email">
+      <button type="submit">Subscribe</button>
+      <div class="subscribe-fine">No spam. Unsubscribe in one click.</div>
+      <div class="subscribe-success" id="subscribe-success" hidden>✓ Thanks — we'll drop you the first brief when it ships.</div>
+    </form>
+  </section>
+
+  <footer id="about">
     <div class="stat">
-      <span class="stat-val" id="stat-events">—</span>
+      <div class="stat-val-row">
+        <span class="stat-val" id="stat-events">—</span>
+        <span class="stat-trend flat" id="stat-events-trend"></span>
+      </div>
       <span class="stat-label">Events · 30 Days</span>
     </div>
     <div class="stat">
-      <span class="stat-val" id="stat-states">—</span>
+      <div class="stat-val-row">
+        <span class="stat-val" id="stat-states">—</span>
+        <span class="stat-trend flat" id="stat-states-trend"></span>
+      </div>
       <span class="stat-label">States affected</span>
     </div>
     <div class="stat">
       <span class="stat-val">$64 B</span>
       <span class="stat-label">Blocked / Delayed</span>
+      <span class="stat-asof">per Data Center Watch, Apr 2026</span>
     </div>
     <div class="stat">
       <span class="stat-val">140+</span>
       <span class="stat-label">Opposition groups</span>
+      <span class="stat-asof">per Data Center Watch, Apr 2026</span>
     </div>
     <div class="stat">
       <span class="stat-val">7 GW</span>
       <span class="stat-label">Capacity stalled</span>
+      <span class="stat-asof">per Data Center Watch, Apr 2026</span>
     </div>
     <div class="stat-source">Live from GDELT 2.0 · Seed from Data Center Watch, WaPo, NPR, Heatmap</div>
   </footer>
@@ -1619,6 +1824,50 @@ let activeCo = 'all';
 let activePlatform = 'all';
 let stateFilter = null;
 let isoFilter = null;
+// Top = impact-weighted (engagement × recency × relevance). Latest = strict date DESC.
+let feedSort = 'top';
+
+// Top-ranking: weights recent, high-engagement, opposition-relevant events first.
+// score = (1 + engagement/500) × exp(-ageDays/14) × (0.3 + relevance*0.7)
+function topScore(e) {
+  const ageDays  = Math.max(0, (Date.now() - new Date(e.date).getTime()) / 86400000);
+  const recency  = Math.exp(-ageDays / 14);          // half-life ~10 days
+  const engNorm  = 1 + Math.min(6, (e._engagement || e.engagement_score || 0) / 500);
+  const relevance= 0.3 + (e.relevance_score ?? 0.5) * 0.7;
+  const catBoost = (e.category === 'banned' || e.category === 'cancelled') ? 1.25 : 1.0;
+  return recency * engNorm * relevance * catBoost;
+}
+function sortByFeedMode(list) {
+  return feedSort === 'top'
+    ? [...list].sort((a,b) => topScore(b) - topScore(a))
+    : [...list].sort((a,b) => new Date(b.date) - new Date(a.date));
+}
+
+// 30-day window KPIs + vs-prior-30d trend arrow
+function updateFooterKPIs(events) {
+  const now = Date.now();
+  const day = 86400000;
+  const curr = events.filter(e => (now - new Date(e.date)) / day <= 30);
+  const prev = events.filter(e => {
+    const d = (now - new Date(e.date)) / day;
+    return d > 30 && d <= 60;
+  });
+  const currStates = new Set(curr.map(e => e.state).filter(s => s && s !== 'US')).size;
+  const prevStates = new Set(prev.map(e => e.state).filter(s => s && s !== 'US')).size;
+
+  const setKPI = (valId, trendId, curVal, prevVal) => {
+    document.getElementById(valId).textContent = curVal;
+    const tr = document.getElementById(trendId);
+    if (!tr) return;
+    const delta = curVal - prevVal;
+    if (prevVal === 0 && curVal === 0) { tr.className = 'stat-trend flat'; tr.textContent = ''; return; }
+    if (delta > 0)      { tr.className = 'stat-trend up';   tr.textContent = `↑${delta}`; }
+    else if (delta < 0) { tr.className = 'stat-trend down'; tr.textContent = `↓${Math.abs(delta)}`; }
+    else                { tr.className = 'stat-trend flat'; tr.textContent = '·'; }
+  };
+  setKPI('stat-events', 'stat-events-trend', curr.length,   prev.length);
+  setKPI('stat-states', 'stat-states-trend', currStates,    prevStates);
+}
 let allEvents = [];
 
 // Social events now live in data/social_events.json — committed by run_daily.sh
@@ -1641,7 +1890,7 @@ function renderFeed() {
   // In social view, draw from SOCIAL_DATA; in state view, from allEvents (GDELT + seed)
   if (currentView === 'social') return renderFeedSocial();
 
-  let list = [...allEvents].sort((a,b) => new Date(b.date) - new Date(a.date));
+  let list = sortByFeedMode(allEvents);
   if (activeCat !== 'all') list = list.filter(e => e.category === activeCat);
   if (activeCo !== 'all')  list = list.filter(e => (e.companies || []).includes(activeCo));
   if (stateFilter) list = list.filter(e => e.state === stateFilter);
@@ -1682,8 +1931,7 @@ function renderFeed() {
     });
   }
 
-  document.getElementById('stat-events').textContent = allEvents.length;
-  document.getElementById('stat-states').textContent = new Set(allEvents.map(e => e.state)).size;
+  updateFooterKPIs(allEvents);
 
   const ind = document.getElementById('state-indicator');
   if (stateFilter) {
@@ -1705,10 +1953,10 @@ function filterByState(code) {
 // --- Social feed render: platform-rich cards ---
 function renderFeedSocial() {
   const items = SOCIAL_DATA?.items || [];
-  let list = [...items].sort((a,b) => {
-    const d = new Date(b.date) - new Date(a.date);
-    return d !== 0 ? d : (b.engagement_score || 0) - (a.engagement_score || 0);
-  });
+  // Map engagement_score → _engagement so topScore() picks it up, then sort
+  // via the shared feedSort (Top = impact-weighted, Latest = chronological).
+  const annotated = items.map(e => ({ ...e, _engagement: e.engagement_score }));
+  let list = sortByFeedMode(annotated);
   if (activeCat !== 'all')      list = list.filter(e => e.category === activeCat);
   if (activePlatform !== 'all') list = list.filter(e => e.platform === activePlatform);
   if (stateFilter)              list = list.filter(e => e.state === stateFilter);
@@ -1758,9 +2006,9 @@ function renderFeedSocial() {
     });
   }
 
-  // Stats: override with social counts when in social view
-  document.getElementById('stat-events').textContent = list.length;
-  document.getElementById('stat-states').textContent = new Set(list.map(e => e.state).filter(s => s && s !== 'US')).size;
+  // Footer stats always reflect the full 30-day universe, not the filtered
+  // list, so "Events · 30 Days" means the same thing across views.
+  updateFooterKPIs(allEvents);
 
   const ind = document.getElementById('state-indicator');
   if (stateFilter) {
@@ -1786,6 +2034,42 @@ document.querySelectorAll('#company-filters .filter-chip').forEach(chip => {
     document.querySelectorAll('#company-filters .filter-chip').forEach(c => c.classList.remove('active'));
     chip.classList.add('active');
     activeCo = chip.dataset.co;
+    renderFeed();
+  });
+});
+
+// Newsletter signup — captures locally until Beehiiv publication is wired.
+// When you have a Beehiiv pub, replace the localStorage block with:
+//   await fetch('https://api.beehiiv.com/v2/publications/PUB_ID/subscriptions', {
+//     method: 'POST',
+//     headers: { 'Content-Type': 'application/json',
+//                'Authorization': `Bearer ${PUBLIC_PUBLISHABLE_KEY}` },
+//     body: JSON.stringify({ email, utm_source: 'dashboard-footer' }),
+//   });
+document.getElementById('subscribe-form')?.addEventListener('submit', (e) => {
+  e.preventDefault();
+  const email = new FormData(e.target).get('email')?.toString().trim();
+  if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return;
+  try {
+    const queue = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
+    if (!queue.includes(email)) queue.push(email);
+    localStorage.setItem('dcw_subscribers', JSON.stringify(queue));
+  } catch { /* private mode — fine */ }
+  document.getElementById('subscribe-success').hidden = false;
+  e.target.reset();
+  console.log('[subscribe] captured', email, '— swap to Beehiiv POST when pub live');
+});
+
+// Sort toggle (Top / Latest) — applies to both State and Social views
+document.querySelectorAll('#sort-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#sort-toggle button').forEach(b => {
+      b.classList.remove('active');
+      b.setAttribute('aria-selected', 'false');
+    });
+    btn.classList.add('active');
+    btn.setAttribute('aria-selected', 'true');
+    feedSort = btn.dataset.sort;
     renderFeed();
   });
 });
