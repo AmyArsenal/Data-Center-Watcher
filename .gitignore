@@ -15,6 +15,9 @@ venv/
 .vscode/
 *.swp
 
+# Claude Code local session state (memory/, settings)
+.claude/
+
 # Local raw research dumps from last30days (not checked in)
 Documents/
 *-raw-v*.md

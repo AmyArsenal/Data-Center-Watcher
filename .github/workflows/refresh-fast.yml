@@ -1,0 +1,56 @@
+name: Fast refresh
+
+# Pulls GDELT / Reddit / RSS every 15 minutes, upserts into data/news.db,
+# re-exports data/news.json + data/meta.json, and commits only if data
+# actually changed. GitHub Pages picks up the new files automatically.
+#
+# Cron jitter: scheduled runs can be delayed 10-30 min or occasionally
+# skipped under platform load. Don't rely on this for alerting — the site
+# stays readable between runs because news.json is just the snapshot.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+# One run at a time; don't cancel an in-flight run when a new one fires.
+concurrency:
+  group: refresh-fast
+  cancel-in-progress: false
+
+# Needed so the bot commit can push back to main.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run fast refresh
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/refresh_fast.py
+
+      - name: Commit & push if data changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/meta.json data/news.db
+          if git diff --staged --quiet; then
+            echo "::notice::no data delta — skipping commit"
+            exit 0
+          fi
+          git commit -m "data: fast refresh $(date -u +%FT%H:%MZ)"
+          git push

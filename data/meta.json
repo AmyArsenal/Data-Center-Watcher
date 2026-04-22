@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-04-22T21:33:21Z",
+  "tier_timestamps": {
+    "fast": "2026-04-22T21:33:21Z"
+  },
+  "counts_by_source": {
+    "reddit": 31,
+    "gdelt": 4,
+    "news": 11,
+    "x": 10,
+    "rss-dck": 3,
+    "legal": 1
+  },
+  "run_stats": {
+    "last_run_seconds": 26.08,
+    "raw_fetched": {
+      "rss": 190,
+      "reddit": 68,
+      "gdelt": 21
+    },
+    "inserted": 34,
+    "updated": 5,
+    "dropped_irrelevant": 238,
+    "accepted_by_source_this_run": {
+      "rss-dck": 3,
+      "reddit": 32,
+      "gdelt": 4
+    }
+  }
+}

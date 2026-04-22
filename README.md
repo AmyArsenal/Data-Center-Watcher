@@ -89,6 +89,34 @@ The HTML is fully self-contained — all data is inlined, no runtime dependencie
 - **Backend:** Python 3.12+, SQLite, shell. No server required.
 - **Data:** [last30days skill v3.0.10+](https://github.com/mvanhorn/last30days-skill) (social aggregator), xAI Grok-4 API for X search.
 
+## Live refresh (GitHub Actions + Pages)
+
+A hosted, auto-updating deployment has three pieces wired up:
+
+1. **Fast tier** — [`.github/workflows/refresh-fast.yml`](.github/workflows/refresh-fast.yml) runs every 15 minutes on GitHub-hosted runners. It executes [`scripts/refresh_fast.py`](scripts/refresh_fast.py), which fans out across GDELT DOC 2.0, Reddit public JSON, ~8 outlet RSS feeds, CourtListener, and optionally YouTube Data API v3. Results are upserted (cross-source dedup via `url_hash` + `content_hash`) into `data/news.db` and re-exported to `data/news.json` + `data/meta.json`. The workflow commits only if data actually changed.
+2. **Deep tier** — the existing [`scripts/run_daily.sh`](scripts/run_daily.sh) still runs locally on demand. It uses the [last30days skill](https://github.com/mvanhorn/last30days-skill) for deeper X / YouTube / TikTok harvesting. It is not yet wired to Actions (skill dependencies).
+3. **Static hosting** — the repo ships `index.html` at root + `.nojekyll`, so GitHub Pages can serve the site straight from the `main` branch. Every Actions commit triggers a Pages redeploy.
+
+### Enable Pages (one-time)
+
+Settings → Pages → Source: **Deploy from a branch**, Branch: `main` / `(root)`. Site goes live at `https://<user>.github.io/Data-Center-Watcher/`.
+
+### Optional secrets
+
+| Secret | Purpose | Without it |
+|---|---|---|
+| `YOUTUBE_API_KEY` | YouTube Data API v3 search | Fast tier skips YouTube silently |
+
+### Cron jitter
+
+`*/15 * * * *` is a best-effort schedule. GitHub Actions scheduled runs can be delayed 10-30 min or skipped entirely under platform load. Manual runs via **Actions → Fast refresh → Run workflow** always work.
+
+### What gets committed each run
+
+- `data/news.json` — rolling 90-day window the frontend will `fetch()`
+- `data/meta.json` — per-source counts + `tier_timestamps` for freshness chips
+- `data/news.db` — SQLite source of truth (keeps dedup state across runs)
+
 ## Research
 
 See [`research/iso-research/`](research/iso-research/) for deep dives into each ISO's stakeholder meeting infrastructure (PJM, MISO, ERCOT, CAISO, NYISO, ISO-NE, SPP) and the cross-ISO synthesis. Written for a future "RTO Insider for AI Agents" layer; not wired into the dashboard yet.

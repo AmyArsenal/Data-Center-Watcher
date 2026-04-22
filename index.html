@@ -1506,6 +1506,70 @@ const CAT_COLOR = {
 };
 
 // ============================================================================
+//  FAST TIER — data/news.json committed every 15 min by GitHub Actions
+// ============================================================================
+let FAST_EVENTS = [];
+let FAST_META   = null;
+
+async function fetchFastEvents() {
+  try {
+    const resp = await fetch(`data/news.json?v=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    return (data.items || [])
+      .map(it => ({
+        state:    it.state,
+        category: it.category || 'protested',
+        date:     it.date,
+        headline: it.headline,
+        source:   it.source_name || it.source_domain || it.source || 'news',
+        url:      it.url,
+        companies: Array.isArray(it.companies) ? it.companies : [],
+        live:      false,
+        _fast:       true,
+        _engagement: it.engagement_score,
+        _platform:   it.platform,
+        _sources_seen: it.sources_seen || [],
+      }))
+      .filter(e => e.state && e.state !== 'US' && e.headline && e.date);
+  } catch (err) {
+    console.warn('news.json fetch failed (expected on file://):', err);
+    return [];
+  }
+}
+
+async function fetchMeta() {
+  try {
+    const resp = await fetch(`data/meta.json?v=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    return await resp.json();
+  } catch {
+    return null;
+  }
+}
+
+function freshnessAgo(iso) {
+  if (!iso) return '—';
+  const m = (Date.now() - new Date(iso).getTime()) / 60000;
+  if (m < 1)    return 'just now';
+  if (m < 60)   return `${Math.round(m)}m ago`;
+  if (m < 1440) return `${Math.round(m / 60)}h ago`;
+  return `${Math.round(m / 1440)}d ago`;
+}
+
+function updateFreshnessChip() {
+  const status = document.getElementById('sync-status');
+  if (!status) return;
+  const fastAgo = FAST_META?.tier_timestamps?.fast
+    ? freshnessAgo(FAST_META.tier_timestamps.fast)
+    : '—';
+  const liveNow = new Date().toLocaleTimeString('en-US', {
+    hour: '2-digit', minute: '2-digit',
+  });
+  status.textContent = `Fast: ${fastAgo} · Live: ${liveNow} · ${FAST_EVENTS.length} ingested`;
+}
+
+// ============================================================================
 //  ISO / RTO taxonomy — primary ISO per state (simplified — some states split)
 // ============================================================================
 // State-to-ISO mapping — used for EVENT FILTERING when a state has a clear
@@ -2610,26 +2674,34 @@ function socialGeoEvents() {
 }
 
 async function refresh() {
-  const live = await fetchLiveEvents();
-  allEvents = mergeEvents(SEED_EVENTS, live).concat(socialGeoEvents());
+  // Fast (data/news.json) and Live (GDELT direct) run in parallel.
+  const [live, fast, meta] = await Promise.all([
+    fetchLiveEvents(),
+    fetchFastEvents(),
+    fetchMeta(),
+  ]);
+  FAST_EVENTS = fast;
+  FAST_META   = meta;
+  const baseline = mergeEvents(SEED_EVENTS, FAST_EVENTS);
+  allEvents = mergeEvents(baseline, live).concat(socialGeoEvents());
   paintMap(allEvents);
   renderFeed();
   renderTicker();
+  updateFreshnessChip();
 }
 
 (async () => {
-  // Paint seed immediately (map + feed + ticker)
+  // Paint seed immediately so there's something on screen before the network.
   allEvents = mergeEvents(SEED_EVENTS, []).concat(socialGeoEvents());
   await renderMap();
   paintMap(allEvents);
   renderFeed();
   renderTicker();
-  document.getElementById('sync-status').textContent = 'Seed loaded · fetching live…';
+  document.getElementById('sync-status').textContent = 'Seed loaded · fetching…';
 
-  // Then fetch live and merge
   await refresh();
 
-  // Refresh every 5 min
+  // Fast + Live both refresh every 5 min from the browser.
   setInterval(refresh, 5 * 60 * 1000);
 })();
 
