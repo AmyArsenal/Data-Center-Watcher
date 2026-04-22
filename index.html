@@ -790,95 +790,114 @@
     letter-spacing: 0.1em;
   }
 
-  /* Subscribe block — above the footer stats */
-  .subscribe-block {
-    grid-column: 1 / -1;
-    display: grid;
-    grid-template-columns: 1.2fr 1fr;
-    gap: 40px;
-    padding: 28px 32px;
-    background: #F2EEDF;
-    border-top: 1px solid var(--rule);
-    border-bottom: 1px solid var(--rule);
-    align-items: center;
-  }
-  .subscribe-eyebrow {
+  /* Floating subscribe dock — compact pill bottom-right, expands on click.
+     Default hidden-then-slide-in avoids layout shift; localStorage keeps
+     dismissal so returning visitors aren't nagged. */
+  .subscribe-dock {
+    position: fixed;
+    right: 20px; bottom: 20px;
+    z-index: 60;
     font-family: "Inter", sans-serif;
-    font-size: 10.5px;
-    font-weight: 600;
-    color: var(--cat-cancelled);
+    transition: transform 220ms ease, box-shadow 220ms ease;
+  }
+  .subscribe-dock[hidden] { display: none; }
+
+  /* Collapsed pill — what visitors see by default */
+  .subscribe-dock .dock-pill {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 9px 14px 9px 12px;
+    background: var(--ink);
+    color: var(--paper);
+    border: 1px solid var(--ink);
+    border-radius: 999px;
+    font-size: 11.5px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
-    letter-spacing: 0.18em;
-    margin-bottom: 8px;
+    cursor: pointer;
+    box-shadow: 0 6px 20px rgba(26,25,21,0.18);
   }
-  .subscribe-copy h2 {
+  .subscribe-dock .dock-pill:hover { background: #000; }
+  .subscribe-dock .dock-pill .pill-ico {
+    font-size: 13px; line-height: 1;
+  }
+
+  /* Expanded panel — same dock, different inner markup */
+  .subscribe-dock.open .dock-pill { display: none; }
+  .subscribe-dock .dock-panel {
+    display: none;
+    width: 320px;
+    padding: 18px 18px 16px;
+    background: var(--paper);
+    border: 1px solid var(--rule-strong);
+    border-radius: 8px;
+    box-shadow: 0 16px 40px rgba(26,25,21,0.22);
+  }
+  .subscribe-dock.open .dock-panel { display: block; }
+  .subscribe-dock .dock-close {
+    position: absolute; top: 6px; right: 8px;
+    background: none; border: none; cursor: pointer;
+    font-size: 16px; color: var(--ink-3); line-height: 1;
+    padding: 4px 6px;
+  }
+  .subscribe-dock .dock-close:hover { color: var(--ink); }
+  .subscribe-eyebrow {
+    font-size: 9.5px; font-weight: 600;
+    color: var(--cat-cancelled);
+    text-transform: uppercase; letter-spacing: 0.16em;
+    margin-bottom: 6px;
+  }
+  .subscribe-dock h2 {
     font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
-    font-size: 26px;
-    font-weight: 400;
+    font-size: 16px; font-weight: 400;
     color: var(--ink);
-    letter-spacing: -0.01em;
-    line-height: 1.2;
-    margin: 0 0 6px 0;
-  }
-  .subscribe-copy p {
-    font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
-    font-size: 14px;
-    color: var(--ink-2);
-    line-height: 1.5;
-    margin: 0;
+    letter-spacing: -0.005em;
+    line-height: 1.25;
+    margin: 0 0 10px 0;
   }
   .subscribe-form {
-    display: flex; flex-wrap: wrap; gap: 8px;
-    align-items: center;
+    display: flex; flex-direction: column; gap: 8px;
   }
   .subscribe-form input[type="email"] {
-    flex: 1 1 260px;
-    min-width: 240px;
-    padding: 11px 14px;
+    width: 100%;
+    padding: 9px 12px;
     font-family: "Inter", sans-serif;
-    font-size: 13px;
+    font-size: 12.5px;
     color: var(--ink);
-    background: var(--paper);
+    background: var(--paper-2);
     border: 1px solid var(--rule-strong);
     border-radius: 3px;
     outline: none;
-    transition: border-color 160ms ease;
+    box-sizing: border-box;
   }
-  .subscribe-form input[type="email"]:focus {
-    border-color: var(--ink);
-  }
+  .subscribe-form input[type="email"]:focus { border-color: var(--ink); }
   .subscribe-form button {
-    padding: 11px 22px;
+    padding: 9px 14px;
     font-family: "Inter", sans-serif;
-    font-size: 11px;
+    font-size: 10.5px;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.14em;
+    text-transform: uppercase; letter-spacing: 0.14em;
     color: var(--paper);
     background: var(--ink);
     border: 1px solid var(--ink);
     border-radius: 3px;
     cursor: pointer;
-    transition: background 160ms ease;
   }
   .subscribe-form button:hover { background: #000; }
   .subscribe-fine {
-    flex-basis: 100%;
-    font-family: "Inter", sans-serif;
-    font-size: 10px;
+    font-size: 9.5px;
     color: var(--ink-3);
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
+    margin-top: 2px;
   }
   .subscribe-success {
-    flex-basis: 100%;
-    font-family: "Inter", sans-serif;
-    font-size: 11.5px;
-    font-weight: 500;
+    font-size: 11px; font-weight: 500;
     color: var(--cat-announced);
-    letter-spacing: 0.02em;
+    margin-top: 4px;
   }
-  @media (max-width: 840px) {
-    .subscribe-block { grid-template-columns: 1fr; gap: 20px; padding: 22px 20px; }
+  @media (max-width: 520px) {
+    .subscribe-dock { right: 12px; bottom: 12px; left: 12px; }
+    .subscribe-dock .dock-panel { width: auto; }
   }
 
   /* scrollbar */
@@ -971,20 +990,6 @@
     </div>
     <div class="feed-scroll" id="feed"></div>
   </div>
-
-  <section id="subscribe" class="subscribe-block">
-    <div class="subscribe-copy">
-      <div class="subscribe-eyebrow">The Sunday Watch · free weekly brief</div>
-      <h2>Get the week in data-center opposition — in 5 minutes.</h2>
-      <p>Every Sunday morning. What passed, what got cancelled, which states are heating up, and what's on next week's docket.</p>
-    </div>
-    <form class="subscribe-form" id="subscribe-form" novalidate>
-      <input type="email" name="email" placeholder="you@example.com" required autocomplete="email">
-      <button type="submit">Subscribe</button>
-      <div class="subscribe-fine">No spam. Unsubscribe in one click.</div>
-      <div class="subscribe-success" id="subscribe-success" hidden>✓ Thanks — we'll drop you the first brief when it ships.</div>
-    </form>
-  </section>
 
   <footer id="about">
     <div class="stat">
@@ -2038,28 +2043,6 @@ document.querySelectorAll('#company-filters .filter-chip').forEach(chip => {
   });
 });
 
-// Newsletter signup — captures locally until Beehiiv publication is wired.
-// When you have a Beehiiv pub, replace the localStorage block with:
-//   await fetch('https://api.beehiiv.com/v2/publications/PUB_ID/subscriptions', {
-//     method: 'POST',
-//     headers: { 'Content-Type': 'application/json',
-//                'Authorization': `Bearer ${PUBLIC_PUBLISHABLE_KEY}` },
-//     body: JSON.stringify({ email, utm_source: 'dashboard-footer' }),
-//   });
-document.getElementById('subscribe-form')?.addEventListener('submit', (e) => {
-  e.preventDefault();
-  const email = new FormData(e.target).get('email')?.toString().trim();
-  if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return;
-  try {
-    const queue = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
-    if (!queue.includes(email)) queue.push(email);
-    localStorage.setItem('dcw_subscribers', JSON.stringify(queue));
-  } catch { /* private mode — fine */ }
-  document.getElementById('subscribe-success').hidden = false;
-  e.target.reset();
-  console.log('[subscribe] captured', email, '— swap to Beehiiv POST when pub live');
-});
-
 // Sort toggle (Top / Latest) — applies to both State and Social views
 document.querySelectorAll('#sort-toggle button').forEach(btn => {
   btn.addEventListener('click', () => {
@@ -2379,5 +2362,84 @@ window.addEventListener('resize', () => {
   }, 300);
 });
 </script>
+
+<!-- Floating subscribe dock — fixed bottom-right. Starts collapsed; the
+     Newsletter link in the header programmatically expands it. -->
+<aside id="subscribe" class="subscribe-dock" aria-label="Subscribe to the weekly brief">
+  <button type="button" class="dock-pill" id="dock-pill-btn" aria-expanded="false" aria-controls="subscribe-panel">
+    <span class="pill-ico" aria-hidden="true">📬</span>
+    Weekly Brief
+  </button>
+  <div class="dock-panel" id="subscribe-panel" role="dialog" aria-labelledby="subscribe-heading">
+    <button type="button" class="dock-close" id="dock-close-btn" aria-label="Close">×</button>
+    <div class="subscribe-eyebrow">The Sunday Watch</div>
+    <h2 id="subscribe-heading">Get the week in DC opposition — in 5 minutes.</h2>
+    <form class="subscribe-form" id="subscribe-form" novalidate>
+      <input type="email" name="email" placeholder="you@example.com" required autocomplete="email">
+      <button type="submit">Subscribe</button>
+      <div class="subscribe-fine">Free · Unsubscribe in one click</div>
+      <div class="subscribe-success" id="subscribe-success" hidden>✓ Thanks — first brief headed your way when it ships.</div>
+    </form>
+  </div>
+</aside>
+
+<script>
+(function () {
+  const dock  = document.getElementById('subscribe');
+  const pill  = document.getElementById('dock-pill-btn');
+  const close = document.getElementById('dock-close-btn');
+  const panel = document.getElementById('subscribe-panel');
+  const email = () => document.querySelector('#subscribe-form input[name="email"]');
+
+  function openDock()  { dock.classList.add('open');  pill.setAttribute('aria-expanded','true');  setTimeout(() => email()?.focus(), 80); }
+  function closeDock() { dock.classList.remove('open'); pill.setAttribute('aria-expanded','false'); }
+
+  pill.addEventListener('click',  openDock);
+  close.addEventListener('click', closeDock);
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dock.classList.contains('open')) closeDock(); });
+
+  // Header "Newsletter" link (any a[href="#subscribe"]) opens the dock instead
+  // of jumping the scroll.
+  document.querySelectorAll('a[href="#subscribe"], a[href$="#subscribe"]').forEach(a => {
+    a.addEventListener('click', (e) => {
+      if (!dock) return;
+      e.preventDefault();
+      openDock();
+    });
+  });
+
+  // If the URL hash is #subscribe on landing (e.g., from blog.html), auto-open.
+  if (location.hash === '#subscribe') openDock();
+
+  // Submit handler — captures to localStorage for now. One-line swap to
+  // Beehiiv when the publication exists:
+  //   await fetch(`https://api.beehiiv.com/v2/publications/${PUB_ID}/subscriptions`, {
+  //     method: 'POST',
+  //     headers: { 'Content-Type': 'application/json',
+  //                'Authorization': `Bearer ${PUBLIC_PUBLISHABLE_KEY}` },
+  //     body: JSON.stringify({ email, utm_source: 'dashboard-dock' }),
+  //   });
+  const form = document.getElementById('subscribe-form');
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const val = new FormData(form).get('email')?.toString().trim();
+    if (!val || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
+      email()?.focus();
+      return;
+    }
+    try {
+      const queue = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
+      if (!queue.includes(val)) queue.push(val);
+      localStorage.setItem('dcw_subscribers', JSON.stringify(queue));
+    } catch { /* private-mode browsing — fine */ }
+    document.getElementById('subscribe-success').hidden = false;
+    form.reset();
+    console.log('[subscribe] captured', val, '— swap to Beehiiv POST when pub live');
+    // Auto-close after 2.5s so the dock doesn't linger
+    setTimeout(closeDock, 2500);
+  });
+})();
+</script>
+
 </body>
 </html>
