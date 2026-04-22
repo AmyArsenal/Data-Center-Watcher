@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-22T21:33:21Z",
+  "generated_at": "2026-04-22T21:49:14Z",
   "window_days": 90,
-  "count": 60,
+  "count": 61,
   "items": [
     {
       "id": "reddit-5e0f89b0f0ab4917",
@@ -867,6 +867,46 @@
       }
     },
     {
+      "id": "gdelt-91dee582d6813edb",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Dozens expected to protest proposed data center at Coachella City Council meeting",
+      "source_domain": "kesq.com",
+      "source_name": "kesq.com",
+      "url": "https://kesq.com/news/2026/04/22/dozens-expected-to-protest-proposed-data-center-at-coachella-city-council-meeting",
+      "date": "2026-04-22",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-22 21:49:14",
+      "url_hash": "91dee582d6813edb",
+      "content_hash": "35ccd730c24ad2af",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-22T21:49:14Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
       "id": "gdelt-a29db79f9c34b50f",
       "state": "US",
       "city": null,
@@ -893,7 +933,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-22T21:33:21Z",
+      "last_seen": "2026-04-22T21:49:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -933,7 +973,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-22T21:33:21Z",
+      "last_seen": "2026-04-22T21:49:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -973,7 +1013,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-22T21:33:21Z",
+      "last_seen": "2026-04-22T21:49:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1013,7 +1053,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-22T21:33:21Z",
+      "last_seen": "2026-04-22T21:49:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1306,7 +1346,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-22T21:33:21Z",
+      "last_seen": "2026-04-22T21:49:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1386,7 +1426,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-22T21:33:21Z",
+      "last_seen": "2026-04-22T21:49:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1425,7 +1465,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-22T21:33:21Z",
+      "last_seen": "2026-04-22T21:49:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
