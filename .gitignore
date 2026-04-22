@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Local raw research dumps from last30days (not checked in)
+Documents/
+*-raw-v*.md
+
+# SQLite bak
+*.db-journal
+*.db-wal
+*.db-shm
