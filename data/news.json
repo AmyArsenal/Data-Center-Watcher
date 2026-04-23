@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-23T22:07:09Z",
+  "generated_at": "2026-04-23T23:04:03Z",
   "window_days": 90,
-  "count": 107,
+  "count": 108,
   "items": [
     {
       "id": "reddit-370f756ed2de009b",
@@ -866,6 +866,46 @@
       }
     },
     {
+      "id": "gdelt-a4391847eb06486d",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "East Charlotte residents protest data center development during rezoning hearing",
+      "source_domain": "wfae.org",
+      "source_name": "wfae.org",
+      "url": "https://wfae.org/energy-environment/2026-04-23/east-charlotte-residents-protest-data-center-development-during-rezoning-hearing",
+      "date": "2026-04-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-23 23:04:03",
+      "url_hash": "a4391847eb06486d",
+      "content_hash": "abf1a20140260934",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-23T23:04:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
       "id": "rss-utilitydive-d3df554b86365bde",
       "state": "US",
       "city": null,
@@ -892,7 +932,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Houston is now &ldquo;firmly established as a location of choice for some of the world's largest hyperscalers,&rdquo;&nbsp;CenterPoint&nbsp;CEO Jason Wells said in the company&rsquo;s first quarter earnings call.",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -934,7 +974,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Constellation needs the waivers from the Federal Energy Regulatory Commission to fully deliver power as soon as the unit restarts, possibly next year. It has a 20-year deal to sell all the energy, capacity and clean energy attributes to Microsoft for data centers.",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -973,7 +1013,7 @@
         "rss-dcd"
       ],
       "snippet": "Bill was introduced yesterday",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1012,7 +1052,7 @@
         "rss-dcd"
       ],
       "snippet": "Comes as a blow to data center developer EnergiAcres",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1051,7 +1091,7 @@
         "rss-dcd"
       ],
       "snippet": "But both projects still need approval from County Commission",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2906,7 +2946,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3069,7 +3109,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3108,7 +3148,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-23T22:07:09Z",
+      "last_seen": "2026-04-23T23:04:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,

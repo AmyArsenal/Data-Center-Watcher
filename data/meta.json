@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-04-23T22:30:24Z",
+  "generated_at": "2026-04-23T23:04:03Z",
   "tier_timestamps": {
-    "fast": "2026-04-23T19:07:47Z",
+    "fast": "2026-04-23T23:04:03Z",
     "bills": "2026-04-23T22:30:24Z"
   },
   "counts_by_source": {
     "reddit": 50,
     "tiktok": 8,
+    "gdelt": 6,
     "rss-utilitydive": 2,
     "rss-dcd": 3,
     "instagram": 6,
     "x": 14,
     "youtube": 2,
-    "gdelt": 5,
     "polymarket": 2,
     "news": 11,
     "rss-dck": 3,
     "legal": 1
   },
   "run_stats": {
-    "last_run_seconds": 37.29,
+    "last_run_seconds": 27.81,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
       "reddit": 0,
-      "gdelt": 10
+      "gdelt": 9
     },
-    "inserted": 0,
+    "inserted": 1,
     "updated": 8,
-    "dropped_irrelevant": 192,
+    "dropped_irrelevant": 190,
     "accepted_by_source_this_run": {
       "rss-dcd": 3,
       "rss-utilitydive": 2,
       "rss-dck": 3,
-      "reddit": 29
-    },
-    "bills_last_run_seconds": 0.0,
-    "bills_raw_fetched": 0,
-    "bills_inserted": 0,
-    "bills_updated": 0,
-    "bills_noop": 0,
-    "bills_total_in_json": 0,
-    "bills_states_with_bills": 0
+      "gdelt": 1
+    }
   }
 }
