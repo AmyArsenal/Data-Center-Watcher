@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-23T18:45:27Z",
+  "generated_at": "2026-04-22T23:31:30Z",
   "window_days": 90,
-  "count": 76,
+  "count": 63,
   "items": [
     {
       "id": "rss-utilitydive-d3df554b86365bde",
@@ -1663,6 +1663,90 @@
         "gdelt_language": "English",
         "gdelt_sourcecountry": "United States",
         "gdelt_tone": null
+      }
+    },
+    {
+      "id": "polymarket-beb1661dd9f62234",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "NVIDIA Data Center Revenue above __ in Q1?",
+      "source_domain": "polymarket.com",
+      "source_name": "Polymarket",
+      "url": "https://polymarket.com/event/nvidia-data-center-revenue-above-in-q1",
+      "date": "2026-04-21",
+      "platform": "polymarket",
+      "engagement_score": 264,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Nvidia"
+      ],
+      "first_seen": "2026-04-22 23:26:59",
+      "url_hash": "beb1661dd9f62234",
+      "content_hash": "83e371e3d62399d2",
+      "source": "polymarket",
+      "source_tier": "deep",
+      "sources_seen": [
+        "polymarket"
+      ],
+      "snippet": "up 18.9% this week",
+      "last_seen": "2026-04-22T23:26:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": null,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "poly_volume": 3316.8,
+        "poly_liquidity": 16838.5,
+        "poly_movement": "up 18.9% / week",
+        "poly_why": "Nvidia revenue market, no opposition",
+        "poly_score": 6
+      }
+    },
+    {
+      "id": "polymarket-9862d92d7b5e60ba",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "AI data center moratorium passed before 2027?",
+      "source_domain": "polymarket.com",
+      "source_name": "Polymarket",
+      "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+      "date": "2026-04-21",
+      "platform": "polymarket",
+      "engagement_score": 253,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-22 23:26:59",
+      "url_hash": "9862d92d7b5e60ba",
+      "content_hash": "ff07b5b5cef3021e",
+      "source": "polymarket",
+      "source_tier": "deep",
+      "sources_seen": [
+        "polymarket"
+      ],
+      "snippet": "up 43.5% this month",
+      "last_seen": "2026-04-22T23:26:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": null,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "poly_volume": 2381.4,
+        "poly_liquidity": 6870.4,
+        "poly_movement": "up 43.5% / month",
+        "poly_why": "Market on AI data center moratorium, relevant signal",
+        "poly_score": 60
       }
     },
     {

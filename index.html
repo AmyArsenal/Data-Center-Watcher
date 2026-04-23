@@ -802,25 +802,49 @@
   }
   .subscribe-dock[hidden] { display: none; }
 
-  /* Collapsed pill — what visitors see by default */
+  /* Collapsed button — editorial, not a chat chip */
   .subscribe-dock .dock-pill {
-    display: inline-flex; align-items: center; gap: 8px;
-    padding: 9px 14px 9px 12px;
+    display: inline-flex; flex-direction: column; align-items: flex-start;
+    padding: 10px 18px 12px;
+    background: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--ink);
+    border-radius: 2px;
+    cursor: pointer;
+    text-align: left;
+    box-shadow: 0 10px 28px rgba(26,25,21,0.14);
+    transition: background 180ms ease, color 180ms ease, box-shadow 180ms ease;
+  }
+  .subscribe-dock .dock-pill:hover {
     background: var(--ink);
     color: var(--paper);
-    border: 1px solid var(--ink);
-    border-radius: 999px;
-    font-size: 11.5px;
-    font-weight: 500;
-    letter-spacing: 0.08em;
+    box-shadow: 0 14px 34px rgba(26,25,21,0.24);
+  }
+  .dock-pill-eyebrow {
+    font-family: "Inter", sans-serif;
+    font-size: 9.5px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
-    cursor: pointer;
-    box-shadow: 0 6px 20px rgba(26,25,21,0.18);
+    color: var(--ink-3);
+    margin-bottom: 4px;
+    transition: color 180ms ease;
   }
-  .subscribe-dock .dock-pill:hover { background: #000; }
-  .subscribe-dock .dock-pill .pill-ico {
-    font-size: 13px; line-height: 1;
+  .subscribe-dock .dock-pill:hover .dock-pill-eyebrow { color: #D8D4C2; }
+  .dock-pill-action {
+    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1;
+    display: inline-flex; align-items: center; gap: 8px;
   }
+  .dock-pill-action .arr {
+    font-style: normal;
+    font-size: 14px;
+    transition: transform 180ms ease;
+  }
+  .subscribe-dock .dock-pill:hover .arr { transform: translateX(3px); }
 
   /* Expanded panel — same dock, different inner markup */
   .subscribe-dock.open .dock-pill { display: none; }
@@ -986,6 +1010,7 @@
         <button class="filter-chip" data-platform="legal"><span class="dot" style="background:#5B2A57"></span>Legal</button>
         <button class="filter-chip" data-platform="youtube"><span class="dot" style="background:#B5432C"></span>YouTube</button>
         <button class="filter-chip" data-platform="x"><span class="dot" style="background:#1A1915"></span>X</button>
+        <button class="filter-chip" data-platform="polymarket"><span class="dot" style="background:#2E55A4"></span>Polymarket</button>
       </div>
     </div>
     <div class="feed-scroll" id="feed"></div>
@@ -1483,12 +1508,13 @@ function paintMap(events) {
 
 // --- Social sentiment view: dots sized by engagement, color by dominant category ---
 const PLATFORM_STYLE = {
-  reddit:  { label: 'REDDIT',  color: '#D05A2C' },
-  news:    { label: 'NEWS',    color: '#3E3B33' },
-  legal:   { label: 'LEGAL',   color: '#5B2A57' },
-  x:       { label: 'X',       color: '#1A1915' },
-  youtube: { label: 'YOUTUBE', color: '#B5432C' },
-  tiktok:  { label: 'TIKTOK',  color: '#3E5F4B' },
+  reddit:     { label: 'REDDIT',     color: '#D05A2C' },
+  news:       { label: 'NEWS',       color: '#3E3B33' },
+  legal:      { label: 'LEGAL',      color: '#5B2A57' },
+  x:          { label: 'X',          color: '#1A1915' },
+  youtube:    { label: 'YOUTUBE',    color: '#B5432C' },
+  tiktok:     { label: 'TIKTOK',     color: '#3E5F4B' },
+  polymarket: { label: 'POLYMARKET', color: '#2E55A4' },
 };
 
 function socialStateAgg(code) {
@@ -1972,10 +1998,16 @@ function renderFeedSocial() {
   } else {
     feed.innerHTML = list.map(e => {
       const ps = PLATFORM_STYLE[e.platform] || { label: (e.platform||'').toUpperCase(), color: '#3E3B33' };
+      const pm = (() => {
+        if (e.platform !== 'polymarket') return null;
+        try { return typeof e.platform_metadata === 'string' ? JSON.parse(e.platform_metadata) : e.platform_metadata; }
+        catch { return null; }
+      })();
       const engagement =
-        e.platform === 'reddit' && e.upvotes ? `${e.upvotes.toLocaleString()} upvotes · ${e.comments || 0} comments` :
-        e.platform === 'youtube' && e.views  ? `${e.views.toLocaleString()} views · ${e.likes || 0} likes` :
-        e.platform === 'legal'                ? 'court ruling' :
+        e.platform === 'reddit'     && e.upvotes ? `${e.upvotes.toLocaleString()} upvotes · ${e.comments || 0} comments` :
+        e.platform === 'youtube'    && e.views   ? `${e.views.toLocaleString()} views · ${e.likes || 0} likes` :
+        e.platform === 'legal'                   ? 'court ruling' :
+        e.platform === 'polymarket' && pm        ? `$${(pm.poly_volume || 0).toLocaleString(undefined,{maximumFractionDigits:0})} vol${pm.poly_movement ? ' · ' + pm.poly_movement : ''}` :
         `score ${e.engagement_score}`;
       const stateBadge = e.state === 'US'
         ? '<span class="state-code" style="color:var(--ink-3)">US</span>'
@@ -2079,7 +2111,7 @@ document.querySelectorAll('#view-toggle button').forEach(btn => {
 function renderSocialPage() {
   const root = document.getElementById('social-view');
   // Social view = social platforms only. News + legal live in the State view.
-  const SOCIAL_PLATFORMS = new Set(['x', 'reddit', 'youtube', 'tiktok', 'instagram', 'threads', 'bluesky']);
+  const SOCIAL_PLATFORMS = new Set(['x', 'reddit', 'youtube', 'tiktok', 'instagram', 'threads', 'bluesky', 'polymarket']);
   const items = (SOCIAL_DATA?.items || []).filter(e => SOCIAL_PLATFORMS.has(e.platform));
   const totalLikes    = items.filter(e => e.platform === 'x').reduce((a, e) => a + (e.likes || 0), 0);
   const totalUpvotes  = items.filter(e => e.platform === 'reddit').reduce((a, e) => a + (e.upvotes || 0), 0);
@@ -2367,8 +2399,8 @@ window.addEventListener('resize', () => {
      Newsletter link in the header programmatically expands it. -->
 <aside id="subscribe" class="subscribe-dock" aria-label="Subscribe to the weekly brief">
   <button type="button" class="dock-pill" id="dock-pill-btn" aria-expanded="false" aria-controls="subscribe-panel">
-    <span class="pill-ico" aria-hidden="true">📬</span>
-    Weekly Brief
+    <span class="dock-pill-eyebrow">The Sunday Watch</span>
+    <span class="dock-pill-action">Subscribe <span class="arr" aria-hidden="true">→</span></span>
   </button>
   <div class="dock-panel" id="subscribe-panel" role="dialog" aria-labelledby="subscribe-heading">
     <button type="button" class="dock-close" id="dock-close-btn" aria-label="Close">×</button>

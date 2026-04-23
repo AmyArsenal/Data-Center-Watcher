@@ -54,7 +54,7 @@ if [ "$SKIP_DEEP" -eq 0 ]; then
       --save-suffix="$SUFFIX" \
       --subreddits=energy,urbanplanning,politics,technology,environment,PublicFreakout \
       --x-related=datacenterwatch,heatmapnews,utilitydive \
-      --plan '{"intent":"breaking_news","freshness_mode":"strict_recent","cluster_mode":"story","subqueries":[{"label":"primary","search_query":"data center opposition community protest","ranking_query":"What are US communities doing to oppose data centers?","sources":["reddit","x","youtube","hackernews"],"weight":1.0},{"label":"moratorium","search_query":"data center moratorium state ban","ranking_query":"Which states are passing data center moratoriums?","sources":["x","reddit","youtube"],"weight":0.8}]}' \
+      --plan '{"intent":"breaking_news","freshness_mode":"strict_recent","cluster_mode":"story","subqueries":[{"label":"primary","search_query":"data center opposition community protest","ranking_query":"What are US communities doing to oppose data centers?","sources":["reddit","x","youtube","hackernews","polymarket"],"weight":1.0},{"label":"moratorium","search_query":"data center moratorium state ban","ranking_query":"Which states are passing data center moratoriums?","sources":["x","reddit","youtube","polymarket"],"weight":0.8}]}' \
       > /dev/null
   fi
 fi
@@ -62,13 +62,14 @@ fi
 if [ "$SKIP_DEEP" -eq 0 ]; then
   RAW_FILE="$MEM_DIR/$(echo "$TOPIC" | tr ' ' '-' | tr '[:upper:]' '[:lower:]')-raw-$SUFFIX.md"
   if [ -f "$RAW_FILE" ]; then
-    echo "[3/5] Ingesting X posts from $RAW_FILE"
+    echo "[3/5] Ingesting X posts + Polymarket markets from $RAW_FILE"
     LAST30DAYS_RAW_PATH="$RAW_FILE" "$PY" scripts/ingest_x_from_raw.py
+    LAST30DAYS_RAW_PATH="$RAW_FILE" "$PY" scripts/ingest_polymarket_from_raw.py
   else
-    echo "    WARN: raw file not found at $RAW_FILE — skipping X ingest" >&2
+    echo "    WARN: raw file not found at $RAW_FILE — skipping X/Polymarket ingest" >&2
   fi
 else
-  echo "[3/5] Skipping X ingest (deep tier disabled)"
+  echo "[3/5] Skipping X/Polymarket ingest (deep tier disabled)"
 fi
 
 echo "[4/5] Running fast tier (GDELT / Reddit / outlet RSS / YouTube)"
