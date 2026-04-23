@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-23T12:08:02Z",
+  "generated_at": "2026-04-23T14:09:02Z",
   "window_days": 90,
-  "count": 72,
+  "count": 73,
   "items": [
+    {
+      "id": "rss-dcd-b6e34440a7181895",
+      "state": "OH",
+      "city": null,
+      "category": "protested",
+      "headline": "Mayor of Mansfield, Ohio, says city will \"no longer pursue\" data center project",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/mayor-of-mansfield-ohio-says-city-will-no-longer-pursue-data-center-project",
+      "date": "2026-04-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-23 14:09:02",
+      "url_hash": "b6e34440a7181895",
+      "content_hash": "ea35196a130e4161",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Comes as a blow to data center developer EnergiAcres",
+      "last_seen": "2026-04-23T14:09:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/mayor-of-mansfield-ohio-says-city-will-no-longer-pursue-data-center-project/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-375f91b135002c73",
       "state": "OH",
@@ -30,7 +69,7 @@
         "rss-dcd"
       ],
       "snippet": "But a potential repeal of a zoning ordinance makes its fate uncertain",
-      "last_seen": "2026-04-23T12:08:02Z",
+      "last_seen": "2026-04-23T14:09:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -69,7 +108,7 @@
         "rss-dcd"
       ],
       "snippet": "Bill was introduced yesterday",
-      "last_seen": "2026-04-23T12:08:02Z",
+      "last_seen": "2026-04-23T14:09:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1786,7 +1825,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-23T12:08:02Z",
+      "last_seen": "2026-04-23T14:09:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1866,7 +1905,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-23T12:08:02Z",
+      "last_seen": "2026-04-23T14:09:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1905,7 +1944,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-23T12:08:02Z",
+      "last_seen": "2026-04-23T14:09:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2787,14 +2826,14 @@
   "by_state": {
     "OH": {
       "state": "OH",
-      "count": 2,
+      "count": 3,
       "total_engagement": 949,
       "categories": {
-        "announced": 1,
-        "protested": 1
+        "protested": 2,
+        "announced": 1
       },
       "platforms": {
-        "news": 1,
+        "news": 2,
         "x": 1
       },
       "latest_date": "2026-04-23"
