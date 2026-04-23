@@ -2170,11 +2170,14 @@ function renderSocialPage() {
     </div>
 
     <div class="social-filters">
-      <button class="filter-chip ${activePlatform==='all'?'active':''}" data-sp="all">All</button>
-      <button class="filter-chip ${activePlatform==='x'?'active':''}" data-sp="x"><span class="dot" style="background:#1A1915"></span>X</button>
-      <button class="filter-chip ${activePlatform==='reddit'?'active':''}" data-sp="reddit"><span class="dot" style="background:#D05A2C"></span>Reddit</button>
-      <button class="filter-chip ${activePlatform==='youtube'?'active':''}" data-sp="youtube"><span class="dot" style="background:#B5432C"></span>YouTube</button>
-      <button class="filter-chip ${activePlatform==='tiktok'?'active':''}" data-sp="tiktok"><span class="dot" style="background:#3E5F4B"></span>TikTok</button>
+      <button class="filter-chip ${activePlatform==='all'?'active':''}"       data-sp="all">All</button>
+      <button class="filter-chip ${activePlatform==='x'?'active':''}"         data-sp="x"><span class="dot" style="background:#1A1915"></span>X</button>
+      <button class="filter-chip ${activePlatform==='reddit'?'active':''}"    data-sp="reddit"><span class="dot" style="background:#D05A2C"></span>Reddit</button>
+      <button class="filter-chip ${activePlatform==='tiktok'?'active':''}"    data-sp="tiktok"><span class="dot" style="background:#3E5F4B"></span>TikTok</button>
+      <button class="filter-chip ${activePlatform==='instagram'?'active':''}" data-sp="instagram"><span class="dot" style="background:#C13584"></span>Instagram</button>
+      <button class="filter-chip ${activePlatform==='threads'?'active':''}"   data-sp="threads"><span class="dot" style="background:#4A4A4A"></span>Threads</button>
+      <button class="filter-chip ${activePlatform==='youtube'?'active':''}"   data-sp="youtube"><span class="dot" style="background:#B5432C"></span>YouTube</button>
+      <button class="filter-chip ${activePlatform==='polymarket'?'active':''}" data-sp="polymarket"><span class="dot" style="background:#2E55A4"></span>Polymarket</button>
     </div>
 
     ${topVoices.length ? `
@@ -2189,10 +2192,13 @@ function renderSocialPage() {
       </section>
     ` : ''}
 
-    ${renderSectionIf(byPlatform('x'),      'On X', 'Real-time reactions and breaking threads')}
-    ${renderSectionIf(byPlatform('reddit'), 'On Reddit', 'Community pushback, memes, and thousand-upvote threads')}
-    ${renderSectionIf(byPlatform('youtube'),'On YouTube', 'Video coverage and transcripts')}
-    ${renderSectionIf(byPlatform('tiktok'), 'On TikTok', 'Protest clips, viral reactions')}
+    ${renderSectionIf(byPlatform('x'),          'On X',          'Real-time reactions and breaking threads')}
+    ${renderSectionIf(byPlatform('reddit'),     'On Reddit',     'Community pushback, memes, and thousand-upvote threads')}
+    ${renderSectionIf(byPlatform('tiktok'),     'On TikTok',     'Protest clips, viral reactions')}
+    ${renderSectionIf(byPlatform('instagram'),  'On Instagram',  'Reels from creators, activists, local press')}
+    ${renderSectionIf(byPlatform('threads'),    'On Threads',    'Post-Twitter conversations')}
+    ${renderSectionIf(byPlatform('youtube'),    'On YouTube',    'Video coverage and transcripts')}
+    ${renderSectionIf(byPlatform('polymarket'), 'Polymarket odds', 'What the market is pricing in — real money on the line')}
 
     ${filtered.length === 0 ? `<div class="empty-state" style="padding:60px;text-align:center;color:var(--ink-3);font-style:italic;">No events for this platform filter.</div>` : ''}
   `;
@@ -2248,6 +2254,23 @@ function renderSocialCard(e, featured = false) {
     engagement = `
       <div class="social-card-engagement">${formatBig(e.views)} <span class="unit">VIEWS</span></div>
       <div class="social-card-engagement-sub">${(e.likes||0).toLocaleString()} likes · ${(e.comments||0)} comments · ${daysAgoStr(daysAgo(e.date))}</div>`;
+  } else if ((e.platform === 'tiktok' || e.platform === 'instagram' || e.platform === 'threads') && e.views) {
+    const subBits = [];
+    if (e.likes)    subBits.push(`${e.likes.toLocaleString()} likes`);
+    if (e.comments) subBits.push(`${e.comments.toLocaleString()} comments`);
+    subBits.push(daysAgoStr(daysAgo(e.date)));
+    engagement = `
+      <div class="social-card-engagement">${formatBig(e.views)} <span class="unit">VIEWS</span></div>
+      <div class="social-card-engagement-sub">${subBits.join(' · ')}</div>`;
+  } else if (e.platform === 'polymarket') {
+    let pm = e.platform_metadata;
+    try { if (typeof pm === 'string') pm = JSON.parse(pm); } catch { pm = null; }
+    const move = pm?.poly_movement || '';
+    const vol  = pm?.poly_volume ? `$${Math.round(pm.poly_volume).toLocaleString()} vol` : '';
+    const big  = move ? move.toUpperCase() : 'MARKET';
+    engagement = `
+      <div class="social-card-engagement" style="font-size:22px;letter-spacing:0.02em;">${big}</div>
+      <div class="social-card-engagement-sub">${[vol, daysAgoStr(daysAgo(e.date))].filter(Boolean).join(' · ')}</div>`;
   } else if (e.platform === 'legal') {
     engagement = `
       <div class="social-card-engagement" style="font-size:22px;letter-spacing:0.02em;">COURT RULING</div>
