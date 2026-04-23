@@ -26,7 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from lib.bills  import aggregate_by_state, upsert   # noqa: E402
+from lib.bills  import aggregate_by_state, is_dc_relevant, upsert   # noqa: E402
 from lib.export import read_meta, write_meta        # noqa: E402
 from lib.schema import migrate                      # noqa: E402
 from lib.sources import openstates                  # noqa: E402
@@ -133,8 +133,11 @@ def run(full: bool = False, states: list[str] | None = None) -> int:
 
     raw = openstates.fetch(states=states, updated_since=updated_since)
 
-    inserted = updated = noops = 0
+    inserted = updated = noops = skipped = 0
     for bill in raw:
+        if not is_dc_relevant(bill.get("title") or "", bill.get("summary")):
+            skipped += 1
+            continue
         try:
             r = upsert(conn, bill)
         except Exception as e:
@@ -143,6 +146,28 @@ def run(full: bool = False, states: list[str] | None = None) -> int:
         if r == "inserted":   inserted += 1
         elif r == "updated":  updated += 1
         else:                 noops += 1
+
+    # One-shot cleanup: drop rows whose title+summary no longer mentions a DC
+    # term (noise from earlier runs or upstream changes). Idempotent.
+    removed = conn.execute("""
+        DELETE FROM bills WHERE id IN (
+            SELECT id FROM bills
+            WHERE LOWER(COALESCE(title,'') || ' ' || COALESCE(summary,''))
+                  NOT LIKE '%data center%'
+              AND LOWER(COALESCE(title,'') || ' ' || COALESCE(summary,''))
+                  NOT LIKE '%datacenter%'
+              AND LOWER(COALESCE(title,'') || ' ' || COALESCE(summary,''))
+                  NOT LIKE '%data centre%'
+              AND LOWER(COALESCE(title,'') || ' ' || COALESCE(summary,''))
+                  NOT LIKE '%hyperscale%'
+              AND LOWER(COALESCE(title,'') || ' ' || COALESCE(summary,''))
+                  NOT LIKE '%large-load%'
+              AND LOWER(COALESCE(title,'') || ' ' || COALESCE(summary,''))
+                  NOT LIKE '%large load%'
+        )
+    """).rowcount
+    if removed:
+        logging.info("cleanup: dropped %d stale/irrelevant rows", removed)
     conn.commit()
 
     stats = _export_bills_json(conn, BILLS_JSON)

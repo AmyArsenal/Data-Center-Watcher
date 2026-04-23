@@ -29,6 +29,9 @@ _RESTRICTIVE_RULES: list[tuple[re.Pattern, str]] = [
     (re.compile(r"\bstudy commission\b",       re.I), "study commission"),
     (re.compile(r"\bsuspend\b.*\bapprovals?\b", re.I), "suspend approvals"),
     (re.compile(r"\blimit\b.*\b(MW|megawatt|load)\b", re.I), "MW limit / load cap"),
+    (re.compile(r"\bsurcharge\b.*\b(electricity|energy|data ?centers?)\b", re.I), "DC electricity surcharge"),
+    (re.compile(r"\bfee\b.*\b(data ?centers?|hyperscale)\b", re.I), "fee on data centers"),
+    (re.compile(r"\bimpact (assessment|review)\b.*\bdata ?centers?\b", re.I), "impact assessment required"),
 ]
 
 _PROTECTIVE_RULES: list[tuple[re.Pattern, str]] = [
@@ -50,9 +53,22 @@ _SUPPORTIVE_RULES: list[tuple[re.Pattern, str]] = [
     (re.compile(r"\b(fast[- ]track|expedited) (permit|approval|siting)\b", re.I), "fast-track permitting"),
     (re.compile(r"\bstreamlin(e|ed) (permit|approval|process)\b", re.I), "streamlined permitting"),
     (re.compile(r"\beconomic development incentive\b",           re.I), "economic-development incentive"),
+    (re.compile(r"\bincentiv(e|es)\b.*\b(data ?centers?|hyperscale)\b", re.I), "incentive for data centers"),
+    (re.compile(r"\bqualif(y|ied|ying) data ?centers?\b",        re.I), "qualified-data-center program"),
     (re.compile(r"\bopportunity zone\b.*\b(data center|hyperscale)\b", re.I), "opportunity zone"),
     (re.compile(r"\bworkforce training\b.*\bdata center\b",       re.I), "workforce training"),
 ]
+
+# DC-relevance gate at ingest time. OpenStates full-text search occasionally
+# returns bills where "data center" appears only in sponsor bios, not in the
+# bill itself. Require title or summary to actually mention DCs.
+_DC_TERMS = ("data center", "datacenter", "data centre", "hyperscale",
+             "large-load", "large load", "server farm")
+
+
+def is_dc_relevant(title: str, summary: str | None = None) -> bool:
+    blob = f"{title or ''} {summary or ''}".lower()
+    return any(t in blob for t in _DC_TERMS)
 
 
 def classify(title: str, summary: str | None = None) -> tuple[str, str]:
@@ -183,7 +199,8 @@ def aggregate_by_state(conn: sqlite3.Connection) -> dict[str, dict]:
         """SELECT id, state, bill_number, title, status, status_date, tier,
                   tier_reason, url_openstates, url_source, keywords
            FROM bills
-           WHERE tier IS NOT NULL AND status != 'dead'
+           WHERE tier IN ('restrictive','protective','supportive')
+             AND status != 'dead'
            ORDER BY
              CASE tier
                WHEN 'restrictive' THEN 1
