@@ -1009,6 +1009,9 @@
         <button class="filter-chip" data-platform="news"><span class="dot" style="background:#3E3B33"></span>News</button>
         <button class="filter-chip" data-platform="legal"><span class="dot" style="background:#5B2A57"></span>Legal</button>
         <button class="filter-chip" data-platform="youtube"><span class="dot" style="background:#B5432C"></span>YouTube</button>
+        <button class="filter-chip" data-platform="tiktok"><span class="dot" style="background:#3E5F4B"></span>TikTok</button>
+        <button class="filter-chip" data-platform="instagram"><span class="dot" style="background:#C13584"></span>Instagram</button>
+        <button class="filter-chip" data-platform="threads"><span class="dot" style="background:#4A4A4A"></span>Threads</button>
         <button class="filter-chip" data-platform="x"><span class="dot" style="background:#1A1915"></span>X</button>
         <button class="filter-chip" data-platform="polymarket"><span class="dot" style="background:#2E55A4"></span>Polymarket</button>
       </div>
@@ -1514,6 +1517,8 @@ const PLATFORM_STYLE = {
   x:          { label: 'X',          color: '#1A1915' },
   youtube:    { label: 'YOUTUBE',    color: '#B5432C' },
   tiktok:     { label: 'TIKTOK',     color: '#3E5F4B' },
+  instagram:  { label: 'INSTAGRAM',  color: '#C13584' },
+  threads:    { label: 'THREADS',    color: '#4A4A4A' },
   polymarket: { label: 'POLYMARKET', color: '#2E55A4' },
 };
 
@@ -2003,9 +2008,13 @@ function renderFeedSocial() {
         try { return typeof e.platform_metadata === 'string' ? JSON.parse(e.platform_metadata) : e.platform_metadata; }
         catch { return null; }
       })();
+      const viewsLine = e.views && e.likes
+        ? `${e.views.toLocaleString()} views · ${e.likes.toLocaleString()} likes`
+        : (e.views ? `${e.views.toLocaleString()} views` : (e.likes ? `${e.likes.toLocaleString()} likes` : null));
       const engagement =
         e.platform === 'reddit'     && e.upvotes ? `${e.upvotes.toLocaleString()} upvotes · ${e.comments || 0} comments` :
         e.platform === 'youtube'    && e.views   ? `${e.views.toLocaleString()} views · ${e.likes || 0} likes` :
+        (e.platform === 'tiktok'    || e.platform === 'instagram' || e.platform === 'threads') && viewsLine ? viewsLine :
         e.platform === 'legal'                   ? 'court ruling' :
         e.platform === 'polymarket' && pm        ? `$${(pm.poly_volume || 0).toLocaleString(undefined,{maximumFractionDigits:0})} vol${pm.poly_movement ? ' · ' + pm.poly_movement : ''}` :
         `score ${e.engagement_score}`;

@@ -48,6 +48,10 @@ if [ "$SKIP_DEEP" -eq 0 ]; then
     echo "          (install last30days-full or pass --skip-deep to silence this)"
     SKIP_DEEP=1
   else
+    # Extra sources that require a ScrapeCreators key (stored in
+    # ~/.config/last30days/.env). If key not set, skill will log and skip
+    # those sources; the rest of the pipeline still runs.
+    export INCLUDE_SOURCES="${INCLUDE_SOURCES:-tiktok,instagram,threads}"
     "$PY" "$SKILL_ROOT/scripts/last30days.py" "$TOPIC" \
       --emit=compact \
       --save-dir="$MEM_DIR" \
@@ -62,14 +66,15 @@ fi
 if [ "$SKIP_DEEP" -eq 0 ]; then
   RAW_FILE="$MEM_DIR/$(echo "$TOPIC" | tr ' ' '-' | tr '[:upper:]' '[:lower:]')-raw-$SUFFIX.md"
   if [ -f "$RAW_FILE" ]; then
-    echo "[3/5] Ingesting X posts + Polymarket markets from $RAW_FILE"
+    echo "[3/5] Ingesting X / Polymarket / TikTok / Instagram / Threads from $RAW_FILE"
     LAST30DAYS_RAW_PATH="$RAW_FILE" "$PY" scripts/ingest_x_from_raw.py
     LAST30DAYS_RAW_PATH="$RAW_FILE" "$PY" scripts/ingest_polymarket_from_raw.py
+    LAST30DAYS_RAW_PATH="$RAW_FILE" "$PY" scripts/ingest_social_from_raw.py
   else
-    echo "    WARN: raw file not found at $RAW_FILE — skipping X/Polymarket ingest" >&2
+    echo "    WARN: raw file not found at $RAW_FILE — skipping deep ingest" >&2
   fi
 else
-  echo "[3/5] Skipping X/Polymarket ingest (deep tier disabled)"
+  echo "[3/5] Skipping deep ingest (deep tier disabled)"
 fi
 
 echo "[4/5] Running fast tier (GDELT / Reddit / outlet RSS / YouTube)"
