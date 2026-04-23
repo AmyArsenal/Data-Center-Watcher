@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-04-23T14:09:02Z",
+  "generated_at": "2026-04-23T17:43:21Z",
   "window_days": 90,
-  "count": 73,
+  "count": 76,
   "items": [
+    {
+      "id": "rss-utilitydive-d3df554b86365bde",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "CenterPoint to energize 8 GW of data center load by 2029",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/centerpoint-energy-data-center-load-earnings/818293",
+      "date": "2026-04-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-23 17:43:21",
+      "url_hash": "d3df554b86365bde",
+      "content_hash": "f067b617018842bc",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "Houston is now &ldquo;firmly established as a location of choice for some of the world's largest hyperscalers,&rdquo;&nbsp;CenterPoint&nbsp;CEO Jason Wells said in the company&rsquo;s first quarter earnings call.",
+      "last_seen": "2026-04-23T17:43:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/centerpoint-energy-data-center-load-earnings/818293/",
+        "rss_author": "Robert Walton",
+        "rss_needs_dc_filter": true
+      }
+    },
+    {
+      "id": "rss-utilitydive-a08f97a2e1f9d4b6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "PJM market monitor opposes waivers for Constellation’s Three Mile Island nuclear restart",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/pjm-market-monitor-constellations-nuclear-crane-waiver/818216",
+      "date": "2026-04-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Microsoft",
+        "Constellation"
+      ],
+      "first_seen": "2026-04-23 17:43:21",
+      "url_hash": "a08f97a2e1f9d4b6",
+      "content_hash": "e5ff2d405a195dd5",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "Constellation needs the waivers from the Federal Energy Regulatory Commission to fully deliver power as soon as the unit restarts, possibly next year. It has a 20-year deal to sell all the energy, capacity and clean energy attributes to Microsoft for data centers.",
+      "last_seen": "2026-04-23T17:43:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/pjm-market-monitor-constellations-nuclear-crane-waiver/818216/",
+        "rss_author": "Ethan Howland",
+        "rss_needs_dc_filter": true
+      }
+    },
+    {
+      "id": "rss-dcd-b115d59663df30a9",
+      "state": "MO",
+      "city": null,
+      "category": "protested",
+      "headline": "Planning commission in Franklin County, Missouri, recommends approval of one data center, denies another",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/planning-commission-in-franklin-county-missouri-recommends-approval-of-one-data-center-denies-another",
+      "date": "2026-04-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-23 17:43:21",
+      "url_hash": "b115d59663df30a9",
+      "content_hash": "6ffd535fe05a6299",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "But both projects still need approval from County Commission",
+      "last_seen": "2026-04-23T17:43:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/planning-commission-in-franklin-county-missouri-recommends-approval-of-one-data-center-denies-another/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-b6e34440a7181895",
       "state": "OH",
@@ -30,7 +150,7 @@
         "rss-dcd"
       ],
       "snippet": "Comes as a blow to data center developer EnergiAcres",
-      "last_seen": "2026-04-23T14:09:02Z",
+      "last_seen": "2026-04-23T17:43:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -108,7 +228,7 @@
         "rss-dcd"
       ],
       "snippet": "Bill was introduced yesterday",
-      "last_seen": "2026-04-23T14:09:02Z",
+      "last_seen": "2026-04-23T17:43:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1825,7 +1945,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-23T14:09:02Z",
+      "last_seen": "2026-04-23T17:43:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1905,7 +2025,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-23T14:09:02Z",
+      "last_seen": "2026-04-23T17:43:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1944,7 +2064,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-23T14:09:02Z",
+      "last_seen": "2026-04-23T17:43:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2824,6 +2944,20 @@
     }
   ],
   "by_state": {
+    "MO": {
+      "state": "MO",
+      "count": 8,
+      "total_engagement": 65776,
+      "categories": {
+        "protested": 8
+      },
+      "platforms": {
+        "news": 3,
+        "reddit": 2,
+        "x": 3
+      },
+      "latest_date": "2026-04-23"
+    },
     "OH": {
       "state": "OH",
       "count": 3,
@@ -2864,20 +2998,6 @@
         "x": 3
       },
       "latest_date": "2026-04-23"
-    },
-    "MO": {
-      "state": "MO",
-      "count": 7,
-      "total_engagement": 65776,
-      "categories": {
-        "protested": 7
-      },
-      "platforms": {
-        "reddit": 2,
-        "news": 2,
-        "x": 3
-      },
-      "latest_date": "2026-04-22"
     },
     "OK": {
       "state": "OK",
