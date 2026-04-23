@@ -520,16 +520,45 @@
   .map-legend {
     position: absolute;
     bottom: 36px; left: 36px;
-    display: flex; gap: 28px;
+    display: flex; flex-direction: column; gap: 10px;
     font-family: "Inter", sans-serif;
     font-size: 10.5px;
     color: var(--ink-3);
     text-transform: uppercase;
     letter-spacing: 0.12em;
   }
+  .map-legend-row { display: flex; gap: 28px; flex-wrap: wrap; }
   .legend-item { display: flex; align-items: center; gap: 9px; }
   .legend-swatch {
     width: 10px; height: 10px; border-radius: 2px;
+  }
+
+  .layer-toggle {
+    display: inline-flex;
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    overflow: hidden;
+    background: var(--paper-2);
+  }
+  .layer-toggle button {
+    background: transparent;
+    border: none;
+    padding: 5px 11px;
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-3);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    cursor: pointer;
+    border-right: 1px solid var(--rule-strong);
+    transition: all 160ms ease;
+  }
+  .layer-toggle button:last-child { border-right: none; }
+  .layer-toggle button:hover { color: var(--ink); }
+  .layer-toggle button.active {
+    background: var(--ink);
+    color: var(--paper);
   }
 
   .map-intro {
@@ -972,10 +1001,22 @@
   <div class="map-panel">
     <svg id="map"></svg>
     <div class="map-legend">
-      <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-banned)"></span>Banned / Moratorium</div>
-      <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-cancelled)"></span>Cancelled</div>
-      <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-protested)"></span>Contested</div>
-      <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-announced)"></span>Announced</div>
+      <div class="layer-toggle" id="map-layer-toggle" role="tablist" aria-label="Map layer">
+        <button class="active" data-layer="events" role="tab" aria-selected="true">Events</button>
+        <button              data-layer="bills"  role="tab" aria-selected="false">Bills</button>
+      </div>
+      <div class="map-legend-row" id="legend-events">
+        <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-banned)"></span>Banned / Moratorium</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-cancelled)"></span>Cancelled</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-protested)"></span>Contested</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-announced)"></span>Announced</div>
+      </div>
+      <div class="map-legend-row" id="legend-bills" hidden>
+        <div class="legend-item"><span class="legend-swatch" style="background:#8B1A1A"></span>Enacted restrictive</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#C2521C"></span>Passed chamber</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#D99A34"></span>In committee</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#2E55A4"></span>Supportive</div>
+      </div>
     </div>
     <div class="tooltip" id="tooltip"></div>
   </div>
@@ -1116,6 +1157,44 @@ const CAT_COLOR = {
 // ============================================================================
 let FAST_EVENTS = [];
 let FAST_META   = null;
+
+// Bills layer — hourly OpenStates pull, data/bills.json
+let BILLS_DATA  = { items: [], by_state: {} };
+let mapLayer    = 'events';   // 'events' | 'bills'
+
+// Bill tier → map color (paper/ink aesthetic, tuned to existing palette)
+const BILL_COLOR = {
+  // restrictive (red-ochre family, weight by status)
+  'restrictive:enacted':          '#8B1A1A',
+  'restrictive:passed-both':      '#A0321C',
+  'restrictive:passed-upper':     '#C2521C',
+  'restrictive:passed-lower':     '#C2521C',
+  'restrictive:passed-committee': '#D99A34',
+  'restrictive:in-committee':     '#D99A34',
+  'restrictive:introduced':       '#D99A34',
+  // protective (muted amber, lower priority visually)
+  'protective:enacted':           '#A97B23',
+  'protective:passed-both':       '#B58834',
+  'protective:passed-upper':      '#B58834',
+  'protective:passed-lower':      '#B58834',
+  'protective:passed-committee':  '#C6A364',
+  'protective:in-committee':      '#C6A364',
+  'protective:introduced':        '#C6A364',
+  // supportive (blue — friendly-for-developer signal)
+  'supportive:enacted':           '#2E55A4',
+  'supportive:passed-both':       '#4168B5',
+  'supportive:passed-upper':      '#4168B5',
+  'supportive:passed-lower':      '#4168B5',
+  'supportive:passed-committee':  '#6A86C3',
+  'supportive:in-committee':      '#6A86C3',
+  'supportive:introduced':        '#6A86C3',
+};
+
+function billColor(agg) {
+  if (!agg) return null;
+  const k = `${agg.map_color_tier}:${agg.map_color_status}`;
+  return BILL_COLOR[k] || '#A97B23';
+}
 
 async function fetchFastEvents() {
   try {
@@ -1610,14 +1689,18 @@ function showSocialTooltip(event, code, agg) {
 function paintMapState(events) {
   statesFeatures.forEach(d => {
     const code = FIPS_TO_STATE[String(d.id).padStart(2,'0')];
-    const s = stateSummary(code, events);
+    const s    = stateSummary(code, events);
+    const bill = (BILLS_DATA.by_state || {})[code];
 
-    // hit area
+    // hit area always covers the state, tooltip switches on layer
     svgLayers.hits.append('path')
       .datum(d)
       .attr('class','state-hit')
       .attr('d', pathFn(d))
-      .on('mouseenter', (event) => { if (s) showTooltip(event, code, s); })
+      .on('mouseenter', (event) => {
+        if (mapLayer === 'bills' && bill) showBillTooltip(event, code, bill);
+        else if (mapLayer === 'events' && s) showTooltip(event, code, s);
+      })
       .on('mousemove', (event) => {
         const tt = document.getElementById('tooltip');
         tt.style.left = (event.clientX + 18) + 'px';
@@ -1625,6 +1708,22 @@ function paintMapState(events) {
       })
       .on('mouseleave', () => document.getElementById('tooltip').style.opacity = 0)
       .on('click', () => { if (s) filterByState(code); });
+
+    // Bills layer: color from the state's active-bill tier+status
+    if (mapLayer === 'bills') {
+      if (!bill) return;
+      const c = billColor(bill);
+      if (!c) return;
+      svgLayers.fills.append('path')
+        .attr('class','state-fill')
+        .attr('d', pathFn(d))
+        .attr('fill', c)
+        .attr('fill-opacity', bill.map_color_status === 'enacted' ? 0.55 : 0.32)
+        .attr('stroke', c)
+        .attr('stroke-opacity', 0.72)
+        .attr('stroke-width', 0.9);
+      return;
+    }
 
     if (!s) return;
 
@@ -1857,6 +1956,49 @@ function showTooltip(event, code, s) {
   tt.style.top  = (event.clientY + 18) + 'px';
 }
 
+const BILL_STATUS_LABEL = {
+  'enacted':          'ENACTED',
+  'passed-both':      'PASSED BOTH CHAMBERS',
+  'passed-upper':     'PASSED UPPER CHAMBER',
+  'passed-lower':     'PASSED LOWER CHAMBER',
+  'passed-committee': 'PASSED COMMITTEE',
+  'in-committee':     'IN COMMITTEE',
+  'introduced':       'INTRODUCED',
+};
+
+function showBillTooltip(event, code, agg) {
+  const tt = document.getElementById('tooltip');
+  const cts = agg.tier_counts || {};
+  const tierLine = [
+    cts.restrictive ? `<span style="color:#8B1A1A">${cts.restrictive} restrictive</span>` : '',
+    cts.protective  ? `<span style="color:#A97B23">${cts.protective} protective</span>`   : '',
+    cts.supportive  ? `<span style="color:#2E55A4">${cts.supportive} supportive</span>`   : '',
+  ].filter(Boolean).join(' · ');
+
+  const featured = (agg.featured || []).slice(0, 3).map(b => `
+    <div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--rule);">
+      <div style="font-family:Inter,sans-serif;font-size:10px;font-weight:600;letter-spacing:0.1em;color:${
+        b.tier === 'restrictive' ? '#8B1A1A' : b.tier === 'supportive' ? '#2E55A4' : '#A97B23'
+      }">
+        ${b.bill_number || ''} · ${BILL_STATUS_LABEL[b.status] || b.status}
+      </div>
+      <div style="font-family:'Tiempos Text','Source Serif 4',Georgia,serif;font-size:12px;color:var(--ink);margin-top:3px;line-height:1.3;">
+        ${b.title.length > 90 ? b.title.slice(0, 87) + '…' : b.title}
+      </div>
+      ${b.tier_reason ? `<div style="font-family:Inter,sans-serif;font-size:9.5px;color:var(--ink-3);margin-top:2px;">${b.tier_reason} · ${b.status_date || ''}</div>` : ''}
+    </div>
+  `).join('');
+
+  tt.innerHTML = `
+    <div class="tt-state">${STATE_NAMES[code] || code}</div>
+    <div class="tt-count">${tierLine || 'No active DC-related bills'}</div>
+    ${featured}
+  `;
+  tt.style.opacity = 1;
+  tt.style.left = (event.clientX + 18) + 'px';
+  tt.style.top  = (event.clientY + 18) + 'px';
+}
+
 // ============================================================================
 //  FEED
 // ============================================================================
@@ -1914,6 +2056,19 @@ let allEvents = [];
 // Social events now live in data/social_events.json — committed by run_daily.sh
 // and served by Pages. Starts empty, populates on first refresh().
 let SOCIAL_DATA = { items: [], by_state: {} };
+
+async function fetchBillsData() {
+  try {
+    const resp = await fetch(`data/bills.json?v=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    BILLS_DATA = data || { items: [], by_state: {} };
+    console.log('[bills] Loaded', (BILLS_DATA.items?.length || 0), 'bills across',
+                Object.keys(BILLS_DATA.by_state || {}).length, 'states');
+  } catch (err) {
+    console.warn('bills.json fetch failed (expected until first OpenStates run):', err);
+  }
+}
 
 async function fetchSocialData() {
   try {
@@ -2090,6 +2245,23 @@ document.querySelectorAll('#company-filters .filter-chip').forEach(chip => {
 });
 
 // Sort toggle (Top / Latest) — applies to both State and Social views
+// Map layer toggle (Events / Bills). Re-paints the map but leaves the
+// feed/ticker alone — they're always event-driven.
+document.querySelectorAll('#map-layer-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#map-layer-toggle button').forEach(b => {
+      b.classList.remove('active');
+      b.setAttribute('aria-selected', 'false');
+    });
+    btn.classList.add('active');
+    btn.setAttribute('aria-selected', 'true');
+    mapLayer = btn.dataset.layer;
+    document.getElementById('legend-events').hidden = (mapLayer !== 'events');
+    document.getElementById('legend-bills').hidden  = (mapLayer !== 'bills');
+    paintMap(allEvents);
+  });
+});
+
 document.querySelectorAll('#sort-toggle button').forEach(btn => {
   btn.addEventListener('click', () => {
     document.querySelectorAll('#sort-toggle button').forEach(b => {
@@ -2407,13 +2579,14 @@ function socialGeoEvents() {
 }
 
 async function refresh() {
-  // Fast (data/news.json), Live (GDELT direct), Social (social_events.json)
-  // all fly in parallel.
+  // Fast (data/news.json), Live (GDELT direct), Social (social_events.json),
+  // and Bills (bills.json, hourly) all fly in parallel.
   const [live, fast, meta] = await Promise.all([
     fetchLiveEvents(),
     fetchFastEvents(),
     fetchMeta(),
     fetchSocialData(),
+    fetchBillsData(),
   ]);
   FAST_EVENTS = fast;
   FAST_META   = meta;

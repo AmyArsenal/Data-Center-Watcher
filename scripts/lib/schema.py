@@ -64,6 +64,41 @@ _EXTRA_INDEXES = [
     "CREATE INDEX        IF NOT EXISTS idx_events_source_tier  ON events(source_tier)",
 ]
 
+# Legislative bills — legal-tier signal (stronger than news/social for
+# developer site-screening). Populated from OpenStates API.
+BILLS_SCHEMA = """
+CREATE TABLE IF NOT EXISTS bills (
+  id                       TEXT PRIMARY KEY,      -- "openstates:<ocd-bill-id>"
+  state                    TEXT NOT NULL,         -- "ME", "VA", "TX" ...
+  bill_number              TEXT,                  -- "LD 307", "SB 1038"
+  session                  TEXT,                  -- "2025-2026"
+  title                    TEXT NOT NULL,
+  summary                  TEXT,
+  status                   TEXT,                  -- introduced | in-committee |
+                                                  -- passed-lower | passed-upper |
+                                                  -- passed-both | enacted | vetoed | dead
+  status_date              TEXT,
+  introduced_date          TEXT,
+  last_action_date         TEXT,
+  last_action_description  TEXT,
+  sponsors                 TEXT,                  -- JSON: [{name, party, primary}]
+  subjects                 TEXT,                  -- JSON from OpenStates
+  tier                     TEXT,                  -- restrictive | protective |
+                                                  -- supportive | unclear
+  tier_reason              TEXT,
+  keywords                 TEXT,                  -- JSON array
+  url_openstates           TEXT,
+  url_source               TEXT,                  -- legislature.state.xx.us
+  first_seen               TEXT DEFAULT CURRENT_TIMESTAMP,
+  last_seen                TEXT
+);
+
+CREATE INDEX IF NOT EXISTS idx_bills_state     ON bills(state);
+CREATE INDEX IF NOT EXISTS idx_bills_tier      ON bills(tier);
+CREATE INDEX IF NOT EXISTS idx_bills_status    ON bills(status);
+CREATE INDEX IF NOT EXISTS idx_bills_last_seen ON bills(last_seen DESC);
+"""
+
 
 def _existing_columns(conn: sqlite3.Connection) -> set[str]:
     return {row[1] for row in conn.execute("PRAGMA table_info(events)").fetchall()}
@@ -84,6 +119,14 @@ def migrate(conn: sqlite3.Connection) -> list[str]:
 
     for idx_sql in _EXTRA_INDEXES:
         conn.execute(idx_sql)
+
+    # bills table + its indexes (no ALTER needed — pure CREATE IF NOT EXISTS)
+    had_bills = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='bills'"
+    ).fetchone() is not None
+    conn.executescript(BILLS_SCHEMA)
+    if not had_bills:
+        applied.append("+table bills")
 
     conn.commit()
     return applied

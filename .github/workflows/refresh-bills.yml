@@ -1,0 +1,56 @@
+name: Bills refresh
+
+# Pulls legislative bills via OpenStates, classifies them
+# (restrictive / protective / supportive), upserts into data/news.db,
+# and re-exports data/bills.json. Runs hourly — bills rarely move faster
+# than that, and the incremental `updated_since` window means each run
+# is cheap on both our API quota and GitHub minutes.
+#
+# Without OPENSTATES_API_KEY the script exits 0 with a noop, so forks
+# and dev environments don't break CI.
+
+on:
+  schedule:
+    - cron: '7 * * * *'   # every hour at :07 to stagger from refresh-fast
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-bills
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run bills refresh
+        env:
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+        run: python scripts/refresh_bills.py
+
+      - name: Commit & push if bills changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bills.json data/meta.json data/news.db
+          if git diff --staged --quiet; then
+            echo "::notice::no bill changes — skipping commit"
+            exit 0
+          fi
+          git commit -m "data: bills refresh $(date -u +%FT%H:%MZ)"
+          git pull --rebase -X ours origin main || true
+          git push
