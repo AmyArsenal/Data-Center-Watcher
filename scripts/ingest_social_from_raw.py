@@ -37,9 +37,9 @@ DEFAULT_RAW = Path(os.environ.get(
     str(Path.home() / "Documents/Last30Days/data-center-oppositions-in-us-raw-v3.md"),
 ))
 
-SUPPORTED = ("tiktok", "instagram", "threads")
+SUPPORTED = ("tiktok", "instagram", "threads", "youtube")
 
-ITEM_RE     = re.compile(r"^\s*\d+\.\s+\[(tiktok|instagram|threads)\]\s+(.+?)\s*$")
+ITEM_RE     = re.compile(r"^\s*\d+\.\s+\[(tiktok|instagram|threads|youtube)\]\s+(.+?)\s*$")
 STATS_RE    = re.compile(r"^\s*-\s*(\d{4}-\d{2}-\d{2})\s*\|\s*([^|]+?)\s*\|\s*\[([^\]]+)\]\s*\|\s*score\s*:\s*(\d+)(?:\s*\|\s*fun\s*:\s*(\d+))?", re.I)
 URL_RE      = re.compile(r"^\s*-\s*URL\s*:\s*(\S+)", re.I)
 WHY_RE      = re.compile(r"^\s*-\s*Why\s*:\s*(.+)$", re.I)

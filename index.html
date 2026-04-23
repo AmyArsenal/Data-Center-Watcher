@@ -127,6 +127,11 @@
     margin: 0 auto 28px;
     display: flex; flex-wrap: wrap; gap: 6px;
   }
+  .social-sort-row {
+    max-width: 1200px;
+    margin: 0 auto 10px;
+    display: flex; justify-content: flex-end;
+  }
 
   .social-section {
     max-width: 1200px;
@@ -2129,13 +2134,14 @@ function renderSocialPage() {
   // Apply platform filter to all sections
   const filtered = activePlatform === 'all' ? items : items.filter(e => e.platform === activePlatform);
 
-  // Top Voices = top 4 by engagement (any platform)
-  const topVoices = [...filtered].sort((a,b) => (b.engagement_score||0) - (a.engagement_score||0)).slice(0, 4);
+  // Tag with _engagement so topScore() picks it up in sortByFeedMode()
+  const annotated = filtered.map(e => ({ ...e, _engagement: e.engagement_score }));
 
-  // Group the rest by platform
-  const byPlatform = (p) => filtered
-    .filter(e => e.platform === p)
-    .sort((a,b) => (b.engagement_score||0) - (a.engagement_score||0));
+  // Top Voices = top 4 by the active sort (Top = impact-weighted, Latest = newest)
+  const topVoices = sortByFeedMode(annotated).slice(0, 4);
+
+  // Group the rest by platform; same sort mode per section
+  const byPlatform = (p) => sortByFeedMode(annotated.filter(e => e.platform === p));
 
   root.innerHTML = `
     <div class="social-masthead">
@@ -2166,6 +2172,13 @@ function renderSocialPage() {
           <span class="social-metric-val">${new Set(items.map(e => e.source_name)).size}</span>
           <span class="social-metric-label">Sources</span>
         </div>
+      </div>
+    </div>
+
+    <div class="social-sort-row">
+      <div class="sort-toggle" id="social-sort-toggle" role="tablist" aria-label="Sort posts">
+        <button class="${feedSort==='top'?'active':''}"    data-ssort="top"    role="tab" aria-selected="${feedSort==='top'}">Top</button>
+        <button class="${feedSort==='latest'?'active':''}" data-ssort="latest" role="tab" aria-selected="${feedSort==='latest'}">Latest</button>
       </div>
     </div>
 
@@ -2207,6 +2220,19 @@ function renderSocialPage() {
   root.querySelectorAll('.social-filters .filter-chip').forEach(chip => {
     chip.addEventListener('click', () => {
       activePlatform = chip.dataset.sp;
+      renderSocialPage();
+    });
+  });
+  // Wire Top / Latest toggle (shared feedSort across views)
+  root.querySelectorAll('#social-sort-toggle button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      feedSort = btn.dataset.ssort;
+      // Keep the state-view's toggle in sync if user flips back
+      document.querySelectorAll('#sort-toggle button').forEach(b => {
+        const active = b.dataset.sort === feedSort;
+        b.classList.toggle('active', active);
+        b.setAttribute('aria-selected', String(active));
+      });
       renderSocialPage();
     });
   });
