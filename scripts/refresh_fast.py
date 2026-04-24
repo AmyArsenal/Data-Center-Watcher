@@ -29,13 +29,14 @@ from lib.classify import (                # noqa: E402
     classify_category, detect_state, extract_companies, relevance_score,
 )
 from lib.events import upsert              # noqa: E402
-from lib.export import export_news, read_meta, write_meta  # noqa: E402
+from lib.export import export_actions, export_news, read_meta, write_meta  # noqa: E402
 from lib.schema import migrate             # noqa: E402
 from lib.sources import gdelt, reddit, rss, youtube  # noqa: E402
 
-DB_PATH = ROOT / "data" / "news.db"
-NEWS_JSON = ROOT / "data" / "news.json"
-META_JSON = ROOT / "data" / "meta.json"
+DB_PATH      = ROOT / "data" / "news.db"
+NEWS_JSON    = ROOT / "data" / "news.json"
+META_JSON    = ROOT / "data" / "meta.json"
+ACTIONS_JSON = ROOT / "data" / "actions.json"
 
 MIN_RELEVANCE = 0.30
 
@@ -133,7 +134,22 @@ def run(skip_youtube: bool = False, min_relevance: float = MIN_RELEVANCE) -> int
 
     conn.close()
 
+    # Refresh the actions table from anything new in events/bills, then export.
+    # Cheap to re-run end-to-end (~50ms for ~300 rows), and means actions.json
+    # stays in sync with the 15-min news refresh without a separate cron.
+    try:
+        import subprocess
+        subprocess.run(
+            [sys.executable, str(ROOT / "scripts" / "migrate_events_to_actions.py")],
+            check=False, capture_output=True,
+        )
+    except Exception as e:
+        logging.warning("actions migration step failed: %s", e)
+
     count, counts_by_source = export_news(DB_PATH, NEWS_JSON)
+    actions_stats = export_actions(DB_PATH, ACTIONS_JSON)
+    logging.info("actions.json: %d items across %d states",
+                 actions_stats["count"], actions_stats["states"])
 
     prev_meta = read_meta(META_JSON)
     tier_ts = dict(prev_meta.get("tier_timestamps") or {})

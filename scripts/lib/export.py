@@ -106,6 +106,47 @@ def write_meta(
     out_path.write_text(json.dumps(payload, indent=2))
 
 
+def export_actions(db_path: Path, out_path: Path) -> dict:
+    """Write data/actions.json — items[] + by_state{} for the dense UI.
+
+    Every action carries enough fields for the sidebar card + detail modal.
+    """
+    import sqlite3
+    from .actions import aggregate_by_state, ISSUE_LABELS
+
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    rows = conn.execute(
+        """SELECT * FROM actions
+           ORDER BY date DESC, id"""
+    ).fetchall()
+
+    items = []
+    for r in rows:
+        d = dict(r)
+        for col in ("action_type", "issue_category", "opposition_groups", "sources"):
+            if d.get(col):
+                try: d[col] = json.loads(d[col])
+                except json.JSONDecodeError: d[col] = []
+            else:
+                d[col] = []
+        items.append(d)
+
+    by_state = aggregate_by_state(conn)
+    conn.close()
+
+    payload = {
+        "generated_at":   _utcnow_iso(),
+        "count":          len(items),
+        "issue_labels":   ISSUE_LABELS,
+        "items":          items,
+        "by_state":       by_state,
+    }
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    return {"count": len(items), "states": len(by_state)}
+
+
 def read_meta(out_path: Path) -> dict:
     if not out_path.exists():
         return {}

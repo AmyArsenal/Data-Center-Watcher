@@ -64,6 +64,77 @@ _EXTRA_INDEXES = [
     "CREATE INDEX        IF NOT EXISTS idx_events_source_tier  ON events(source_tier)",
 ]
 
+# Community + legislative actions — the dense layer.
+# Schema mirrors datacentertracker.org's fights.json (CC BY 4.0) so we can
+# bulk-import their 956-record historical dataset and round-trip diffs cleanly,
+# plus our developer-tier classification on top.
+ACTIONS_SCHEMA = """
+CREATE TABLE IF NOT EXISTS actions (
+  id                       TEXT PRIMARY KEY,
+  origin                   TEXT NOT NULL,         -- 'datacentertracker' | 'openstates' | 'manual'
+
+  -- Geo
+  state                    TEXT NOT NULL,
+  county                   TEXT,
+  jurisdiction             TEXT,
+  lat                      REAL,
+  lng                      REAL,
+
+  -- Action
+  scope                    TEXT,                  -- local | statewide | federal
+  action_type              TEXT,                  -- JSON array
+  authority_level          TEXT,                  -- county_commission, city_council, ...
+  date                     TEXT,                  -- ISO YYYY-MM-DD
+  status                   TEXT,                  -- procedural: active|pending|passed|...
+  community_outcome        TEXT,                  -- pending|win|loss|mixed
+
+  -- Issue (16 tags from datacentertracker.org)
+  issue_category           TEXT,                  -- JSON array
+
+  -- Project economics
+  company                  TEXT,
+  hyperscaler              TEXT,
+  project_name             TEXT,
+  investment_million_usd   REAL,
+  megawatts                REAL,
+  acreage                  REAL,
+  building_sq_ft           REAL,
+  water_usage_gallons_per_day REAL,
+  jobs_promised            INTEGER,
+
+  -- Opposition
+  opposition_groups        TEXT,                  -- JSON array
+  opposition_website       TEXT,
+  opposition_facebook      TEXT,
+  opposition_instagram     TEXT,
+  opposition_twitter       TEXT,
+  petition_url             TEXT,
+  petition_signatures      INTEGER,
+
+  -- Provenance
+  summary                  TEXT,
+  sources                  TEXT,                  -- JSON array
+  data_source              TEXT,                  -- their classification
+  last_updated             TEXT,
+  first_seen               TEXT DEFAULT CURRENT_TIMESTAMP,
+
+  -- Bill-specific (when origin='openstates')
+  bill_number              TEXT,
+  bill_session             TEXT,
+
+  -- Our developer-tier classification (parallel to community_outcome)
+  tier                     TEXT,                  -- restrictive|protective|supportive|unclear
+  tier_reason              TEXT
+);
+
+CREATE INDEX IF NOT EXISTS idx_actions_state          ON actions(state);
+CREATE INDEX IF NOT EXISTS idx_actions_outcome        ON actions(community_outcome);
+CREATE INDEX IF NOT EXISTS idx_actions_tier           ON actions(tier);
+CREATE INDEX IF NOT EXISTS idx_actions_scope          ON actions(scope);
+CREATE INDEX IF NOT EXISTS idx_actions_date           ON actions(date DESC);
+CREATE INDEX IF NOT EXISTS idx_actions_origin         ON actions(origin);
+"""
+
 # Legislative bills — legal-tier signal (stronger than news/social for
 # developer site-screening). Populated from OpenStates API.
 BILLS_SCHEMA = """
@@ -127,6 +198,14 @@ def migrate(conn: sqlite3.Connection) -> list[str]:
     conn.executescript(BILLS_SCHEMA)
     if not had_bills:
         applied.append("+table bills")
+
+    # actions table — broader than bills, mirrors datacentertracker.org schema
+    had_actions = conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' AND name='actions'"
+    ).fetchone() is not None
+    conn.executescript(ACTIONS_SCHEMA)
+    if not had_actions:
+        applied.append("+table actions")
 
     conn.commit()
     return applied

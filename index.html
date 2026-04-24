@@ -1145,6 +1145,129 @@
     font-size: 13px;
   }
 
+  /* Dense action cards (datacentertracker.org-grade density) */
+  .bp-search {
+    width: 100%;
+    padding: 8px 10px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    background: var(--paper);
+    outline: none;
+  }
+  .bp-search:focus { border-color: var(--ink); }
+
+  .ac-group { margin-bottom: 18px; }
+  .ac-group-head {
+    display: flex; align-items: baseline; justify-content: space-between;
+    margin: 6px 0 8px 0;
+    padding-bottom: 4px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .ac-group-head h3 {
+    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+    font-size: 15px; font-weight: 400;
+    margin: 0; color: var(--ink);
+    letter-spacing: -0.005em;
+  }
+  .ac-group-count {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    color: var(--ink-3);
+    letter-spacing: 0.12em;
+  }
+  .ac-group-toggle {
+    width: 100%;
+    margin-top: 4px;
+    padding: 6px 0;
+    background: transparent;
+    border: 1px dashed var(--rule);
+    border-radius: 2px;
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    color: var(--ink-3);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    cursor: pointer;
+  }
+  .ac-group-toggle:hover { color: var(--ink); border-color: var(--ink-3); }
+
+  .action-card {
+    position: relative;
+    padding: 10px 12px 10px 14px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    transition: border-color 140ms ease;
+  }
+  .action-card:hover { border-color: var(--ink); }
+  .action-card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--ac-tier-color, var(--rule-strong));
+  }
+  .ac-head {
+    display: flex; align-items: baseline; gap: 8px;
+    margin-bottom: 4px;
+    font-family: "Inter", sans-serif;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  .ac-state {
+    color: var(--ink); font-weight: 600;
+  }
+  .ac-juris {
+    color: var(--ink-3);
+    font-weight: 500;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .ac-outcome {
+    margin-left: auto;
+    padding: 1px 7px;
+    border-radius: 2px;
+    color: var(--paper);
+    font-weight: 600;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    flex-shrink: 0;
+  }
+  .ac-title {
+    font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+    font-size: 13px;
+    color: var(--ink);
+    line-height: 1.35;
+    margin-bottom: 6px;
+  }
+  .ac-tags {
+    display: flex; flex-wrap: wrap; gap: 4px;
+    margin-bottom: 6px;
+  }
+  .ac-tag {
+    padding: 1px 6px;
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    font-family: "Inter", sans-serif;
+    font-size: 9px;
+    color: var(--ink-2);
+    letter-spacing: 0.04em;
+  }
+  .ac-meta {
+    font-family: "Inter", sans-serif;
+    font-size: 9.5px;
+    color: var(--ink-3);
+    letter-spacing: 0.06em;
+  }
+
   /* scrollbar */
   .feed-scroll::-webkit-scrollbar { width: 4px; }
   .feed-scroll::-webkit-scrollbar-track { background: transparent; }
@@ -1200,10 +1323,10 @@
         <div class="legend-item"><span class="legend-swatch" style="background:var(--cat-announced)"></span>Announced</div>
       </div>
       <div class="map-legend-row" id="legend-bills" hidden>
-        <div class="legend-item"><span class="legend-swatch" style="background:#8B1A1A"></span>Enacted restrictive</div>
-        <div class="legend-item"><span class="legend-swatch" style="background:#C2521C"></span>Passed chamber</div>
-        <div class="legend-item"><span class="legend-swatch" style="background:#D99A34"></span>In committee</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#8B1A1A"></span>Restrictive</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#A97B23"></span>Protective</div>
         <div class="legend-item"><span class="legend-swatch" style="background:#2E55A4"></span>Supportive</div>
+        <div class="legend-item" style="margin-left:14px;color:var(--ink-faint)">Opacity = action density</div>
       </div>
     </div>
     <div class="tooltip" id="tooltip"></div>
@@ -1347,13 +1470,18 @@ const CAT_COLOR = {
 let FAST_EVENTS = [];
 let FAST_META   = null;
 
-// Bills layer — hourly OpenStates pull, data/bills.json
-let BILLS_DATA  = { items: [], by_state: {} };
-let mapLayer    = 'events';   // 'events' | 'bills'
+// Bills/Actions layer — densely populated from data/actions.json
+let BILLS_DATA   = { items: [], by_state: {} };
+let ACTIONS_DATA = { items: [], by_state: {}, issue_labels: {} };
+let mapLayer     = 'events';   // 'events' | 'bills'
 
-// Bills sidebar state
-let billsFilterState = 'ALL';
-let billsFilterTier  = 'all';
+// Bills sidebar state — datacentertracker.org-grade density
+let billsFilterState   = 'ALL';
+let billsFilterOutcome = 'all';      // pending | win | loss | mixed | all
+let billsFilterIssue   = 'all';      // any of 16 ISSUE tags
+let billsFilterScope   = 'all';      // local | statewide | federal | all
+let billsGroupBy       = 'state';    // state | outcome | issue
+let billsSearch        = '';
 
 // Bill tier → map color (paper/ink aesthetic, tuned to existing palette)
 const BILL_COLOR = {
@@ -1880,10 +2008,14 @@ function showSocialTooltip(event, code, agg) {
 }
 
 function paintMapState(events) {
+  // Densest action count → opacity scale calibrated to "looks like a heatmap"
+  const actionsByState = ACTIONS_DATA.by_state || {};
+  const maxCount = Math.max(1, ...Object.values(actionsByState).map(s => s.count || 0));
+
   statesFeatures.forEach(d => {
     const code = FIPS_TO_STATE[String(d.id).padStart(2,'0')];
     const s    = stateSummary(code, events);
-    const bill = (BILLS_DATA.by_state || {})[code];
+    const act  = actionsByState[code];
 
     // hit area always covers the state, tooltip switches on layer
     svgLayers.hits.append('path')
@@ -1891,7 +2023,7 @@ function paintMapState(events) {
       .attr('class','state-hit')
       .attr('d', pathFn(d))
       .on('mouseenter', (event) => {
-        if (mapLayer === 'bills' && bill) showBillTooltip(event, code, bill);
+        if (mapLayer === 'bills' && act) showActionsTooltip(event, code, act);
         else if (mapLayer === 'events' && s) showTooltip(event, code, s);
       })
       .on('mousemove', (event) => {
@@ -1910,19 +2042,32 @@ function paintMapState(events) {
         if (s) filterByState(code);
       });
 
-    // Bills layer: color from the state's active-bill tier+status
+    // Bills/Actions layer: color from worst-case tier; opacity scales with density
     if (mapLayer === 'bills') {
-      if (!bill) return;
-      const c = billColor(bill);
-      if (!c) return;
+      if (!act) return;
+      const tier = act.map_color_tier || 'unclear';
+      const c = BILL_TIER_COLOR[tier] || BILL_TIER_COLOR.unclear;
+      const density = (act.count || 1) / maxCount;
+      const opacity = 0.20 + density * 0.55;   // 0.20–0.75 based on density
       svgLayers.fills.append('path')
         .attr('class','state-fill')
         .attr('d', pathFn(d))
         .attr('fill', c)
-        .attr('fill-opacity', bill.map_color_status === 'enacted' ? 0.55 : 0.32)
+        .attr('fill-opacity', opacity)
         .attr('stroke', c)
         .attr('stroke-opacity', 0.72)
         .attr('stroke-width', 0.9);
+
+      // Action-count badge
+      const [cx, cy] = pathFn.centroid(d);
+      if (!isNaN(cx) && (act.count || 0) >= 3) {
+        const g = svgLayers.dots.append('g').attr('transform', `translate(${cx},${cy})`);
+        g.append('text').attr('text-anchor','middle').attr('dy','0.35em')
+          .attr('fill', '#1A1915')
+          .attr('stroke', 'var(--paper)').attr('stroke-width', '3').attr('paint-order', 'stroke fill')
+          .attr('font-family','Inter, sans-serif').attr('font-size','11px').attr('font-weight',600)
+          .text(act.count);
+      }
       return;
     }
 
@@ -2167,6 +2312,44 @@ const BILL_STATUS_LABEL = {
   'introduced':       'INTRODUCED',
 };
 
+function showActionsTooltip(event, code, agg) {
+  const tt = document.getElementById('tooltip');
+  const oc = agg.outcome_counts || {};
+  const tc = agg.tier_counts    || {};
+  const sc = agg.scope_counts   || {};
+  const labels = ACTIONS_DATA.issue_labels || {};
+
+  const outcomeLine = [
+    oc.win     ? `<span style="color:#3E5F4B">${oc.win} win</span>`        : '',
+    oc.pending ? `<span style="color:#6B685A">${oc.pending} pending</span>`: '',
+    oc.loss    ? `<span style="color:#8B1A1A">${oc.loss} loss</span>`      : '',
+    oc.mixed   ? `<span style="color:#A97B23">${oc.mixed} mixed</span>`    : '',
+  ].filter(Boolean).join(' · ');
+
+  const scopeLine = [
+    sc.local     ? `${sc.local} local`         : '',
+    sc.statewide ? `${sc.statewide} statewide` : '',
+    sc.federal   ? `${sc.federal} federal`     : '',
+  ].filter(Boolean).join(' · ');
+
+  const issuesHtml = Object.entries(agg.issue_top || {}).slice(0, 3).map(([t, n]) => {
+    const lbl = labels[t] || t.replace(/_/g, ' ');
+    return `<span style="display:inline-block;margin-right:8px;color:var(--ink-2)">${lbl} <span style="color:var(--ink-3)">${n}</span></span>`;
+  }).join('');
+
+  tt.innerHTML = `
+    <div class="tt-state">${STATE_NAMES[code] || code}</div>
+    <div class="tt-count" style="font-weight:600;color:var(--ink)">${agg.count} action${agg.count > 1 ? 's' : ''}</div>
+    <div style="font-family:Inter,sans-serif;font-size:10.5px;margin-top:4px">${outcomeLine}</div>
+    ${scopeLine ? `<div style="font-family:Inter,sans-serif;font-size:10px;color:var(--ink-3);margin-top:2px">${scopeLine}</div>` : ''}
+    ${issuesHtml ? `<div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--rule);font-family:Inter,sans-serif;font-size:10.5px">${issuesHtml}</div>` : ''}
+    <div style="margin-top:6px;font-family:Inter,sans-serif;font-size:9.5px;color:var(--ink-faint);letter-spacing:0.06em;text-transform:uppercase">Click to filter sidebar →</div>
+  `;
+  tt.style.opacity = 1;
+  tt.style.left = (event.clientX + 18) + 'px';
+  tt.style.top  = (event.clientY + 18) + 'px';
+}
+
 function showBillTooltip(event, code, agg) {
   const tt = document.getElementById('tooltip');
   const cts = agg.tier_counts || {};
@@ -2267,7 +2450,20 @@ async function fetchBillsData() {
     console.log('[bills] Loaded', (BILLS_DATA.items?.length || 0), 'bills across',
                 Object.keys(BILLS_DATA.by_state || {}).length, 'states');
   } catch (err) {
-    console.warn('bills.json fetch failed (expected until first OpenStates run):', err);
+    console.warn('bills.json fetch failed:', err);
+  }
+}
+
+async function fetchActionsData() {
+  try {
+    const resp = await fetch(`data/actions.json?v=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    ACTIONS_DATA = data || { items: [], by_state: {}, issue_labels: {} };
+    console.log('[actions] Loaded', (ACTIONS_DATA.items?.length || 0),
+                'actions across', Object.keys(ACTIONS_DATA.by_state || {}).length, 'states');
+  } catch (err) {
+    console.warn('actions.json fetch failed:', err);
   }
 }
 
@@ -2302,82 +2498,202 @@ const BILL_STATUS_SHORT = {
   'introduced':       'Introduced',
 };
 
+// Outcome → color (community POV — primary lens, like datacentertracker.org)
+const OUTCOME_COLOR = {
+  win:     '#3E5F4B',   // ink-green: community win
+  loss:    '#8B1A1A',   // scarlet: community loss
+  mixed:   '#A97B23',   // amber: mixed
+  pending: '#6B685A',   // muted: still in motion
+};
+const OUTCOME_LABEL = {
+  win:     'Community win',
+  loss:    'Community loss',
+  mixed:   'Mixed outcome',
+  pending: 'Pending',
+};
+
+// Per-action card. Compact, with up to 4 issue tags and outcome badge.
+function _renderActionCard(a) {
+  const issues = (Array.isArray(a.issue_category) ? a.issue_category : []).slice(0, 4);
+  const labels = ACTIONS_DATA.issue_labels || {};
+  const outcome = a.community_outcome || 'pending';
+  const oc = OUTCOME_COLOR[outcome] || OUTCOME_COLOR.pending;
+  const tier = a.tier || 'unclear';
+  const tierColor = BILL_TIER_COLOR[tier] || BILL_TIER_COLOR.unclear;
+
+  // Title — bill_number for legislation, jurisdiction for local action, else first verb-clause of summary
+  let title = a.bill_number ? `${a.bill_number} — ${(a.summary || '').split(/[.]/)[0]}` :
+              (a.jurisdiction || a.state || '');
+  if (!a.bill_number) {
+    // Better than just jurisdiction: try to pull a one-clause action description
+    const m = (a.summary || '').match(/^[^.]{30,180}/);
+    if (m) title = m[0];
+  }
+  title = title.slice(0, 180);
+
+  const tagsHtml = issues.length
+    ? `<div class="ac-tags">${issues.map(t => {
+        const lbl = labels[t] || t.replace(/_/g, ' ');
+        return `<span class="ac-tag" title="${escapeHtml(lbl)}">${escapeHtml(lbl)}</span>`;
+      }).join('')}</div>`
+    : '';
+
+  const sources = Array.isArray(a.sources) && a.sources.length ? a.sources[0] : '';
+  const dateStr = (a.date || '').slice(0, 10);
+  const meta = [
+    a.scope ? a.scope.toUpperCase() : '',
+    dateStr,
+    Array.isArray(a.action_type) ? a.action_type[0]?.replace(/_/g, ' ') : '',
+  ].filter(Boolean).join(' · ');
+
+  return `
+    <article class="action-card" data-url="${escapeHtml(sources)}"
+             style="--ac-tier-color: ${tierColor}; --ac-outcome-color: ${oc};">
+      <div class="ac-head">
+        <span class="ac-state">${a.state}</span>
+        <span class="ac-juris">${escapeHtml(a.jurisdiction || '')}</span>
+        <span class="ac-outcome" style="background:${oc}">${OUTCOME_LABEL[outcome]}</span>
+      </div>
+      <div class="ac-title">${escapeHtml(title)}</div>
+      ${tagsHtml}
+      <div class="ac-meta">${meta}</div>
+    </article>`;
+}
+
+function _renderActionGroup(label, items, expanded) {
+  const COLLAPSE_AT = 5;
+  const total = items.length;
+  const shown = expanded ? items : items.slice(0, COLLAPSE_AT);
+  const needs = total > COLLAPSE_AT;
+  return `
+    <div class="ac-group" data-group="${escapeHtml(label)}">
+      <div class="ac-group-head">
+        <h3>${escapeHtml(label)}</h3>
+        <span class="ac-group-count">${total}</span>
+      </div>
+      <div class="ac-group-cards">${shown.map(_renderActionCard).join('')}</div>
+      ${needs ? `<button class="ac-group-toggle" data-group-key="${escapeHtml(label)}">${
+        expanded ? 'Show less' : `Show all ${total}`
+      }</button>` : ''}
+    </div>`;
+}
+
+const _expandedGroups = new Set();
+
 function renderBillsPanel() {
   const root = document.getElementById('bills-panel');
-  const all  = (BILLS_DATA.items || []).filter(b =>
-    ['restrictive','protective','supportive'].includes(b.tier));
+  const all  = ACTIONS_DATA.items || [];
+  const labels = ACTIONS_DATA.issue_labels || {};
 
-  const counts = { restrictive: 0, protective: 0, supportive: 0 };
-  const statesWithBills = new Set();
-  for (const b of all) {
-    counts[b.tier] = (counts[b.tier] || 0) + 1;
-    statesWithBills.add(b.state);
+  const counts = { pending: 0, win: 0, loss: 0, mixed: 0 };
+  for (const a of all) counts[a.community_outcome || 'pending'] = (counts[a.community_outcome || 'pending'] || 0) + 1;
+  const statesAll = new Set(all.map(a => a.state).filter(s => s && s !== 'US'));
+
+  // Filter
+  const search = billsSearch.toLowerCase();
+  const filtered = all.filter(a =>
+       (billsFilterState   === 'ALL' || a.state === billsFilterState)
+    && (billsFilterOutcome === 'all' || (a.community_outcome || 'pending') === billsFilterOutcome)
+    && (billsFilterScope   === 'all' || a.scope === billsFilterScope)
+    && (billsFilterIssue   === 'all' || (Array.isArray(a.issue_category) && a.issue_category.includes(billsFilterIssue)))
+    && (!search || (a.summary || '').toLowerCase().includes(search)
+                 || (a.jurisdiction || '').toLowerCase().includes(search)
+                 || (a.bill_number || '').toLowerCase().includes(search))
+  );
+
+  // Group
+  const grouped = {};
+  for (const a of filtered) {
+    let key;
+    if (billsGroupBy === 'state')   key = STATE_NAMES[a.state] || a.state || '—';
+    else if (billsGroupBy === 'outcome') key = OUTCOME_LABEL[a.community_outcome || 'pending'];
+    else if (billsGroupBy === 'issue') {
+      // explode by each tag — same action shows in multiple groups
+      for (const t of (a.issue_category || ['(uncategorized)'])) {
+        const k = labels[t] || t.replace(/_/g, ' ');
+        (grouped[k] = grouped[k] || []).push(a);
+      }
+      continue;
+    }
+    (grouped[key] = grouped[key] || []).push(a);
   }
+  // Sort each group by date desc
+  for (const k of Object.keys(grouped)) {
+    grouped[k].sort((x, y) => (y.date || '').localeCompare(x.date || ''));
+  }
+  const groupKeys = Object.keys(grouped).sort((a, b) => grouped[b].length - grouped[a].length);
 
-  const filtered = all.filter(b =>
-       (billsFilterState === 'ALL' || b.state === billsFilterState)
-    && (billsFilterTier  === 'all' || b.tier  === billsFilterTier));
-
-  const stateOptions = ['ALL', ...[...statesWithBills].sort()]
-    .map(st => `<option value="${st}" ${st===billsFilterState?'selected':''}>
-        ${st === 'ALL' ? `All states (${statesWithBills.size})` : `${STATE_NAMES[st] || st}`}
+  const stateOptions = ['ALL', ...[...statesAll].sort()]
+    .map(st => `<option value="${st}" ${st === billsFilterState ? 'selected' : ''}>
+       ${st === 'ALL' ? `All states (${statesAll.size})` : (STATE_NAMES[st] || st)}
      </option>`).join('');
 
-  const cards = filtered.length ? filtered.map(b => {
-    const c = BILL_TIER_COLOR[b.tier] || BILL_TIER_COLOR.unclear;
-    return `
-      <article class="bill-card" data-url="${b.url_source || b.url_openstates || ''}"
-               style="--bill-tier-color: ${c};">
-        <div class="bc-head">
-          <span class="bc-state">${b.state}</span>
-          <span class="bc-number">${escapeHtml(b.bill_number || '')}</span>
-          <span class="bc-status">${BILL_STATUS_SHORT[b.status] || b.status}</span>
-        </div>
-        <div class="bc-title">${escapeHtml(b.title || '').slice(0, 180)}${(b.title||'').length>180?'…':''}</div>
-        <div class="bc-meta">
-          <span class="reason">${escapeHtml(b.tier_reason || b.tier)}</span>
-          ${b.status_date ? ` · ${b.status_date}` : ''}
-          ${Array.isArray(b.sponsors) && b.sponsors.length ? ` · ${b.sponsors.length} sponsor${b.sponsors.length>1?'s':''}` : ''}
-        </div>
-      </article>`;
-  }).join('') : `<div class="bills-empty">No bills match these filters.</div>`;
+  const issueOptions = ['<option value="all">All issues</option>',
+    ...Object.entries(labels).map(([k, lbl]) =>
+      `<option value="${k}" ${billsFilterIssue === k ? 'selected' : ''}>${lbl}</option>`)
+  ].join('');
+
+  const cardsHtml = groupKeys.length
+    ? groupKeys.map(k => _renderActionGroup(k, grouped[k], _expandedGroups.has(k))).join('')
+    : `<div class="bills-empty">No actions match these filters.</div>`;
 
   root.innerHTML = `
-    <div class="bp-eyebrow">Active legislation</div>
-    <h2 class="bp-header">${all.length} DC bills · ${statesWithBills.size} states</h2>
+    <div class="bp-eyebrow">Legislation &amp; community actions</div>
+    <h2 class="bp-header">${all.length} actions · ${statesAll.size} states</h2>
     <div class="bp-summary">
-      <span class="bp-pill"><span class="bp-swatch" style="background:#8B1A1A"></span>${counts.restrictive} restrictive</span>
-      <span class="bp-pill"><span class="bp-swatch" style="background:#A97B23"></span>${counts.protective} protective</span>
-      <span class="bp-pill"><span class="bp-swatch" style="background:#2E55A4"></span>${counts.supportive} supportive</span>
+      <span class="bp-pill"><span class="bp-swatch" style="background:#3E5F4B"></span>${counts.win || 0} community win</span>
+      <span class="bp-pill"><span class="bp-swatch" style="background:#6B685A"></span>${counts.pending || 0} pending</span>
+      <span class="bp-pill"><span class="bp-swatch" style="background:#8B1A1A"></span>${counts.loss || 0} community loss</span>
+      ${counts.mixed ? `<span class="bp-pill"><span class="bp-swatch" style="background:#A97B23"></span>${counts.mixed} mixed</span>` : ''}
     </div>
 
     <div class="bp-controls">
+      <input type="search" id="bp-search" placeholder="Search…" value="${escapeHtml(billsSearch)}" class="bp-search">
       <div class="bp-select-row">
         <label for="bp-state">State</label>
         <select id="bp-state">${stateOptions}</select>
       </div>
+      <div class="bp-select-row">
+        <label for="bp-issue">Issue</label>
+        <select id="bp-issue">${issueOptions}</select>
+      </div>
       <div class="bp-tier-chips">
-        <button class="bp-tier-chip ${billsFilterTier==='all'         ?'active':''}" data-t="all">All</button>
-        <button class="bp-tier-chip ${billsFilterTier==='restrictive' ?'active':''}" data-t="restrictive">Restrictive</button>
-        <button class="bp-tier-chip ${billsFilterTier==='protective'  ?'active':''}" data-t="protective">Protective</button>
-        <button class="bp-tier-chip ${billsFilterTier==='supportive'  ?'active':''}" data-t="supportive">Supportive</button>
+        <button class="bp-tier-chip ${billsFilterOutcome === 'all'      ? 'active' : ''}" data-out="all">All</button>
+        <button class="bp-tier-chip ${billsFilterOutcome === 'pending'  ? 'active' : ''}" data-out="pending">Pending</button>
+        <button class="bp-tier-chip ${billsFilterOutcome === 'win'      ? 'active' : ''}" data-out="win">Win</button>
+        <button class="bp-tier-chip ${billsFilterOutcome === 'loss'     ? 'active' : ''}" data-out="loss">Loss</button>
+      </div>
+      <div class="bp-tier-chips">
+        <button class="bp-tier-chip ${billsFilterScope === 'all'        ? 'active' : ''}" data-scope="all">All scopes</button>
+        <button class="bp-tier-chip ${billsFilterScope === 'local'      ? 'active' : ''}" data-scope="local">Local</button>
+        <button class="bp-tier-chip ${billsFilterScope === 'statewide'  ? 'active' : ''}" data-scope="statewide">State</button>
+        <button class="bp-tier-chip ${billsFilterScope === 'federal'    ? 'active' : ''}" data-scope="federal">Federal</button>
+      </div>
+      <div class="bp-tier-chips">
+        <button class="bp-tier-chip ${billsGroupBy === 'state'   ? 'active' : ''}" data-grp="state">Group: State</button>
+        <button class="bp-tier-chip ${billsGroupBy === 'outcome' ? 'active' : ''}" data-grp="outcome">Outcome</button>
+        <button class="bp-tier-chip ${billsGroupBy === 'issue'   ? 'active' : ''}" data-grp="issue">Issue</button>
       </div>
     </div>
 
-    ${cards}
+    ${cardsHtml}
   `;
 
-  document.getElementById('bp-state').addEventListener('change', (e) => {
-    billsFilterState = e.target.value;
-    renderBillsPanel();
-  });
-  root.querySelectorAll('.bp-tier-chip').forEach(chip => {
-    chip.addEventListener('click', () => {
-      billsFilterTier = chip.dataset.t;
+  // Wire up controls
+  document.getElementById('bp-state').addEventListener('change',  e => { billsFilterState = e.target.value; renderBillsPanel(); });
+  document.getElementById('bp-issue').addEventListener('change',  e => { billsFilterIssue = e.target.value; renderBillsPanel(); });
+  document.getElementById('bp-search').addEventListener('input',  e => { billsSearch = e.target.value; renderBillsPanel(); });
+  root.querySelectorAll('[data-out]').forEach(b   => b.addEventListener('click', () => { billsFilterOutcome = b.dataset.out;   renderBillsPanel(); }));
+  root.querySelectorAll('[data-scope]').forEach(b => b.addEventListener('click', () => { billsFilterScope   = b.dataset.scope; renderBillsPanel(); }));
+  root.querySelectorAll('[data-grp]').forEach(b   => b.addEventListener('click', () => { billsGroupBy       = b.dataset.grp;   renderBillsPanel(); }));
+  root.querySelectorAll('.ac-group-toggle').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const k = btn.dataset.groupKey;
+      _expandedGroups.has(k) ? _expandedGroups.delete(k) : _expandedGroups.add(k);
       renderBillsPanel();
     });
   });
-  root.querySelectorAll('.bill-card').forEach(card => {
+  root.querySelectorAll('.action-card').forEach(card => {
     card.addEventListener('click', () => {
       const u = card.dataset.url;
       if (u) window.open(u, '_blank', 'noopener,noreferrer');
@@ -2903,6 +3219,7 @@ async function refresh() {
     fetchMeta(),
     fetchSocialData(),
     fetchBillsData(),
+    fetchActionsData(),
   ]);
   FAST_EVENTS = fast;
   FAST_META   = meta;
