@@ -263,29 +263,111 @@
       </p>
     </section>
 
-    <section class="block">
-      <h2>Data sources</h2>
+    <section class="block" id="sources">
+      <h2>Data sources &amp; attribution</h2>
+
+      <p style="font-size:15px;color:var(--ink);margin:0 0 22px 0;">
+        Every event on the dashboard traces back to a public source. We
+        normalize, classify, and dedupe — but the underlying record is
+        always credited and linked on the card itself. Below is the full
+        list of feeds we ingest, what they cover, and how to find them
+        directly.
+      </p>
+
+      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
+        Legislative &amp; legal sources
+      </h3>
       <table class="source-table">
         <thead>
-          <tr><th>Source</th><th>What we get</th><th>Cadence</th></tr>
+          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
         </thead>
         <tbody>
-          <tr><td>OpenStates</td><td>Legislative bills across all 50 states</td><td>1 hr</td></tr>
-          <tr><td>GDELT DOC 2.0</td><td>Global news articles, multilingual</td><td>15 min</td></tr>
-          <tr><td>Reddit</td><td>Public JSON, 8 subreddit + keyword queries</td><td>15 min</td></tr>
-          <tr><td>Outlet RSS</td><td>DCD, DCK, Utility Dive, Ars, RTO Insider, Latitude, Canary</td><td>15 min</td></tr>
-          <tr><td>CourtListener</td><td>Federal/state court filings, dockets</td><td>15 min</td></tr>
-          <tr><td>YouTube</td><td>Data API v3 + transcripts via yt-dlp (deep tier)</td><td>1 day</td></tr>
-          <tr><td>X / Twitter</td><td>via xAI Grok (browser session, free)</td><td>1 day</td></tr>
-          <tr><td>TikTok / Instagram / Threads</td><td>via ScrapeCreators API</td><td>1 day</td></tr>
-          <tr><td>Polymarket</td><td>Market prices, volume, movement on DC-related events</td><td>1 day</td></tr>
+          <tr><td>OpenStates</td><td>Bills + actions across all 50 state legislatures</td><td>1 hr</td><td><a href="https://openstates.org/" target="_blank" rel="noopener">openstates.org</a></td></tr>
+          <tr><td>CourtListener / Free Law Project</td><td>Federal &amp; state court filings, opinions, dockets</td><td>15 min</td><td><a href="https://www.courtlistener.com/" target="_blank" rel="noopener">courtlistener.com</a></td></tr>
         </tbody>
       </table>
-      <p style="margin-top:18px;font-size:14px;color:var(--ink-3)">
-        Source mix is by design. News alone is a lagging indicator —
-        reporters write after the council vote. Reddit + Polymarket are
-        leading. Bills are forward-looking. Cross-source dedup means we
-        keep the strongest signal of each story without duplication.
+
+      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
+        News &amp; press
+      </h3>
+      <table class="source-table">
+        <thead>
+          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>GDELT Project</td><td>Global news article index, multilingual</td><td>15 min</td><td><a href="https://www.gdeltproject.org/" target="_blank" rel="noopener">gdeltproject.org</a></td></tr>
+          <tr><td>Data Center Dynamics</td><td>Industry trade publication</td><td>15 min</td><td><a href="https://www.datacenterdynamics.com/" target="_blank" rel="noopener">datacenterdynamics.com</a></td></tr>
+          <tr><td>Data Center Knowledge</td><td>Industry trade publication</td><td>15 min</td><td><a href="https://www.datacenterknowledge.com/" target="_blank" rel="noopener">datacenterknowledge.com</a></td></tr>
+          <tr><td>Utility Dive</td><td>Energy industry trade press</td><td>15 min</td><td><a href="https://www.utilitydive.com/" target="_blank" rel="noopener">utilitydive.com</a></td></tr>
+          <tr><td>Ars Technica</td><td>Tech press</td><td>15 min</td><td><a href="https://arstechnica.com/" target="_blank" rel="noopener">arstechnica.com</a></td></tr>
+          <tr><td>RTO Insider</td><td>Wholesale electricity / RTO trade press</td><td>15 min</td><td><a href="https://www.rtoinsider.com/" target="_blank" rel="noopener">rtoinsider.com</a></td></tr>
+          <tr><td>Latitude Media</td><td>Energy transition coverage</td><td>15 min</td><td><a href="https://www.latitudemedia.com/" target="_blank" rel="noopener">latitudemedia.com</a></td></tr>
+          <tr><td>Canary Media</td><td>Climate &amp; clean-energy reporting</td><td>15 min</td><td><a href="https://www.canarymedia.com/" target="_blank" rel="noopener">canarymedia.com</a></td></tr>
+        </tbody>
+      </table>
+
+      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
+        Community &amp; social
+      </h3>
+      <table class="source-table">
+        <thead>
+          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Reddit</td><td>Public JSON feed of subreddit + keyword queries</td><td>15 min</td><td><a href="https://www.reddit.com/" target="_blank" rel="noopener">reddit.com</a></td></tr>
+          <tr><td>X (formerly Twitter)</td><td>Posts via authenticated browser session</td><td>1 day</td><td><a href="https://x.com/" target="_blank" rel="noopener">x.com</a></td></tr>
+          <tr><td>YouTube</td><td>Public Data API v3 + open transcripts</td><td>1 day</td><td><a href="https://www.youtube.com/" target="_blank" rel="noopener">youtube.com</a></td></tr>
+          <tr><td>TikTok</td><td>Public videos and engagement counts</td><td>1 day</td><td><a href="https://www.tiktok.com/" target="_blank" rel="noopener">tiktok.com</a></td></tr>
+          <tr><td>Instagram Reels</td><td>Public posts and engagement counts</td><td>1 day</td><td><a href="https://www.instagram.com/" target="_blank" rel="noopener">instagram.com</a></td></tr>
+          <tr><td>Threads</td><td>Public posts</td><td>1 day</td><td><a href="https://www.threads.net/" target="_blank" rel="noopener">threads.net</a></td></tr>
+        </tbody>
+      </table>
+
+      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
+        Markets
+      </h3>
+      <table class="source-table">
+        <thead>
+          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Polymarket</td><td>Prediction-market prices, volume, movement on DC-related questions</td><td>1 day</td><td><a href="https://polymarket.com/" target="_blank" rel="noopener">polymarket.com</a></td></tr>
+        </tbody>
+      </table>
+
+      <p style="margin-top:24px;font-size:14px;color:var(--ink-3);line-height:1.55;">
+        <strong style="color:var(--ink)">Methodology.</strong>
+        News alone is a lagging indicator — reporters write after the
+        council vote. Reddit, X, TikTok, and Instagram surface earlier
+        signals. Polymarket prices are forward-looking. Bills (via
+        OpenStates) and court filings (via CourtListener) are the
+        load-bearing legal signal. Cross-source deduplication via URL
+        canonicalization plus content hashing means a story covered by
+        12 outlets appears as a single event tagged with all 12 sources,
+        not 12 duplicate cards.
+      </p>
+
+      <p style="margin-top:14px;font-size:14px;color:var(--ink-3);line-height:1.55;">
+        <strong style="color:var(--ink)">Vocabulary.</strong>
+        Our 16-tag issue taxonomy (zoning, water, environmental,
+        community impact, grid/energy, transparency, ratepayer, noise,
+        tax/incentive, farmland, traffic, design standards, contract
+        guarantees, anti-AI, air quality, property values) is adopted
+        from
+        <a href="https://datacentertracker.org/" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent);">datacentertracker.org</a>
+        — a separate, independent project we admire. Same vocabulary
+        means our datasets are interoperable; our pipeline is fully our
+        own.
+      </p>
+
+      <p style="margin-top:14px;font-size:14px;color:var(--ink-3);line-height:1.55;">
+        <strong style="color:var(--ink)">Inspiration &amp; thanks.</strong>
+        We owe credit to the prior work of
+        <a href="https://www.datacenterwatch.org/" target="_blank" rel="noopener">Data Center Watch</a>,
+        <a href="https://datacentertracker.org/" target="_blank" rel="noopener">Data Center Tracker</a>,
+        and the journalists at Heatmap, Utility Dive, RTO Insider, NPR,
+        Reuters, and dozens of local newsrooms whose reporting is the
+        raw material for what shows up on this dashboard.
       </p>
     </section>
 

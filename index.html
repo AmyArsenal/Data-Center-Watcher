@@ -836,139 +836,6 @@
     letter-spacing: 0.1em;
   }
 
-  /* Floating subscribe dock — compact pill bottom-right, expands on click.
-     Default hidden-then-slide-in avoids layout shift; localStorage keeps
-     dismissal so returning visitors aren't nagged. */
-  .subscribe-dock {
-    position: fixed;
-    right: 20px; bottom: 20px;
-    z-index: 60;
-    font-family: "Inter", sans-serif;
-    transition: transform 220ms ease, box-shadow 220ms ease;
-  }
-  .subscribe-dock[hidden] { display: none; }
-
-  /* Collapsed button — editorial, not a chat chip */
-  .subscribe-dock .dock-pill {
-    display: inline-flex; flex-direction: column; align-items: flex-start;
-    padding: 10px 18px 12px;
-    background: var(--paper);
-    color: var(--ink);
-    border: 1px solid var(--ink);
-    border-radius: 2px;
-    cursor: pointer;
-    text-align: left;
-    box-shadow: 0 10px 28px rgba(26,25,21,0.14);
-    transition: background 180ms ease, color 180ms ease, box-shadow 180ms ease;
-  }
-  .subscribe-dock .dock-pill:hover {
-    background: var(--ink);
-    color: var(--paper);
-    box-shadow: 0 14px 34px rgba(26,25,21,0.24);
-  }
-  .dock-pill-eyebrow {
-    font-family: "Inter", sans-serif;
-    font-size: 9.5px;
-    font-weight: 600;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--ink-3);
-    margin-bottom: 4px;
-    transition: color 180ms ease;
-  }
-  .subscribe-dock .dock-pill:hover .dock-pill-eyebrow { color: #D8D4C2; }
-  .dock-pill-action {
-    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
-    font-style: italic;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1;
-    display: inline-flex; align-items: center; gap: 8px;
-  }
-  .dock-pill-action .arr {
-    font-style: normal;
-    font-size: 14px;
-    transition: transform 180ms ease;
-  }
-  .subscribe-dock .dock-pill:hover .arr { transform: translateX(3px); }
-
-  /* Expanded panel — same dock, different inner markup */
-  .subscribe-dock.open .dock-pill { display: none; }
-  .subscribe-dock .dock-panel {
-    display: none;
-    width: 320px;
-    padding: 18px 18px 16px;
-    background: var(--paper);
-    border: 1px solid var(--rule-strong);
-    border-radius: 8px;
-    box-shadow: 0 16px 40px rgba(26,25,21,0.22);
-  }
-  .subscribe-dock.open .dock-panel { display: block; }
-  .subscribe-dock .dock-close {
-    position: absolute; top: 6px; right: 8px;
-    background: none; border: none; cursor: pointer;
-    font-size: 16px; color: var(--ink-3); line-height: 1;
-    padding: 4px 6px;
-  }
-  .subscribe-dock .dock-close:hover { color: var(--ink); }
-  .subscribe-eyebrow {
-    font-size: 9.5px; font-weight: 600;
-    color: var(--cat-cancelled);
-    text-transform: uppercase; letter-spacing: 0.16em;
-    margin-bottom: 6px;
-  }
-  .subscribe-dock h2 {
-    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
-    font-size: 16px; font-weight: 400;
-    color: var(--ink);
-    letter-spacing: -0.005em;
-    line-height: 1.25;
-    margin: 0 0 10px 0;
-  }
-  .subscribe-form {
-    display: flex; flex-direction: column; gap: 8px;
-  }
-  .subscribe-form input[type="email"] {
-    width: 100%;
-    padding: 9px 12px;
-    font-family: "Inter", sans-serif;
-    font-size: 12.5px;
-    color: var(--ink);
-    background: var(--paper-2);
-    border: 1px solid var(--rule-strong);
-    border-radius: 3px;
-    outline: none;
-    box-sizing: border-box;
-  }
-  .subscribe-form input[type="email"]:focus { border-color: var(--ink); }
-  .subscribe-form button {
-    padding: 9px 14px;
-    font-family: "Inter", sans-serif;
-    font-size: 10.5px;
-    font-weight: 600;
-    text-transform: uppercase; letter-spacing: 0.14em;
-    color: var(--paper);
-    background: var(--ink);
-    border: 1px solid var(--ink);
-    border-radius: 3px;
-    cursor: pointer;
-  }
-  .subscribe-form button:hover { background: #000; }
-  .subscribe-fine {
-    font-size: 9.5px;
-    color: var(--ink-3);
-    letter-spacing: 0.02em;
-    margin-top: 2px;
-  }
-  .subscribe-success {
-    font-size: 11px; font-weight: 500;
-    color: var(--cat-announced);
-    margin-top: 4px;
-  }
-  @media (max-width: 520px) {
-    .subscribe-dock { right: 12px; bottom: 12px; left: 12px; }
-    .subscribe-dock .dock-panel { width: auto; }
-  }
 
   /* ============================================================
      Bills panel — sidebar for the Bills tab
@@ -1407,7 +1274,7 @@
       <span class="stat-label">Capacity stalled</span>
       <span class="stat-asof">per Data Center Watch, Apr 2026</span>
     </div>
-    <div class="stat-source">Live from GDELT 2.0 · Seed from Data Center Watch, WaPo, NPR, Heatmap</div>
+    <div class="stat-source">Updated continuously · <a href="about.html#sources" style="color:inherit;border-bottom:1px solid currentColor;text-decoration:none">Sources &amp; methodology</a></div>
   </footer>
 </div>
 
@@ -1572,7 +1439,7 @@ function updateFreshnessChip() {
   const liveNow = new Date().toLocaleTimeString('en-US', {
     hour: '2-digit', minute: '2-digit',
   });
-  status.textContent = `Fast: ${fastAgo} · Live: ${liveNow} · ${FAST_EVENTS.length} ingested`;
+  status.textContent = `Auto-updating · refreshed ${fastAgo} · ${FAST_EVENTS.length} events`;
 }
 
 // ============================================================================
@@ -1727,7 +1594,7 @@ async function fetchLiveEvents() {
   const dot = document.getElementById('sync-dot');
   const status = document.getElementById('sync-status');
   dot.classList.add('fetching');
-  status.textContent = 'Fetching GDELT…';
+  status.textContent = 'Fetching live news…';
 
   try {
     const results = await Promise.allSettled(
@@ -1766,10 +1633,10 @@ async function fetchLiveEvents() {
       }
     }
     if (okQueries === 0) throw new Error('All GDELT queries failed');
-    status.textContent = `Live · ${events.length} / ${rawCount} raw · ${new Date().toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'})}`;
+    status.textContent = `Updated ${new Date().toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'})} · ${events.length} new`;
     return events;
   } catch (err) {
-    status.textContent = 'Offline · seed data only';
+    status.textContent = 'Offline — showing cached data';
     console.warn('GDELT fetch failed:', err);
     return [];
   } finally {
@@ -2733,7 +2600,7 @@ function renderFeed() {
             ${e.live ? '<span class="sep">·</span><span>live</span>' : ''}
           </div>
           <h3 class="event-headline">${e.headline}</h3>
-          <div class="event-footer"><span class="domain">${e.source}</span></div>
+          <div class="event-footer"><span class="domain">${escapeHtml(displaySource(e))}</span></div>
         </div>
       </article>`;
     }).join('');
@@ -2816,7 +2683,7 @@ function renderFeedSocial() {
           </div>
           <h3 class="event-headline">${e.headline}${city}</h3>
           <div class="event-footer">
-            <span class="domain">${e.source_name || e.source_domain}</span>
+            <span class="domain">${escapeHtml(displaySource(e))}</span>
             <span class="sep" style="color:var(--rule-strong);margin:0 6px">·</span>
             <span>${engagement}</span>
           </div>
@@ -3119,7 +2986,7 @@ function renderSocialCard(e, featured = false) {
       ${engagement}
       <div class="social-card-headline">${e.headline}</div>
       <div class="social-card-footer">
-        <span class="social-card-source">${e.source_name || e.source_domain}</span>
+        <span class="social-card-source">${escapeHtml(displaySource(e))}</span>
         <span class="social-card-loc">${loc}</span>
       </div>
     </article>
@@ -3182,6 +3049,41 @@ function escapeHtml(s) {
   );
 }
 function escapeAttr(s) { return escapeHtml(s); }
+
+// Map internal ingester keys → human-readable publisher labels. Used as a
+// fallback when an event lacks source_name/source_domain. Keep in sync with
+// scripts/lib/sources/*.py. Items with empty-string values are HIDDEN.
+const SOURCE_DISPLAY_NAMES = {
+  'gdelt':           'News wire',
+  'reddit':          'Reddit',
+  'youtube':         'YouTube',
+  'x':               'X',
+  'tiktok':          'TikTok',
+  'instagram':       'Instagram',
+  'threads':         'Threads',
+  'polymarket':      'Polymarket',
+  'rss-dcd':         'Data Center Dynamics',
+  'rss-dck':         'Data Center Knowledge',
+  'rss-utilitydive': 'Utility Dive',
+  'rss-arstechnica': 'Ars Technica',
+  'rss-rto-insider': 'RTO Insider',
+  'rss-latitude':    'Latitude Media',
+  'rss-canary':      'Canary Media',
+  'rss-court-dc':    'CourtListener',
+  'news':            '',
+  'legal':           '',
+  'manual':          '',
+  'seed':            '',
+};
+
+// Cleanest publisher label we can produce. Never leaks raw ingester keys.
+function displaySource(e) {
+  if (e.source_name)   return e.source_name;
+  if (e.source_domain) return String(e.source_domain).replace(/^www\./, '');
+  const key = (e.source || '').toLowerCase();
+  if (SOURCE_DISPLAY_NAMES[key] !== undefined) return SOURCE_DISPLAY_NAMES[key];
+  return '';
+}
 
 // ============================================================================
 //  INIT + REFRESH LOOP
@@ -3260,83 +3162,6 @@ window.addEventListener('resize', () => {
 });
 </script>
 
-<!-- Floating subscribe dock — fixed bottom-right. Starts collapsed; the
-     Newsletter link in the header programmatically expands it. -->
-<aside id="subscribe" class="subscribe-dock" aria-label="Subscribe to the weekly brief">
-  <button type="button" class="dock-pill" id="dock-pill-btn" aria-expanded="false" aria-controls="subscribe-panel">
-    <span class="dock-pill-eyebrow">The Sunday Watch</span>
-    <span class="dock-pill-action">Subscribe <span class="arr" aria-hidden="true">→</span></span>
-  </button>
-  <div class="dock-panel" id="subscribe-panel" role="dialog" aria-labelledby="subscribe-heading">
-    <button type="button" class="dock-close" id="dock-close-btn" aria-label="Close">×</button>
-    <div class="subscribe-eyebrow">The Sunday Watch · $50/mo</div>
-    <h2 id="subscribe-heading">Weekly intel for people who build, finance, or regulate data centers.</h2>
-    <form class="subscribe-form" id="subscribe-form" novalidate>
-      <input type="email" name="email" placeholder="you@company.com" required autocomplete="email">
-      <button type="submit">Subscribe</button>
-      <div class="subscribe-fine">Free first issue · <a href="newsletter.html" style="color:inherit;border-bottom:1px solid currentColor;text-decoration:none">See what's inside →</a></div>
-      <div class="subscribe-success" id="subscribe-success" hidden>✓ Thanks — first brief headed your way Sunday morning.</div>
-    </form>
-  </div>
-</aside>
-
-<script>
-(function () {
-  const dock  = document.getElementById('subscribe');
-  const pill  = document.getElementById('dock-pill-btn');
-  const close = document.getElementById('dock-close-btn');
-  const panel = document.getElementById('subscribe-panel');
-  const email = () => document.querySelector('#subscribe-form input[name="email"]');
-
-  function openDock()  { dock.classList.add('open');  pill.setAttribute('aria-expanded','true');  setTimeout(() => email()?.focus(), 80); }
-  function closeDock() { dock.classList.remove('open'); pill.setAttribute('aria-expanded','false'); }
-
-  pill.addEventListener('click',  openDock);
-  close.addEventListener('click', closeDock);
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dock.classList.contains('open')) closeDock(); });
-
-  // Header "Newsletter" link (any a[href="#subscribe"]) opens the dock instead
-  // of jumping the scroll.
-  document.querySelectorAll('a[href="#subscribe"], a[href$="#subscribe"]').forEach(a => {
-    a.addEventListener('click', (e) => {
-      if (!dock) return;
-      e.preventDefault();
-      openDock();
-    });
-  });
-
-  // If the URL hash is #subscribe on landing (e.g., from blog.html), auto-open.
-  if (location.hash === '#subscribe') openDock();
-
-  // Submit handler — captures to localStorage for now. One-line swap to
-  // Beehiiv when the publication exists:
-  //   await fetch(`https://api.beehiiv.com/v2/publications/${PUB_ID}/subscriptions`, {
-  //     method: 'POST',
-  //     headers: { 'Content-Type': 'application/json',
-  //                'Authorization': `Bearer ${PUBLIC_PUBLISHABLE_KEY}` },
-  //     body: JSON.stringify({ email, utm_source: 'dashboard-dock' }),
-  //   });
-  const form = document.getElementById('subscribe-form');
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const val = new FormData(form).get('email')?.toString().trim();
-    if (!val || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
-      email()?.focus();
-      return;
-    }
-    try {
-      const queue = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
-      if (!queue.includes(val)) queue.push(val);
-      localStorage.setItem('dcw_subscribers', JSON.stringify(queue));
-    } catch { /* private-mode browsing — fine */ }
-    document.getElementById('subscribe-success').hidden = false;
-    form.reset();
-    console.log('[subscribe] captured', val, '— swap to Beehiiv POST when pub live');
-    // Auto-close after 2.5s so the dock doesn't linger
-    setTimeout(closeDock, 2500);
-  });
-})();
-</script>
 
 </body>
 </html>
