@@ -10,19 +10,20 @@ site-screening product.
 
 ## What this is
 
-A single-page dashboard that answers three questions a developer, journalist, or
-activist asks about data-center opposition:
+A single-page dashboard with **three primary tabs** in the header (News /
+Bills / Social Media) plus three standalone secondary pages (newsletter.html
+/ blog.html / about.html). Each tab answers one question:
 
-| Question | Answer surface |
-|---|---|
-| *Where is opposition happening right now?* | State view — map + feed, events tier |
-| *Where is legislation actively restricting or supporting DC builds?* | State view — **Bills** map layer (toggle bottom-left) |
-| *What are people saying on X / Reddit / TikTok / Instagram / Polymarket?* | Social Sentiment tab |
+| Tab | Answers | Powered by |
+|---|---|---|
+| **News** | Where is opposition happening right now? | Map + feed, `news.json` (15-min) + live GDELT (5-min) |
+| **Bills** | Which states have moratoriums / pending legislation / community responses? | Map (paint by action density) + dense sidebar from `actions.json` — search, group-by State/Outcome/Issue, 16-tag chips |
+| **Social Media** | What are people saying on X / Reddit / TikTok / Instagram / Threads / YouTube / Polymarket? | Magazine-layout `renderSocialPage()` from `social_events.json` |
 
-The North Star is the **developer site-screening product**: a hyperscaler or
-site-selection consultant should be able to pick a county and get back
-`risk_score + top citations + active bills + comparable projects` in milliseconds.
-Current state is pre-monetization — all tiers free, public.
+Pricing ladder (live on About page): Free dashboard · **$50/mo Pro** · $499/mo
+Team · Custom Enterprise. The North Star is the **developer site-screening
+product**: pick a county, get back `risk_score + top citations + active bills
++ comparable projects` in milliseconds.
 
 ## Architecture at a glance
 
@@ -34,6 +35,7 @@ Current state is pre-monetization — all tiers free, public.
 │     fetch('data/news.json')           ◄── Fast tier  (CI, 15-min)     │
 │     fetch('data/social_events.json')  ◄── Deep tier  (laptop, daily)  │
 │     fetch('data/bills.json')          ◄── Bills tier (CI, hourly)     │
+│     fetch('data/actions.json')        ◄── Dense layer — Bills tab UI  │
 │     fetch('data/meta.json')           ◄── Freshness chips             │
 │     GDELT DOC 2.0 direct API          ◄── Live tier (browser only)    │
 └───────────────────────────────────────────────────────────────────────┘
@@ -42,10 +44,13 @@ Current state is pre-monetization — all tiers free, public.
                                    │
 ┌───────────────────────────────────────────────────────────────────────┐
 │  data/ (checked in; updated by cron + laptop runs)                    │
-│    news.db           SQLite source of truth                           │
+│    news.db           SQLite — events + bills + actions tables         │
 │    news.json         rolling 90-day events (frontend-facing)          │
 │    social_events.json  social-focused events for the Social tab       │
 │    bills.json        all classified bills + per-state map aggregate   │
+│    actions.json      DENSE layer — events + bills converted to        │
+│                      datacentertracker.org-style schema (16 issue     │
+│                      tags, 4 community outcomes, scope, action_type)  │
 │    meta.json         per-tier last-refresh timestamps                 │
 │    iso-boundaries.json  static ISO polygons                           │
 └───────────────────────────────────────────────────────────────────────┘
@@ -82,8 +87,11 @@ Design around it — never rely on an Actions run landing at an exact minute.
 
 ```
 Data-Center-Watcher/
-├── index.html                    single-page app (~2400 lines)
-├── blog.html                     placeholder page, "Coming soon" drafts
+├── index.html                    single-page dashboard (~3100 lines)
+├── newsletter.html               $50/mo marketing page + subscribe form
+├── blog.html                     hash-routed mini-SPA: index + 2 essays
+│                                 (Maine LD 307, Dominion/NoVa)
+├── about.html                    mission · methodology · sources & attribution
 ├── README.md                     user-facing project intro
 ├── CLAUDE.md                     this file
 ├── requirements.txt              requests + feedparser (prod deps)
@@ -95,18 +103,27 @@ Data-Center-Watcher/
 │   └── refresh-bills.yml          7  * * * *  bills tier cron
 │
 ├── data/
-│   ├── news.db                   SQLite source of truth
-│   ├── news.json                 90-day rolling export (frontend)
+│   ├── news.db                   SQLite — events + bills + actions tables
+│   ├── news.json                 90-day rolling events (frontend)
 │   ├── social_events.json        social-focused export
 │   ├── bills.json                classified bills + by_state map aggregate
+│   ├── actions.json              DENSE layer — drives Bills-tab sidebar
+│   │                             (16 issue tags, outcome, scope, action_type)
 │   ├── meta.json                 per-tier freshness timestamps
 │   └── iso-boundaries.json       static ArcGIS ISO polygons
 │
 ├── scripts/
 │   ├── run_daily.sh              laptop-only orchestrator (5 steps)
-│   ├── refresh_fast.py           fast tier orchestrator (CI + local)
+│   ├── refresh_fast.py           fast tier orchestrator (CI + local) —
+│   │                             also runs migrate_events_to_actions +
+│   │                             exports actions.json on every cycle
 │   ├── refresh_bills.py          bills tier orchestrator (CI + local)
 │   ├── migrate_db.py             schema migrations + hash backfill
+│   ├── migrate_events_to_actions.py  events + bills → actions table,
+│   │                             applies 16-tag classifier
+│   ├── research_agent.py         scaffolded weekly Claude Sonnet research
+│   │                             pass (NOT WIRED — needs ANTHROPIC_API_KEY +
+│   │                             review queue workflow)
 │   ├── build_news_db.py          legacy seed loader + social_events export
 │   ├── ingest_x_from_raw.py      parse [x] items from skill markdown
 │   ├── ingest_polymarket_from_raw.py   parse [polymarket] items
@@ -114,11 +131,16 @@ Data-Center-Watcher/
 │   │
 │   ├── lib/
 │   │   ├── schema.py             CREATE TABLE + additive ALTER migrations
+│   │   │                         (events, bills, actions tables)
 │   │   ├── hashing.py            canonicalize_url, url_hash, content_hash
-│   │   ├── events.py             upsert() with cross-source dedup + tier order
+│   │   ├── events.py             upsert() with cross-source dedup
 │   │   ├── classify.py           state/city/category/companies/relevance rules
 │   │   ├── bills.py              tier classifier + aggregate_by_state + upsert
-│   │   ├── export.py             writes news.json + meta.json
+│   │   ├── actions.py            16-tag taxonomy, classify_issues,
+│   │   │                         classify_action_type, infer_authority,
+│   │   │                         infer_scope, derive_community_outcome,
+│   │   │                         derive_tier, upsert, aggregate_by_state
+│   │   ├── export.py             writes news.json + actions.json + meta.json
 │   │   └── sources/
 │   │       ├── gdelt.py          DOC 2.0, parallel queries, 12s timeout
 │   │       ├── reddit.py         public JSON, 8 queries, 0.8s between
@@ -152,10 +174,11 @@ git diff --stat data/
 git add data/ && git commit -m "data: daily backfill $(date -u +%F)" && git push
 
 # ── Tier-specific local runs ────────────────────────────────────────────
-python3 scripts/refresh_fast.py         # fast tier only
+python3 scripts/refresh_fast.py         # fast tier only (also rebuilds actions.json)
 python3 scripts/refresh_bills.py        # bills: incremental
 python3 scripts/refresh_bills.py --full # bills: all 50 states (~5 min, rate-limited)
 python3 scripts/migrate_db.py           # schema + hash backfill (idempotent)
+python3 scripts/migrate_events_to_actions.py  # rebuild actions table from events+bills
 
 # ── Tests + local server ────────────────────────────────────────────────
 python3 scripts/tests/test_hashing_and_upsert.py   # 13 tests
@@ -238,38 +261,109 @@ priority is `restrictive > protective > supportive`, within tier
 `enacted > passed-both > ... > introduced`. The first row wins for
 `map_color_tier + map_color_status`, up to 3 bills are featured in tooltips.
 
+**`actions` table** (the dense layer that drives the Bills tab UI):
+
+```
+id                     PK — origin-prefixed slug
+origin                 datacentertracker | openstates | manual | research_agent
+state, county, jurisdiction, lat, lng
+scope                  local | statewide | federal
+action_type            JSON array — see ACTION_TYPES below (15 values)
+authority_level        county_commission | city_council | state_legislature | ...
+date, status, last_updated
+community_outcome      pending | win | loss | mixed       (community POV)
+tier, tier_reason      restrictive | protective | supportive | unclear  (developer POV)
+issue_category         JSON array — 16-value vocabulary
+company, hyperscaler, project_name
+investment_million_usd, megawatts, acreage, building_sq_ft,
+water_usage_gallons_per_day, jobs_promised
+opposition_groups, opposition_website, opposition_facebook,
+opposition_instagram, opposition_twitter, petition_url, petition_signatures
+summary, sources                JSON array of citations
+data_source                     news | agent_research | web_research | etc.
+bill_number, bill_session       (when origin='openstates')
+```
+
+Schema is interoperable with **datacentertracker.org** (CC BY 4.0) so vocabularies
+align — but we DO NOT import their data. Our pipeline is fully our own.
+
+**Tag vocabularies** (frozen — UI relies on exact strings, JSON arrays in DB):
+
+- `ISSUE_CATEGORIES` (16): zoning · water · environmental · community_impact ·
+  grid_energy · transparency · ratepayer · noise · tax_incentive · farmland ·
+  traffic · design_standards · contract_guarantees · anti_ai · air_quality ·
+  property_values
+- `ACTION_TYPES` (15): zoning_restriction · legislation · moratorium ·
+  public_comment · lawsuit · project_withdrawal · utility_regulation ·
+  ordinance · study_or_report · regulatory_action · executive_order ·
+  other_opposition · infrastructure_opposition · permit_denial · executive_action
+- `AUTHORITY_LEVELS` (27): county_commission · city_council · state_legislature ·
+  ... (see `lib/actions.py`)
+
+`lib/actions.aggregate_by_state()` produces map payload with: count (drives
+opacity), tier_counts, outcome_counts, scope_counts, top 3 issues, latest_date,
+worst-case `map_color_tier`. Map opacity in Bills mode = `0.20 + (count/maxCount)*0.55`.
+
+**How the actions table gets populated:**
+1. `migrate_events_to_actions.py` converts every `events` + `bills` row into
+   an `actions` row (currently ~312 records from existing data)
+2. Hooked into `refresh_fast.py` so every 15-min CI run re-builds `actions.json`
+3. (Future) `research_agent.py` weekly Claude Sonnet pass adds new records
+   from web research
+
 ## Frontend architecture (`index.html`)
 
-Single-page vanilla HTML. Key globals near the top of the `<script type="module">`:
+Single-page vanilla HTML, ~3,100 lines. **Header has two nav strips:**
+- Primary `#primary-nav`: News · Bills · Social Media (large serif tabs, drive `currentView`)
+- Secondary `.nav-links`: Newsletter · Blog · About (link to standalone pages)
+
+`currentView` swap is class-based on `.app`:
+- News mode: default — shows ticker + map (events layer) + feed panel
+- `bills-mode` class: hides feed, reveals `.bills-panel` sidebar; map switches to actions density
+- `social-mode` class: hides map+feed entirely, shows `.social-view` magazine layout
+
+Key globals near the top of `<script type="module">`:
 
 | Global | Purpose |
 |---|---|
-| `SEED_EVENTS` | Hand-curated baseline, ~30 events, always present |
-| `FAST_EVENTS` | Fetched from `data/news.json` on load + every 5 min |
-| `BILLS_DATA`  | Fetched from `data/bills.json`; items + by_state |
-| `SOCIAL_DATA` | Fetched from `data/social_events.json` |
-| `FAST_META`   | Fetched from `data/meta.json` → drives freshness chip |
-| `allEvents`   | Merged seed + fast + live (GDELT) + social-geo events |
-| `currentView` | `'state' | 'social'` |
-| `mapLayer`    | `'events' | 'bills'` — bills toggle paints by legal tier |
-| `feedSort`    | `'top' | 'latest'` — shared across views |
-| `activeCat`, `activeCo`, `activePlatform`, `stateFilter`, `isoFilter` | filter chips |
+| `SEED_EVENTS`  | Hand-curated baseline, ~30 events, always present |
+| `FAST_EVENTS`  | Fetched from `data/news.json` on load + every 5 min |
+| `BILLS_DATA`   | Fetched from `data/bills.json` (legacy bills layer) |
+| `ACTIONS_DATA` | Fetched from `data/actions.json` — drives the Bills tab sidebar + map paint |
+| `SOCIAL_DATA`  | Fetched from `data/social_events.json` |
+| `FAST_META`    | Fetched from `data/meta.json` → drives freshness chip |
+| `allEvents`    | Merged seed + fast + live (GDELT) + social-geo events |
+| `currentView`  | `'news' | 'bills' | 'social'` (NOT 'state' anymore) |
+| `mapLayer`     | `'events' | 'bills'` — `setView()` flips this automatically per tab |
+| `feedSort`     | `'top' | 'latest'` — shared across News + Social views |
+| `billsFilterState`, `billsFilterOutcome`, `billsFilterIssue`, `billsFilterScope`, `billsGroupBy`, `billsSearch` | Bills sidebar UI state |
+| `activeCat`, `activeCo`, `activePlatform`, `stateFilter`, `isoFilter` | News/Social filter chips |
 
-`refresh()` is the central function. It fires on load and every 5 min, fans out
-to `fetchFastEvents / fetchLiveEvents / fetchMeta / fetchSocialData / fetchBillsData`
-in a single `Promise.all`, then re-paints the map + feed + ticker + chip.
+`refresh()` is the central function. Fires on load and every 5 min, fans out to
+`fetchFastEvents / fetchLiveEvents / fetchMeta / fetchSocialData / fetchBillsData / fetchActionsData`
+in a single `Promise.all`, then re-paints map + feed + ticker + chip + bills sidebar.
 
 **Key render paths:**
 
-- `paintMapState(events)` — state fills + dots (events mode) or bill-tier fills (bills mode)
-- `renderFeed()` — State-view feed, routes to `renderFeedSocial()` in Social mode
+- `setView(view)` — flips primary tab + class + `mapLayer`, then dispatches to right renderer
+- `paintMapState(events)` — state fills + dots (events mode) or **action density coloring** (bills mode)
+- `renderFeed()` — News-view feed, routes to `renderFeedSocial()` in Social mode
+- `renderBillsPanel()` — Dense sidebar from `ACTIONS_DATA`: search box, state dropdown,
+  issue dropdown (16 tags), outcome chips (pending/win/loss), scope chips (local/state/federal),
+  group-by chips (state/outcome/issue), collapsible groups with "Show all N", up to 4 issue
+  tag chips per card
 - `renderSocialPage()` — magazine-layout Social tab with per-platform sections
 - `renderTicker()` — top-of-page scrolling ticker; items are clickable `<a>` tags
 - `renderSocialCard(e, featured?)` — per-platform rich engagement rendering
+- `showActionsTooltip(event, code, agg)` — hover-state tooltip for Bills layer
+- `displaySource(e)` — translates internal ingester keys (`gdelt`, `rss-dcd`) to
+  human publisher names; never leaks raw keys to UI
 
-**Subscribe dock** is a floating editorial pill bottom-right. Captures emails to
-`localStorage.dcw_subscribers` until Beehiiv is wired. One-line swap in the
-submit handler to POST to `api.beehiiv.com/v2/publications/<PUB_ID>/subscriptions`.
+**Subscribe dock — REMOVED.** Was a floating bottom-right pill that overlapped
+sidebar content. Newsletter link in header drives sign-ups; full pitch lives at
+`newsletter.html` with $50/mo + Beehiiv-ready form (still localStorage capture
+until Beehiiv pub exists). The Beehiiv swap-point is in newsletter.html's
+inline `<script>`, NOT index.html anymore.
 
 ## Secrets + env vars
 
@@ -333,6 +427,35 @@ Secrets to explicitly **not** chase:
     `aggregate_by_state`'s `WHERE tier IN ('restrictive','protective','supportive')`.
     Unclear bills still appear in `bills.json items[]` for dossier search later.
 
+11. **16-tag taxonomy is FROZEN.** Issue categories, action types, and authority
+    levels in `lib/actions.py` mirror datacentertracker.org's vocabulary verbatim
+    so datasets stay interoperable. Never add a new tag without verifying it
+    doesn't conflict with their list at https://datacentertracker.org/. We also
+    use their tooltip text verbatim (with credit on the About page).
+
+12. **Never leak internal source keys to UI.** `gdelt`, `rss-dcd`, `x-grok`,
+    `seed`, `manual` are ingester-internal. Always use `displaySource(e)` in
+    JS — it falls back to `SOURCE_DISPLAY_NAMES` map, returns `''` for
+    internal-only keys. Same applies to status chip text — say "Auto-updating"
+    not "Fast tier", "Updating live news" not "Fetching GDELT".
+
+13. **Source attribution lives at `about.html#sources`** — full table per
+    source with cadence + direct link, plus methodology and a vocabulary credit
+    to datacentertracker.org. Footer credit on every page is just
+    "Updated continuously · Sources & methodology" linking there. Don't
+    re-introduce inline source lists on other pages.
+
+14. **Subscribe dock REMOVED** (commit `38ac8cf`). Don't put it back — it was
+    overlapping sidebar content in Bills mode. Newsletter link in header is
+    enough; the dedicated newsletter.html has the full marketing surface +
+    subscribe form.
+
+15. **Actions table is rebuilt on every fast-tier run** — `refresh_fast.py`
+    invokes `migrate_events_to_actions.py` as a subprocess and re-exports
+    `actions.json`. Cheap (~50 ms for 300 rows). If you change the actions
+    schema, both the migration script AND `lib/actions._INSERT_COLS` need
+    updating in lockstep.
+
 ## Conventions
 
 - **Commit messages:** concise title (<72 chars), blank line, optional body
@@ -357,31 +480,47 @@ Secrets to explicitly **not** chase:
 
 Next unshipped phases, in priority order:
 
-1. **Historical bills backfill** — OpenStates defaults to ~180-day window.
-   Need `--session` support to pick up Maine LD 307 + earlier enacted bills.
-2. **FIPS county resolver** — OpenStates is state-level only. For the
+1. **Wire `research_agent.py`** — scaffold exists, not yet automated. Needs
+   `ANTHROPIC_API_KEY` repo secret, a review-queue workflow at
+   `data/research_pending.json` so we can manually approve before upserting,
+   and `.github/workflows/refresh-research.yml` (weekly cron). This is the
+   multiplier that takes us from 312 actions → 800-1100 over 2-3 months.
+2. **CourtListener structured ingest** — currently CourtListener flows in as
+   news cards. Adding `lib/sources/courtlistener_actions.py` that extracts
+   case captions + parties + judges + ruling dates as proper actions. Adds
+   ~50-100 records.
+3. **FIPS county resolver** — OpenStates is state-level only. For the
    developer-dossier product we need county-level rollups. Inject a ~3,100-row
    FIPS CSV to extract counties from event `city` + free-text matching.
-3. **`scripts/build_dossier.py`** — per-state + per-county risk dossier
-   committed as `data/dossiers.json`. Composite score: bills + events + sentiment
-   + sources_seen multi-source bonus.
-4. **`/site-screening.html`** — 2-column dossier UI: filter by state/county →
+4. **Historical bills backfill** — OpenStates defaults to ~180-day window.
+   Need `--session` support to pick up Maine LD 307 + earlier enacted bills.
+5. **`scripts/build_dossier.py`** — per-state + per-county risk dossier
+   committed as `data/dossiers.json`. Composite score uses the new actions
+   table + tier_counts + outcome_counts + multi-source bonus.
+6. **`/site-screening.html`** — 2-column dossier UI: filter by state/county →
    dossier card + CSV download + top citations + neighbor counties.
-5. **Pro signup** — Beehiiv newsletter signup + county-level dossier gating +
-   Stripe. Uses the existing subscribe dock as entry point.
-6. **Haiku-scored sentiment + concern extraction** — per-event LLM pass for
-   nuanced sentiment + `key_concerns` list (water, noise, property-value).
-   Cached, ~$0.20 to backfill full DB.
-7. **Reddit OAuth** — unlocks Reddit in Actions.
-8. **Weekly newsletter automation** — `scripts/weekly_brief.py` generating the
-   draft shown in `docs/sample-newsletter.md` from real DB data, draft to Beehiiv.
+7. **Beehiiv wire-up** — replace the localStorage capture in
+   `newsletter.html`'s submit handler with a real Beehiiv API POST.
+8. **Stripe + Pro gating** — paid tier ($50/mo Pro per the live About page).
+   Gates county-level dossiers + alerts + API.
+9. **Reddit OAuth** — unlocks Reddit in Actions.
+10. **Weekly newsletter automation** — `scripts/weekly_brief.py` generating
+    the draft shown in `docs/sample-newsletter.md` from real DB data,
+    draft to Beehiiv.
+
+**Live pricing tiers** (visible on `about.html`, repeated for clarity):
+Free dashboard · **$50/mo Pro** (county dossiers + CSV + 10k API + alerts) ·
+**$499/mo Team** (5 seats + Slack webhooks) · **Custom Enterprise** (unlimited
+seats + real-time webhooks + white-label + quarterly analyst reports).
 
 The strategic pivot: **from "opposition feed for journalists" → "site-intelligence
-API for developers"**. Bills + county dossiers + API access are the load-bearing
-pieces. Target pricing ladder: Free (dashboard + weekly brief) · $19-49/mo Pro ·
-$499-999/mo Team · $5k-25k/mo Enterprise (hyperscalers + utilities + investors).
-See `docs/sample-newsletter.md` for the editorial voice and
-`research/iso-research/00-cross-iso-synthesis.md` for upstream regulatory context.
+API for developers"**. Bills + actions table + county dossiers + API access are
+the load-bearing pieces. The 16-tag taxonomy + datacentertracker.org-grade
+density on the Bills tab is the visible product credibility; the data behind it
+is fully our own pipeline (no imports from any third-party dataset).
+See `docs/sample-newsletter.md` for the editorial voice,
+`research/iso-research/00-cross-iso-synthesis.md` for regulatory context, and
+`scripts/research_agent.py` for the next-multiplier scaffold.
 
 ## References
 
