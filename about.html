@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>About — Data Center Watcher</title>
+  <meta name="description" content="What we track, why, and how. Data sources, methodology, and contact.">
+  <style>
+    :root {
+      --paper: #F0EEE6;
+      --paper-2: #E8E4D6;
+      --ink: #1A1915;
+      --ink-2: #3E3B33;
+      --ink-3: #6B685A;
+      --ink-faint: #8F8C7E;
+      --rule: #D8D4C2;
+      --rule-strong: #B8B4A2;
+      --accent: #B5432C;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    header.site-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .masthead h1 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 19px; font-weight: 400;
+      margin: 0;
+    }
+    .masthead h1 em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .nav-links {
+      display: flex; gap: 16px;
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.14em;
+    }
+    .nav-links a {
+      color: var(--ink-2); text-decoration: none;
+      padding: 4px 0; border-bottom: 1px solid transparent;
+    }
+    .nav-links a:hover  { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.current{ color: var(--ink); border-bottom-color: var(--ink); }
+
+    main { max-width: 720px; margin: 0 auto; padding: 64px 24px 80px; }
+
+    .eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase; letter-spacing: 0.18em;
+      margin-bottom: 18px;
+    }
+    h1.page-title {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 44px; font-weight: 400;
+      letter-spacing: -0.02em; line-height: 1.1;
+      margin: 0 0 24px 0;
+    }
+    .lede {
+      font-size: 18px; color: var(--ink-2);
+      line-height: 1.5;
+      max-width: 640px;
+    }
+
+    section.block { margin: 48px 0; }
+    section.block h2 {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.18em;
+      margin: 0 0 14px 0;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--rule);
+    }
+    section.block p {
+      font-size: 16px; color: var(--ink); line-height: 1.65;
+      margin: 0 0 14px 0;
+    }
+    section.block p strong { font-weight: 600; }
+
+    .source-table {
+      width: 100%; border-collapse: collapse;
+      font-family: "Inter", sans-serif;
+      font-size: 13px;
+      color: var(--ink);
+    }
+    .source-table th {
+      text-align: left;
+      font-weight: 600;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--ink-3);
+      padding: 10px 12px 10px 0;
+      border-bottom: 1px solid var(--rule-strong);
+    }
+    .source-table td {
+      padding: 12px 12px 12px 0;
+      border-bottom: 1px solid var(--rule);
+      vertical-align: top;
+    }
+    .source-table td:first-child {
+      font-weight: 600; color: var(--ink);
+    }
+    .source-table td:nth-child(2) { color: var(--ink-2); }
+    .source-table td:nth-child(3) {
+      color: var(--ink-3);
+      font-family: "JetBrains Mono", "SF Mono", monospace;
+      font-size: 11px;
+      white-space: nowrap;
+    }
+
+    .pricing {
+      display: grid; grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+    }
+    .tier {
+      padding: 22px 24px;
+      border: 1px solid var(--rule);
+      border-radius: 3px;
+      background: var(--paper);
+    }
+    .tier .t-name {
+      font-family: "Inter", sans-serif;
+      font-size: 10px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.16em;
+      color: var(--ink-3);
+      margin-bottom: 8px;
+    }
+    .tier .t-price {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 26px;
+      letter-spacing: -0.01em;
+      margin-bottom: 10px;
+    }
+    .tier .t-price em { font-style: italic; color: var(--ink-3); font-size: 14px; }
+    .tier ul { padding-left: 18px; margin: 0; }
+    .tier li { font-size: 13px; color: var(--ink-2); line-height: 1.5; margin-bottom: 4px; }
+
+    .contact {
+      padding: 28px 32px;
+      background: var(--paper-2);
+      border-radius: 3px;
+      border: 1px solid var(--rule);
+      margin-top: 32px;
+    }
+    .contact h3 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 22px; font-weight: 400;
+      margin: 0 0 8px 0;
+    }
+    .contact p { font-size: 15px; color: var(--ink-2); margin: 0 0 8px 0; }
+    .contact a {
+      color: var(--accent);
+      font-weight: 500;
+      text-decoration: none;
+      border-bottom: 1px solid var(--accent);
+    }
+    .contact a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+
+    footer.site-footer {
+      text-align: center;
+      padding: 40px 20px;
+      border-top: 1px solid var(--rule);
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px;
+      color: var(--ink-faint);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    footer.site-footer a { color: var(--ink-2); text-decoration: none; border-bottom: 1px solid var(--rule-strong); }
+    footer.site-footer a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+
+    @media (max-width: 700px) {
+      .pricing { grid-template-columns: 1fr; }
+      h1.page-title { font-size: 34px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="masthead">
+      <h1>Data Center Opposition <em>· About</em></h1>
+    </div>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html">Dashboard</a>
+      <a href="newsletter.html">Newsletter</a>
+      <a href="blog.html">Blog</a>
+      <a class="current" href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="eyebrow">About</div>
+    <h1 class="page-title">What we do, and why.</h1>
+    <p class="lede">
+      Data Center Watcher is a real-time tracker of US data-center
+      opposition — bills, news, organized community resistance, court
+      rulings, and prediction-market signals — built for developers,
+      investors, utilities, and policy teams that need to know what's
+      happening before it shows up in trade press.
+    </p>
+
+    <section class="block">
+      <h2>Mission</h2>
+      <p>
+        Roughly half of US data-center capacity planned for 2026 is delayed
+        or cancelled. Reuters, NPR, and Bloomberg have all covered the
+        top-line story. <strong>What's missing is the per-state, per-county,
+        weekly-resolution view of where the resistance is moving and what
+        comes next.</strong>
+      </p>
+      <p>
+        We exist to give that view to anyone whose job depends on
+        understanding it — and to make the underlying data accessible
+        enough that journalists, academics, and activists can use it too.
+      </p>
+    </section>
+
+    <section class="block">
+      <h2>How it works</h2>
+      <p>
+        Three independent pipelines run continuously:
+      </p>
+      <p>
+        <strong>Fast tier</strong> — every 15 minutes, GitHub Actions pulls
+        from GDELT (global news), Reddit JSON (community discussions),
+        eight outlet RSS feeds (Data Center Dynamics, Utility Dive, Ars
+        Technica, RTO Insider, etc.), and CourtListener (legal filings).
+        Results are cross-source dedup'd, classified by state and category,
+        and published to <code>data/news.json</code>.
+      </p>
+      <p>
+        <strong>Bills tier</strong> — every hour, GitHub Actions queries
+        OpenStates' v3 REST API across all 50 states for new
+        DC-related legislation. Each bill is classified into one of four
+        tiers (restrictive, protective, supportive, unclear) using a
+        rule-based keyword classifier. Published to
+        <code>data/bills.json</code>.
+      </p>
+      <p>
+        <strong>Deep tier</strong> — once daily, a laptop-local script
+        runs the open-source <em>last30days</em> skill against social
+        platforms (X, YouTube, TikTok, Instagram, Threads, Polymarket,
+        HackerNews) and ingests the results into the same database.
+        Published to <code>data/social_events.json</code>.
+      </p>
+      <p>
+        All three pipelines feed a single SQLite store with cross-source
+        deduplication via URL canonicalization plus content hashing — so
+        when 12 outlets cover the same Maine moratorium, it appears as
+        one event with a list of 12 sources, not 12 duplicate cards.
+      </p>
+    </section>
+
+    <section class="block">
+      <h2>Data sources</h2>
+      <table class="source-table">
+        <thead>
+          <tr><th>Source</th><th>What we get</th><th>Cadence</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>OpenStates</td><td>Legislative bills across all 50 states</td><td>1 hr</td></tr>
+          <tr><td>GDELT DOC 2.0</td><td>Global news articles, multilingual</td><td>15 min</td></tr>
+          <tr><td>Reddit</td><td>Public JSON, 8 subreddit + keyword queries</td><td>15 min</td></tr>
+          <tr><td>Outlet RSS</td><td>DCD, DCK, Utility Dive, Ars, RTO Insider, Latitude, Canary</td><td>15 min</td></tr>
+          <tr><td>CourtListener</td><td>Federal/state court filings, dockets</td><td>15 min</td></tr>
+          <tr><td>YouTube</td><td>Data API v3 + transcripts via yt-dlp (deep tier)</td><td>1 day</td></tr>
+          <tr><td>X / Twitter</td><td>via xAI Grok (browser session, free)</td><td>1 day</td></tr>
+          <tr><td>TikTok / Instagram / Threads</td><td>via ScrapeCreators API</td><td>1 day</td></tr>
+          <tr><td>Polymarket</td><td>Market prices, volume, movement on DC-related events</td><td>1 day</td></tr>
+        </tbody>
+      </table>
+      <p style="margin-top:18px;font-size:14px;color:var(--ink-3)">
+        Source mix is by design. News alone is a lagging indicator —
+        reporters write after the council vote. Reddit + Polymarket are
+        leading. Bills are forward-looking. Cross-source dedup means we
+        keep the strongest signal of each story without duplication.
+      </p>
+    </section>
+
+    <section class="block">
+      <h2>Pricing</h2>
+      <div class="pricing">
+        <div class="tier">
+          <div class="t-name">Free</div>
+          <div class="t-price">$0</div>
+          <ul>
+            <li>Live dashboard (state-level, all tabs)</li>
+            <li>Sample weekly brief</li>
+            <li>Public JSON downloads</li>
+            <li>Rate-limited API access</li>
+          </ul>
+        </div>
+        <div class="tier">
+          <div class="t-name">Pro</div>
+          <div class="t-price">$50 <em>/ month</em></div>
+          <ul>
+            <li>Weekly Sunday Watch newsletter</li>
+            <li>County-level dossiers</li>
+            <li>Weekly-refreshed risk-ranked CSV</li>
+            <li>Email alerts on saved geos</li>
+            <li>Full 5-year historical access</li>
+          </ul>
+        </div>
+        <div class="tier">
+          <div class="t-name">Team</div>
+          <div class="t-price">$499 <em>/ month</em></div>
+          <ul>
+            <li>5 seats</li>
+            <li>Slack webhooks on bill movement</li>
+            <li>Custom geo lists with shared workspace</li>
+            <li>Weekly executive brief by email</li>
+          </ul>
+        </div>
+        <div class="tier">
+          <div class="t-name">Enterprise</div>
+          <div class="t-price">Custom</div>
+          <ul>
+            <li>Unlimited seats &amp; API throughput</li>
+            <li>Real-time webhooks</li>
+            <li>White-label embeddable widgets</li>
+            <li>Quarterly custom analyst reports</li>
+            <li>Dedicated Slack channel</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h2>What we don't do</h2>
+      <p>
+        We don't take political sides. Hyperscalers, utilities, activist
+        coalitions, hedge funds with both long and short DC exposure are
+        all welcome subscribers. Our job is to surface the signal
+        accurately. Yours is to act on it.
+      </p>
+      <p>
+        We don't sell user-organizing data to corporate clients, and we
+        don't sell corporate-strategy data to organizers. The dashboard
+        is the same dashboard for everyone.
+      </p>
+      <p>
+        We don't publish AI-generated copy without a human edit. The
+        weekly brief is drafted with help from Claude Haiku for entity
+        extraction and synthesis, then a human editor sets the framing,
+        verifies citations, and signs every issue.
+      </p>
+    </section>
+
+    <section class="block">
+      <h2>Open source</h2>
+      <p>
+        The scrapers, classifiers, and the dashboard frontend are all
+        public on
+        <a href="https://github.com/AmyArsenal/Data-Center-Watcher" style="color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent);">GitHub</a>.
+        We borrow from OpenStates (bill data), GDELT (news), and the
+        open-source <em>last30days</em> skill (social aggregation) — all
+        properly attributed, all citing back to the originating source on
+        every event.
+      </p>
+    </section>
+
+    <div class="contact">
+      <h3>Get in touch</h3>
+      <p>
+        Press, partnership, custom data, story tips, corrections —
+        all welcome.
+      </p>
+      <p>
+        <a href="mailto:hello@datacenterwatcher.io">hello@datacenterwatcher.io</a>
+      </p>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <a href="index.html">← Back to the dashboard</a>
+  </footer>
+</body>
+</html>

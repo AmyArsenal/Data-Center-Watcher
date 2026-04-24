@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>The Sunday Watch — weekly data-center opposition intel</title>
+  <meta name="description" content="Weekly intel on what bills, community opposition, and social sentiment mean for US data-center siting decisions. $50/month. For developers, investors, and analysts.">
+  <style>
+    :root {
+      --paper: #F0EEE6;
+      --paper-2: #E8E4D6;
+      --ink: #1A1915;
+      --ink-2: #3E3B33;
+      --ink-3: #6B685A;
+      --ink-faint: #8F8C7E;
+      --rule: #D8D4C2;
+      --rule-strong: #B8B4A2;
+      --accent: #B5432C;
+      --announced: #3E5F4B;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Header — shared across all secondary pages */
+    header.site-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .masthead h1 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 19px; font-weight: 400;
+      margin: 0;
+    }
+    .masthead h1 em {
+      font-style: italic; color: var(--ink-3); font-weight: 400;
+    }
+    .nav-links {
+      display: flex; gap: 16px;
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.14em;
+    }
+    .nav-links a {
+      color: var(--ink-2);
+      text-decoration: none;
+      padding: 4px 0;
+      border-bottom: 1px solid transparent;
+      transition: color 160ms ease, border-color 160ms ease;
+    }
+    .nav-links a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.current { color: var(--ink); border-bottom-color: var(--ink); }
+
+    main { max-width: 860px; margin: 0 auto; padding: 72px 24px 100px; }
+
+    .hero {
+      padding-bottom: 34px;
+      border-bottom: 1px solid var(--rule);
+      margin-bottom: 40px;
+    }
+    .eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase; letter-spacing: 0.18em;
+      margin-bottom: 20px;
+    }
+    h1.hero-title {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 54px; font-weight: 400;
+      line-height: 1.05; letter-spacing: -0.025em;
+      margin: 0 0 24px 0;
+    }
+    h1.hero-title em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .lede {
+      font-size: 19px; color: var(--ink-2);
+      max-width: 680px; line-height: 1.5;
+    }
+
+    /* The subscribe panel — hero CTA */
+    .subscribe-hero {
+      display: grid;
+      grid-template-columns: 1.3fr 1fr;
+      gap: 48px;
+      padding: 36px 38px;
+      background: var(--paper-2);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      margin: 40px 0;
+      align-items: center;
+    }
+    .subscribe-hero .price {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 42px;
+      letter-spacing: -0.02em;
+      margin-bottom: 4px;
+    }
+    .subscribe-hero .price em { font-style: italic; color: var(--ink-3); font-size: 18px; }
+    .subscribe-hero .price-sub {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.14em;
+      margin-bottom: 12px;
+    }
+    .subscribe-hero h2 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 24px; font-weight: 400;
+      line-height: 1.2; margin: 0 0 10px 0;
+    }
+    .subscribe-hero p { font-size: 14px; color: var(--ink-2); margin: 0; }
+    form.subscribe-form {
+      display: flex; flex-direction: column; gap: 10px;
+    }
+    form.subscribe-form input[type=email] {
+      padding: 13px 14px;
+      font-family: "Inter", sans-serif;
+      font-size: 13px;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid var(--rule-strong);
+      border-radius: 3px;
+      outline: none;
+    }
+    form.subscribe-form input[type=email]:focus { border-color: var(--ink); }
+    form.subscribe-form button {
+      padding: 13px 22px;
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.14em;
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 3px;
+      cursor: pointer;
+      transition: background 160ms ease;
+    }
+    form.subscribe-form button:hover { background: #000; }
+    .fine-print {
+      font-family: "Inter", sans-serif;
+      font-size: 10px; color: var(--ink-3);
+      letter-spacing: 0.02em;
+    }
+    .subscribe-success {
+      font-family: "Inter", sans-serif;
+      font-size: 12px; color: var(--announced);
+      font-weight: 500;
+    }
+
+    section.block { margin: 56px 0; }
+    section.block h3 {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.18em;
+      color: var(--ink-3);
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--rule);
+    }
+    section.block h2 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 32px; font-weight: 400;
+      letter-spacing: -0.015em; line-height: 1.15;
+      margin: 0 0 16px 0;
+    }
+    section.block p { font-size: 16px; color: var(--ink-2); margin: 0 0 16px 0; }
+    section.block p strong { color: var(--ink); font-weight: 600; }
+
+    .benefits {
+      display: grid; grid-template-columns: repeat(2, 1fr);
+      gap: 28px;
+    }
+    .benefit {
+      padding: 22px 24px;
+      border: 1px solid var(--rule);
+      border-radius: 3px;
+      background: var(--paper);
+    }
+    .benefit .b-eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 10px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.16em;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    .benefit h4 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 18px; font-weight: 400;
+      line-height: 1.25;
+      margin: 0 0 10px 0;
+    }
+    .benefit p { font-size: 14px; color: var(--ink-2); line-height: 1.5; margin: 0; }
+
+    .risk-panel {
+      padding: 28px 32px;
+      background: #FFE4D7;
+      border-left: 3px solid var(--accent);
+      border-radius: 3px;
+      margin: 24px 0;
+    }
+    .risk-panel .r-eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 10px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.18em;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    .risk-panel p { margin: 0; font-size: 15px; color: var(--ink); font-style: italic; line-height: 1.5; }
+
+    .data-panel {
+      padding: 28px 32px;
+      background: var(--paper);
+      border: 1px solid var(--rule-strong);
+      border-radius: 3px;
+      margin: 40px 0;
+      display: grid; grid-template-columns: 1.2fr 1fr;
+      gap: 32px; align-items: center;
+    }
+    .data-panel h3 {
+      border: none; padding: 0; margin: 0 0 6px 0;
+      font-size: 12px; letter-spacing: 0.16em; color: var(--ink-3);
+    }
+    .data-panel h2 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 28px; font-weight: 400; letter-spacing: -0.01em;
+      margin: 0 0 10px 0; line-height: 1.15;
+    }
+    .data-panel p { font-size: 15px; color: var(--ink-2); line-height: 1.5; margin: 0 0 14px 0; }
+    .data-panel .get-data-buttons {
+      display: flex; flex-direction: column; gap: 10px;
+    }
+    .data-panel .get-data-buttons a {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 14px 18px;
+      background: var(--ink);
+      color: var(--paper);
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      letter-spacing: 0.14em; text-transform: uppercase;
+      text-decoration: none;
+      border-radius: 3px;
+      transition: background 160ms ease;
+    }
+    .data-panel .get-data-buttons a:hover { background: #000; }
+    .data-panel .get-data-buttons a.secondary {
+      background: var(--paper);
+      color: var(--ink);
+      border: 1px solid var(--ink);
+    }
+    .data-panel .get-data-buttons a.secondary:hover { background: var(--ink); color: var(--paper); }
+    .data-panel .get-data-buttons a .arr { font-size: 13px; }
+
+    .sample-preview {
+      padding: 26px 32px;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 3px;
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      line-height: 1.55;
+    }
+    .sample-preview .spw-eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 10px; color: var(--ink-faint);
+      letter-spacing: 0.14em; text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .sample-preview .sph {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 20px; line-height: 1.25;
+      margin: 0 0 14px 0;
+      color: var(--ink);
+    }
+    .sample-preview p { font-size: 14.5px; color: var(--ink-2); margin: 0 0 10px 0; }
+    .sample-preview p strong { color: var(--ink); }
+    .sample-preview .sample-more {
+      margin-top: 14px;
+      font-family: "Inter", sans-serif;
+      font-size: 11px;
+      color: var(--accent);
+      letter-spacing: 0.02em;
+    }
+    .sample-preview .sample-more a {
+      color: var(--accent); text-decoration: none; border-bottom: 1px solid var(--accent);
+    }
+
+    .faq dt {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 17px;
+      margin-top: 18px;
+      color: var(--ink);
+    }
+    .faq dd {
+      margin: 6px 0 0 0;
+      font-size: 15px;
+      color: var(--ink-2);
+      line-height: 1.55;
+    }
+
+    footer.site-footer {
+      text-align: center;
+      padding: 40px 20px;
+      border-top: 1px solid var(--rule);
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px;
+      color: var(--ink-faint);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    footer.site-footer a {
+      color: var(--ink-2);
+      text-decoration: none;
+      border-bottom: 1px solid var(--rule-strong);
+    }
+    footer.site-footer a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+
+    @media (max-width: 780px) {
+      .subscribe-hero { grid-template-columns: 1fr; gap: 24px; padding: 26px 22px; }
+      .benefits       { grid-template-columns: 1fr; }
+      .data-panel     { grid-template-columns: 1fr; gap: 18px; padding: 22px 20px; }
+      h1.hero-title   { font-size: 38px; }
+      main            { padding: 40px 20px 60px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="masthead">
+      <h1>Data Center Opposition <em>· A Live Tracker</em></h1>
+    </div>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html">Dashboard</a>
+      <a class="current" href="newsletter.html">Newsletter</a>
+      <a href="blog.html">Blog</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <div class="hero">
+      <div class="eyebrow">The Sunday Watch · Weekly intelligence</div>
+      <h1 class="hero-title">Data centers get built when two things line up — <em>power and community.</em></h1>
+      <p class="lede">
+        Everyone's watching the power side. Substation capacity, PPA prices,
+        interconnection queues, FERC filings.
+        <strong>We watch the other half.</strong> The county councils, the state
+        bills, the Reddit threads, the Polymarket odds, the recall petitions —
+        everything that decides whether a site you're eyeing becomes a press
+        release or a lawsuit.
+      </p>
+    </div>
+
+    <div class="subscribe-hero" id="subscribe">
+      <div>
+        <div class="price">$50 <em>/ month</em></div>
+        <div class="price-sub">Cancel anytime · Paid monthly</div>
+        <h2>The Sunday Watch</h2>
+        <p>
+          A 5-minute brief every Sunday morning. New bills, state-level
+          moratorium movement, organized opposition by county, and — for
+          paid subscribers — the weekly refreshed risk-ranked dossier
+          across all 50 states + every county with DC activity.
+        </p>
+      </div>
+      <form class="subscribe-form" id="subscribe-form" novalidate>
+        <input type="email" name="email" placeholder="you@company.com" required autocomplete="email">
+        <button type="submit">Start subscription</button>
+        <div class="fine-print">Free first issue · Unsubscribe in one click · No spam, ever.</div>
+        <div class="subscribe-success" id="subscribe-success" hidden>
+          ✓ Got your email — first issue lands Sunday morning.
+        </div>
+      </form>
+    </div>
+
+    <section class="block">
+      <h3>Who this is for</h3>
+      <div class="benefits">
+        <div class="benefit">
+          <div class="b-eyebrow">Data-center developers</div>
+          <h4>You're picking between 12 sites in 3 states next quarter.</h4>
+          <p>Know which counties are quietly drafting moratoriums before your
+             capital allocation commits. One bad miss = $50M+ in sunk
+             engineering, permitting, and land-option costs.</p>
+        </div>
+        <div class="benefit">
+          <div class="b-eyebrow">Utilities &amp; grid planners</div>
+          <h4>You're building transmission for load that might not arrive.</h4>
+          <p>Dominion, Duke, AEP — the Northern Virginia build-out assumes
+             Loudoun growth continues. Loudoun just eliminated by-right
+             approval. Watch the gap close, or widen, in real time.</p>
+        </div>
+        <div class="benefit">
+          <div class="b-eyebrow">Investors &amp; analysts</div>
+          <h4>DC-heavy REIT or hyperscaler exposure.</h4>
+          <p>Moratorium risk is not in sell-side models yet. By the time
+             S&amp;P adds a paragraph, your downside is already priced.
+             You need the signal 4-6 months earlier.</p>
+        </div>
+        <div class="benefit">
+          <div class="b-eyebrow">Policy &amp; legal teams</div>
+          <h4>You represent clients in statehouses.</h4>
+          <p>Track every bill in every state in one place. No three-analyst
+             research pod, no LegiScan subscription, no NCSL quarterly
+             lag. Fresh data, classified and deduped.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h3>The risk, concretely</h3>
+      <div class="risk-panel">
+        <div class="r-eyebrow">If you're running DC development strategy and not tracking this</div>
+        <p>
+          "We optioned 3,000 acres and spent 18 months in planning before
+          we realized the state Senate committee had been sitting on a
+          moratorium bill we'd never heard of. By the time we saw it, two
+          of our peer projects had already been cancelled."
+        </p>
+      </div>
+      <p>
+        That's the conversation we've had four times in the last six months.
+        A bill that looks dead for months suddenly gets a co-sponsor, moves
+        in committee, and the next filing your project faces is blocked.
+        <strong>The Sunday Watch exists so you hear about the co-sponsor
+        the week they sign on, not the week the bill passes.</strong>
+      </p>
+    </section>
+
+    <section class="block">
+      <h3>What's in every issue</h3>
+      <div class="sample-preview">
+        <div class="spw-eyebrow">Sample · Issue 15 · April 19, 2026</div>
+        <div class="sph">Subject: Maine made it real. Oklahoma City followed. Polymarket is pricing the next one.</div>
+        <p>
+          <strong>Lede (2 sentences):</strong> What happened this week, in
+          plain English, with no filler.
+        </p>
+        <p>
+          <strong>Big story (1 paragraph):</strong> The single most
+          consequential development, with context and linked citations.
+        </p>
+        <p>
+          <strong>Heating up (3-4 bullets):</strong> States and counties
+          where the temperature moved materially this week.
+        </p>
+        <p>
+          <strong>What the market says:</strong> Polymarket odds relevant to
+          DC builds, with week-over-week movement.
+        </p>
+        <p>
+          <strong>Quietly unfolding:</strong> Under-the-radar items nobody
+          else is flagging yet. This is where the differentiated value lives.
+        </p>
+        <p>
+          <strong>By the numbers:</strong> Screenshot-ready stat block.
+        </p>
+        <p>
+          <strong>On deck (next 7 days):</strong> Forward-looking calendar
+          of state committee hearings, FERC deadlines, council votes.
+        </p>
+        <div class="sample-more">
+          <a href="https://github.com/AmyArsenal/Data-Center-Watcher/blob/main/docs/sample-newsletter.md" target="_blank" rel="noopener">
+            → Read a full sample issue (real data from last week)
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="data-panel">
+        <div>
+          <h3>For Pro subscribers</h3>
+          <h2>Weekly-refreshed data, ranked by county.</h2>
+          <p>
+            Every US state and every county with DC activity, ranked by a
+            composite risk score built from bills, news, social-media
+            sentiment, court filings, and organized-opposition group
+            activity. Updated weekly. JSON + CSV.
+          </p>
+        </div>
+        <div class="get-data-buttons">
+          <a href="data/news.json" download="news.json">
+            News &amp; events (JSON) <span class="arr">↓</span>
+          </a>
+          <a href="data/bills.json" download="bills.json">
+            Legislation (JSON) <span class="arr">↓</span>
+          </a>
+          <a class="secondary" href="#subscribe">
+            Get Pro access <span class="arr">→</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h3>FAQ</h3>
+      <dl class="faq">
+        <dt>Why $50/month?</dt>
+        <dd>
+          It's one lunch. If you make a single site-selection decision per
+          year informed by this, the ROI is 500-2000×. Pricing below that
+          signals we're not a serious operator's tool — which would be
+          wrong. (If you're a journalist or academic researcher and $50 is
+          a hard no, email us — we have a free tier for press.)
+        </dd>
+
+        <dt>Is this a replacement for OpenStates or LegiScan?</dt>
+        <dd>
+          No — OpenStates is our upstream for raw bill text. We add the
+          classification layer (restrictive vs. protective vs. supportive),
+          the cross-source dedup, and the weekly editorial synthesis that
+          tells you which bills actually matter this week and why.
+        </dd>
+
+        <dt>What about FERC filings, court rulings, and co-location orders?</dt>
+        <dd>
+          Covered. CourtListener RSS feeds into the dashboard now; FERC
+          eLibrary is on the roadmap for June. The newsletter integrates
+          them into each week's synthesis.
+        </dd>
+
+        <dt>How is this different from the public dashboard?</dt>
+        <dd>
+          The dashboard shows what's happened. The newsletter tells you
+          what it means and what's coming next. The Pro data layer ranks
+          all 50 states + every active county so you can compare sites.
+        </dd>
+
+        <dt>Can my whole siting team get access?</dt>
+        <dd>
+          Yes — Team plans start at $499/month for 5 seats. Enterprise
+          (unlimited seats, Slack webhooks, custom dossiers, quarterly
+          analyst calls) is a separate conversation. Email us from the
+          <a href="about.html">About</a> page.
+        </dd>
+
+        <dt>Is there a free tier?</dt>
+        <dd>
+          Yes — the live dashboard, the weekly brief's first section, and
+          the sample issue are free. Full newsletter and ranked dossiers
+          are Pro ($50/mo).
+        </dd>
+      </dl>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <a href="index.html">← Back to the dashboard</a>
+  </footer>
+
+  <script>
+  // Captures emails to localStorage until Beehiiv is wired. When the
+  // publication exists, swap to:
+  //   await fetch(`https://api.beehiiv.com/v2/publications/${PUB_ID}/subscriptions`, {
+  //     method: 'POST',
+  //     headers: { 'Content-Type': 'application/json',
+  //                'Authorization': `Bearer ${PUBLIC_PUBLISHABLE_KEY}` },
+  //     body: JSON.stringify({ email, utm_source: 'newsletter-page' }),
+  //   });
+  document.getElementById('subscribe-form').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const val = new FormData(e.target).get('email')?.toString().trim();
+    if (!val || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
+      e.target.email.focus();
+      return;
+    }
+    try {
+      const q = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
+      if (!q.includes(val)) q.push(val);
+      localStorage.setItem('dcw_subscribers', JSON.stringify(q));
+    } catch { /* private mode — fine */ }
+    document.getElementById('subscribe-success').hidden = false;
+    e.target.reset();
+    console.log('[subscribe] captured', val, '— swap to Beehiiv POST when pub live');
+  });
+  </script>
+
+</body>
+</html>

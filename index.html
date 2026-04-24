@@ -75,6 +75,22 @@
   }
   .app.social-mode .social-view { display: block; }
 
+  /* Bills mode — map stays, feed panel becomes bills sidebar */
+  .app.bills-mode .feed-panel { padding: 24px 20px 40px; }
+  .app.bills-mode #filters,
+  .app.bills-mode #company-filters,
+  .app.bills-mode #feed,
+  .app.bills-mode .sort-toggle,
+  .app.bills-mode #state-indicator,
+  .app.bills-mode .feed-eyebrow-label { display: none !important; }
+  .app.bills-mode .bills-panel { display: block; }
+  .app.bills-mode .map-panel .map-legend .layer-toggle { display: none; }
+  .app.bills-mode #legend-events { display: none !important; }
+  .app.bills-mode #legend-bills  { display: flex !important; }
+  .app:not(.bills-mode) .bills-panel { display: none; }
+  /* Hide legacy layer toggle in non-bills modes too — Bills tab replaces it. */
+  .map-panel .map-legend .layer-toggle { display: none; }
+
   .social-masthead {
     max-width: 1200px;
     margin: 0 auto 28px;
@@ -388,17 +404,41 @@
   }
 
   .header-right {
-    display: flex; align-items: center; gap: 16px;
+    display: flex; align-items: center; gap: 18px;
   }
 
-  /* Primary nav — Newsletter / Blog / About */
+  /* Primary section tabs — Bills / News / Social Media */
+  .primary-nav {
+    display: inline-flex;
+    gap: 2px;
+  }
+  .primary-nav button {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 8px 14px 10px;
+    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--ink-3);
+    cursor: pointer;
+    transition: color 160ms ease, border-color 160ms ease;
+    letter-spacing: -0.005em;
+  }
+  .primary-nav button:hover { color: var(--ink); }
+  .primary-nav button.active {
+    color: var(--ink);
+    border-bottom-color: var(--ink);
+  }
+
+  /* Secondary nav — Newsletter / Blog / About */
   .nav-links {
     display: flex; align-items: center; gap: 14px;
     font-family: "Inter", sans-serif;
-    font-size: 11px;
+    font-size: 10.5px;
     font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.14em;
   }
   .nav-links a {
     color: var(--ink-2);
@@ -958,6 +998,181 @@
     .subscribe-dock .dock-panel { width: auto; }
   }
 
+  /* ============================================================
+     Bills panel — sidebar for the Bills tab
+     ============================================================ */
+  .bills-panel {
+    display: none;
+    height: 100%;
+    overflow-y: auto;
+    padding-right: 4px;
+  }
+  .bills-panel::-webkit-scrollbar { width: 4px; }
+  .bills-panel::-webkit-scrollbar-track { background: transparent; }
+  .bills-panel::-webkit-scrollbar-thumb { background: var(--rule-strong); border-radius: 2px; }
+
+  .bills-panel .bp-eyebrow {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--ink-3);
+    margin-bottom: 4px;
+  }
+  .bills-panel .bp-header {
+    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+    font-size: 24px;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    margin: 0 0 8px 0;
+  }
+  .bills-panel .bp-summary {
+    font-family: "Inter", sans-serif;
+    font-size: 11px;
+    color: var(--ink-2);
+    letter-spacing: 0.04em;
+    display: flex; flex-wrap: wrap; gap: 8px 14px;
+    margin-bottom: 18px;
+  }
+  .bills-panel .bp-summary .bp-pill {
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .bills-panel .bp-summary .bp-swatch {
+    width: 9px; height: 9px; border-radius: 2px;
+  }
+
+  .bills-panel .bp-controls {
+    display: flex; flex-direction: column; gap: 10px;
+    padding: 12px 0;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 14px;
+  }
+  .bills-panel .bp-select-row {
+    display: flex; gap: 10px; align-items: center;
+  }
+  .bills-panel .bp-select-row label {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    font-weight: 500;
+    color: var(--ink-3);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    flex-shrink: 0;
+  }
+  .bills-panel select {
+    flex: 1;
+    padding: 7px 10px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    color: var(--ink);
+    background: var(--paper);
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+  }
+  .bills-panel select:focus { border-color: var(--ink); }
+
+  .bills-panel .bp-tier-chips {
+    display: flex; gap: 4px;
+  }
+  .bills-panel .bp-tier-chip {
+    flex: 1;
+    padding: 5px 8px;
+    font-family: "Inter", sans-serif;
+    font-size: 9.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-3);
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    cursor: pointer;
+    text-align: center;
+  }
+  .bills-panel .bp-tier-chip:hover { color: var(--ink); }
+  .bills-panel .bp-tier-chip.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  /* Bill cards */
+  .bill-card {
+    position: relative;
+    padding: 14px 14px 13px 16px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--paper);
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: border-color 140ms ease;
+  }
+  .bill-card:hover { border-color: var(--ink); }
+  .bill-card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--bill-tier-color, var(--rule-strong));
+    border-radius: 3px 0 0 3px;
+  }
+  .bill-card .bc-head {
+    display: flex; align-items: baseline; gap: 10px;
+    margin-bottom: 6px;
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .bill-card .bc-state {
+    color: var(--ink-3);
+  }
+  .bill-card .bc-number {
+    color: var(--ink);
+    font-weight: 600;
+  }
+  .bill-card .bc-status {
+    margin-left: auto;
+    padding: 2px 7px;
+    border-radius: 2px;
+    color: var(--paper);
+    font-size: 9px;
+    letter-spacing: 0.14em;
+    background: var(--bill-tier-color, var(--ink-3));
+    opacity: 0.88;
+  }
+  .bill-card .bc-title {
+    font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+    font-size: 14px;
+    color: var(--ink);
+    line-height: 1.35;
+    margin-bottom: 6px;
+  }
+  .bill-card .bc-meta {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    color: var(--ink-3);
+    letter-spacing: 0.04em;
+  }
+  .bill-card .bc-meta .reason {
+    color: var(--bill-tier-color, var(--ink-2));
+    font-weight: 500;
+  }
+
+  .bills-empty {
+    padding: 40px 8px;
+    text-align: center;
+    font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+    font-style: italic;
+    color: var(--ink-3);
+    font-size: 13px;
+  }
+
   /* scrollbar */
   .feed-scroll::-webkit-scrollbar { width: 4px; }
   .feed-scroll::-webkit-scrollbar-track { background: transparent; }
@@ -972,16 +1187,17 @@
       <span class="sub">prototype · v0.2</span>
     </div>
     <div class="header-right">
-      <nav class="nav-links" aria-label="Primary">
-        <a class="accent" href="#subscribe">Newsletter</a>
-        <a href="blog.html">Blog</a>
-        <a href="#about">About</a>
+      <nav class="primary-nav" id="primary-nav" aria-label="Primary sections">
+        <button class="active" data-view="news">News</button>
+        <button              data-view="bills">Bills</button>
+        <button              data-view="social">Social Media</button>
       </nav>
       <span class="nav-sep" aria-hidden="true"></span>
-      <div class="view-toggle" id="view-toggle">
-        <button class="active" data-view="state">State</button>
-        <button data-view="social">Social Sentiment</button>
-      </div>
+      <nav class="nav-links" aria-label="Secondary">
+        <a href="newsletter.html">Newsletter</a>
+        <a href="blog.html">Blog</a>
+        <a href="about.html">About</a>
+      </nav>
       <div class="sync-pill">
         <span class="sync-dot" id="sync-dot"></span>
         <span id="sync-status">Initializing…</span>
@@ -1063,6 +1279,7 @@
       </div>
     </div>
     <div class="feed-scroll" id="feed"></div>
+    <div class="bills-panel" id="bills-panel" aria-label="Active DC legislation"></div>
   </div>
 
   <footer id="about">
@@ -1161,6 +1378,10 @@ let FAST_META   = null;
 // Bills layer — hourly OpenStates pull, data/bills.json
 let BILLS_DATA  = { items: [], by_state: {} };
 let mapLayer    = 'events';   // 'events' | 'bills'
+
+// Bills sidebar state
+let billsFilterState = 'ALL';
+let billsFilterTier  = 'all';
 
 // Bill tier → map color (paper/ink aesthetic, tuned to existing palette)
 const BILL_COLOR = {
@@ -1499,7 +1720,7 @@ let statesFeatures = null;
 let usTopology = null;
 let isoRegions = {};  // iso code -> { feature, centroid }
 let svgLayers = null;
-let currentView = 'state';
+let currentView = 'news';  // 'news' | 'bills' | 'social'
 
 async function renderMap() {
   const svg = d3.select('#map');
@@ -1707,7 +1928,15 @@ function paintMapState(events) {
         tt.style.top  = (event.clientY + 18) + 'px';
       })
       .on('mouseleave', () => document.getElementById('tooltip').style.opacity = 0)
-      .on('click', () => { if (s) filterByState(code); });
+      .on('click', () => {
+        if (currentView === 'bills') {
+          // In Bills mode, clicking a state filters the sidebar to it.
+          billsFilterState = billsFilterState === code ? 'ALL' : code;
+          renderBillsPanel();
+          return;
+        }
+        if (s) filterByState(code);
+      });
 
     // Bills layer: color from the state's active-bill tier+status
     if (mapLayer === 'bills') {
@@ -2082,6 +2311,108 @@ async function fetchSocialData() {
   }
 }
 
+// =====================================================================
+// Bills sidebar — lives inside .feed-panel when .app.bills-mode is active
+// =====================================================================
+const BILL_TIER_COLOR = {
+  restrictive: '#8B1A1A',
+  protective:  '#A97B23',
+  supportive:  '#2E55A4',
+  unclear:     '#8F8C7E',
+};
+const BILL_STATUS_SHORT = {
+  'enacted':          'Enacted',
+  'passed-both':      'Passed both',
+  'passed-upper':     'Passed Senate',
+  'passed-lower':     'Passed House',
+  'passed-committee': 'Committee',
+  'in-committee':     'In committee',
+  'introduced':       'Introduced',
+};
+
+function renderBillsPanel() {
+  const root = document.getElementById('bills-panel');
+  const all  = (BILLS_DATA.items || []).filter(b =>
+    ['restrictive','protective','supportive'].includes(b.tier));
+
+  const counts = { restrictive: 0, protective: 0, supportive: 0 };
+  const statesWithBills = new Set();
+  for (const b of all) {
+    counts[b.tier] = (counts[b.tier] || 0) + 1;
+    statesWithBills.add(b.state);
+  }
+
+  const filtered = all.filter(b =>
+       (billsFilterState === 'ALL' || b.state === billsFilterState)
+    && (billsFilterTier  === 'all' || b.tier  === billsFilterTier));
+
+  const stateOptions = ['ALL', ...[...statesWithBills].sort()]
+    .map(st => `<option value="${st}" ${st===billsFilterState?'selected':''}>
+        ${st === 'ALL' ? `All states (${statesWithBills.size})` : `${STATE_NAMES[st] || st}`}
+     </option>`).join('');
+
+  const cards = filtered.length ? filtered.map(b => {
+    const c = BILL_TIER_COLOR[b.tier] || BILL_TIER_COLOR.unclear;
+    return `
+      <article class="bill-card" data-url="${b.url_source || b.url_openstates || ''}"
+               style="--bill-tier-color: ${c};">
+        <div class="bc-head">
+          <span class="bc-state">${b.state}</span>
+          <span class="bc-number">${escapeHtml(b.bill_number || '')}</span>
+          <span class="bc-status">${BILL_STATUS_SHORT[b.status] || b.status}</span>
+        </div>
+        <div class="bc-title">${escapeHtml(b.title || '').slice(0, 180)}${(b.title||'').length>180?'…':''}</div>
+        <div class="bc-meta">
+          <span class="reason">${escapeHtml(b.tier_reason || b.tier)}</span>
+          ${b.status_date ? ` · ${b.status_date}` : ''}
+          ${Array.isArray(b.sponsors) && b.sponsors.length ? ` · ${b.sponsors.length} sponsor${b.sponsors.length>1?'s':''}` : ''}
+        </div>
+      </article>`;
+  }).join('') : `<div class="bills-empty">No bills match these filters.</div>`;
+
+  root.innerHTML = `
+    <div class="bp-eyebrow">Active legislation</div>
+    <h2 class="bp-header">${all.length} DC bills · ${statesWithBills.size} states</h2>
+    <div class="bp-summary">
+      <span class="bp-pill"><span class="bp-swatch" style="background:#8B1A1A"></span>${counts.restrictive} restrictive</span>
+      <span class="bp-pill"><span class="bp-swatch" style="background:#A97B23"></span>${counts.protective} protective</span>
+      <span class="bp-pill"><span class="bp-swatch" style="background:#2E55A4"></span>${counts.supportive} supportive</span>
+    </div>
+
+    <div class="bp-controls">
+      <div class="bp-select-row">
+        <label for="bp-state">State</label>
+        <select id="bp-state">${stateOptions}</select>
+      </div>
+      <div class="bp-tier-chips">
+        <button class="bp-tier-chip ${billsFilterTier==='all'         ?'active':''}" data-t="all">All</button>
+        <button class="bp-tier-chip ${billsFilterTier==='restrictive' ?'active':''}" data-t="restrictive">Restrictive</button>
+        <button class="bp-tier-chip ${billsFilterTier==='protective'  ?'active':''}" data-t="protective">Protective</button>
+        <button class="bp-tier-chip ${billsFilterTier==='supportive'  ?'active':''}" data-t="supportive">Supportive</button>
+      </div>
+    </div>
+
+    ${cards}
+  `;
+
+  document.getElementById('bp-state').addEventListener('change', (e) => {
+    billsFilterState = e.target.value;
+    renderBillsPanel();
+  });
+  root.querySelectorAll('.bp-tier-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      billsFilterTier = chip.dataset.t;
+      renderBillsPanel();
+    });
+  });
+  root.querySelectorAll('.bill-card').forEach(card => {
+    card.addEventListener('click', () => {
+      const u = card.dataset.url;
+      if (u) window.open(u, '_blank', 'noopener,noreferrer');
+    });
+  });
+}
+
 function renderFeed() {
   // In social view, draw from SOCIAL_DATA; in state view, from allEvents (GDELT + seed)
   if (currentView === 'social') return renderFeedSocial();
@@ -2275,22 +2606,35 @@ document.querySelectorAll('#sort-toggle button').forEach(btn => {
   });
 });
 
-// View toggle (State / Social)
-document.querySelectorAll('#view-toggle button').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('#view-toggle button').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    currentView = btn.dataset.view;
-    const app = document.querySelector('.app');
-    if (currentView === 'social') {
-      app.classList.add('social-mode');
-      renderSocialPage();
-    } else {
-      app.classList.remove('social-mode');
-      paintMap(allEvents);
-      renderFeed();
-    }
+// Primary nav (Bills / News / Social). Each view owns both the map and the
+// right panel, so mode flips are a single toggle.
+function setView(view) {
+  currentView = view;
+  const app = document.querySelector('.app');
+  app.classList.toggle('social-mode', view === 'social');
+  app.classList.toggle('bills-mode',  view === 'bills');
+
+  // Bills mode forces the map to its legal layer; News keeps the event layer.
+  if (view === 'bills')      mapLayer = 'bills';
+  else if (view === 'news')  mapLayer = 'events';
+
+  document.querySelectorAll('#primary-nav button').forEach(b => {
+    b.classList.toggle('active', b.dataset.view === view);
   });
+
+  if (view === 'social') {
+    renderSocialPage();
+  } else if (view === 'bills') {
+    paintMap(allEvents);
+    renderBillsPanel();
+  } else {  // news
+    paintMap(allEvents);
+    renderFeed();
+  }
+}
+
+document.querySelectorAll('#primary-nav button').forEach(btn => {
+  btn.addEventListener('click', () => setView(btn.dataset.view));
 });
 
 // --- Social magazine-style full page ---
@@ -2596,6 +2940,7 @@ async function refresh() {
   renderFeed();
   renderTicker();
   updateFreshnessChip();
+  if (currentView === 'bills') renderBillsPanel();
 }
 
 (async () => {
@@ -2635,13 +2980,13 @@ window.addEventListener('resize', () => {
   </button>
   <div class="dock-panel" id="subscribe-panel" role="dialog" aria-labelledby="subscribe-heading">
     <button type="button" class="dock-close" id="dock-close-btn" aria-label="Close">×</button>
-    <div class="subscribe-eyebrow">The Sunday Watch</div>
-    <h2 id="subscribe-heading">Get the week in DC opposition — in 5 minutes.</h2>
+    <div class="subscribe-eyebrow">The Sunday Watch · $50/mo</div>
+    <h2 id="subscribe-heading">Weekly intel for people who build, finance, or regulate data centers.</h2>
     <form class="subscribe-form" id="subscribe-form" novalidate>
-      <input type="email" name="email" placeholder="you@example.com" required autocomplete="email">
+      <input type="email" name="email" placeholder="you@company.com" required autocomplete="email">
       <button type="submit">Subscribe</button>
-      <div class="subscribe-fine">Free · Unsubscribe in one click</div>
-      <div class="subscribe-success" id="subscribe-success" hidden>✓ Thanks — first brief headed your way when it ships.</div>
+      <div class="subscribe-fine">Free first issue · <a href="newsletter.html" style="color:inherit;border-bottom:1px solid currentColor;text-decoration:none">See what's inside →</a></div>
+      <div class="subscribe-success" id="subscribe-success" hidden>✓ Thanks — first brief headed your way Sunday morning.</div>
     </form>
   </div>
 </aside>

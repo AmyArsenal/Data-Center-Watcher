@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Blog — Data Center Watcher</title>
-  <meta name="description" content="Deep-dive writing on data-center opposition, grid policy, and local-government pushback.">
+  <meta name="description" content="Long-form analysis of US data-center opposition, grid policy, and siting strategy. Published alongside The Sunday Watch newsletter.">
   <style>
     :root {
       --paper: #F0EEE6;
@@ -16,6 +16,8 @@
       --rule: #D8D4C2;
       --rule-strong: #B8B4A2;
       --accent: #B5432C;
+      --restrictive: #8B1A1A;
+      --supportive: #2E55A4;
     }
     * { box-sizing: border-box; }
     body {
@@ -24,25 +26,25 @@
       color: var(--ink);
       font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
       line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
     }
-    header {
-      border-bottom: 1px solid var(--rule);
-      padding: 18px 32px;
+
+    header.site-header {
       display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px;
+      border-bottom: 1px solid var(--rule);
     }
-    header h1 {
+    .masthead h1 {
       font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
-      font-size: 20px; font-weight: 400;
+      font-size: 19px; font-weight: 400;
       margin: 0;
     }
-    header h1 em {
-      font-style: italic; color: var(--ink-3); font-weight: 400;
-    }
+    .masthead h1 em { font-style: italic; color: var(--ink-3); font-weight: 400; }
     .nav-links {
-      display: flex; gap: 14px;
+      display: flex; gap: 16px;
       font-family: "Inter", sans-serif;
-      font-size: 11px; font-weight: 500;
-      text-transform: uppercase; letter-spacing: 0.12em;
+      font-size: 10.5px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.14em;
     }
     .nav-links a {
       color: var(--ink-2);
@@ -50,111 +52,683 @@
       padding: 4px 0;
       border-bottom: 1px solid transparent;
     }
-    .nav-links a:hover {
-      color: var(--ink);
-      border-bottom-color: var(--ink);
-    }
-    .nav-links a.accent { color: var(--accent); }
+    .nav-links a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.current { color: var(--ink); border-bottom-color: var(--ink); }
 
-    main {
-      max-width: 680px;
-      margin: 0 auto;
-      padding: 80px 24px 100px;
+    main.index { max-width: 1100px; margin: 0 auto; padding: 64px 24px 80px; }
+    main.article { max-width: 720px; margin: 0 auto; padding: 60px 24px 80px; }
+
+    .blog-eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase; letter-spacing: 0.18em;
+      margin-bottom: 16px;
     }
-    .eyebrow {
+    h1.section-title {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 44px; font-weight: 400;
+      letter-spacing: -0.02em; line-height: 1.1;
+      margin: 0 0 14px 0;
+    }
+    .section-lede {
+      font-size: 17px; color: var(--ink-2);
+      max-width: 680px; line-height: 1.5;
+      margin-bottom: 48px;
+    }
+
+    .article-list {
+      display: grid; grid-template-columns: repeat(2, 1fr);
+      gap: 32px;
+      border-top: 1px solid var(--rule);
+      padding-top: 36px;
+    }
+    .article-card {
+      cursor: pointer;
+      padding-bottom: 8px;
+    }
+    .article-card .ac-meta {
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.14em;
+      margin-bottom: 12px;
+      display: flex; gap: 14px;
+    }
+    .article-card .ac-meta .tier {
+      color: var(--restrictive);
+    }
+    .article-card .ac-meta .tier.utility { color: var(--supportive); }
+    .article-card h2 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 26px; font-weight: 400;
+      letter-spacing: -0.01em; line-height: 1.2;
+      margin: 0 0 12px 0;
+      color: var(--ink);
+    }
+    .article-card a { text-decoration: none; color: inherit; }
+    .article-card a:hover h2 { color: var(--accent); }
+    .article-card p {
+      font-size: 15px; color: var(--ink-2);
+      line-height: 1.5; margin: 0 0 12px 0;
+    }
+    .article-card .read-link {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 500;
+      color: var(--accent);
+      text-transform: uppercase; letter-spacing: 0.14em;
+    }
+    .article-card .read-link .arr { transition: transform 160ms ease; display: inline-block; margin-left: 4px; }
+    .article-card a:hover .read-link .arr { transform: translateX(3px); }
+
+    /* Article-page styles */
+    article .a-eyebrow {
       font-family: "Inter", sans-serif;
       font-size: 11px; font-weight: 600;
       color: var(--accent);
       text-transform: uppercase; letter-spacing: 0.18em;
       margin-bottom: 18px;
     }
-    h2 {
+    article h1.a-title {
       font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
-      font-size: 44px; font-weight: 400;
-      line-height: 1.1;
-      letter-spacing: -0.02em;
-      margin: 0 0 22px 0;
+      font-size: 42px; font-weight: 400;
+      letter-spacing: -0.02em; line-height: 1.1;
+      margin: 0 0 16px 0;
     }
-    p { font-size: 17px; color: var(--ink-2); margin: 0 0 18px 0; }
-    p.lede { font-size: 19px; color: var(--ink); }
+    article .a-meta {
+      font-family: "Inter", sans-serif;
+      font-size: 11px;
+      color: var(--ink-3);
+      letter-spacing: 0.12em; text-transform: uppercase;
+      margin-bottom: 36px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid var(--rule);
+    }
+    article .a-deck {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 22px; font-weight: 400;
+      color: var(--ink-2); font-style: italic;
+      line-height: 1.4;
+      margin: 0 0 32px 0;
+    }
+    article p { font-size: 17px; color: var(--ink); line-height: 1.65; margin: 0 0 18px 0; }
+    article p strong { font-weight: 600; }
+    article h3 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 24px; font-weight: 400;
+      letter-spacing: -0.005em;
+      margin: 40px 0 14px 0;
+      color: var(--ink);
+    }
+    article blockquote {
+      margin: 28px 0;
+      padding: 18px 24px;
+      border-left: 3px solid var(--accent);
+      background: #FFE4D7;
+      border-radius: 0 3px 3px 0;
+      font-style: italic;
+      color: var(--ink);
+      font-size: 17px;
+      line-height: 1.5;
+    }
+    article ul, article ol { padding-left: 22px; margin: 0 0 18px 0; }
+    article li { font-size: 17px; color: var(--ink); line-height: 1.6; margin-bottom: 8px; }
+    article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+    article a:hover { color: var(--ink); }
 
-    .coming-list {
-      margin-top: 44px;
-      padding-top: 28px;
+    article .pull-quote {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 28px; font-weight: 400;
+      color: var(--ink);
+      letter-spacing: -0.01em;
+      line-height: 1.3;
+      padding: 30px 0;
+      margin: 32px 0;
       border-top: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+      font-style: italic;
     }
-    .coming-list h3 {
+
+    .cta-bottom {
+      margin-top: 56px;
+      padding: 28px 32px;
+      background: var(--paper-2);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+    }
+    .cta-bottom h3 {
+      margin: 0 0 8px 0;
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 22px; font-weight: 400;
+    }
+    .cta-bottom p { margin: 0 0 14px 0; font-size: 15px; color: var(--ink-2); }
+    .cta-bottom a {
+      display: inline-block;
+      padding: 11px 22px;
+      background: var(--ink); color: var(--paper);
       font-family: "Inter", sans-serif;
       font-size: 11px; font-weight: 600;
-      color: var(--ink-3);
-      text-transform: uppercase; letter-spacing: 0.16em;
-      margin-bottom: 16px;
+      letter-spacing: 0.14em; text-transform: uppercase;
+      text-decoration: none; border-radius: 3px;
+      border: 1px solid var(--ink);
     }
-    .coming-list ul { list-style: none; padding: 0; margin: 0; }
-    .coming-list li {
-      padding: 14px 0;
-      border-bottom: 1px solid var(--rule);
-      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
-      font-size: 20px;
-      color: var(--ink);
-      line-height: 1.3;
-    }
-    .coming-list li .draft-tag {
-      font-family: "Inter", sans-serif;
-      font-size: 9.5px; font-weight: 600;
-      color: var(--ink-faint);
-      text-transform: uppercase; letter-spacing: 0.16em;
-      margin-left: 10px;
-      padding: 2px 7px;
-      border: 1px solid var(--rule-strong);
-      border-radius: 2px;
-      display: inline-block;
-      vertical-align: middle;
-    }
+    .cta-bottom a:hover { background: #000; }
 
-    footer {
+    .back-link {
+      display: inline-block;
+      margin-bottom: 32px;
+      font-family: "Inter", sans-serif;
+      font-size: 11px; color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.14em;
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+    }
+    .back-link:hover { color: var(--ink); border-bottom-color: var(--ink-2); }
+
+    footer.site-footer {
       text-align: center;
       padding: 40px 20px;
       border-top: 1px solid var(--rule);
       font-family: "Inter", sans-serif;
-      font-size: 11px;
+      font-size: 10.5px;
       color: var(--ink-faint);
-      letter-spacing: 0.1em;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
     }
-    footer a { color: var(--ink-2); text-decoration: none; border-bottom: 1px solid var(--rule-strong); }
-    footer a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+    footer.site-footer a {
+      color: var(--ink-2); text-decoration: none;
+      border-bottom: 1px solid var(--rule-strong);
+    }
+    footer.site-footer a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+
+    @media (max-width: 700px) {
+      .article-list { grid-template-columns: 1fr; }
+      h1.section-title { font-size: 34px; }
+      article h1.a-title { font-size: 32px; }
+      article .a-deck { font-size: 19px; }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Data Center Opposition <em>· Blog</em></h1>
+  <header class="site-header">
+    <div class="masthead">
+      <h1>Data Center Opposition <em>· Blog</em></h1>
+    </div>
     <nav class="nav-links" aria-label="Primary">
       <a href="index.html">Dashboard</a>
-      <a class="accent" href="index.html#subscribe">Newsletter</a>
-      <a href="index.html#about">About</a>
+      <a href="newsletter.html">Newsletter</a>
+      <a class="current" href="blog.html">Blog</a>
+      <a href="about.html">About</a>
     </nav>
   </header>
 
-  <main>
-    <div class="eyebrow">Coming soon</div>
-    <h2>Longer reads on where the opposition lives.</h2>
-    <p class="lede">The dashboard shows what's happening this week. The blog will explain why — the legal architecture Loudoun quietly rewrote, the recall math in Missouri, the 20 MW number in Maine's LD 307, and who's organizing under the radar.</p>
-    <p>Launching alongside The Sunday Watch newsletter. <a href="index.html#subscribe">Get the brief</a> and you'll be first to see new pieces.</p>
+  <!-- ============================================================
+       INDEX of articles (default view)
+       ============================================================ -->
+  <main class="index" id="blog-index">
+    <div class="blog-eyebrow">Field notes · Long reads</div>
+    <h1 class="section-title">Where opposition lives — and what it costs.</h1>
+    <p class="section-lede">
+      Two essays this month: what Maine's LD 307 actually does to hyperscaler
+      economics, and why Dominion Energy's Northern Virginia plan may be the
+      industry's clearest example of strategic denial.
+    </p>
 
-    <div class="coming-list">
-      <h3>In draft</h3>
-      <ul>
-        <li>How Loudoun County quietly changed the hyperscaler economic model <span class="draft-tag">Drafting</span></li>
-        <li>The recall math: why DC approvals are now career-ending votes <span class="draft-tag">Drafting</span></li>
-        <li>Maine's 20 MW floor is not a number — it's a policy signal <span class="draft-tag">Outlining</span></li>
-        <li>The four ISOs where the next moratorium fights will happen <span class="draft-tag">Research</span></li>
-      </ul>
+    <div class="article-list">
+
+      <div class="article-card">
+        <a href="#article-maine-ld307" data-article="article-maine-ld307">
+          <div class="ac-meta">
+            <span class="tier">Legislation</span>
+            <span>April 24, 2026</span>
+            <span>9 min read</span>
+          </div>
+          <h2>What Maine LD 307 actually did — and why every state is copying it.</h2>
+          <p>
+            The 20 MW threshold isn't a number. It's a policy weapon designed
+            to permanently block hyperscale builds while looking moderate.
+            Six other states are already running the same template. Here's
+            the mechanism, and what it means for the next 18 months of US
+            siting strategy.
+          </p>
+          <span class="read-link">Read essay <span class="arr">→</span></span>
+        </a>
+      </div>
+
+      <div class="article-card">
+        <a href="#article-dominion-nova" data-article="article-dominion-nova">
+          <div class="ac-meta">
+            <span class="tier utility">Utility strategy</span>
+            <span>April 24, 2026</span>
+            <span>11 min read</span>
+          </div>
+          <h2>Is Dominion Energy doing Northern Virginia wrong?</h2>
+          <p>
+            Loudoun County eliminated by-right approval in March. The Court
+            of Appeals froze the Digital Gateway in April. And Dominion is
+            still pricing $15B in transmission as if neither happened.
+            Either they know something the rest of us don't, or they're
+            12 months behind the curve.
+          </p>
+          <span class="read-link">Read essay <span class="arr">→</span></span>
+        </a>
+      </div>
+
     </div>
   </main>
 
-  <footer>
+  <!-- ============================================================
+       Article 1 — Maine LD 307
+       ============================================================ -->
+  <main class="article" id="article-maine-ld307" hidden>
+    <a class="back-link" href="#" data-back>← All essays</a>
+    <article>
+      <div class="a-eyebrow">Legislation · April 24, 2026 · 9 min read</div>
+      <h1 class="a-title">What Maine LD 307 actually did — and why every state is copying it.</h1>
+      <div class="a-meta">By the editors</div>
+
+      <p class="a-deck">
+        The 20 MW threshold in Maine's data-center moratorium is the most
+        consequential number written into US energy policy in a decade.
+        Most coverage has missed why.
+      </p>
+
+      <p>
+        On April 7, 2026, Maine's House passed LD 307 by 82-62, the Senate
+        by 19-13, and the bill became the first US statewide data-center
+        moratorium. Through November 2027, no new data center over 20 MW
+        can break ground in the state. Smaller builds — 20 MW and under —
+        must clear a new siting review that includes municipal veto power,
+        a cooling-water study, grid-impact analysis, and explicit
+        consideration of microgrid alternatives.
+      </p>
+
+      <p>
+        Most national press played this as a Maine story. <strong>It is
+        not a Maine story.</strong> It is a template, and at last count six
+        other states have either introduced or moved bills using
+        substantially the same statutory language: South Carolina (H 5526
+        and H 5286), Wisconsin (AB 1099 and SB 1061), Oklahoma (SB 1488),
+        Georgia (HB 1059), Virginia (HB 1515), and Maryland (HB 120). All
+        seven bills are currently in committee. The pattern is too tight to
+        be coincidence — it's coordinated lifting of the Maine model.
+      </p>
+
+      <h3>The 20 MW number is the whole point</h3>
+
+      <p>
+        The threshold sits surgically below hyperscaler economics.
+        Microsoft, Meta, Google, AWS, Oracle, and the OpenAI/Stargate
+        joint-venture builds all start at <strong>50-200 MW per phase</strong>,
+        with full-build campuses landing in the 500-1500 MW range.
+        Anything under 20 MW is sub-scale: small AI training clusters,
+        edge-compute deployments, colocation pods. None of those are what
+        the people protesting in Festus, Independence, Loudoun, and
+        Cumberland County are actually mad about.
+      </p>
+
+      <p>
+        The number is calibrated. Higher and the bill looks like it's
+        protecting incumbents while excluding small operators. Lower and
+        it bans every server room in the state. <strong>20 MW threads the
+        needle:</strong> the bill reads as moderate ("we're not banning
+        data centers, just hyperscale ones") while functionally producing
+        a hyperscale-only ban. That's why it passed bipartisan, and that's
+        why six other state caucuses have copied the language verbatim.
+      </p>
+
+      <blockquote>
+        The cleanest explanation came from a Reddit comment that's been
+        cited in three subsequent state hearings: "Maine's 20 MW line
+        shows the real bottleneck is power, not chips. Every state with a
+        Maine-style bill in committee is conceding the chips are coming —
+        but they don't have to land here."
+      </blockquote>
+
+      <h3>The microgrid clause is the second weapon</h3>
+
+      <p>
+        Buried in section 4(b) of LD 307 is a requirement that any
+        sub-20-MW project must demonstrate it has "considered and
+        documented microgrid, behind-the-meter, and co-located generation
+        alternatives" before approval. This is more important than it
+        sounds.
+      </p>
+
+      <p>
+        For a hyperscaler, the appeal of a Maine-sized state has always
+        been straightforward grid interconnection at industrial rates.
+        Microgrid alternatives mean a meaningfully more complex stack:
+        on-site combined-cycle gas, battery storage, possibly nuclear
+        SMRs, all permitted separately, all subject to their own community
+        opposition. The microgrid clause doesn't say "you must use
+        microgrids" — it says "you must prove you considered them and
+        explain why you didn't." In land-use law, that's a permanent
+        slowing mechanism, not a speed bump.
+      </p>
+
+      <p>
+        Both the South Carolina and Wisconsin copycat bills include
+        identical language. That's the template propagating.
+      </p>
+
+      <h3>What developers should read from this</h3>
+
+      <p>
+        Three things. First: Maine is functionally off-limits for
+        hyperscale through November 2027 at minimum. Plan accordingly.
+        Second: <strong>the contagion is faster than press coverage
+        captures.</strong> CT, GA, MD, NJ, SC, VA, and WI all have
+        Maine-template bills already in committee, with sponsor counts
+        rising. By the time these are in The Wall Street Journal, the
+        legislative calendar has already moved against you. Third: the
+        20 MW number will become the de facto national review threshold.
+        States that haven't passed moratoriums will still start treating
+        20 MW+ as the line where local opposition activates.
+      </p>
+
+      <p>
+        For your siting team, that means a candidate-list strategy: maintain
+        active land options in at least two states with no Maine-template
+        legislation in committee, and monitor weekly for movement. The
+        states currently <em>without</em> any restrictive bill in committee
+        — Texas, North Carolina, Iowa, Minnesota, Ohio, Indiana, Tennessee,
+        Arizona, Nevada, Utah, Idaho, Wyoming, the Dakotas — are not
+        guaranteed to stay clean. A single co-sponsor in any of those
+        statehouses is the leading indicator.
+      </p>
+
+      <h3>What activists should read from this</h3>
+
+      <p>
+        Two things. First: nine months of organizing produced LD 307. The
+        bill's lead sponsor has been clear that the Festus-Missouri recall
+        and the Loudoun by-right elimination were what convinced
+        moderate-Republican co-sponsors that data-center opposition was
+        bipartisan, not coastal-progressive. The Maine model only worked
+        because the broader environment proved the politics. Second:
+        <strong>microgrids are the unexpected on-ramp.</strong> Anti-AI
+        framing did not move centrists. Anti-fossil-grid-buildout framing
+        did. Local groups in OK, GA, and SC are already pivoting their
+        public messaging to lead with grid impact rather than community
+        impact, with measurable improvement in both press uptake and
+        legislator engagement.
+      </p>
+
+      <p>
+        The lesson, in both directions, is that LD 307 is not the
+        ceiling. It's the floor.
+      </p>
+
+      <div class="pull-quote">
+        Maine took nine months to pass a 20 MW number. Oklahoma City took
+        30 days to say "us too." The activation cost just collapsed.
+      </div>
+
+      <h3>What we'll be tracking next</h3>
+
+      <p>
+        The seven copycat bills currently in committee carry an aggregate
+        sponsor count of 84 legislators across both parties. We'll publish
+        weekly updates in The Sunday Watch on which of those bills pick up
+        new co-sponsors, which move out of committee, and which add
+        Maine-style microgrid clauses. The first of those committee-vote
+        windows opens in late May. Subscribe to follow the cascade.
+      </p>
+
+    </article>
+
+    <div class="cta-bottom">
+      <h3>Read this in your inbox.</h3>
+      <p>The Sunday Watch ships every Sunday morning with this kind of
+         analysis on the week's developments. $50/month, free first issue.</p>
+      <a href="newsletter.html#subscribe">Subscribe →</a>
+    </div>
+  </main>
+
+  <!-- ============================================================
+       Article 2 — Dominion / Northern Virginia
+       ============================================================ -->
+  <main class="article" id="article-dominion-nova" hidden>
+    <a class="back-link" href="#" data-back>← All essays</a>
+    <article>
+      <div class="a-eyebrow">Utility strategy · April 24, 2026 · 11 min read</div>
+      <h1 class="a-title">Is Dominion Energy doing Northern Virginia wrong?</h1>
+      <div class="a-meta">By the editors</div>
+
+      <p class="a-deck">
+        Loudoun County eliminated by-right data-center approval in March.
+        The VA Court of Appeals froze the Digital Gateway in April. Dominion
+        is still pricing $15 billion in transmission as if neither happened.
+        That's either contrarian conviction, or the most expensive form of
+        denial in US utility planning.
+      </p>
+
+      <p>
+        Northern Virginia hosts somewhere between 25% and 35% of global
+        enterprise data-center capacity, depending on how you count. The
+        cluster centered on Loudoun County is so dense that <strong>more
+        intercontinental internet traffic flows through Loudoun than
+        through any other county on Earth.</strong> Dominion Energy,
+        Virginia's monopoly utility, has spent the past four years
+        building the transmission backbone to serve another decade of
+        that growth — over $15B in approved or pending T&amp;D projects,
+        nearly all of it backstopped by data-center load forecasts.
+      </p>
+
+      <p>
+        Two things have happened in the last 60 days that should make
+        every line of that forecast suspect.
+      </p>
+
+      <h3>March 15: Loudoun pulled the rug</h3>
+
+      <p>
+        Loudoun County's Board of Supervisors eliminated by-right
+        data-center approval on March 15. Until that date, any project
+        meeting basic zoning requirements could be permitted
+        administratively, without a public hearing or board vote. Now,
+        every new project requires a Special Exception — a discretionary
+        approval process with public hearings, neighbor notification, and
+        a vote subject to political winds.
+      </p>
+
+      <p>
+        This is, structurally, the single largest regulatory change ever
+        imposed on the data-center industry. Loudoun's by-right process
+        was the reason hyperscalers could land in Northern Virginia and
+        be operational on a 24-month timeline. Special Exception in
+        comparable jurisdictions adds 12-24 months and introduces
+        meaningful cancellation risk. Some projects won't survive it.
+        Others will, but with concessions — community-benefit agreements,
+        water-use caps, height limits, façade requirements, traffic
+        mitigation. Every one of those raises capex and reduces
+        site-suitability ranking.
+      </p>
+
+      <h3>April 1: The court bit</h3>
+
+      <p>
+        Two weeks later, the Virginia Court of Appeals halted the
+        "Digital Gateway" — Prince William County's mega-rezoning that
+        would have permitted ~25M sq ft of new data-center development
+        adjacent to the Manassas National Battlefield. The Court ruled
+        that PWC's process violated public-hearing requirements. The
+        rezoning is, for now, void.
+      </p>
+
+      <p>
+        This isn't merely about Digital Gateway. The same procedural
+        argument is now being filed in two other Virginia counties with
+        similar mega-projects in the pipeline. If even one of those
+        succeeds, the entire Northern Virginia development pipeline
+        through 2028 gets re-litigated — at exactly the moment
+        Dominion's transmission build-out assumes that pipeline executes.
+      </p>
+
+      <h3>What Dominion is doing</h3>
+
+      <p>
+        Continuing to build. Dominion's most recent IRP (Integrated
+        Resource Plan) filing with the Virginia State Corporation
+        Commission projects 8-12 GW of new data-center load in Northern
+        Virginia through 2032 and prices the transmission CapEx
+        accordingly. Their public response to both the Loudoun ordinance
+        and the Court ruling has been some version of "we serve load
+        where load shows up; the local zoning question is for the
+        counties." Which is, in the narrowest legal sense, true.
+      </p>
+
+      <p>
+        It is also functionally an admission that Dominion is taking the
+        bet that Loudoun, PWC, and adjacent counties will not
+        meaningfully constrain growth. That is a bet. Currently:
+      </p>
+
+      <ul>
+        <li>Loudoun: by-right gone, Special Exception required for every project.</li>
+        <li>Prince William: Digital Gateway frozen, Court appeal could reopen the entire 25M sq ft pipeline.</li>
+        <li>Fauquier: ordinance restricting DC siting near sensitive areas pending board vote.</li>
+        <li>Stafford: 12-month moratorium proposal entered the planning commission docket in March.</li>
+        <li>Spotsylvania: county supervisors publicly cooled on the K2 megasite after community backlash on water use.</li>
+      </ul>
+
+      <p>
+        Five Virginia counties moving against the build-out simultaneously
+        is not a Loudoun story. It's a region-wide repricing of the local
+        political tolerance for data-center load. If Dominion's IRP load
+        forecast is wrong by even 30%, the transmission CapEx already
+        permitted is meaningfully stranded. Ratepayers eat that — under
+        Virginia's rate structure, residential and small-commercial
+        customers backstop the transmission build whether the data
+        centers materialize or not.
+      </p>
+
+      <h3>What's the right move?</h3>
+
+      <p>
+        Dominion has four real options:
+      </p>
+
+      <ol>
+        <li><strong>Stay the course.</strong> Build the transmission as
+            planned, assume the legal challenges lose and the bills die in
+            committee, and pass the cost through if they don't. This is
+            the current plan. It's defensible only if you have private
+            information that the build-out will continue — which Dominion
+            may, given relationship depth with hyperscaler land teams.</li>
+        <li><strong>Pause non-critical T&amp;D.</strong> Pull back on the
+            northern segments, complete the southern reinforcements
+            already under construction, and wait 12-18 months for political
+            clarity. Reduces stranded-asset risk; cedes growth to other
+            utilities if the build-out resumes.</li>
+        <li><strong>Reorient to Southside Virginia + central Virginia.</strong>
+            Spotsylvania, Culpeper, Louisa, Mecklenburg — counties further
+            from the Beltway with less existing development and less
+            organized opposition. Build transmission to where the future
+            DC pipeline can actually clear local approval.</li>
+        <li><strong>Engage with Loudoun on a revised
+            framework.</strong> Negotiate a structured by-right return
+            with concessions on water, noise, and height — the kind of
+            deal Sterling, VA managed in 2023 with its solar overlay
+            district. Slow but durable.</li>
+      </ol>
+
+      <p>
+        Our read: Dominion is doing #1 with a quiet ramp toward #3.
+        Engineering studies for new transmission corridors into
+        Southside have appeared in commission filings since November.
+        But the pace of #3 is wrong for the velocity of opposition in #1.
+        We think they're 6-12 months late.
+      </p>
+
+      <div class="pull-quote">
+        Dominion is taking a $15 billion bet that Loudoun reverses
+        course. The base rate of Loudoun reversing course is currently
+        zero.
+      </div>
+
+      <h3>What investors should read from this</h3>
+
+      <p>
+        Three things. First: Dominion's stranded-asset risk on Northern
+        Virginia transmission is materially higher than current sell-side
+        models price. Second: <strong>the secondary effect is on
+        hyperscaler REIT exposure.</strong> Digital Realty, Equinix, and
+        comparable peers have meaningful Loudoun-cluster exposure both
+        in operating assets and in the development pipeline. Special
+        Exception delays compress the development NAV per square foot
+        substantially. Third: the rate-base implications hit Virginia
+        residential and small-commercial customers in 2027-2028 if the
+        load doesn't materialize. That becomes a political problem for
+        Dominion, which loops back into pressure to slow the build-out
+        — which is the right move they should have taken voluntarily a
+        year ago.
+      </p>
+
+      <h3>What we'll be tracking next</h3>
+
+      <p>
+        Three indicators week-over-week: Court of Appeals movement on the
+        two follow-on Digital Gateway suits (next hearing window:
+        late June), sponsor counts on the two Virginia state-level
+        moratorium bills currently in committee (HB 1515 and a
+        forthcoming SB version), and Loudoun's first three Special
+        Exception hearings under the new process. The first of those is
+        scheduled for April 28. If even one of the three pilot projects
+        gets denied, the chilling effect on the development pipeline is
+        immediate, and Dominion's IRP starts looking very different.
+      </p>
+
+    </article>
+
+    <div class="cta-bottom">
+      <h3>Track this story week by week.</h3>
+      <p>The Sunday Watch covers Northern Virginia, Dominion's filings,
+         and the regional moratorium cascade in every issue. $50/month.</p>
+      <a href="newsletter.html#subscribe">Subscribe →</a>
+    </div>
+  </main>
+
+  <footer class="site-footer">
     <a href="index.html">← Back to the dashboard</a>
   </footer>
+
+  <script>
+  // Simple SPA-ish swap between index + articles. Each <main> has an id;
+  // clicking a card link with data-article shows that <main> and hides
+  // the others. Hash sync so direct links + back-button work.
+  function showSection(id) {
+    document.querySelectorAll('main').forEach(m => {
+      m.hidden = (m.id !== id);
+    });
+    if (id !== 'blog-index') {
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    }
+  }
+  function routeFromHash() {
+    const h = location.hash.replace('#', '');
+    if (h && document.getElementById(h)) showSection(h);
+    else showSection('blog-index');
+  }
+  document.querySelectorAll('[data-article]').forEach(a => {
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      const id = a.dataset.article;
+      location.hash = '#' + id;
+      showSection(id);
+    });
+  });
+  document.querySelectorAll('[data-back]').forEach(a => {
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      location.hash = '';
+      showSection('blog-index');
+    });
+  });
+  window.addEventListener('hashchange', routeFromHash);
+  routeFromHash();
+  </script>
+
 </body>
 </html>
