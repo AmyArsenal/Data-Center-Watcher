@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-04-25T12:06:17Z",
+  "generated_at": "2026-04-25T12:34:12Z",
   "states": [
     {
       "state": "AK",
@@ -102,10 +102,17 @@
     },
     {
       "state": "ME",
-      "count": 21,
-      "risk_score": 70.1,
-      "latest": "2026-04-24",
+      "count": 23,
+      "risk_score": 70.2,
+      "latest": "2026-04-25",
       "url": "data/dossiers/state-ME.json"
+    },
+    {
+      "state": "MI",
+      "count": 1,
+      "risk_score": 66.2,
+      "latest": "2026-04-25",
+      "url": "data/dossiers/state-MI.json"
     },
     {
       "state": "MN",

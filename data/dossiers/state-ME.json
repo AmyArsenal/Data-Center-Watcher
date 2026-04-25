@@ -1,27 +1,27 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-25T12:06:17Z",
+  "generated_at": "2026-04-25T12:34:12Z",
   "risk_score": {
-    "score": 70.1,
-    "tier": 37.3,
+    "score": 70.2,
+    "tier": 37.6,
     "engagement": 6.8,
     "recency": 20.0,
-    "multi_source": 1.0,
+    "multi_source": 0.9,
     "regulatory": 5.0
   },
-  "count": 21,
+  "count": 23,
   "tier_counts": {
-    "restrictive": 19,
+    "restrictive": 21,
     "unclear": 2
   },
   "outcome_counts": {
-    "win": 15,
+    "win": 17,
     "pending": 6
   },
   "scope_counts": {
-    "local": 16,
-    "statewide": 5
+    "local": 17,
+    "statewide": 6
   },
   "issue_top": {
     "grid_energy": 5,
@@ -33,8 +33,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2017-12-22",
-  "latest": "2026-04-24",
+  "latest": "2026-04-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-dd4da60cb3ace3e4-me",
+      "date": "2026-04-25",
+      "jurisdiction": "nbcwashington.com",
+      "title": "Maine governor vetoes first state moratorium on data centers – NBC4 Washington",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://nbcwashington.com/news/national-international/maine-governor-veto-moratorium-data-centers/4095671"
+    },
     {
       "id": "news:gdelt-3d946bf42cdd40f6-me",
       "date": "2026-04-24",
@@ -61,6 +70,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://jdsupra.com/legalnews/maine-could-ban-new-data-centers-and-9622679"
+    },
+    {
+      "id": "news:gdelt-beb292c054de9e3d-me",
+      "date": "2026-04-24",
+      "jurisdiction": "washingtonexaminer.com",
+      "title": "Mills vetoes Maine data center ban",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://washingtonexaminer.com/policy/infrastructure/4542573/janet-mills-veto-maine-data-center-ban"
     },
     {
       "id": "social:reddit-e391061c67d21053-me",
@@ -106,24 +124,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/GreenWicks/comments/1ssmze0/maine_just_made_microgrids_part_of_the_data"
-    },
-    {
-      "id": "social:reddit-d65e733fe50e59eb-me",
-      "date": "2026-04-22",
-      "jurisdiction": "r/TickerTalkByLiam",
-      "title": "The 20 MW pause in Maine points to a much bigger AI constraint. Maine may have just made the next constraint in AI infrastructure a lot more",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/TickerTalkByLiam/comments/1ssmf75/the_20_mw_pause_in_maine_points_to_a_much_bigger"
-    },
-    {
-      "id": "social:reddit-1d994863d83cd33b-me",
-      "date": "2026-04-22",
-      "jurisdiction": "r/RobinHoodPennyStocks",
-      "title": "Maine’s 20 MW Line Shows the Real Bottleneck Is Power, Not Chips. Maine just put a hard line on new data center approvals. Projects above 20",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://reddit.com/r/RobinHoodPennyStocks/comments/1ssl1jh/maines_20_mw_line_shows_the_real_bottleneck_is"
     }
   ]
 }
