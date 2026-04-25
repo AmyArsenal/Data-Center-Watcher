@@ -560,29 +560,56 @@
   </footer>
 
   <script>
-  // Captures emails to localStorage until Beehiiv is wired. When the
-  // publication exists, swap to:
-  //   await fetch(`https://api.beehiiv.com/v2/publications/${PUB_ID}/subscriptions`, {
-  //     method: 'POST',
-  //     headers: { 'Content-Type': 'application/json',
-  //                'Authorization': `Bearer ${PUBLIC_PUBLISHABLE_KEY}` },
-  //     body: JSON.stringify({ email, utm_source: 'newsletter-page' }),
-  //   });
-  document.getElementById('subscribe-form').addEventListener('submit', (e) => {
+  // Subscribe handler — Beehiiv-ready with localStorage fallback.
+  //
+  // To go live with Beehiiv:
+  //   1. Stand up a tiny serverless proxy (Vercel function, Cloudflare Worker,
+  //      AWS Lambda — 10 lines) that holds your private Beehiiv API key and
+  //      POSTs to https://api.beehiiv.com/v2/publications/{PUB_ID}/subscriptions.
+  //      Reason for the proxy: Beehiiv has no public publishable key. Putting
+  //      the API key in this file would expose it to the world.
+  //   2. Set BEEHIIV_PROXY_URL below to your proxy endpoint.
+  //   3. Done — handler will POST email + UTM tags to the proxy and show success
+  //      on 2xx, fall back to localStorage on any error.
+  //
+  // Sample proxy (Vercel): https://github.com/AmyArsenal/Data-Center-Watcher#beehiiv
+  const BEEHIIV_PROXY_URL = '';   // e.g. 'https://your-proxy.vercel.app/subscribe'
+
+  async function captureEmail(email, source) {
+    if (BEEHIIV_PROXY_URL) {
+      try {
+        const r = await fetch(BEEHIIV_PROXY_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, utm_source: source || 'newsletter-page' }),
+        });
+        if (r.ok) return { ok: true, source: 'beehiiv' };
+        console.warn('[subscribe] beehiiv proxy returned', r.status, '— falling back');
+      } catch (e) {
+        console.warn('[subscribe] beehiiv proxy unreachable:', e, '— falling back');
+      }
+    }
+    try {
+      const q = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
+      if (!q.includes(email)) q.push(email);
+      localStorage.setItem('dcw_subscribers', JSON.stringify(q));
+    } catch { /* private mode — fine */ }
+    return { ok: true, source: 'localStorage' };
+  }
+  // Expose for index.html / blog.html inline signup cards.
+  window.dcwCaptureEmail = captureEmail;
+
+  document.getElementById('subscribe-form').addEventListener('submit', async (e) => {
     e.preventDefault();
     const val = new FormData(e.target).get('email')?.toString().trim();
     if (!val || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
       e.target.email.focus();
       return;
     }
-    try {
-      const q = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
-      if (!q.includes(val)) q.push(val);
-      localStorage.setItem('dcw_subscribers', JSON.stringify(q));
-    } catch { /* private mode — fine */ }
+    const r = await captureEmail(val, 'newsletter-hero');
     document.getElementById('subscribe-success').hidden = false;
     e.target.reset();
-    console.log('[subscribe] captured', val, '— swap to Beehiiv POST when pub live');
+    console.log('[subscribe] captured via', r.source);
   });
   </script>
 

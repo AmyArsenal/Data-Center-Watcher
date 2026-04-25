@@ -11,8 +11,8 @@ site-screening product.
 ## What this is
 
 A single-page dashboard with **three primary tabs** in the header (News /
-Bills / Social Media) plus three standalone secondary pages (newsletter.html
-/ blog.html / about.html). Each tab answers one question:
+Bills / Social Media) plus four standalone secondary pages (newsletter.html
+/ blog.html / api.html / about.html). Each tab answers one question:
 
 | Tab | Answers | Powered by |
 |---|---|---|
@@ -88,9 +88,12 @@ Design around it — never rely on an Actions run landing at an exact minute.
 ```
 Data-Center-Watcher/
 ├── index.html                    single-page dashboard (~3100 lines)
-├── newsletter.html               $50/mo marketing page + subscribe form
-├── blog.html                     hash-routed mini-SPA: index + 2 essays
-│                                 (Maine LD 307, Dominion/NoVa)
+├── newsletter.html               $50/mo marketing page + Beehiiv-ready form
+├── blog.html                     hash-routed mini-SPA: index + 4 essays
+│                                 (Ohio ballot, Kansas counties, Maine LD 307,
+│                                  Dominion/NoVa)
+├── api.html                      static-API documentation: endpoints, schemas,
+│                                 quickstart, pricing tiers, FAQ
 ├── about.html                    mission · methodology · sources & attribution
 ├── README.md                     user-facing project intro
 ├── CLAUDE.md                     this file
@@ -376,10 +379,26 @@ in a single `Promise.all`, then re-paints map + feed + ticker + chip + bills sid
   human publisher names; never leaks raw keys to UI
 
 **Subscribe dock — REMOVED.** Was a floating bottom-right pill that overlapped
-sidebar content. Newsletter link in header drives sign-ups; full pitch lives at
-`newsletter.html` with $50/mo + Beehiiv-ready form (still localStorage capture
-until Beehiiv pub exists). The Beehiiv swap-point is in newsletter.html's
-inline `<script>`, NOT index.html anymore.
+sidebar content. Replaced by:
+
+- Newsletter link in header
+- An **inline `.inline-signup` card** that renders at the bottom of both the
+  News feed and the Bills sidebar via `renderInlineSignup(source)` (in
+  index.html, after `escapeHtml`). Non-floating, dismissible (state stored in
+  `localStorage.dcw_signup_dismissed`), hides permanently after a successful
+  submit (`localStorage.dcw_signup_done`)
+- The dedicated newsletter.html for the full pitch + hero subscribe form
+
+**Beehiiv-ready, no key in HTML.** The handler at the top of
+index.html's `dcwCaptureEmail` (and the mirrored copy in newsletter.html) reads
+`BEEHIIV_PROXY_URL` — set this to a tiny serverless endpoint (Vercel function /
+Cloudflare Worker / Lambda — 10 lines) that holds your private Beehiiv API key
+and POSTs to `https://api.beehiiv.com/v2/publications/{PUB_ID}/subscriptions`.
+Reason for the proxy: Beehiiv has no public publishable key, so calling them
+direct from browser would expose the secret. Empty proxy URL → localStorage
+capture (current default). Both index.html and newsletter.html use the same
+function name + signature so a single proxy handles all sources (UTM tagged
+via `utm_source` arg).
 
 ## Secrets + env vars
 
@@ -462,9 +481,10 @@ Secrets to explicitly **not** chase:
     re-introduce inline source lists on other pages.
 
 14. **Subscribe dock REMOVED** (commit `38ac8cf`). Don't put it back — it was
-    overlapping sidebar content in Bills mode. Newsletter link in header is
-    enough; the dedicated newsletter.html has the full marketing surface +
-    subscribe form.
+    overlapping sidebar content in Bills mode. The replacement is the inline
+    `.inline-signup` card injected by `renderInlineSignup()` at the bottom of
+    feed + bills panels. Non-floating; dismissible; respects user's choice via
+    localStorage so it doesn't keep coming back.
 
 15. **Actions table is rebuilt on every fast-tier run** — `refresh_fast.py`
     invokes `migrate_events_to_actions.py` as a subprocess and re-exports
@@ -516,8 +536,12 @@ Next unshipped phases, in priority order:
    table + tier_counts + outcome_counts + multi-source bonus.
 6. **`/site-screening.html`** — 2-column dossier UI: filter by state/county →
    dossier card + CSV download + top citations + neighbor counties.
-7. **Beehiiv wire-up** — replace the localStorage capture in
-   `newsletter.html`'s submit handler with a real Beehiiv API POST.
+7. **Beehiiv wire-up** — stand up the serverless proxy that
+   `BEEHIIV_PROXY_URL` (in index.html + newsletter.html) points at. Vercel
+   function or Cloudflare Worker, holds the private key, POSTs to
+   `/v2/publications/{PUB_ID}/subscriptions`. Both pages flip from
+   localStorage to live capture the moment that URL is set — no other code
+   changes required.
 8. **Stripe + Pro gating** — paid tier ($50/mo Pro per the live About page).
    Gates county-level dossiers + alerts + API.
 9. **Reddit OAuth** — unlocks Reddit in Actions.

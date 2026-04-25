@@ -747,6 +747,94 @@
     font-style: italic;
   }
 
+  /* Inline signup card — sits at the bottom of the feed and bills sidebar.
+     Non-floating, dismissible, fades into the paper aesthetic. */
+  .inline-signup {
+    margin: 28px 16px 24px;
+    padding: 22px 24px;
+    background: var(--paper-2);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    position: relative;
+  }
+  .inline-signup .is-eyebrow {
+    font-family: "Inter", sans-serif;
+    font-size: 10px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.18em;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .inline-signup h4 {
+    font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+    font-size: 19px; font-weight: 400;
+    line-height: 1.25;
+    color: var(--ink);
+    margin: 0 0 8px 0;
+    letter-spacing: -0.005em;
+  }
+  .inline-signup p {
+    font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+    font-size: 13.5px; color: var(--ink-2);
+    line-height: 1.45;
+    margin: 0 0 14px 0;
+  }
+  .inline-signup form { display: flex; gap: 8px; }
+  .inline-signup input[type=email] {
+    flex: 1;
+    padding: 10px 12px;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    color: var(--ink);
+    background: var(--paper);
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    outline: none;
+  }
+  .inline-signup input[type=email]:focus { border-color: var(--ink); }
+  .inline-signup button {
+    padding: 10px 16px;
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--paper);
+    background: var(--ink);
+    border: 1px solid var(--ink);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background 160ms ease;
+    white-space: nowrap;
+  }
+  .inline-signup button:hover { background: #000; }
+  .inline-signup .is-fine {
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    color: var(--ink-3);
+    margin-top: 8px;
+    letter-spacing: 0.02em;
+  }
+  .inline-signup .is-fine a {
+    color: var(--ink-2);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule-strong);
+  }
+  .inline-signup .is-success {
+    font-family: "Inter", sans-serif;
+    font-size: 12px; font-weight: 500;
+    color: var(--announced);
+    margin-top: 8px;
+  }
+  .inline-signup .is-dismiss {
+    position: absolute;
+    top: 8px; right: 10px;
+    background: transparent; border: 0;
+    color: var(--ink-3);
+    font-size: 16px;
+    cursor: pointer;
+    padding: 2px 6px;
+    line-height: 1;
+  }
+  .inline-signup .is-dismiss:hover { color: var(--ink); }
+
   /* footer stats */
   footer {
     grid-area: footer;
@@ -2467,9 +2555,10 @@ function renderBillsPanel() {
        ${st === 'ALL' ? `All states (${statesAll.size})` : (STATE_NAMES[st] || st)}
      </option>`).join('');
 
-  const cardsHtml = groupKeys.length
+  const cardsHtml = (groupKeys.length
     ? groupKeys.map(k => _renderActionGroup(k, grouped[k], _expandedGroups.has(k))).join('')
-    : `<div class="bills-empty">No actions match this state.</div>`;
+    : `<div class="bills-empty">No actions match this state.</div>`)
+    + renderInlineSignup('bills-panel');
 
   root.innerHTML = `
     <div class="bp-eyebrow">Legislation &amp; community actions</div>
@@ -2520,7 +2609,8 @@ function renderFeed() {
 
   const feed = document.getElementById('feed');
   if (!list.length) {
-    feed.innerHTML = '<div class="empty-state">No events match this filter.</div>';
+    feed.innerHTML = '<div class="empty-state">No events match this filter.</div>'
+      + renderInlineSignup('news-feed-empty');
   } else {
     feed.innerHTML = list.map(e => {
       const coPills = (e.companies || []).map(c =>
@@ -2543,7 +2633,7 @@ function renderFeed() {
           <div class="event-footer"><span class="domain">${escapeHtml(displaySource(e))}</span></div>
         </div>
       </article>`;
-    }).join('');
+    }).join('') + renderInlineSignup('news-feed');
 
     feed.querySelectorAll('.event-card').forEach(card => {
       card.addEventListener('click', () => {
@@ -2979,6 +3069,83 @@ function escapeHtml(s) {
   );
 }
 function escapeAttr(s) { return escapeHtml(s); }
+
+// ============================================================
+// Inline newsletter signup — non-floating card injected at the
+// bottom of the news feed and the bills sidebar.
+//
+// Beehiiv-ready: set BEEHIIV_PROXY_URL to a serverless endpoint
+// (Vercel function, Cloudflare Worker, etc.) that holds your
+// private Beehiiv API key and POSTs to the v2 subscriptions API.
+// Empty proxy URL = localStorage capture only (current default).
+// Same proxy is used by newsletter.html.
+// ============================================================
+const BEEHIIV_PROXY_URL = '';   // e.g. 'https://your-proxy.vercel.app/subscribe'
+
+async function dcwCaptureEmail(email, source) {
+  if (BEEHIIV_PROXY_URL) {
+    try {
+      const r = await fetch(BEEHIIV_PROXY_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, utm_source: source || 'dashboard-inline' }),
+      });
+      if (r.ok) return { ok: true, source: 'beehiiv' };
+    } catch (e) { console.warn('[subscribe] proxy unreachable:', e); }
+  }
+  try {
+    const q = JSON.parse(localStorage.getItem('dcw_subscribers') || '[]');
+    if (!q.includes(email)) q.push(email);
+    localStorage.setItem('dcw_subscribers', JSON.stringify(q));
+  } catch { /* private mode — fine */ }
+  return { ok: true, source: 'localStorage' };
+}
+
+function renderInlineSignup(source) {
+  if (localStorage.getItem('dcw_signup_dismissed') === '1') return '';
+  if (localStorage.getItem('dcw_signup_done') === '1') return '';
+  return `
+    <div class="inline-signup" data-signup-src="${escapeAttr(source || 'inline')}">
+      <button type="button" class="is-dismiss" aria-label="Dismiss">×</button>
+      <div class="is-eyebrow">The Sunday Watch · 5-min weekly brief</div>
+      <h4>Want this in your inbox every Sunday morning?</h4>
+      <p>Bills moving in committee, county-level moratoriums, organized opposition by ZIP — synthesized so you can read it over coffee.</p>
+      <form class="is-form" novalidate>
+        <input type="email" name="email" placeholder="you@company.com" required autocomplete="email">
+        <button type="submit">Subscribe</button>
+      </form>
+      <div class="is-fine">Free first issue · $50/mo Pro · <a href="newsletter.html">See full pitch →</a></div>
+    </div>
+  `;
+}
+
+// Event-delegated handler — survives every re-render of the feed/bills panels.
+document.addEventListener('submit', async (e) => {
+  const form = e.target.closest('.inline-signup .is-form');
+  if (!form) return;
+  e.preventDefault();
+  const wrap = form.closest('.inline-signup');
+  const val = new FormData(form).get('email')?.toString().trim();
+  if (!val || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
+    form.email.focus();
+    return;
+  }
+  await dcwCaptureEmail(val, wrap.dataset.signupSrc);
+  try { localStorage.setItem('dcw_signup_done', '1'); } catch {}
+  wrap.querySelector('form').remove();
+  wrap.querySelector('.is-fine').remove();
+  const ok = document.createElement('div');
+  ok.className = 'is-success';
+  ok.textContent = '✓ Subscribed — first issue lands Sunday morning.';
+  wrap.appendChild(ok);
+});
+
+document.addEventListener('click', (e) => {
+  const btn = e.target.closest('.inline-signup .is-dismiss');
+  if (!btn) return;
+  try { localStorage.setItem('dcw_signup_dismissed', '1'); } catch {}
+  btn.closest('.inline-signup').remove();
+});
 
 // Map internal ingester keys → human-readable publisher labels. Used as a
 // fallback when an event lacks source_name/source_domain. Keep in sync with
