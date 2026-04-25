@@ -1217,17 +1217,6 @@
         <button class="filter-chip" data-cat="protested"><span class="dot" style="background:var(--cat-protested)"></span>Contested</button>
         <button class="filter-chip" data-cat="announced"><span class="dot" style="background:var(--cat-announced)"></span>Announced</button>
       </div>
-      <div class="filter-row" id="company-filters" style="margin-top:8px;">
-        <button class="filter-chip active" data-co="all">Any Co.</button>
-        <button class="filter-chip" data-co="MSFT">Microsoft</button>
-        <button class="filter-chip" data-co="META">Meta</button>
-        <button class="filter-chip" data-co="GOOG">Google</button>
-        <button class="filter-chip" data-co="AMZN">Amazon</button>
-        <button class="filter-chip" data-co="OPAI">OpenAI</button>
-        <button class="filter-chip" data-co="ANTR">Anthropic</button>
-        <button class="filter-chip" data-co="ORCL">Oracle</button>
-        <button class="filter-chip" data-co="NVDA">Nvidia</button>
-      </div>
       <div class="filter-row" id="platform-filters" style="margin-top:8px; display:none;">
         <button class="filter-chip active" data-platform="all">All Platforms</button>
         <button class="filter-chip" data-platform="reddit"><span class="dot" style="background:#D05A2C"></span>Reddit</button>
@@ -2457,32 +2446,13 @@ function renderBillsPanel() {
   for (const a of all) counts[a.community_outcome || 'pending'] = (counts[a.community_outcome || 'pending'] || 0) + 1;
   const statesAll = new Set(all.map(a => a.state).filter(s => s && s !== 'US'));
 
-  // Filter
-  const search = billsSearch.toLowerCase();
-  const filtered = all.filter(a =>
-       (billsFilterState   === 'ALL' || a.state === billsFilterState)
-    && (billsFilterOutcome === 'all' || (a.community_outcome || 'pending') === billsFilterOutcome)
-    && (billsFilterScope   === 'all' || a.scope === billsFilterScope)
-    && (billsFilterIssue   === 'all' || (Array.isArray(a.issue_category) && a.issue_category.includes(billsFilterIssue)))
-    && (!search || (a.summary || '').toLowerCase().includes(search)
-                 || (a.jurisdiction || '').toLowerCase().includes(search)
-                 || (a.bill_number || '').toLowerCase().includes(search))
-  );
+  // Filter — only state filter is exposed in the UI; group-by always = state.
+  const filtered = all.filter(a => billsFilterState === 'ALL' || a.state === billsFilterState);
 
-  // Group
+  // Group by state (the only mode now exposed)
   const grouped = {};
   for (const a of filtered) {
-    let key;
-    if (billsGroupBy === 'state')   key = STATE_NAMES[a.state] || a.state || '—';
-    else if (billsGroupBy === 'outcome') key = OUTCOME_LABEL[a.community_outcome || 'pending'];
-    else if (billsGroupBy === 'issue') {
-      // explode by each tag — same action shows in multiple groups
-      for (const t of (a.issue_category || ['(uncategorized)'])) {
-        const k = labels[t] || t.replace(/_/g, ' ');
-        (grouped[k] = grouped[k] || []).push(a);
-      }
-      continue;
-    }
+    const key = STATE_NAMES[a.state] || a.state || '—';
     (grouped[key] = grouped[key] || []).push(a);
   }
   // Sort each group by date desc
@@ -2496,14 +2466,9 @@ function renderBillsPanel() {
        ${st === 'ALL' ? `All states (${statesAll.size})` : (STATE_NAMES[st] || st)}
      </option>`).join('');
 
-  const issueOptions = ['<option value="all">All issues</option>',
-    ...Object.entries(labels).map(([k, lbl]) =>
-      `<option value="${k}" ${billsFilterIssue === k ? 'selected' : ''}>${lbl}</option>`)
-  ].join('');
-
   const cardsHtml = groupKeys.length
     ? groupKeys.map(k => _renderActionGroup(k, grouped[k], _expandedGroups.has(k))).join('')
-    : `<div class="bills-empty">No actions match these filters.</div>`;
+    : `<div class="bills-empty">No actions match this state.</div>`;
 
   root.innerHTML = `
     <div class="bp-eyebrow">Legislation &amp; community actions</div>
@@ -2516,31 +2481,9 @@ function renderBillsPanel() {
     </div>
 
     <div class="bp-controls">
-      <input type="search" id="bp-search" placeholder="Search…" value="${escapeHtml(billsSearch)}" class="bp-search">
       <div class="bp-select-row">
         <label for="bp-state">State</label>
         <select id="bp-state">${stateOptions}</select>
-      </div>
-      <div class="bp-select-row">
-        <label for="bp-issue">Issue</label>
-        <select id="bp-issue">${issueOptions}</select>
-      </div>
-      <div class="bp-tier-chips">
-        <button class="bp-tier-chip ${billsFilterOutcome === 'all'      ? 'active' : ''}" data-out="all">All</button>
-        <button class="bp-tier-chip ${billsFilterOutcome === 'pending'  ? 'active' : ''}" data-out="pending">Pending</button>
-        <button class="bp-tier-chip ${billsFilterOutcome === 'win'      ? 'active' : ''}" data-out="win">Win</button>
-        <button class="bp-tier-chip ${billsFilterOutcome === 'loss'     ? 'active' : ''}" data-out="loss">Loss</button>
-      </div>
-      <div class="bp-tier-chips">
-        <button class="bp-tier-chip ${billsFilterScope === 'all'        ? 'active' : ''}" data-scope="all">All scopes</button>
-        <button class="bp-tier-chip ${billsFilterScope === 'local'      ? 'active' : ''}" data-scope="local">Local</button>
-        <button class="bp-tier-chip ${billsFilterScope === 'statewide'  ? 'active' : ''}" data-scope="statewide">State</button>
-        <button class="bp-tier-chip ${billsFilterScope === 'federal'    ? 'active' : ''}" data-scope="federal">Federal</button>
-      </div>
-      <div class="bp-tier-chips">
-        <button class="bp-tier-chip ${billsGroupBy === 'state'   ? 'active' : ''}" data-grp="state">Group: State</button>
-        <button class="bp-tier-chip ${billsGroupBy === 'outcome' ? 'active' : ''}" data-grp="outcome">Outcome</button>
-        <button class="bp-tier-chip ${billsGroupBy === 'issue'   ? 'active' : ''}" data-grp="issue">Issue</button>
       </div>
     </div>
 
@@ -2549,11 +2492,6 @@ function renderBillsPanel() {
 
   // Wire up controls
   document.getElementById('bp-state').addEventListener('change',  e => { billsFilterState = e.target.value; renderBillsPanel(); });
-  document.getElementById('bp-issue').addEventListener('change',  e => { billsFilterIssue = e.target.value; renderBillsPanel(); });
-  document.getElementById('bp-search').addEventListener('input',  e => { billsSearch = e.target.value; renderBillsPanel(); });
-  root.querySelectorAll('[data-out]').forEach(b   => b.addEventListener('click', () => { billsFilterOutcome = b.dataset.out;   renderBillsPanel(); }));
-  root.querySelectorAll('[data-scope]').forEach(b => b.addEventListener('click', () => { billsFilterScope   = b.dataset.scope; renderBillsPanel(); }));
-  root.querySelectorAll('[data-grp]').forEach(b   => b.addEventListener('click', () => { billsGroupBy       = b.dataset.grp;   renderBillsPanel(); }));
   root.querySelectorAll('.ac-group-toggle').forEach(btn => {
     btn.addEventListener('click', () => {
       const k = btn.dataset.groupKey;
@@ -2721,16 +2659,6 @@ document.querySelectorAll('#filters .filter-chip').forEach(chip => {
     renderFeed();
   });
 });
-// Company filter
-document.querySelectorAll('#company-filters .filter-chip').forEach(chip => {
-  chip.addEventListener('click', () => {
-    document.querySelectorAll('#company-filters .filter-chip').forEach(c => c.classList.remove('active'));
-    chip.classList.add('active');
-    activeCo = chip.dataset.co;
-    renderFeed();
-  });
-});
-
 // Sort toggle (Top / Latest) — applies to both State and Social views
 // Map layer toggle (Events / Bills). Re-paints the map but leaves the
 // feed/ticker alone — they're always event-driven.
