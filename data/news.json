@@ -1,8 +1,170 @@
 {
-  "generated_at": "2026-04-25T02:24:10Z",
+  "generated_at": "2026-04-25T04:58:21Z",
   "window_days": 90,
-  "count": 119,
+  "count": 123,
   "items": [
+    {
+      "id": "gdelt-9630d57a30a95b8c",
+      "state": "MI",
+      "city": null,
+      "category": "banned",
+      "headline": "Michigan utility OKs 12 - month ban on supplying water for data centers",
+      "source_domain": "abc12.com",
+      "source_name": "abc12.com",
+      "url": "https://abc12.com/news/michigan-utility-oks-12-month-ban-on-supplying-water-for-data-centers/article_58cd0db1-f539-594c-9e01-0fbd7ea9cfcd.html",
+      "date": "2026-04-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-25 04:58:21",
+      "url_hash": "9630d57a30a95b8c",
+      "content_hash": "ccbd76086b142193",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-25T04:58:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-63d4d05c4993cc1c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Temple residents launch a recall petition over approved data center",
+      "source_domain": "kxxv.com",
+      "source_name": "kxxv.com",
+      "url": "https://kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/temple-residents-launch-a-recall-petition-against-the-mayor-and-city-council-over-approved-data-center",
+      "date": "2026-04-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-25 04:58:21",
+      "url_hash": "63d4d05c4993cc1c",
+      "content_hash": "beee71059f3ca1b0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-25T04:58:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-cb071bdb1f949537",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Wilmington residents sue city over proposed Amazon data center plans",
+      "source_domain": "wcpo.com",
+      "source_name": "wcpo.com",
+      "url": "https://wcpo.com/news/local-news/wilmington-residents-sue-city-over-proposed-amazon-web-services-data-center-zoning-change-notices",
+      "date": "2026-04-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Amazon"
+      ],
+      "first_seen": "2026-04-25 04:58:21",
+      "url_hash": "cb071bdb1f949537",
+      "content_hash": "85b0684fa3ecb1fd",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-25T04:58:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-beb292c054de9e3d",
+      "state": "ME",
+      "city": null,
+      "category": "banned",
+      "headline": "Mills vetoes Maine data center ban",
+      "source_domain": "washingtonexaminer.com",
+      "source_name": "washingtonexaminer.com",
+      "url": "https://washingtonexaminer.com/policy/infrastructure/4542573/janet-mills-veto-maine-data-center-ban",
+      "date": "2026-04-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-25 04:58:21",
+      "url_hash": "beb292c054de9e3d",
+      "content_hash": "32a8e35f01c982e9",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-25T04:58:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-81b18ddfdf320bd1",
       "state": "ME",
@@ -310,7 +472,7 @@
         "rss-dcd"
       ],
       "snippet": "County officials prevent data centers from being added as a use category",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -349,7 +511,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Cancellations on builds quadrupled to 25 in 2025 from just six in 2024, according to Baird analyst Justin Hauke, as state governments mull moratoriums.",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -388,7 +550,7 @@
         "rss-dcd"
       ],
       "snippet": "The AUB presented last week the results of a national data center benchmarking exercise",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -427,7 +589,7 @@
         "rss-dcd"
       ],
       "snippet": "Data centers are becoming controversial on the other side of the Atlantic",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1367,7 +1529,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Houston is now &ldquo;firmly established as a location of choice for some of the world's largest hyperscalers,&rdquo;&nbsp;CenterPoint&nbsp;CEO Jason Wells said in the company&rsquo;s first quarter earnings call.",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1409,7 +1571,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Constellation needs the waivers from the Federal Energy Regulatory Commission to fully deliver power as soon as the unit restarts, possibly next year. It has a 20-year deal to sell all the energy, capacity and clean energy attributes to Microsoft for data centers.",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3381,7 +3543,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3544,7 +3706,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3583,7 +3745,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-25T02:24:10Z",
+      "last_seen": "2026-04-25T04:58:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4636,16 +4798,28 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-04-25"
+    },
     "ME": {
       "state": "ME",
-      "count": 19,
+      "count": 20,
       "total_engagement": 34885,
       "categories": {
-        "banned": 14,
+        "banned": 15,
         "protested": 5
       },
       "platforms": {
-        "news": 5,
+        "news": 6,
         "reddit": 10,
         "x": 4
       },
