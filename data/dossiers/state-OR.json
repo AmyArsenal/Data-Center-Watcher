@@ -1,31 +1,62 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 35.8,
+    "score": 45.4,
     "tier": 12.0,
-    "engagement": 12.5,
-    "recency": 1.3,
-    "multi_source": 10.0,
-    "regulatory": 0.0
+    "engagement": 9.4,
+    "recency": 14.0,
+    "multi_source": 5.0,
+    "regulatory": 5.0
   },
-  "count": 2,
+  "count": 4,
   "tier_counts": {
-    "unclear": 2
+    "unclear": 2,
+    "null": 2
   },
   "outcome_counts": {
-    "pending": 2
+    "pending": 2,
+    "win": 2
   },
   "scope_counts": {
-    "statewide": 2
+    "statewide": 3,
+    "local": 1
   },
-  "issue_top": {},
-  "companies": [],
+  "issue_top": {
+    "tax_incentive": 1,
+    "ratepayer": 1,
+    "water": 1,
+    "environmental": 1
+  },
+  "companies": [
+    [
+      "Amazon Data Services",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2025-02-25",
+  "latest": "2026-04-15",
   "top_citations": [
+    {
+      "id": "research:or-federal-court-amazon-settlement--20260415-amazon-data-services-agreed-to-pay-20-5m-to-settl",
+      "date": "2026-04-15",
+      "jurisdiction": "Federal Court (Amazon settlement)",
+      "title": "Amazon Data Services agreed to pay $20.5M to settle lawsuit over nitrate pollution tied to its eastern Oregon data center operations.",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.nbcrightnow.com/news/amazon-settles-oregon-data-center-pollution-lawsuit-for-20-5m/article_aa1e0c52-c6be-42c8-bf90-091b3670b75b.html"
+    },
+    {
+      "id": "research:or-oregon-state-legislature-20260302-oregon-lawmakers-amended-hb-4084-gov-kotek-s-ent",
+      "date": "2026-03-02",
+      "jurisdiction": "Oregon State Legislature",
+      "title": "Oregon lawmakers amended HB 4084 (Gov. Kotek's enterprise-zone bill) to impose one-year moratorium barring data centers from receiving new o",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.opb.org/article/2026/03/02/data-centers-cut-bill-expanding-oregon-tax-breaks/"
+    },
     {
       "id": "openstates:ocd-bill-1ed673bf-e51c-4256-ac3d-87a46097d576-or",
       "date": "2025-02-25",

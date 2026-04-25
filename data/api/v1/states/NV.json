@@ -1,31 +1,36 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NV",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 66.2,
-    "tier": 40.0,
+    "score": 52.2,
+    "tier": 26.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 1,
+  "count": 2,
   "tier_counts": {
-    "restrictive": 1
+    "restrictive": 1,
+    "null": 1
   },
   "outcome_counts": {
-    "pending": 1
+    "pending": 2
   },
   "scope_counts": {
-    "local": 1
+    "local": 2
   },
   "issue_top": {
-    "environmental": 1
+    "environmental": 1,
+    "water": 1,
+    "grid_energy": 1,
+    "noise": 1,
+    "community_impact": 1
   },
   "companies": [],
   "opposition_groups": [],
-  "earliest": "2026-04-23",
+  "earliest": "2026-04-22",
   "latest": "2026-04-23",
   "top_citations": [
     {
@@ -36,6 +41,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/Reno/comments/1st4wp7/happy_earth_day_nevada"
+    },
+    {
+      "id": "research:nv-reno-city-council-20260422-reno-city-council-voted-unanimously-to-begin-updat",
+      "date": "2026-04-22",
+      "jurisdiction": "Reno City Council",
+      "title": "Reno City Council voted unanimously to begin updating development and use regulations for data centers, with possible moratorium vote schedu",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.kunr.org/local-stories/2026-04-23/reno-city-council-takes-first-step-toward-changing-data-center-development-rules"
     }
   ]
 }

@@ -1,30 +1,32 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 53.9,
-    "tier": 9.6,
-    "engagement": 12.5,
-    "recency": 16.8,
-    "multi_source": 10.0,
+    "score": 49.0,
+    "tier": 10.0,
+    "engagement": 11.5,
+    "recency": 14.2,
+    "multi_source": 8.3,
     "regulatory": 5.0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 4,
-    "supportive": 1
+    "supportive": 1,
+    "null": 1
   },
   "outcome_counts": {
     "pending": 4,
-    "win": 1
+    "win": 1,
+    "loss": 1
   },
   "scope_counts": {
-    "statewide": 5
+    "statewide": 6
   },
   "issue_top": {
-    "grid_energy": 1,
-    "tax_incentive": 1
+    "tax_incentive": 2,
+    "grid_energy": 1
   },
   "companies": [],
   "opposition_groups": [],
@@ -48,6 +50,15 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
+    },
+    {
+      "id": "research:ar-arkansas-general-assembly-20250410-arkansas-enacted-act-548-hb-1444-expanding-stat",
+      "date": "2025-04-10",
+      "jurisdiction": "Arkansas General Assembly",
+      "title": "Arkansas enacted Act 548 (HB 1444), expanding state sales/use tax exemption for data centers by lowering qualifying investment threshold fro",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.salestaxinstitute.com/resources/arkansas-data-center-tax-exemption-expansion-2025"
     },
     {
       "id": "openstates:ocd-bill-272a4d6a-c291-47d9-982e-e335d0589403-ar",

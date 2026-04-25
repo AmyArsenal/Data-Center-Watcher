@@ -1,34 +1,48 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 47.0,
-    "tier": 16.0,
-    "engagement": 11.7,
-    "recency": 10.5,
-    "multi_source": 8.8,
-    "regulatory": 0.0
+    "score": 48.7,
+    "tier": 14.5,
+    "engagement": 9.6,
+    "recency": 14.3,
+    "multi_source": 5.4,
+    "regulatory": 5.0
   },
-  "count": 8,
+  "count": 13,
   "tier_counts": {
     "restrictive": 2,
     "unclear": 4,
-    "supportive": 2
+    "supportive": 2,
+    "null": 5
   },
   "outcome_counts": {
-    "pending": 7,
-    "win": 1
+    "pending": 9,
+    "win": 2,
+    "loss": 1,
+    "mixed": 1
   },
   "scope_counts": {
-    "local": 1,
-    "statewide": 7
+    "local": 4,
+    "statewide": 9
   },
   "issue_top": {
+    "community_impact": 4,
+    "water": 3,
+    "grid_energy": 3,
     "tax_incentive": 2,
+    "environmental": 2,
+    "zoning": 2,
+    "ratepayer": 2,
     "transparency": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Prologis / Atlas Development",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
   "latest": "2026-04-16",
@@ -43,6 +57,24 @@
       "url": "https://www.wtvm.com/2026/04/16/columbus-city-council-delays-vote-data-center-project-after-resident-concerns/"
     },
     {
+      "id": "research:ga-columbus-city-council-20260416-columbus-city-council-delayed-vote-on-technology-o",
+      "date": "2026-04-16",
+      "jurisdiction": "Columbus City Council",
+      "title": "Columbus City Council delayed vote on Technology Overlay District required for proposed $5.18B Project Ruby data center on 900 acres along L",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.wtvm.com/2026/04/16/columbus-city-council-delays-vote-data-center-project-after-resident-concerns/"
+    },
+    {
+      "id": "research:ga-coweta-county-board-20260411-coweta-county-commissioners-voted-3-2-to-approve-r",
+      "date": "2026-04-11",
+      "jurisdiction": "Coweta County Board",
+      "title": "Coweta County commissioners voted 3-2 to approve rezoning for Project Sail, a $17B 900 MW Prologis/Atlas data center campus on 800 forested ",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.datacenterdynamics.com/en/news/prologis-900mw-project-sail-gets-the-go-ahead-in-coweta-county-georgia/"
+    },
+    {
       "id": "openstates:ocd-bill-9b76ffb5-275d-456f-b376-7ac90f8b533d-ga",
       "date": "2026-02-19",
       "jurisdiction": "GA Legislature",
@@ -50,6 +82,15 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    },
+    {
+      "id": "research:ga-georgia-general-assembly-20260201-rep-derrick-jackson-d-tyrone-introduced-the-dat",
+      "date": "2026-02-01",
+      "jurisdiction": "Georgia General Assembly",
+      "title": "Rep. Derrick Jackson (D-Tyrone) introduced the Data Center Impact Assessment and Development Moratorium Act of 2026, which would impose stat",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://trackbill.com/bill/georgia-house-bill-1059-data-center-impact-assessment-and-development-moratorium-act-of-2026-enact/2799873/"
     },
     {
       "id": "openstates:ocd-bill-1915d2ce-9414-494a-bd62-075ca0a4f75f-ga",
@@ -93,15 +134,6 @@
       "jurisdiction": "GA Legislature",
       "title": "State Sales and Use Taxes; data center equipment sales and use tax exemption; advance the sunset date",
       "tier": "supportive",
-      "outcome": "pending",
-      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
-    },
-    {
-      "id": "openstates:ocd-bill-595044fd-9b2b-499a-b98a-53fa27423caa-ga",
-      "date": "2025-02-20",
-      "jurisdiction": "GA Legislature",
-      "title": "Sales and use tax; exemption for certain high-technology data center equipment; revise sunset date",
-      "tier": "unclear",
       "outcome": "pending",
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
     }

@@ -1,0 +1,56 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "IA",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 26.9,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 8.7,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "null": 2
+  },
+  "outcome_counts": {
+    "mixed": 1,
+    "pending": 1
+  },
+  "scope_counts": {
+    "local": 1,
+    "statewide": 1
+  },
+  "issue_top": {
+    "water": 2,
+    "environmental": 1,
+    "transparency": 1,
+    "grid_energy": 1,
+    "ratepayer": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-01-16",
+  "latest": "2026-02-19",
+  "top_citations": [
+    {
+      "id": "research:ia-iowa-legislature-20260219-house-file-2690-would-require-quarterly-public-rep",
+      "date": "2026-02-19",
+      "jurisdiction": "Iowa Legislature",
+      "title": "House File 2690 would require quarterly public reporting of data center energy and water usage, direct Iowa Utilities Commission to allocate",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.axios.com/local/des-moines/2026/02/19/iowa-lawmakers-push-data-center-transparency"
+    },
+    {
+      "id": "research:ia-city-of-west-des-moines-20260116-microsoft-committed-to-using-zero-water-cooling-te",
+      "date": "2026-01-16",
+      "jurisdiction": "City of West Des Moines",
+      "title": "Microsoft committed to using zero-water cooling technology in its next two West Des Moines data center buildings, plus another planned build",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://www.axios.com/local/des-moines/2026/01/16/microsoft-west-des-moines-data-center-water-zero"
+    }
+  ]
+}

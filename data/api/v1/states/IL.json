@@ -1,0 +1,69 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "IL",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 38.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 3,
+  "tier_counts": {
+    "null": 3
+  },
+  "outcome_counts": {
+    "win": 2,
+    "loss": 1
+  },
+  "scope_counts": {
+    "local": 3
+  },
+  "issue_top": {
+    "zoning": 2,
+    "grid_energy": 2,
+    "water": 2,
+    "farmland": 2,
+    "community_impact": 1
+  },
+  "companies": [
+    [
+      "Hillwood / PowerHouse",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2026-03-16",
+  "latest": "2026-04-24",
+  "top_citations": [
+    {
+      "id": "research:il-champaign-county-board-20260424-champaign-county-board-approved-a-one-year-morator",
+      "date": "2026-04-24",
+      "jurisdiction": "Champaign County Board",
+      "title": "Champaign County Board approved a one-year moratorium on large-scale data center construction (facilities with at least 10,000 square feet o",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.wvik.org/illinois/2026-04-24/champaign-county-board-approves-1-year-data-center-moratorium"
+    },
+    {
+      "id": "research:il-joliet-city-council-20260319-joliet-city-council-voted-8-1-to-approve-controver",
+      "date": "2026-03-19",
+      "jurisdiction": "Joliet City Council",
+      "title": "Joliet City Council voted 8-1 to approve controversial 795-acre, 24-building, $20B Hillwood/PowerHouse data center campus on city's southeas",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/"
+    },
+    {
+      "id": "research:il-mclean-county-board-20260316-the-mclean-county-board-passed-zoning-rules-restri",
+      "date": "2026-03-16",
+      "jurisdiction": "McLean County Board",
+      "title": "The McLean County Board passed zoning rules restricting data centers to manufacturing zones to protect farmland.",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.nprillinois.org/illinois/2026-03-16/illinois-lawmakers-look-to-regulate-data-centers-as-local-governments-propose-their-own-rules"
+    }
+  ]
+}

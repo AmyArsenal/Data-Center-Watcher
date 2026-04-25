@@ -1,0 +1,60 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "NM",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 38.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "null": 2
+  },
+  "outcome_counts": {
+    "pending": 2
+  },
+  "scope_counts": {
+    "statewide": 1,
+    "federal": 1
+  },
+  "issue_top": {
+    "environmental": 2,
+    "water": 2,
+    "grid_energy": 1,
+    "transparency": 1,
+    "community_impact": 1
+  },
+  "companies": [
+    [
+      "STACK Infrastructure",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2026-02-14",
+  "latest": "2026-04-17",
+  "top_citations": [
+    {
+      "id": "research:nm-ferc-staff-20260417-federal-regulatory-staff-at-ferc-formally-proteste",
+      "date": "2026-04-17",
+      "jurisdiction": "FERC staff",
+      "title": "Federal regulatory staff at FERC formally protested proposed natural gas pipeline that would serve Project Jupiter data center campus in Don",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://sourcenm.com/2026/04/17/federal-regulatory-staff-protest-proposed-new-mexico-pipeline-for-data-center/"
+    },
+    {
+      "id": "research:nm-new-mexico-state-senate-20260214-new-mexico-senate-voted-22-20-to-pass-sb-235-stei",
+      "date": "2026-02-14",
+      "jurisdiction": "New Mexico State Senate",
+      "title": "New Mexico Senate voted 22-20 to pass SB 235 (Steinborn), the Microgrid Oversight Act, requiring PRC approval and Energy Transition Act comp",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://sourcenm.com/briefs/while-you-were-sleeping-senate-passes-microgrid-bill-and-more/"
+    }
+  ]
+}

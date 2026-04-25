@@ -1,0 +1,63 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "ID",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 38.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "null": 2
+  },
+  "outcome_counts": {
+    "win": 1,
+    "pending": 1
+  },
+  "scope_counts": {
+    "statewide": 1,
+    "local": 1
+  },
+  "issue_top": {
+    "water": 1,
+    "environmental": 1,
+    "zoning": 1,
+    "farmland": 1,
+    "traffic": 1,
+    "grid_energy": 1,
+    "transparency": 1
+  },
+  "companies": [
+    [
+      "Diode Ventures",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2026-02-03",
+  "latest": "2026-03-26",
+  "top_citations": [
+    {
+      "id": "research:id-idaho-legislature-20260326-house-speaker-mike-moyle-s-hb-895-prohibits-new-da",
+      "date": "2026-03-26",
+      "jurisdiction": "Idaho Legislature",
+      "title": "House Speaker Mike Moyle's HB 895 prohibits new data centers built after July 1, 2026 from using consumptive water for cooling unless suppli",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://capitalpress.com/2026/03/30/idaho-advances-bill-on-data-center-water-consumption/"
+    },
+    {
+      "id": "research:id-city-of-kuna-20260203-toledo-dairy-owner-layne-thornton-filed-petition-f",
+      "date": "2026-02-03",
+      "jurisdiction": "City of Kuna",
+      "title": "Toledo Dairy owner Layne Thornton filed petition for judicial review against City of Kuna challenging 3-2 City Council approval of Diode Ven",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://boisedev.com/news/2026/02/03/data-center-suit/"
+    }
+  ]
+}

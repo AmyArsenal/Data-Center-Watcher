@@ -1,33 +1,60 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CO",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 40.7,
+    "score": 42.4,
     "tier": 12.0,
-    "engagement": 12.5,
-    "recency": 6.2,
-    "multi_source": 10.0,
+    "engagement": 10.0,
+    "recency": 14.4,
+    "multi_source": 6.0,
     "regulatory": 0.0
   },
-  "count": 3,
+  "count": 5,
   "tier_counts": {
-    "unclear": 3
+    "unclear": 3,
+    "null": 2
   },
   "outcome_counts": {
-    "pending": 3
+    "pending": 5
   },
   "scope_counts": {
-    "statewide": 3
+    "statewide": 5
   },
   "issue_top": {
-    "grid_energy": 1
+    "grid_energy": 3,
+    "ratepayer": 2,
+    "environmental": 1,
+    "contract_guarantees": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Xcel Energy",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2025-04-04",
-  "latest": "2026-02-11",
+  "latest": "2026-04-02",
   "top_citations": [
+    {
+      "id": "research:co-colorado-puc-20260402-xcel-energy-filed-large-load-tariff-at-colorado-pu",
+      "date": "2026-04-02",
+      "jurisdiction": "Colorado PUC",
+      "title": "Xcel Energy filed Large Load Tariff at Colorado PUC requiring customers >=50 MW to fully cover the cost of dedicated transmission, substatio",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://coloradosun.com/2026/04/02/data-centers-xcel-energy-colorado-rate-tariff-consumers/"
+    },
+    {
+      "id": "research:co-colorado-general-assembly-20260212-sb26-102-sen-cathy-kipp-rep-kyle-brown-impos",
+      "date": "2026-02-12",
+      "jurisdiction": "Colorado General Assembly",
+      "title": "SB26-102 (Sen. Cathy Kipp / Rep. Kyle Brown) imposes accountability requirements on large-load data centers (30+ MW), including hourly-match",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://leg.colorado.gov/bills/SB26-102"
+    },
     {
       "id": "openstates:ocd-bill-e3810f9e-eb8b-479c-9d51-e20ac7b01865-co",
       "date": "2026-02-11",

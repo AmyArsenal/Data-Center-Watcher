@@ -1,30 +1,40 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MN",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 66.2,
-    "tier": 40.0,
+    "score": 49.4,
+    "tier": 23.2,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 2,
+  "count": 5,
   "tier_counts": {
-    "restrictive": 2
+    "restrictive": 2,
+    "null": 3
   },
   "outcome_counts": {
-    "pending": 1,
-    "win": 1
+    "pending": 2,
+    "win": 2,
+    "mixed": 1
   },
   "scope_counts": {
-    "local": 2
+    "local": 4,
+    "statewide": 1
   },
-  "issue_top": {},
+  "issue_top": {
+    "transparency": 3,
+    "grid_energy": 2,
+    "community_impact": 1,
+    "tax_incentive": 1,
+    "water": 1,
+    "environmental": 1
+  },
   "companies": [],
   "opposition_groups": [],
-  "earliest": "2026-04-24",
+  "earliest": "2026-03-15",
   "latest": "2026-04-24",
   "top_citations": [
     {
@@ -44,6 +54,33 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://hometownsource.com/sun_thisweek/community/rosemount/rosemount-halts-new-data-center-discussion-with-moratorium/article_59c956b3-230d-4e67-aeeb-57028a66816a.html"
+    },
+    {
+      "id": "research:mn-rosemount-city-council-20260421-rosemount-city-council-voted-unanimously-to-adopt",
+      "date": "2026-04-21",
+      "jurisdiction": "Rosemount City Council",
+      "title": "Rosemount City Council voted unanimously to adopt a one-year moratorium on new data center developments. Does not affect Meta's existing dat",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.hometownsource.com/sun_thisweek/community/rosemount/rosemount-halts-new-data-center-discussion-with-moratorium/article_59c956b3-230d-4e67-aeeb-57028a66816a.html"
+    },
+    {
+      "id": "research:mn-city-of-becker-20260318-amazon-scrapped-plans-for-a-large-data-center-proj",
+      "date": "2026-03-18",
+      "jurisdiction": "City of Becker",
+      "title": "Amazon scrapped plans for a large data center project in Becker. Microsoft, which had signed an NDA with Becker, announced March 18 it would",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://www.startribune.com/amazon-suspends-minnesota-data-center-as-lawmakers-plan-to-reduce-big-tech-tax-breaks/601359665"
+    },
+    {
+      "id": "research:mn-minnesota-legislature-20260315-environmental-advocates-union-reps-engineers-an",
+      "date": "2026-03-15",
+      "jurisdiction": "Minnesota Legislature",
+      "title": "Environmental advocates, union reps, engineers, and state lawmakers gathered at MN State Capitol to call for two-year moratorium on new hype",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.womenspress.com/minnesota-lawmakers-and-activists-call-for-moratorium-on-data-centers/"
     }
   ]
 }

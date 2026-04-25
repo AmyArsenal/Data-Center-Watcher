@@ -1,32 +1,59 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "FL",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 38.5,
+    "score": 40.6,
     "tier": 12.0,
-    "engagement": 12.5,
-    "recency": 4.0,
-    "multi_source": 10.0,
+    "engagement": 10.4,
+    "recency": 11.6,
+    "multi_source": 6.7,
     "regulatory": 0.0
   },
-  "count": 4,
+  "count": 6,
   "tier_counts": {
-    "unclear": 4
+    "unclear": 4,
+    "null": 2
   },
   "outcome_counts": {
-    "pending": 3,
-    "win": 1
+    "pending": 4,
+    "win": 2
   },
   "scope_counts": {
-    "statewide": 4
+    "statewide": 5,
+    "local": 1
   },
-  "issue_top": {},
+  "issue_top": {
+    "water": 2,
+    "grid_energy": 2,
+    "ratepayer": 1,
+    "transparency": 1,
+    "zoning": 1,
+    "community_impact": 1
+  },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-05",
-  "latest": "2026-01-13",
+  "latest": "2026-04-14",
   "top_citations": [
+    {
+      "id": "research:fl-nassau-county-board-20260414-nassau-county-board-of-county-commissioners-direct",
+      "date": "2026-04-14",
+      "jurisdiction": "Nassau County Board",
+      "title": "Nassau County Board of County Commissioners directed County Attorney to draft ordinance establishing 12-month moratorium on data center deve",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.fernandinaobserver.org/stories/next-60-days-critical-as-nassau-county-considers-data-center-moratorium,103276"
+    },
+    {
+      "id": "research:fl-florida-legislature-gov-desantis-20260201-florida-senate-passed-legislation-regulating-ai-da",
+      "date": "2026-02-01",
+      "jurisdiction": "Florida Legislature / Gov. DeSantis",
+      "title": "Florida Senate passed legislation regulating AI data centers' energy and water usage, taking effect July 1, 2026. Requires public utilities ",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1007"
+    },
     {
       "id": "openstates:ocd-bill-1f530c44-19ee-4345-bc25-a13870dd271d-fl",
       "date": "2026-01-13",

@@ -1,33 +1,41 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 66.2,
-    "tier": 40.0,
+    "score": 58.3,
+    "tier": 27.1,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
-    "regulatory": 0.0
+    "regulatory": 5.0
   },
-  "count": 7,
+  "count": 13,
   "tier_counts": {
-    "restrictive": 7
+    "restrictive": 7,
+    "null": 6
   },
   "outcome_counts": {
-    "pending": 7
+    "pending": 10,
+    "win": 3
   },
   "scope_counts": {
-    "local": 7
+    "local": 9,
+    "statewide": 4
   },
   "issue_top": {
-    "ratepayer": 1,
+    "ratepayer": 5,
+    "community_impact": 4,
+    "grid_energy": 4,
+    "water": 3,
+    "zoning": 2,
+    "tax_incentive": 2,
     "environmental": 1,
     "noise": 1
   },
   "companies": [],
   "opposition_groups": [],
-  "earliest": "2026-04-12",
+  "earliest": "2026-03-12",
   "latest": "2026-04-23",
   "top_citations": [
     {
@@ -67,6 +75,15 @@
       "url": "https://tiktok.com/@oh.political.news/video/7631947573456014606"
     },
     {
+      "id": "research:oh-tiffin-city-council-20260421-tiffin-city-council-voted-6-0-to-approve-resolutio",
+      "date": "2026-04-21",
+      "jurisdiction": "Tiffin City Council",
+      "title": "Tiffin City Council voted 6-0 to approve Resolution 2026-42, a 12-month moratorium barring establishment or conversion of any structure into",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://tiffinohio.net/posts/tiffin-city-council-approves-12-month-data-center-moratorium/"
+    },
+    {
       "id": "social:tiktok-e6c404ba0222cccc-oh",
       "date": "2026-04-20",
       "jurisdiction": "@putschforohio",
@@ -74,6 +91,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://tiktok.com/@putschforohio/video/7630986924760567053"
+    },
+    {
+      "id": "research:oh-ravenna-city-council-20260415-ravenna-city-council-approved-12-month-moratorium",
+      "date": "2026-04-15",
+      "jurisdiction": "Ravenna City Council",
+      "title": "Ravenna City Council approved 12-month moratorium on new data center development after nearly 100 residents packed April 10 council meeting ",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.aol.com/articles/ravenna-shalersville-limit-data-centers-130003334.html"
     },
     {
       "id": "social:tiktok-34735b86f9e6d46a-oh",
@@ -92,6 +118,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://x.com/ComradeOhio/status/2043333703439388923"
+    },
+    {
+      "id": "research:oh-ohio-attorney-general-ballot-board-20260403-ohio-ag-dave-yost-certified-and-ohio-ballot-board",
+      "date": "2026-04-03",
+      "jurisdiction": "Ohio Attorney General / Ballot Board",
+      "title": "Ohio AG Dave Yost certified, and Ohio Ballot Board unanimously approved, a proposed constitutional amendment to ban future construction of l",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://abc6onyourside.com/news/local/ohio-voters-launch-proposed-amendment-to-keep-big-data-centers-moratorium-ban-from-plugging-in-attorney-general-dave-yost-state-constitution-collect-signatures-petitioners"
     }
   ]
 }

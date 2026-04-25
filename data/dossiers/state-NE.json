@@ -1,35 +1,54 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NE",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 40.1,
-    "tier": 15.2,
-    "engagement": 12.5,
-    "recency": 2.4,
-    "multi_source": 10.0,
+    "score": 38.7,
+    "tier": 14.7,
+    "engagement": 11.5,
+    "recency": 4.2,
+    "multi_source": 8.3,
     "regulatory": 0.0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 3,
     "restrictive": 1,
-    "supportive": 1
+    "supportive": 1,
+    "null": 1
   },
   "outcome_counts": {
-    "pending": 5
+    "pending": 5,
+    "mixed": 1
   },
   "scope_counts": {
-    "statewide": 5
+    "statewide": 6
   },
   "issue_top": {
-    "tax_incentive": 3
+    "tax_incentive": 3,
+    "grid_energy": 1,
+    "ratepayer": 1,
+    "water": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Tenaska",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2023-01-10",
-  "latest": "2026-01-20",
+  "latest": "2026-03-19",
   "top_citations": [
+    {
+      "id": "research:ne-nebraska-legislature-20260319-nebraska-lawmakers-approved-34-7-sen-barry-deka",
+      "date": "2026-03-19",
+      "jurisdiction": "Nebraska Legislature",
+      "title": "Nebraska lawmakers approved (34-7) Sen. Barry DeKay's LB1261 at request of Gov. Pillen, allowing private power plants to serve large data ce",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/legislature-advances-bill-paving-the-way-for-data-centers-in-nebraska/"
+    },
     {
       "id": "openstates:ocd-bill-308dc9d9-5825-414c-b04e-be2c7ec5b598-ne",
       "date": "2026-01-20",

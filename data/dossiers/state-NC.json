@@ -1,31 +1,78 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NC",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 66.2,
-    "tier": 40.0,
+    "score": 48.9,
+    "tier": 17.6,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
-    "regulatory": 0.0
+    "regulatory": 5.0
   },
-  "count": 1,
+  "count": 5,
   "tier_counts": {
-    "restrictive": 1
+    "restrictive": 1,
+    "null": 4
   },
   "outcome_counts": {
-    "pending": 1
+    "pending": 3,
+    "win": 2
   },
   "scope_counts": {
-    "local": 1
+    "local": 5
   },
-  "issue_top": {},
-  "companies": [],
+  "issue_top": {
+    "water": 3,
+    "grid_energy": 3,
+    "noise": 2,
+    "community_impact": 2,
+    "air_quality": 1,
+    "zoning": 1,
+    "transparency": 1,
+    "environmental": 1
+  },
+  "companies": [
+    [
+      "American Towers",
+      1
+    ],
+    [
+      "DFC Stokes LLC",
+      1
+    ]
+  ],
   "opposition_groups": [],
-  "earliest": "2026-04-16",
-  "latest": "2026-04-16",
+  "earliest": "2026-03-13",
+  "latest": "2026-04-24",
   "top_citations": [
+    {
+      "id": "research:nc-charlotte-city-council-20260424-charlotte-council-member-dimple-ajmera-publicly-ca",
+      "date": "2026-04-24",
+      "jurisdiction": "Charlotte City Council",
+      "title": "Charlotte council member Dimple Ajmera publicly called for temporary pause on new data centers near residential areas. American Towers defer",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.wfae.org/energy-environment/2026-04-24/charlotte-council-member-calls-for-a-pause-on-new-data-centers-near-neighborhoods"
+    },
+    {
+      "id": "research:nc-cumberland-county-board-20260423-cumberland-county-board-of-commissioners-voted-6-0",
+      "date": "2026-04-23",
+      "jurisdiction": "Cumberland County Board",
+      "title": "Cumberland County Board of Commissioners voted 6-0 to schedule public hearing on May 18 to consider 1-3 year data center moratorium. At leas",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.cityviewnc.com/stories/cumberland-commissioners-schedule-hearing-on-data-center-moratorium/"
+    },
+    {
+      "id": "research:nc-orange-county-board-20260422-orange-county-board-of-commissioners-passed-unanim",
+      "date": "2026-04-22",
+      "jurisdiction": "Orange County Board",
+      "title": "Orange County Board of Commissioners passed unanimous 6-0 one-year moratorium on large-scale data centers, AI training facilities, and crypt",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.wunc.org/environment/2026-04-22/orange-county-moratorium-data-centers"
+    },
     {
       "id": "social:cumberland-nc-reddit-2026-04-16-nc",
       "date": "2026-04-16",
@@ -34,6 +81,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://www.reddit.com/r/PublicFreakout/comments/1smw0i5/cumberland_county_resident_quotes_microsoft/"
+    },
+    {
+      "id": "research:nc-stokes-county-court-20260313-southern-coalition-for-social-justice-and-selc-fil",
+      "date": "2026-03-13",
+      "jurisdiction": "Stokes County Court",
+      "title": "Southern Coalition for Social Justice and SELC filed suit on behalf of community groups over January 2026 rezoning of 1,845 acres for Projec",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.selc.org/press-release/community-groups-residents-file-lawsuit-over-stokes-county-data-center-rezoning/"
     }
   ]
 }

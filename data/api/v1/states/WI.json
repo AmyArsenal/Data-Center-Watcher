@@ -1,33 +1,58 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 42.8,
-    "tier": 12.8,
-    "engagement": 12.1,
-    "recency": 8.5,
-    "multi_source": 9.3,
-    "regulatory": 0.0
+    "score": 47.9,
+    "tier": 12.6,
+    "engagement": 10.4,
+    "recency": 13.3,
+    "multi_source": 6.7,
+    "regulatory": 5.0
   },
-  "count": 15,
+  "count": 21,
   "tier_counts": {
     "restrictive": 3,
     "unclear": 6,
-    "supportive": 6
+    "supportive": 6,
+    "null": 6
   },
   "outcome_counts": {
-    "pending": 13,
-    "win": 2
+    "pending": 16,
+    "win": 5
   },
   "scope_counts": {
-    "local": 1,
-    "statewide": 14
+    "local": 5,
+    "statewide": 16
   },
   "issue_top": {
-    "tax_incentive": 4
+    "tax_incentive": 5,
+    "transparency": 4,
+    "grid_energy": 3,
+    "water": 3,
+    "community_impact": 3,
+    "environmental": 2,
+    "ratepayer": 2,
+    "zoning": 2
   },
-  "companies": [],
+  "companies": [
+    [
+      "Cloverleaf Infrastructure",
+      1
+    ],
+    [
+      "Microsoft",
+      1
+    ],
+    [
+      "Vantage Data Centers",
+      1
+    ],
+    [
+      "Meta",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2023-05-24",
   "latest": "2026-04-22",
@@ -42,6 +67,33 @@
       "url": "https://reddit.com/r/Appleton/comments/1ssvt82/a_repository_for_information_on_data_centers_in"
     },
     {
+      "id": "research:wi-city-of-beaver-dam-20260415-residents-held-community-led-town-hall-in-beaver-d",
+      "date": "2026-04-15",
+      "jurisdiction": "City of Beaver Dam",
+      "title": "Residents held community-led town hall in Beaver Dam to protest Meta's $1B AI data center over water use, electric rates, and lack of transp",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.tmj4.com/news/dodge-county/its-really-scary-beaver-dam-residents-raise-water-concerns-about-metas-ai-data-center"
+    },
+    {
+      "id": "research:wi-city-of-port-washington-20260407-port-washington-voters-approved-a-referendum-66-i",
+      "date": "2026-04-07",
+      "jurisdiction": "City of Port Washington",
+      "title": "Port Washington voters approved a referendum 66% in favor requiring voter approval for any TIF district over $10 million. Organized by Great",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://wisconsinwatch.org/2026/04/port-washington-data-center-project-voters-referendum-tif-district-wisconsin/"
+    },
+    {
+      "id": "research:wi-manitowoc-county-planning-20260331-manitowoc-county-planning-and-parks-commission-una",
+      "date": "2026-03-31",
+      "jurisdiction": "Manitowoc County Planning",
+      "title": "Manitowoc County Planning and Parks Commission unanimously approved a one-year moratorium on data center permits, advancing to County Board.",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.wpr.org/news/manitowoc-county-committee-recommends-moratorium-data-center-permitting"
+    },
+    {
       "id": "openstates:ocd-bill-d0f21623-70d2-4cc1-86b1-4b1f0f05d530-wi",
       "date": "2026-03-13",
       "jurisdiction": "WI Legislature",
@@ -51,6 +103,15 @@
       "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1099"
     },
     {
+      "id": "research:wi-wisconsin-assembly-20260313-ab-1099-pause-to-protect-rep-madison-would-pr",
+      "date": "2026-03-13",
+      "jurisdiction": "Wisconsin Assembly",
+      "title": "AB 1099 'Pause to Protect' (Rep. Madison) would prohibit operating a data center in Wisconsin until the Legislature enacts a comprehensive s",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://legiscan.com/WI/bill/AB1099/2025"
+    },
+    {
       "id": "openstates:ocd-bill-53f7eca5-cb82-40da-bbf5-61bff801bbb5-wi",
       "date": "2026-02-26",
       "jurisdiction": "WI Legislature",
@@ -58,6 +119,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1061"
+    },
+    {
+      "id": "research:wi-wisconsin-senate-20260226-sb-1061-sen-habush-sinykin-sen-carpenter-woul",
+      "date": "2026-02-26",
+      "jurisdiction": "Wisconsin Senate",
+      "title": "SB 1061 (Sen. Habush Sinykin, Sen. Carpenter) would require 100% newly built renewable energy for data centers, restore PSC integrated resou",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb1061"
     },
     {
       "id": "openstates:ocd-bill-7036ac90-6599-44be-96b9-12de35e7c58f-wi",
@@ -76,51 +146,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb969"
-    },
-    {
-      "id": "openstates:ocd-bill-c38dacbc-5b97-40f9-816a-ba4eb50db0da-wi",
-      "date": "2026-01-15",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: certain requirements related to data centers.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb843"
-    },
-    {
-      "id": "openstates:ocd-bill-d9fd8ff2-620d-4468-a504-87ecb3df4a32-wi",
-      "date": "2026-01-09",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: certain requirements related to data centers.",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab840"
-    },
-    {
-      "id": "openstates:ocd-bill-4e89e730-8ed6-4b1e-b9b0-6bb7f7c58a5a-wi",
-      "date": "2025-12-03",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for ",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab722"
-    },
-    {
-      "id": "openstates:ocd-bill-1b6cbbc8-2f88-422f-a98c-5d2591220eb4-wi",
-      "date": "2025-12-02",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for ",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb729"
-    },
-    {
-      "id": "openstates:ocd-bill-d039a7b0-8575-4809-bd26-8939dace7b19-wi",
-      "date": "2025-05-09",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: modifying the sales and use tax exemption for qualified data centers. (FE)",
-      "tier": "supportive",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb244"
     }
   ]
 }

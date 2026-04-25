@@ -1,26 +1,30 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AL",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 59.5,
+    "score": 54.1,
     "tier": 12.0,
-    "engagement": 12.5,
+    "engagement": 10.4,
     "recency": 20.0,
-    "multi_source": 10.0,
+    "multi_source": 6.7,
     "regulatory": 5.0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
-    "unclear": 2
+    "unclear": 2,
+    "null": 1
   },
   "outcome_counts": {
-    "win": 2
+    "win": 3
   },
   "scope_counts": {
-    "statewide": 2
+    "statewide": 3
   },
-  "issue_top": {},
+  "issue_top": {
+    "tax_incentive": 1,
+    "ratepayer": 1
+  },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-17",
@@ -34,6 +38,15 @@
       "tier": "unclear",
       "outcome": "win",
       "url": "https://alison.legislature.state.al.us/bill-search"
+    },
+    {
+      "id": "research:al-alabama-legislature-20260410-alabama-senate-unanimously-passed-hb-399-rep-lei",
+      "date": "2026-04-10",
+      "jurisdiction": "Alabama Legislature",
+      "title": "Alabama Senate unanimously passed HB 399 (Rep. Leigh Hulsey), sending it to Gov. Kay Ivey, capping data center tax abatements at 20 years (d",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.alreporter.com/2026/04/10/alabama-senate-sends-bill-to-limit-data-center-tax-breaks-to-governor/"
     },
     {
       "id": "openstates:ocd-bill-bd147983-69c0-4824-944b-f0142ae0ba6f-al",

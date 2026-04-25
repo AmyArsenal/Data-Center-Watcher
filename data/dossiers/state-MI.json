@@ -1,29 +1,50 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 66.2,
-    "tier": 40.0,
+    "score": 45.2,
+    "tier": 19.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 1,
+  "count": 4,
   "tier_counts": {
-    "restrictive": 1
+    "restrictive": 1,
+    "null": 3
   },
   "outcome_counts": {
-    "win": 1
+    "win": 2,
+    "pending": 2
   },
   "scope_counts": {
-    "local": 1
+    "local": 3,
+    "statewide": 1
   },
-  "issue_top": {},
-  "companies": [],
+  "issue_top": {
+    "community_impact": 2,
+    "grid_energy": 1,
+    "water": 1,
+    "ratepayer": 1,
+    "environmental": 1,
+    "zoning": 1,
+    "noise": 1,
+    "transparency": 1
+  },
+  "companies": [
+    [
+      "Deep Green",
+      1
+    ],
+    [
+      "Hyperscale Data",
+      1
+    ]
+  ],
   "opposition_groups": [],
-  "earliest": "2026-04-25",
+  "earliest": "2026-03-01",
   "latest": "2026-04-25",
   "top_citations": [
     {
@@ -34,6 +55,33 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://abc12.com/news/michigan-utility-oks-12-month-ban-on-supplying-water-for-data-centers/article_58cd0db1-f539-594c-9e01-0fbd7ea9cfcd.html"
+    },
+    {
+      "id": "research:mi-city-of-lansing-20260401-uk-based-deep-green-withdrew-its-application-for-a",
+      "date": "2026-04-01",
+      "jurisdiction": "City of Lansing",
+      "title": "UK-based Deep Green withdrew its application for a zoning amendment that would have enabled a downtown Lansing data center project, after co",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://planetdetroit.org/2026/04/ypsilanti-township-escalates-data-center-fight/"
+    },
+    {
+      "id": "research:mi-michigan-house-20260303-reps-wortz-fox-and-wegela-introduced-bipartisan",
+      "date": "2026-03-03",
+      "jurisdiction": "Michigan House",
+      "title": "Reps. Wortz, Fox, and Wegela introduced bipartisan Data Center Regulation Act (HB 5594-5596), prohibiting new data centers from receiving st",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.wilx.com/2026/03/03/michigan-lawmakers-propose-year-long-data-center-construction-moratorium/"
+    },
+    {
+      "id": "research:mi-city-of-dowagiac-20260301-hyperscale-data-an-ai-bitcoin-company-in-dowagiac",
+      "date": "2026-03-01",
+      "jurisdiction": "City of Dowagiac",
+      "title": "Hyperscale Data, an AI/bitcoin company in Dowagiac, announced 48-acre expansion growing site from 30 to 340 megawatts. City manager said cit",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://michiganadvance.com/briefs/dowagiac-data-center-moves-forward-with-expansion-plans-and-agreement-to-purchase-additional-land/"
     }
   ]
 }

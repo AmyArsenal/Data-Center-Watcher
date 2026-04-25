@@ -1,30 +1,36 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KS",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 40.8,
-    "tier": 6.0,
-    "engagement": 12.5,
-    "recency": 7.3,
-    "multi_source": 10.0,
+    "score": 37.0,
+    "tier": 8.4,
+    "engagement": 10.0,
+    "recency": 7.6,
+    "multi_source": 6.0,
     "regulatory": 5.0
   },
-  "count": 6,
+  "count": 10,
   "tier_counts": {
     "unclear": 3,
-    "supportive": 3
+    "supportive": 3,
+    "null": 4
   },
   "outcome_counts": {
-    "pending": 5,
-    "win": 1
+    "pending": 6,
+    "win": 3,
+    "loss": 1
   },
   "scope_counts": {
-    "statewide": 6
+    "statewide": 7,
+    "local": 3
   },
   "issue_top": {
-    "tax_incentive": 3,
-    "water": 1
+    "tax_incentive": 4,
+    "zoning": 3,
+    "community_impact": 3,
+    "water": 1,
+    "grid_energy": 1
   },
   "companies": [],
   "opposition_groups": [],
@@ -50,6 +56,24 @@
       "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB526/"
     },
     {
+      "id": "research:ks-sedgwick-county-board-20260304-sedgwick-county-extended-initial-90-day-pause-on-d",
+      "date": "2026-03-04",
+      "jurisdiction": "Sedgwick County Board",
+      "title": "Sedgwick County extended initial 90-day pause on data center applications through June 11, 2026. State lawmaker has separately asked the com",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.kwch.com/2026/03/04/sedgwick-county-extends-pause-data-center-applications/"
+    },
+    {
+      "id": "research:ks-saline-county-commission-20260303-saline-county-commission-voted-4-0-to-place-a-thre",
+      "date": "2026-03-03",
+      "jurisdiction": "Saline County Commission",
+      "title": "Saline County Commission voted 4-0 to place a three-year moratorium on construction of data centers, nuclear power and hydrogen-based energy",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.ksn.com/news/kansas-county-puts-moratorium-on-data-centers-and-nuclear-hydrogen-plants/"
+    },
+    {
       "id": "openstates:ocd-bill-6964a2b1-f924-4746-acdc-a9eb12ec62b9-ks",
       "date": "2026-01-27",
       "jurisdiction": "KS Legislature",
@@ -57,6 +81,24 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB400/"
+    },
+    {
+      "id": "research:ks-harvey-county-commission-20260113-harvey-county-commission-unanimously-approved-reso",
+      "date": "2026-01-13",
+      "jurisdiction": "Harvey County Commission",
+      "title": "Harvey County Commission unanimously approved resolution placing moratorium on data center construction in unincorporated areas through end ",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.harveycounty.gov/commission-implements-moratorium-on-data-center-developments"
+    },
+    {
+      "id": "research:ks-kansas-legislature-20250415-kansas-enacted-sb-98-a-20-year-sales-and-use-tax",
+      "date": "2025-04-15",
+      "jurisdiction": "Kansas Legislature",
+      "title": "Kansas enacted SB 98, a 20-year sales and use tax exemption for qualified data centers investing at least $250M, covering construction, equi",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.kansascommerce.gov/program/business-incentives-and-services/sb-98-data-center-sales-tax-exemption/"
     },
     {
       "id": "openstates:ocd-bill-ae659306-883e-4832-944c-66cd3eb65fed-ks",

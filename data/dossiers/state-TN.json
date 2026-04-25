@@ -1,0 +1,61 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "TN",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 38.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "null": 2
+  },
+  "outcome_counts": {
+    "pending": 2
+  },
+  "scope_counts": {
+    "federal": 1,
+    "statewide": 1
+  },
+  "issue_top": {
+    "air_quality": 1,
+    "environmental": 1,
+    "community_impact": 1,
+    "ratepayer": 1,
+    "grid_energy": 1,
+    "contract_guarantees": 1
+  },
+  "companies": [
+    [
+      "xAI / MZX Tech LLC",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2026-02-05",
+  "latest": "2026-04-14",
+  "top_citations": [
+    {
+      "id": "research:tn-us-district-court-naacp-v-xai--20260414-naacp-represented-by-earthjustice-and-selc-sued",
+      "date": "2026-04-14",
+      "jurisdiction": "US District Court (NAACP v. xAI)",
+      "title": "NAACP, represented by Earthjustice and SELC, sued Elon Musk's xAI alleging Clean Air Act violations from 27 unpermitted gas turbines install",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html"
+    },
+    {
+      "id": "research:tn-tennessee-general-assembly-20260205-memphis-republican-introduced-sb-2128-hb-1847-in-j",
+      "date": "2026-02-05",
+      "jurisdiction": "Tennessee General Assembly",
+      "title": "Memphis Republican introduced SB 2128/HB 1847 in January 2026 requiring AI data center owners to pay 'full cost' of electrical infrastructur",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://tennesseestar.com/news/memphis-republican-submits-bill-to-block-power-companies-from-raising-rates-due-to-ai-data-centers/tpappert/2026/01/26/"
+    }
+  ]
+}

@@ -1,28 +1,45 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "SC",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 57.0,
-    "tier": 20.0,
-    "engagement": 12.5,
-    "recency": 14.5,
-    "multi_source": 10.0,
-    "regulatory": 0.0
+    "score": 55.2,
+    "tier": 17.1,
+    "engagement": 10.2,
+    "recency": 16.5,
+    "multi_source": 6.4,
+    "regulatory": 5.0
   },
-  "count": 7,
+  "count": 11,
   "tier_counts": {
     "restrictive": 2,
-    "unclear": 5
+    "unclear": 5,
+    "null": 4
   },
   "outcome_counts": {
-    "pending": 7
+    "pending": 10,
+    "win": 1
   },
   "scope_counts": {
-    "statewide": 7
+    "statewide": 10,
+    "local": 1
   },
-  "issue_top": {},
-  "companies": [],
+  "issue_top": {
+    "community_impact": 3,
+    "grid_energy": 3,
+    "tax_incentive": 2,
+    "transparency": 1,
+    "zoning": 1,
+    "environmental": 1,
+    "water": 1,
+    "ratepayer": 1
+  },
+  "companies": [
+    [
+      "TigerDC",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
   "latest": "2026-04-14",
@@ -37,6 +54,24 @@
       "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5526&session=126&summary=B"
     },
     {
+      "id": "research:sc-south-carolina-house-20260414-h-5526-would-prohibit-state-county-municipal-an",
+      "date": "2026-04-14",
+      "jurisdiction": "South Carolina House",
+      "title": "H 5526 would prohibit state, county, municipal, and political subdivision entities from accepting or acting on permits or applications for d",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://legiscan.com/SC/bill/H5526/2025"
+    },
+    {
+      "id": "research:sc-spartanburg-county-council-20260227-tigerdc-withdrew-project-spero-a-proposed-3-bi",
+      "date": "2026-02-27",
+      "jurisdiction": "Spartanburg County Council",
+      "title": "TigerDC withdrew 'Project Spero,' a proposed $3 billion AI data center at Tyger River Industrial Park, after Spartanburg County Council memb",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.foxcarolina.com/2026/02/27/company-withdraws-ai-data-center-spartanburg-county-consideration/"
+    },
+    {
       "id": "openstates:ocd-bill-c56b43ac-c8f3-4c40-a966-7edefe317a1c-sc",
       "date": "2026-02-26",
       "jurisdiction": "SC Legislature",
@@ -44,6 +79,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5286&session=126&summary=B"
+    },
+    {
+      "id": "research:sc-south-carolina-house-20260226-h-5286-would-prohibit-governmental-entities-from-g",
+      "date": "2026-02-26",
+      "jurisdiction": "South Carolina House",
+      "title": "H 5286 would prohibit governmental entities from granting final approval for permits, applications, incentives, rezoning, special exceptions",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5286.htm"
     },
     {
       "id": "openstates:ocd-bill-a84ae94d-f4cd-48aa-b004-2fcc3691a9c5-sc",
@@ -64,6 +108,15 @@
       "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=902&session=126&summary=B"
     },
     {
+      "id": "research:sc-south-carolina-senate-20260205-s-867-the-data-center-development-act-would-create",
+      "date": "2026-02-05",
+      "jurisdiction": "South Carolina Senate",
+      "title": "S 867 the Data Center Development Act would create a Data Center Development Office in DES to manage tiered permitting (Tier 1: 1-10 MW, Tie",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/867.htm"
+    },
+    {
       "id": "openstates:ocd-bill-c9c0c07c-bcc0-4c25-b5c9-68eee1bf208c-sc",
       "date": "2026-01-29",
       "jurisdiction": "SC Legislature",
@@ -80,15 +133,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=724&session=126&summary=B"
-    },
-    {
-      "id": "openstates:ocd-bill-659fc8e6-434d-45d7-85c1-e0cf767726d5-sc",
-      "date": "2026-01-13",
-      "jurisdiction": "SC Legislature",
-      "title": "The South Carolina Data Center Responsibility Act",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4583&session=126&summary=B"
     }
   ]
 }

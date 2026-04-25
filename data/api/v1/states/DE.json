@@ -1,0 +1,73 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "DE",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 36.6,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 13.3,
+    "multi_source": 0.0,
+    "regulatory": 5.0
+  },
+  "count": 3,
+  "tier_counts": {
+    "null": 3
+  },
+  "outcome_counts": {
+    "mixed": 1,
+    "win": 1,
+    "pending": 1
+  },
+  "scope_counts": {
+    "local": 2,
+    "statewide": 1
+  },
+  "issue_top": {
+    "zoning": 1,
+    "noise": 1,
+    "design_standards": 1,
+    "environmental": 1,
+    "air_quality": 1,
+    "ratepayer": 1,
+    "grid_energy": 1
+  },
+  "companies": [
+    [
+      "Starwood Digital Ventures",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2026-02-02",
+  "latest": "2026-03-11",
+  "top_citations": [
+    {
+      "id": "research:de-new-castle-county-council-20260311-after-months-of-debate-new-castle-county-council",
+      "date": "2026-03-11",
+      "jurisdiction": "New Castle County Council",
+      "title": "After months of debate, New Castle County Council enacted regulations requiring data centers to maintain buffer zones and use energy-efficie",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://spotlightdelaware.org/2026/03/11/after-months-of-debate-the-new-castle-county-council-agrees-to-regulate-the-data-center-industry/"
+    },
+    {
+      "id": "research:de-delaware-dnrec-20260204-delaware-environmental-regulators-ruled-that-half",
+      "date": "2026-02-04",
+      "jurisdiction": "Delaware DNREC",
+      "title": "Delaware environmental regulators ruled that half of the two-part Delaware City data center proposal (Project Washington) is not allowed und",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://spotlightdelaware.org/2026/02/04/delaware-city-data-center-faces-major-setback-after-environmental-denial/"
+    },
+    {
+      "id": "research:de-delaware-general-assembly-20260202-delaware-hb-233-rep-frank-burns-d-pike-creek-wo",
+      "date": "2026-02-02",
+      "jurisdiction": "Delaware General Assembly",
+      "title": "Delaware HB 233 (Rep. Frank Burns D-Pike Creek) would require Commission-regulated utilities to create distinct rate class with own tariff f",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://spotlightdelaware.org/2026/02/02/data-center-regulation-bill-advances-in-delaware-legislature/"
+    }
+  ]
+}

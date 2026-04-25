@@ -1,0 +1,45 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "SD",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 36.6,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 13.3,
+    "multi_source": 0.0,
+    "regulatory": 5.0
+  },
+  "count": 1,
+  "tier_counts": {
+    "null": 1
+  },
+  "outcome_counts": {
+    "win": 1
+  },
+  "scope_counts": {
+    "statewide": 1
+  },
+  "issue_top": {
+    "ratepayer": 1,
+    "water": 1,
+    "grid_energy": 1,
+    "transparency": 1,
+    "contract_guarantees": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-03-24",
+  "latest": "2026-03-24",
+  "top_citations": [
+    {
+      "id": "research:sd-south-dakota-legislature-20260324-gov-larry-rhoden-signed-sb-135-the-data-center",
+      "date": "2026-03-24",
+      "jurisdiction": "South Dakota Legislature",
+      "title": "Gov. Larry Rhoden signed SB 135, the 'Data Center Bill of Rights for Citizens,' requiring data centers with peak electrical use of 10 MW or ",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://southdakotasearchlight.com/briefs/data-center-restrictions-signed-into-south-dakota-law-after-push-for-incentives-failed/"
+    }
+  ]
+}

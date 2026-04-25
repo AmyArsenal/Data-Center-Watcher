@@ -1,34 +1,70 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "LA",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 54.6,
+    "score": 53.0,
     "tier": 12.0,
-    "engagement": 12.5,
-    "recency": 15.1,
-    "multi_source": 10.0,
+    "engagement": 10.0,
+    "recency": 20.0,
+    "multi_source": 6.0,
     "regulatory": 5.0
   },
-  "count": 3,
+  "count": 5,
   "tier_counts": {
-    "unclear": 3
+    "unclear": 3,
+    "null": 2
   },
   "outcome_counts": {
     "pending": 1,
-    "win": 2
+    "win": 2,
+    "loss": 2
   },
   "scope_counts": {
-    "statewide": 3
+    "statewide": 4,
+    "local": 1
   },
   "issue_top": {
-    "water": 1
+    "water": 2,
+    "ratepayer": 1,
+    "grid_energy": 1,
+    "contract_guarantees": 1,
+    "environmental": 1,
+    "community_impact": 1,
+    "transparency": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Entergy Louisiana / Meta",
+      1
+    ],
+    [
+      "STACK Infrastructure",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2024-06-19",
-  "latest": "2026-04-01",
+  "latest": "2026-04-20",
   "top_citations": [
+    {
+      "id": "research:la-caddo-parish-district-court-20260420-caddo-parish-judge-ramon-lafitte-dismissed-lawsuit",
+      "date": "2026-04-20",
+      "jurisdiction": "Caddo Parish District Court",
+      "title": "Caddo Parish Judge Ramon Lafitte dismissed lawsuit brought by Mooringsport Mayor Tyler Gordon and two local residents challenging Shreveport",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.ksla.com/2026/04/21/shreveport-data-center-lawsuit-city-shreveport-wins/"
+    },
+    {
+      "id": "research:la-louisiana-psc-20260415-louisiana-psc-adopted-fast-track-schedule-for-ente",
+      "date": "2026-04-15",
+      "jurisdiction": "Louisiana PSC",
+      "title": "Louisiana PSC adopted fast-track schedule for Entergy's $21B application to add seven new gas-fired plants on top of three already approved ",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.kplctv.com/2026/04/15/louisiana-psc-aproves-fast-track-entergy-21b-proposal-tied-meta-data-center/"
+    },
     {
       "id": "openstates:ocd-bill-0ff2ba33-5831-4a90-b34d-df121d9935b9-la",
       "date": "2026-04-01",

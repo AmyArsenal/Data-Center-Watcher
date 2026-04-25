@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "filter": {
     "issue_category": "traffic"
   },
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "social:reddit-380be28eef330912-us",
@@ -45,6 +45,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "research:id-city-of-kuna-20260203-toledo-dairy-owner-layne-thornton-filed-petition-f",
+      "origin": "research_agent",
+      "state": "ID",
+      "county": "Ada",
+      "jurisdiction": "City of Kuna",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"lawsuit\",\"zoning_restriction\"]",
+      "authority_level": "court",
+      "date": "2026-02-03",
+      "status": "in-committee",
+      "community_outcome": "pending",
+      "issue_category": "[\"zoning\",\"farmland\",\"traffic\",\"grid_energy\",\"transparency\"]",
+      "company": "Diode Ventures",
+      "hyperscaler": null,
+      "project_name": "Gemstone Technology Park",
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Toledo Dairy owner Layne Thornton filed petition for judicial review against City of Kuna challenging 3-2 City Council approval of Diode Ventures' 620-acre Gemstone Technology Park data center. Concerns center on traffic, farmland loss and project's 600-800 MW power draw.",
+      "sources": "[\"https://boisedev.com/news/2026/02/03/data-center-suit/\"]",
+      "data_source": "agent_research",
+      "last_updated": "2026-04-25",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": null,
+      "tier_reason": null
     }
   ]
 }

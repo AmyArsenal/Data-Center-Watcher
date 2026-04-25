@@ -1,36 +1,95 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 47.4,
-    "tier": 13.2,
-    "engagement": 12.5,
-    "recency": 6.7,
-    "multi_source": 10.0,
+    "score": 48.5,
+    "tier": 12.8,
+    "engagement": 10.4,
+    "recency": 13.6,
+    "multi_source": 6.7,
     "regulatory": 5.0
   },
-  "count": 10,
+  "count": 15,
   "tier_counts": {
     "unclear": 9,
-    "protective": 1
+    "protective": 1,
+    "null": 5
   },
   "outcome_counts": {
-    "pending": 7,
-    "win": 3
+    "pending": 8,
+    "win": 5,
+    "mixed": 1,
+    "loss": 1
   },
   "scope_counts": {
-    "statewide": 10
+    "statewide": 11,
+    "local": 4
   },
   "issue_top": {
-    "environmental": 1,
-    "water": 1
+    "grid_energy": 5,
+    "water": 4,
+    "environmental": 2,
+    "transparency": 2,
+    "community_impact": 2,
+    "zoning": 2,
+    "ratepayer": 1,
+    "farmland": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Stronghold Power Systems",
+      1
+    ],
+    [
+      "Imperial Valley Computer Manufacturing",
+      1
+    ],
+    [
+      "JB2 Partners",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-02-20",
+  "latest": "2026-04-22",
   "top_citations": [
+    {
+      "id": "research:ca-coachella-city-council-20260422-more-than-100-residents-protested-at-coachella-cit",
+      "date": "2026-04-22",
+      "jurisdiction": "Coachella City Council",
+      "title": "More than 100 residents protested at Coachella City Council meeting against 240-to-450-acre data center campus on east-side farmland propose",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://kesq.com/news/2026/04/22/more-than-100-residents-protest-proposed-data-center-at-coachella-city-council-meeting/"
+    },
+    {
+      "id": "research:ca-oakley-city-council-20260412-oakley-city-council-unanimously-passed-a-45-day-ur",
+      "date": "2026-04-12",
+      "jurisdiction": "Oakley City Council",
+      "title": "Oakley City Council unanimously passed a 45-day urgency-ordinance moratorium blocking new data center land-use applications, becoming the fi",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.thepress.net/news/oakley-city-council-passes-45-day-a-i-data-center-moratorium/article_ce030f9f-d19b-49c8-a1f0-20c9b68da205.html"
+    },
+    {
+      "id": "research:ca-imperial-county-board-of-supervisors-20260407-imperial-county-supervisors-voted-4-1-to-approve-l",
+      "date": "2026-04-07",
+      "jurisdiction": "Imperial County Board of Supervisors",
+      "title": "Imperial County supervisors voted 4-1 to approve lot merger advancing 950,000-sq-ft AI data center next to city of Imperial. Project could u",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+    },
+    {
+      "id": "research:ca-monterey-park-city-council-20260304-monterey-park-city-council-unanimously-extended-it",
+      "date": "2026-03-04",
+      "jurisdiction": "Monterey Park City Council",
+      "title": "Monterey Park City Council unanimously extended its data center moratorium through January 21, 2027 and placed a measure on the June 2, 2026",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.bloodinthemachine.com/p/monterey-park-becomes-the-first-city"
+    },
     {
       "id": "openstates:ocd-bill-9d2f7c2f-66d9-4b59-a5c8-5fb0f11342b9-ca",
       "date": "2026-02-20",
@@ -84,42 +143,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1577"
-    },
-    {
-      "id": "openstates:ocd-bill-d6bdcea4-eaef-46f4-9574-fc86eb56a6c1-ca",
-      "date": "2025-02-20",
-      "jurisdiction": "CA Legislature",
-      "title": "Data centers: waste heat energy.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1095"
-    },
-    {
-      "id": "openstates:ocd-bill-fd340120-32d7-4698-b737-9761b4b4c274-ca",
-      "date": "2025-01-08",
-      "jurisdiction": "CA Legislature",
-      "title": "Data centers: power usage effectiveness: cost shifts.",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB222"
-    },
-    {
-      "id": "openstates:ocd-bill-c84756d8-3906-4ae6-9e06-9b98d210d6f3-ca",
-      "date": "2025-01-08",
-      "jurisdiction": "CA Legislature",
-      "title": "Electrical corporations: data centers: report.",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB57"
-    },
-    {
-      "id": "openstates:ocd-bill-3b3c7eff-89ae-45c9-a5a1-adcec799b331-ca",
-      "date": "2025-01-07",
-      "jurisdiction": "CA Legislature",
-      "title": "Water resources: data centers.",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB93"
     }
   ]
 }

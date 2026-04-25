@@ -1,0 +1,136 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "DC",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 33.4,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 15.2,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 13,
+  "tier_counts": {
+    "null": 13
+  },
+  "outcome_counts": {
+    "pending": 8,
+    "mixed": 3,
+    "loss": 2
+  },
+  "scope_counts": {
+    "federal": 13
+  },
+  "issue_top": {
+    "grid_energy": 9,
+    "ratepayer": 8,
+    "transparency": 6,
+    "environmental": 6,
+    "community_impact": 4,
+    "zoning": 2,
+    "anti_ai": 1,
+    "water": 1
+  },
+  "companies": [
+    [
+      "Amazon, Google, Meta, Microsoft, OpenAI, Oracle, xAI",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2025-07-23",
+  "latest": "2026-06-30",
+  "top_citations": [
+    {
+      "id": "research:dc-ferc-20260630-ferc-announced-it-will-act-by-june-2026-on-advance",
+      "date": "2026-06-30",
+      "jurisdiction": "FERC",
+      "title": "FERC announced it will act by June 2026 on Advance Notice of Proposed Rulemaking initiated by Secretary of Energy directing Commission to co",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026"
+    },
+    {
+      "id": "research:dc-u-s-house-landsman--20260415-rep-greg-landsman-d-oh-introduced-the-no-harm-d",
+      "date": "2026-04-15",
+      "jurisdiction": "U.S. House (Landsman)",
+      "title": "Rep. Greg Landsman (D-OH) introduced the No Harm Data Center Act requiring data center operators to cover cost of new energy infrastructure ",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://ohiocapitaljournal.com/2026/04/15/ohio-democratic-congressman-introduces-bill-requiring-data-centers-to-pay-their-own-way/"
+    },
+    {
+      "id": "research:dc-u-s-house-watson-coleman--20260331-rep-watson-coleman-introduced-hr-7858-directing-s",
+      "date": "2026-03-31",
+      "jurisdiction": "U.S. House (Watson Coleman)",
+      "title": "Rep. Watson Coleman introduced HR 7858 directing Secretary of Energy to study environmental, economic, and public-health effects of data cen",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-introduces-bill-to-study-impact-of-ai-data-centers-on-local-communities"
+    },
+    {
+      "id": "research:dc-u-s-senate-sanders-aoc--20260325-sen-bernie-sanders-and-rep-alexandria-ocasio-cor",
+      "date": "2026-03-25",
+      "jurisdiction": "U.S. Senate (Sanders/AOC)",
+      "title": "Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion bills (S.4214) to impose federal moratorium on new AI data-center",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214"
+    },
+    {
+      "id": "research:dc-u-s-senate-durbin--20260325-sen-durbin-introduced-legislation-requiring-data",
+      "date": "2026-03-25",
+      "jurisdiction": "U.S. Senate (Durbin)",
+      "title": "Sen. Durbin introduced legislation requiring data centers to report energy and water consumption (actual and 5-year projected) to the states",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.durbin.senate.gov/newsroom/press-releases/as-utility-costs-rise-durbin-introduces-new-legislation-to-bring-transparency-to-energy-and-water-consumption-by-data-centers"
+    },
+    {
+      "id": "research:dc-white-house-20260304-seven-hyperscalers-signed-white-house-s-ratepayer",
+      "date": "2026-03-04",
+      "jurisdiction": "White House",
+      "title": "Seven hyperscalers signed White House's Ratepayer Protection Pledge, voluntarily committing to build/bring/buy new generation, cover all pow",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-advances-energy-affordability-with-the-ratepayer-protection-pledge/"
+    },
+    {
+      "id": "research:dc-u-s-senate-hawley-blumenthal--20260211-bipartisan-bill-from-sens-hawley-r-and-blumenth",
+      "date": "2026-02-11",
+      "jurisdiction": "U.S. Senate (Hawley/Blumenthal)",
+      "title": "Bipartisan bill from Sens. Hawley (R) and Blumenthal (D) targeting new data centers of 20 MW or more, requiring them to be powered by their ",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.hawley.senate.gov/hawley-blumenthal-introduce-bill-to-prevent-data-centers-from-increasing-electricity-costs-for-americans/"
+    },
+    {
+      "id": "research:dc-epa-20260123-epa-office-of-air-and-radiation-launched-clean-air",
+      "date": "2026-01-23",
+      "jurisdiction": "EPA",
+      "title": "EPA Office of Air and Radiation launched Clean Air Act Resource Hub for data center developers, states, tribes, and communities. EPA is also",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-resources-data-centers"
+    },
+    {
+      "id": "research:dc-u-s-senate-van-hollen--20260115-sen-van-hollen-and-seven-democratic-cosponsors-in",
+      "date": "2026-01-15",
+      "jurisdiction": "U.S. Senate (Van Hollen)",
+      "title": "Sen. Van Hollen and seven Democratic cosponsors introduced legislation directing FERC to require grid operators to establish 'data center lo",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers"
+    },
+    {
+      "id": "research:dc-u-s-senate-sen-tom-cotton-r-ar--20260109-sen-cotton-introduced-the-decentralized-access-to",
+      "date": "2026-01-09",
+      "jurisdiction": "U.S. Senate (Sen. Tom Cotton, R-AR)",
+      "title": "Sen. Cotton introduced the Decentralized Access to Technology Alternatives (DATA) Act, would amend Federal Power Act to create new 'consumer",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-lower-energy-costs-for-arkansans"
+    }
+  ]
+}

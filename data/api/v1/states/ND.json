@@ -1,0 +1,49 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "ND",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 27.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 4.0,
+    "multi_source": 0.0,
+    "regulatory": 5.0
+  },
+  "count": 1,
+  "tier_counts": {
+    "null": 1
+  },
+  "outcome_counts": {
+    "loss": 1
+  },
+  "scope_counts": {
+    "local": 1
+  },
+  "issue_top": {
+    "water": 1,
+    "grid_energy": 1,
+    "noise": 1,
+    "community_impact": 1
+  },
+  "companies": [
+    [
+      "Applied Digital",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2025-09-02",
+  "latest": "2025-09-02",
+  "top_citations": [
+    {
+      "id": "research:nd-harwood-city-council-20250902-harwood-planning-and-zoning-board-recommended-and",
+      "date": "2025-09-02",
+      "jurisdiction": "Harwood City Council",
+      "title": "Harwood Planning and Zoning Board recommended and City Council approved rezoning a 320-acre tract from agriculture to light industrial for A",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://northdakotamonitor.com/2025/09/02/controversial-data-center-moves-forward-in-eastern-north-dakota/"
+    }
+  ]
+}

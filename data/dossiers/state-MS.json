@@ -1,0 +1,48 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "MS",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 22.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 4.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 1,
+  "tier_counts": {
+    "null": 1
+  },
+  "outcome_counts": {
+    "mixed": 1
+  },
+  "scope_counts": {
+    "statewide": 1
+  },
+  "issue_top": {
+    "tax_incentive": 1,
+    "grid_energy": 1,
+    "community_impact": 1
+  },
+  "companies": [
+    [
+      "Amazon Web Services",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2025-11-20",
+  "latest": "2025-11-20",
+  "top_citations": [
+    {
+      "id": "research:ms-mississippi-governor-20251120-aws-expanded-its-madison-county-project-atlas-co",
+      "date": "2025-11-20",
+      "jurisdiction": "Mississippi Governor",
+      "title": "AWS expanded its Madison County 'Project Atlas' commitment to $11B across two industrial parks covering 1,700 acres and 1,000 jobs, part of ",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-25-billion-mississippi-data-centers"
+    }
+  ]
+}

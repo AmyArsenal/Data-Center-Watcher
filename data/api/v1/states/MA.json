@@ -1,0 +1,59 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "MA",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 43.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 5.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "null": 2
+  },
+  "outcome_counts": {
+    "win": 2
+  },
+  "scope_counts": {
+    "local": 2
+  },
+  "issue_top": {
+    "community_impact": 2,
+    "environmental": 2,
+    "zoning": 2,
+    "noise": 1,
+    "design_standards": 1
+  },
+  "companies": [
+    [
+      "The Markley Group",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2026-03-01",
+  "latest": "2026-04-06",
+  "top_citations": [
+    {
+      "id": "research:ma-everett-planning-board-20260406-everett-planning-board-voted-unanimously-to-endors",
+      "date": "2026-04-06",
+      "jurisdiction": "Everett Planning Board",
+      "title": "Everett Planning Board voted unanimously to endorse an ordinance restricting data centers in the EDID (100-acre Mystic River redevelopment s",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+    },
+    {
+      "id": "research:ma-lowell-city-council-20260301-lowell-city-council-voted-unanimously-to-enact-a-o",
+      "date": "2026-03-01",
+      "jurisdiction": "Lowell City Council",
+      "title": "Lowell City Council voted unanimously to enact a one-year moratorium on data center development, the first of its kind in Massachusetts. Res",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.wbur.org/news/2026/04/06/data-centers-ai-massachusetts-pollution-pushback"
+    }
+  ]
+}

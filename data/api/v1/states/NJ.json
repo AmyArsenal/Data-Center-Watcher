@@ -1,40 +1,60 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 46.4,
-    "tier": 15.1,
-    "engagement": 12.1,
-    "recency": 9.9,
-    "multi_source": 9.3,
-    "regulatory": 0.0
+    "score": 49.1,
+    "tier": 14.2,
+    "engagement": 10.3,
+    "recency": 13.1,
+    "multi_source": 6.5,
+    "regulatory": 5.0
   },
-  "count": 14,
+  "count": 20,
   "tier_counts": {
     "restrictive": 2,
     "unclear": 9,
     "supportive": 2,
-    "protective": 1
+    "protective": 1,
+    "null": 6
   },
   "outcome_counts": {
-    "pending": 13,
-    "win": 1
+    "pending": 15,
+    "win": 5
   },
   "scope_counts": {
-    "local": 1,
-    "statewide": 13
+    "local": 5,
+    "statewide": 15
   },
   "issue_top": {
-    "community_impact": 1,
-    "water": 1,
-    "grid_energy": 1
+    "grid_energy": 5,
+    "water": 4,
+    "community_impact": 3,
+    "ratepayer": 3,
+    "zoning": 3,
+    "transparency": 2,
+    "environmental": 2,
+    "contract_guarantees": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Hexa Builders",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-04-08",
+  "latest": "2026-04-14",
   "top_citations": [
+    {
+      "id": "research:nj-phillipsburg-town-council-20260414-phillipsburg-town-council-unanimously-gave-final-a",
+      "date": "2026-04-14",
+      "jurisdiction": "Phillipsburg Town Council",
+      "title": "Phillipsburg Town Council unanimously gave final approval to Ordinance 2026-08, banning data centers in all zoning districts. Officials cite",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://newjersey.news12.com/phillipsburg-council-approves-ordinance-banning-data-centers"
+    },
     {
       "id": "social:x-0b14181fe8-nj",
       "date": "2026-04-08",
@@ -43,6 +63,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://x.com/WallStreetApes/status/2041907768970637319"
+    },
+    {
+      "id": "research:nj-monroe-township-council-20260408-after-grassroots-opposition-monroe-township-advan",
+      "date": "2026-04-08",
+      "jurisdiction": "Monroe Township Council",
+      "title": "After grassroots opposition, Monroe Township advanced Ordinance O-20-2026 at March 25 and April 8 meetings to delete 'Data Centers, Data Cen",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://monroetownshipnj.org/wp-content/uploads/2026/03/O-20-2026.pdf"
     },
     {
       "id": "openstates:ocd-bill-075df084-4309-4e77-a8d7-6088d60a58ae-nj",
@@ -63,6 +92,15 @@
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A4696"
     },
     {
+      "id": "research:nj-new-jersey-legislature-20260301-s731-a796-requires-nj-board-of-public-utilities-to",
+      "date": "2026-03-01",
+      "jurisdiction": "New Jersey Legislature",
+      "title": "S731/A796 requires NJ Board of Public Utilities to establish special tariffs for data centers using 100+ MW monthly. Customers must commit t",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://newjerseymonitor.com/briefs/nj-bill-data-centers-electric-costs/"
+    },
+    {
       "id": "openstates:ocd-bill-f44bc4b8-a2e4-4490-ae87-94e8c3c538c2-nj",
       "date": "2026-02-24",
       "jurisdiction": "NJ Legislature",
@@ -72,6 +110,24 @@
       "url": "https://www.njleg.state.nj.us/bill-search/2026/S3639"
     },
     {
+      "id": "research:nj-pemberton-township-council-20260220-pemberton-township-became-the-first-nj-municipalit",
+      "date": "2026-02-20",
+      "jurisdiction": "Pemberton Township Council",
+      "title": "Pemberton Township became the first NJ municipality to ban data centers, passing Ordinance 10-2026 to 'prohibit the construction and operati",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://pinelandsalliance.org/data-center-victories-local-actions-drive-regional-change/"
+    },
+    {
+      "id": "research:nj-new-brunswick-city-council-20260220-after-significant-public-backlash-new-brunswick-c",
+      "date": "2026-02-20",
+      "jurisdiction": "New Brunswick City Council",
+      "title": "After significant public backlash, New Brunswick City Council voted to amend the redevelopment plan for 100 Jersey Avenue, removing data cen",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.foodandwaterwatch.org/2026/02/20/new-brunswick-city-council-rejects-data-center-plan/"
+    },
+    {
       "id": "openstates:ocd-bill-b253cc44-466a-456c-9a0e-997f075a71b1-nj",
       "date": "2026-02-19",
       "jurisdiction": "NJ Legislature",
@@ -79,51 +135,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A4096"
-    },
-    {
-      "id": "openstates:ocd-bill-0d838dba-c280-43cc-9c05-d24c7508bf4b-nj",
-      "date": "2026-02-09",
-      "jurisdiction": "NJ Legislature",
-      "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3379"
-    },
-    {
-      "id": "openstates:ocd-bill-06f6c441-f600-4577-babf-dfebd3f0648e-nj",
-      "date": "2026-01-13",
-      "jurisdiction": "NJ Legislature",
-      "title": "Requires electric public utilities to develop and apply special rules for certain data centers to protect non-data center customers from inc",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/A796"
-    },
-    {
-      "id": "openstates:ocd-bill-f270e34b-2d19-4a72-8efc-977e5b7a9167-nj",
-      "date": "2026-01-13",
-      "jurisdiction": "NJ Legislature",
-      "title": "Urges states in PJM Interconnection region to require data centers to obtain electricity from new zero- or low-emission sources of energy.",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/SR18"
-    },
-    {
-      "id": "openstates:ocd-bill-d6ee6ae9-13ce-477a-bb39-68ef6ae9e699-nj",
-      "date": "2026-01-13",
-      "jurisdiction": "NJ Legislature",
-      "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
-      "tier": "protective",
-      "outcome": "pending",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3966"
-    },
-    {
-      "id": "openstates:ocd-bill-1f3ada79-bd21-490a-aac2-e65414c1c90b-nj",
-      "date": "2026-01-13",
-      "jurisdiction": "NJ Legislature",
-      "title": "Requires energy usage plan for proposed artificial intelligence data centers and cryptocurrency mining facilities; requires all electricity ",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/S680"
     }
   ]
 }

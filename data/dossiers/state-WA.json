@@ -1,35 +1,59 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 42.2,
-    "tier": 6.0,
-    "engagement": 12.5,
-    "recency": 8.7,
-    "multi_source": 10.0,
+    "score": 39.4,
+    "tier": 9.0,
+    "engagement": 9.4,
+    "recency": 11.0,
+    "multi_source": 5.0,
     "regulatory": 5.0
   },
-  "count": 2,
+  "count": 4,
   "tier_counts": {
     "unclear": 1,
-    "supportive": 1
+    "supportive": 1,
+    "null": 2
   },
   "outcome_counts": {
-    "win": 1,
-    "pending": 1
+    "win": 2,
+    "pending": 1,
+    "loss": 1
   },
   "scope_counts": {
-    "statewide": 2
+    "statewide": 4
   },
   "issue_top": {
-    "tax_incentive": 2
+    "tax_incentive": 3,
+    "grid_energy": 1,
+    "ratepayer": 1,
+    "transparency": 1,
+    "environmental": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-01-26",
+  "latest": "2026-03-07",
   "top_citations": [
+    {
+      "id": "research:wa-washington-state-legislature-20260307-washington-s-legislature-passed-sb-6231-eliminati",
+      "date": "2026-03-07",
+      "jurisdiction": "Washington State Legislature",
+      "title": "Washington's Legislature passed SB 6231, eliminating sales-tax break on equipment and labor used to refurbish existing data centers. Departm",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://washingtonstatestandard.com/2026/03/07/data-center-tax-break-close-to-getting-zapped-by-wa-legislature/"
+    },
+    {
+      "id": "research:wa-washington-state-legislature-20260302-hb-2515-a-sweeping-bill-that-would-have-imposed-a",
+      "date": "2026-03-02",
+      "jurisdiction": "Washington State Legislature",
+      "title": "HB 2515, a sweeping bill that would have imposed additional utility charges on data centers, required clean-energy compliance, and mandated ",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/03/washington-legislature-delays-data-center-bill"
+    },
     {
       "id": "openstates:ocd-bill-b65cdf84-d331-419f-b291-9cf70ef50a04-wa",
       "date": "2026-01-26",

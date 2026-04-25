@@ -1,31 +1,55 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 66.2,
-    "tier": 40.0,
+    "score": 51.2,
+    "tier": 20.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
-    "regulatory": 0.0
+    "regulatory": 5.0
   },
-  "count": 2,
+  "count": 7,
   "tier_counts": {
-    "restrictive": 2
+    "restrictive": 2,
+    "null": 5
   },
   "outcome_counts": {
-    "pending": 2
+    "pending": 4,
+    "win": 2,
+    "mixed": 1
   },
   "scope_counts": {
-    "local": 2
+    "local": 5,
+    "statewide": 2
   },
   "issue_top": {
-    "community_impact": 2
+    "community_impact": 4,
+    "ratepayer": 2,
+    "zoning": 2,
+    "air_quality": 1,
+    "water": 1,
+    "property_values": 1,
+    "environmental": 1,
+    "tax_incentive": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Provident Realty Advisors",
+      1
+    ],
+    [
+      "Indiana Michigan Power",
+      1
+    ],
+    [
+      "Sabey Data Centers",
+      1
+    ]
+  ],
   "opposition_groups": [],
-  "earliest": "2026-04-22",
+  "earliest": "2025-06-01",
   "latest": "2026-04-23",
   "top_citations": [
     {
@@ -38,6 +62,15 @@
       "url": "https://reddit.com/r/indianapolis/comments/1stm4wn/powering_central_indianas_future"
     },
     {
+      "id": "research:in-indianapolis-department-of-metropolitan-development-20260423-indianapolis-released-draft-zoning-rules-creating",
+      "date": "2026-04-23",
+      "jurisdiction": "Indianapolis Department of Metropolitan Development",
+      "title": "Indianapolis released draft zoning rules creating a new SU-47 special use district for data centers, capping noise at 65 dB at property line",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.wfyi.org/wfyi-news/2026-04-23/indianapolis-data-center-zoning-rules-proposal"
+    },
+    {
       "id": "social:reddit-c053dabbcf91743b-in",
       "date": "2026-04-22",
       "jurisdiction": "r/Indiana",
@@ -45,6 +78,42 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/Indiana/comments/1ssys9h/im_an_indystar_business_reporter_digging_in_on"
+    },
+    {
+      "id": "research:in-marion-superior-court-5-20260417-seven-decatur-township-residents-filed-petition-fo",
+      "date": "2026-04-17",
+      "jurisdiction": "Marion Superior Court 5",
+      "title": "Seven Decatur Township residents filed petition for judicial review of Indianapolis Metropolitan Development Commission's March 18 decision ",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
+    },
+    {
+      "id": "research:in-iurc-20260302-iurc-approved-indiana-michigan-power-large-load-ta",
+      "date": "2026-03-02",
+      "jurisdiction": "IURC",
+      "title": "IURC approved Indiana Michigan Power large-load tariff settlement, applying to new or expanded facilities of >=70 MW (or >=150 MW aggregated",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.utilitydive.com/news/indiana-iurc-large-load-interconnection-data-center-aep-amazon-google/740452/"
+    },
+    {
+      "id": "research:in-indiana-general-assembly-20260227-house-bill-1210-passed-and-heads-to-gov-mike-brau",
+      "date": "2026-02-27",
+      "jurisdiction": "Indiana General Assembly",
+      "title": "House Bill 1210 passed and heads to Gov. Mike Braun, requiring data center companies to pay 1% of savings from total electricity bill to qua",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://www.wfyi.org/news/articles/data-center-legislation-indiana-general-assembly-2026"
+    },
+    {
+      "id": "research:in-chesterton-town-council-20250601-provident-realty-advisors-withdrew-its-1-3b-data",
+      "date": "2025-06-01",
+      "jurisdiction": "Chesterton Town Council",
+      "title": "Provident Realty Advisors withdrew its $1.3B data center application in Chesterton in June 2025 after sustained local opposition over air qu",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.datacenterdynamics.com/en/news/application-for-13bn-data-center-in-chesterton-indiana-withdrawn/"
     }
   ]
 }

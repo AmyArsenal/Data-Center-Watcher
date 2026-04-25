@@ -1,31 +1,76 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 66.2,
-    "tier": 40.0,
-    "engagement": 6.2,
+    "score": 48.8,
+    "tier": 16.7,
+    "engagement": 6.6,
     "recency": 20.0,
-    "multi_source": 0.0,
-    "regulatory": 0.0
+    "multi_source": 0.6,
+    "regulatory": 5.0
   },
-  "count": 3,
+  "count": 18,
   "tier_counts": {
-    "restrictive": 3
+    "restrictive": 3,
+    "null": 15
   },
   "outcome_counts": {
-    "pending": 3
+    "pending": 10,
+    "mixed": 3,
+    "loss": 2,
+    "win": 3
   },
   "scope_counts": {
-    "local": 3
+    "local": 14,
+    "statewide": 4
   },
   "issue_top": {
-    "community_impact": 1
+    "grid_energy": 9,
+    "water": 9,
+    "community_impact": 6,
+    "ratepayer": 4,
+    "noise": 4,
+    "transparency": 3,
+    "environmental": 3,
+    "contract_guarantees": 2
   },
-  "companies": [],
+  "companies": [
+    [
+      "Rowan Digital Infrastructure",
+      1
+    ],
+    [
+      "Barrio Energy",
+      1
+    ],
+    [
+      "Highlander SM One LLC",
+      1
+    ],
+    [
+      "Zydeco Development",
+      1
+    ],
+    [
+      "Data Factory",
+      1
+    ],
+    [
+      "Misea",
+      1
+    ],
+    [
+      "Fermi America",
+      1
+    ],
+    [
+      "Crusoe",
+      1
+    ]
+  ],
   "opposition_groups": [],
-  "earliest": "2026-04-21",
+  "earliest": "2025-06-20",
   "latest": "2026-04-23",
   "top_citations": [
     {
@@ -54,6 +99,69 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://www.kbtx.com/2026/04/21/temple-residents-launch-recall-effort-against-mayor-council-members-over-data-center-vote/"
+    },
+    {
+      "id": "research:tx-city-of-temple-20260421-temple-city-council-voted-4-0-1-abstain-to-annex",
+      "date": "2026-04-21",
+      "jurisdiction": "City of Temple",
+      "title": "Temple City Council voted 4-0 (1 abstain) to annex/rezone ~700 acres for Rowan Digital's third Temple data center ($700M project) after a ne",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.kwtx.com/2026/04/21/temple-residents-launch-recall-effort-against-mayor-council-members-over-data-center-vote/"
+    },
+    {
+      "id": "research:tx-city-of-hutto-20260420-zydeco-development-withdrew-its-rezoning-applicati",
+      "date": "2026-04-20",
+      "jurisdiction": "City of Hutto",
+      "title": "Zydeco Development withdrew its rezoning application for a Hutto data center in late April 2026 ahead of May 7 council vote. City received 5",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.kut.org/energy-environment/2026-04-20/hutto-tx-zydeco-data-center-rezoning-request"
+    },
+    {
+      "id": "research:tx-matagorda-county-20260415-residents-of-matagorda-county-launched-mad---mata",
+      "date": "2026-04-15",
+      "jurisdiction": "Matagorda County",
+      "title": "Residents of Matagorda County launched 'MAD - Matagorda County Against Data Centers' petition (300+ signatures) against two proposed Barrio ",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://abc13.com/post/data-centers-proposed-matagorda-county-residents-pushing-back/18944946/"
+    },
+    {
+      "id": "research:tx-athens-city-council-20260414-athens-city-council-unanimously-voted-april-14-to",
+      "date": "2026-04-14",
+      "jurisdiction": "Athens City Council",
+      "title": "Athens City Council unanimously voted April 14 to table all planning and zoning items related to a proposed 10 MW Data Factory data center a",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.kltv.com/2026/04/14/athens-city-council-tables-data-center-zoning-decisions-after-dozens-residents-show-up-protest/"
+    },
+    {
+      "id": "research:tx-texas-comptroller-20260408-texas-comptroller-projected-the-state-s-qualified",
+      "date": "2026-04-08",
+      "jurisdiction": "Texas Comptroller",
+      "title": "Texas Comptroller projected the state's qualified data center sales-tax exemption will cost ~$3.2B in foregone revenue over the 2027-28 bien",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.texastribune.org/2026/04/08/texas-data-centers-sales-tax-break-billion-dollars/"
+    },
+    {
+      "id": "research:tx-district-court-20260407-four-granbury-residents-filed-suit-alleging-the-ci",
+      "date": "2026-04-07",
+      "jurisdiction": "District Court",
+      "title": "Four Granbury residents filed suit alleging the City of Granbury violated Texas Open Meetings Act by using a walking quorum and inadequate n",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.keranews.org/news/2026-04-10/granbury-data-center-lawsuit-texas-open-meetings-act"
+    },
+    {
+      "id": "research:tx-city-of-harlingen-20260402-harlingen-city-commissioners-voted-unanimously-apr",
+      "date": "2026-04-02",
+      "jurisdiction": "City of Harlingen",
+      "title": "Harlingen city commissioners voted unanimously April 2 to begin process of imposing a 120-day moratorium on data center projects, with publi",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://myrgv.com/local-news/2026/04/02/harlingen-calls-for-public-hearings-on-proposed-data-center-moratorium/"
     }
   ]
 }

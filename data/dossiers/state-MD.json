@@ -1,36 +1,47 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MD",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 51.2,
-    "tier": 15.2,
-    "engagement": 11.8,
-    "recency": 10.2,
-    "multi_source": 8.9,
+    "score": 50.0,
+    "tier": 14.5,
+    "engagement": 10.7,
+    "recency": 12.7,
+    "multi_source": 7.1,
     "regulatory": 5.0
   },
-  "count": 19,
+  "count": 24,
   "tier_counts": {
     "restrictive": 3,
     "unclear": 14,
-    "supportive": 2
+    "supportive": 2,
+    "null": 5
   },
   "outcome_counts": {
-    "win": 6,
-    "pending": 13
+    "win": 8,
+    "pending": 15,
+    "loss": 1
   },
   "scope_counts": {
-    "local": 2,
-    "statewide": 17
+    "local": 4,
+    "statewide": 20
   },
   "issue_top": {
-    "community_impact": 1,
-    "grid_energy": 1,
-    "transparency": 1,
-    "tax_incentive": 1
+    "grid_energy": 4,
+    "community_impact": 3,
+    "transparency": 3,
+    "zoning": 2,
+    "environmental": 2,
+    "tax_incentive": 1,
+    "ratepayer": 1,
+    "farmland": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Amazon Web Services",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2020-02-07",
   "latest": "2026-04-23",
@@ -52,6 +63,33 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/u_Additional-Health523/comments/1st7bbr/maryland_light_bills"
+    },
+    {
+      "id": "research:md-maryland-general-assembly-20260407-maryland-passed-the-utility-relief-act-one-of-onl",
+      "date": "2026-04-07",
+      "jurisdiction": "Maryland General Assembly",
+      "title": "Maryland passed the Utility RELIEF Act, one of only two of 17 introduced data center bills to clear the 2026 session. Aims to hold utilities",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://southernmarylandchronicle.com/2026/04/20/battles-over-data-centers-intensify-in-the-maryland-state-house-and-communities/"
+    },
+    {
+      "id": "research:md-calvert-county-board-20260407-calvert-county-commissioners-voted-2-3-in-april-20",
+      "date": "2026-04-07",
+      "jurisdiction": "Calvert County Board",
+      "title": "Calvert County commissioners voted 2-3 in April 2026 to reject pursuing a 24-month moratorium on data center approvals and permits. Motion f",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://thebaynet.com/calvert-county-strikes-down-data-center-moratorium-in-2-3-vote/"
+    },
+    {
+      "id": "research:md-frederick-county-data-center-referendum-committee-20260312-grassroots-frederick-county-data-center-referendum",
+      "date": "2026-03-12",
+      "jurisdiction": "Frederick County Data Center Referendum Committee",
+      "title": "Grassroots Frederick County Data Center Referendum Committee submitted more than 22,000 signatures to put the county council's 2,600-acre Cr",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.wypr.org/wypr-news/2026-03-12/frederick-county-group-wants-voters-to-decide-data-center-limits"
     },
     {
       "id": "openstates:ocd-bill-05fd82ab-2e04-42cd-b605-802b500455bf-md",
@@ -97,33 +135,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1082?ys=2026RS"
-    },
-    {
-      "id": "openstates:ocd-bill-a3aab023-deb2-48ca-a8c8-791893922d3e-md",
-      "date": "2026-01-30",
-      "jurisdiction": "MD Legislature",
-      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0427?ys=2026RS"
-    },
-    {
-      "id": "openstates:ocd-bill-b0a2133a-af4e-4d86-859a-e89362522e8b-md",
-      "date": "2026-01-28",
-      "jurisdiction": "MD Legislature",
-      "title": "Sales and Use Tax and Property Tax - Exemptions for Data Centers - Repeal",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0560?ys=2026RS"
-    },
-    {
-      "id": "openstates:ocd-bill-0a4e834c-2cb0-4a8c-a174-7523adff07d6-md",
-      "date": "2025-10-24",
-      "jurisdiction": "MD Legislature",
-      "title": "Moratorium on Construction of New Data Centers - Co-Location and Generation Contingency",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0120?ys=2026RS"
     }
   ]
 }

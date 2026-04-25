@@ -1,31 +1,47 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AK",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 47.8,
+    "score": 51.4,
     "tier": 12.0,
-    "engagement": 12.5,
-    "recency": 13.3,
-    "multi_source": 10.0,
-    "regulatory": 0.0
+    "engagement": 9.4,
+    "recency": 20.0,
+    "multi_source": 5.0,
+    "regulatory": 5.0
   },
-  "count": 1,
+  "count": 2,
   "tier_counts": {
-    "unclear": 1
+    "unclear": 1,
+    "null": 1
   },
   "outcome_counts": {
-    "pending": 1
+    "pending": 1,
+    "win": 1
   },
   "scope_counts": {
-    "statewide": 1
+    "statewide": 1,
+    "local": 1
   },
-  "issue_top": {},
+  "issue_top": {
+    "grid_energy": 1,
+    "zoning": 1,
+    "community_impact": 1
+  },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-02-18",
-  "latest": "2026-02-18",
+  "latest": "2026-03-27",
   "top_citations": [
+    {
+      "id": "research:ak-anchorage-assembly-20260327-anchorage-assembly-preemptively-passed-an-ordinanc",
+      "date": "2026-03-27",
+      "jurisdiction": "Anchorage Assembly",
+      "title": "Anchorage Assembly preemptively passed an ordinance 10-2 that defines data centers in municipal zoning code for the first time and requires ",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.adn.com/alaska-news/anchorage/2026/03/27/anchorage-assembly-preemptively-adopts-data-center-regulations/"
+    },
     {
       "id": "openstates:ocd-bill-bc6d0909-d802-476a-aab3-d10d5e0f3523-ak",
       "date": "2026-02-18",

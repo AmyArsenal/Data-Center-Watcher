@@ -1,0 +1,70 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "NY",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 37.0,
+    "tier": 12.0,
+    "engagement": 8.3,
+    "recency": 13.3,
+    "multi_source": 3.3,
+    "regulatory": 0.0
+  },
+  "count": 3,
+  "tier_counts": {
+    "null": 3
+  },
+  "outcome_counts": {
+    "pending": 3
+  },
+  "scope_counts": {
+    "statewide": 2,
+    "local": 1
+  },
+  "issue_top": {
+    "grid_energy": 3,
+    "ratepayer": 2,
+    "environmental": 2,
+    "water": 1,
+    "transparency": 1,
+    "community_impact": 1
+  },
+  "companies": [
+    [
+      "Holtec International",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2026-02-06",
+  "latest": "2026-03-07",
+  "top_citations": [
+    {
+      "id": "research:ny-holtec-nyiso-20260307-holtec-proposed-making-indian-point-campus-buchan",
+      "date": "2026-03-07",
+      "jurisdiction": "Holtec / NYISO",
+      "title": "Holtec proposed making Indian Point campus (Buchanan, Westchester) anchor for HI-CLOUD, 1M-sq-ft 200 MW data center, submitting NYISO reques",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.theexaminernews.com/holtecs-indian-point-proposal-draws-community-scrutiny/"
+    },
+    {
+      "id": "research:ny-nypsc-20260212-nypsc-issued-order-instituting-proceeding-in-case",
+      "date": "2026-02-12",
+      "jurisdiction": "NYPSC",
+      "title": "NYPSC issued Order Instituting Proceeding in Case 26-E-0045 to advance Gov. Hochul's 'Energize NY Development' initiative, reforming how lar",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-announces-psc-proceeding-her-plan-ensure-data-centers-pay-their-fair-share"
+    },
+    {
+      "id": "research:ny-new-york-senate-assembly-20260206-sen-liz-krueger-s9144-and-assemblymember-anna-k",
+      "date": "2026-02-06",
+      "jurisdiction": "New York Senate / Assembly",
+      "title": "Sen. Liz Krueger (S9144) and Assemblymember Anna Kelles (A10141) introduced legislation imposing a minimum three-year-and-90-day moratorium ",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.nysenate.gov/legislation/bills/2025/S9144"
+    }
+  ]
+}

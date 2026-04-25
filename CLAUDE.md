@@ -119,6 +119,8 @@ Data-Center-Watcher/
 │   │                             exports actions.json on every cycle
 │   ├── refresh_bills.py          bills tier orchestrator (CI + local)
 │   ├── migrate_db.py             schema migrations + hash backfill
+│   ├── upsert_research_pending.py    weekly Sunday-ritual ingestion of
+│   │                             data/research_pending.json into actions
 │   ├── migrate_events_to_actions.py  events + bills → actions table,
 │   │                             applies 16-tag classifier
 │   ├── research_agent.py         scaffolded weekly Claude Sonnet research
@@ -179,6 +181,14 @@ python3 scripts/refresh_bills.py        # bills: incremental
 python3 scripts/refresh_bills.py --full # bills: all 50 states (~5 min, rate-limited)
 python3 scripts/migrate_db.py           # schema + hash backfill (idempotent)
 python3 scripts/migrate_events_to_actions.py  # rebuild actions table from events+bills
+
+# ── Weekly research sweep (Sunday ritual) ──────────────────────────────
+# 1. Open Claude Code, spawn ~12 parallel agents (see docs/research-playbook.md)
+# 2. Aggregate JSON into data/research_pending.json
+# 3. Ingest + rebuild:
+python3 scripts/upsert_research_pending.py
+python3 scripts/build_dossier.py
+git add data/ && git commit -m "research: weekly sweep $(date -u +%F)" && git push
 
 # ── Tests + local server ────────────────────────────────────────────────
 python3 scripts/tests/test_hashing_and_upsert.py   # 13 tests
@@ -306,10 +316,16 @@ worst-case `map_color_tier`. Map opacity in Bills mode = `0.20 + (count/maxCount
 
 **How the actions table gets populated:**
 1. `migrate_events_to_actions.py` converts every `events` + `bills` row into
-   an `actions` row (currently ~312 records from existing data)
+   an `actions` row (~312 records from auto-ingested news/bills/social)
 2. Hooked into `refresh_fast.py` so every 15-min CI run re-builds `actions.json`
-3. (Future) `research_agent.py` weekly Claude Sonnet pass adds new records
-   from web research
+3. Weekly human-in-the-loop research sweep (the *Sunday ritual* — see
+   [docs/research-playbook.md](docs/research-playbook.md)). Spawns ~12 parallel
+   Claude Code agents via this terminal, writes to `data/research_pending.json`,
+   then `scripts/upsert_research_pending.py` upserts with `origin='research_agent'`.
+   Idempotent — IDs are stable slugs of `{state}-{jurisdiction}-{date}-{title-prefix}`.
+   First sweep added 169 records (Apr 2026). Cost: $0 (uses Claude Code Max plan).
+4. Total as of Apr 2026: 488 actions across 50 states. Origins:
+   `openstates=193 · research_agent=169 · social=80 · news=43 · market=2 · court=1`.
 
 ## Frontend architecture (`index.html`)
 
@@ -480,11 +496,12 @@ Secrets to explicitly **not** chase:
 
 Next unshipped phases, in priority order:
 
-1. **Wire `research_agent.py`** — scaffold exists, not yet automated. Needs
-   `ANTHROPIC_API_KEY` repo secret, a review-queue workflow at
-   `data/research_pending.json` so we can manually approve before upserting,
-   and `.github/workflows/refresh-research.yml` (weekly cron). This is the
-   multiplier that takes us from 312 actions → 800-1100 over 2-3 months.
+1. **(Done as of Apr 2026)** ~~Wire `research_agent.py`~~ — replaced by the
+   human-in-the-loop **Sunday ritual** in [docs/research-playbook.md](docs/research-playbook.md).
+   Skipped the API path because Claude Code Max plan covers Sunday sweeps for $0.
+   Re-evaluate API automation only if Sunday cadence breaks. The
+   `data/research_pending.json` review queue + `scripts/upsert_research_pending.py`
+   ingestion are live. First sweep brought us from 312 → 488 actions in one pass.
 2. **CourtListener structured ingest** — currently CourtListener flows in as
    news cards. Adding `lib/sources/courtlistener_actions.py` that extracts
    case captions + parties + judges + ruling dates as proper actions. Adds

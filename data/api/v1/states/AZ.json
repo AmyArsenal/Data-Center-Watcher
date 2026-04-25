@@ -1,31 +1,55 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AZ",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 42.2,
+    "score": 40.9,
     "tier": 12.0,
-    "engagement": 12.5,
-    "recency": 7.7,
-    "multi_source": 10.0,
-    "regulatory": 0.0
+    "engagement": 10.2,
+    "recency": 7.5,
+    "multi_source": 6.2,
+    "regulatory": 5.0
   },
-  "count": 5,
+  "count": 8,
   "tier_counts": {
-    "unclear": 5
+    "unclear": 5,
+    "null": 3
   },
   "outcome_counts": {
-    "pending": 5
+    "pending": 7,
+    "win": 1
   },
   "scope_counts": {
-    "statewide": 5
+    "statewide": 6,
+    "local": 2
   },
-  "issue_top": {},
-  "companies": [],
+  "issue_top": {
+    "zoning": 2,
+    "water": 2,
+    "community_impact": 1,
+    "transparency": 1,
+    "tax_incentive": 1,
+    "ratepayer": 1
+  },
+  "companies": [
+    [
+      "Beale Infrastructure",
+      1
+    ]
+  ],
   "opposition_groups": [],
-  "earliest": "2026-01-02",
-  "latest": "2026-02-09",
+  "earliest": "2025-12-11",
+  "latest": "2026-02-23",
   "top_citations": [
+    {
+      "id": "research:az-marana-citizens-pima-county-court-20260223-marana-citizens-for-ethical-and-transparent-govern",
+      "date": "2026-02-23",
+      "jurisdiction": "Marana Citizens / Pima County Court",
+      "title": "Marana Citizens for Ethical and Transparent Government sued Town of Marana for rejecting referendum petitions that would put rezoning of 600",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://news.azpm.org/p/newsheadlines/2026/2/27/228668-marana-residents-sue-town-over-rejected-data-center-referendum-petitions/"
+    },
     {
       "id": "openstates:ocd-bill-407ade10-2b84-43c6-8018-407f4904b632-az",
       "date": "2026-02-09",
@@ -63,6 +87,15 @@
       "url": "https://apps.azleg.gov/BillStatus/BillOverview/84585?SessionId=130"
     },
     {
+      "id": "research:az-office-of-gov-katie-hobbs-20260109-gov-katie-hobbs-included-repeal-of-arizona-s-data",
+      "date": "2026-01-09",
+      "jurisdiction": "Office of Gov. Katie Hobbs",
+      "title": "Gov. Katie Hobbs included repeal of Arizona's data center sales-tax incentive program in FY26 executive budget; Rep. Neal Carter introduced ",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://tucson.com/news/state-regional/government-politics/article_fcd329d7-35f8-4e01-8f5c-dc419439f4f8.html"
+    },
+    {
       "id": "openstates:ocd-bill-a99718e6-c2bd-4382-93cb-53e4ed958eb5-az",
       "date": "2026-01-02",
       "jurisdiction": "AZ Legislature",
@@ -70,6 +103,15 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://apps.azleg.gov/BillStatus/BillOverview/83749?SessionId=130"
+    },
+    {
+      "id": "research:az-chandler-city-council-20251211-chandler-city-council-unanimously-rejected-proposa",
+      "date": "2025-12-11",
+      "jurisdiction": "Chandler City Council",
+      "title": "Chandler City Council unanimously rejected proposal to rezone 40 acres for 400,000-sq-ft data center after large crowds of residents opposed",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.fox10phoenix.com/news/chandler-data-center-proposal-draws-heavy-opposition-council-meeting"
     }
   ]
 }

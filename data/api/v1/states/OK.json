@@ -1,33 +1,46 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OK",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 55.2,
-    "tier": 18.0,
-    "engagement": 11.2,
-    "recency": 18.2,
-    "multi_source": 7.9,
-    "regulatory": 0.0
+    "score": 58.6,
+    "tier": 16.9,
+    "engagement": 10.3,
+    "recency": 19.9,
+    "multi_source": 6.5,
+    "regulatory": 5.0
   },
-  "count": 14,
+  "count": 17,
   "tier_counts": {
     "restrictive": 3,
-    "unclear": 11
+    "unclear": 11,
+    "null": 3
   },
   "outcome_counts": {
-    "pending": 10,
-    "win": 4
+    "pending": 11,
+    "win": 5,
+    "loss": 1
   },
   "scope_counts": {
-    "local": 3,
-    "statewide": 11
+    "local": 5,
+    "statewide": 12
   },
   "issue_top": {
-    "community_impact": 1,
-    "zoning": 1
+    "community_impact": 2,
+    "zoning": 2,
+    "water": 2,
+    "grid_energy": 2,
+    "ratepayer": 2,
+    "tax_incentive": 1,
+    "transparency": 1,
+    "property_values": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Meta",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2025-02-03",
   "latest": "2026-04-22",
@@ -40,6 +53,24 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://reddit.com/r/okc/comments/1ssrn9h/oklahoma_city_leaders_approve_data_center"
+    },
+    {
+      "id": "research:ok-oklahoma-city-council-20260422-oklahoma-city-council-unanimously-approved-a-morat",
+      "date": "2026-04-22",
+      "jurisdiction": "Oklahoma City Council",
+      "title": "Oklahoma City Council unanimously approved a moratorium temporarily banning new data center development within city limits through Dec 31, 2",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.okc.gov/News-articles/Oklahoma-City-Council-approves-moratorium-on-new-data-centers"
+    },
+    {
+      "id": "research:ok-city-of-tulsa-20260422-meta-officially-confirmed-it-is-the-developer-of",
+      "date": "2026-04-22",
+      "jurisdiction": "City of Tulsa",
+      "title": "Meta officially confirmed it is the developer of 'Project Anthem,' a $1B 340-acre data center in east Tulsa. Meta will receive an annual 85%",
+      "tier": null,
+      "outcome": "loss",
+      "url": "https://tulsaflyer.org/2026/04/22/news/post/meta-east-tulsa-data-center/"
     },
     {
       "id": "social:tiktok-f4e59c25339d440d-ok",
@@ -103,24 +134,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1706&session=2600"
-    },
-    {
-      "id": "openstates:ocd-bill-042f76e1-d2d1-494f-b8e6-5f5ec99917b3-ok",
-      "date": "2026-02-02",
-      "jurisdiction": "OK Legislature",
-      "title": "Data centers; Data Center Decommissioning Act; proper decommissioning; Oklahoma Corporation Commission; financial assurance; effective date.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4194&session=2600"
-    },
-    {
-      "id": "openstates:ocd-bill-8f3249f5-d4b3-4a7e-a1c4-7d0b8f5df573-ok",
-      "date": "2026-02-02",
-      "jurisdiction": "OK Legislature",
-      "title": "Hyperscale data centers; Oklahoma Hyperscale Data Center Directory Act; Oklahoma Corporation Commission; directory; electrical utilities; wa",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3394&session=2600"
     }
   ]
 }

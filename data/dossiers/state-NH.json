@@ -1,36 +1,50 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NH",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 44.5,
-    "tier": 18.0,
-    "engagement": 12.5,
-    "recency": 4.0,
-    "multi_source": 10.0,
+    "score": 40.2,
+    "tier": 16.0,
+    "engagement": 10.4,
+    "recency": 7.1,
+    "multi_source": 6.7,
     "regulatory": 0.0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
     "unclear": 1,
-    "protective": 1
+    "protective": 1,
+    "null": 1
   },
   "outcome_counts": {
     "win": 1,
-    "pending": 1
+    "pending": 2
   },
   "scope_counts": {
-    "statewide": 2
+    "statewide": 3
   },
   "issue_top": {
+    "environmental": 2,
     "zoning": 1,
-    "environmental": 1
+    "grid_energy": 1,
+    "water": 1,
+    "noise": 1,
+    "community_impact": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2025-11-21",
-  "latest": "2025-12-01",
+  "latest": "2026-02-11",
   "top_citations": [
+    {
+      "id": "research:nh-new-hampshire-house-20260211-hb-1265-would-prohibit-construction-of-new-data-ce",
+      "date": "2026-02-11",
+      "jurisdiction": "New Hampshire House",
+      "title": "HB 1265 would prohibit construction of new data centers in NH for one year and establish a committee to study environmental impacts, with re",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://indepthnh.org/2026/02/11/lawmakers-want-to-ban-data-center-construction-for-a-year/"
+    },
     {
       "id": "openstates:ocd-bill-f101c4ba-1f72-4257-bc6d-092d2230e864-nh",
       "date": "2025-12-01",

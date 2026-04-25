@@ -1,36 +1,50 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WV",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 48.5,
-    "tier": 10.3,
-    "engagement": 12.5,
-    "recency": 10.8,
-    "multi_source": 10.0,
+    "score": 47.8,
+    "tier": 10.4,
+    "engagement": 12.1,
+    "recency": 10.9,
+    "multi_source": 9.3,
     "regulatory": 5.0
   },
-  "count": 14,
+  "count": 15,
   "tier_counts": {
     "unclear": 10,
     "protective": 1,
-    "supportive": 3
+    "supportive": 3,
+    "null": 1
   },
   "outcome_counts": {
     "win": 1,
-    "pending": 13
+    "pending": 13,
+    "mixed": 1
   },
   "scope_counts": {
-    "statewide": 14
+    "statewide": 15
   },
   "issue_top": {
-    "design_standards": 1
+    "design_standards": 1,
+    "water": 1,
+    "transparency": 1,
+    "grid_energy": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2025-02-24",
-  "latest": "2026-02-16",
+  "latest": "2026-03-11",
   "top_citations": [
+    {
+      "id": "research:wv-west-virginia-legislature-20260311-wv-hb-4983-passed-house-78-16-feb-17-and-senate",
+      "date": "2026-03-11",
+      "jurisdiction": "West Virginia Legislature",
+      "title": "WV HB 4983 passed House 78-16 (Feb 17) and Senate 28-6 (March 11), authorizing Department of Commerce to certify microgrid districts and 'hi",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://westvirginiawatch.com/2026/03/11/wv-senate-passes-data-center-rules-with-new-language-urging-developers-to-study-potential-water-use/"
+    },
     {
       "id": "openstates:ocd-bill-a86cb1f4-d146-4ed8-a14f-1c146e2e216b-wv",
       "date": "2026-02-16",
@@ -111,15 +125,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=652&year=2026&sessiontype=RS&btype=bill"
-    },
-    {
-      "id": "openstates:ocd-bill-2e99894a-5e10-40b5-8326-d8aace7da71c-wv",
-      "date": "2026-01-27",
-      "jurisdiction": "WV Legislature",
-      "title": "Establishing economic incentives for data centers to locate within WV",
-      "tier": "supportive",
-      "outcome": "pending",
-      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=623&year=2026&sessiontype=RS&btype=bill"
     }
   ]
 }

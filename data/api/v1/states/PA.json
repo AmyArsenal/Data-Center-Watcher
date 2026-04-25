@@ -1,40 +1,89 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 41.4,
-    "tier": 7.5,
-    "engagement": 12.5,
-    "recency": 6.4,
-    "multi_source": 10.0,
+    "score": 44.6,
+    "tier": 8.9,
+    "engagement": 10.6,
+    "recency": 13.2,
+    "multi_source": 7.0,
     "regulatory": 5.0
   },
-  "count": 16,
+  "count": 23,
   "tier_counts": {
     "unclear": 10,
-    "supportive": 6
+    "supportive": 6,
+    "null": 7
   },
   "outcome_counts": {
-    "pending": 11,
-    "win": 5
+    "pending": 14,
+    "win": 9
   },
   "scope_counts": {
-    "statewide": 16
+    "statewide": 22,
+    "federal": 1
   },
   "issue_top": {
     "tax_incentive": 6,
-    "community_impact": 2,
-    "environmental": 2,
-    "water": 1,
-    "farmland": 1,
-    "grid_energy": 1
+    "grid_energy": 5,
+    "ratepayer": 5,
+    "community_impact": 4,
+    "environmental": 3,
+    "water": 2,
+    "anti_ai": 2,
+    "farmland": 1
   },
-  "companies": [],
+  "companies": [
+    [
+      "Talen Energy",
+      1
+    ],
+    [
+      "PPL Electric Utilities",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-03-31",
+  "latest": "2026-04-22",
   "top_citations": [
+    {
+      "id": "research:pa-pennsylvania-senate-20260422-state-sens-katie-muth-d-and-rosemary-brown-r",
+      "date": "2026-04-22",
+      "jurisdiction": "Pennsylvania Senate",
+      "title": "State Sens. Katie Muth (D) and Rosemary Brown (R) announced plans to introduce a bipartisan three-year statewide moratorium on hyperscale da",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.palegis.us/senate/co-sponsorship/memo?memoID=48102"
+    },
+    {
+      "id": "research:pa-pa-state-capitol-rotunda-20260422--150-pennsylvanians-representing-roughly-15-advoca",
+      "date": "2026-04-22",
+      "jurisdiction": "PA State Capitol Rotunda",
+      "title": "~150 Pennsylvanians representing roughly 15 advocacy groups, labor unions and community organizations rallied in Capitol Rotunda Harrisburg ",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.fox43.com/article/news/politics/rally-at-pa-capitol-calls-data-center-moratorium/521-d509b4d5-294c-4d97-aa67-0310f62f245e"
+    },
+    {
+      "id": "research:pa-pennsylvania-house-20260415-pa-house-passed-hb-2150-124-77-rep-kyle-donahue",
+      "date": "2026-04-15",
+      "jurisdiction": "Pennsylvania House",
+      "title": "PA House passed HB 2150 (124-77, Rep. Kyle Donahue D), requiring data center operators to report energy and water consumption to DEP, with D",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
+    },
+    {
+      "id": "research:pa-pennsylvania-house-20260415-pa-house-passed-hb-2151-133-68-rep-kyle-donahue",
+      "date": "2026-04-15",
+      "jurisdiction": "Pennsylvania House",
+      "title": "PA House passed HB 2151 (133-68, Rep. Kyle Donahue D), directing DCED to produce model zoning ordinance for municipalities regulating data c",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
+    },
     {
       "id": "openstates:ocd-bill-1c2178af-79c3-4361-8185-a838747d8f5c-pa",
       "date": "2026-03-31",
@@ -43,6 +92,33 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.palegis.us/legislation/bills/2025/sb724"
+    },
+    {
+      "id": "research:pa-pennsylvania-house-20260315-pa-house-passed-hb-1834-imposing-financial-respo",
+      "date": "2026-03-15",
+      "jurisdiction": "Pennsylvania House",
+      "title": "PA House passed HB 1834, imposing 'financial responsibility' requirements on data center owners and preventing utilities from passing data c",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
+    },
+    {
+      "id": "research:pa-pa-puc-20260313--275m-settlement-filed-at-pa-puc-raises-ppl-electr",
+      "date": "2026-03-13",
+      "jurisdiction": "PA PUC",
+      "title": "$275M settlement filed at PA PUC raises PPL Electric base distribution revenue and creates new dedicated tariff for data centers and other l",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.utilitydive.com/news/ppl-electric-rate-case-settlement-data-center-tariff/814760/"
+    },
+    {
+      "id": "research:pa-ferc-aws-talen--20260301-ferc-denied-talen-energy-s-rehearing-request-and-u",
+      "date": "2026-03-01",
+      "jurisdiction": "FERC (AWS-Talen)",
+      "title": "FERC denied Talen Energy's rehearing request and upheld its rejection of the amended Interconnection Service Agreement that would have raise",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://www.datacenterdynamics.com/en/news/ferc-upholds-rejection-of-proposed-interconnection-agreement-between-aws-data-center-and-pennsylvania-nuclear-plant/"
     },
     {
       "id": "openstates:ocd-bill-4e8ff354-6db6-4d71-9bad-8047315cb144-pa",
@@ -61,69 +137,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.palegis.us/legislation/bills/2025/hb2198"
-    },
-    {
-      "id": "openstates:ocd-bill-8881a3e6-65d4-4e07-8f7d-a36ba426d35e-pa",
-      "date": "2026-01-21",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in taxation by school districts, ",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.palegis.us/legislation/bills/2025/hb2153"
-    },
-    {
-      "id": "openstates:ocd-bill-f8d9a8cd-1c62-4462-b589-978348efd55b-pa",
-      "date": "2026-01-20",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania\r\n Consolidated Statutes, providing for data center ordinance\r\n assis",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://www.palegis.us/legislation/bills/2025/hb2151"
-    },
-    {
-      "id": "openstates:ocd-bill-b64a96da-0667-49b9-93c6-e0bc1f0d2fa3-pa",
-      "date": "2026-01-20",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://www.palegis.us/legislation/bills/2025/hb2150"
-    },
-    {
-      "id": "openstates:ocd-bill-bb8bd3a9-435c-4801-a002-d1d6a7dd15d0-pa",
-      "date": "2025-12-03",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in computer data center equipment incentive pr",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.palegis.us/legislation/bills/2025/hb2061"
-    },
-    {
-      "id": "openstates:ocd-bill-ca63bd07-1a38-4705-ac4f-61643c8001fe-pa",
-      "date": "2025-09-05",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act providing for a permitting process for data center siting; and imposing powers and duties on the Department of Environmental Protecti",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb991"
-    },
-    {
-      "id": "openstates:ocd-bill-6d10f576-107b-411d-a1f2-ec91477f3dc0-pa",
-      "date": "2025-09-04",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act providing for the regulation of commercial data centers;\r\n imposing duties on the Pennsylvania Public Utility\r\n Commission, the Depar",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://www.palegis.us/legislation/bills/2025/hb1834"
-    },
-    {
-      "id": "openstates:ocd-bill-60f6a3df-d226-4eb8-9978-955442b61384-pa",
-      "date": "2025-07-14",
-      "jurisdiction": "PA Legislature",
-      "title": "Establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sa",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb939"
     }
   ]
 }

@@ -1,34 +1,56 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CT",
-  "generated_at": "2026-04-25T16:00:25Z",
+  "generated_at": "2026-04-25T16:29:24Z",
   "risk_score": {
-    "score": 40.0,
-    "tier": 10.0,
-    "engagement": 12.5,
-    "recency": 2.5,
-    "multi_source": 10.0,
+    "score": 38.7,
+    "tier": 10.3,
+    "engagement": 11.5,
+    "recency": 3.6,
+    "multi_source": 8.3,
     "regulatory": 5.0
   },
-  "count": 10,
+  "count": 12,
   "tier_counts": {
     "supportive": 4,
     "unclear": 5,
-    "restrictive": 1
+    "restrictive": 1,
+    "null": 2
   },
   "outcome_counts": {
-    "pending": 8,
-    "win": 2
+    "pending": 9,
+    "win": 3
   },
   "scope_counts": {
-    "statewide": 10
+    "statewide": 11,
+    "local": 1
   },
-  "issue_top": {},
-  "companies": [],
+  "issue_top": {
+    "grid_energy": 2,
+    "tax_incentive": 1,
+    "ratepayer": 1,
+    "community_impact": 1,
+    "environmental": 1
+  },
+  "companies": [
+    [
+      "NE Edge",
+      1
+    ]
+  ],
   "opposition_groups": [],
   "earliest": "2021-02-18",
-  "latest": "2026-02-19",
+  "latest": "2026-02-25",
   "top_citations": [
+    {
+      "id": "research:ct-ct-energy-and-technology-committee-20260225-the-energy-and-technology-committee-held-a-public",
+      "date": "2026-02-25",
+      "jurisdiction": "CT Energy and Technology Committee",
+      "title": "The Energy and Technology Committee held a public hearing on SB 245, which would revoke the data center tax incentives signed into law in 20",
+      "tier": null,
+      "outcome": "pending",
+      "url": "https://www.wshu.org/connecticut-news/2026-02-27/ct-ai-data-centers-regulations"
+    },
     {
       "id": "openstates:ocd-bill-d5be8254-753c-4ccf-8969-cc6b243a7b00-ct",
       "date": "2026-02-19",
@@ -37,6 +59,15 @@
       "tier": "supportive",
       "outcome": "pending",
       "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "research:ct-ct-siting-council-town-of-waterford-20260101-the-proposed-1-5-million-sq-ft-hyperscale-data-cen",
+      "date": "2026-01-01",
+      "jurisdiction": "CT Siting Council / Town of Waterford",
+      "title": "The proposed 1.5-million-sq-ft hyperscale data center connected directly to Millstone Nuclear Power Station in Waterford was scrubbed. Conne",
+      "tier": null,
+      "outcome": "win",
+      "url": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
     },
     {
       "id": "openstates:ocd-bill-3e522d74-4d62-4cce-88d6-8b92ba1aaf6d-ct",
@@ -97,24 +128,6 @@
       "date": "2024-02-14",
       "jurisdiction": "CT Legislature",
       "title": "AN ACT ELIMINATING THE TAX EXEMPTIONS FOR QUALIFIED DATA CENTERS.",
-      "tier": "supportive",
-      "outcome": "pending",
-      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
-    },
-    {
-      "id": "openstates:ocd-bill-56e2bc36-7b1c-420f-aa9b-66a84f5d321d-ct",
-      "date": "2021-02-23",
-      "jurisdiction": "CT Legislature",
-      "title": "AN ACT CONCERNING INCENTIVES FOR QUALIFIED DATA CENTERS TO LOCATE IN THE STATE.",
-      "tier": "supportive",
-      "outcome": "win",
-      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
-    },
-    {
-      "id": "openstates:ocd-bill-0e774e7a-2624-424b-badd-4c04b5ec0515-ct",
-      "date": "2021-02-18",
-      "jurisdiction": "CT Legislature",
-      "title": "AN ACT CONCERNING INCENTIVES FOR QUALIFIED DATA CENTERS TO LOCATE IN THE STATE.",
       "tier": "supportive",
       "outcome": "pending",
       "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"

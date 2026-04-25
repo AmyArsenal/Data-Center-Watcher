@@ -1,0 +1,48 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "UT",
+  "generated_at": "2026-04-25T16:29:24Z",
+  "risk_score": {
+    "score": 27.2,
+    "tier": 12.0,
+    "engagement": 6.2,
+    "recency": 4.0,
+    "multi_source": 0.0,
+    "regulatory": 5.0
+  },
+  "count": 1,
+  "tier_counts": {
+    "null": 1
+  },
+  "outcome_counts": {
+    "mixed": 1
+  },
+  "scope_counts": {
+    "statewide": 1
+  },
+  "issue_top": {
+    "grid_energy": 1,
+    "ratepayer": 1,
+    "contract_guarantees": 1
+  },
+  "companies": [
+    [
+      "Rocky Mountain Power",
+      1
+    ]
+  ],
+  "opposition_groups": [],
+  "earliest": "2025-05-07",
+  "latest": "2025-05-07",
+  "top_citations": [
+    {
+      "id": "research:ut-utah-legislature-20250507-utah-s-sb-132-modified-rocky-mountain-power-s-duty",
+      "date": "2025-05-07",
+      "jurisdiction": "Utah Legislature",
+      "title": "Utah's SB 132 modified Rocky Mountain Power's duty to serve large loads (100 MW+) by directing utility to file large-load tariff and requiri",
+      "tier": null,
+      "outcome": "mixed",
+      "url": "https://www.latitudemedia.com/news/utah-is-taking-a-different-approach-to-new-data-center-load/"
+    }
+  ]
+}
