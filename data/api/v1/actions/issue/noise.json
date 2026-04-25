@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "filter": {
     "issue_category": "noise"
   },
-  "count": 27,
+  "count": 28,
   "items": [
     {
       "id": "social:reddit-230aa1c7c2e489ff-us",
@@ -1086,6 +1086,46 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "social:tiktok-e55a27af11ef8162-us",
+      "origin": "social",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "@pwrhungry",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-04-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": "[\"noise\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "The backlash against data centers is a part of a cultural shift. Yes, communities are fighting DC projects because of concerns about noise,. The backlash against data centers is a part of a cultural shift. Yes, communities are fighting DC projects because of concerns about noise, property values, and water. But the undercurrent is the distrust of AI, and suspicion or even hatred of Big Tech. #datacenter #ai",
+      "sources": "[\"https://tiktok.com/@pwrhungry/video/7626473218785774878\"]",
+      "data_source": "social",
+      "last_updated": "2026-04-25T23:51:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     }
   ]
 }

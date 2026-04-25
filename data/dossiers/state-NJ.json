@@ -1,29 +1,29 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "risk_score": {
-    "score": 49.1,
-    "tier": 14.2,
-    "engagement": 10.3,
-    "recency": 13.1,
-    "multi_source": 6.5,
+    "score": 51.2,
+    "tier": 15.4,
+    "engagement": 10.1,
+    "recency": 14.4,
+    "multi_source": 6.2,
     "regulatory": 5.0
   },
-  "count": 20,
+  "count": 21,
   "tier_counts": {
-    "restrictive": 2,
+    "restrictive": 3,
     "unclear": 9,
     "supportive": 2,
     "protective": 1,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 15,
+    "pending": 16,
     "win": 5
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 15
   },
   "issue_top": {
@@ -44,8 +44,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-04-14",
+  "latest": "2026-04-24",
   "top_citations": [
+    {
+      "id": "social:x-3aa2fcda6f-nj",
+      "date": "2026-04-24",
+      "jurisdiction": "@datacentersig",
+      "title": "A data center project in New Brunswick, New Jersey, was rejected following local citizen protests. Public opposition to data centers is grow",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://x.com/datacentersig/status/2047699105535680585"
+    },
     {
       "id": "research:nj-phillipsburg-town-council-20260414-phillipsburg-town-council-unanimously-gave-final-a",
       "date": "2026-04-14",
@@ -126,15 +135,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.foodandwaterwatch.org/2026/02/20/new-brunswick-city-council-rejects-data-center-plan/"
-    },
-    {
-      "id": "openstates:ocd-bill-b253cc44-466a-456c-9a0e-997f075a71b1-nj",
-      "date": "2026-02-19",
-      "jurisdiction": "NJ Legislature",
-      "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4096"
     }
   ]
 }

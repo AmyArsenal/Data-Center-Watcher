@@ -1,26 +1,26 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "risk_score": {
-    "score": 45.2,
-    "tier": 19.0,
+    "score": 49.5,
+    "tier": 23.2,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 4,
+  "count": 5,
   "tier_counts": {
-    "restrictive": 1,
+    "restrictive": 2,
     "null": 3
   },
   "outcome_counts": {
     "win": 2,
-    "pending": 2
+    "pending": 3
   },
   "scope_counts": {
-    "local": 3,
+    "local": 4,
     "statewide": 1
   },
   "issue_top": {
@@ -55,6 +55,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://abc12.com/news/michigan-utility-oks-12-month-ban-on-supplying-water-for-data-centers/article_58cd0db1-f539-594c-9e01-0fbd7ea9cfcd.html"
+    },
+    {
+      "id": "social:reddit-5f5ab7783ee71192-mi",
+      "date": "2026-04-25",
+      "jurisdiction": "r/Michigan",
+      "title": "Proposed Michigan bills aim to regulate local government moratoriums on data centers",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/Michigan/comments/1svj3or/proposed_michigan_bills_aim_to_regulate_local"
     },
     {
       "id": "research:mi-city-of-lansing-20260401-uk-based-deep-green-withdrew-its-application-for-a",

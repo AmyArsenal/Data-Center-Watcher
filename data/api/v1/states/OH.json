@@ -1,26 +1,26 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "risk_score": {
-    "score": 58.3,
-    "tier": 27.1,
+    "score": 59.2,
+    "tier": 28.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 10,
+    "pending": 11,
     "win": 3
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 4
   },
   "issue_top": {
@@ -36,8 +36,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-04-23",
+  "latest": "2026-04-25",
   "top_citations": [
+    {
+      "id": "social:reddit-3a608b757556015b-oh",
+      "date": "2026-04-25",
+      "jurisdiction": "Ravenna",
+      "title": "Will &amp; The People win in Ravenna against data centers — for now!. Wanted to share this that a successful moratorium was announced at the",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/Ohio/comments/1suz1qb/will_the_people_win_in_ravenna_against_data"
+    },
     {
       "id": "news:rss-dcd-b6e34440a7181895-oh",
       "date": "2026-04-23",
@@ -118,15 +127,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://x.com/ComradeOhio/status/2043333703439388923"
-    },
-    {
-      "id": "research:oh-ohio-attorney-general-ballot-board-20260403-ohio-ag-dave-yost-certified-and-ohio-ballot-board",
-      "date": "2026-04-03",
-      "jurisdiction": "Ohio Attorney General / Ballot Board",
-      "title": "Ohio AG Dave Yost certified, and Ohio Ballot Board unanimously approved, a proposed constitutional amendment to ban future construction of l",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://abc6onyourside.com/news/local/ohio-voters-launch-proposed-amendment-to-keep-big-data-centers-moratorium-ban-from-plugging-in-attorney-general-dave-yost-state-constitution-collect-signatures-petitioners"
     }
   ]
 }

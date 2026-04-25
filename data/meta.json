@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "tier_timestamps": {
-    "fast": "2026-04-25T23:52:46Z",
+    "fast": "2026-04-25T23:52:28Z",
     "bills": "2026-04-25T19:17:45Z"
   },
   "counts_by_source": {
+    "reddit": 66,
+    "tiktok": 15,
     "gdelt": 20,
+    "x": 19,
     "rss-dcd": 7,
     "rss-utilitydive": 3,
-    "reddit": 50,
-    "tiktok": 8,
-    "instagram": 6,
-    "x": 14,
+    "instagram": 7,
     "youtube": 2,
     "polymarket": 2,
     "news": 11,
@@ -19,20 +19,21 @@
     "legal": 1
   },
   "run_stats": {
-    "last_run_seconds": 24.74,
+    "last_run_seconds": 29.44,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
-      "reddit": 0,
+      "reddit": 53,
       "gdelt": 0
     },
-    "inserted": 0,
-    "updated": 9,
-    "dropped_irrelevant": 181,
+    "inserted": 16,
+    "updated": 21,
+    "dropped_irrelevant": 200,
     "accepted_by_source_this_run": {
       "rss-dcd": 3,
       "rss-utilitydive": 3,
-      "rss-dck": 3
+      "rss-dck": 3,
+      "reddit": 28
     }
   }
 }

@@ -3,7 +3,7 @@
   "state": "MO",
   "county_fips": "29099",
   "county_name": "Jefferson County",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "risk_score": {
     "score": 66.2,
     "tier": 40.0,
@@ -12,20 +12,20 @@
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
-    "pending": 3
+    "pending": 4
   },
   "scope_counts": {
-    "local": 3
+    "local": 4
   },
   "issue_top": {},
   "companies": [],
   "opposition_groups": [],
-  "earliest": "2026-04-03",
+  "earliest": "2026-03-31",
   "latest": "2026-04-22",
   "top_citations": [
     {
@@ -54,6 +54,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://www.reddit.com/r/PublicFreakout/comments/1sbmroe/city_council_votes_to_approve_a_6_billion_data/"
+    },
+    {
+      "id": "social:tiktok-a0e1f79d3f0b1074-mo",
+      "date": "2026-03-31",
+      "jurisdiction": "Festus",
+      "title": "Through a hail of jeers, curse words and complaints, members of the Festus City Council approved an ordinance marking a big step toward a hi",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://tiktok.com/@stlpublicradio/video/7623410418375036173"
     }
   ]
 }

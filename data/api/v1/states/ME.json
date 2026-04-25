@@ -1,28 +1,28 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "risk_score": {
-    "score": 68.3,
-    "tier": 33.0,
-    "engagement": 7.8,
+    "score": 68.9,
+    "tier": 34.4,
+    "engagement": 7.5,
     "recency": 20.0,
-    "multi_source": 2.5,
+    "multi_source": 2.0,
     "regulatory": 5.0
   },
-  "count": 28,
+  "count": 35,
   "tier_counts": {
-    "restrictive": 21,
+    "restrictive": 28,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 21,
+    "win": 28,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
-    "local": 19,
+    "local": 26,
     "statewide": 9
   },
   "issue_top": {
@@ -55,6 +55,60 @@
       "url": "https://nbcwashington.com/news/national-international/maine-governor-veto-moratorium-data-centers/4095671"
     },
     {
+      "id": "social:reddit-1c2806727e4dab1c-me",
+      "date": "2026-04-25",
+      "jurisdiction": "r/ProgressiveHQ",
+      "title": "Janet Mills vetoes Maine data center ban",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reddit.com/r/ProgressiveHQ/comments/1svcvhf/janet_mills_vetoes_maine_data_center_ban"
+    },
+    {
+      "id": "social:reddit-462dc5f459517dbf-me",
+      "date": "2026-04-25",
+      "jurisdiction": "r/NewsSource",
+      "title": "Maine Gov. Janet Mills vetoes ban on data center construction",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reddit.com/r/NewsSource/comments/1sv66hz/maine_gov_janet_mills_vetoes_ban_on_data_center"
+    },
+    {
+      "id": "social:reddit-8140de050778a624-me",
+      "date": "2026-04-25",
+      "jurisdiction": "r/thespinroom",
+      "title": "Maine Gov. Janet Mills vetoes ban on data center construction. Are you shitting me?",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reddit.com/r/thespinroom/comments/1sv297x/maine_gov_janet_mills_vetoes_ban_on_data_center"
+    },
+    {
+      "id": "social:reddit-67e3232dc621f322-me",
+      "date": "2026-04-25",
+      "jurisdiction": "r/YAPms",
+      "title": "Maine Gov. Mills vetoes data center moratorium bill",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reddit.com/r/YAPms/comments/1sv26b9/maine_gov_mills_vetoes_data_center_moratorium_bill"
+    },
+    {
+      "id": "social:reddit-3f0f7c1bc2746f18-me",
+      "date": "2026-04-25",
+      "jurisdiction": "r/BetterOffline",
+      "title": "Maine Gov. Janet Mills vetoes ban on data center construction. &gt; “This project — which is now under contract and which has received sever",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reddit.com/r/BetterOffline/comments/1suxqkr/maine_gov_janet_mills_vetoes_ban_on_data_center"
+    },
+    {
+      "id": "social:reddit-27dda4821568efc4-me",
+      "date": "2026-04-25",
+      "jurisdiction": "r/thebulwark",
+      "title": "Maine Gov. Mills Ripped for Veto of Landmark AI Data Center Moratorium | Common Dreams",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reddit.com/r/thebulwark/comments/1sux9p3/maine_gov_mills_ripped_for_veto_of_landmark_ai"
+    },
+    {
       "id": "research:me-maine-governor-20260424-governor-janet-mills-vetoed-ld-307-citing-the-lac",
       "date": "2026-04-24",
       "jurisdiction": "Maine Governor",
@@ -80,60 +134,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wmtw.com/article/maine-data-center-moratorium-vetoed-governor-mills/71122599"
-    },
-    {
-      "id": "news:gdelt-b05076ecfcd95166-me",
-      "date": "2026-04-24",
-      "jurisdiction": "centralmaine.com",
-      "title": "Janet Mills vetoes bill to temporarily ban data centers in Maine",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://centralmaine.com/2026/04/24/janet-mills-vetoes-temporary-data-center-ban-2"
-    },
-    {
-      "id": "news:gdelt-81b18ddfdf320bd1-me",
-      "date": "2026-04-24",
-      "jurisdiction": "jdsupra.com",
-      "title": "Maine Could Ban New Data Centers – And What it Means for Everyone Else | Beveridge & Diamond PC",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://jdsupra.com/legalnews/maine-could-ban-new-data-centers-and-9622679"
-    },
-    {
-      "id": "news:gdelt-beb292c054de9e3d-me",
-      "date": "2026-04-24",
-      "jurisdiction": "washingtonexaminer.com",
-      "title": "Mills vetoes Maine data center ban",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://washingtonexaminer.com/policy/infrastructure/4542573/janet-mills-veto-maine-data-center-ban"
-    },
-    {
-      "id": "social:reddit-e391061c67d21053-me",
-      "date": "2026-04-22",
-      "jurisdiction": "r/AnythingGoesNews",
-      "title": "AI Data Center Resistance: Maine Passes Nation’s First Statewide Moratorium — Will Gov. Mills Sign It? | Developers are operating in “comple",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/AnythingGoesNews/comments/1ssxcgv/ai_data_center_resistance_maine_passes_nations"
-    },
-    {
-      "id": "social:reddit-3407f2720aaa467f-me",
-      "date": "2026-04-22",
-      "jurisdiction": "r/investing_discussion",
-      "title": "Why 2027 is the most important date for AI infrastructure. Maine's recent moratorium on data centers above 20 MW is a significant shift in e",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://reddit.com/r/investing_discussion/comments/1sssf9u/why_2027_is_the_most_important_date_for_ai"
-    },
-    {
-      "id": "social:reddit-fa72db41a78d1887-me",
-      "date": "2026-04-22",
-      "jurisdiction": "r/GreenWicks",
-      "title": "Fact-checking the power requirements of modern AI campuses. Data center power consumption is reaching unprecedented levels. A standard hyper",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://reddit.com/r/GreenWicks/comments/1ssroa1/factchecking_the_power_requirements_of_modern_ai"
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "risk_score": {
-    "score": 48.8,
-    "tier": 16.7,
+    "score": 51.1,
+    "tier": 19.0,
     "engagement": 6.6,
     "recency": 20.0,
-    "multi_source": 0.6,
+    "multi_source": 0.5,
     "regulatory": 5.0
   },
-  "count": 18,
+  "count": 20,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 5,
     "null": 15
   },
   "outcome_counts": {
-    "pending": 10,
+    "pending": 12,
     "mixed": 3,
     "loss": 2,
     "win": 3
   },
   "scope_counts": {
-    "local": 14,
+    "local": 16,
     "statewide": 4
   },
   "issue_top": {
@@ -32,8 +32,8 @@
     "ratepayer": 4,
     "noise": 4,
     "transparency": 3,
-    "environmental": 3,
-    "contract_guarantees": 2
+    "farmland": 3,
+    "environmental": 3
   },
   "companies": [
     [
@@ -81,6 +81,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://tiktok.com/@mrs.reginajass0/video/7632021957269097758"
+    },
+    {
+      "id": "social:tiktok-c72543305176b025-tx",
+      "date": "2026-04-23",
+      "jurisdiction": "@claytontuckertx",
+      "title": "Data centers don't just take land and water. They may also take our health. Early reports show negative side effects for both people and liv",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://tiktok.com/@claytontuckertx/video/7632023957792738574"
     },
     {
       "id": "social:youtube-f6e8a569dbee1df6-tx",
@@ -146,22 +155,13 @@
       "url": "https://www.texastribune.org/2026/04/08/texas-data-centers-sales-tax-break-billion-dollars/"
     },
     {
-      "id": "research:tx-district-court-20260407-four-granbury-residents-filed-suit-alleging-the-ci",
-      "date": "2026-04-07",
-      "jurisdiction": "District Court",
-      "title": "Four Granbury residents filed suit alleging the City of Granbury violated Texas Open Meetings Act by using a walking quorum and inadequate n",
-      "tier": null,
+      "id": "social:x-c31c9cd662-tx",
+      "date": "2026-04-08",
+      "jurisdiction": "@truthout",
+      "title": "Texas is handing data center operators over $1 billion a year in tax breaks, making its subsidies among the largest in the country even as l",
+      "tier": "restrictive",
       "outcome": "pending",
-      "url": "https://www.keranews.org/news/2026-04-10/granbury-data-center-lawsuit-texas-open-meetings-act"
-    },
-    {
-      "id": "research:tx-city-of-harlingen-20260402-harlingen-city-commissioners-voted-unanimously-apr",
-      "date": "2026-04-02",
-      "jurisdiction": "City of Harlingen",
-      "title": "Harlingen city commissioners voted unanimously April 2 to begin process of imposing a 120-day moratorium on data center projects, with publi",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://myrgv.com/local-news/2026/04/02/harlingen-calls-for-public-hearings-on-proposed-data-center-moratorium/"
+      "url": "https://x.com/truthout/status/2041971817158488143"
     }
   ]
 }

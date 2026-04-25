@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-04-25T23:52:46Z",
+  "generated_at": "2026-04-25T23:52:28Z",
   "states": [
     {
       "state": "AK",
@@ -144,15 +144,15 @@
     },
     {
       "state": "ME",
-      "count": 28,
-      "risk_score": 68.3,
+      "count": 35,
+      "risk_score": 68.9,
       "latest": "2026-04-25",
       "url": "data/dossiers/state-ME.json"
     },
     {
       "state": "MI",
-      "count": 4,
-      "risk_score": 45.2,
+      "count": 5,
+      "risk_score": 49.5,
       "latest": "2026-04-25",
       "url": "data/dossiers/state-MI.json"
     },
@@ -165,8 +165,8 @@
     },
     {
       "state": "MO",
-      "count": 14,
-      "risk_score": 55.4,
+      "count": 15,
+      "risk_score": 56.1,
       "latest": "2026-04-23",
       "url": "data/dossiers/state-MO.json"
     },
@@ -214,9 +214,9 @@
     },
     {
       "state": "NJ",
-      "count": 20,
-      "risk_score": 49.1,
-      "latest": "2026-04-14",
+      "count": 21,
+      "risk_score": 51.2,
+      "latest": "2026-04-24",
       "url": "data/dossiers/state-NJ.json"
     },
     {
@@ -242,9 +242,9 @@
     },
     {
       "state": "OH",
-      "count": 13,
-      "risk_score": 58.3,
-      "latest": "2026-04-23",
+      "count": 14,
+      "risk_score": 59.2,
+      "latest": "2026-04-25",
       "url": "data/dossiers/state-OH.json"
     },
     {
@@ -298,8 +298,8 @@
     },
     {
       "state": "TX",
-      "count": 18,
-      "risk_score": 48.8,
+      "count": 20,
+      "risk_score": 51.1,
       "latest": "2026-04-23",
       "url": "data/dossiers/state-TX.json"
     },
