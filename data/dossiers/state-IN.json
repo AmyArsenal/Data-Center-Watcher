@@ -1,0 +1,50 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "IN",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 66.2,
+    "tier": 40.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "restrictive": 2
+  },
+  "outcome_counts": {
+    "pending": 2
+  },
+  "scope_counts": {
+    "local": 2
+  },
+  "issue_top": {
+    "community_impact": 2
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-04-22",
+  "latest": "2026-04-23",
+  "top_citations": [
+    {
+      "id": "social:reddit-78dc109a58ec9dbf-in",
+      "date": "2026-04-23",
+      "jurisdiction": "r/indianapolis",
+      "title": "Powering central Indiana’s future. I got an email from AES about Google’s power center filing in Monrovia, IN, and I wanted to put out some ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/indianapolis/comments/1stm4wn/powering_central_indianas_future"
+    },
+    {
+      "id": "social:reddit-c053dabbcf91743b-in",
+      "date": "2026-04-22",
+      "jurisdiction": "r/Indiana",
+      "title": "I'm an IndyStar business reporter digging in on the rapid growth of data centers in Indiana. AMA!. Hey r/Indiana! I'm Alysa Guffey, a growth",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/Indiana/comments/1ssys9h/im_an_indystar_business_reporter_digging_in_on"
+    }
+  ]
+}

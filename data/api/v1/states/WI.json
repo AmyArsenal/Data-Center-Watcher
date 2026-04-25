@@ -1,0 +1,126 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "WI",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 42.8,
+    "tier": 12.8,
+    "engagement": 12.1,
+    "recency": 8.5,
+    "multi_source": 9.3,
+    "regulatory": 0.0
+  },
+  "count": 15,
+  "tier_counts": {
+    "restrictive": 3,
+    "unclear": 6,
+    "supportive": 6
+  },
+  "outcome_counts": {
+    "pending": 13,
+    "win": 2
+  },
+  "scope_counts": {
+    "local": 1,
+    "statewide": 14
+  },
+  "issue_top": {
+    "tax_incentive": 4
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2023-05-24",
+  "latest": "2026-04-22",
+  "top_citations": [
+    {
+      "id": "social:reddit-a118bc122944cc0a-wi",
+      "date": "2026-04-22",
+      "jurisdiction": "r/Appleton",
+      "title": "A repository for information on data centers in Wisconsin. The February 2026 issue of The Progressive magazine has a detailed article on res",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/Appleton/comments/1ssvt82/a_repository_for_information_on_data_centers_in"
+    },
+    {
+      "id": "openstates:ocd-bill-d0f21623-70d2-4cc1-86b1-4b1f0f05d530-wi",
+      "date": "2026-03-13",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: moratorium on data centers.",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1099"
+    },
+    {
+      "id": "openstates:ocd-bill-53f7eca5-cb82-40da-bbf5-61bff801bbb5-wi",
+      "date": "2026-02-26",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: moratorium on data centers.",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1061"
+    },
+    {
+      "id": "openstates:ocd-bill-7036ac90-6599-44be-96b9-12de35e7c58f-wi",
+      "date": "2026-02-13",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1036"
+    },
+    {
+      "id": "openstates:ocd-bill-2a916b0d-93d2-44e7-9241-8266e1fb3a15-wi",
+      "date": "2026-02-06",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb969"
+    },
+    {
+      "id": "openstates:ocd-bill-c38dacbc-5b97-40f9-816a-ba4eb50db0da-wi",
+      "date": "2026-01-15",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: certain requirements related to data centers.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb843"
+    },
+    {
+      "id": "openstates:ocd-bill-d9fd8ff2-620d-4468-a504-87ecb3df4a32-wi",
+      "date": "2026-01-09",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: certain requirements related to data centers.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab840"
+    },
+    {
+      "id": "openstates:ocd-bill-4e89e730-8ed6-4b1e-b9b0-6bb7f7c58a5a-wi",
+      "date": "2025-12-03",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for ",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab722"
+    },
+    {
+      "id": "openstates:ocd-bill-1b6cbbc8-2f88-422f-a98c-5d2591220eb4-wi",
+      "date": "2025-12-02",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for ",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb729"
+    },
+    {
+      "id": "openstates:ocd-bill-d039a7b0-8575-4809-bd26-8939dace7b19-wi",
+      "date": "2025-05-09",
+      "jurisdiction": "WI Legislature",
+      "title": "Relating to: modifying the sales and use tax exemption for qualified data centers. (FE)",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb244"
+    }
+  ]
+}

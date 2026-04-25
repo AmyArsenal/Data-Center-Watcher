@@ -1,0 +1,129 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "NJ",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 46.4,
+    "tier": 15.1,
+    "engagement": 12.1,
+    "recency": 9.9,
+    "multi_source": 9.3,
+    "regulatory": 0.0
+  },
+  "count": 14,
+  "tier_counts": {
+    "restrictive": 2,
+    "unclear": 9,
+    "supportive": 2,
+    "protective": 1
+  },
+  "outcome_counts": {
+    "pending": 13,
+    "win": 1
+  },
+  "scope_counts": {
+    "local": 1,
+    "statewide": 13
+  },
+  "issue_top": {
+    "community_impact": 1,
+    "water": 1,
+    "grid_energy": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-01-13",
+  "latest": "2026-04-08",
+  "top_citations": [
+    {
+      "id": "social:x-0b14181fe8-nj",
+      "date": "2026-04-08",
+      "jurisdiction": "Williamstown",
+      "title": "Williamstown, New Jersey residents show up to their City Council and SLAM their elected officials over Data Centers “You are elected officia",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://x.com/WallStreetApes/status/2041907768970637319"
+    },
+    {
+      "id": "openstates:ocd-bill-075df084-4309-4e77-a8d7-6088d60a58ae-nj",
+      "date": "2026-03-19",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires certain State agencies to establish expedited approval and permitting procedures for artificial intelligence data centers powered b",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4769"
+    },
+    {
+      "id": "openstates:ocd-bill-0c0194d8-e666-4bc4-a4ef-d21d54f6ca96-nj",
+      "date": "2026-03-16",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires owner or operator of data center to submit water and energy usage report to BPU.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4696"
+    },
+    {
+      "id": "openstates:ocd-bill-f44bc4b8-a2e4-4490-ae87-94e8c3c538c2-nj",
+      "date": "2026-02-24",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires BPU, DCA, and DEP to establish expedited approval and permitting procedures for artificial intelligence data centers powered by sma",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3639"
+    },
+    {
+      "id": "openstates:ocd-bill-b253cc44-466a-456c-9a0e-997f075a71b1-nj",
+      "date": "2026-02-19",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4096"
+    },
+    {
+      "id": "openstates:ocd-bill-0d838dba-c280-43cc-9c05-d24c7508bf4b-nj",
+      "date": "2026-02-09",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3379"
+    },
+    {
+      "id": "openstates:ocd-bill-06f6c441-f600-4577-babf-dfebd3f0648e-nj",
+      "date": "2026-01-13",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires electric public utilities to develop and apply special rules for certain data centers to protect non-data center customers from inc",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A796"
+    },
+    {
+      "id": "openstates:ocd-bill-f270e34b-2d19-4a72-8efc-977e5b7a9167-nj",
+      "date": "2026-01-13",
+      "jurisdiction": "NJ Legislature",
+      "title": "Urges states in PJM Interconnection region to require data centers to obtain electricity from new zero- or low-emission sources of energy.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/SR18"
+    },
+    {
+      "id": "openstates:ocd-bill-d6ee6ae9-13ce-477a-bb39-68ef6ae9e699-nj",
+      "date": "2026-01-13",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
+      "tier": "protective",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/A3966"
+    },
+    {
+      "id": "openstates:ocd-bill-1f3ada79-bd21-490a-aac2-e65414c1c90b-nj",
+      "date": "2026-01-13",
+      "jurisdiction": "NJ Legislature",
+      "title": "Requires energy usage plan for proposed artificial intelligence data centers and cryptocurrency mining facilities; requires all electricity ",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S680"
+    }
+  ]
+}

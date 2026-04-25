@@ -1,0 +1,41 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "NV",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 66.2,
+    "tier": 40.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 1,
+  "tier_counts": {
+    "restrictive": 1
+  },
+  "outcome_counts": {
+    "pending": 1
+  },
+  "scope_counts": {
+    "local": 1
+  },
+  "issue_top": {
+    "environmental": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-04-23",
+  "latest": "2026-04-23",
+  "top_citations": [
+    {
+      "id": "social:reddit-370f756ed2de009b-nv",
+      "date": "2026-04-23",
+      "jurisdiction": "r/Reno",
+      "title": "Happy Earth Day Nevada 🌱. Happy Earth Day Nevada!\n\nI spent the morning at the Reno City Hall to talk with our mayor and councilmen about a m",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/Reno/comments/1st4wp7/happy_earth_day_nevada"
+    }
+  ]
+}

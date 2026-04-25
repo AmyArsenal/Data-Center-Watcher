@@ -1,0 +1,48 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "AL",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 59.5,
+    "tier": 12.0,
+    "engagement": 12.5,
+    "recency": 20.0,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "unclear": 2
+  },
+  "outcome_counts": {
+    "win": 2
+  },
+  "scope_counts": {
+    "statewide": 2
+  },
+  "issue_top": {},
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-03-17",
+  "latest": "2026-04-17",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-5372532b-a7e6-410e-9a0d-89df1bafe938-al",
+      "date": "2026-04-17",
+      "jurisdiction": "AL Legislature",
+      "title": "Electric Utilities; review by Public Service Commission of certain contracts with large load data centers further provided for",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://alison.legislature.state.al.us/bill-search"
+    },
+    {
+      "id": "openstates:ocd-bill-bd147983-69c0-4824-944b-f0142ae0ba6f-al",
+      "date": "2026-03-17",
+      "jurisdiction": "AL Legislature",
+      "title": "Electric Utilities; review by Public Service Commission of certain contracts with large load customers further provided",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://alison.legislature.state.al.us/bill-search"
+    }
+  ]
+}

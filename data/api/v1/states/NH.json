@@ -1,0 +1,53 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "NH",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 44.5,
+    "tier": 18.0,
+    "engagement": 12.5,
+    "recency": 4.0,
+    "multi_source": 10.0,
+    "regulatory": 0.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "unclear": 1,
+    "protective": 1
+  },
+  "outcome_counts": {
+    "win": 1,
+    "pending": 1
+  },
+  "scope_counts": {
+    "statewide": 2
+  },
+  "issue_top": {
+    "zoning": 1,
+    "environmental": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2025-11-21",
+  "latest": "2025-12-01",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-f101c4ba-1f72-4257-bc6d-092d2230e864-nh",
+      "date": "2025-12-01",
+      "jurisdiction": "NH Legislature",
+      "title": "prohibiting the construction of data centers in the state and establishing a committee to study the environmental impact of data centers.",
+      "tier": "protective",
+      "outcome": "pending",
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1685&inflect=2"
+    },
+    {
+      "id": "openstates:ocd-bill-81e7e5b1-f231-4b63-94ea-39d2385f0355-nh",
+      "date": "2025-11-21",
+      "jurisdiction": "NH Legislature",
+      "title": "relative to municipal data center zoning.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1435&inflect=2"
+    }
+  ]
+}

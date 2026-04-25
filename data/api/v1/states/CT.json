@@ -1,0 +1,123 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "CT",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 40.0,
+    "tier": 10.0,
+    "engagement": 12.5,
+    "recency": 2.5,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 10,
+  "tier_counts": {
+    "supportive": 4,
+    "unclear": 5,
+    "restrictive": 1
+  },
+  "outcome_counts": {
+    "pending": 8,
+    "win": 2
+  },
+  "scope_counts": {
+    "statewide": 10
+  },
+  "issue_top": {},
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2021-02-18",
+  "latest": "2026-02-19",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-d5be8254-753c-4ccf-8969-cc6b243a7b00-ct",
+      "date": "2026-02-19",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT ELIMINATING CERTAIN TAX INCENTIVES FOR DATA CENTERS.",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-3e522d74-4d62-4cce-88d6-8b92ba1aaf6d-ct",
+      "date": "2025-02-13",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT REQUIRING A STUDY CONCERNING ENERGY EFFICIENCY REQUIREMENTS FOR ARTIFICIAL INTELLIGENCE DATA CENTERS.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-f6bd4cae-d386-49ce-b5a9-9f90468ee05d-ct",
+      "date": "2025-01-22",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT REQUIRING AN EVALUATION OF THE IMPACT OF LARGE DATA CENTERS ON THE ELECTRIC DISTRIBUTION SYSTEM.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-ed6436f4-56f6-436d-973f-69f3eaefcf7c-ct",
+      "date": "2025-01-22",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT REQUIRING AN IMPACT EVALUATION CONCERNING LARGE DATA CENTERS.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-2eb5c077-9766-4580-9261-c91873cd883e-ct",
+      "date": "2025-01-22",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT IMPLEMENTING A SURCHARGE ON ELECTRICITY CONSUMED BY DATA CENTERS.",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-d7f3d982-04c7-4a76-979a-bab03382f455-ct",
+      "date": "2025-01-10",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT CONCERNING ENERGY AND WATER EFFICIENCY REQUIREMENTS FOR ARTIFICIAL INTELLIGENCE DATA CENTERS.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-a1dcb62f-1808-407c-83ba-acc8390439b5-ct",
+      "date": "2024-02-29",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT CONCERNING DATA CENTERS.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-78c03a39-99ee-4a0a-b776-ddc46a44e882-ct",
+      "date": "2024-02-14",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT ELIMINATING THE TAX EXEMPTIONS FOR QUALIFIED DATA CENTERS.",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-56e2bc36-7b1c-420f-aa9b-66a84f5d321d-ct",
+      "date": "2021-02-23",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT CONCERNING INCENTIVES FOR QUALIFIED DATA CENTERS TO LOCATE IN THE STATE.",
+      "tier": "supportive",
+      "outcome": "win",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    },
+    {
+      "id": "openstates:ocd-bill-0e774e7a-2624-424b-badd-4c04b5ec0515-ct",
+      "date": "2021-02-18",
+      "jurisdiction": "CT Legislature",
+      "title": "AN ACT CONCERNING INCENTIVES FOR QUALIFIED DATA CENTERS TO LOCATE IN THE STATE.",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "ftp://ftp.cga.ct.gov/pub/data/bill_info.csv"
+    }
+  ]
+}

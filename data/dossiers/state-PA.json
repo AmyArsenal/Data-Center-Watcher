@@ -1,0 +1,129 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "PA",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 41.4,
+    "tier": 7.5,
+    "engagement": 12.5,
+    "recency": 6.4,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 16,
+  "tier_counts": {
+    "unclear": 10,
+    "supportive": 6
+  },
+  "outcome_counts": {
+    "pending": 11,
+    "win": 5
+  },
+  "scope_counts": {
+    "statewide": 16
+  },
+  "issue_top": {
+    "tax_incentive": 6,
+    "community_impact": 2,
+    "environmental": 2,
+    "water": 1,
+    "farmland": 1,
+    "grid_energy": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2021-03-17",
+  "latest": "2026-03-31",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-1c2178af-79c3-4361-8185-a838747d8f5c-pa",
+      "date": "2026-03-31",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act providing for regulation of large load customers and public utilities and for community benefits agreements between large load custom",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb724"
+    },
+    {
+      "id": "openstates:ocd-bill-4e8ff354-6db6-4d71-9bad-8047315cb144-pa",
+      "date": "2026-02-25",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act amending Title 27 (Environmental Resources) of the Pennsylvania Consolidated Statutes, in water resources planning, further providing",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2246"
+    },
+    {
+      "id": "openstates:ocd-bill-0b47165d-7727-4e2c-8069-4dc69ed21888-pa",
+      "date": "2026-02-05",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2198"
+    },
+    {
+      "id": "openstates:ocd-bill-8881a3e6-65d4-4e07-8f7d-a36ba426d35e-pa",
+      "date": "2026-01-21",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in taxation by school districts, ",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2153"
+    },
+    {
+      "id": "openstates:ocd-bill-f8d9a8cd-1c62-4462-b589-978348efd55b-pa",
+      "date": "2026-01-20",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania\r\n Consolidated Statutes, providing for data center ordinance\r\n assis",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2151"
+    },
+    {
+      "id": "openstates:ocd-bill-b64a96da-0667-49b9-93c6-e0bc1f0d2fa3-pa",
+      "date": "2026-01-20",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2150"
+    },
+    {
+      "id": "openstates:ocd-bill-bb8bd3a9-435c-4801-a002-d1d6a7dd15d0-pa",
+      "date": "2025-12-03",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in computer data center equipment incentive pr",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2061"
+    },
+    {
+      "id": "openstates:ocd-bill-ca63bd07-1a38-4705-ac4f-61643c8001fe-pa",
+      "date": "2025-09-05",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act providing for a permitting process for data center siting; and imposing powers and duties on the Department of Environmental Protecti",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb991"
+    },
+    {
+      "id": "openstates:ocd-bill-6d10f576-107b-411d-a1f2-ec91477f3dc0-pa",
+      "date": "2025-09-04",
+      "jurisdiction": "PA Legislature",
+      "title": "An Act providing for the regulation of commercial data centers;\r\n imposing duties on the Pennsylvania Public Utility\r\n Commission, the Depar",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb1834"
+    },
+    {
+      "id": "openstates:ocd-bill-60f6a3df-d226-4eb8-9978-955442b61384-pa",
+      "date": "2025-07-14",
+      "jurisdiction": "PA Legislature",
+      "title": "Establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sa",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb939"
+    }
+  ]
+}

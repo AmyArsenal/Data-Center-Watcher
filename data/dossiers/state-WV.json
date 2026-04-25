@@ -1,0 +1,125 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "WV",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 48.5,
+    "tier": 10.3,
+    "engagement": 12.5,
+    "recency": 10.8,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 14,
+  "tier_counts": {
+    "unclear": 10,
+    "protective": 1,
+    "supportive": 3
+  },
+  "outcome_counts": {
+    "win": 1,
+    "pending": 13
+  },
+  "scope_counts": {
+    "statewide": 14
+  },
+  "issue_top": {
+    "design_standards": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2025-02-24",
+  "latest": "2026-02-16",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-a86cb1f4-d146-4ed8-a14f-1c146e2e216b-wv",
+      "date": "2026-02-16",
+      "jurisdiction": "WV Legislature",
+      "title": "Create a limited and predictable water-quantity review framework for High Impact Data Centers (HIDCs) in West Virginia.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5590&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-5efba7c8-ed9c-4cb0-adc3-9be05099a918-wv",
+      "date": "2026-02-16",
+      "jurisdiction": "WV Legislature",
+      "title": "To restore local control in the decision making process in regard to data centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5620&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-69e90a36-0b1c-49b4-9bf6-f72126c91f45-wv",
+      "date": "2026-02-02",
+      "jurisdiction": "WV Legislature",
+      "title": "Prevention of data center collection of citizen data",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5032&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-a3a0631f-81db-45be-be99-50affa6ef19f-wv",
+      "date": "2026-01-30",
+      "jurisdiction": "WV Legislature",
+      "title": "Authorizing the Department of Commerce to promulgate a legislative rule relating to certification of a microgrid district or certification a",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4983&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-a7e49f1b-5bf3-4ea0-8100-dfb0880e6e5d-wv",
+      "date": "2026-01-30",
+      "jurisdiction": "WV Legislature",
+      "title": "Department of Commerce rule relating to certification of microgrid district or certification as high impact data center",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=695&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-beb18df4-f2ee-46f9-acfa-5bb9cab4ca70-wv",
+      "date": "2026-01-29",
+      "jurisdiction": "WV Legislature",
+      "title": "To create a buffer zone between a data center and residence, school or house of worship",
+      "tier": "protective",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4948&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-9ca1a0c3-6db3-43c1-a35a-d1fed4ab0a3a-wv",
+      "date": "2026-01-29",
+      "jurisdiction": "WV Legislature",
+      "title": "Relating to certified microgrid district projects and certified high impact data center projects",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=658&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-8b9ac969-66d9-48f9-b21a-61c2b9e27ed8-wv",
+      "date": "2026-01-28",
+      "jurisdiction": "WV Legislature",
+      "title": "Prohibiting the state or any political subdivision from subsidizing any data center in West Virginia",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4854&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-6c73e380-2554-421d-9e3f-869bc65751a2-wv",
+      "date": "2026-01-28",
+      "jurisdiction": "WV Legislature",
+      "title": "Relating to distribution of tax revenues collected from data centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=652&year=2026&sessiontype=RS&btype=bill"
+    },
+    {
+      "id": "openstates:ocd-bill-2e99894a-5e10-40b5-8326-d8aace7da71c-wv",
+      "date": "2026-01-27",
+      "jurisdiction": "WV Legislature",
+      "title": "Establishing economic incentives for data centers to locate within WV",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=623&year=2026&sessiontype=RS&btype=bill"
+    }
+  ]
+}

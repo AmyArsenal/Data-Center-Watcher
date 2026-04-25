@@ -1,0 +1,97 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "OH",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 66.2,
+    "tier": 40.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 7,
+  "tier_counts": {
+    "restrictive": 7
+  },
+  "outcome_counts": {
+    "pending": 7
+  },
+  "scope_counts": {
+    "local": 7
+  },
+  "issue_top": {
+    "ratepayer": 1,
+    "environmental": 1,
+    "noise": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-04-12",
+  "latest": "2026-04-23",
+  "top_citations": [
+    {
+      "id": "news:rss-dcd-b6e34440a7181895-oh",
+      "date": "2026-04-23",
+      "jurisdiction": "DCD",
+      "title": "Mayor of Mansfield, Ohio, says city will \"no longer pursue\" data center project. Comes as a blow to data center developer EnergiAcres",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/mayor-of-mansfield-ohio-says-city-will-no-longer-pursue-data-center-project"
+    },
+    {
+      "id": "social:reddit-007f75b81b4178e1-oh",
+      "date": "2026-04-23",
+      "jurisdiction": "r/u_Late-Cup-8762",
+      "title": "Ohio Data Center Petition-Where to Sign. If you’ve been asking where to sign the petition, we have a map up on the website showing signing l",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/u_Late-Cup-8762/comments/1stnfhm/ohio_data_center_petitionwhere_to_sign"
+    },
+    {
+      "id": "social:reddit-dbceb87f2eeaeb71-oh",
+      "date": "2026-04-23",
+      "jurisdiction": "r/Ohio",
+      "title": "Data Center Protest - Perry, Ohio - Tonight, 5:30PM, April 23rd, 2026. Show up tonight!\n\n\n\n\\- The average residential electric bill in Colum",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/Ohio/comments/1stkt4b/data_center_protest_perry_ohio_tonight_530pm"
+    },
+    {
+      "id": "social:tiktok-e5eba4b639d43985-oh",
+      "date": "2026-04-23",
+      "jurisdiction": "@oh.political.news",
+      "title": "Mega data centers are here, demanding massive power and causing noise pollution. Is this for AI, or something more controlling? #DataCenters",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://tiktok.com/@oh.political.news/video/7631947573456014606"
+    },
+    {
+      "id": "social:tiktok-e6c404ba0222cccc-oh",
+      "date": "2026-04-20",
+      "jurisdiction": "@putschforohio",
+      "title": "Billionaires are using data centers for control, not progress. They're taking advantage of us, polluting our water, and skyrocketing bills..",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://tiktok.com/@putschforohio/video/7630986924760567053"
+    },
+    {
+      "id": "social:tiktok-34735b86f9e6d46a-oh",
+      "date": "2026-04-13",
+      "jurisdiction": "@moreperfectunion",
+      "title": "An Ohio man delivered an impassioned speech against the construction of a new data center in his town. It's really worth a watch. Yes. So, u",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://tiktok.com/@moreperfectunion/video/7628276009485258014"
+    },
+    {
+      "id": "social:x-06d7d72629-oh",
+      "date": "2026-04-12",
+      "jurisdiction": "Portage County",
+      "title": "people in Northeast Ohio, Portage County Ohio (Ravenna), are speaking out against data centers. \"Let us choose the child, let us choose the",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://x.com/ComradeOhio/status/2043333703439388923"
+    }
+  ]
+}

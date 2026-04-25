@@ -1,0 +1,101 @@
+{
+  "schema": "dcw.dossier.county.v1",
+  "state": "OK",
+  "county_fips": "40109",
+  "county_name": "Oklahoma County",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 59.5,
+    "tier": 24.0,
+    "engagement": 9.8,
+    "recency": 20.0,
+    "multi_source": 5.7,
+    "regulatory": 0.0
+  },
+  "count": 7,
+  "tier_counts": {
+    "restrictive": 3,
+    "unclear": 4
+  },
+  "outcome_counts": {
+    "pending": 5,
+    "win": 2
+  },
+  "scope_counts": {
+    "local": 3,
+    "statewide": 4
+  },
+  "issue_top": {
+    "community_impact": 1,
+    "zoning": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-02-02",
+  "latest": "2026-04-22",
+  "top_citations": [
+    {
+      "id": "social:reddit-98ec6b26ba63a616-ok",
+      "date": "2026-04-22",
+      "jurisdiction": "r/okc",
+      "title": "Oklahoma City leaders approve data center moratorium. The Oklahoma City Council unanimously approved a moratorium on the construction and ex",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reddit.com/r/okc/comments/1ssrn9h/oklahoma_city_leaders_approve_data_center"
+    },
+    {
+      "id": "social:tiktok-f4e59c25339d440d-ok",
+      "date": "2026-04-21",
+      "jurisdiction": "@lifeofcinthya",
+      "title": "Communities have to stand up against data centers! Say NO to data centers in Oklahoma! #oklahoma #oklahomacity #okc #datacenters #ai",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://tiktok.com/@lifeofcinthya/video/7631224247595191565"
+    },
+    {
+      "id": "social:x-4643366107-ok",
+      "date": "2026-04-10",
+      "jurisdiction": "Claremore",
+      "title": "People are being arrested for speaking out against Al data centers. Keep standing up for your community. Location: Claremore, Oklahoma",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://x.com/Kaos_Vs_Control/status/2042694931181912373"
+    },
+    {
+      "id": "openstates:ocd-bill-55d5e000-2a48-432e-9ffe-13b17c29b02b-ok",
+      "date": "2026-02-02",
+      "jurisdiction": "OK Legislature",
+      "title": "State government; Oklahoma State Data Center; Legislative Service Bureau; responsibilities; effective date.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3621&session=2600"
+    },
+    {
+      "id": "openstates:ocd-bill-042f76e1-d2d1-494f-b8e6-5f5ec99917b3-ok",
+      "date": "2026-02-02",
+      "jurisdiction": "OK Legislature",
+      "title": "Data centers; Data Center Decommissioning Act; proper decommissioning; Oklahoma Corporation Commission; financial assurance; effective date.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4194&session=2600"
+    },
+    {
+      "id": "openstates:ocd-bill-8f3249f5-d4b3-4a7e-a1c4-7d0b8f5df573-ok",
+      "date": "2026-02-02",
+      "jurisdiction": "OK Legislature",
+      "title": "Hyperscale data centers; Oklahoma Hyperscale Data Center Directory Act; Oklahoma Corporation Commission; directory; electrical utilities; wa",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3394&session=2600"
+    },
+    {
+      "id": "openstates:ocd-bill-a6292e9d-39ae-4be4-87bd-8834b1dd3daf-ok",
+      "date": "2026-02-02",
+      "jurisdiction": "OK Legislature",
+      "title": "Prisons and reformatories; Oklahoma Department of Corrections; electronic record; Oklahoma State Data Center; census geography; effective da",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4287&session=2600"
+    }
+  ]
+}

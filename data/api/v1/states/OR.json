@@ -1,0 +1,48 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "OR",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 35.8,
+    "tier": 12.0,
+    "engagement": 12.5,
+    "recency": 1.3,
+    "multi_source": 10.0,
+    "regulatory": 0.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "unclear": 2
+  },
+  "outcome_counts": {
+    "pending": 2
+  },
+  "scope_counts": {
+    "statewide": 2
+  },
+  "issue_top": {},
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2025-01-13",
+  "latest": "2025-02-25",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-1ed673bf-e51c-4256-ac3d-87a46097d576-or",
+      "date": "2025-02-25",
+      "jurisdiction": "OR Legislature",
+      "title": "Relating to data centers.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3698"
+    },
+    {
+      "id": "openstates:ocd-bill-7eb16185-618f-42e4-aa19-bf464b01083a-or",
+      "date": "2025-01-13",
+      "jurisdiction": "OR Legislature",
+      "title": "Relating to data center power usage.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB553"
+    }
+  ]
+}

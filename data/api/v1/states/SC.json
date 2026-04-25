@@ -1,0 +1,94 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "SC",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 57.0,
+    "tier": 20.0,
+    "engagement": 12.5,
+    "recency": 14.5,
+    "multi_source": 10.0,
+    "regulatory": 0.0
+  },
+  "count": 7,
+  "tier_counts": {
+    "restrictive": 2,
+    "unclear": 5
+  },
+  "outcome_counts": {
+    "pending": 7
+  },
+  "scope_counts": {
+    "statewide": 7
+  },
+  "issue_top": {},
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-01-13",
+  "latest": "2026-04-14",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-1e722576-9714-4948-9982-dde2f13ce2f3-sc",
+      "date": "2026-04-14",
+      "jurisdiction": "SC Legislature",
+      "title": "Data Center Moratorium",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5526&session=126&summary=B"
+    },
+    {
+      "id": "openstates:ocd-bill-c56b43ac-c8f3-4c40-a966-7edefe317a1c-sc",
+      "date": "2026-02-26",
+      "jurisdiction": "SC Legislature",
+      "title": "Data Center Moratorium",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5286&session=126&summary=B"
+    },
+    {
+      "id": "openstates:ocd-bill-a84ae94d-f4cd-48aa-b004-2fcc3691a9c5-sc",
+      "date": "2026-02-19",
+      "jurisdiction": "SC Legislature",
+      "title": "Data Center Utility Costs",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5215&session=126&summary=B"
+    },
+    {
+      "id": "openstates:ocd-bill-6e46b812-1561-4370-ac27-92806437a818-sc",
+      "date": "2026-02-10",
+      "jurisdiction": "SC Legislature",
+      "title": "Data Centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=902&session=126&summary=B"
+    },
+    {
+      "id": "openstates:ocd-bill-c9c0c07c-bcc0-4c25-b5c9-68eee1bf208c-sc",
+      "date": "2026-01-29",
+      "jurisdiction": "SC Legislature",
+      "title": "Data Center Development",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=867&session=126&summary=B"
+    },
+    {
+      "id": "openstates:ocd-bill-6110bce8-2a66-4ca7-b5c2-5c056eb947e3-sc",
+      "date": "2026-01-13",
+      "jurisdiction": "SC Legislature",
+      "title": "Commercial Data Center Water Usage Report",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=724&session=126&summary=B"
+    },
+    {
+      "id": "openstates:ocd-bill-659fc8e6-434d-45d7-85c1-e0cf767726d5-sc",
+      "date": "2026-01-13",
+      "jurisdiction": "SC Legislature",
+      "title": "The South Carolina Data Center Responsibility Act",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4583&session=126&summary=B"
+    }
+  ]
+}

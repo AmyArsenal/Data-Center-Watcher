@@ -151,6 +151,17 @@ def run(skip_youtube: bool = False, min_relevance: float = MIN_RELEVANCE) -> int
     logging.info("actions.json: %d items across %d states",
                  actions_stats["count"], actions_stats["states"])
 
+    # Per-state + per-county dossiers + static API surface (data/api/v1/...).
+    # Cheap (~150ms for 312 actions); the JSON shows up on Pages immediately.
+    try:
+        import subprocess
+        subprocess.run(
+            [sys.executable, str(ROOT / "scripts" / "build_dossier.py")],
+            check=False, capture_output=True,
+        )
+    except Exception as e:
+        logging.warning("dossier build step failed: %s", e)
+
     prev_meta = read_meta(META_JSON)
     tier_ts = dict(prev_meta.get("tier_timestamps") or {})
     tier_ts["fast"] = _utcnow_iso()

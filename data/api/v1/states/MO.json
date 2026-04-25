@@ -1,0 +1,113 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "MO",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 64.9,
+    "tier": 36.9,
+    "engagement": 6.9,
+    "recency": 20.0,
+    "multi_source": 1.1,
+    "regulatory": 0.0
+  },
+  "count": 9,
+  "tier_counts": {
+    "restrictive": 8,
+    "unclear": 1
+  },
+  "outcome_counts": {
+    "pending": 9
+  },
+  "scope_counts": {
+    "local": 8,
+    "statewide": 1
+  },
+  "issue_top": {},
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-02-24",
+  "latest": "2026-04-23",
+  "top_citations": [
+    {
+      "id": "news:rss-dcd-b115d59663df30a9-mo",
+      "date": "2026-04-23",
+      "jurisdiction": "DCD",
+      "title": "Planning commission in Franklin County, Missouri, recommends approval of one data center, denies another. But both projects still need appro",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/planning-commission-in-franklin-county-missouri-recommends-approval-of-one-data-center-denies-another"
+    },
+    {
+      "id": "social:reddit-5e0f89b0f0ab4917-mo",
+      "date": "2026-04-22",
+      "jurisdiction": "Independence",
+      "title": "Lets follow suit El Paso!!!. What actually happened was in **Festus, Missouri**, voters removed **the four city council members who were up ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/ElPaso/comments/1ss7jff/lets_follow_suit_el_paso"
+    },
+    {
+      "id": "news:independence-mo-2026-04-09-mo",
+      "date": "2026-04-09",
+      "jurisdiction": "Independence",
+      "title": "Independence voters oust councilmembers who gave tax breaks to $6B+ Nebius AI data center",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-04-09/after-these-independence-councilmembers-supported-an-ai-data-center-voters-ousted-them"
+    },
+    {
+      "id": "news:festus-mo-2026-04-08-mo",
+      "date": "2026-04-08",
+      "jurisdiction": "Festus",
+      "title": "Festus voters oust 4 incumbent council members after $6B AI data center approval",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://www.stlpr.org/government-politics-issues/2026-04-08/6b-data-center-festus-voters-oust-every-incumbent-council-member"
+    },
+    {
+      "id": "social:x-65404ef2a8-mo",
+      "date": "2026-04-03",
+      "jurisdiction": "@bluelivesmtr",
+      "title": "THIS is the left, folks. They don't care what you think or what. It's getting BAD. Turns out that so many people showed up to oppose a $6 bi",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://x.com/bluelivesmtr/status/2040021502901542937"
+    },
+    {
+      "id": "social:x-531b8bfa67-mo",
+      "date": "2026-04-03",
+      "jurisdiction": "@WallStreetApes",
+      "title": "This is literally insane So many people showed up to oppose a $6 billion dollar data center in Missouri they had to use bleachers The whole",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://x.com/WallStreetApes/status/2039888027783516164"
+    },
+    {
+      "id": "social:x-ebace223b4-mo",
+      "date": "2026-04-03",
+      "jurisdiction": "@BBMagaMom",
+      "title": "🚨A massive crowd in Missouri packed the room, so many people they had to bring in bleachers, to oppose a $6B data center. The entire crowd w",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://x.com/BBMagaMom/status/2039916142035120260"
+    },
+    {
+      "id": "social:rpublicfreakout-city-council-2026-04-03-mo",
+      "date": "2026-04-03",
+      "jurisdiction": "Festus",
+      "title": "City council votes to approve a $6 billion data center despite public pushback",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://www.reddit.com/r/PublicFreakout/comments/1sbmroe/city_council_votes_to_approve_a_6_billion_data/"
+    },
+    {
+      "id": "openstates:ocd-bill-538a5dfd-a776-4dc0-ba85-616fa4cdadd9-mo",
+      "date": "2026-02-24",
+      "jurisdiction": "MO Legislature",
+      "title": "Creates new provisions related to the construction of data centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB3390&year=2026&code=R"
+    }
+  ]
+}

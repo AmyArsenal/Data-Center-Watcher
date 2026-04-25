@@ -1,0 +1,50 @@
+{
+  "schema": "dcw.api.actions.v1",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "filter": {
+    "issue_category": "design_standards"
+  },
+  "count": 1,
+  "items": [
+    {
+      "id": "openstates:ocd-bill-beb18df4-f2ee-46f9-acfa-5bb9cab4ca70-wv",
+      "origin": "openstates",
+      "state": "WV",
+      "county": null,
+      "jurisdiction": "WV Legislature",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": "[\"legislation\",\"other_opposition\"]",
+      "authority_level": "state_legislature",
+      "date": "2026-01-29",
+      "status": "in-committee",
+      "community_outcome": "pending",
+      "issue_category": "[\"design_standards\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "To create a buffer zone between a data center and residence, school or house of worship",
+      "sources": "[\"https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4948&year=2026&sessiontype=RS&btype=bill\",\"https://openstates.org/wv/bills/2026/HB4948/\"]",
+      "data_source": "openstates",
+      "last_updated": "2026-04-23T22:45:12Z",
+      "bill_number": "HB 4948",
+      "bill_session": "2026",
+      "tier": "protective",
+      "tier_reason": "setback / buffer"
+    }
+  ]
+}

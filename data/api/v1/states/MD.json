@@ -1,0 +1,129 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "MD",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 51.2,
+    "tier": 15.2,
+    "engagement": 11.8,
+    "recency": 10.2,
+    "multi_source": 8.9,
+    "regulatory": 5.0
+  },
+  "count": 19,
+  "tier_counts": {
+    "restrictive": 3,
+    "unclear": 14,
+    "supportive": 2
+  },
+  "outcome_counts": {
+    "win": 6,
+    "pending": 13
+  },
+  "scope_counts": {
+    "local": 2,
+    "statewide": 17
+  },
+  "issue_top": {
+    "community_impact": 1,
+    "grid_energy": 1,
+    "transparency": 1,
+    "tax_incentive": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2020-02-07",
+  "latest": "2026-04-23",
+  "top_citations": [
+    {
+      "id": "news:rss-dcd-8c08b5d4370c3cf3-md",
+      "date": "2026-04-23",
+      "jurisdiction": "DCD",
+      "title": "Harford County, Maryland, could impose 90-day moratorium on data centers. Bill was introduced yesterday",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/harford-county-maryland-could-impose-90-day-moratorium-on-data-centers"
+    },
+    {
+      "id": "social:reddit-5c0e5ec4d22c659d-md",
+      "date": "2026-04-23",
+      "jurisdiction": "r/u_Additional-Health523",
+      "title": "Maryland Light Bills. \\#BGE bills could be on the rise again this summer... \n\nEven with new legislation designed to ease costs for #Maryland",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://reddit.com/r/u_Additional-Health523/comments/1st7bbr/maryland_light_bills"
+    },
+    {
+      "id": "openstates:ocd-bill-05fd82ab-2e04-42cd-b605-802b500455bf-md",
+      "date": "2026-02-23",
+      "jurisdiction": "MD Legislature",
+      "title": "Certificates of Public Convenience and Necessity and Construction of Data Centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb1000?ys=2026RS"
+    },
+    {
+      "id": "openstates:ocd-bill-44ca75fe-ca3c-4914-97dd-f92d55af1b2a-md",
+      "date": "2026-02-15",
+      "jurisdiction": "MD Legislature",
+      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1595?ys=2026RS"
+    },
+    {
+      "id": "openstates:ocd-bill-59ff46f1-4b6a-42da-8097-b3fc098afab1-md",
+      "date": "2026-02-13",
+      "jurisdiction": "MD Legislature",
+      "title": "Data Centers - Standards for Operation and Siting",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1534?ys=2026RS"
+    },
+    {
+      "id": "openstates:ocd-bill-715d5a62-c2cd-4b6c-ad18-0d02d1ed7a7f-md",
+      "date": "2026-02-13",
+      "jurisdiction": "MD Legislature",
+      "title": "Data Center Planning and Transparency Act",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1411?ys=2026RS"
+    },
+    {
+      "id": "openstates:ocd-bill-3d2f9294-a492-4131-b901-76e4a39a89f5-md",
+      "date": "2026-02-10",
+      "jurisdiction": "MD Legislature",
+      "title": "Large Load Customers - Data Centers and Rate Schedule Requirements",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1082?ys=2026RS"
+    },
+    {
+      "id": "openstates:ocd-bill-a3aab023-deb2-48ca-a8c8-791893922d3e-md",
+      "date": "2026-01-30",
+      "jurisdiction": "MD Legislature",
+      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0427?ys=2026RS"
+    },
+    {
+      "id": "openstates:ocd-bill-b0a2133a-af4e-4d86-859a-e89362522e8b-md",
+      "date": "2026-01-28",
+      "jurisdiction": "MD Legislature",
+      "title": "Sales and Use Tax and Property Tax - Exemptions for Data Centers - Repeal",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0560?ys=2026RS"
+    },
+    {
+      "id": "openstates:ocd-bill-0a4e834c-2cb0-4a8c-a174-7523adff07d6-md",
+      "date": "2025-10-24",
+      "jurisdiction": "MD Legislature",
+      "title": "Moratorium on Construction of New Data Centers - Co-Location and Generation Contingency",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0120?ys=2026RS"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "WA",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 42.2,
+    "tier": 6.0,
+    "engagement": 12.5,
+    "recency": 8.7,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 2,
+  "tier_counts": {
+    "unclear": 1,
+    "supportive": 1
+  },
+  "outcome_counts": {
+    "win": 1,
+    "pending": 1
+  },
+  "scope_counts": {
+    "statewide": 2
+  },
+  "issue_top": {
+    "tax_incentive": 2
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-01-20",
+  "latest": "2026-01-26",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-b65cdf84-d331-419f-b291-9cf70ef50a04-wa",
+      "date": "2026-01-26",
+      "jurisdiction": "WA Legislature",
+      "title": "Providing a retail sales and use tax exemption for the construction and equipping of new data centers located in a county east of the Cascad",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=2655&Year=2025&Initiative=false"
+    },
+    {
+      "id": "openstates:ocd-bill-2032f28e-b5fd-40b2-8cd2-b51f18dce144-wa",
+      "date": "2026-01-20",
+      "jurisdiction": "WA Legislature",
+      "title": "Removing a tax exemption for the replacement of equipment for data centers.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=6231&Year=2025&Initiative=false"
+    }
+  ]
+}

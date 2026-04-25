@@ -18,9 +18,10 @@ concurrency:
   group: refresh-fast
   cancel-in-progress: false
 
-# Needed so the bot commit can push back to main.
+# Needed so the bot commit can push back to main + open failure-alert issues.
 permissions:
   contents: write
+  issues:   write
 
 jobs:
   refresh:
@@ -40,17 +41,72 @@ jobs:
 
       - name: Run fast refresh
         env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_API_KEY:       ${{ secrets.YOUTUBE_API_KEY }}
+          REDDIT_CLIENT_ID:      ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET:  ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT:     "datacenterwatcher/0.4 by /u/amyarsenal (github.com/AmyArsenal/Data-Center-Watcher)"
         run: python scripts/refresh_fast.py
 
       - name: Commit & push if data changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/meta.json data/news.db
+          git add data/news.json data/actions.json data/meta.json data/news.db data/dossiers/ data/api/
           if git diff --staged --quiet; then
             echo "::notice::no data delta — skipping commit"
             exit 0
           fi
           git commit -m "data: fast refresh $(date -u +%FT%H:%MZ)"
           git push
+
+      # Failure alert: open ONE issue per failing workflow (de-duplicated by
+      # title) so we don't spam. Auto-closes if next run succeeds.
+      - name: Open issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `🔴 refresh-fast failing — auto-opened by Actions`;
+            const { owner, repo } = context.repo;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'open', per_page: 100, labels: 'pipeline-alert'
+            });
+            const existing = issues.find(i => i.title === title);
+            const body = [
+              `Workflow run **failed**: ${context.runId}`,
+              `Commit: ${context.sha.slice(0,7)}`,
+              `Triggered by: ${context.eventName}`,
+              ``,
+              `[→ View run logs](https://github.com/${owner}/${repo}/actions/runs/${context.runId})`,
+              ``,
+              `Auto-opened by .github/workflows/refresh-fast.yml. Auto-closes when the next run succeeds.`,
+            ].join('\n');
+            if (existing) {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: existing.number,
+                body: `Another failure at run [${context.runId}](https://github.com/${owner}/${repo}/actions/runs/${context.runId}).`,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner, repo, title, body, labels: ['pipeline-alert'],
+              });
+            }
+
+      - name: Close pipeline-alert on success
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `🔴 refresh-fast failing — auto-opened by Actions`;
+            const { owner, repo } = context.repo;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'open', per_page: 100, labels: 'pipeline-alert'
+            });
+            const stale = issues.find(i => i.title === title);
+            if (stale) {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: stale.number,
+                body: `Pipeline recovered at run [${context.runId}](https://github.com/${owner}/${repo}/actions/runs/${context.runId}). Auto-closing.`,
+              });
+              await github.rest.issues.update({ owner, repo, issue_number: stale.number, state: 'closed' });
+            }

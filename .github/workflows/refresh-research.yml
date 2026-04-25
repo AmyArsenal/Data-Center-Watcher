@@ -1,0 +1,124 @@
+name: Weekly research agent
+
+# Sundays at 11:00 UTC (~7am ET, while editor is awake to review the queue
+# before the Sunday Watch newsletter ships). Runs scripts/research_agent.py
+# with Claude Sonnet web search across high-priority states, queued for
+# manual review at data/research_pending.json.
+#
+# Without ANTHROPIC_API_KEY the run no-ops. Set the secret at:
+#   gh secret set ANTHROPIC_API_KEY --repo AmyArsenal/Data-Center-Watcher
+#
+# Cost envelope: ~$0.50/state/run × 15 states = ~$7.50/week + token-cache wins.
+# Manual review then upserts approved records into the actions table.
+
+on:
+  schedule:
+    - cron: '0 11 * * 0'      # every Sunday 11:00 UTC
+  workflow_dispatch:
+    inputs:
+      states:
+        description: "Comma-separated states (or ALL)"
+        default: "ME,VA,WI,SC,GA,OK,MD,NJ,CT,PA,OH,TX,WA,CA,IA"
+        required: false
+      since_days:
+        description: "Window (days)"
+        default: "7"
+        required: false
+
+concurrency:
+  group: refresh-research
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues:   write
+  pull-requests: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+          pip install anthropic
+
+      - name: Run research agent
+        id: research
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          STATES="${{ github.event.inputs.states || 'ME,VA,WI,SC,GA,OK,MD,NJ,CT,PA,OH,TX,WA,CA,IA' }}"
+          SINCE="${{ github.event.inputs.since_days || '7' }}"
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::warning::ANTHROPIC_API_KEY not set — skipping (set the repo secret to enable)"
+            mkdir -p data && echo '[]' > data/research_pending.json
+            exit 0
+          fi
+          python scripts/research_agent.py \
+            --states="$STATES" --since-days="$SINCE" \
+            --out=data/research_pending.json
+
+      - name: Open PR with research findings (if any)
+        run: |
+          COUNT=$(python -c "import json; print(len(json.load(open('data/research_pending.json','r'))))")
+          if [ "$COUNT" = "0" ]; then
+            echo "::notice::no new findings this week"
+            exit 0
+          fi
+          BRANCH="research/weekly-$(date -u +%Y%m%d)"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add data/research_pending.json
+          git commit -m "research: $COUNT candidate actions ($(date -u +%F))"
+          git push -u origin "$BRANCH"
+          gh pr create \
+            --base main --head "$BRANCH" \
+            --title "📋 Weekly research queue — $COUNT candidates ($(date -u +%F))" \
+            --body  "Automated research-agent findings for the week. Review each record, then merge to upsert into the actions table on next refresh-fast run.
+
+          - Records: \`$COUNT\`
+          - Source: Claude Sonnet web search via \`scripts/research_agent.py\`
+          - Action: review the JSON file inline, drop any false positives, then merge.
+
+          Auto-opened by .github/workflows/refresh-research.yml."
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Open issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `🔴 refresh-research failing — auto-opened by Actions`;
+            const { owner, repo } = context.repo;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'open', per_page: 100, labels: 'pipeline-alert'
+            });
+            const existing = issues.find(i => i.title === title);
+            const body = [
+              `Workflow run **failed**: ${context.runId}`,
+              `[→ View run logs](https://github.com/${owner}/${repo}/actions/runs/${context.runId})`,
+              ``,
+              `Auto-opened by .github/workflows/refresh-research.yml.`,
+            ].join('\n');
+            if (existing) {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: existing.number,
+                body: `Another failure at run [${context.runId}](https://github.com/${owner}/${repo}/actions/runs/${context.runId}).`,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner, repo, title, body, labels: ['pipeline-alert'],
+              });
+            }

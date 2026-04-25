@@ -1,0 +1,128 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "VA",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 49.8,
+    "tier": 17.7,
+    "engagement": 11.9,
+    "recency": 6.2,
+    "multi_source": 9.0,
+    "regulatory": 5.0
+  },
+  "count": 21,
+  "tier_counts": {
+    "restrictive": 3,
+    "unclear": 15,
+    "protective": 3
+  },
+  "outcome_counts": {
+    "win": 8,
+    "pending": 13
+  },
+  "scope_counts": {
+    "local": 2,
+    "statewide": 19
+  },
+  "issue_top": {
+    "zoning": 3,
+    "water": 3,
+    "environmental": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2025-12-31",
+  "latest": "2026-04-01",
+  "top_citations": [
+    {
+      "id": "court:prince-william-va-2026-04-01-va",
+      "date": "2026-04-01",
+      "jurisdiction": "Prince William County",
+      "title": "VA Court of Appeals halts 'Digital Gateway' mega data center rezoning near Manassas battlefield",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://virginiamercury.com/briefs/va-court-of-appeals-stops-major-data-center-development-in-prince-william-county/"
+    },
+    {
+      "id": "news:loudoun-va-2026-03-15-va",
+      "date": "2026-03-15",
+      "jurisdiction": "Loudoun County",
+      "title": "Loudoun County eliminates by-right data center approval - every project now requires Special Exception",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://patch.com/virginia/ashburn/data-center-right-approval-process-removed-loudoun-county"
+    },
+    {
+      "id": "openstates:ocd-bill-bdad53c0-54ba-490f-840d-b8ec961f002c-va",
+      "date": "2026-01-23",
+      "jurisdiction": "VA Legislature",
+      "title": "Local approval of data centers; temporary moratorium.",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1515"
+    },
+    {
+      "id": "openstates:ocd-bill-0b2ccafc-5f6e-40e0-9b85-1bec5341f3f6-va",
+      "date": "2026-01-14",
+      "jurisdiction": "VA Legislature",
+      "title": "Certain data from water users; water use consumption for domestic, etc., purposes, data centers.",
+      "tier": "protective",
+      "outcome": "win",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB553"
+    },
+    {
+      "id": "openstates:ocd-bill-c41699ac-1e1a-4dce-a08d-95b43e41e78c-va",
+      "date": "2026-01-14",
+      "jurisdiction": "VA Legislature",
+      "title": "Local composite index school funding formula; data center revenue.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1101"
+    },
+    {
+      "id": "openstates:ocd-bill-a6fe3c80-99dd-4f46-926d-913e54593551-va",
+      "date": "2026-01-14",
+      "jurisdiction": "VA Legislature",
+      "title": "Data center tax revenue; creates local residential renewable energy incentive program.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1132"
+    },
+    {
+      "id": "openstates:ocd-bill-0ea7006d-cdf4-4552-9271-7622e1370eb7-va",
+      "date": "2026-01-13",
+      "jurisdiction": "VA Legislature",
+      "title": "Retail Sales and Use Tax; exemption for data centers.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB465"
+    },
+    {
+      "id": "openstates:ocd-bill-aaad1779-85ba-4ff5-9a4a-61632470973b-va",
+      "date": "2026-01-13",
+      "jurisdiction": "VA Legislature",
+      "title": "Aggregate air pollution; Department of Environmental Quality to study, data center generators.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB607"
+    },
+    {
+      "id": "openstates:ocd-bill-a31b6c90-3e36-47d7-8dfa-4fda500f5f40-va",
+      "date": "2026-01-13",
+      "jurisdiction": "VA Legislature",
+      "title": "Retail Sales and Use Tax; commercial and industrial exemptions, data centers.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB961"
+    },
+    {
+      "id": "openstates:ocd-bill-58f768a2-d6fb-49d4-8d20-c7ace46ac198-va",
+      "date": "2026-01-13",
+      "jurisdiction": "VA Legislature",
+      "title": "Data centers; policy of the Commonwealth.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB591"
+    }
+  ]
+}

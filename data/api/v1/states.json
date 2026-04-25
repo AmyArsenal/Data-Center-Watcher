@@ -1,0 +1,251 @@
+{
+  "schema": "dcw.api.states.v1",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "states": [
+    {
+      "state": "AK",
+      "count": 1,
+      "risk_score": 47.8,
+      "latest": "2026-02-18",
+      "url": "data/dossiers/state-AK.json"
+    },
+    {
+      "state": "AL",
+      "count": 2,
+      "risk_score": 59.5,
+      "latest": "2026-04-17",
+      "url": "data/dossiers/state-AL.json"
+    },
+    {
+      "state": "AR",
+      "count": 5,
+      "risk_score": 53.9,
+      "latest": "2026-04-08",
+      "url": "data/dossiers/state-AR.json"
+    },
+    {
+      "state": "AZ",
+      "count": 5,
+      "risk_score": 42.2,
+      "latest": "2026-02-09",
+      "url": "data/dossiers/state-AZ.json"
+    },
+    {
+      "state": "CA",
+      "count": 10,
+      "risk_score": 47.4,
+      "latest": "2026-02-20",
+      "url": "data/dossiers/state-CA.json"
+    },
+    {
+      "state": "CO",
+      "count": 3,
+      "risk_score": 40.7,
+      "latest": "2026-02-11",
+      "url": "data/dossiers/state-CO.json"
+    },
+    {
+      "state": "CT",
+      "count": 10,
+      "risk_score": 40.0,
+      "latest": "2026-02-19",
+      "url": "data/dossiers/state-CT.json"
+    },
+    {
+      "state": "FL",
+      "count": 4,
+      "risk_score": 38.5,
+      "latest": "2026-01-13",
+      "url": "data/dossiers/state-FL.json"
+    },
+    {
+      "state": "GA",
+      "count": 8,
+      "risk_score": 47.0,
+      "latest": "2026-04-16",
+      "url": "data/dossiers/state-GA.json"
+    },
+    {
+      "state": "IN",
+      "count": 2,
+      "risk_score": 66.2,
+      "latest": "2026-04-23",
+      "url": "data/dossiers/state-IN.json"
+    },
+    {
+      "state": "KS",
+      "count": 6,
+      "risk_score": 40.8,
+      "latest": "2026-03-09",
+      "url": "data/dossiers/state-KS.json"
+    },
+    {
+      "state": "KY",
+      "count": 2,
+      "risk_score": 47.8,
+      "latest": "2026-03-02",
+      "url": "data/dossiers/state-KY.json"
+    },
+    {
+      "state": "LA",
+      "count": 3,
+      "risk_score": 54.6,
+      "latest": "2026-04-01",
+      "url": "data/dossiers/state-LA.json"
+    },
+    {
+      "state": "MD",
+      "count": 19,
+      "risk_score": 51.2,
+      "latest": "2026-04-23",
+      "url": "data/dossiers/state-MD.json"
+    },
+    {
+      "state": "ME",
+      "count": 21,
+      "risk_score": 70.1,
+      "latest": "2026-04-24",
+      "url": "data/dossiers/state-ME.json"
+    },
+    {
+      "state": "MN",
+      "count": 2,
+      "risk_score": 66.2,
+      "latest": "2026-04-24",
+      "url": "data/dossiers/state-MN.json"
+    },
+    {
+      "state": "MO",
+      "count": 9,
+      "risk_score": 64.9,
+      "latest": "2026-04-23",
+      "url": "data/dossiers/state-MO.json"
+    },
+    {
+      "state": "MT",
+      "count": 6,
+      "risk_score": 40.8,
+      "latest": "2024-12-15",
+      "url": "data/dossiers/state-MT.json"
+    },
+    {
+      "state": "NC",
+      "count": 1,
+      "risk_score": 66.2,
+      "latest": "2026-04-16",
+      "url": "data/dossiers/state-NC.json"
+    },
+    {
+      "state": "NE",
+      "count": 5,
+      "risk_score": 40.1,
+      "latest": "2026-01-20",
+      "url": "data/dossiers/state-NE.json"
+    },
+    {
+      "state": "NH",
+      "count": 2,
+      "risk_score": 44.5,
+      "latest": "2025-12-01",
+      "url": "data/dossiers/state-NH.json"
+    },
+    {
+      "state": "NJ",
+      "count": 14,
+      "risk_score": 46.4,
+      "latest": "2026-04-08",
+      "url": "data/dossiers/state-NJ.json"
+    },
+    {
+      "state": "NV",
+      "count": 1,
+      "risk_score": 66.2,
+      "latest": "2026-04-23",
+      "url": "data/dossiers/state-NV.json"
+    },
+    {
+      "state": "OH",
+      "count": 7,
+      "risk_score": 66.2,
+      "latest": "2026-04-23",
+      "url": "data/dossiers/state-OH.json"
+    },
+    {
+      "state": "OK",
+      "count": 14,
+      "risk_score": 55.2,
+      "latest": "2026-04-22",
+      "url": "data/dossiers/state-OK.json"
+    },
+    {
+      "state": "OR",
+      "count": 2,
+      "risk_score": 35.8,
+      "latest": "2025-02-25",
+      "url": "data/dossiers/state-OR.json"
+    },
+    {
+      "state": "PA",
+      "count": 16,
+      "risk_score": 41.4,
+      "latest": "2026-03-31",
+      "url": "data/dossiers/state-PA.json"
+    },
+    {
+      "state": "RI",
+      "count": 3,
+      "risk_score": 23.8,
+      "latest": "2025-03-28",
+      "url": "data/dossiers/state-RI.json"
+    },
+    {
+      "state": "SC",
+      "count": 7,
+      "risk_score": 57.0,
+      "latest": "2026-04-14",
+      "url": "data/dossiers/state-SC.json"
+    },
+    {
+      "state": "TX",
+      "count": 3,
+      "risk_score": 66.2,
+      "latest": "2026-04-23",
+      "url": "data/dossiers/state-TX.json"
+    },
+    {
+      "state": "VA",
+      "count": 21,
+      "risk_score": 49.8,
+      "latest": "2026-04-01",
+      "url": "data/dossiers/state-VA.json"
+    },
+    {
+      "state": "WA",
+      "count": 2,
+      "risk_score": 42.2,
+      "latest": "2026-01-26",
+      "url": "data/dossiers/state-WA.json"
+    },
+    {
+      "state": "WI",
+      "count": 15,
+      "risk_score": 42.8,
+      "latest": "2026-04-22",
+      "url": "data/dossiers/state-WI.json"
+    },
+    {
+      "state": "WV",
+      "count": 14,
+      "risk_score": 48.5,
+      "latest": "2026-02-16",
+      "url": "data/dossiers/state-WV.json"
+    },
+    {
+      "state": "WY",
+      "count": 1,
+      "risk_score": 35.8,
+      "latest": "2021-02-05",
+      "url": "data/dossiers/state-WY.json"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "MT",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 40.8,
+    "tier": 12.0,
+    "engagement": 12.5,
+    "recency": 1.3,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 6,
+  "tier_counts": {
+    "unclear": 6
+  },
+  "outcome_counts": {
+    "pending": 4,
+    "win": 2
+  },
+  "scope_counts": {
+    "statewide": 6
+  },
+  "issue_top": {},
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2024-10-30",
+  "latest": "2024-12-15",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-3c8e6209-5d5a-42fd-852b-0ca30244f791-mt",
+      "date": "2024-12-15",
+      "jurisdiction": "MT Legislature",
+      "title": "Generally revise the taxation of data centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC4025"
+    },
+    {
+      "id": "openstates:ocd-bill-56803e66-6394-42a0-8289-ec1bb1cbb24a-mt",
+      "date": "2024-12-13",
+      "jurisdiction": "MT Legislature",
+      "title": "Revise taxes for class 17 data center property",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://bills.legmt.gov/#/laws/bill/2/LC3009?open_tab=sum"
+    },
+    {
+      "id": "openstates:ocd-bill-de0e9e98-d025-4cb0-ac9f-25d592db153c-mt",
+      "date": "2024-12-10",
+      "jurisdiction": "MT Legislature",
+      "title": "Establish the Montana data center development act",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://bills.legmt.gov/#/laws/bill/2/LC2604?open_tab=sum"
+    },
+    {
+      "id": "openstates:ocd-bill-173b1e47-0651-412c-b73d-c99fc7f6c611-mt",
+      "date": "2024-11-22",
+      "jurisdiction": "MT Legislature",
+      "title": "Revise property taxation of data centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC1870"
+    },
+    {
+      "id": "openstates:ocd-bill-6b361abb-fa86-4d59-bbab-231ea623b9ed-mt",
+      "date": "2024-11-07",
+      "jurisdiction": "MT Legislature",
+      "title": "Study resolution on data centers",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://bills.legmt.gov/#/laws/bill/2/LC0933?open_tab=sum"
+    },
+    {
+      "id": "openstates:ocd-bill-75a10e52-5ff2-4a21-9c0b-eef6e38b38eb-mt",
+      "date": "2024-10-30",
+      "jurisdiction": "MT Legislature",
+      "title": "Generally revise digital asset mining and data center ratemaking laws",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://bills.legmt.gov/#/laws/bill/2/LC0636?open_tab=sum"
+    }
+  ]
+}

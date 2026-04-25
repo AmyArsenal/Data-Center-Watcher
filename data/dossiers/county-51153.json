@@ -1,0 +1,43 @@
+{
+  "schema": "dcw.dossier.county.v1",
+  "state": "VA",
+  "county_fips": "51153",
+  "county_name": "Prince William County",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 66.2,
+    "tier": 40.0,
+    "engagement": 6.2,
+    "recency": 20.0,
+    "multi_source": 0.0,
+    "regulatory": 0.0
+  },
+  "count": 1,
+  "tier_counts": {
+    "restrictive": 1
+  },
+  "outcome_counts": {
+    "win": 1
+  },
+  "scope_counts": {
+    "local": 1
+  },
+  "issue_top": {
+    "zoning": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2026-04-01",
+  "latest": "2026-04-01",
+  "top_citations": [
+    {
+      "id": "court:prince-william-va-2026-04-01-va",
+      "date": "2026-04-01",
+      "jurisdiction": "Prince William County",
+      "title": "VA Court of Appeals halts 'Digital Gateway' mega data center rezoning near Manassas battlefield",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://virginiamercury.com/briefs/va-court-of-appeals-stops-major-data-center-development-in-prince-william-county/"
+    }
+  ]
+}

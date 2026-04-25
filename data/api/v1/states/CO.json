@@ -1,0 +1,59 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "CO",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 40.7,
+    "tier": 12.0,
+    "engagement": 12.5,
+    "recency": 6.2,
+    "multi_source": 10.0,
+    "regulatory": 0.0
+  },
+  "count": 3,
+  "tier_counts": {
+    "unclear": 3
+  },
+  "outcome_counts": {
+    "pending": 3
+  },
+  "scope_counts": {
+    "statewide": 3
+  },
+  "issue_top": {
+    "grid_energy": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2025-04-04",
+  "latest": "2026-02-11",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-e3810f9e-eb8b-479c-9d51-e20ac7b01865-co",
+      "date": "2026-02-11",
+      "jurisdiction": "CO Legislature",
+      "title": "Large-Load Data Centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://leg.colorado.gov/bills/SB26-102"
+    },
+    {
+      "id": "openstates:ocd-bill-9a1b9e05-272d-42da-a2f4-a533f9c6b71f-co",
+      "date": "2026-01-14",
+      "jurisdiction": "CO Legislature",
+      "title": "Data Center & Utility Modernization",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://leg.colorado.gov/bills/HB26-1030"
+    },
+    {
+      "id": "openstates:ocd-bill-aa5eaa0c-da4a-42e0-b351-e1f761934e1a-co",
+      "date": "2025-04-04",
+      "jurisdiction": "CO Legislature",
+      "title": "Data Center Development & Grid Modernization Act",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://leg.colorado.gov/bills/sb25-280"
+    }
+  ]
+}

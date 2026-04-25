@@ -1,0 +1,80 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "AR",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 53.9,
+    "tier": 9.6,
+    "engagement": 12.5,
+    "recency": 16.8,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 5,
+  "tier_counts": {
+    "unclear": 4,
+    "supportive": 1
+  },
+  "outcome_counts": {
+    "pending": 4,
+    "win": 1
+  },
+  "scope_counts": {
+    "statewide": 5
+  },
+  "issue_top": {
+    "grid_energy": 1,
+    "tax_incentive": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2024-12-13",
+  "latest": "2026-04-08",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-373a6ecc-898b-4920-9dd8-f17cdf1c1fdb-ar",
+      "date": "2026-04-08",
+      "jurisdiction": "AR Legislature",
+      "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023 AND TO AMEND THE UNIFORM MONEY SERVI",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
+    },
+    {
+      "id": "openstates:ocd-bill-dc5909b9-b356-4da8-9397-ebeb32398408-ar",
+      "date": "2026-04-06",
+      "jurisdiction": "AR Legislature",
+      "title": "TO AUTHORIZE THE INTRODUCTION OF A NONAPPROPRIATION BILL TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023 AND TO AMEND THE UNIFORM MONEY SERVI",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
+    },
+    {
+      "id": "openstates:ocd-bill-272a4d6a-c291-47d9-982e-e335d0589403-ar",
+      "date": "2025-02-10",
+      "jurisdiction": "AR Legislature",
+      "title": "TO AMEND THE SALES AND USE TAX EXEMPTION FOR DATA CENTERS.",
+      "tier": "supportive",
+      "outcome": "win",
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
+    },
+    {
+      "id": "openstates:ocd-bill-44b32627-87ef-45de-aaae-d35428969788-ar",
+      "date": "2024-12-13",
+      "jurisdiction": "AR Legislature",
+      "title": "TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023; AND TO REGULATE THE IMPACT ON WATER USAGE AND THE ELECTRIC GRID BY BLOCKCHAIN NETWORKS AND D",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
+    },
+    {
+      "id": "openstates:ocd-bill-f4590be2-41dc-43cb-8962-3173d21b442d-ar",
+      "date": "2024-12-13",
+      "jurisdiction": "AR Legislature",
+      "title": "TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023; AND TO AMEND THE UNIFORM MONEY SERVICES ACT.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
+    }
+  ]
+}

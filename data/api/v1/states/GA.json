@@ -1,0 +1,109 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "GA",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 47.0,
+    "tier": 16.0,
+    "engagement": 11.7,
+    "recency": 10.5,
+    "multi_source": 8.8,
+    "regulatory": 0.0
+  },
+  "count": 8,
+  "tier_counts": {
+    "restrictive": 2,
+    "unclear": 4,
+    "supportive": 2
+  },
+  "outcome_counts": {
+    "pending": 7,
+    "win": 1
+  },
+  "scope_counts": {
+    "local": 1,
+    "statewide": 7
+  },
+  "issue_top": {
+    "tax_incentive": 2,
+    "transparency": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2025-02-20",
+  "latest": "2026-04-16",
+  "top_citations": [
+    {
+      "id": "news:columbus-ga-2026-04-16-ga",
+      "date": "2026-04-16",
+      "jurisdiction": "Columbus",
+      "title": "Columbus City Council delays data center vote 45 days after resident concerns",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://www.wtvm.com/2026/04/16/columbus-city-council-delays-vote-data-center-project-after-resident-concerns/"
+    },
+    {
+      "id": "openstates:ocd-bill-9b76ffb5-275d-456f-b376-7ac90f8b533d-ga",
+      "date": "2026-02-19",
+      "jurisdiction": "GA Legislature",
+      "title": "Ad valorem tax; state-wide homestead exemption in an amount as determined from proceeds generated from collection of certain ad valorem prop",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    },
+    {
+      "id": "openstates:ocd-bill-1915d2ce-9414-494a-bd62-075ca0a4f75f-ga",
+      "date": "2026-01-28",
+      "jurisdiction": "GA Legislature",
+      "title": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    },
+    {
+      "id": "openstates:ocd-bill-f1f3464c-84fd-45be-b454-e0658f67a3b9-ga",
+      "date": "2026-01-22",
+      "jurisdiction": "GA Legislature",
+      "title": "\"The Data Center Transparency Act\"; enact",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    },
+    {
+      "id": "openstates:ocd-bill-a2ed69e5-a052-4553-83f7-a3922a9bcd90-ga",
+      "date": "2026-01-16",
+      "jurisdiction": "GA Legislature",
+      "title": "Local government; construction or development of  new data centers for a specified time; prohibit",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    },
+    {
+      "id": "openstates:ocd-bill-3d0d7fa7-831c-47f7-b7a9-315ea60d3654-ga",
+      "date": "2026-01-15",
+      "jurisdiction": "GA Legislature",
+      "title": "State Sales and Use Taxes; the data center equipment sales and use tax exemption; repeal",
+      "tier": "supportive",
+      "outcome": "win",
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    },
+    {
+      "id": "openstates:ocd-bill-87bb32e1-fbc9-4355-8fec-42fe39a06250-ga",
+      "date": "2026-01-15",
+      "jurisdiction": "GA Legislature",
+      "title": "State Sales and Use Taxes; data center equipment sales and use tax exemption; advance the sunset date",
+      "tier": "supportive",
+      "outcome": "pending",
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    },
+    {
+      "id": "openstates:ocd-bill-595044fd-9b2b-499a-b98a-53fa27423caa-ga",
+      "date": "2025-02-20",
+      "jurisdiction": "GA Legislature",
+      "title": "Sales and use tax; exemption for certain high-technology data center equipment; revise sunset date",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+    }
+  ]
+}

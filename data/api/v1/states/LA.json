@@ -1,0 +1,60 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "LA",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 54.6,
+    "tier": 12.0,
+    "engagement": 12.5,
+    "recency": 15.1,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 3,
+  "tier_counts": {
+    "unclear": 3
+  },
+  "outcome_counts": {
+    "pending": 1,
+    "win": 2
+  },
+  "scope_counts": {
+    "statewide": 3
+  },
+  "issue_top": {
+    "water": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2024-06-19",
+  "latest": "2026-04-01",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-0ff2ba33-5831-4a90-b34d-df121d9935b9-la",
+      "date": "2026-04-01",
+      "jurisdiction": "LA Legislature",
+      "title": "WATER/DRINKING WATER: Provides relative to permitting and reporting of water usage at data centers",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251542"
+    },
+    {
+      "id": "openstates:ocd-bill-cddac20c-345f-450f-8438-4050d652ca92-la",
+      "date": "2025-06-09",
+      "jurisdiction": "LA Legislature",
+      "title": "WATER/RESOURCES: Creates a special task force to study the interagency consultation process for data centers to ensure more complete natural",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249281"
+    },
+    {
+      "id": "openstates:ocd-bill-67017c3a-c6d8-495e-a149-f3eaa0a8c28b-la",
+      "date": "2024-06-19",
+      "jurisdiction": "LA Legislature",
+      "title": "TAX/TAX REBATES: Provides relative to sales and use tax rebates on the sale of certain communications and data center equipment (EN DECREASE",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=246976"
+    }
+  ]
+}

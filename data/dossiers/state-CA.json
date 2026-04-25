@@ -1,0 +1,125 @@
+{
+  "schema": "dcw.dossier.state.v1",
+  "state": "CA",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "risk_score": {
+    "score": 47.4,
+    "tier": 13.2,
+    "engagement": 12.5,
+    "recency": 6.7,
+    "multi_source": 10.0,
+    "regulatory": 5.0
+  },
+  "count": 10,
+  "tier_counts": {
+    "unclear": 9,
+    "protective": 1
+  },
+  "outcome_counts": {
+    "pending": 7,
+    "win": 3
+  },
+  "scope_counts": {
+    "statewide": 10
+  },
+  "issue_top": {
+    "environmental": 1,
+    "water": 1
+  },
+  "companies": [],
+  "opposition_groups": [],
+  "earliest": "2025-01-07",
+  "latest": "2026-02-20",
+  "top_citations": [
+    {
+      "id": "openstates:ocd-bill-9d2f7c2f-66d9-4b59-a5c8-5fb0f11342b9-ca",
+      "date": "2026-02-20",
+      "jurisdiction": "CA Legislature",
+      "title": "Water resources: data centers.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
+    },
+    {
+      "id": "openstates:ocd-bill-1f701cd3-30f5-48b2-9295-79de5c9ab404-ca",
+      "date": "2026-02-20",
+      "jurisdiction": "CA Legislature",
+      "title": "Data centers: water use disclosures.",
+      "tier": "protective",
+      "outcome": "pending",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2469"
+    },
+    {
+      "id": "openstates:ocd-bill-d9c8942e-ff6e-429d-a278-0862c0a02e67-ca",
+      "date": "2026-02-18",
+      "jurisdiction": "CA Legislature",
+      "title": "Data centers: rate structures.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1168"
+    },
+    {
+      "id": "openstates:ocd-bill-62cc514f-d799-4d01-afa2-0f2b633faee6-ca",
+      "date": "2026-02-04",
+      "jurisdiction": "CA Legislature",
+      "title": "Data centers: labor: electricity rates.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB978"
+    },
+    {
+      "id": "openstates:ocd-bill-165ca92b-63f7-4bd9-a990-b7ecd0dcbbfb-ca",
+      "date": "2026-01-13",
+      "jurisdiction": "CA Legislature",
+      "title": "California Environmental Quality Act: environmental leadership development projects: data centers: clean energy powerplant projects.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB887"
+    },
+    {
+      "id": "openstates:ocd-bill-28512a83-39f0-46a4-8f5a-0bfd5f2b9ece-ca",
+      "date": "2026-01-12",
+      "jurisdiction": "CA Legislature",
+      "title": "Data centers: reporting.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1577"
+    },
+    {
+      "id": "openstates:ocd-bill-d6bdcea4-eaef-46f4-9574-fc86eb56a6c1-ca",
+      "date": "2025-02-20",
+      "jurisdiction": "CA Legislature",
+      "title": "Data centers: waste heat energy.",
+      "tier": "unclear",
+      "outcome": "pending",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1095"
+    },
+    {
+      "id": "openstates:ocd-bill-fd340120-32d7-4698-b737-9761b4b4c274-ca",
+      "date": "2025-01-08",
+      "jurisdiction": "CA Legislature",
+      "title": "Data centers: power usage effectiveness: cost shifts.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB222"
+    },
+    {
+      "id": "openstates:ocd-bill-c84756d8-3906-4ae6-9e06-9b98d210d6f3-ca",
+      "date": "2025-01-08",
+      "jurisdiction": "CA Legislature",
+      "title": "Electrical corporations: data centers: report.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB57"
+    },
+    {
+      "id": "openstates:ocd-bill-3b3c7eff-89ae-45c9-a5a1-adcec799b331-ca",
+      "date": "2025-01-07",
+      "jurisdiction": "CA Legislature",
+      "title": "Water resources: data centers.",
+      "tier": "unclear",
+      "outcome": "win",
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB93"
+    }
+  ]
+}

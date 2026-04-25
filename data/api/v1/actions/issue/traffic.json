@@ -1,0 +1,50 @@
+{
+  "schema": "dcw.api.actions.v1",
+  "generated_at": "2026-04-25T12:06:17Z",
+  "filter": {
+    "issue_category": "traffic"
+  },
+  "count": 1,
+  "items": [
+    {
+      "id": "social:reddit-380be28eef330912-us",
+      "origin": "social",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "r/StLouis",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-04-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": "[\"ratepayer\",\"traffic\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "The center of attention. Despite STL county have 3 times more people, nobody cares what happens there day to day, county council is sparingly covered(despite driving the county to a fiscal cliff), and to the east; It’s only Tuesday and the city announced a 3 year 42% water rate hike, mayor dined in London with her top donor, city trash truck killed a resident, data center got approved and this is coming off a week the mayor had 5 people arrested for protesting her speech.   Hope this place never changes",
+      "sources": "[\"https://reddit.com/r/StLouis/comments/1ssa4dr/the_center_of_attention\"]",
+      "data_source": "social",
+      "last_updated": "2026-04-22T22:15:09Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    }
+  ]
+}
