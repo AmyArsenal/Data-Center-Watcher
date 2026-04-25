@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-04-25T18:54:54Z",
+  "generated_at": "2026-04-25T19:36:29Z",
   "filter": {
     "community_outcome": "win"
   },
-  "count": 145,
+  "count": 146,
   "items": [
     {
       "id": "social:x-c778319fc8-me",
@@ -5810,6 +5810,46 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-badd7daf00f5702c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "themainewire.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"moratorium\"]",
+      "authority_level": null,
+      "date": "2026-04-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": null,
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Mills Vetoes Moratorium on Data Center Construction and Bill to Automatically Unseal Criminal Records",
+      "sources": "[\"https://themainewire.com/2026/04/mills-vetoes-moratorium-on-data-center-construction-and-bill-to-automatically-unseal-criminal-records\"]",
+      "data_source": "news",
+      "last_updated": "2026-04-25T19:36:28Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
