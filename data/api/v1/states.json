@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-04-25T16:29:24Z",
+  "generated_at": "2026-04-25T16:42:18Z",
   "states": [
     {
       "state": "AK",
@@ -159,7 +159,7 @@
     {
       "state": "MN",
       "count": 5,
-      "risk_score": 49.4,
+      "risk_score": 49.5,
       "latest": "2026-04-24",
       "url": "data/dossiers/state-MN.json"
     },
