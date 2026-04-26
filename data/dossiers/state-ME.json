@@ -1,29 +1,29 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-26T06:28:47Z",
+  "generated_at": "2026-04-26T07:59:57Z",
   "risk_score": {
-    "score": 69.0,
-    "tier": 34.7,
+    "score": 69.1,
+    "tier": 34.8,
     "engagement": 7.4,
     "recency": 20.0,
-    "multi_source": 1.9,
+    "multi_source": 1.8,
     "regulatory": 5.0
   },
-  "count": 37,
+  "count": 38,
   "tier_counts": {
-    "restrictive": 30,
+    "restrictive": 31,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 30,
+    "win": 31,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
     "local": 26,
-    "statewide": 11
+    "statewide": 12
   },
   "issue_top": {
     "grid_energy": 9,
@@ -43,8 +43,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2017-12-22",
-  "latest": "2026-04-25",
+  "latest": "2026-04-26",
   "top_citations": [
+    {
+      "id": "news:gdelt-8cd8ae48500b08b8-me",
+      "date": "2026-04-26",
+      "jurisdiction": "benzinga.com",
+      "title": "Maine Governor Vetoes Nation First Proposed Statewide Data Center Moratorium Bill",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://benzinga.com/markets/tech/26/04/52052207/maine-governor-vetoes-nations-first-proposed-statewide-data-center-moratorium-bill"
+    },
     {
       "id": "news:gdelt-dd4da60cb3ace3e4-me",
       "date": "2026-04-25",
@@ -125,15 +134,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium"
-    },
-    {
-      "id": "research:me-maine-governor-20260424-governor-janet-mills-vetoed-ld-307-citing-the-lac",
-      "date": "2026-04-24",
-      "jurisdiction": "Maine Governor",
-      "title": "Governor Janet Mills vetoed LD 307, citing the lack of an exemption for the $550 million Sentinel project at the former Androscoggin Mill in",
-      "tier": null,
-      "outcome": "loss",
-      "url": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T06:28:47Z",
-  "count": 520,
+  "generated_at": "2026-04-26T07:59:56Z",
+  "count": 521,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-8cd8ae48500b08b8-me",
+      "origin": "news",
+      "state": "ME",
+      "county": null,
+      "jurisdiction": "benzinga.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-04-26",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Maine Governor Vetoes Nation First Proposed Statewide Data Center Moratorium Bill",
+      "sources": [
+        "https://benzinga.com/markets/tech/26/04/52052207/maine-governor-vetoes-nations-first-proposed-statewide-data-center-moratorium-bill"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-26T07:59:56Z",
+      "first_seen": "2026-04-26T07:59:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-19a6de3ecf2d6c50-me",
@@ -24888,6 +24933,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "ME": {
+      "state": "ME",
+      "count": 38,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 31,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 31,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 26,
+        "statewide": 12,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "environmental": 5,
+        "ratepayer": 5
+      },
+      "latest_date": "2026-04-26",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
       "count": 87,
@@ -24945,35 +25019,6 @@
       "latest_date": "2026-04-25",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "ME": {
-      "state": "ME",
-      "count": 37,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 30,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 30,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 26,
-        "statewide": 11,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "environmental": 5,
-        "ratepayer": 5
-      },
-      "latest_date": "2026-04-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "OH": {
       "state": "OH",
