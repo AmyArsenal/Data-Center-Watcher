@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-04-26T20:08:24Z",
+  "generated_at": "2026-04-26T20:55:51Z",
   "states": [
     {
       "state": "AK",
@@ -284,13 +284,13 @@
     },
     {
       "state": "ME",
-      "count": 38,
+      "count": 39,
       "risk_score": 69.1,
       "grade": "F",
       "grade_score": 30.9,
-      "moratoriums": 21,
+      "moratoriums": 22,
       "approvals": 1,
-      "denials": 31,
+      "denials": 32,
       "lawsuits": 0,
       "active_companies": 1,
       "latest": "2026-04-26",

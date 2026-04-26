@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T20:08:24Z",
-  "count": 522,
+  "generated_at": "2026-04-26T20:55:51Z",
+  "count": 523,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-5721f428985abfba-me",
+      "origin": "news",
+      "state": "ME",
+      "county": null,
+      "jurisdiction": "gizmodo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-04-26",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Maine Governor Vetoes Landmark Data Center Moratorium",
+      "sources": [
+        "https://gizmodo.com/maine-governor-vetoes-landmark-data-center-moratorium-2000750961"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-26T20:55:51Z",
+      "first_seen": "2026-04-26T20:55:51Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-8cd8ae48500b08b8-me",
@@ -24980,22 +25025,22 @@
     },
     "ME": {
       "state": "ME",
-      "count": 38,
+      "count": 39,
       "outcome_counts": {
         "pending": 6,
-        "win": 31,
+        "win": 32,
         "loss": 1,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 31,
+        "restrictive": 32,
         "protective": 0,
         "supportive": 0,
         "unclear": 2
       },
       "scope_counts": {
         "local": 26,
-        "statewide": 12,
+        "statewide": 13,
         "federal": 0
       },
       "issue_top": {

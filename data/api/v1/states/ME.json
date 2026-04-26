@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-26T20:08:24Z",
+  "generated_at": "2026-04-26T20:55:51Z",
   "risk_score": {
     "score": 69.1,
-    "tier": 34.8,
+    "tier": 35.0,
     "engagement": 7.4,
     "recency": 20.0,
     "multi_source": 1.8,
@@ -16,9 +16,9 @@
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
-    "moratoriums": 21,
+    "moratoriums": 22,
     "approvals": 1,
-    "denials": 31,
+    "denials": 32,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 38,
+  "count": 39,
   "tier_counts": {
-    "restrictive": 31,
+    "restrictive": 32,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 31,
+    "win": 32,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
     "local": 26,
-    "statewide": 12
+    "statewide": 13
   },
   "issue_top": {
     "grid_energy": 9,
@@ -69,6 +69,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://benzinga.com/markets/tech/26/04/52052207/maine-governor-vetoes-nations-first-proposed-statewide-data-center-moratorium-bill"
+    },
+    {
+      "id": "news:gdelt-5721f428985abfba-me",
+      "date": "2026-04-26",
+      "jurisdiction": "gizmodo.com",
+      "title": "Maine Governor Vetoes Landmark Data Center Moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://gizmodo.com/maine-governor-vetoes-landmark-data-center-moratorium-2000750961"
     },
     {
       "id": "news:gdelt-dd4da60cb3ace3e4-me",
@@ -141,15 +150,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://pcmag.com/news/maine-falls-short-of-historic-pause-on-new-data-centers"
-    },
-    {
-      "id": "news:gdelt-42b586563f789b2e-me",
-      "date": "2026-04-25",
-      "jurisdiction": "techcrunch.com",
-      "title": "Maine governor vetoes data center moratorium",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium"
     }
   ]
 }
