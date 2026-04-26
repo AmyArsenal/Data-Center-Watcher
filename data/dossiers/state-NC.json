@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NC",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 48.9,
     "tier": 17.6,
@@ -9,6 +9,22 @@
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 51.1,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 2,
+    "approvals": 0,
+    "denials": 2,
+    "lawsuits": 1,
+    "blocked": 0,
+    "active_companies": 2,
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "bills_enacted": 0
   },
   "count": 5,
   "tier_counts": {

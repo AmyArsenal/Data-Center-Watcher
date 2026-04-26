@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 47.9,
     "tier": 12.6,
@@ -9,6 +9,22 @@
     "recency": 13.3,
     "multi_source": 6.7,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 52.1,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 5,
+    "approvals": 0,
+    "denials": 5,
+    "lawsuits": 0,
+    "blocked": 1,
+    "active_companies": 4,
+    "bills_introduced": 14,
+    "bills_passed": 2,
+    "bills_enacted": 0
   },
   "count": 21,
   "tier_counts": {

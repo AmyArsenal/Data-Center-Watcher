@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VT",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 26.9,
     "tier": 12.0,
@@ -9,6 +9,22 @@
     "recency": 8.7,
     "multi_source": 0.0,
     "regulatory": 0.0
+  },
+  "grade": {
+    "letter": "N/A",
+    "score": null,
+    "label": "Insufficient data"
+  },
+  "quantified": {
+    "moratoriums": 1,
+    "approvals": 0,
+    "denials": 0,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 0,
+    "bills_introduced": 1,
+    "bills_passed": 1,
+    "bills_enacted": 0
   },
   "count": 2,
   "tier_counts": {

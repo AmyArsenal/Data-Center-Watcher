@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 51.1,
     "tier": 19.0,
@@ -9,6 +9,22 @@
     "recency": 20.0,
     "multi_source": 0.5,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "D",
+    "score": 48.9,
+    "label": "Opposition frequently succeeds"
+  },
+  "quantified": {
+    "moratoriums": 2,
+    "approvals": 2,
+    "denials": 3,
+    "lawsuits": 1,
+    "blocked": 2,
+    "active_companies": 8,
+    "bills_introduced": 0,
+    "bills_passed": 0,
+    "bills_enacted": 1
   },
   "count": 20,
   "tier_counts": {

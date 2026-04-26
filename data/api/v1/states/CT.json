@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CT",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 38.7,
     "tier": 10.3,
@@ -9,6 +9,22 @@
     "recency": 3.6,
     "multi_source": 8.3,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 61.3,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 0,
+    "approvals": 0,
+    "denials": 3,
+    "lawsuits": 0,
+    "blocked": 1,
+    "active_companies": 1,
+    "bills_introduced": 9,
+    "bills_passed": 1,
+    "bills_enacted": 1
   },
   "count": 12,
   "tier_counts": {

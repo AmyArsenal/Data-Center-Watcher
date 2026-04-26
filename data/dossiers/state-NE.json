@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NE",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 38.7,
     "tier": 14.7,
@@ -9,6 +9,22 @@
     "recency": 4.2,
     "multi_source": 8.3,
     "regulatory": 0.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 61.3,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 0,
+    "approvals": 0,
+    "denials": 0,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 1,
+    "bills_introduced": 3,
+    "bills_passed": 1,
+    "bills_enacted": 0
   },
   "count": 6,
   "tier_counts": {

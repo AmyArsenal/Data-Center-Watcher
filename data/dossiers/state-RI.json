@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "RI",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 37.6,
     "tier": 4.8,
@@ -9,6 +9,22 @@
     "recency": 16.8,
     "multi_source": 6.0,
     "regulatory": 0.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 62.4,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 1,
+    "approvals": 0,
+    "denials": 0,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 1,
+    "bills_introduced": 4,
+    "bills_passed": 0,
+    "bills_enacted": 0
   },
   "count": 5,
   "tier_counts": {

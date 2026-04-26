@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 69.1,
     "tier": 34.8,
@@ -9,6 +9,22 @@
     "recency": 20.0,
     "multi_source": 1.8,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "F",
+    "score": 30.9,
+    "label": "Active moratoriums, high opposition success"
+  },
+  "quantified": {
+    "moratoriums": 21,
+    "approvals": 1,
+    "denials": 31,
+    "lawsuits": 0,
+    "blocked": 1,
+    "active_companies": 1,
+    "bills_introduced": 1,
+    "bills_passed": 1,
+    "bills_enacted": 2
   },
   "count": 38,
   "tier_counts": {

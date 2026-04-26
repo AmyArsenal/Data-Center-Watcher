@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OK",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 58.6,
     "tier": 16.9,
@@ -9,6 +9,22 @@
     "recency": 19.9,
     "multi_source": 6.5,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "D",
+    "score": 41.4,
+    "label": "Opposition frequently succeeds"
+  },
+  "quantified": {
+    "moratoriums": 3,
+    "approvals": 1,
+    "denials": 5,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 1,
+    "bills_introduced": 9,
+    "bills_passed": 3,
+    "bills_enacted": 0
   },
   "count": 17,
   "tier_counts": {

@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WV",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 47.8,
     "tier": 10.4,
@@ -9,6 +9,22 @@
     "recency": 10.9,
     "multi_source": 9.3,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 52.2,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 0,
+    "approvals": 0,
+    "denials": 1,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 0,
+    "bills_introduced": 13,
+    "bills_passed": 1,
+    "bills_enacted": 1
   },
   "count": 15,
   "tier_counts": {

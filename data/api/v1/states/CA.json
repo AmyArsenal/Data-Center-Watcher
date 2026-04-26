@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 48.5,
     "tier": 12.8,
@@ -9,6 +9,22 @@
     "recency": 13.6,
     "multi_source": 6.7,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 51.5,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 2,
+    "approvals": 1,
+    "denials": 5,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 3,
+    "bills_introduced": 0,
+    "bills_passed": 2,
+    "bills_enacted": 2
   },
   "count": 15,
   "tier_counts": {

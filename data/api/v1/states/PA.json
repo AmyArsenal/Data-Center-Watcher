@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 44.6,
     "tier": 8.9,
@@ -9,6 +9,22 @@
     "recency": 13.2,
     "multi_source": 7.0,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 55.4,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 1,
+    "approvals": 0,
+    "denials": 9,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 2,
+    "bills_introduced": 9,
+    "bills_passed": 6,
+    "bills_enacted": 2
   },
   "count": 23,
   "tier_counts": {

@@ -1140,6 +1140,26 @@
     margin: 0; color: var(--ink);
     letter-spacing: -0.005em;
   }
+  .ac-group-deeplink {
+    color: var(--ink); text-decoration: none;
+    border-bottom: 1px dashed transparent;
+    transition: border-color 140ms ease, color 140ms ease;
+  }
+  .ac-group-deeplink:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+  .ac-group-arrow {
+    font-family: "Inter", sans-serif;
+    font-size: 11px;
+    color: var(--ink-3);
+    margin-left: 4px;
+    opacity: 0;
+    transition: opacity 140ms ease, color 140ms ease;
+  }
+  .ac-group-deeplink:hover .ac-group-arrow {
+    opacity: 1; color: var(--accent);
+  }
   .ac-group-count {
     font-family: "Inter", sans-serif;
     font-size: 10.5px;
@@ -1258,6 +1278,7 @@
       </nav>
       <span class="nav-sep" aria-hidden="true"></span>
       <nav class="nav-links" aria-label="Secondary">
+        <a href="locations.html">States</a>
         <a href="newsletter.html">Newsletter</a>
         <a href="blog.html">Blog</a>
         <a href="api.html">Data &amp; API</a>
@@ -2521,15 +2542,18 @@ function _renderActionCard(a) {
     </article>`;
 }
 
-function _renderActionGroup(label, items, expanded) {
+function _renderActionGroup(label, items, expanded, deepLink) {
   const COLLAPSE_AT = 5;
   const total = items.length;
   const shown = expanded ? items : items.slice(0, COLLAPSE_AT);
   const needs = total > COLLAPSE_AT;
+  const titleHtml = deepLink
+    ? `<a href="${escapeAttr(deepLink)}" class="ac-group-deeplink" title="Open ${escapeAttr(label)} state page">${escapeHtml(label)} <span class="ac-group-arrow">→</span></a>`
+    : escapeHtml(label);
   return `
     <div class="ac-group" data-group="${escapeHtml(label)}">
       <div class="ac-group-head">
-        <h3>${escapeHtml(label)}</h3>
+        <h3>${titleHtml}</h3>
         <span class="ac-group-count">${total}</span>
       </div>
       <div class="ac-group-cards">${shown.map(_renderActionCard).join('')}</div>
@@ -2553,11 +2577,14 @@ function renderBillsPanel() {
   // Filter — only state filter is exposed in the UI; group-by always = state.
   const filtered = all.filter(a => billsFilterState === 'ALL' || a.state === billsFilterState);
 
-  // Group by state (the only mode now exposed)
+  // Group by state (the only mode now exposed). Track postal-code per group
+  // so we can deep-link the group title to /state.html?st=XX.
   const grouped = {};
+  const groupPostal = {};
   for (const a of filtered) {
     const key = STATE_NAMES[a.state] || a.state || '—';
     (grouped[key] = grouped[key] || []).push(a);
+    if (a.state && !groupPostal[key]) groupPostal[key] = a.state;
   }
   // Sort each group by date desc
   for (const k of Object.keys(grouped)) {
@@ -2571,7 +2598,10 @@ function renderBillsPanel() {
      </option>`).join('');
 
   const cardsHtml = (groupKeys.length
-    ? groupKeys.map(k => _renderActionGroup(k, grouped[k], _expandedGroups.has(k))).join('')
+    ? groupKeys.map(k => _renderActionGroup(
+        k, grouped[k], _expandedGroups.has(k),
+        groupPostal[k] ? `state.html?st=${groupPostal[k]}` : null
+      )).join('')
     : `<div class="bills-empty">No actions match this state.</div>`)
     + renderInlineSignup('bills-panel');
 

@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CO",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 42.4,
     "tier": 12.0,
@@ -9,6 +9,22 @@
     "recency": 14.4,
     "multi_source": 6.0,
     "regulatory": 0.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 57.6,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 0,
+    "approvals": 0,
+    "denials": 0,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 1,
+    "bills_introduced": 4,
+    "bills_passed": 0,
+    "bills_enacted": 0
   },
   "count": 5,
   "tier_counts": {

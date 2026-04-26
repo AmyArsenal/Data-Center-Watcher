@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>State · Data Center Watcher</title>
+  <meta name="description" content="Per-state regulatory grade, opposition count, bill activity, and news for US data center development.">
+  <style>
+    :root {
+      --paper: #F0EEE6;
+      --paper-2: #E8E4D6;
+      --ink: #1A1915;
+      --ink-2: #3E3B33;
+      --ink-3: #6B685A;
+      --ink-faint: #8F8C7E;
+      --rule: #D8D4C2;
+      --rule-strong: #B8B4A2;
+      --accent: #B5432C;
+      --grade-a: #2E5F4B;
+      --grade-b: #5A7A48;
+      --grade-c: #A97B23;
+      --grade-d: #B5432C;
+      --grade-f: #8B1A1A;
+      --grade-na: #8F8C7E;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    header.site-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .masthead h1 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 19px; font-weight: 400;
+      margin: 0;
+    }
+    .masthead h1 em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .nav-links {
+      display: flex; gap: 16px; align-items: center;
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.14em;
+    }
+    .nav-links a {
+      color: var(--ink-2);
+      text-decoration: none;
+      padding: 4px 0;
+      border-bottom: 1px solid transparent;
+    }
+    .nav-links a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.signin {
+      margin-left: 8px;
+      padding: 5px 12px;
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 3px;
+    }
+    .nav-links a.signin:hover { background: #000; }
+
+    main { max-width: 1100px; margin: 0 auto; padding: 48px 28px 80px; }
+
+    .crumb {
+      font-family: "Inter", sans-serif;
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: 14px;
+    }
+    .crumb a {
+      color: var(--ink-2); text-decoration: none;
+      border-bottom: 1px solid var(--rule-strong);
+    }
+    .crumb a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+
+    h1.page-title {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 56px; font-weight: 400;
+      letter-spacing: -0.025em; line-height: 1.05;
+      margin: 0 0 14px 0;
+    }
+    .page-title em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .lede { font-size: 17px; color: var(--ink-2); line-height: 1.5; max-width: 700px; }
+
+    /* Grade card */
+    .grade-card {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 32px;
+      align-items: center;
+      padding: 32px 36px;
+      background: var(--paper-2);
+      border: 1px solid var(--rule);
+      border-radius: 5px;
+      margin: 36px 0 28px 0;
+    }
+    .grade-letter {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 96px; font-weight: 400;
+      line-height: 1;
+      letter-spacing: -0.04em;
+      color: var(--grade-c);
+      min-width: 120px;
+      text-align: center;
+    }
+    .grade-letter[data-g="A"] { color: var(--grade-a); }
+    .grade-letter[data-g="B"] { color: var(--grade-b); }
+    .grade-letter[data-g="C"] { color: var(--grade-c); }
+    .grade-letter[data-g="D"] { color: var(--grade-d); }
+    .grade-letter[data-g="F"] { color: var(--grade-f); }
+    .grade-letter[data-g="N/A"] { color: var(--grade-na); font-size: 38px; }
+
+    .grade-meta .grade-eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.18em;
+      color: var(--ink-3);
+      margin-bottom: 6px;
+    }
+    .grade-meta h2 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 26px; font-weight: 400;
+      letter-spacing: -0.01em;
+      margin: 0 0 6px 0;
+    }
+    .grade-meta .grade-score {
+      font-family: "Inter", sans-serif;
+      font-size: 13px; color: var(--ink-3);
+    }
+
+    /* Quantified stats line */
+    .stats-line {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 0;
+      margin: 24px 0 40px 0;
+      border-top: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+    }
+    .stat-cell {
+      padding: 16px 18px;
+      border-right: 1px solid var(--rule);
+    }
+    .stat-cell:last-child { border-right: none; }
+    .stat-cell .stat-num {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 28px; font-weight: 400;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+    .stat-cell .stat-num.alert { color: var(--grade-d); }
+    .stat-cell .stat-num.good  { color: var(--grade-a); }
+    .stat-cell .stat-label {
+      font-family: "Inter", sans-serif;
+      font-size: 10px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.14em;
+      color: var(--ink-3);
+    }
+
+    section.block { margin: 40px 0; }
+    section.block h2 {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.18em;
+      color: var(--ink-3);
+      margin: 0 0 18px 0;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    /* Mini stats grid (issues, scope, outcome) */
+    .pillbar { display: flex; flex-wrap: wrap; gap: 8px 14px; }
+    .pill {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-family: "Inter", sans-serif;
+      font-size: 12px;
+      color: var(--ink-2);
+      padding: 4px 10px;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 3px;
+    }
+    .pill .pill-num { font-weight: 600; color: var(--ink); }
+    .pill.outcome-win { border-left: 3px solid var(--grade-a); }
+    .pill.outcome-pending { border-left: 3px solid var(--ink-3); }
+    .pill.outcome-loss { border-left: 3px solid var(--grade-f); }
+    .pill.outcome-mixed { border-left: 3px solid var(--grade-c); }
+
+    /* Bills + actions list */
+    .citation-list { list-style: none; padding: 0; margin: 0; }
+    .citation {
+      padding: 14px 18px;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 3px;
+      margin-bottom: 8px;
+      transition: border-color 140ms ease;
+    }
+    .citation:hover { border-color: var(--ink); }
+    .citation a { color: var(--ink); text-decoration: none; }
+    .citation .cite-meta {
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.12em;
+      margin-bottom: 6px;
+      display: flex; gap: 12px; flex-wrap: wrap;
+    }
+    .citation .cite-title {
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      font-size: 15px;
+      color: var(--ink);
+      line-height: 1.45;
+    }
+    .outcome-tag {
+      display: inline-block; padding: 1px 7px;
+      border-radius: 2px;
+      font-size: 9.5px; font-weight: 600;
+      letter-spacing: 0.1em;
+    }
+    .outcome-tag.win { background: var(--grade-a); color: var(--paper); }
+    .outcome-tag.loss { background: var(--grade-f); color: var(--paper); }
+    .outcome-tag.pending { background: var(--ink-3); color: var(--paper); }
+    .outcome-tag.mixed { background: var(--grade-c); color: var(--paper); }
+
+    .neighbor-strip {
+      display: flex; gap: 10px; flex-wrap: wrap;
+      margin-top: 8px;
+    }
+    .neighbor-card {
+      flex: 1 1 140px;
+      padding: 14px 16px;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 3px;
+      text-align: center;
+      text-decoration: none;
+      color: var(--ink);
+      transition: border-color 140ms ease;
+    }
+    .neighbor-card:hover { border-color: var(--ink); }
+    .neighbor-card .ng-grade {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 30px; font-weight: 400;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+    .neighbor-card .ng-name {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; color: var(--ink-3);
+      letter-spacing: 0.12em; text-transform: uppercase;
+    }
+
+    .empty { color: var(--ink-3); font-style: italic; padding: 20px 0; }
+
+    .cta {
+      margin-top: 56px;
+      padding: 28px 32px;
+      background: var(--paper-2);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 24px;
+    }
+    .cta .cta-text {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 19px;
+      color: var(--ink);
+    }
+    .cta a {
+      padding: 11px 22px;
+      background: var(--ink); color: var(--paper);
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      letter-spacing: 0.14em; text-transform: uppercase;
+      text-decoration: none; border-radius: 3px;
+      white-space: nowrap;
+    }
+    .cta a:hover { background: #000; }
+
+    footer.site-footer {
+      text-align: center;
+      padding: 40px 20px;
+      border-top: 1px solid var(--rule);
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px;
+      color: var(--ink-faint);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    footer.site-footer a {
+      color: var(--ink-2);
+      text-decoration: none;
+      border-bottom: 1px solid var(--rule-strong);
+    }
+
+    @media (max-width: 760px) {
+      .grade-card { grid-template-columns: 1fr; text-align: center; }
+      .stats-line { grid-template-columns: repeat(2, 1fr); border: 1px solid var(--rule); }
+      .stat-cell { border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+      h1.page-title { font-size: 38px; }
+      .cta { flex-direction: column; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="masthead">
+      <h1>Data Center Opposition <em>· State View</em></h1>
+    </div>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html">Dashboard</a>
+      <a href="newsletter.html">Newsletter</a>
+      <a href="blog.html">Blog</a>
+      <a href="api.html">Data &amp; API</a>
+      <a href="about.html">About</a>
+      <a class="signin" href="api.html#waitlist">Sign in</a>
+    </nav>
+  </header>
+
+  <main id="page-root">
+    <div class="crumb">
+      <a href="locations.html">All states</a> · <span id="crumb-state">…</span>
+    </div>
+    <h1 class="page-title" id="state-name">Loading…</h1>
+    <p class="lede" id="state-lede"></p>
+
+    <div class="grade-card">
+      <div class="grade-letter" id="grade-letter" data-g="C">—</div>
+      <div class="grade-meta">
+        <div class="grade-eyebrow">Regulatory environment</div>
+        <h2 id="grade-label">—</h2>
+        <div class="grade-score" id="grade-score">—</div>
+      </div>
+    </div>
+
+    <div class="stats-line" id="stats-line">
+      <div class="stat-cell"><div class="stat-num" id="stat-mor">—</div><div class="stat-label">Moratoriums</div></div>
+      <div class="stat-cell"><div class="stat-num good" id="stat-app">—</div><div class="stat-label">Project approvals</div></div>
+      <div class="stat-cell"><div class="stat-num alert" id="stat-den">—</div><div class="stat-label">Denials &amp; blocks</div></div>
+      <div class="stat-cell"><div class="stat-num" id="stat-law">—</div><div class="stat-label">Lawsuits</div></div>
+      <div class="stat-cell"><div class="stat-num" id="stat-bill">—</div><div class="stat-label">Bills tracked</div></div>
+      <div class="stat-cell"><div class="stat-num" id="stat-co">—</div><div class="stat-label">Active companies</div></div>
+    </div>
+
+    <section class="block">
+      <h2>Top issue tags</h2>
+      <div class="pillbar" id="issues"></div>
+    </section>
+
+    <section class="block">
+      <h2>Community outcomes</h2>
+      <div class="pillbar" id="outcomes"></div>
+    </section>
+
+    <section class="block">
+      <h2>Most recent actions</h2>
+      <ul class="citation-list" id="citations"></ul>
+    </section>
+
+    <section class="block" id="neighbors-section">
+      <h2>Neighboring states</h2>
+      <div class="neighbor-strip" id="neighbors"></div>
+    </section>
+
+    <div class="cta">
+      <div class="cta-text">Want county-level dossiers and weekly alerts for this state?</div>
+      <a href="api.html#waitlist">Request access</a>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <a href="locations.html">All states →</a>
+  </footer>
+
+  <script>
+  // ---------------------------------------------------------------
+  // State landing page — reads ?st=PA from URL, fetches the dossier,
+  // and renders. No framework, no build step.
+  // ---------------------------------------------------------------
+  const STATE_NAMES = {
+    AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',
+    CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'District of Columbia',
+    FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',
+    IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',
+    MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',
+    MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',
+    NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',
+    OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',
+    SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',
+    WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming',
+  };
+
+  // Best-effort static neighbor map (most-frequent border / commute neighbors)
+  const NEIGHBORS = {
+    PA:['NJ','OH','NY','MD','WV'],  OH:['PA','MI','IN','KY','WV'],
+    VA:['WV','NC','MD','TN','KY'],  TX:['OK','NM','LA','AR'],
+    CA:['OR','NV','AZ'],            NY:['NJ','PA','CT','MA','VT'],
+    IL:['IN','WI','IA','MO','KY'],  GA:['FL','SC','NC','TN','AL'],
+    NC:['VA','SC','TN','GA'],       FL:['GA','AL'],
+    AZ:['CA','NV','UT','NM'],       MI:['OH','IN','WI'],
+    WI:['MN','IA','IL','MI'],       MN:['ND','SD','IA','WI'],
+    KS:['NE','MO','OK','CO'],       OK:['TX','KS','MO','AR','NM'],
+    MO:['IA','IL','KY','TN','AR','OK','KS','NE'],
+    ME:['NH'],                       MA:['NH','VT','NY','CT','RI'],
+    CT:['NY','MA','RI'],            NJ:['NY','PA','DE'],
+    MD:['PA','VA','WV','DE','DC'],  DE:['NJ','PA','MD'],
+    SC:['NC','GA'],                 AL:['MS','TN','GA','FL'],
+    KY:['IN','OH','WV','VA','TN','MO','IL'],
+    TN:['KY','VA','NC','GA','AL','MS','AR','MO'],
+    AR:['MO','TN','MS','LA','TX','OK'],
+    LA:['TX','AR','MS'],            MS:['LA','AR','TN','AL'],
+    WV:['OH','PA','MD','VA','KY'],  IN:['MI','OH','KY','IL'],
+    IA:['MN','WI','IL','MO','NE','SD'],
+    NE:['SD','IA','MO','KS','CO','WY'],
+    SD:['ND','MN','IA','NE','WY','MT'],
+    ND:['MT','SD','MN'],            CO:['WY','NE','KS','OK','NM','UT'],
+    NM:['CO','OK','TX','AZ','UT'],  UT:['ID','WY','CO','NM','AZ','NV'],
+    NV:['OR','ID','UT','AZ','CA'],  ID:['WA','OR','NV','UT','WY','MT'],
+    OR:['WA','ID','CA','NV'],       WA:['ID','OR'],
+    MT:['ND','SD','WY','ID'],       WY:['MT','SD','NE','CO','UT','ID'],
+    NH:['ME','VT','MA'],            VT:['NY','NH','MA'],
+    RI:['MA','CT'],                 AK:[], HI:[], DC:['MD','VA'],
+  };
+
+  const params = new URLSearchParams(location.search);
+  const st = (params.get('st') || params.get('state') || 'PA').toUpperCase();
+  const stateName = STATE_NAMES[st] || st;
+
+  // Title and crumb
+  document.title = `${stateName} · Data Center Watcher`;
+  document.getElementById('crumb-state').textContent = stateName;
+  document.getElementById('state-name').innerHTML = `${stateName} <em>· data center activity</em>`;
+
+  // Fetch state dossier + the rolled-up index (for neighbors + lede)
+  Promise.all([
+    fetch(`data/api/v1/states/${st}.json`).then(r => r.ok ? r.json() : null),
+    fetch(`data/api/v1/states.json`).then(r => r.ok ? r.json() : null),
+    fetch(`data/news.json`).then(r => r.ok ? r.json() : null),
+  ]).then(([dossier, idx, news]) => {
+    if (!dossier) {
+      document.getElementById('state-lede').textContent = `No data yet for ${stateName}.`;
+      return;
+    }
+
+    const grade = dossier.grade || { letter: 'N/A', score: null, label: 'Insufficient data' };
+    document.getElementById('grade-letter').textContent = grade.letter;
+    document.getElementById('grade-letter').dataset.g = grade.letter;
+    document.getElementById('grade-label').textContent = grade.label;
+    document.getElementById('grade-score').textContent =
+      grade.score != null ? `Developer-friendliness ${grade.score}/100 · ${dossier.count} actions tracked` : `${dossier.count} actions tracked`;
+
+    // Lede sentence — built from data, no AI.
+    document.getElementById('state-lede').textContent =
+      buildLede(stateName, dossier);
+
+    // Quantified counts
+    const q = dossier.quantified || {};
+    document.getElementById('stat-mor').textContent = q.moratoriums ?? 0;
+    document.getElementById('stat-app').textContent = q.approvals ?? 0;
+    document.getElementById('stat-den').textContent = q.denials ?? 0;
+    document.getElementById('stat-law').textContent = q.lawsuits ?? 0;
+    document.getElementById('stat-bill').textContent = (q.bills_introduced ?? 0) + (q.bills_passed ?? 0) + (q.bills_enacted ?? 0);
+    document.getElementById('stat-co').textContent = q.active_companies ?? 0;
+
+    // Issues
+    const issuesEl = document.getElementById('issues');
+    const issues = dossier.issue_top || {};
+    const issueItems = Object.entries(issues).slice(0, 8);
+    issuesEl.innerHTML = issueItems.length
+      ? issueItems.map(([tag, n]) =>
+          `<span class="pill"><span class="pill-num">${n}</span> ${tag.replace(/_/g, ' ')}</span>`
+        ).join('')
+      : '<div class="empty">No issues tagged yet.</div>';
+
+    // Outcomes
+    const oc = dossier.outcome_counts || {};
+    const ocs = ['win', 'pending', 'loss', 'mixed'];
+    const ocLabel = { win: 'community wins', pending: 'pending', loss: 'community losses', mixed: 'mixed' };
+    const outcomesEl = document.getElementById('outcomes');
+    const outItems = ocs.filter(k => oc[k] != null && oc[k] > 0)
+      .map(k => `<span class="pill outcome-${k}"><span class="pill-num">${oc[k]}</span> ${ocLabel[k]}</span>`);
+    outcomesEl.innerHTML = outItems.join('') || '<div class="empty">No outcomes scored yet.</div>';
+
+    // Citations
+    const cites = dossier.top_citations || [];
+    const citesEl = document.getElementById('citations');
+    citesEl.innerHTML = cites.length
+      ? cites.map(c => {
+          const out = c.outcome || 'pending';
+          const outClass = `outcome-tag ${out}`;
+          return `
+            <li class="citation">
+              <a href="${c.url || '#'}" target="_blank" rel="noopener">
+                <div class="cite-meta">
+                  <span>${formatDate(c.date)}</span>
+                  <span>${escape(c.jurisdiction || '')}</span>
+                  <span class="${outClass}">${out}</span>
+                </div>
+                <div class="cite-title">${escape(c.title || '')}</div>
+              </a>
+            </li>`;
+        }).join('')
+      : '<div class="empty">No actions tracked yet for this state.</div>';
+
+    // Neighbors
+    const neighEl = document.getElementById('neighbors');
+    const myNeighbors = NEIGHBORS[st] || [];
+    if (myNeighbors.length && idx) {
+      const idxByState = Object.fromEntries((idx.states || []).map(s => [s.state, s]));
+      neighEl.innerHTML = myNeighbors
+        .map(n => idxByState[n])
+        .filter(Boolean)
+        .map(s => `
+          <a class="neighbor-card" href="state.html?st=${s.state}">
+            <div class="ng-grade" style="color:${gradeColor(s.grade)}">${s.grade}</div>
+            <div class="ng-name">${STATE_NAMES[s.state] || s.state}</div>
+          </a>`).join('');
+    } else {
+      document.getElementById('neighbors-section').style.display = 'none';
+    }
+  }).catch(err => {
+    console.error('[state] fetch error', err);
+    document.getElementById('state-lede').textContent = 'Could not load data. Please refresh.';
+  });
+
+  // Helpers
+  function escape(s) {
+    return String(s ?? '').replace(/[&<>"']/g, c =>
+      ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+  function formatDate(s) {
+    if (!s) return '';
+    const d = new Date(s);
+    if (Number.isNaN(d.getTime())) return s;
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  }
+  function gradeColor(g) {
+    return ({A:'#2E5F4B',B:'#5A7A48',C:'#A97B23',D:'#B5432C',F:'#8B1A1A','N/A':'#8F8C7E'})[g] || '#1A1915';
+  }
+  function buildLede(stateName, d) {
+    const q = d.quantified || {};
+    const oc = d.outcome_counts || {};
+    const moratoriums = q.moratoriums ?? 0;
+    const denials = q.denials ?? 0;
+    const wins = oc.win ?? 0;
+    const pending = oc.pending ?? 0;
+    const billsTotal = (q.bills_introduced ?? 0) + (q.bills_passed ?? 0) + (q.bills_enacted ?? 0);
+
+    if (d.count === 0) return `No data center actions tracked yet for ${stateName}.`;
+
+    const parts = [];
+    if (moratoriums > 0) parts.push(`${moratoriums} ${moratoriums === 1 ? 'moratorium' : 'moratoriums'}`);
+    if (billsTotal > 0)  parts.push(`${billsTotal} ${billsTotal === 1 ? 'bill' : 'bills'} tracked`);
+    if (denials > 0)     parts.push(`${denials} community ${denials === 1 ? 'win' : 'wins'} against projects`);
+    if (pending > 0)     parts.push(`${pending} active ${pending === 1 ? 'matter' : 'matters'}`);
+    const trail = parts.length ? parts.slice(0, 3).join(', ') : `${d.count} actions in our database`;
+    return `${stateName} has ${trail}. Latest activity ${formatDate(d.latest)}.`;
+  }
+  </script>
+</body>
+</html>

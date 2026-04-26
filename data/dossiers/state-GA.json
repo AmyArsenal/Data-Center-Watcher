@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 48.7,
     "tier": 14.5,
@@ -9,6 +9,22 @@
     "recency": 14.3,
     "multi_source": 5.4,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 51.3,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 3,
+    "approvals": 1,
+    "denials": 2,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 1,
+    "bills_introduced": 7,
+    "bills_passed": 1,
+    "bills_enacted": 0
   },
   "count": 13,
   "tier_counts": {

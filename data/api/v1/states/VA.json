@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 49.4,
     "tier": 15.8,
@@ -9,6 +9,22 @@
     "recency": 10.2,
     "multi_source": 7.5,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "C",
+    "score": 50.6,
+    "label": "Significant activity in both directions"
+  },
+  "quantified": {
+    "moratoriums": 1,
+    "approvals": 1,
+    "denials": 15,
+    "lawsuits": 3,
+    "blocked": 2,
+    "active_companies": 3,
+    "bills_introduced": 12,
+    "bills_passed": 3,
+    "bills_enacted": 7
   },
   "count": 32,
   "tier_counts": {

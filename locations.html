@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>All states · Data Center Watcher</title>
+  <meta name="description" content="Every US state ranked by data center regulatory environment. Letter grade, moratoriums, denials, lawsuits.">
+  <style>
+    :root {
+      --paper: #F0EEE6;
+      --paper-2: #E8E4D6;
+      --ink: #1A1915;
+      --ink-2: #3E3B33;
+      --ink-3: #6B685A;
+      --ink-faint: #8F8C7E;
+      --rule: #D8D4C2;
+      --rule-strong: #B8B4A2;
+      --accent: #B5432C;
+      --grade-a: #2E5F4B;
+      --grade-b: #5A7A48;
+      --grade-c: #A97B23;
+      --grade-d: #B5432C;
+      --grade-f: #8B1A1A;
+      --grade-na: #8F8C7E;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    header.site-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .masthead h1 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 19px; font-weight: 400;
+      margin: 0;
+    }
+    .masthead h1 em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .nav-links {
+      display: flex; gap: 16px; align-items: center;
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.14em;
+    }
+    .nav-links a {
+      color: var(--ink-2);
+      text-decoration: none;
+      padding: 4px 0;
+      border-bottom: 1px solid transparent;
+    }
+    .nav-links a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.signin {
+      margin-left: 8px;
+      padding: 5px 12px;
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 3px;
+    }
+    .nav-links a.signin:hover { background: #000; }
+
+    main { max-width: 1100px; margin: 0 auto; padding: 56px 28px 80px; }
+
+    .eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase; letter-spacing: 0.18em;
+      margin-bottom: 18px;
+    }
+    h1.page-title {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 48px; font-weight: 400;
+      line-height: 1.05; letter-spacing: -0.025em;
+      margin: 0 0 18px 0;
+    }
+    h1.page-title em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .lede { font-size: 17px; color: var(--ink-2); max-width: 720px; line-height: 1.5; }
+
+    .controls {
+      display: flex; gap: 18px; align-items: center;
+      margin: 36px 0 16px 0;
+      flex-wrap: wrap;
+    }
+    .control-group {
+      display: flex; gap: 6px; align-items: center;
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.14em;
+    }
+    .chip-group { display: flex; gap: 0; }
+    .chip-group button {
+      padding: 6px 12px;
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      color: var(--ink-2);
+      background: var(--paper);
+      border: 1px solid var(--rule-strong);
+      cursor: pointer;
+      letter-spacing: 0.12em;
+    }
+    .chip-group button:first-child { border-radius: 3px 0 0 3px; }
+    .chip-group button:last-child  { border-radius: 0 3px 3px 0; }
+    .chip-group button + button    { border-left: none; }
+    .chip-group button.active {
+      background: var(--ink); color: var(--paper); border-color: var(--ink);
+    }
+    .search-box {
+      flex: 1;
+      max-width: 280px;
+      padding: 8px 12px;
+      font-family: "Inter", sans-serif;
+      font-size: 12px;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid var(--rule-strong);
+      border-radius: 3px;
+      outline: none;
+    }
+    .search-box:focus { border-color: var(--ink); }
+
+    .summary-row {
+      display: flex; gap: 28px; flex-wrap: wrap;
+      padding: 16px 0;
+      margin-bottom: 16px;
+      border-top: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+      font-family: "Inter", sans-serif;
+      font-size: 11.5px;
+      color: var(--ink-3);
+      letter-spacing: 0.06em;
+    }
+    .summary-row strong { color: var(--ink); font-weight: 600; }
+
+    table.states {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: "Inter", sans-serif;
+      font-size: 13px;
+    }
+    table.states thead th {
+      text-align: left;
+      padding: 10px 14px;
+      font-size: 10.5px; font-weight: 600;
+      color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.14em;
+      border-bottom: 1px solid var(--rule-strong);
+      cursor: pointer;
+      user-select: none;
+    }
+    table.states thead th .sort-arrow { color: var(--ink-faint); margin-left: 4px; }
+    table.states thead th.sorted .sort-arrow { color: var(--ink); }
+    table.states tbody td {
+      padding: 14px;
+      border-bottom: 1px solid var(--rule);
+      color: var(--ink);
+      vertical-align: middle;
+    }
+    table.states tbody tr {
+      cursor: pointer;
+      transition: background 120ms ease;
+    }
+    table.states tbody tr:hover { background: var(--paper-2); }
+
+    .state-row .grade-badge {
+      display: inline-block;
+      width: 32px; height: 32px;
+      line-height: 32px;
+      text-align: center;
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 18px; font-weight: 400;
+      border-radius: 3px;
+      color: var(--paper);
+    }
+    .grade-badge[data-g="A"] { background: var(--grade-a); }
+    .grade-badge[data-g="B"] { background: var(--grade-b); }
+    .grade-badge[data-g="C"] { background: var(--grade-c); }
+    .grade-badge[data-g="D"] { background: var(--grade-d); }
+    .grade-badge[data-g="F"] { background: var(--grade-f); }
+    .grade-badge[data-g="N/A"] {
+      background: var(--paper); color: var(--ink-faint);
+      border: 1px solid var(--rule-strong);
+      font-size: 10px;
+    }
+    .state-row .state-name {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 17px;
+      color: var(--ink);
+    }
+    .state-row .state-postal {
+      color: var(--ink-faint);
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px;
+      letter-spacing: 0.14em;
+      margin-left: 6px;
+    }
+    .state-row .num.alert { color: var(--grade-d); font-weight: 600; }
+    .state-row td.actions-arrow {
+      text-align: right;
+      color: var(--ink-faint);
+    }
+    .state-row:hover td.actions-arrow { color: var(--ink); }
+
+    .empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--ink-3);
+      font-style: italic;
+    }
+
+    footer.site-footer {
+      text-align: center;
+      padding: 40px 20px;
+      border-top: 1px solid var(--rule);
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px;
+      color: var(--ink-faint);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    footer.site-footer a {
+      color: var(--ink-2);
+      text-decoration: none;
+      border-bottom: 1px solid var(--rule-strong);
+    }
+
+    @media (max-width: 760px) {
+      h1.page-title { font-size: 34px; }
+      table.states .hide-mobile { display: none; }
+      .controls { flex-direction: column; align-items: stretch; }
+      .search-box { max-width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="masthead">
+      <h1>Data Center Opposition <em>· All States</em></h1>
+    </div>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html">Dashboard</a>
+      <a href="newsletter.html">Newsletter</a>
+      <a href="blog.html">Blog</a>
+      <a href="api.html">Data &amp; API</a>
+      <a href="about.html">About</a>
+      <a class="signin" href="api.html#waitlist">Sign in</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="eyebrow">All states</div>
+    <h1 class="page-title">Every US state, <em>ranked.</em></h1>
+    <p class="lede">
+      Letter grade per state, A through F. Grade reflects moratorium activity,
+      community-win rate, lawsuits, and bill momentum. Click any row for the
+      full state dossier.
+    </p>
+
+    <div class="controls">
+      <input type="search" class="search-box" id="search" placeholder="Search state…">
+      <div class="control-group">
+        <span>Show:</span>
+        <div class="chip-group" id="filter-grade">
+          <button data-f="all" class="active">All</button>
+          <button data-f="restrictive">F &amp; D</button>
+          <button data-f="mid">C</button>
+          <button data-f="friendly">A &amp; B</button>
+          <button data-f="rated">Rated only</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="summary-row" id="summary"></div>
+
+    <table class="states" id="states-table">
+      <thead>
+        <tr>
+          <th data-sort="grade_score" class="sorted">Grade <span class="sort-arrow">↑</span></th>
+          <th data-sort="name">State</th>
+          <th data-sort="moratoriums" class="hide-mobile">Moratoriums <span class="sort-arrow"></span></th>
+          <th data-sort="denials" class="hide-mobile">Denials <span class="sort-arrow"></span></th>
+          <th data-sort="lawsuits" class="hide-mobile">Lawsuits <span class="sort-arrow"></span></th>
+          <th data-sort="active_companies" class="hide-mobile">Companies <span class="sort-arrow"></span></th>
+          <th data-sort="count">Actions <span class="sort-arrow"></span></th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+
+  </main>
+
+  <footer class="site-footer">
+    <a href="index.html">← Dashboard</a>
+  </footer>
+
+  <script>
+  const STATE_NAMES = {
+    AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',
+    CO:'Colorado',CT:'Connecticut',DE:'Delaware',DC:'District of Columbia',
+    FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',
+    IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',
+    MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',
+    MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',
+    NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',
+    OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',
+    SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',
+    WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming',
+  };
+
+  let DATA = [];
+  let sortKey = 'grade_score';
+  let sortAsc = true;     // grade_score asc = lowest dev-friendliness first = F at top
+  let filter = 'all';
+  let search = '';
+
+  fetch('data/api/v1/states.json')
+    .then(r => r.json())
+    .then(idx => {
+      DATA = (idx.states || []).map(s => ({
+        ...s,
+        name: STATE_NAMES[s.state] || s.state,
+      }));
+      renderSummary();
+      render();
+      wireControls();
+    });
+
+  function renderSummary() {
+    const total = DATA.length;
+    const totalActions = DATA.reduce((a, s) => a + (s.count || 0), 0);
+    const totalMor = DATA.reduce((a, s) => a + (s.moratoriums || 0), 0);
+    const totalLaw = DATA.reduce((a, s) => a + (s.lawsuits || 0), 0);
+    const fStates = DATA.filter(s => s.grade === 'F').length;
+    const dStates = DATA.filter(s => s.grade === 'D').length;
+    document.getElementById('summary').innerHTML = `
+      <span><strong>${total}</strong> states tracked</span>
+      <span><strong>${totalActions}</strong> total actions</span>
+      <span><strong>${totalMor}</strong> moratoriums</span>
+      <span><strong>${totalLaw}</strong> lawsuits</span>
+      <span><strong>${fStates + dStates}</strong> states with D or F</span>
+    `;
+  }
+
+  function render() {
+    const list = DATA
+      .filter(s => {
+        if (search && !s.name.toLowerCase().includes(search) && !s.state.toLowerCase().includes(search)) return false;
+        if (filter === 'all') return true;
+        if (filter === 'rated') return s.grade !== 'N/A';
+        if (filter === 'restrictive') return s.grade === 'F' || s.grade === 'D';
+        if (filter === 'mid') return s.grade === 'C';
+        if (filter === 'friendly') return s.grade === 'A' || s.grade === 'B';
+        return true;
+      })
+      .sort((a, b) => {
+        const va = sortKey === 'name' ? a.name : (a[sortKey] ?? -Infinity);
+        const vb = sortKey === 'name' ? b.name : (b[sortKey] ?? -Infinity);
+        if (typeof va === 'string') return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+        return sortAsc ? va - vb : vb - va;
+      });
+
+    const tbody = document.getElementById('rows');
+    if (!list.length) {
+      tbody.innerHTML = '<tr><td colspan="8"><div class="empty">No states match.</div></td></tr>';
+      return;
+    }
+    tbody.innerHTML = list.map(s => `
+      <tr class="state-row" onclick="location.href='state.html?st=${s.state}'">
+        <td><span class="grade-badge" data-g="${s.grade}">${s.grade}</span></td>
+        <td>
+          <span class="state-name">${s.name}</span>
+          <span class="state-postal">${s.state}</span>
+        </td>
+        <td class="hide-mobile"><span class="num ${s.moratoriums > 0 ? 'alert' : ''}">${s.moratoriums || 0}</span></td>
+        <td class="hide-mobile"><span class="num ${s.denials > 0 ? 'alert' : ''}">${s.denials || 0}</span></td>
+        <td class="hide-mobile"><span class="num ${s.lawsuits > 0 ? 'alert' : ''}">${s.lawsuits || 0}</span></td>
+        <td class="hide-mobile">${s.active_companies || 0}</td>
+        <td>${s.count || 0}</td>
+        <td class="actions-arrow">→</td>
+      </tr>
+    `).join('');
+
+    // Update sort arrows
+    document.querySelectorAll('thead th').forEach(th => {
+      th.classList.remove('sorted');
+      const arrow = th.querySelector('.sort-arrow');
+      if (!arrow) return;
+      if (th.dataset.sort === sortKey) {
+        th.classList.add('sorted');
+        arrow.textContent = sortAsc ? '↑' : '↓';
+      } else {
+        arrow.textContent = '';
+      }
+    });
+  }
+
+  function wireControls() {
+    document.getElementById('search').addEventListener('input', e => {
+      search = e.target.value.trim().toLowerCase();
+      render();
+    });
+    document.querySelectorAll('#filter-grade button').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#filter-grade button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        filter = btn.dataset.f;
+        render();
+      });
+    });
+    document.querySelectorAll('thead th[data-sort]').forEach(th => {
+      th.addEventListener('click', () => {
+        const k = th.dataset.sort;
+        if (sortKey === k) sortAsc = !sortAsc;
+        else { sortKey = k; sortAsc = (k === 'name'); }
+        render();
+      });
+    });
+  }
+  </script>
+</body>
+</html>

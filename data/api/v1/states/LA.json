@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "LA",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 53.0,
     "tier": 12.0,
@@ -9,6 +9,22 @@
     "recency": 20.0,
     "multi_source": 6.0,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "D",
+    "score": 47.0,
+    "label": "Opposition frequently succeeds"
+  },
+  "quantified": {
+    "moratoriums": 0,
+    "approvals": 2,
+    "denials": 2,
+    "lawsuits": 1,
+    "blocked": 0,
+    "active_companies": 2,
+    "bills_introduced": 1,
+    "bills_passed": 1,
+    "bills_enacted": 1
   },
   "count": 5,
   "tier_counts": {

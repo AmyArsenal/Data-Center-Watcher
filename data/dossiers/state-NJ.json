@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 51.2,
     "tier": 15.4,
@@ -9,6 +9,22 @@
     "recency": 14.4,
     "multi_source": 6.2,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "D",
+    "score": 48.8,
+    "label": "Opposition frequently succeeds"
+  },
+  "quantified": {
+    "moratoriums": 0,
+    "approvals": 0,
+    "denials": 5,
+    "lawsuits": 0,
+    "blocked": 2,
+    "active_companies": 1,
+    "bills_introduced": 12,
+    "bills_passed": 2,
+    "bills_enacted": 0
   },
   "count": 21,
   "tier_counts": {

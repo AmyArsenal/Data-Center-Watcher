@@ -89,6 +89,68 @@ def _recency_weight(date_str: str | None) -> float:
     return 0.1
 
 
+def _developer_grade(risk_score: float, action_count: int) -> dict:
+    """Convert our 0-100 risk_score (higher = more restrictive) into a
+    developer-perspective letter grade (A = friendly, F = hostile).
+
+    Mirrors the datacentersignal.com grading surface but uses our own data.
+    Returns N/A for thin states (<5 actions) so we don't grade noise.
+    """
+    if action_count < 5:
+        return {"letter": "N/A", "score": None, "label": "Insufficient data"}
+
+    # Invert: high risk_score → low developer score
+    dev_score = round(100 - risk_score, 1)
+    if dev_score >= 80:  letter, label = "A", "Pro-development environment"
+    elif dev_score >= 65: letter, label = "B", "Some friction, projects generally advance"
+    elif dev_score >= 50: letter, label = "C", "Significant activity in both directions"
+    elif dev_score >= 35: letter, label = "D", "Opposition frequently succeeds"
+    else:                 letter, label = "F", "Active moratoriums, high opposition success"
+    return {"letter": letter, "score": dev_score, "label": label}
+
+
+def _quantified_counts(actions: list[dict]) -> dict:
+    """Per-state count breakdown that mirrors the headline stats on a
+    datacentersignal-style state page: moratoriums, project approvals,
+    project denials, lawsuits, blocked projects, active companies."""
+    out = {
+        "moratoriums": 0, "approvals": 0, "denials": 0,
+        "lawsuits": 0, "blocked": 0, "active_companies": 0,
+        "bills_introduced": 0, "bills_passed": 0, "bills_enacted": 0,
+    }
+    companies = set()
+    for a in actions:
+        types = _parse_json(a.get("action_type")) or []
+        outcome = a.get("community_outcome")
+        status = (a.get("status") or "").lower()
+
+        if "moratorium" in types:
+            out["moratoriums"] += 1
+        if "lawsuit" in types:
+            out["lawsuits"] += 1
+        # Community win = project denied/blocked from developer POV
+        if outcome == "win":
+            out["denials"] += 1
+        # Community loss = project moved forward from developer POV
+        if outcome == "loss":
+            out["approvals"] += 1
+        if "project_withdrawal" in types or status in ("cancelled", "withdrawn", "blocked"):
+            out["blocked"] += 1
+        # Bills are 'legislation' action_type with bill statuses
+        if "legislation" in types:
+            if status in ("introduced", "in-committee"):
+                out["bills_introduced"] += 1
+            elif status in ("passed", "passed-lower", "passed-upper", "passed-both"):
+                out["bills_passed"] += 1
+            elif status == "enacted":
+                out["bills_enacted"] += 1
+        # Company tracking (singular field)
+        c = a.get("company")
+        if c: companies.add(c)
+    out["active_companies"] = len(companies)
+    return out
+
+
 def _risk_score(actions: list[dict]) -> dict:
     """Returns {'score', 'tier_component', 'recency_component', etc.}."""
     if not actions:
@@ -195,12 +257,17 @@ def _summarize(actions: list[dict]) -> dict:
 # ---- Builders ---------------------------------------------------------
 
 def build_state_dossier(state: str, actions: list[dict]) -> dict:
-    summary = _summarize(actions)
+    summary    = _summarize(actions)
+    risk       = _risk_score(actions)
+    grade      = _developer_grade(risk["score"], len(actions))
+    quantified = _quantified_counts(actions)
     return {
         "schema":        "dcw.dossier.state.v1",
         "state":         state,
         "generated_at":  _utcnow(),
-        "risk_score":    _risk_score(actions),
+        "risk_score":    risk,
+        "grade":         grade,
+        "quantified":    quantified,
         **summary,
     }
 
@@ -287,6 +354,13 @@ def main() -> int:
             "state":      st,
             "count":      d["count"],
             "risk_score": d["risk_score"]["score"],
+            "grade":      d["grade"]["letter"],
+            "grade_score":d["grade"]["score"],
+            "moratoriums":d["quantified"]["moratoriums"],
+            "approvals":  d["quantified"]["approvals"],
+            "denials":    d["quantified"]["denials"],
+            "lawsuits":   d["quantified"]["lawsuits"],
+            "active_companies": d["quantified"]["active_companies"],
             "latest":     d["latest"],
             "url":        f"data/dossiers/state-{st}.json",
         })

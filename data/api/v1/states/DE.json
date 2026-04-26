@@ -1,7 +1,7 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "DE",
-  "generated_at": "2026-04-26T12:00:16Z",
+  "generated_at": "2026-04-26T12:46:17Z",
   "risk_score": {
     "score": 36.6,
     "tier": 12.0,
@@ -9,6 +9,22 @@
     "recency": 13.3,
     "multi_source": 0.0,
     "regulatory": 5.0
+  },
+  "grade": {
+    "letter": "N/A",
+    "score": null,
+    "label": "Insufficient data"
+  },
+  "quantified": {
+    "moratoriums": 0,
+    "approvals": 0,
+    "denials": 1,
+    "lawsuits": 0,
+    "blocked": 0,
+    "active_companies": 1,
+    "bills_introduced": 1,
+    "bills_passed": 0,
+    "bills_enacted": 0
   },
   "count": 3,
   "tier_counts": {
