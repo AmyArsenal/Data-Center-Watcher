@@ -1,0 +1,55 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/state/:st", "destination": "/state.html?st=:st" },
+    { "source": "/states",    "destination": "/locations.html" }
+  ],
+  "headers": [
+    {
+      "source": "/data/news.json",
+      "headers": [
+        { "key": "Cache-Control",                "value": "public, max-age=120, s-maxage=120, stale-while-revalidate=60" },
+        { "key": "Access-Control-Allow-Origin",  "value": "*" }
+      ]
+    },
+    {
+      "source": "/data/meta.json",
+      "headers": [
+        { "key": "Cache-Control",                "value": "public, max-age=60,  s-maxage=60,  stale-while-revalidate=30" },
+        { "key": "Access-Control-Allow-Origin",  "value": "*" }
+      ]
+    },
+    {
+      "source": "/data/(.*\\.json)",
+      "headers": [
+        { "key": "Cache-Control",                "value": "public, max-age=300, s-maxage=300, stale-while-revalidate=120" },
+        { "key": "Access-Control-Allow-Origin",  "value": "*" }
+      ]
+    },
+    {
+      "source": "/data/api/v1/(.*)",
+      "headers": [
+        { "key": "Cache-Control",                "value": "public, max-age=300, s-maxage=300, stale-while-revalidate=120" },
+        { "key": "Access-Control-Allow-Origin",  "value": "*" },
+        { "key": "X-DCW-Schema-Version",         "value": "v1" }
+      ]
+    },
+    {
+      "source": "/data/narratives/(.*)",
+      "headers": [
+        { "key": "Cache-Control",                "value": "public, max-age=900, s-maxage=900, stale-while-revalidate=300" },
+        { "key": "Access-Control-Allow-Origin",  "value": "*" }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy",        "value": "strict-origin-when-cross-origin" },
+        { "key": "X-Frame-Options",        "value": "SAMEORIGIN" }
+      ]
+    }
+  ]
+}

@@ -54,6 +54,8 @@ product**: pick a county, get back `risk_score + top citations + active bills
 │                      datacentertracker.org-style schema (16 issue     │
 │                      tags, 4 community outcomes, scope, action_type)  │
 │    meta.json         per-tier last-refresh timestamps                 │
+│    narratives/{XX}.md  per-state AI briefing (weekly cron via Haiku)  │
+│    api/v1/states/{XX}.json  per-state dossier consumed by state.html  │
 │    iso-boundaries.json  static ISO polygons                           │
 └───────────────────────────────────────────────────────────────────────┘
                                    ▲
@@ -567,10 +569,25 @@ Next unshipped phases, in priority order:
    localStorage to live capture the moment that URL is set — no other code
    changes required.
 
+8. **(Done as of Apr 2026 — STUB ONLY)** Per-state AI narrative briefing.
+   `scripts/generate_narratives.py` reads each state's dossier + recent news
+   + recent social, sends to Claude Haiku 4.5, writes
+   `data/narratives/{XX}.md` (markdown with YAML frontmatter). Rendered by
+   `state.html` in the "This week's briefing" card above the stats line.
+   Weekly cron at `.github/workflows/refresh-narratives.yml` (Sundays 14:00
+   UTC). Cost: ~$0.30-0.50 per run for ~30 rated states. Currently running
+   in `--stub` mode (template-driven from raw data, no API call) because
+   `ANTHROPIC_API_KEY` repo secret is not yet set. To switch to live:
+   `gh secret set ANTHROPIC_API_KEY --repo AmyArsenal/Data-Center-Watcher`,
+   then trigger the workflow. Stub files get overwritten on the first run.
+
   **Vercel + Clerk + Stripe migration plan (the "real product" path):**
-   1. Buy domain (~$12/yr) — `datacenterwatcher.com` if available.
-   2. Push current repo to Vercel via GitHub integration. Site goes live on
-      the new domain in ~10 min. GitHub Pages keeps working as fallback.
+   1. Buy domain (~$12/yr) — `datacenterwatcher.com` or `datacentersignal.io`.
+   2. Push current repo to Vercel via GitHub integration. **`vercel.json` is
+      already in the repo** — sets cache headers per data path, CORS for the
+      static API, security headers, and pretty rewrites (`/state/PA` →
+      `state.html?st=PA`, `/states` → `locations.html`). Deploy in ~10 min,
+      no other config needed. GitHub Pages keeps working as fallback.
    3. Add Clerk (`@clerk/clerk-js` from CDN, no Next.js required). Replace
       the `.signin` link in nav with a Clerk SignIn button + UserMenu.
       Clerk publishable key is safe to expose in HTML.
