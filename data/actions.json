@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T14:09:36Z",
-  "count": 521,
+  "generated_at": "2026-04-26T15:00:01Z",
+  "count": 522,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -108,6 +108,51 @@
       "data_source": "news",
       "last_updated": "2026-04-26T07:59:56Z",
       "first_seen": "2026-04-26T07:59:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-dfbbdbd0c1cf6fef-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "communityadvocate.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-26",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Should data centers be banned in Southborough ? Debate at Town Meeting",
+      "sources": [
+        "https://communityadvocate.com/business/should-data-centers-be-banned-in-southborough-debate-at-town-meeting/article_1b3a3e98-c5e0-449f-b1aa-6c184f23ffb5.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-26T15:00:00Z",
+      "first_seen": "2026-04-26T15:00:01Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -24964,21 +25009,21 @@
     },
     "US": {
       "state": "US",
-      "count": 87,
+      "count": 88,
       "outcome_counts": {
         "pending": 63,
-        "win": 22,
+        "win": 23,
         "loss": 2,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 85,
+        "restrictive": 86,
         "protective": 0,
         "supportive": 2,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 87,
+        "local": 88,
         "statewide": 0,
         "federal": 0
       },
@@ -24987,7 +25032,7 @@
         "grid_energy": 3,
         "water": 3
       },
-      "latest_date": "2026-04-25",
+      "latest_date": "2026-04-26",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
