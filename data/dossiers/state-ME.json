@@ -1,29 +1,29 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-25T23:52:28Z",
+  "generated_at": "2026-04-26T01:20:26Z",
   "risk_score": {
-    "score": 68.9,
-    "tier": 34.4,
-    "engagement": 7.5,
+    "score": 69.0,
+    "tier": 34.7,
+    "engagement": 7.4,
     "recency": 20.0,
-    "multi_source": 2.0,
+    "multi_source": 1.9,
     "regulatory": 5.0
   },
-  "count": 35,
+  "count": 37,
   "tier_counts": {
-    "restrictive": 28,
+    "restrictive": 30,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 28,
+    "win": 30,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
     "local": 26,
-    "statewide": 9
+    "statewide": 11
   },
   "issue_top": {
     "grid_energy": 9,
@@ -109,6 +109,24 @@
       "url": "https://reddit.com/r/thebulwark/comments/1sux9p3/maine_gov_mills_ripped_for_veto_of_landmark_ai"
     },
     {
+      "id": "news:gdelt-19a6de3ecf2d6c50-me",
+      "date": "2026-04-25",
+      "jurisdiction": "pcmag.com",
+      "title": "Maine Governor Rejects Pause on New Data Centers in the State",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://pcmag.com/news/maine-falls-short-of-historic-pause-on-new-data-centers"
+    },
+    {
+      "id": "news:gdelt-42b586563f789b2e-me",
+      "date": "2026-04-25",
+      "jurisdiction": "techcrunch.com",
+      "title": "Maine governor vetoes data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium"
+    },
+    {
       "id": "research:me-maine-governor-20260424-governor-janet-mills-vetoed-ld-307-citing-the-lac",
       "date": "2026-04-24",
       "jurisdiction": "Maine Governor",
@@ -116,24 +134,6 @@
       "tier": null,
       "outcome": "loss",
       "url": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24"
-    },
-    {
-      "id": "research:me-maine-statewide--20260424-governor-mills-signed-ld-713-excluding-data-cente",
-      "date": "2026-04-24",
-      "jurisdiction": "Maine (statewide)",
-      "title": "Governor Mills signed LD 713, excluding data centers that begin operating after August 1, 2026 from Maine's Business Equipment Tax Exemption",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24"
-    },
-    {
-      "id": "news:gdelt-3d946bf42cdd40f6-me",
-      "date": "2026-04-24",
-      "jurisdiction": "wmtw.com",
-      "title": "Maine Gov . Mills vetoes data center moratorium passed by Legislature",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wmtw.com/article/maine-data-center-moratorium-vetoed-governor-mills/71122599"
     }
   ]
 }

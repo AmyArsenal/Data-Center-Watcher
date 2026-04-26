@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T23:52:28Z",
-  "count": 518,
+  "generated_at": "2026-04-26T01:20:26Z",
+  "count": 520,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,96 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-19a6de3ecf2d6c50-me",
+      "origin": "news",
+      "state": "ME",
+      "county": null,
+      "jurisdiction": "pcmag.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-04-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Maine Governor Rejects Pause on New Data Centers in the State",
+      "sources": [
+        "https://pcmag.com/news/maine-falls-short-of-historic-pause-on-new-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-26T01:20:26Z",
+      "first_seen": "2026-04-26T01:20:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-42b586563f789b2e-me",
+      "origin": "news",
+      "state": "ME",
+      "county": null,
+      "jurisdiction": "techcrunch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-04-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Maine governor vetoes data center moratorium",
+      "sources": [
+        "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-26T01:20:26Z",
+      "first_seen": "2026-04-26T01:20:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-63d4d05c4993cc1c-us",
@@ -24858,22 +24948,22 @@
     },
     "ME": {
       "state": "ME",
-      "count": 35,
+      "count": 37,
       "outcome_counts": {
         "pending": 6,
-        "win": 28,
+        "win": 30,
         "loss": 1,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 28,
+        "restrictive": 30,
         "protective": 0,
         "supportive": 0,
         "unclear": 2
       },
       "scope_counts": {
         "local": 26,
-        "statewide": 9,
+        "statewide": 11,
         "federal": 0
       },
       "issue_top": {
