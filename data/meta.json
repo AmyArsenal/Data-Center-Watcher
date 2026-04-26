@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T01:20:26Z",
+  "generated_at": "2026-04-26T03:57:38Z",
   "tier_timestamps": {
     "fast": "2026-04-26T01:20:26Z",
-    "bills": "2026-04-25T19:17:45Z"
+    "bills": "2026-04-26T03:57:38Z"
   },
   "counts_by_source": {
     "reddit": 66,
@@ -34,6 +34,13 @@
       "rss-utilitydive": 3,
       "rss-dck": 3,
       "gdelt": 2
-    }
+    },
+    "bills_last_run_seconds": 266.13,
+    "bills_raw_fetched": 0,
+    "bills_inserted": 0,
+    "bills_updated": 0,
+    "bills_noop": 0,
+    "bills_total_in_json": 193,
+    "bills_states_with_bills": 16
   }
 }
