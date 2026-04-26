@@ -459,6 +459,19 @@
     color: var(--cat-cancelled);
     border-bottom-color: var(--cat-cancelled);
   }
+  .nav-links a.signin {
+    margin-left: 6px;
+    padding: 5px 12px;
+    color: var(--paper);
+    background: var(--ink);
+    border: 1px solid var(--ink);
+    border-radius: 3px;
+  }
+  .nav-links a.signin:hover {
+    background: #000;
+    border-color: #000;
+    color: var(--paper);
+  }
   .nav-sep {
     width: 1px; height: 18px; background: var(--rule-strong);
   }
@@ -1247,8 +1260,9 @@
       <nav class="nav-links" aria-label="Secondary">
         <a href="newsletter.html">Newsletter</a>
         <a href="blog.html">Blog</a>
-        <a href="api.html">API</a>
+        <a href="api.html">Data &amp; API</a>
         <a href="about.html">About</a>
+        <a class="signin" href="api.html#waitlist">Sign in</a>
       </nav>
       <div class="sync-pill">
         <span class="sync-dot" id="sync-dot"></span>
@@ -1351,9 +1365,9 @@
     <div class="stat">
       <span class="stat-val">7 GW</span>
       <span class="stat-label">Capacity stalled</span>
-      <span class="stat-asof">per Data Center Watch, Apr 2026</span>
+      <span class="stat-asof">Apr 2026</span>
     </div>
-    <div class="stat-source">Updated continuously · <a href="about.html#sources" style="color:inherit;border-bottom:1px solid currentColor;text-decoration:none">Sources &amp; methodology</a></div>
+    <div class="stat-source">Updated continuously</div>
   </footer>
 </div>
 
@@ -1370,7 +1384,7 @@ const SEED_EVENTS = [
   { state:'ME', category:'banned',    date:'2026-04-15', headline:"Maine Legislature passes nation's first statewide data center moratorium", source:'washingtonpost.com', url:'https://www.washingtonpost.com/nation/2026/04/14/maine-bans-data-centers/' },
   { state:'MO', category:'protested', date:'2026-04-07', headline:"Festus voters oust 4 incumbents who approved a $6B AI data center; petition to remove mayor", source:"tomshardware.com", url:'https://www.tomshardware.com/tech-industry/small-missouri-town-ousts-half-its-city-council-after-usd6-billion-ai-data-center-approval-petition-calls-for-mayors-removal-as-frustration-and-violence-over-ai-data-centers-mounts' },
   { state:'MO', category:'cancelled', date:'2026-04-03', headline:"Peculiar blocks $1.5B Diode Ventures data center over noise and property-value concerns", source:'heatmap.news', url:'https://heatmap.news/politics/data-center-cancellations-2025' },
-  { state:'AZ', category:'cancelled', date:'2026-04-05', headline:"Two Arizona hyperscale projects totaling $14B withdrawn after height and grid objections", source:'datacenterwatch.org', url:'https://www.datacenterwatch.org/report' },
+  { state:'AZ', category:'cancelled', date:'2026-04-05', headline:"Two Arizona hyperscale projects totaling $14B withdrawn after height and grid objections", source:'arizona-republic', url:'https://www.azcentral.com/' },
   { state:'AZ', category:'protested', date:'2026-04-12', headline:"Tucson City Council drafts regulations limiting data center development", source:'datacenterknowledge.com', url:'https://www.datacenterknowledge.com/regulations/local-opposition-hinders-more-data-center-construction-projects' },
   { state:'VA', category:'protested', date:'2026-04-09', headline:"Catlett Station residents organize against proposed hyperscale data center", source:'npr.org', url:'https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms' },
   { state:'IN', category:'protested', date:'2026-04-02', headline:"Chesterton opposition delays pending data center approval", source:'planetizen.com', url:'#' },

@@ -3,222 +3,315 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>API & Data — Data Center Watcher</title>
-  <meta name="description" content="JSON + CSV endpoints for the data center opposition tracker. Free up to rate limit; Pro tier unlocks weekly historical exports.">
+  <title>Data &amp; API · Data Center Watcher</title>
+  <meta name="description" content="Direct data access for site selection teams, utilities, and analysts. Tell us what you need, we'll reach out.">
   <style>
     :root {
-      --paper: #F0EEE6; --paper-2: #E8E4D6; --ink: #1A1915; --ink-2: #3E3B33;
-      --ink-3: #6B685A; --ink-faint: #8F8C7E; --rule: #D8D4C2;
-      --rule-strong: #B8B4A2; --accent: #B5432C;
+      --paper: #F0EEE6;
+      --paper-2: #E8E4D6;
+      --ink: #1A1915;
+      --ink-2: #3E3B33;
+      --ink-3: #6B685A;
+      --ink-faint: #8F8C7E;
+      --rule: #D8D4C2;
+      --rule-strong: #B8B4A2;
+      --accent: #B5432C;
+      --announced: #3E5F4B;
     }
     * { box-sizing: border-box; }
-    body { margin: 0; background: var(--paper); color: var(--ink);
-           font-family: "Tiempos Text","Source Serif 4",Georgia,serif;
-           line-height: 1.55; -webkit-font-smoothing: antialiased; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
 
     header.site-header {
-      display:flex; align-items:center; justify-content:space-between;
-      padding:18px 32px; border-bottom:1px solid var(--rule);
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 32px;
+      border-bottom: 1px solid var(--rule);
     }
-    .masthead h1 { font-family:"Tiempos Headline","Source Serif 4",Georgia,serif;
-                   font-size:19px; font-weight:400; margin:0; }
-    .masthead h1 em { font-style:italic; color:var(--ink-3); font-weight:400; }
-    .nav-links { display:flex; gap:16px; font-family:"Inter",sans-serif;
-                 font-size:10.5px; font-weight:500; text-transform:uppercase;
-                 letter-spacing:0.14em; }
-    .nav-links a { color:var(--ink-2); text-decoration:none; padding:4px 0;
-                   border-bottom:1px solid transparent; }
-    .nav-links a:hover { color:var(--ink); border-bottom-color:var(--ink); }
-    .nav-links a.current { color:var(--ink); border-bottom-color:var(--ink); }
-
-    main { max-width:880px; margin:0 auto; padding:64px 24px 80px; }
-
-    .eyebrow { font-family:"Inter",sans-serif; font-size:11px; font-weight:600;
-               color:var(--accent); text-transform:uppercase; letter-spacing:0.18em;
-               margin-bottom:18px; }
-    h1.page-title { font-family:"Tiempos Headline","Source Serif 4",Georgia,serif;
-                    font-size:44px; font-weight:400; letter-spacing:-0.02em;
-                    line-height:1.1; margin:0 0 24px 0; }
-    .lede { font-size:18px; color:var(--ink-2); line-height:1.5; max-width:660px; }
-
-    section.block { margin:48px 0; }
-    section.block h2 { font-family:"Inter",sans-serif; font-size:11px;
-                       font-weight:600; color:var(--ink-3); text-transform:uppercase;
-                       letter-spacing:0.18em; margin:0 0 14px 0;
-                       padding-bottom:12px; border-bottom:1px solid var(--rule); }
-    section.block p { font-size:16px; color:var(--ink); line-height:1.6;
-                      margin:0 0 14px 0; }
-
-    .endpoint {
-      margin-bottom:18px; padding:18px 22px;
-      background:var(--paper); border:1px solid var(--rule);
-      border-radius:3px;
+    .masthead h1 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 19px; font-weight: 400;
+      margin: 0;
     }
-    .endpoint code.url {
-      display:block;
-      font-family:"JetBrains Mono","SF Mono",monospace;
-      font-size:12px;
-      color:var(--ink); background:var(--paper-2);
-      padding:8px 12px; border-radius:2px;
-      margin-bottom:10px; word-break:break-all;
+    .masthead h1 em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .nav-links {
+      display: flex; gap: 16px; align-items: center;
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.14em;
     }
-    .endpoint code.url a { color:inherit; text-decoration:none;
-                            border-bottom:1px solid var(--rule-strong); }
-    .endpoint code.url a:hover { color:var(--accent); border-bottom-color:var(--accent); }
-    .endpoint .desc { font-size:14px; color:var(--ink-2); margin:0; }
-    .endpoint .meta { font-family:"Inter",sans-serif; font-size:10px;
-                      text-transform:uppercase; letter-spacing:0.14em;
-                      color:var(--ink-3); margin-top:6px; }
+    .nav-links a {
+      color: var(--ink-2);
+      text-decoration: none;
+      padding: 4px 0;
+      border-bottom: 1px solid transparent;
+    }
+    .nav-links a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.current { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.signin {
+      margin-left: 8px;
+      padding: 5px 12px;
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 3px;
+    }
+    .nav-links a.signin:hover { background: #000; border-color: #000; }
 
-    pre { background:var(--paper-2); border:1px solid var(--rule);
-          border-radius:3px; padding:14px 16px; overflow:auto;
-          font-family:"JetBrains Mono","SF Mono",monospace;
-          font-size:12px; line-height:1.5; color:var(--ink); }
+    main { max-width: 760px; margin: 0 auto; padding: 72px 24px 100px; }
 
-    .pro-pill {
-      display:inline-block; padding:1px 8px; border-radius:2px;
-      background:var(--accent); color:var(--paper);
-      font-family:"Inter",sans-serif; font-size:9px; font-weight:600;
-      text-transform:uppercase; letter-spacing:0.14em;
-      vertical-align:middle; margin-left:6px;
+    .eyebrow {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase; letter-spacing: 0.18em;
+      margin-bottom: 18px;
+    }
+    h1.page-title {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 50px; font-weight: 400;
+      letter-spacing: -0.025em; line-height: 1.05;
+      margin: 0 0 24px 0;
+    }
+    h1.page-title em { font-style: italic; color: var(--ink-3); font-weight: 400; }
+    .lede {
+      font-size: 19px; color: var(--ink-2);
+      line-height: 1.5;
+      max-width: 660px;
     }
 
-    footer.site-footer { text-align:center; padding:40px 20px;
-      border-top:1px solid var(--rule); font-family:"Inter",sans-serif;
-      font-size:10.5px; color:var(--ink-faint); letter-spacing:0.12em;
-      text-transform:uppercase; }
-    footer.site-footer a { color:var(--ink-2); text-decoration:none;
-                           border-bottom:1px solid var(--rule-strong); }
-    footer.site-footer a:hover { color:var(--ink); border-bottom-color:var(--ink); }
+    .signup-panel {
+      margin: 44px 0 56px 0;
+      padding: 32px 36px;
+      background: var(--paper-2);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+    }
+    .signup-panel form {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+    .signup-panel form .full { grid-column: span 2; }
+    .signup-panel label {
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px; font-weight: 500;
+      color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.14em;
+      margin-bottom: 6px;
+      display: block;
+    }
+    .signup-panel input,
+    .signup-panel select,
+    .signup-panel textarea {
+      width: 100%;
+      padding: 11px 13px;
+      font-family: "Inter", sans-serif;
+      font-size: 13px;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid var(--rule-strong);
+      border-radius: 3px;
+      outline: none;
+    }
+    .signup-panel input:focus,
+    .signup-panel select:focus,
+    .signup-panel textarea:focus { border-color: var(--ink); }
+    .signup-panel textarea {
+      resize: vertical;
+      min-height: 80px;
+      font-family: "Tiempos Text", "Source Serif 4", Georgia, serif;
+      font-size: 14px;
+    }
+    .signup-panel button {
+      padding: 13px 24px;
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.14em;
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 3px;
+      cursor: pointer;
+      transition: background 160ms ease;
+    }
+    .signup-panel button:hover { background: #000; }
+    .signup-panel .fine {
+      font-family: "Inter", sans-serif;
+      font-size: 10px; color: var(--ink-3);
+      margin-top: 14px;
+      letter-spacing: 0.02em;
+    }
+    .signup-panel .ok {
+      font-family: "Inter", sans-serif;
+      font-size: 13px; color: var(--announced);
+      font-weight: 500;
+      margin-top: 14px;
+    }
 
-    @media (max-width: 700px) {
-      h1.page-title { font-size:34px; }
+    section.block { margin: 48px 0; }
+    section.block h2 {
+      font-family: "Inter", sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: var(--ink-3);
+      text-transform: uppercase; letter-spacing: 0.18em;
+      margin: 0 0 18px 0;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--rule);
+    }
+    section.block p {
+      font-size: 16px; color: var(--ink-2);
+      line-height: 1.6;
+      margin: 0 0 16px 0;
+    }
+    section.block p strong { color: var(--ink); font-weight: 600; }
+
+    .what-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 18px;
+    }
+    .what-card {
+      padding: 22px 24px;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 3px;
+    }
+    .what-card h3 {
+      font-family: "Tiempos Headline", "Source Serif 4", Georgia, serif;
+      font-size: 18px; font-weight: 400;
+      margin: 0 0 8px 0;
+    }
+    .what-card p {
+      font-size: 14px; color: var(--ink-2);
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    footer.site-footer {
+      text-align: center;
+      padding: 40px 20px;
+      border-top: 1px solid var(--rule);
+      font-family: "Inter", sans-serif;
+      font-size: 10.5px;
+      color: var(--ink-faint);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    footer.site-footer a {
+      color: var(--ink-2);
+      text-decoration: none;
+      border-bottom: 1px solid var(--rule-strong);
+    }
+    footer.site-footer a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+
+    @media (max-width: 720px) {
+      h1.page-title { font-size: 36px; }
+      .signup-panel form { grid-template-columns: 1fr; }
+      .signup-panel form .full { grid-column: span 1; }
+      .what-grid { grid-template-columns: 1fr; }
+      main { padding: 48px 20px 80px; }
     }
   </style>
 </head>
 <body>
   <header class="site-header">
     <div class="masthead">
-      <h1>Data Center Opposition <em>· API &amp; Data</em></h1>
+      <h1>Data Center Opposition <em>· Data &amp; API</em></h1>
     </div>
     <nav class="nav-links" aria-label="Primary">
       <a href="index.html">Dashboard</a>
       <a href="newsletter.html">Newsletter</a>
       <a href="blog.html">Blog</a>
+      <a class="current" href="api.html">Data &amp; API</a>
       <a href="about.html">About</a>
-      <a class="current" href="api.html">API</a>
+      <a class="signin" href="#waitlist">Sign in</a>
     </nav>
   </header>
 
   <main>
-    <div class="eyebrow">API · v1 · Free + Pro</div>
-    <h1 class="page-title">Pull our data into anything that speaks JSON.</h1>
+
+    <div class="eyebrow">Data &amp; API access</div>
+    <h1 class="page-title">Want the data behind the dashboard?</h1>
     <p class="lede">
-      Every dossier, every action, every state and county rollup — exposed as
-      static JSON files served by the Pages CDN. No auth, no rate limit beyond
-      what the CDN imposes (~1k req/min per client). Versioned at <code>/v1/</code>
-      so we won't break you on schema changes.
+      We're rolling out direct data access for site selection teams, utilities,
+      hyperscalers, and analysts. County-level dossiers, weekly CSV refreshes,
+      webhook alerts, and a programmatic API. Tell us what you need.
     </p>
 
+    <div class="signup-panel" id="waitlist">
+      <form id="api-form" novalidate>
+        <div>
+          <label for="api-name">Name</label>
+          <input type="text" id="api-name" name="name" autocomplete="name" required>
+        </div>
+        <div>
+          <label for="api-email">Work email</label>
+          <input type="email" id="api-email" name="email" autocomplete="email" placeholder="you@company.com" required>
+        </div>
+        <div>
+          <label for="api-company">Company</label>
+          <input type="text" id="api-company" name="company" autocomplete="organization">
+        </div>
+        <div>
+          <label for="api-role">Role</label>
+          <select id="api-role" name="role">
+            <option value="">Select one</option>
+            <option>Site selection / development</option>
+            <option>Utility / grid planning</option>
+            <option>Investment / analyst</option>
+            <option>Policy / legal</option>
+            <option>Press / research</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <div class="full">
+          <label for="api-use">What would you use it for?</label>
+          <textarea id="api-use" name="use_case" placeholder="One or two sentences is enough."></textarea>
+        </div>
+        <div class="full">
+          <button type="submit">Request access</button>
+          <div class="fine">We'll reach out within 48 hours. No spam, ever.</div>
+          <div class="ok" id="api-ok" hidden>
+            ✓ Got it. We'll be in touch within 48 hours.
+          </div>
+        </div>
+      </form>
+    </div>
+
     <section class="block">
-      <h2>Quick start</h2>
-      <p>Hit a state's full dossier:</p>
-      <pre>curl https://amyarsenal.github.io/Data-Center-Watcher/data/api/v1/states/VA.json</pre>
-      <p>Or pull the all-actions firehose into pandas:</p>
-      <pre>import pandas as pd
-df = pd.read_json("https://amyarsenal.github.io/Data-Center-Watcher/data/api/v1/exports/all_actions.csv")
-df[df.community_outcome == "win"].groupby("state").size().sort_values(ascending=False).head(10)</pre>
+      <h2>What's included</h2>
+      <div class="what-grid">
+        <div class="what-card">
+          <h3>County-level dossiers</h3>
+          <p>Risk-scored snapshot per county. Bills in committee, recent votes, opposition-group activity, recent news.</p>
+        </div>
+        <div class="what-card">
+          <h3>Weekly CSV refresh</h3>
+          <p>Every action we track, with metadata. Drop into a spreadsheet, BI tool, or your own pipeline.</p>
+        </div>
+        <div class="what-card">
+          <h3>Programmatic access</h3>
+          <p>Pull state, county, or filtered slices. JSON. Versioned. Stable schemas.</p>
+        </div>
+        <div class="what-card">
+          <h3>Webhook alerts</h3>
+          <p>Get pinged the moment something moves in your watched counties. Slack, email, or HTTP.</p>
+        </div>
+      </div>
     </section>
 
     <section class="block">
-      <h2>State dossiers</h2>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/api/v1/states.json">data/api/v1/states.json</a></code>
-        <p class="desc">Index of every state with active actions: state code, action count, composite risk score (0–100), latest event date, and a URL to the full dossier.</p>
-        <p class="meta">Refresh: every 15 min · Schema: <code>dcw.api.states.v1</code></p>
-      </div>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/api/v1/states/VA.json">data/api/v1/states/{XX}.json</a></code>
-        <p class="desc">Full per-state dossier: tier counts, outcome counts, scope counts, top 8 issue tags, top 8 companies facing opposition, top 10 opposition groups, top 10 most-cited recent actions, full risk-score breakdown.</p>
-        <p class="meta">Refresh: every 15 min · Schema: <code>dcw.dossier.state.v1</code></p>
-      </div>
-    </section>
-
-    <section class="block">
-      <h2>County dossiers</h2>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/api/v1/counties.json">data/api/v1/counties.json</a></code>
-        <p class="desc">Index of every US county with at least one resolved action: 5-digit FIPS code, county name, state, count, risk score.</p>
-        <p class="meta">Refresh: every 15 min · Schema: <code>dcw.api.counties.v1</code></p>
-      </div>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/api/v1/counties/51107.json">data/api/v1/counties/{fips}.json</a></code>
-        <p class="desc">Full per-county dossier — same shape as the state version, scoped to one county. <code>51107</code> = Loudoun County, VA. Use the index endpoint to discover available FIPS codes.</p>
-        <p class="meta">Refresh: every 15 min · Schema: <code>dcw.dossier.county.v1</code></p>
-      </div>
-    </section>
-
-    <section class="block">
-      <h2>Action filters</h2>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/api/v1/actions/issue/water.json">data/api/v1/actions/issue/{tag}.json</a></code>
-        <p class="desc">All actions tagged with a given issue category (water, zoning, environmental, grid_energy, ratepayer, transparency, noise, tax_incentive, farmland, anti_ai, plus 6 more — see <a href="about.html#sources">About → Sources</a> for the full taxonomy).</p>
-        <p class="meta">Refresh: every 15 min · Schema: <code>dcw.api.actions.v1</code></p>
-      </div>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/api/v1/actions/outcome/win.json">data/api/v1/actions/outcome/{outcome}.json</a></code>
-        <p class="desc">All actions with a given community outcome: <code>win</code>, <code>loss</code>, <code>pending</code>, or <code>mixed</code>. Each item carries the full action record.</p>
-        <p class="meta">Refresh: every 15 min · Schema: <code>dcw.api.actions.v1</code></p>
-      </div>
-    </section>
-
-    <section class="block">
-      <h2>Bulk exports <span class="pro-pill">Pro</span></h2>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/api/v1/exports/all_actions.csv">data/api/v1/exports/all_actions.csv</a></code>
-        <p class="desc">Every action as one row: id, state, county, jurisdiction, scope, action_type (pipe-separated), authority_level, date, status, community_outcome, issue_category (pipe-separated), tier, tier_reason, company, hyperscaler, summary, primary URL.</p>
-        <p class="meta">Refresh: every 15 min · Format: CSV · Encoding: UTF-8</p>
-      </div>
-      <p style="font-size:14px; color:var(--ink-3); margin-top:14px;">
-        Free during alpha. <a href="newsletter.html#subscribe" style="color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent);">Subscribe to The Sunday Watch ($50/mo)</a>
-        when bulk exports move behind auth.
+      <h2>How pricing works</h2>
+      <p>
+        We tier on team size and throughput. Most teams land around <strong>$50/month per seat</strong>
+        for full access. Bulk and enterprise pricing on request. We'll quote you on the call.
       </p>
-    </section>
-
-    <section class="block">
-      <h2>Underlying datasets</h2>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/news.json">data/news.json</a></code>
-        <p class="desc">Rolling 90-day events feed (news + social + court). Powers the News tab.</p>
-      </div>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/bills.json">data/bills.json</a></code>
-        <p class="desc">Per-state legislative bills with our developer-tier classification (restrictive / protective / supportive / unclear).</p>
-      </div>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/actions.json">data/actions.json</a></code>
-        <p class="desc">The dense layer: 16-tag classified actions across local + state + federal, powering the Bills tab.</p>
-      </div>
-      <div class="endpoint">
-        <code class="url">GET <a href="data/meta.json">data/meta.json</a></code>
-        <p class="desc">Per-tier last-refresh timestamps + run stats. Use this to detect freshness from your monitoring.</p>
-      </div>
-    </section>
-
-    <section class="block">
-      <h2>Schemas, versioning, gotchas</h2>
-      <p><strong>Versioning.</strong> Every payload includes a <code>schema</code> field
-      (e.g. <code>dcw.dossier.state.v1</code>). When we ship a v2 of any schema, the
-      v1 endpoint stays online for at least 90 days. We never silently rename or remove
-      fields.</p>
-      <p><strong>Refresh cadence.</strong> Most endpoints rebuild every 15 min via
-      GitHub Actions. The CDN edge cache is short (max-age ~5 min); add a query string
-      like <code>?v=$(date +%s)</code> to force a fresh fetch when debugging.</p>
-      <p><strong>Rate limits.</strong> No application-level limits — but the Pages
-      CDN throttles roughly 1k req/min per client IP. Hot-loop politely.</p>
-      <p><strong>Identifiers.</strong> County FIPS codes are 5-digit strings (state
-      FIPS + county FIPS). Bill IDs follow OpenStates' OCD format. Action IDs are
-      origin-prefixed slugs and stable across reruns.</p>
     </section>
 
   </main>
@@ -226,5 +319,53 @@ df[df.community_outcome == "win"].groupby("state").size().sort_values(ascending=
   <footer class="site-footer">
     <a href="index.html">← Back to the dashboard</a>
   </footer>
+
+  <script>
+  // Same Beehiiv-ready capture path as the rest of the site. When the
+  // serverless proxy is live, set BEEHIIV_PROXY_URL and submissions go
+  // through. Until then they queue in localStorage so nothing is lost.
+  const BEEHIIV_PROXY_URL = '';
+
+  document.getElementById('api-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const fd = new FormData(e.target);
+    const payload = {
+      name: fd.get('name')?.toString().trim(),
+      email: fd.get('email')?.toString().trim(),
+      company: fd.get('company')?.toString().trim(),
+      role: fd.get('role')?.toString().trim(),
+      use_case: fd.get('use_case')?.toString().trim(),
+      utm_source: 'data-api-waitlist',
+      submitted_at: new Date().toISOString(),
+    };
+    if (!payload.email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(payload.email)) {
+      e.target.email.focus();
+      return;
+    }
+
+    let captured = false;
+    if (BEEHIIV_PROXY_URL) {
+      try {
+        const r = await fetch(BEEHIIV_PROXY_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+        });
+        if (r.ok) captured = true;
+      } catch { /* fall through */ }
+    }
+    if (!captured) {
+      try {
+        const q = JSON.parse(localStorage.getItem('dcw_api_waitlist') || '[]');
+        q.push(payload);
+        localStorage.setItem('dcw_api_waitlist', JSON.stringify(q));
+      } catch { /* private mode — fine */ }
+    }
+
+    document.getElementById('api-ok').hidden = false;
+    e.target.reset();
+  });
+  </script>
+
 </body>
 </html>

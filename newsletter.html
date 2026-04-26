@@ -57,6 +57,15 @@
     }
     .nav-links a:hover { color: var(--ink); border-bottom-color: var(--ink); }
     .nav-links a.current { color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.signin {
+      margin-left: 8px;
+      padding: 5px 12px;
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 3px;
+    }
+    .nav-links a.signin:hover { background: #000; border-color: #000; }
 
     main { max-width: 860px; margin: 0 auto; padding: 72px 24px 100px; }
 
@@ -337,8 +346,9 @@
       <a href="index.html">Dashboard</a>
       <a class="current" href="newsletter.html">Newsletter</a>
       <a href="blog.html">Blog</a>
-      <a href="api.html">API</a>
+      <a href="api.html">Data &amp; API</a>
       <a href="about.html">About</a>
+      <a class="signin" href="api.html#waitlist">Sign in</a>
     </nav>
   </header>
 

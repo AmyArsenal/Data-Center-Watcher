@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>About — Data Center Watcher</title>
-  <meta name="description" content="What we track, why, and how. Data sources, methodology, and contact.">
+  <title>About · Data Center Watcher</title>
+  <meta name="description" content="The power side of data centers is well-covered. The social side isn't. We built the missing half.">
   <style>
     :root {
       --paper: #F0EEE6;
@@ -50,6 +50,15 @@
     }
     .nav-links a:hover  { color: var(--ink); border-bottom-color: var(--ink); }
     .nav-links a.current{ color: var(--ink); border-bottom-color: var(--ink); }
+    .nav-links a.signin {
+      margin-left: 8px;
+      padding: 5px 12px;
+      color: var(--paper);
+      background: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 3px;
+    }
+    .nav-links a.signin:hover { background: #000; border-color: #000; }
 
     main { max-width: 720px; margin: 0 auto; padding: 64px 24px 80px; }
 
@@ -196,179 +205,57 @@
       <a href="index.html">Dashboard</a>
       <a href="newsletter.html">Newsletter</a>
       <a href="blog.html">Blog</a>
-      <a href="api.html">API</a>
+      <a href="api.html">Data &amp; API</a>
       <a class="current" href="about.html">About</a>
+      <a class="signin" href="api.html#waitlist">Sign in</a>
     </nav>
   </header>
 
   <main>
     <div class="eyebrow">About</div>
-    <h1 class="page-title">What we do, and why.</h1>
+    <h1 class="page-title">The power side is covered. The social side isn't.</h1>
     <p class="lede">
-      Data Center Watcher is a real-time tracker of US data-center
-      opposition — bills, news, organized community resistance, court
-      rulings, and prediction-market signals — built for developers,
-      investors, utilities, and policy teams that need to know what's
-      happening before it shows up in trade press.
+      Substations, PPAs, interconnection queues. The sell side has tracked all
+      of it for two decades. What no one tracks: the city councils, the county
+      boards, the recall petitions, the ballot drives. That's the half killing
+      projects in 2026, and that's what we built.
     </p>
 
     <section class="block">
-      <h2>Mission</h2>
+      <h2>What we built</h2>
       <p>
-        Roughly half of US data-center capacity planned for 2026 is delayed
-        or cancelled. Reuters, NPR, and Bloomberg have all covered the
-        top-line story. <strong>What's missing is the per-state, per-county,
-        weekly-resolution view of where the resistance is moving and what
-        comes next.</strong>
+        Roughly half the US data center capacity planned for 2026 is delayed
+        or cancelled. Reuters and Bloomberg have the headline.
+        <strong>Nobody has the per-county, per-week, per-bill view that
+        actually tells you which sites survive.</strong>
       </p>
       <p>
-        We exist to give that view to anyone whose job depends on
-        understanding it — and to make the underlying data accessible
-        enough that journalists, academics, and activists can use it too.
+        Every county vote. Every state bill. Every recall, ballot drive,
+        and lawsuit. Refreshed every fifteen minutes. Mapped, ranked, searchable.
       </p>
     </section>
 
     <section class="block">
-      <h2>How it works</h2>
+      <h2>Why it matters</h2>
       <p>
-        Three independent pipelines run continuously:
+        A single missed county moratorium can void $50M of land options and
+        18 months of permitting work. The signal exists weeks before it
+        reaches the trade press. Until now, the only way to catch it was to
+        staff a research analyst per state.
       </p>
       <p>
-        <strong>Fast tier</strong> — every 15 minutes, GitHub Actions pulls
-        from GDELT (global news), Reddit JSON (community discussions),
-        eight outlet RSS feeds (Data Center Dynamics, Utility Dive, Ars
-        Technica, RTO Insider, etc.), and CourtListener (legal filings).
-        Results are cross-source dedup'd, classified by state and category,
-        and published to <code>data/news.json</code>.
-      </p>
-      <p>
-        <strong>Bills tier</strong> — every hour, GitHub Actions queries
-        OpenStates' v3 REST API across all 50 states for new
-        DC-related legislation. Each bill is classified into one of four
-        tiers (restrictive, protective, supportive, unclear) using a
-        rule-based keyword classifier. Published to
-        <code>data/bills.json</code>.
-      </p>
-      <p>
-        <strong>Deep tier</strong> — once daily, a laptop-local script
-        runs the open-source <em>last30days</em> skill against social
-        platforms (X, YouTube, TikTok, Instagram, Threads, Polymarket,
-        HackerNews) and ingests the results into the same database.
-        Published to <code>data/social_events.json</code>.
-      </p>
-      <p>
-        All three pipelines feed a single SQLite store with cross-source
-        deduplication via URL canonicalization plus content hashing — so
-        when 12 outlets cover the same Maine moratorium, it appears as
-        one event with a list of 12 sources, not 12 duplicate cards.
+        We do that work. You read the dashboard for free. Pro subscribers
+        get the weekly brief, county dossiers, and the data behind the map.
       </p>
     </section>
 
-    <section class="block" id="sources">
-      <h2>Data sources &amp; attribution</h2>
-
-      <p style="font-size:15px;color:var(--ink);margin:0 0 22px 0;">
-        Every event on the dashboard traces back to a public source. We
-        normalize, classify, and dedupe — but the underlying record is
-        always credited and linked on the card itself. Below is the full
-        list of feeds we ingest, what they cover, and how to find them
-        directly.
-      </p>
-
-      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
-        Legislative &amp; legal sources
-      </h3>
-      <table class="source-table">
-        <thead>
-          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
-        </thead>
-        <tbody>
-          <tr><td>OpenStates</td><td>Bills + actions across all 50 state legislatures</td><td>1 hr</td><td><a href="https://openstates.org/" target="_blank" rel="noopener">openstates.org</a></td></tr>
-          <tr><td>CourtListener / Free Law Project</td><td>Federal &amp; state court filings, opinions, dockets</td><td>15 min</td><td><a href="https://www.courtlistener.com/" target="_blank" rel="noopener">courtlistener.com</a></td></tr>
-        </tbody>
-      </table>
-
-      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
-        News &amp; press
-      </h3>
-      <table class="source-table">
-        <thead>
-          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
-        </thead>
-        <tbody>
-          <tr><td>GDELT Project</td><td>Global news article index, multilingual</td><td>15 min</td><td><a href="https://www.gdeltproject.org/" target="_blank" rel="noopener">gdeltproject.org</a></td></tr>
-          <tr><td>Data Center Dynamics</td><td>Industry trade publication</td><td>15 min</td><td><a href="https://www.datacenterdynamics.com/" target="_blank" rel="noopener">datacenterdynamics.com</a></td></tr>
-          <tr><td>Data Center Knowledge</td><td>Industry trade publication</td><td>15 min</td><td><a href="https://www.datacenterknowledge.com/" target="_blank" rel="noopener">datacenterknowledge.com</a></td></tr>
-          <tr><td>Utility Dive</td><td>Energy industry trade press</td><td>15 min</td><td><a href="https://www.utilitydive.com/" target="_blank" rel="noopener">utilitydive.com</a></td></tr>
-          <tr><td>Ars Technica</td><td>Tech press</td><td>15 min</td><td><a href="https://arstechnica.com/" target="_blank" rel="noopener">arstechnica.com</a></td></tr>
-          <tr><td>RTO Insider</td><td>Wholesale electricity / RTO trade press</td><td>15 min</td><td><a href="https://www.rtoinsider.com/" target="_blank" rel="noopener">rtoinsider.com</a></td></tr>
-          <tr><td>Latitude Media</td><td>Energy transition coverage</td><td>15 min</td><td><a href="https://www.latitudemedia.com/" target="_blank" rel="noopener">latitudemedia.com</a></td></tr>
-          <tr><td>Canary Media</td><td>Climate &amp; clean-energy reporting</td><td>15 min</td><td><a href="https://www.canarymedia.com/" target="_blank" rel="noopener">canarymedia.com</a></td></tr>
-        </tbody>
-      </table>
-
-      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
-        Community &amp; social
-      </h3>
-      <table class="source-table">
-        <thead>
-          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
-        </thead>
-        <tbody>
-          <tr><td>Reddit</td><td>Public JSON feed of subreddit + keyword queries</td><td>15 min</td><td><a href="https://www.reddit.com/" target="_blank" rel="noopener">reddit.com</a></td></tr>
-          <tr><td>X (formerly Twitter)</td><td>Posts via authenticated browser session</td><td>1 day</td><td><a href="https://x.com/" target="_blank" rel="noopener">x.com</a></td></tr>
-          <tr><td>YouTube</td><td>Public Data API v3 + open transcripts</td><td>1 day</td><td><a href="https://www.youtube.com/" target="_blank" rel="noopener">youtube.com</a></td></tr>
-          <tr><td>TikTok</td><td>Public videos and engagement counts</td><td>1 day</td><td><a href="https://www.tiktok.com/" target="_blank" rel="noopener">tiktok.com</a></td></tr>
-          <tr><td>Instagram Reels</td><td>Public posts and engagement counts</td><td>1 day</td><td><a href="https://www.instagram.com/" target="_blank" rel="noopener">instagram.com</a></td></tr>
-          <tr><td>Threads</td><td>Public posts</td><td>1 day</td><td><a href="https://www.threads.net/" target="_blank" rel="noopener">threads.net</a></td></tr>
-        </tbody>
-      </table>
-
-      <h3 style="font-family:Inter,sans-serif;font-size:11px;font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:0.16em;margin:28px 0 12px 0;">
-        Markets
-      </h3>
-      <table class="source-table">
-        <thead>
-          <tr><th>Source</th><th>What we get</th><th>Cadence</th><th>Link</th></tr>
-        </thead>
-        <tbody>
-          <tr><td>Polymarket</td><td>Prediction-market prices, volume, movement on DC-related questions</td><td>1 day</td><td><a href="https://polymarket.com/" target="_blank" rel="noopener">polymarket.com</a></td></tr>
-        </tbody>
-      </table>
-
-      <p style="margin-top:24px;font-size:14px;color:var(--ink-3);line-height:1.55;">
-        <strong style="color:var(--ink)">Methodology.</strong>
-        News alone is a lagging indicator — reporters write after the
-        council vote. Reddit, X, TikTok, and Instagram surface earlier
-        signals. Polymarket prices are forward-looking. Bills (via
-        OpenStates) and court filings (via CourtListener) are the
-        load-bearing legal signal. Cross-source deduplication via URL
-        canonicalization plus content hashing means a story covered by
-        12 outlets appears as a single event tagged with all 12 sources,
-        not 12 duplicate cards.
-      </p>
-
-      <p style="margin-top:14px;font-size:14px;color:var(--ink-3);line-height:1.55;">
-        <strong style="color:var(--ink)">Vocabulary.</strong>
-        Our 16-tag issue taxonomy (zoning, water, environmental,
-        community impact, grid/energy, transparency, ratepayer, noise,
-        tax/incentive, farmland, traffic, design standards, contract
-        guarantees, anti-AI, air quality, property values) is adopted
-        from
-        <a href="https://datacentertracker.org/" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent);">datacentertracker.org</a>
-        — a separate, independent project we admire. Same vocabulary
-        means our datasets are interoperable; our pipeline is fully our
-        own.
-      </p>
-
-      <p style="margin-top:14px;font-size:14px;color:var(--ink-3);line-height:1.55;">
-        <strong style="color:var(--ink)">Inspiration &amp; thanks.</strong>
-        We owe credit to the prior work of
-        <a href="https://www.datacenterwatch.org/" target="_blank" rel="noopener">Data Center Watch</a>,
-        <a href="https://datacentertracker.org/" target="_blank" rel="noopener">Data Center Tracker</a>,
-        and the journalists at Heatmap, Utility Dive, RTO Insider, NPR,
-        Reuters, and dozens of local newsrooms whose reporting is the
-        raw material for what shows up on this dashboard.
+    <section class="block">
+      <h2>Who reads us</h2>
+      <p>
+        Site selection teams, utility planners, REIT and hyperscaler
+        analysts, statehouse policy and legal teams, journalists, and the
+        community organizers running the votes themselves. We treat them
+        all the same. Same dashboard, same data, same price.
       </p>
     </section>
 
@@ -379,21 +266,20 @@
           <div class="t-name">Free</div>
           <div class="t-price">$0</div>
           <ul>
-            <li>Live dashboard (state-level, all tabs)</li>
+            <li>Live dashboard, all three tabs</li>
             <li>Sample weekly brief</li>
-            <li>Public JSON downloads</li>
-            <li>Rate-limited API access</li>
+            <li>State-level data</li>
           </ul>
         </div>
         <div class="tier">
           <div class="t-name">Pro</div>
           <div class="t-price">$50 <em>/ month</em></div>
           <ul>
-            <li>Weekly Sunday Watch newsletter</li>
+            <li>Weekly Sunday brief</li>
             <li>County-level dossiers</li>
-            <li>Weekly-refreshed risk-ranked CSV</li>
+            <li>Risk-ranked CSV, weekly</li>
             <li>Email alerts on saved geos</li>
-            <li>Full 5-year historical access</li>
+            <li>5-year historical access</li>
           </ul>
         </div>
         <div class="tier">
@@ -402,19 +288,18 @@
           <ul>
             <li>5 seats</li>
             <li>Slack webhooks on bill movement</li>
-            <li>Custom geo lists with shared workspace</li>
-            <li>Weekly executive brief by email</li>
+            <li>Shared geo watchlists</li>
+            <li>Weekly executive brief</li>
           </ul>
         </div>
         <div class="tier">
           <div class="t-name">Enterprise</div>
           <div class="t-price">Custom</div>
           <ul>
-            <li>Unlimited seats &amp; API throughput</li>
+            <li>Unlimited seats and throughput</li>
             <li>Real-time webhooks</li>
             <li>White-label embeddable widgets</li>
             <li>Quarterly custom analyst reports</li>
-            <li>Dedicated Slack channel</li>
           </ul>
         </div>
       </div>
@@ -424,41 +309,25 @@
       <h2>What we don't do</h2>
       <p>
         We don't take political sides. Hyperscalers, utilities, activist
-        coalitions, hedge funds with both long and short DC exposure are
-        all welcome subscribers. Our job is to surface the signal
-        accurately. Yours is to act on it.
+        coalitions, hedge funds long and short on data center exposure all
+        subscribe. Our job is to surface the signal. Yours is to act on it.
       </p>
       <p>
-        We don't sell user-organizing data to corporate clients, and we
-        don't sell corporate-strategy data to organizers. The dashboard
-        is the same dashboard for everyone.
+        We don't sell organizing data to corporate clients or
+        corporate-strategy data to organizers. The dashboard is the same
+        for everyone.
       </p>
       <p>
-        We don't publish AI-generated copy without a human edit. The
-        weekly brief is drafted with help from Claude Haiku for entity
-        extraction and synthesis, then a human editor sets the framing,
-        verifies citations, and signs every issue.
-      </p>
-    </section>
-
-    <section class="block">
-      <h2>Open source</h2>
-      <p>
-        The scrapers, classifiers, and the dashboard frontend are all
-        public on
-        <a href="https://github.com/AmyArsenal/Data-Center-Watcher" style="color:var(--accent);text-decoration:none;border-bottom:1px solid var(--accent);">GitHub</a>.
-        We borrow from OpenStates (bill data), GDELT (news), and the
-        open-source <em>last30days</em> skill (social aggregation) — all
-        properly attributed, all citing back to the originating source on
-        every event.
+        We don't publish AI-written copy. Everything you read here was
+        written by a human, with citations.
       </p>
     </section>
 
     <div class="contact">
       <h3>Get in touch</h3>
       <p>
-        Press, partnership, custom data, story tips, corrections —
-        all welcome.
+        Press, partnership, custom data, story tips, corrections.
+        All welcome.
       </p>
       <p>
         <a href="mailto:hello@datacenterwatcher.io">hello@datacenterwatcher.io</a>

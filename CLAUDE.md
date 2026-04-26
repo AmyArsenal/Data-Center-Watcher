@@ -12,7 +12,9 @@ site-screening product.
 
 A single-page dashboard with **three primary tabs** in the header (News /
 Bills / Social Media) plus four standalone secondary pages (newsletter.html
-/ blog.html / api.html / about.html). Each tab answers one question:
+/ blog.html / api.html / about.html). The header also carries a **Sign in**
+button (currently a link to `api.html#waitlist`; flips to a real Clerk widget
+when auth lands — see roadmap item #1). Each tab answers one question:
 
 | Tab | Answers | Powered by |
 |---|---|---|
@@ -92,9 +94,14 @@ Data-Center-Watcher/
 ├── blog.html                     hash-routed mini-SPA: index + 4 essays
 │                                 (Ohio ballot, Kansas counties, Maine LD 307,
 │                                  Dominion/NoVa)
-├── api.html                      static-API documentation: endpoints, schemas,
-│                                 quickstart, pricing tiers, FAQ
-├── about.html                    mission · methodology · sources & attribution
+├── api.html                      "Data & API" waitlist page — captures
+│                                 name/email/company/role/use-case for the
+│                                 paid data tier. NO public schema docs (we
+│                                 deliberately stripped them — positioning
+│                                 the data as a product, not an open API)
+├── about.html                    "Power side is covered. Social side isn't."
+│                                 framing + pricing + contact. NO sources
+│                                 table (intentionally removed Apr 2026)
 ├── README.md                     user-facing project intro
 ├── CLAUDE.md                     this file
 ├── requirements.txt              requests + feedparser (prod deps)
@@ -474,11 +481,16 @@ Secrets to explicitly **not** chase:
     internal-only keys. Same applies to status chip text — say "Auto-updating"
     not "Fast tier", "Updating live news" not "Fetching GDELT".
 
-13. **Source attribution lives at `about.html#sources`** — full table per
-    source with cadence + direct link, plus methodology and a vocabulary credit
-    to datacentertracker.org. Footer credit on every page is just
-    "Updated continuously · Sources & methodology" linking there. Don't
-    re-introduce inline source lists on other pages.
+13. **No source-attribution surface anywhere on the marketing pages.** As of
+    Apr 2026, the about.html sources table, methodology paragraph,
+    datacentertracker.org credit, and the "Open source" GitHub credit are all
+    REMOVED. Index footer no longer links to "Sources & methodology". Product
+    positioning shifted from "we aggregate from these sources" to "we know the
+    social side of data center risk" — sources are an implementation detail,
+    not a sales surface. Per-card publisher pills (via `displaySource(e)`)
+    still show on individual events because they help users find the original
+    story, not because they brand the product. Don't reintroduce source tables
+    or aggregator credits on any user-facing page.
 
 14. **Subscribe dock REMOVED** (commit `38ac8cf`). Don't put it back — it was
     overlapping sidebar content in Bills mode. The replacement is the inline
@@ -509,6 +521,18 @@ Secrets to explicitly **not** chase:
 - **CSS:** paper/ink aesthetic. Never introduce emoji in UI chrome without
   explicit user approval — we learned this when the `📬 Weekly Brief` pill got
   called AI slop.
+- **Copy voice:** the user actively flags "AI slop" tone. Strict rules for any
+  user-facing prose (newsletter, about, blog, api, marketing copy):
+  - **Zero em dashes** in visible body. Use periods, commas, colons, or just
+    two sentences. (Em dashes in code/JS/CSS comments are fine.)
+  - Avoid triadic structures ("A. B. C." or "X, Y, and Z" lists of three).
+  - Avoid "Not just X, but Y", "concretely", "in plain English",
+    "load-bearing", "thread the needle", "calibrated", "what developers/
+    investors should read from this", "what we'll be tracking next".
+  - Short sentences. Direct claims. No hedging.
+  - No fake testimonials or anonymized quotes ("a developer told us...").
+  - When summarizing past events, use real verifiable items, not templated
+    placeholders ("Issue 15 covered Maine LD 307...").
 - **Tests:** `python3 scripts/tests/test_*.py` should be runnable standalone
   (no pytest required). Keep them fast (<100ms total).
 
@@ -537,11 +561,27 @@ Next unshipped phases, in priority order:
 6. **`/site-screening.html`** — 2-column dossier UI: filter by state/county →
    dossier card + CSV download + top citations + neighbor counties.
 7. **Beehiiv wire-up** — stand up the serverless proxy that
-   `BEEHIIV_PROXY_URL` (in index.html + newsletter.html) points at. Vercel
-   function or Cloudflare Worker, holds the private key, POSTs to
-   `/v2/publications/{PUB_ID}/subscriptions`. Both pages flip from
+   `BEEHIIV_PROXY_URL` (in index.html + newsletter.html + api.html) points at.
+   Vercel function or Cloudflare Worker, holds the private key, POSTs to
+   `/v2/publications/{PUB_ID}/subscriptions`. All three pages flip from
    localStorage to live capture the moment that URL is set — no other code
    changes required.
+
+  **Vercel + Clerk + Stripe migration plan (the "real product" path):**
+   1. Buy domain (~$12/yr) — `datacenterwatcher.com` if available.
+   2. Push current repo to Vercel via GitHub integration. Site goes live on
+      the new domain in ~10 min. GitHub Pages keeps working as fallback.
+   3. Add Clerk (`@clerk/clerk-js` from CDN, no Next.js required). Replace
+      the `.signin` link in nav with a Clerk SignIn button + UserMenu.
+      Clerk publishable key is safe to expose in HTML.
+   4. Stripe Checkout for $50 Pro / $499 Team. Webhook → Vercel function →
+      Clerk metadata.
+   5. Vercel Edge Middleware gates Pro endpoints (county dossiers, bulk CSV)
+      behind a Clerk session check.
+   6. Beehiiv proxy is part of the same Vercel deployment.
+
+   Estimated effort: 1 focused day for v1. Recurring cost at low scale ~$15/mo
+   (domain only — Vercel/Clerk/Stripe are free below their thresholds).
 8. **Stripe + Pro gating** — paid tier ($50/mo Pro per the live About page).
    Gates county-level dossiers + alerts + API.
 9. **Reddit OAuth** — unlocks Reddit in Actions.
