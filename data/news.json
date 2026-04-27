@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-04-27T18:18:37Z",
+  "generated_at": "2026-04-27T19:52:47Z",
   "window_days": 90,
-  "count": 165,
+  "count": 167,
   "items": [
+    {
+      "id": "gdelt-159a55cf724502a0",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Regulators reject proposal to have ratepayers share data center power plant costs",
+      "source_domain": "wispolitics.com",
+      "source_name": "wispolitics.com",
+      "url": "https://wispolitics.com/2026/regulators-reject-proposal-to-have-ratepayers-share-data-center-power-plant-costs",
+      "date": "2026-04-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-27 19:52:47",
+      "url_hash": "159a55cf724502a0",
+      "content_hash": "69274c46e77cd958",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-27T19:52:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5998523797d2bf7d",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Mills vetoes data center ban , backs $550M Jay redevelopment plan",
+      "source_domain": "mainebiz.biz",
+      "source_name": "mainebiz.biz",
+      "url": "https://mainebiz.biz/article/mills-vetoes-data-center-ban-backs-550m-jay-redevelopment-plan",
+      "date": "2026-04-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-27 19:52:47",
+      "url_hash": "5998523797d2bf7d",
+      "content_hash": "6fb513f7da895a8b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-27T19:52:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dck-222d736f405a2395",
       "state": "US",
@@ -32,7 +112,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-27T18:18:37Z",
+      "last_seen": "2026-04-27T19:52:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -71,7 +151,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-27T18:18:37Z",
+      "last_seen": "2026-04-27T19:52:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +230,7 @@
         "rss-dcd"
       ],
       "snippet": "Remains in support of a temporary moratorium",
-      "last_seen": "2026-04-27T18:18:37Z",
+      "last_seen": "2026-04-27T19:52:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1803,7 +1883,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Cancellations on builds quadrupled to 25 in 2025 from just six in 2024, according to Baird analyst Justin Hauke, as state governments mull moratoriums.",
-      "last_seen": "2026-04-27T18:18:37Z",
+      "last_seen": "2026-04-27T19:52:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4920,7 +5000,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-27T18:18:37Z",
+      "last_seen": "2026-04-27T19:52:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5083,7 +5163,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-27T18:18:37Z",
+      "last_seen": "2026-04-27T19:52:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5122,7 +5202,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-27T18:18:37Z",
+      "last_seen": "2026-04-27T19:52:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
