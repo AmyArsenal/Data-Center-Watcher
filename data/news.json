@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-04-27T10:04:15Z",
+  "generated_at": "2026-04-27T11:59:12Z",
   "window_days": 90,
-  "count": 161,
+  "count": 163,
   "items": [
+    {
+      "id": "gdelt-efca8086dcea4f07",
+      "state": "ME",
+      "city": null,
+      "category": "banned",
+      "headline": "Gov . Janet Mills vetoes moratorium on data center development in Maine",
+      "source_domain": "wbur.org",
+      "source_name": "wbur.org",
+      "url": "https://wbur.org/news/2026/04/27/maine-data-center-development-ban-vetoed-mills",
+      "date": "2026-04-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-27 11:59:12",
+      "url_hash": "efca8086dcea4f07",
+      "content_hash": "aaef7e485c5585b4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-27T11:59:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-a05d7aadcc8d1c57",
+      "state": "ME",
+      "city": null,
+      "category": "banned",
+      "headline": "Maine Governor vetoes bill proposing state-wide data center moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/maine-governor-vetoes-bill-proposing-state-wide-data-center-moratorium",
+      "date": "2026-04-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-27 11:59:12",
+      "url_hash": "a05d7aadcc8d1c57",
+      "content_hash": "96dcdfc3fa2ea41c",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Remains in support of a temporary moratorium",
+      "last_seen": "2026-04-27T11:59:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/maine-governor-vetoes-bill-proposing-state-wide-data-center-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-5721f428985abfba",
       "state": "ME",
@@ -1605,7 +1684,7 @@
         "rss-dcd"
       ],
       "snippet": "County officials prevent data centers from being added as a use category",
-      "last_seen": "2026-04-27T10:04:14Z",
+      "last_seen": "2026-04-27T11:59:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1644,7 +1723,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Cancellations on builds quadrupled to 25 in 2025 from just six in 2024, according to Baird analyst Justin Hauke, as state governments mull moratoriums.",
-      "last_seen": "2026-04-27T10:04:14Z",
+      "last_seen": "2026-04-27T11:59:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1683,7 +1762,7 @@
         "rss-dcd"
       ],
       "snippet": "The AUB presented last week the results of a national data center benchmarking exercise",
-      "last_seen": "2026-04-27T10:04:14Z",
+      "last_seen": "2026-04-27T11:59:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1722,7 +1801,7 @@
         "rss-dcd"
       ],
       "snippet": "Data centers are becoming controversial on the other side of the Atlantic",
-      "last_seen": "2026-04-27T10:04:14Z",
+      "last_seen": "2026-04-27T11:59:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4761,7 +4840,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-27T10:04:14Z",
+      "last_seen": "2026-04-27T11:59:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4924,7 +5003,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-27T10:04:14Z",
+      "last_seen": "2026-04-27T11:59:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4963,7 +5042,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-27T10:04:14Z",
+      "last_seen": "2026-04-27T11:59:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6345,18 +6424,18 @@
   "by_state": {
     "ME": {
       "state": "ME",
-      "count": 32,
+      "count": 34,
       "total_engagement": 35464,
       "categories": {
-        "banned": 27,
+        "banned": 29,
         "protested": 5
       },
       "platforms": {
-        "news": 11,
+        "news": 13,
         "reddit": 17,
         "x": 4
       },
-      "latest_date": "2026-04-26"
+      "latest_date": "2026-04-27"
     },
     "OH": {
       "state": "OH",

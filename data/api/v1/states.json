@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-04-27T10:04:15Z",
+  "generated_at": "2026-04-27T11:59:12Z",
   "states": [
     {
       "state": "AK",
@@ -284,16 +284,16 @@
     },
     {
       "state": "ME",
-      "count": 39,
-      "risk_score": 69.1,
+      "count": 41,
+      "risk_score": 69.2,
       "grade": "F",
-      "grade_score": 30.9,
-      "moratoriums": 22,
+      "grade_score": 30.8,
+      "moratoriums": 24,
       "approvals": 1,
-      "denials": 32,
+      "denials": 34,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-04-26",
+      "latest": "2026-04-27",
       "url": "data/dossiers/state-ME.json"
     },
     {

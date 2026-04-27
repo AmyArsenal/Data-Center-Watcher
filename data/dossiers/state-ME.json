@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-27T10:04:15Z",
+  "generated_at": "2026-04-27T11:59:12Z",
   "risk_score": {
-    "score": 69.1,
-    "tier": 35.0,
-    "engagement": 7.4,
+    "score": 69.2,
+    "tier": 35.2,
+    "engagement": 7.3,
     "recency": 20.0,
-    "multi_source": 1.8,
+    "multi_source": 1.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "F",
-    "score": 30.9,
+    "score": 30.8,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
-    "moratoriums": 22,
+    "moratoriums": 24,
     "approvals": 1,
-    "denials": 32,
+    "denials": 34,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 39,
+  "count": 41,
   "tier_counts": {
-    "restrictive": 32,
+    "restrictive": 34,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 32,
+    "win": 34,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
-    "local": 26,
-    "statewide": 13
+    "local": 27,
+    "statewide": 14
   },
   "issue_top": {
     "grid_energy": 9,
@@ -59,8 +59,26 @@
   ],
   "opposition_groups": [],
   "earliest": "2017-12-22",
-  "latest": "2026-04-26",
+  "latest": "2026-04-27",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-a05d7aadcc8d1c57-me",
+      "date": "2026-04-27",
+      "jurisdiction": "DCD",
+      "title": "Maine Governor vetoes bill proposing state-wide data center moratorium. Remains in support of a temporary moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/maine-governor-vetoes-bill-proposing-state-wide-data-center-moratorium"
+    },
+    {
+      "id": "news:gdelt-efca8086dcea4f07-me",
+      "date": "2026-04-27",
+      "jurisdiction": "wbur.org",
+      "title": "Gov . Janet Mills vetoes moratorium on data center development in Maine",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wbur.org/news/2026/04/27/maine-data-center-development-ban-vetoed-mills"
+    },
     {
       "id": "news:gdelt-8cd8ae48500b08b8-me",
       "date": "2026-04-26",
@@ -132,24 +150,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://reddit.com/r/BetterOffline/comments/1suxqkr/maine_gov_janet_mills_vetoes_ban_on_data_center"
-    },
-    {
-      "id": "social:reddit-27dda4821568efc4-me",
-      "date": "2026-04-25",
-      "jurisdiction": "r/thebulwark",
-      "title": "Maine Gov. Mills Ripped for Veto of Landmark AI Data Center Moratorium | Common Dreams",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/thebulwark/comments/1sux9p3/maine_gov_mills_ripped_for_veto_of_landmark_ai"
-    },
-    {
-      "id": "news:gdelt-19a6de3ecf2d6c50-me",
-      "date": "2026-04-25",
-      "jurisdiction": "pcmag.com",
-      "title": "Maine Governor Rejects Pause on New Data Centers in the State",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://pcmag.com/news/maine-falls-short-of-historic-pause-on-new-data-centers"
     }
   ]
 }
