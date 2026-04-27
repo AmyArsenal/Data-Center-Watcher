@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T15:26:48Z",
-  "count": 526,
+  "generated_at": "2026-04-27T18:18:37Z",
+  "count": 527,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -157,6 +157,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dck-222d736f405a2395-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-27",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Google’s Virgo Fabric Signals Shift in AI Network Design. A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters",
+      "sources": [
+        "https://datacenterknowledge.com/infrastructure/google-s-virgo-fabric-signals-shift-in-ai-network-design"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-27T18:18:37Z",
+      "first_seen": "2026-04-27T18:18:37Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-utilitydive-449891202d432a06-us",
@@ -25189,21 +25234,21 @@
     },
     "US": {
       "state": "US",
-      "count": 89,
+      "count": 90,
       "outcome_counts": {
-        "pending": 64,
+        "pending": 65,
         "win": 23,
         "loss": 2,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 87,
+        "restrictive": 88,
         "protective": 0,
         "supportive": 2,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 89,
+        "local": 90,
         "statewide": 0,
         "federal": 0
       },
