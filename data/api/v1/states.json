@@ -1,11 +1,11 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-04-26T23:23:33Z",
+  "generated_at": "2026-04-27T00:00:32Z",
   "states": [
     {
       "state": "AK",
       "count": 2,
-      "risk_score": 51.4,
+      "risk_score": 44.7,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
@@ -649,7 +649,7 @@
     {
       "state": "WA",
       "count": 4,
-      "risk_score": 39.4,
+      "risk_score": 37.0,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
@@ -677,9 +677,9 @@
     {
       "state": "WV",
       "count": 15,
-      "risk_score": 47.8,
+      "risk_score": 47.1,
       "grade": "C",
-      "grade_score": 52.2,
+      "grade_score": 52.9,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 1,
