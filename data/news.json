@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-04-28T04:48:54Z",
+  "generated_at": "2026-04-28T07:25:28Z",
   "window_days": 90,
-  "count": 167,
+  "count": 174,
   "items": [
+    {
+      "id": "gdelt-3fdfaa47cf52eb60",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "P & Z votes down data center after massive backlash from residents",
+      "source_domain": "kdhnews.com",
+      "source_name": "kdhnews.com",
+      "url": "https://kdhnews.com/news/local/p-z-votes-down-data-center-after-massive-backlash-from-residents/article_313649e9-5ce8-4ccf-aede-83daf5165e3e.html",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 07:25:27",
+      "url_hash": "3fdfaa47cf52eb60",
+      "content_hash": "bf0678e98578fc32",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T07:25:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a3bad9af1278cbf9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Tax split for burgeoning data center development needs more clarity , county commissioner says",
+      "source_domain": "wvmetronews.com",
+      "source_name": "wvmetronews.com",
+      "url": "https://wvmetronews.com/2026/04/27/tax-split-for-burgeoning-data-center-development-needs-more-clarity-county-commissioner-says",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 07:25:27",
+      "url_hash": "a3bad9af1278cbf9",
+      "content_hash": "415072ea9d2164a1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T07:25:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-cf247595277a50b4",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Rochelle City Council unanimously rejects data center proposal",
+      "source_domain": "wifr.com",
+      "source_name": "wifr.com",
+      "url": "https://wifr.com/2026/04/28/rochelle-city-council-unanimously-rejects-data-center-proposal",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 07:25:27",
+      "url_hash": "cf247595277a50b4",
+      "content_hash": "ad44f20699d8c0e4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T07:25:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7c22dac19b1ff3ce",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Denver City Council to vote on data center moratorium as Elyria - Swansea neighborhood fights new facility",
+      "source_domain": "9news.com",
+      "source_name": "9news.com",
+      "url": "https://9news.com/article/news/local/local-politics/denver-city-council-data-center-moratorium-elyria-swansea-neighborhood/73-afe1178e-9c39-45e9-97dd-5403018b8eb8",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 07:25:27",
+      "url_hash": "7c22dac19b1ff3ce",
+      "content_hash": "11b1f0b775382d62",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T07:25:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0a1e0fc2f822569f",
+      "state": "OH",
+      "city": null,
+      "category": "banned",
+      "headline": "Niles residents collect signatures for Ohio data center ban",
+      "source_domain": "wfmj.com",
+      "source_name": "wfmj.com",
+      "url": "https://wfmj.com/news/local-news/niles/niles-residents-collect-signatures-for-ohio-data-center-ban/article_6ed349db-7fc8-470f-a6ea-977808e3b22b.html",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 07:25:27",
+      "url_hash": "0a1e0fc2f822569f",
+      "content_hash": "5cf59ecc934af252",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T07:25:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c15348361626c93e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "City Council postpones annexation for proposed data center until Sept . 14",
+      "source_domain": "wyomingnews.com",
+      "source_name": "wyomingnews.com",
+      "url": "https://wyomingnews.com/news/local_news/city-council-postpones-annexation-for-proposed-data-center-until-sept-14/article_eb1919ad-bea5-4edd-9561-4f0db5e2235c.html",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 07:25:27",
+      "url_hash": "c15348361626c93e",
+      "content_hash": "c43dec132b77775d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T07:25:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b69165410334de5b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Piedmont residents voice concerns as city discusses data center",
+      "source_domain": "koco.com",
+      "source_name": "koco.com",
+      "url": "https://koco.com/article/piedmont-city-council-data-center/71144291",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 07:25:27",
+      "url_hash": "b69165410334de5b",
+      "content_hash": "d0f2539fcaff7778",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T07:25:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-159a55cf724502a0",
       "state": "US",
@@ -112,7 +392,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-28T04:48:53Z",
+      "last_seen": "2026-04-28T07:25:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -151,7 +431,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-28T04:48:53Z",
+      "last_seen": "2026-04-28T07:25:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -230,7 +510,7 @@
         "rss-dcd"
       ],
       "snippet": "Remains in support of a temporary moratorium",
-      "last_seen": "2026-04-28T04:48:53Z",
+      "last_seen": "2026-04-28T07:25:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1883,7 +2163,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Cancellations on builds quadrupled to 25 in 2025 from just six in 2024, according to Baird analyst Justin Hauke, as state governments mull moratoriums.",
-      "last_seen": "2026-04-28T04:48:53Z",
+      "last_seen": "2026-04-28T07:25:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5000,7 +5280,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-28T04:48:53Z",
+      "last_seen": "2026-04-28T07:25:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5163,7 +5443,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-28T04:48:53Z",
+      "last_seen": "2026-04-28T07:25:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5202,7 +5482,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-28T04:48:53Z",
+      "last_seen": "2026-04-28T07:25:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6582,6 +6862,22 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 9,
+      "total_engagement": 2750,
+      "categories": {
+        "banned": 1,
+        "protested": 8
+      },
+      "platforms": {
+        "news": 2,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-04-28"
+    },
     "ME": {
       "state": "ME",
       "count": 34,
@@ -6596,21 +6892,6 @@
         "x": 4
       },
       "latest_date": "2026-04-27"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 8,
-      "total_engagement": 2750,
-      "categories": {
-        "protested": 8
-      },
-      "platforms": {
-        "reddit": 3,
-        "tiktok": 3,
-        "news": 1,
-        "x": 1
-      },
-      "latest_date": "2026-04-25"
     },
     "MI": {
       "state": "MI",

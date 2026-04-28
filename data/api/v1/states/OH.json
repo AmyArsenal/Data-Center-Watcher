@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-04-28T04:48:54Z",
+  "generated_at": "2026-04-28T07:25:28Z",
   "risk_score": {
-    "score": 59.2,
-    "tier": 28.0,
+    "score": 60.1,
+    "tier": 28.8,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 40.8,
+    "score": 39.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 0,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,22 +26,22 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 14,
+  "count": 15,
   "tier_counts": {
-    "restrictive": 8,
+    "restrictive": 9,
     "null": 6
   },
   "outcome_counts": {
     "pending": 11,
-    "win": 3
+    "win": 4
   },
   "scope_counts": {
-    "local": 10,
+    "local": 11,
     "statewide": 4
   },
   "issue_top": {
     "ratepayer": 5,
-    "community_impact": 4,
+    "community_impact": 5,
     "grid_energy": 4,
     "water": 3,
     "zoning": 2,
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-04-25",
+  "latest": "2026-04-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-0a1e0fc2f822569f-oh",
+      "date": "2026-04-28",
+      "jurisdiction": "wfmj.com",
+      "title": "Niles residents collect signatures for Ohio data center ban",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wfmj.com/news/local-news/niles/niles-residents-collect-signatures-for-ohio-data-center-ban/article_6ed349db-7fc8-470f-a6ea-977808e3b22b.html"
+    },
     {
       "id": "social:reddit-3a608b757556015b-oh",
       "date": "2026-04-25",
@@ -134,15 +143,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://tiktok.com/@moreperfectunion/video/7628276009485258014"
-    },
-    {
-      "id": "social:x-06d7d72629-oh",
-      "date": "2026-04-12",
-      "jurisdiction": "Portage County",
-      "title": "people in Northeast Ohio, Portage County Ohio (Ravenna), are speaking out against data centers. \"Let us choose the child, let us choose the",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://x.com/ComradeOhio/status/2043333703439388923"
     }
   ]
 }
