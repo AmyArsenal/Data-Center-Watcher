@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T20:12:59Z",
-  "count": 544,
+  "generated_at": "2026-04-28T21:19:15Z",
+  "count": 545,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -251,6 +251,53 @@
       "data_source": "news",
       "last_updated": "2026-04-28T20:12:59Z",
       "first_seen": "2026-04-28T20:12:59Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-7bf613e19797e4c0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "abc3340.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Not in my neighborhood : Residents protest data center project in Birmingham",
+      "sources": [
+        "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-28T21:19:14Z",
+      "first_seen": "2026-04-28T21:19:15Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -25990,26 +26037,26 @@
     },
     "US": {
       "state": "US",
-      "count": 104,
+      "count": 105,
       "outcome_counts": {
-        "pending": 76,
+        "pending": 77,
         "win": 26,
         "loss": 2,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 102,
+        "restrictive": 103,
         "protective": 0,
         "supportive": 2,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 104,
+        "local": 105,
         "statewide": 0,
         "federal": 0
       },
       "issue_top": {
-        "community_impact": 28,
+        "community_impact": 29,
         "grid_energy": 3,
         "water": 3
       },

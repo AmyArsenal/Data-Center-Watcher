@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-04-28T20:12:59Z",
+  "generated_at": "2026-04-28T21:19:15Z",
   "window_days": 90,
-  "count": 182,
+  "count": 183,
   "items": [
+    {
+      "id": "gdelt-7bf613e19797e4c0",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Not in my neighborhood : Residents protest data center project in Birmingham",
+      "source_domain": "abc3340.com",
+      "source_name": "abc3340.com",
+      "url": "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 21:19:14",
+      "url_hash": "7bf613e19797e4c0",
+      "content_hash": "36b957c95a8b7493",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T21:19:14Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-681442f8bc9e39dd",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +150,7 @@
         "rss-dcd"
       ],
       "snippet": "Anglesey County Council rejected planning for the former Octel Factory in Amlwch",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -229,7 +269,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Many rural communities are viscerally opposed to AI infrastructure.",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -308,7 +348,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -709,7 +749,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -748,7 +788,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5597,7 +5637,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5760,7 +5800,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5799,7 +5839,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-28T20:12:59Z",
+      "last_seen": "2026-04-28T21:19:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
