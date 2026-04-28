@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T15:34:21Z",
-  "count": 541,
+  "generated_at": "2026-04-28T17:17:22Z",
+  "count": 542,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -621,6 +621,51 @@
       "data_source": "news",
       "last_updated": "2026-04-28T11:25:10Z",
       "first_seen": "2026-04-28T11:25:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-db5cbeeb9dbf2270-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Welsh data center proposal rejected by local council. Anglesey County Council rejected planning for the former Octel Factory in Amlwch",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/welsh-data-center-proposal-rejected-by-local-council"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-28T17:17:22Z",
+      "first_seen": "2026-04-28T17:17:22Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -25853,21 +25898,21 @@
     },
     "US": {
       "state": "US",
-      "count": 102,
+      "count": 103,
       "outcome_counts": {
-        "pending": 74,
+        "pending": 75,
         "win": 26,
         "loss": 2,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 100,
+        "restrictive": 101,
         "protective": 0,
         "supportive": 2,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 102,
+        "local": 103,
         "statewide": 0,
         "federal": 0
       },
