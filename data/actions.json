@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T07:25:28Z",
-  "count": 536,
+  "generated_at": "2026-04-28T11:25:10Z",
+  "count": 537,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -386,6 +386,53 @@
       "data_source": "news",
       "last_updated": "2026-04-28T07:25:27Z",
       "first_seen": "2026-04-28T07:25:28Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-canary-69572be3fea443e2-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "Canary Media",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Virginia’s new law blocks counties from banning solar. As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
+      "sources": [
+        "https://canarymedia.com/articles/solar/virginia-blocks-counties-from-banning-solar"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-28T11:25:10Z",
+      "first_seen": "2026-04-28T11:25:10Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -25674,6 +25721,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "VA": {
+      "state": "VA",
+      "count": 33,
+      "outcome_counts": {
+        "pending": 15,
+        "win": 15,
+        "loss": 1,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 3,
+        "supportive": 0,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 24,
+        "federal": 0
+      },
+      "issue_top": {
+        "zoning": 9,
+        "community_impact": 8,
+        "environmental": 5
+      },
+      "latest_date": "2026-04-28",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "ME": {
       "state": "ME",
       "count": 41,
@@ -25988,35 +26064,6 @@
         "grid_energy": 9,
         "water": 9,
         "community_impact": 6
-      },
-      "latest_date": "2026-04-23",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 32,
-      "outcome_counts": {
-        "pending": 14,
-        "win": 15,
-        "loss": 1,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 3,
-        "supportive": 0,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "zoning": 9,
-        "community_impact": 8,
-        "environmental": 5
       },
       "latest_date": "2026-04-23",
       "map_color_tier": "restrictive",

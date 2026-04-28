@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-04-28T07:25:28Z",
+  "generated_at": "2026-04-28T11:25:10Z",
   "risk_score": {
-    "score": 49.4,
-    "tier": 15.8,
-    "engagement": 10.9,
-    "recency": 10.2,
-    "multi_source": 7.5,
+    "score": 50.6,
+    "tier": 16.5,
+    "engagement": 10.8,
+    "recency": 11.1,
+    "multi_source": 7.3,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.6,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.4,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 32,
+  "count": 33,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "unclear": 15,
     "protective": 3,
     "null": 11
   },
   "outcome_counts": {
     "win": 15,
-    "pending": 14,
+    "pending": 15,
     "loss": 1,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 8,
+    "local": 9,
     "statewide": 24
   },
   "issue_top": {
@@ -69,8 +69,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-04-23",
+  "latest": "2026-04-28",
   "top_citations": [
+    {
+      "id": "news:rss-canary-69572be3fea443e2-va",
+      "date": "2026-04-28",
+      "jurisdiction": "Canary Media",
+      "title": "Virginia’s new law blocks counties from banning solar. As data centers drive electricity demand to new heights and consumers struggle with r",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://canarymedia.com/articles/solar/virginia-blocks-counties-from-banning-solar"
+    },
     {
       "id": "research:va-virginia-general-assembly-20260423-sb-253-sen-lucas-d-portsmouth-extends-dominion",
       "date": "2026-04-23",
@@ -151,15 +160,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.pecva.org/region/culpeper/tell-culpeper-officials-to-hold-their-ground-no-bending-the-rules-for-reckless-development/"
-    },
-    {
-      "id": "research:va-virginia-general-assembly-20260204-hb-1515-del-irene-shin-d-fairfax-would-have-ba",
-      "date": "2026-02-04",
-      "jurisdiction": "Virginia General Assembly",
-      "title": "HB 1515 (Del. Irene Shin, D-Fairfax) would have barred localities from granting final approvals for new data center rezonings until existing",
-      "tier": null,
-      "outcome": "loss",
-      "url": "https://lis.virginia.gov/bill-details/20261/HB1515"
     }
   ]
 }

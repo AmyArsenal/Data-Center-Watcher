@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-28T07:25:28Z",
+  "generated_at": "2026-04-28T11:25:10Z",
   "window_days": 90,
-  "count": 174,
+  "count": 175,
   "items": [
+    {
+      "id": "rss-canary-69572be3fea443e2",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Virginia’s new law blocks counties from banning solar",
+      "source_domain": "canarymedia.com",
+      "source_name": "Canary Media",
+      "url": "https://canarymedia.com/articles/solar/virginia-blocks-counties-from-banning-solar",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 11:25:10",
+      "url_hash": "69572be3fea443e2",
+      "content_hash": "7dc4c7a48a73825e",
+      "source": "rss-canary",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-canary"
+      ],
+      "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
+      "last_seen": "2026-04-28T11:25:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.canarymedia.com/articles/solar/virginia-blocks-counties-from-banning-solar",
+        "rss_author": "Elizabeth Ouzts",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-3fdfaa47cf52eb60",
       "state": "US",
@@ -392,7 +431,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-28T07:25:27Z",
+      "last_seen": "2026-04-28T11:25:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -431,7 +470,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-28T07:25:27Z",
+      "last_seen": "2026-04-28T11:25:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -510,7 +549,7 @@
         "rss-dcd"
       ],
       "snippet": "Remains in support of a temporary moratorium",
-      "last_seen": "2026-04-28T07:25:27Z",
+      "last_seen": "2026-04-28T11:25:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2163,7 +2202,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Cancellations on builds quadrupled to 25 in 2025 from just six in 2024, according to Baird analyst Justin Hauke, as state governments mull moratoriums.",
-      "last_seen": "2026-04-28T07:25:27Z",
+      "last_seen": "2026-04-28T11:25:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5280,7 +5319,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-28T07:25:27Z",
+      "last_seen": "2026-04-28T11:25:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5443,7 +5482,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-28T07:25:27Z",
+      "last_seen": "2026-04-28T11:25:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5482,7 +5521,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-28T07:25:27Z",
+      "last_seen": "2026-04-28T11:25:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6862,6 +6901,20 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 3,
+      "total_engagement": 172,
+      "categories": {
+        "protested": 2,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 2,
+        "legal": 1
+      },
+      "latest_date": "2026-04-28"
+    },
     "OH": {
       "state": "OH",
       "count": 9,
@@ -7050,20 +7103,6 @@
         "news": 1
       },
       "latest_date": "2026-04-16"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 2,
-      "total_engagement": 172,
-      "categories": {
-        "cancelled": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "legal": 1,
-        "news": 1
-      },
-      "latest_date": "2026-04-01"
     }
   }
 }
