@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-04-28T18:58:37Z",
+  "generated_at": "2026-04-28T20:12:59Z",
   "risk_score": {
-    "score": 49.5,
-    "tier": 23.2,
+    "score": 52.2,
+    "tier": 26.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.5,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.8,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
-    "restrictive": 2,
+    "restrictive": 3,
     "null": 3
   },
   "outcome_counts": {
     "win": 2,
-    "pending": 3
+    "pending": 4
   },
   "scope_counts": {
-    "local": 4,
+    "local": 5,
     "statewide": 1
   },
   "issue_top": {
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-04-25",
+  "latest": "2026-04-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-e28447615c70662a-mi",
+      "date": "2026-04-28",
+      "jurisdiction": "theoaklandpress.com",
+      "title": "As data center moratoriums stack up , some 1 , 500 square miles in Michigan are off - limits",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://theoaklandpress.com/2026/04/28/as-data-center-moratoriums-stack-up-some-1500-square-miles-in-michigan-are-off-limits"
+    },
     {
       "id": "news:gdelt-9630d57a30a95b8c-mi",
       "date": "2026-04-25",

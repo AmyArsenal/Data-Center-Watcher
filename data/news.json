@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-04-28T18:58:37Z",
+  "generated_at": "2026-04-28T20:12:59Z",
   "window_days": 90,
-  "count": 180,
+  "count": 182,
   "items": [
+    {
+      "id": "gdelt-681442f8bc9e39dd",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Community Voices Concern Over Killeen Data Center Project",
+      "source_domain": "koolfmabilene.com",
+      "source_name": "koolfmabilene.com",
+      "url": "https://koolfmabilene.com/ixp/514/p/killeen-data-center-rejection",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 20:12:59",
+      "url_hash": "681442f8bc9e39dd",
+      "content_hash": "5448c75a9d7a18a3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T20:12:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e28447615c70662a",
+      "state": "MI",
+      "city": null,
+      "category": "protested",
+      "headline": "As data center moratoriums stack up , some 1 , 500 square miles in Michigan are off - limits",
+      "source_domain": "theoaklandpress.com",
+      "source_name": "theoaklandpress.com",
+      "url": "https://theoaklandpress.com/2026/04/28/as-data-center-moratoriums-stack-up-some-1500-square-miles-in-michigan-are-off-limits",
+      "date": "2026-04-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-28 20:12:59",
+      "url_hash": "e28447615c70662a",
+      "content_hash": "d3fb966bd19c4d67",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-28T20:12:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-db5cbeeb9dbf2270",
       "state": "US",
@@ -30,7 +110,7 @@
         "rss-dcd"
       ],
       "snippet": "Anglesey County Council rejected planning for the former Octel Factory in Amlwch",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -109,7 +189,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-28T17:17:22Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -149,7 +229,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Many rural communities are viscerally opposed to AI infrastructure.",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -228,7 +308,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -629,7 +709,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -668,7 +748,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5517,7 +5597,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5680,7 +5760,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5719,7 +5799,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-28T18:58:36Z",
+      "last_seen": "2026-04-28T20:12:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7099,6 +7179,20 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 3,
+      "total_engagement": 104,
+      "categories": {
+        "protested": 2,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 2,
+        "reddit": 1
+      },
+      "latest_date": "2026-04-28"
+    },
     "VA": {
       "state": "VA",
       "count": 3,
@@ -7143,20 +7237,6 @@
         "x": 4
       },
       "latest_date": "2026-04-27"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 2,
-      "total_engagement": 104,
-      "categories": {
-        "protested": 1,
-        "banned": 1
-      },
-      "platforms": {
-        "reddit": 1,
-        "news": 1
-      },
-      "latest_date": "2026-04-25"
     },
     "NJ": {
       "state": "NJ",
