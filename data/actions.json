@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T11:25:10Z",
-  "count": 537,
+  "generated_at": "2026-04-28T13:05:02Z",
+  "count": 538,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -208,6 +208,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-97eca43c1172b9ec-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "news9.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-04-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Piedmont residents oppose proposed data center at city council meeting",
+      "sources": [
+        "https://news9.com/oklahoma-city-news/piedmont-data-center-opposition-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-28T13:05:02Z",
+      "first_seen": "2026-04-28T13:05:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-a3bad9af1278cbf9-us",
@@ -25665,26 +25712,26 @@
     },
     "US": {
       "state": "US",
-      "count": 98,
+      "count": 99,
       "outcome_counts": {
-        "pending": 70,
+        "pending": 71,
         "win": 26,
         "loss": 2,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 96,
+        "restrictive": 97,
         "protective": 0,
         "supportive": 2,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 98,
+        "local": 99,
         "statewide": 0,
         "federal": 0
       },
       "issue_top": {
-        "community_impact": 24,
+        "community_impact": 25,
         "grid_energy": 3,
         "water": 3
       },
