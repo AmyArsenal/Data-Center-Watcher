@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-29T20:19:30Z",
+  "generated_at": "2026-04-29T21:36:28Z",
   "risk_score": {
     "score": 69.3,
-    "tier": 35.3,
+    "tier": 35.4,
     "engagement": 7.3,
     "recency": 20.0,
-    "multi_source": 1.7,
+    "multi_source": 1.6,
     "regulatory": 5.0
   },
   "grade": {
@@ -16,9 +16,9 @@
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
-    "moratoriums": 25,
+    "moratoriums": 26,
     "approvals": 1,
-    "denials": 35,
+    "denials": 36,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 42,
+  "count": 43,
   "tier_counts": {
-    "restrictive": 35,
+    "restrictive": 36,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 35,
+    "win": 36,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
     "local": 28,
-    "statewide": 14
+    "statewide": 15
   },
   "issue_top": {
     "grid_energy": 9,
@@ -69,6 +69,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterknowledge.com/regulations/maine-vetoes-data-center-moratorium-but-pressure-continues"
+    },
+    {
+      "id": "news:gdelt-78b7bfdac7bc81c9-me",
+      "date": "2026-04-29",
+      "jurisdiction": "centralmaine.com",
+      "title": "Maine Legislature sustains Mill data center moratorium veto",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://centralmaine.com/2026/04/29/maine-legislature-sustains-mills-data-center-moratorium-veto"
     },
     {
       "id": "news:rss-dcd-a05d7aadcc8d1c57-me",
@@ -141,15 +150,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://reddit.com/r/thespinroom/comments/1sv297x/maine_gov_janet_mills_vetoes_ban_on_data_center"
-    },
-    {
-      "id": "social:reddit-67e3232dc621f322-me",
-      "date": "2026-04-25",
-      "jurisdiction": "r/YAPms",
-      "title": "Maine Gov. Mills vetoes data center moratorium bill",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/YAPms/comments/1sv26b9/maine_gov_mills_vetoes_data_center_moratorium_bill"
     }
   ]
 }

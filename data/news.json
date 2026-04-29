@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-04-29T20:19:30Z",
+  "generated_at": "2026-04-29T21:36:28Z",
   "window_days": 90,
-  "count": 197,
+  "count": 200,
   "items": [
+    {
+      "id": "gdelt-9f5c3a8033b042f3",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Congress Urged to Reject Fast - Tracking of Harmful Data Centers",
+      "source_domain": "biologicaldiversity.org",
+      "source_name": "biologicaldiversity.org",
+      "url": "https://biologicaldiversity.org/w/news/press-releases/congress-urged-to-reject-fast-tracking-of-harmful-data-centers-2026-04-29",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 21:36:28",
+      "url_hash": "9f5c3a8033b042f3",
+      "content_hash": "32b3b0c2fc430e25",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-29T21:36:28Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-78b7bfdac7bc81c9",
+      "state": "ME",
+      "city": null,
+      "category": "banned",
+      "headline": "Maine Legislature sustains Mill data center moratorium veto",
+      "source_domain": "centralmaine.com",
+      "source_name": "centralmaine.com",
+      "url": "https://centralmaine.com/2026/04/29/maine-legislature-sustains-mills-data-center-moratorium-veto",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 21:36:28",
+      "url_hash": "78b7bfdac7bc81c9",
+      "content_hash": "30b7ebcfbf274ff8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-29T21:36:28Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9694aab86854e998",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Cassville residents reject plan to build massive data center",
+      "source_domain": "chippewa.com",
+      "source_name": "chippewa.com",
+      "url": "https://chippewa.com/news/state-regional/wisconsin/article_78f7bcad-a2d5-5a4d-8b41-87fe98fabaa3.html",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 21:36:28",
+      "url_hash": "9694aab86854e998",
+      "content_hash": "275fd8d4ba873666",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-29T21:36:28Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-a8e9b957e6bbdc1a",
       "state": "US",
@@ -30,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T19:04:12Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -70,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T19:04:12Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +230,7 @@
         "rss-dcd"
       ],
       "snippet": "Company aims high with planned pipeline",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -149,7 +269,7 @@
         "rss-dcd"
       ],
       "snippet": "Seb Moss speaks with Fabien Vieu of Sepia Infrastructure on developing European hyperscale campuses, land strategy, long-term asset management, and building community trust through responsible data center development.",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -188,7 +308,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T19:04:12Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -228,7 +348,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T19:04:12Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -308,7 +428,7 @@
         "rss-dcd"
       ],
       "snippet": "Project overseen by company formerly known as Bitfarms now heads to Mercer County Regional Planning Commission for approval",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -386,7 +506,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -903,7 +1023,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1304,7 +1424,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6192,7 +6312,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6355,7 +6475,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6394,7 +6514,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-29T20:19:30Z",
+      "last_seen": "2026-04-29T21:36:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7774,6 +7894,21 @@
     }
   ],
   "by_state": {
+    "ME": {
+      "state": "ME",
+      "count": 36,
+      "total_engagement": 35464,
+      "categories": {
+        "banned": 31,
+        "protested": 5
+      },
+      "platforms": {
+        "news": 15,
+        "reddit": 17,
+        "x": 4
+      },
+      "latest_date": "2026-04-29"
+    },
     "TX": {
       "state": "TX",
       "count": 6,
@@ -7786,21 +7921,6 @@
         "tiktok": 2,
         "youtube": 1,
         "x": 1
-      },
-      "latest_date": "2026-04-29"
-    },
-    "ME": {
-      "state": "ME",
-      "count": 35,
-      "total_engagement": 35464,
-      "categories": {
-        "banned": 30,
-        "protested": 5
-      },
-      "platforms": {
-        "news": 14,
-        "reddit": 17,
-        "x": 4
       },
       "latest_date": "2026-04-29"
     },
