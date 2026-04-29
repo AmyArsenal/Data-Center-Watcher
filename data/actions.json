@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T10:30:17Z",
-  "count": 550,
+  "generated_at": "2026-04-29T12:02:21Z",
+  "count": 551,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -245,6 +245,51 @@
       "data_source": "news",
       "last_updated": "2026-04-29T06:23:39Z",
       "first_seen": "2026-04-29T06:23:39Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-73c0770fbef78281-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Soluna expands Blockware partnership with 3.3MW Texas deployment. Data center firm signs cryptominer as first customer at Project Dorothy 1B",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/soluna-expands-blockware-partnership-with-33mw-texas-deployment"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-29T12:02:20Z",
+      "first_seen": "2026-04-29T12:02:21Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -26320,6 +26365,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "TX": {
+      "state": "TX",
+      "count": 21,
+      "outcome_counts": {
+        "pending": 13,
+        "win": 3,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 6,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 17,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 6
+      },
+      "latest_date": "2026-04-29",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 15,
@@ -26638,35 +26712,6 @@
       "latest_date": "2026-04-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 20,
-      "outcome_counts": {
-        "pending": 12,
-        "win": 3,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 5,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 16,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 6
-      },
-      "latest_date": "2026-04-23",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "OK": {
       "state": "OK",

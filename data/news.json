@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-29T10:30:17Z",
+  "generated_at": "2026-04-29T12:02:21Z",
   "window_days": 90,
-  "count": 188,
+  "count": 189,
   "items": [
+    {
+      "id": "rss-dcd-73c0770fbef78281",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Soluna expands Blockware partnership with 3.3MW Texas deployment",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/soluna-expands-blockware-partnership-with-33mw-texas-deployment",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 12:02:20",
+      "url_hash": "73c0770fbef78281",
+      "content_hash": "a6cd3fe146c535c9",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Data center firm signs cryptominer as first customer at Project Dorothy 1B",
+      "last_seen": "2026-04-29T12:02:20Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/soluna-expands-blockware-partnership-with-33mw-texas-deployment/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dck-1c5ffd9050ba64fb",
       "state": "ME",
@@ -30,7 +69,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -349,7 +388,7 @@
         "rss-dcd"
       ],
       "snippet": "Anglesey County Council rejected planning for the former Octel Factory in Amlwch",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -468,7 +507,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Many rural communities are viscerally opposed to AI infrastructure.",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -547,7 +586,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -948,7 +987,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -987,7 +1026,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5836,7 +5875,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5999,7 +6038,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6038,7 +6077,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-29T10:30:17Z",
+      "last_seen": "2026-04-29T12:02:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7418,6 +7457,21 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 6,
+      "total_engagement": 629,
+      "categories": {
+        "protested": 6
+      },
+      "platforms": {
+        "news": 2,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-04-29"
+    },
     "ME": {
       "state": "ME",
       "count": 35,
@@ -7511,21 +7565,6 @@
       },
       "platforms": {
         "reddit": 1
-      },
-      "latest_date": "2026-04-23"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 5,
-      "total_engagement": 629,
-      "categories": {
-        "protested": 5
-      },
-      "platforms": {
-        "tiktok": 2,
-        "youtube": 1,
-        "news": 1,
-        "x": 1
       },
       "latest_date": "2026-04-23"
     },

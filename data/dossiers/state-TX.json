@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-04-29T10:30:17Z",
+  "generated_at": "2026-04-29T12:02:21Z",
   "risk_score": {
-    "score": 51.1,
-    "tier": 19.0,
-    "engagement": 6.6,
+    "score": 52.0,
+    "tier": 20.0,
+    "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.9,
+    "score": 48.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 20,
+  "count": 21,
   "tier_counts": {
-    "restrictive": 5,
+    "restrictive": 6,
     "null": 15
   },
   "outcome_counts": {
-    "pending": 12,
+    "pending": 13,
     "mixed": 3,
     "loss": 2,
     "win": 3
   },
   "scope_counts": {
-    "local": 16,
+    "local": 17,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-04-23",
+  "latest": "2026-04-29",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-73c0770fbef78281-tx",
+      "date": "2026-04-29",
+      "jurisdiction": "DCD",
+      "title": "Soluna expands Blockware partnership with 3.3MW Texas deployment. Data center firm signs cryptominer as first customer at Project Dorothy 1B",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/soluna-expands-blockware-partnership-with-33mw-texas-deployment"
+    },
     {
       "id": "social:tiktok-b99019d1815d4b2b-tx",
       "date": "2026-04-23",
@@ -169,15 +178,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.texastribune.org/2026/04/08/texas-data-centers-sales-tax-break-billion-dollars/"
-    },
-    {
-      "id": "social:x-c31c9cd662-tx",
-      "date": "2026-04-08",
-      "jurisdiction": "@truthout",
-      "title": "Texas is handing data center operators over $1 billion a year in tax breaks, making its subsidies among the largest in the country even as l",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://x.com/truthout/status/2041971817158488143"
     }
   ]
 }
