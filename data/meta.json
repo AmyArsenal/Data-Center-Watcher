@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-29T04:00:05Z",
+  "generated_at": "2026-04-29T04:05:46Z",
   "tier_timestamps": {
     "fast": "2026-04-29T04:00:05Z",
-    "bills": "2026-04-28T20:47:14Z"
+    "bills": "2026-04-29T04:05:46Z"
   },
   "counts_by_source": {
     "gdelt": 41,
@@ -37,6 +37,13 @@
       "rss-arstechnica": 1,
       "rss-canary": 1,
       "rss-dck": 4
-    }
+    },
+    "bills_last_run_seconds": 268.4,
+    "bills_raw_fetched": 0,
+    "bills_inserted": 0,
+    "bills_updated": 0,
+    "bills_noop": 0,
+    "bills_total_in_json": 193,
+    "bills_states_with_bills": 16
   }
 }
