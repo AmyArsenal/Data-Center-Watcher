@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-04-29T12:02:21Z",
+  "generated_at": "2026-04-29T14:29:20Z",
   "window_days": 90,
-  "count": 189,
+  "count": 191,
   "items": [
+    {
+      "id": "gdelt-108a68baa22f341d",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Lawsuit , resident concerns put Faribault data center on hold",
+      "source_domain": "southernminn.com",
+      "source_name": "southernminn.com",
+      "url": "https://southernminn.com/faribault_daily_news/news/lawsuit-resident-concerns-put-faribault-data-center-on-hold/article_90d8cc20-4c04-4594-8714-e25f2c1e7d2b.html",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 14:29:20",
+      "url_hash": "108a68baa22f341d",
+      "content_hash": "b048477d472e25ee",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-29T14:29:20Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-a840d2f7353f87a4",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Zoning board of Sharon, PA, approves planned expansion of Keel Infrastructure’s existing data center development",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/zoning-board-of-sharon-pa-approves-planned-expansion-of-keel-infrastructures-existing-data-center-development",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 14:29:20",
+      "url_hash": "a840d2f7353f87a4",
+      "content_hash": "bac60d4067219eaf",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Project overseen by company formerly known as Bitfarms now heads to Mercer County Regional Planning Commission for approval",
+      "last_seen": "2026-04-29T14:29:20Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/zoning-board-of-sharon-pa-approves-planned-expansion-of-keel-infrastructures-existing-data-center-development/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-73c0770fbef78281",
       "state": "TX",
@@ -30,7 +109,7 @@
         "rss-dcd"
       ],
       "snippet": "Data center firm signs cryptominer as first customer at Project Dorothy 1B",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +148,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -507,7 +586,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Many rural communities are viscerally opposed to AI infrastructure.",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -586,7 +665,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -987,7 +1066,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1026,7 +1105,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5875,7 +5954,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6038,7 +6117,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6077,7 +6156,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-29T12:02:20Z",
+      "last_seen": "2026-04-29T14:29:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,

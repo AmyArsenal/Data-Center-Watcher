@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-04-29T12:02:21Z",
+  "generated_at": "2026-04-29T14:29:20Z",
   "filter": {
     "issue_category": "zoning"
   },
-  "count": 54,
+  "count": 55,
   "items": [
     {
       "id": "social:reddit-98ec6b26ba63a616-ok",
@@ -2168,6 +2168,46 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-a840d2f7353f87a4-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"study_or_report\"]",
+      "authority_level": "planning_commission",
+      "date": "2026-04-29",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": "[\"zoning\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Zoning board of Sharon, PA, approves planned expansion of Keel Infrastructure’s existing data center development. Project overseen by company formerly known as Bitfarms now heads to Mercer County Regional Planning Commission for approval",
+      "sources": "[\"https://datacenterdynamics.com/en/news/zoning-board-of-sharon-pa-approves-planned-expansion-of-keel-infrastructures-existing-data-center-development\"]",
+      "data_source": "news",
+      "last_updated": "2026-04-29T14:29:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     }
   ]
 }
