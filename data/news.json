@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-04-29T17:48:32Z",
+  "generated_at": "2026-04-29T19:04:12Z",
   "window_days": 90,
-  "count": 195,
+  "count": 197,
   "items": [
+    {
+      "id": "gdelt-a8e9b957e6bbdc1a",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Rep . Runte CCs All State Reps on Email Arguing Against Mill Veto of Data Center Moratorium",
+      "source_domain": "themainewire.com",
+      "source_name": "themainewire.com",
+      "url": "https://themainewire.com/2026/04/rep-runte-ccs-all-state-reps-on-email-arguing-against-mills-veto-of-data-center-moratorium",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 19:04:12",
+      "url_hash": "a8e9b957e6bbdc1a",
+      "content_hash": "122257d4ee5549fe",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-29T19:04:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d5168e2358ef512c",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Citizen group files lawsuit against City of Hermantown over data center zoning changes",
+      "source_domain": "wdio.com",
+      "source_name": "wdio.com",
+      "url": "https://wdio.com/front-page/top-stories/citizen-group-files-lawsuit-against-city-of-hermantown-over-data-center-zoning-changes",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 19:04:12",
+      "url_hash": "d5168e2358ef512c",
+      "content_hash": "f679e5dac0b55d97",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-29T19:04:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-726f63943a8f8169",
       "state": "US",
@@ -30,7 +110,7 @@
         "rss-dcd"
       ],
       "snippet": "Company aims high with planned pipeline",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +149,7 @@
         "rss-dcd"
       ],
       "snippet": "Seb Moss speaks with Fabien Vieu of Sepia Infrastructure on developing European hyperscale campuses, land strategy, long-term asset management, and building community trust through responsible data center development.",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -108,7 +188,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T16:12:35Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -148,7 +228,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T16:12:35Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -228,7 +308,7 @@
         "rss-dcd"
       ],
       "snippet": "Project overseen by company formerly known as Bitfarms now heads to Mercer County Regional Planning Commission for approval",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -306,7 +386,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -744,7 +824,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Many rural communities are viscerally opposed to AI infrastructure.",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -823,7 +903,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1224,7 +1304,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6112,7 +6192,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6275,7 +6355,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6314,7 +6394,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-29T17:48:32Z",
+      "last_seen": "2026-04-29T19:04:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,

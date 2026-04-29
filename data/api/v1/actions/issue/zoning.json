@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-04-29T17:48:33Z",
+  "generated_at": "2026-04-29T19:04:13Z",
   "filter": {
     "issue_category": "zoning"
   },
-  "count": 55,
+  "count": 56,
   "items": [
     {
       "id": "social:reddit-98ec6b26ba63a616-ok",
@@ -2208,6 +2208,46 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-d5168e2358ef512c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wdio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"lawsuit\"]",
+      "authority_level": null,
+      "date": "2026-04-29",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": "[\"zoning\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Citizen group files lawsuit against City of Hermantown over data center zoning changes",
+      "sources": "[\"https://wdio.com/front-page/top-stories/citizen-group-files-lawsuit-against-city-of-hermantown-over-data-center-zoning-changes\"]",
+      "data_source": "news",
+      "last_updated": "2026-04-29T19:04:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     }
   ]
 }
