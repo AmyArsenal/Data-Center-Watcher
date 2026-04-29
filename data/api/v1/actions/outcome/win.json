@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-04-29T14:29:20Z",
+  "generated_at": "2026-04-29T16:12:35Z",
   "filter": {
     "community_outcome": "win"
   },
-  "count": 168,
+  "count": 169,
   "items": [
     {
       "id": "social:x-c778319fc8-me",
@@ -6730,6 +6730,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-82b3d0bab8321311-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "foxillinois.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"moratorium\"]",
+      "authority_level": "county_commission",
+      "date": "2026-04-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": null,
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Logan County board to revisit moratorium on data centers",
+      "sources": "[\"https://foxillinois.com/news/local/logan-county-board-to-revisit-moratorium-on-data-centers/article_3a2e13d7-a274-4420-b035-08d8ffa14e12.html\"]",
+      "data_source": "news",
+      "last_updated": "2026-04-29T16:12:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
