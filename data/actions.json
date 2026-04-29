@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T16:12:35Z",
-  "count": 555,
+  "generated_at": "2026-04-29T17:48:32Z",
+  "count": 557,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -384,6 +384,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-3093a94f58c1debc-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "DCD>Studio: Developing hyperscale facilities in Europe, with Fabien Vieu, Sepia Infrastructure. Seb Moss speaks with Fabien Vieu of Sepia Infrastructure on developing European hyperscale campuses, land strategy, long-term asset management, and building community trust through responsible data center development",
+      "sources": [
+        "https://datacenterdynamics.com/en/videos/dcdstudio-developing-hyperscale-facilities-in-europe-with-fabien-vieu-sepia-infrastructure"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-29T17:48:32Z",
+      "first_seen": "2026-04-29T17:48:32Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-726f63943a8f8169-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-29",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "BlockchAIn outlines $9.9bn plan for 715MW data center portfolio. Company aims high with planned pipeline",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/blockchain-outlines-99bn-plan-for-715mw-data-center-portfolio"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-29T17:48:32Z",
+      "first_seen": "2026-04-29T17:48:32Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-dcd-73c0770fbef78281-tx",
@@ -26491,26 +26583,26 @@
     },
     "US": {
       "state": "US",
-      "count": 113,
+      "count": 115,
       "outcome_counts": {
-        "pending": 82,
+        "pending": 83,
         "win": 28,
-        "loss": 3,
+        "loss": 4,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 110,
+        "restrictive": 111,
         "protective": 0,
-        "supportive": 3,
+        "supportive": 4,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 113,
+        "local": 115,
         "statewide": 0,
         "federal": 0
       },
       "issue_top": {
-        "community_impact": 30,
+        "community_impact": 31,
         "grid_energy": 3,
         "water": 3
       },
