@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-29T08:35:53Z",
+  "generated_at": "2026-04-29T10:30:17Z",
   "window_days": 90,
-  "count": 187,
+  "count": 188,
   "items": [
+    {
+      "id": "rss-dck-1c5ffd9050ba64fb",
+      "state": "ME",
+      "city": null,
+      "category": "banned",
+      "headline": "Maine Vetoes Data Center Moratorium, but Pressure Continues",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/regulations/maine-vetoes-data-center-moratorium-but-pressure-continues",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-29 10:30:17",
+      "url_hash": "1c5ffd9050ba64fb",
+      "content_hash": "4da3221a4c80964d",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
+      "last_seen": "2026-04-29T10:30:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.78,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/regulations/maine-vetoes-data-center-moratorium-but-pressure-continues",
+        "rss_author": "Nathan Eddy, James Walker",
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-c5d7408a5b37746b",
       "state": "US",
@@ -310,7 +349,7 @@
         "rss-dcd"
       ],
       "snippet": "Anglesey County Council rejected planning for the former Octel Factory in Amlwch",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -429,7 +468,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Many rural communities are viscerally opposed to AI infrastructure.",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -508,7 +547,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -909,7 +948,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -948,7 +987,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Federal Energy Regulatory Commission should consider how power plant deals could draw capacity out of the PJM&nbsp;Interconnection market to serve data centers, Monitoring Analytics said.",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5797,7 +5836,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5960,7 +5999,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5999,7 +6038,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-29T08:35:52Z",
+      "last_seen": "2026-04-29T10:30:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7379,6 +7418,21 @@
     }
   ],
   "by_state": {
+    "ME": {
+      "state": "ME",
+      "count": 35,
+      "total_engagement": 35464,
+      "categories": {
+        "banned": 30,
+        "protested": 5
+      },
+      "platforms": {
+        "news": 14,
+        "reddit": 17,
+        "x": 4
+      },
+      "latest_date": "2026-04-29"
+    },
     "MI": {
       "state": "MI",
       "count": 3,
@@ -7422,21 +7476,6 @@
         "x": 1
       },
       "latest_date": "2026-04-28"
-    },
-    "ME": {
-      "state": "ME",
-      "count": 34,
-      "total_engagement": 35464,
-      "categories": {
-        "banned": 29,
-        "protested": 5
-      },
-      "platforms": {
-        "news": 13,
-        "reddit": 17,
-        "x": 4
-      },
-      "latest_date": "2026-04-27"
     },
     "NJ": {
       "state": "NJ",

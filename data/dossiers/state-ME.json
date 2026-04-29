@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-29T08:35:53Z",
+  "generated_at": "2026-04-29T10:30:17Z",
   "risk_score": {
-    "score": 69.2,
-    "tier": 35.2,
+    "score": 69.3,
+    "tier": 35.3,
     "engagement": 7.3,
     "recency": 20.0,
     "multi_source": 1.7,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "F",
-    "score": 30.8,
+    "score": 30.7,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
-    "moratoriums": 24,
+    "moratoriums": 25,
     "approvals": 1,
-    "denials": 34,
+    "denials": 35,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 41,
+  "count": 42,
   "tier_counts": {
-    "restrictive": 34,
+    "restrictive": 35,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 34,
+    "win": 35,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
-    "local": 27,
+    "local": 28,
     "statewide": 14
   },
   "issue_top": {
@@ -59,8 +59,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2017-12-22",
-  "latest": "2026-04-27",
+  "latest": "2026-04-29",
   "top_citations": [
+    {
+      "id": "news:rss-dck-1c5ffd9050ba64fb-me",
+      "date": "2026-04-29",
+      "jurisdiction": "datacenterknowledge",
+      "title": "Maine Vetoes Data Center Moratorium, but Pressure Continues. Maine has rejected a data center moratorium, but pressure on the industry shows",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterknowledge.com/regulations/maine-vetoes-data-center-moratorium-but-pressure-continues"
+    },
     {
       "id": "news:rss-dcd-a05d7aadcc8d1c57-me",
       "date": "2026-04-27",
@@ -141,15 +150,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://reddit.com/r/YAPms/comments/1sv26b9/maine_gov_mills_vetoes_data_center_moratorium_bill"
-    },
-    {
-      "id": "social:reddit-3f0f7c1bc2746f18-me",
-      "date": "2026-04-25",
-      "jurisdiction": "r/BetterOffline",
-      "title": "Maine Gov. Janet Mills vetoes ban on data center construction. &gt; “This project — which is now under contract and which has received sever",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/BetterOffline/comments/1suxqkr/maine_gov_janet_mills_vetoes_ban_on_data_center"
     }
   ]
 }
