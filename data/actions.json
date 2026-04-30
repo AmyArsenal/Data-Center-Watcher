@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T17:57:22Z",
-  "count": 573,
+  "generated_at": "2026-04-30T19:09:15Z",
+  "count": 574,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-3019f702961e0b8a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "k92radio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-04-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Governor defends existing Google data center deals amid Roanoke - area protests",
+      "sources": [
+        "https://k92radio.com/2026/04/30/governor-defends-existing-google-data-center-deals-amid-roanoke-area-protests"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-30T19:09:15Z",
+      "first_seen": "2026-04-30T19:09:15Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-353f19741c34254a-us",
@@ -27369,22 +27414,22 @@
     },
     "US": {
       "state": "US",
-      "count": 125,
+      "count": 126,
       "outcome_counts": {
-        "pending": 87,
+        "pending": 88,
         "win": 33,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 120,
+        "restrictive": 121,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
         "local": 124,
-        "statewide": 0,
+        "statewide": 1,
         "federal": 1
       },
       "issue_top": {

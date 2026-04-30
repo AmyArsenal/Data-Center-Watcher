@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-30T17:57:22Z",
+  "generated_at": "2026-04-30T19:09:15Z",
   "window_days": 90,
-  "count": 211,
+  "count": 212,
   "items": [
+    {
+      "id": "gdelt-3019f702961e0b8a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Governor defends existing Google data center deals amid Roanoke - area protests",
+      "source_domain": "k92radio.com",
+      "source_name": "k92radio.com",
+      "url": "https://k92radio.com/2026/04/30/governor-defends-existing-google-data-center-deals-amid-roanoke-area-protests",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Google"
+      ],
+      "first_seen": "2026-04-30 19:09:15",
+      "url_hash": "3019f702961e0b8a",
+      "content_hash": "1226fdd8e9988d44",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T19:09:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-utilitydive-c07863110c1895f3",
       "state": "PA",
@@ -30,7 +72,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection&rsquo;s planned backstop auction is flawed, Brian Tierney, FirstEnergy CEO, said. Separately, Pennsylvania Gov. Shaprio says his admininstration will oppose rate hike requests that fail to meet affordability criteria.",
-      "last_seen": "2026-04-30T17:57:22Z",
+      "last_seen": "2026-04-30T19:09:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -944,7 +986,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-30T17:57:22Z",
+      "last_seen": "2026-04-30T19:09:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1461,7 +1503,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-30T17:57:22Z",
+      "last_seen": "2026-04-30T19:09:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1862,7 +1904,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-30T17:57:22Z",
+      "last_seen": "2026-04-30T19:09:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6750,7 +6792,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-30T17:57:22Z",
+      "last_seen": "2026-04-30T19:09:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6913,7 +6955,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-30T17:57:22Z",
+      "last_seen": "2026-04-30T19:09:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6952,7 +6994,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-30T17:57:22Z",
+      "last_seen": "2026-04-30T19:09:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
