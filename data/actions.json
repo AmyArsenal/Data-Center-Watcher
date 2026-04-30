@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T07:22:23Z",
-  "count": 569,
+  "generated_at": "2026-04-30T09:31:57Z",
+  "count": 571,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -69,6 +69,53 @@
       "tier_reason": null
     },
     {
+      "id": "news:gdelt-353f19741c34254a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "observer-reporter.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": null,
+      "date": "2026-04-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "South Strabane residents call for quick vote on data center ordinance",
+      "sources": [
+        "https://observer-reporter.com/news/local-news/2026/apr/30/south-strabane-residents-call-for-quick-vote-on-data-center-ordinance"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-30T09:31:57Z",
+      "first_seen": "2026-04-30T09:31:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-b439bd1c4c91a480-me",
       "origin": "news",
       "state": "ME",
@@ -108,6 +155,51 @@
       "data_source": "news",
       "last_updated": "2026-04-30T01:21:32Z",
       "first_seen": "2026-04-30T01:21:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-dc188322768caf7a-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "arkansasonline.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Virginia data center project halted | The Arkansas Democrat - Gazette - Arkansa Best News Source",
+      "sources": [
+        "https://arkansasonline.com/news/2026/apr/30/virginia-data-center-project-halted"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-30T09:31:57Z",
+      "first_seen": "2026-04-30T09:31:57Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -27154,32 +27246,61 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "VA": {
+      "state": "VA",
+      "count": 34,
+      "outcome_counts": {
+        "pending": 15,
+        "win": 16,
+        "loss": 1,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 3,
+        "supportive": 0,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 10,
+        "statewide": 24,
+        "federal": 0
+      },
+      "issue_top": {
+        "zoning": 9,
+        "community_impact": 8,
+        "environmental": 5
+      },
+      "latest_date": "2026-04-30",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
-      "count": 123,
+      "count": 124,
       "outcome_counts": {
-        "pending": 85,
+        "pending": 86,
         "win": 33,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 118,
+        "restrictive": 119,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 122,
+        "local": 123,
         "statewide": 0,
         "federal": 1
       },
       "issue_top": {
-        "community_impact": 32,
+        "community_impact": 33,
         "zoning": 4,
         "grid_energy": 3
       },
-      "latest_date": "2026-04-29",
+      "latest_date": "2026-04-30",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -27269,35 +27390,6 @@
       "latest_date": "2026-04-28",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 33,
-      "outcome_counts": {
-        "pending": 15,
-        "win": 15,
-        "loss": 1,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 3,
-        "supportive": 0,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 9,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "zoning": 9,
-        "community_impact": 8,
-        "environmental": 5
-      },
-      "latest_date": "2026-04-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "MI": {
       "state": "MI",

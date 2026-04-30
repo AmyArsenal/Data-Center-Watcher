@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-04-30T07:22:23Z",
+  "generated_at": "2026-04-30T09:31:57Z",
   "window_days": 90,
-  "count": 207,
+  "count": 209,
   "items": [
+    {
+      "id": "gdelt-353f19741c34254a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "South Strabane residents call for quick vote on data center ordinance",
+      "source_domain": "observer-reporter.com",
+      "source_name": "observer-reporter.com",
+      "url": "https://observer-reporter.com/news/local-news/2026/apr/30/south-strabane-residents-call-for-quick-vote-on-data-center-ordinance",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 09:31:57",
+      "url_hash": "353f19741c34254a",
+      "content_hash": "8d10feeb97841db3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T09:31:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-dc188322768caf7a",
+      "state": "VA",
+      "city": null,
+      "category": "banned",
+      "headline": "Virginia data center project halted | The Arkansas Democrat - Gazette - Arkansa Best News Source",
+      "source_domain": "arkansasonline.com",
+      "source_name": "arkansasonline.com",
+      "url": "https://arkansasonline.com/news/2026/apr/30/virginia-data-center-project-halted",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 09:31:57",
+      "url_hash": "dc188322768caf7a",
+      "content_hash": "4022a9e90ede2c5a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T09:31:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-b439bd1c4c91a480",
       "state": "ME",
@@ -510,7 +590,7 @@
         "rss-dcd"
       ],
       "snippet": "Company aims high with planned pipeline",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -549,7 +629,7 @@
         "rss-dcd"
       ],
       "snippet": "Seb Moss speaks with Fabien Vieu of Sepia Infrastructure on developing European hyperscale campuses, land strategy, long-term asset management, and building community trust through responsible data center development.",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -708,7 +788,7 @@
         "rss-dcd"
       ],
       "snippet": "Project overseen by company formerly known as Bitfarms now heads to Mercer County Regional Planning Commission for approval",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -786,7 +866,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1303,7 +1383,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1704,7 +1784,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6592,7 +6672,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6755,7 +6835,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6794,7 +6874,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-30T07:22:23Z",
+      "last_seen": "2026-04-30T09:31:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8174,6 +8254,21 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 4,
+      "total_engagement": 172,
+      "categories": {
+        "banned": 1,
+        "protested": 2,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 3,
+        "legal": 1
+      },
+      "latest_date": "2026-04-30"
+    },
     "ME": {
       "state": "ME",
       "count": 38,
@@ -8227,20 +8322,6 @@
       "platforms": {
         "news": 2,
         "reddit": 1
-      },
-      "latest_date": "2026-04-28"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 3,
-      "total_engagement": 172,
-      "categories": {
-        "protested": 2,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 2,
-        "legal": 1
       },
       "latest_date": "2026-04-28"
     },

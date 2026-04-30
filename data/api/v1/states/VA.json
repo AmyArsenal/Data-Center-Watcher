@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-04-30T07:22:23Z",
+  "generated_at": "2026-04-30T09:31:57Z",
   "risk_score": {
-    "score": 50.6,
-    "tier": 16.5,
-    "engagement": 10.8,
-    "recency": 11.1,
-    "multi_source": 7.3,
+    "score": 51.8,
+    "tier": 17.2,
+    "engagement": 10.7,
+    "recency": 11.9,
+    "multi_source": 7.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.4,
+    "score": 48.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 1,
-    "denials": 15,
+    "denials": 16,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,21 +26,21 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 33,
+  "count": 34,
   "tier_counts": {
-    "restrictive": 4,
+    "restrictive": 5,
     "unclear": 15,
     "protective": 3,
     "null": 11
   },
   "outcome_counts": {
-    "win": 15,
+    "win": 16,
     "pending": 15,
     "loss": 1,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 24
   },
   "issue_top": {
@@ -69,8 +69,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-04-28",
+  "latest": "2026-04-30",
   "top_citations": [
+    {
+      "id": "news:gdelt-dc188322768caf7a-va",
+      "date": "2026-04-30",
+      "jurisdiction": "arkansasonline.com",
+      "title": "Virginia data center project halted | The Arkansas Democrat - Gazette - Arkansa Best News Source",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://arkansasonline.com/news/2026/apr/30/virginia-data-center-project-halted"
+    },
     {
       "id": "news:rss-canary-69572be3fea443e2-va",
       "date": "2026-04-28",
@@ -151,15 +160,6 @@
       "tier": null,
       "outcome": "win",
       "url": "http://www.fredericksburgfreepress.com/2026/02/25/spotsylvania-board-of-supervisors-vote-to-require-sup-for-data-centers-set-advertised-tax-rate/"
-    },
-    {
-      "id": "research:va-culpeper-county-board-of-supervisors-20260215-coalition-to-save-culpeper-organized-sustained-pub",
-      "date": "2026-02-15",
-      "jurisdiction": "Culpeper County Board of Supervisors",
-      "title": "Coalition to Save Culpeper organized sustained public opposition against 12+ million sq ft of approved data center campuses in Culpeper, inc",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.pecva.org/region/culpeper/tell-culpeper-officials-to-hold-their-ground-no-bending-the-rules-for-reckless-development/"
     }
   ]
 }
