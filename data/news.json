@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-30T09:31:57Z",
+  "generated_at": "2026-04-30T11:17:12Z",
   "window_days": 90,
-  "count": 209,
+  "count": 210,
   "items": [
+    {
+      "id": "rss-dcd-a6c45d748903d7fb",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "SoftBank looks to form robotics unit focused on data center construction - report",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/softbank-looks-to-form-robotics-unit-focused-on-data-center-construction-report",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 11:17:12",
+      "url_hash": "a6c45d748903d7fb",
+      "content_hash": "6a4fdebcb7091316",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Roze AI looks to speed data center construction",
+      "last_seen": "2026-04-30T11:17:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/softbank-looks-to-form-robotics-unit-focused-on-data-center-construction-report/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-353f19741c34254a",
       "state": "US",
@@ -590,7 +629,7 @@
         "rss-dcd"
       ],
       "snippet": "Company aims high with planned pipeline",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -629,7 +668,7 @@
         "rss-dcd"
       ],
       "snippet": "Seb Moss speaks with Fabien Vieu of Sepia Infrastructure on developing European hyperscale campuses, land strategy, long-term asset management, and building community trust through responsible data center development.",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -866,7 +905,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1383,7 +1422,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1784,7 +1823,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6672,7 +6711,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6835,7 +6874,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6874,7 +6913,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-30T09:31:57Z",
+      "last_seen": "2026-04-30T11:17:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
