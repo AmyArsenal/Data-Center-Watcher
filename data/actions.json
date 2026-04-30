@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T22:28:34Z",
-  "count": 576,
+  "generated_at": "2026-04-30T23:27:07Z",
+  "count": 577,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -382,6 +382,51 @@
       "data_source": "news",
       "last_updated": "2026-04-30T11:17:12Z",
       "first_seen": "2026-04-30T11:17:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-8ba14d444381fce3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Editor’s Note: Opposition to Data Centers Puts Regulators on Notice. Politicians on the left and the right are paying close attention to the populist movements, some of which have led to the large-load tariff proposals emerging from coast to coast. The post Editor’s Note: Opposition to Data Centers Puts Regulators on Notice appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/131396-editors-note-opposition-data-centers-puts-regulators-on-notice"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-30T23:27:07Z",
+      "first_seen": "2026-04-30T23:27:07Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -27506,21 +27551,21 @@
     },
     "US": {
       "state": "US",
-      "count": 127,
+      "count": 128,
       "outcome_counts": {
-        "pending": 89,
+        "pending": 90,
         "win": 33,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 122,
+        "restrictive": 123,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 125,
+        "local": 126,
         "statewide": 1,
         "federal": 1
       },
