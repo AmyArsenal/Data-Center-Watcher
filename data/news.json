@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-04-30T21:30:20Z",
+  "generated_at": "2026-04-30T22:28:34Z",
   "window_days": 90,
-  "count": 212,
+  "count": 214,
   "items": [
+    {
+      "id": "gdelt-b57c99aff65c0d0d",
+      "state": "MI",
+      "city": null,
+      "category": "banned",
+      "headline": "Michigan Townships Move to Pause Data Centers Amid Community Backlash",
+      "source_domain": "pymnts.com",
+      "source_name": "pymnts.com",
+      "url": "https://pymnts.com/cpi-posts/michigan-townships-move-to-pause-data-centers-amid-community-backlash",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 22:28:33",
+      "url_hash": "b57c99aff65c0d0d",
+      "content_hash": "a0d2a2a51f7ae98e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T22:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c241ebc393eddbfa",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Camden County rejects Opportunity Zone amid data center concerns",
+      "source_domain": "lakenewsonline.com",
+      "source_name": "lakenewsonline.com",
+      "url": "http://lakenewsonline.com/stories/camden-county-rejects-opportunity-zone-amid-data-center-concerns,198898",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 22:28:33",
+      "url_hash": "c241ebc393eddbfa",
+      "content_hash": "5a8abba1d5caa3f0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T22:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-3019f702961e0b8a",
       "state": "US",
@@ -32,7 +112,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-30T20:18:24Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -72,7 +152,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection&rsquo;s planned backstop auction is flawed, Brian Tierney, FirstEnergy CEO, said. Separately, Pennsylvania Gov. Shaprio says his admininstration will oppose rate hike requests that fail to meet affordability criteria.",
-      "last_seen": "2026-04-30T21:30:20Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -986,7 +1066,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-30T21:30:20Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1503,7 +1583,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-30T21:30:20Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1904,7 +1984,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-30T21:30:20Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6792,7 +6872,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-30T21:30:20Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6955,7 +7035,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-30T21:30:20Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6994,7 +7074,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-30T21:30:20Z",
+      "last_seen": "2026-04-30T22:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8374,6 +8454,20 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 4,
+      "total_engagement": 104,
+      "categories": {
+        "banned": 2,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 3,
+        "reddit": 1
+      },
+      "latest_date": "2026-04-30"
+    },
     "PA": {
       "state": "PA",
       "count": 1,
@@ -8442,20 +8536,6 @@
         "x": 1
       },
       "latest_date": "2026-04-29"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 3,
-      "total_engagement": 104,
-      "categories": {
-        "protested": 2,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 2,
-        "reddit": 1
-      },
-      "latest_date": "2026-04-28"
     },
     "OH": {
       "state": "OH",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T21:30:20Z",
-  "count": 574,
+  "generated_at": "2026-04-30T22:28:34Z",
+  "count": 576,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -204,6 +204,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-b57c99aff65c0d0d-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "pymnts.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan Townships Move to Pause Data Centers Amid Community Backlash",
+      "sources": [
+        "https://pymnts.com/cpi-posts/michigan-townships-move-to-pause-data-centers-amid-community-backlash"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-30T22:28:33Z",
+      "first_seen": "2026-04-30T22:28:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-c241ebc393eddbfa-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "lakenewsonline.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-04-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Camden County rejects Opportunity Zone amid data center concerns",
+      "sources": [
+        "http://lakenewsonline.com/stories/camden-county-rejects-opportunity-zone-amid-data-center-concerns,198898"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-04-30T22:28:33Z",
+      "first_seen": "2026-04-30T22:28:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-dc188322768caf7a-va",
@@ -27414,21 +27506,21 @@
     },
     "US": {
       "state": "US",
-      "count": 126,
+      "count": 127,
       "outcome_counts": {
-        "pending": 88,
+        "pending": 89,
         "win": 33,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 121,
+        "restrictive": 122,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 124,
+        "local": 125,
         "statewide": 1,
         "federal": 1
       },
@@ -27469,6 +27561,35 @@
       "latest_date": "2026-04-30",
       "map_color_tier": "supportive",
       "map_color_outcome": "loss"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 3,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 3,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-04-30",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "TX": {
       "state": "TX",
@@ -27552,35 +27673,6 @@
         "community_impact": 5,
         "ratepayer": 5,
         "grid_energy": 4
-      },
-      "latest_date": "2026-04-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "environmental": 1,
-        "grid_energy": 1
       },
       "latest_date": "2026-04-28",
       "map_color_tier": "restrictive",

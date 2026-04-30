@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-04-30T21:30:20Z",
+  "generated_at": "2026-04-30T22:28:34Z",
   "states": [
     {
       "state": "AK",
@@ -298,16 +298,16 @@
     },
     {
       "state": "MI",
-      "count": 6,
-      "risk_score": 52.2,
+      "count": 7,
+      "risk_score": 54.2,
       "grade": "D",
-      "grade_score": 47.8,
+      "grade_score": 45.8,
       "moratoriums": 1,
       "approvals": 0,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 0,
       "active_companies": 2,
-      "latest": "2026-04-28",
+      "latest": "2026-04-30",
       "url": "data/dossiers/state-MI.json"
     },
     {
