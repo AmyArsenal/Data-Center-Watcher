@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-30T15:10:17Z",
+  "generated_at": "2026-04-30T16:45:06Z",
   "window_days": 90,
-  "count": 210,
+  "count": 211,
   "items": [
+    {
+      "id": "rss-utilitydive-c07863110c1895f3",
+      "state": "PA",
+      "city": null,
+      "category": "announced",
+      "headline": "FirstEnergy opposes key part of PJM data center backstop procurement plan",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/firstenergy-earnings-pjm-auction-affordability-data/818929",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 16:45:05",
+      "url_hash": "c07863110c1895f3",
+      "content_hash": "49fade951d6a5365",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "The PJM Interconnection&rsquo;s planned backstop auction is flawed, Brian Tierney, FirstEnergy CEO, said. Separately, Pennsylvania Gov. Shaprio says his admininstration will oppose rate hike requests that fail to meet affordability criteria.",
+      "last_seen": "2026-04-30T16:45:05Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/firstenergy-earnings-pjm-auction-affordability-data/818929/",
+        "rss_author": "Ethan Howland",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-a6c45d748903d7fb",
       "state": "US",
@@ -905,7 +944,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-30T15:10:17Z",
+      "last_seen": "2026-04-30T16:45:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1422,7 +1461,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-30T15:10:17Z",
+      "last_seen": "2026-04-30T16:45:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1823,7 +1862,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-30T15:10:17Z",
+      "last_seen": "2026-04-30T16:45:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6711,7 +6750,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-30T15:10:17Z",
+      "last_seen": "2026-04-30T16:45:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6874,7 +6913,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-30T15:10:17Z",
+      "last_seen": "2026-04-30T16:45:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6913,7 +6952,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-30T15:10:17Z",
+      "last_seen": "2026-04-30T16:45:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8293,6 +8332,18 @@
     }
   ],
   "by_state": {
+    "PA": {
+      "state": "PA",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "announced": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-04-30"
+    },
     "VA": {
       "state": "VA",
       "count": 4,

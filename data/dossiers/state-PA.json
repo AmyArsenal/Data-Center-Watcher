@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-04-30T15:10:17Z",
+  "generated_at": "2026-04-30T16:45:06Z",
   "risk_score": {
-    "score": 44.6,
-    "tier": 8.9,
-    "engagement": 10.6,
-    "recency": 13.2,
-    "multi_source": 7.0,
+    "score": 44.9,
+    "tier": 8.5,
+    "engagement": 10.4,
+    "recency": 14.3,
+    "multi_source": 6.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 55.4,
+    "score": 55.1,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 9,
     "lawsuits": 0,
     "blocked": 0,
@@ -26,24 +26,26 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 23,
+  "count": 24,
   "tier_counts": {
     "unclear": 10,
-    "supportive": 6,
+    "supportive": 7,
     "null": 7
   },
   "outcome_counts": {
     "pending": 14,
-    "win": 9
+    "win": 9,
+    "loss": 1
   },
   "scope_counts": {
     "statewide": 22,
-    "federal": 1
+    "federal": 1,
+    "local": 1
   },
   "issue_top": {
     "tax_incentive": 6,
+    "ratepayer": 6,
     "grid_energy": 5,
-    "ratepayer": 5,
     "community_impact": 4,
     "environmental": 3,
     "water": 2,
@@ -62,8 +64,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-04-22",
+  "latest": "2026-04-30",
   "top_citations": [
+    {
+      "id": "news:rss-utilitydive-c07863110c1895f3-pa",
+      "date": "2026-04-30",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "FirstEnergy opposes key part of PJM data center backstop procurement plan. The PJM Interconnection&rsquo;s planned backstop auction is flawe",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://utilitydive.com/news/firstenergy-earnings-pjm-auction-affordability-data/818929"
+    },
     {
       "id": "research:pa-pennsylvania-senate-20260422-state-sens-katie-muth-d-and-rosemary-brown-r",
       "date": "2026-04-22",
@@ -144,15 +155,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.palegis.us/legislation/bills/2025/hb2246"
-    },
-    {
-      "id": "openstates:ocd-bill-0b47165d-7727-4e2c-8069-4dc69ed21888-pa",
-      "date": "2026-02-05",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.palegis.us/legislation/bills/2025/hb2198"
     }
   ]
 }
