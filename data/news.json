@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-04-29T23:34:29Z",
+  "generated_at": "2026-04-30T01:21:33Z",
   "window_days": 90,
-  "count": 201,
+  "count": 207,
   "items": [
+    {
+      "id": "gdelt-b439bd1c4c91a480",
+      "state": "ME",
+      "city": null,
+      "category": "banned",
+      "headline": "Maine lawmakers fail to override vetoes on AI data center ban , sealing criminal records",
+      "source_domain": "wgme.com",
+      "source_name": "wgme.com",
+      "url": "https://wgme.com/news/local/maine-lawmakers-fail-to-override-vetoes-on-ai-data-center-ban-sealing-criminal-records-governor-janet-mills-augusta-state-house",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 01:21:32",
+      "url_hash": "b439bd1c4c91a480",
+      "content_hash": "01438523d4ab7255",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T01:21:32Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3b9b7f64e10483e4",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Neighbors react to mayor letter on Temple data centers amid recall efforts",
+      "source_domain": "kxxv.com",
+      "source_name": "kxxv.com",
+      "url": "https://kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/neighbors-react-to-mayors-letter-on-temple-data-centers-amid-recall-efforts",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 01:21:32",
+      "url_hash": "3b9b7f64e10483e4",
+      "content_hash": "7fc85dcab2ff5659",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T01:21:32Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-71dc82bcee4d7a42",
+      "state": "ME",
+      "city": null,
+      "category": "banned",
+      "headline": "Maine Legislature does not override Gov . Mill veto of data center moratorium",
+      "source_domain": "wabi.tv",
+      "source_name": "wabi.tv",
+      "url": "https://wabi.tv/2026/04/29/maine-legislature-does-not-override-gov-mills-veto-data-center-moratorium",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 01:21:32",
+      "url_hash": "71dc82bcee4d7a42",
+      "content_hash": "44a4524f822c3f4a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T01:21:32Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-449d5e3f930336a0",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Efforts to override Gov . Mill data center moratorium veto unsuccessful",
+      "source_domain": "wabi.tv",
+      "source_name": "wabi.tv",
+      "url": "https://wabi.tv/2026/04/29/efforts-override-gov-mills-vetoes-go-unsuccesful",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 01:21:32",
+      "url_hash": "449d5e3f930336a0",
+      "content_hash": "5edc0db47fb46b13",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T01:21:32Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6ced2f37809d7fc0",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Indiantown proposed data center plans scrapped as village sets record straight on undeveloped land",
+      "source_domain": "wflx.com",
+      "source_name": "wflx.com",
+      "url": "https://wflx.com/2026/04/29/indiantown-proposed-data-center-plans-scrapped-village-sets-record-straight-undeveloped-land",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 01:21:32",
+      "url_hash": "6ced2f37809d7fc0",
+      "content_hash": "bad1580bedf317c8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T01:21:32Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-60859e5f5ca71d8e",
+      "state": "FL",
+      "city": null,
+      "category": "protested",
+      "headline": "Scrapped data center in Okeechobee County mirrors rising opposition to data centers in South Florida",
+      "source_domain": "wlrn.org",
+      "source_name": "wlrn.org",
+      "url": "https://wlrn.org/government-politics/2026-04-29/scrapped-data-center-in-okeechobee-county-mirrors-rising-opposition-to-data-centers-in-south-florida",
+      "date": "2026-04-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-04-30 01:21:32",
+      "url_hash": "60859e5f5ca71d8e",
+      "content_hash": "6f332ecadba959b2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-04-30T01:21:32Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-38c303fa2ff59ee2",
       "state": "US",
@@ -30,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T22:37:48Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +390,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T21:36:28Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -270,7 +510,7 @@
         "rss-dcd"
       ],
       "snippet": "Company aims high with planned pipeline",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -309,7 +549,7 @@
         "rss-dcd"
       ],
       "snippet": "Seb Moss speaks with Fabien Vieu of Sepia Infrastructure on developing European hyperscale campuses, land strategy, long-term asset management, and building community trust through responsible data center development.",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -468,7 +708,7 @@
         "rss-dcd"
       ],
       "snippet": "Project overseen by company formerly known as Bitfarms now heads to Mercer County Regional Planning Commission for approval",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -546,7 +786,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -585,7 +825,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-29T06:23:39Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1063,7 +1303,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1464,7 +1704,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6352,7 +6592,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6515,7 +6755,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6554,7 +6794,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-04-29T23:34:29Z",
+      "last_seen": "2026-04-30T01:21:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7936,16 +8176,28 @@
   "by_state": {
     "ME": {
       "state": "ME",
-      "count": 36,
+      "count": 38,
       "total_engagement": 35464,
       "categories": {
-        "banned": 31,
+        "banned": 33,
         "protested": 5
       },
       "platforms": {
-        "news": 15,
+        "news": 17,
         "reddit": 17,
         "x": 4
+      },
+      "latest_date": "2026-04-30"
+    },
+    "FL": {
+      "state": "FL",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1
+      },
+      "platforms": {
+        "news": 1
       },
       "latest_date": "2026-04-29"
     },

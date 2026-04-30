@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "FL",
-  "generated_at": "2026-04-29T23:34:30Z",
+  "generated_at": "2026-04-30T01:21:33Z",
   "risk_score": {
-    "score": 40.6,
-    "tier": 12.0,
-    "engagement": 10.4,
-    "recency": 11.6,
-    "multi_source": 6.7,
+    "score": 47.2,
+    "tier": 16.0,
+    "engagement": 9.8,
+    "recency": 15.6,
+    "multi_source": 5.7,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.4,
+    "score": 52.8,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,18 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "unclear": 4,
-    "null": 2
+    "null": 2,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 4,
+    "pending": 5,
     "win": 2
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "water": 2,
@@ -50,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-05",
-  "latest": "2026-04-14",
+  "latest": "2026-04-29",
   "top_citations": [
+    {
+      "id": "news:gdelt-60859e5f5ca71d8e-fl",
+      "date": "2026-04-29",
+      "jurisdiction": "wlrn.org",
+      "title": "Scrapped data center in Okeechobee County mirrors rising opposition to data centers in South Florida",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wlrn.org/government-politics/2026-04-29/scrapped-data-center-in-okeechobee-county-mirrors-rising-opposition-to-data-centers-in-south-florida"
+    },
     {
       "id": "research:fl-nassau-county-board-20260414-nassau-county-board-of-county-commissioners-direct",
       "date": "2026-04-14",

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-04-29T23:34:30Z",
+  "generated_at": "2026-04-30T01:21:33Z",
   "risk_score": {
-    "score": 69.3,
-    "tier": 35.4,
-    "engagement": 7.3,
+    "score": 69.4,
+    "tier": 35.6,
+    "engagement": 7.2,
     "recency": 20.0,
     "multi_source": 1.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "F",
-    "score": 30.7,
+    "score": 30.6,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
-    "moratoriums": 26,
+    "moratoriums": 27,
     "approvals": 1,
-    "denials": 36,
+    "denials": 38,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 43,
+  "count": 45,
   "tier_counts": {
-    "restrictive": 36,
+    "restrictive": 38,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 36,
+    "win": 38,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
-    "local": 28,
-    "statewide": 15
+    "local": 29,
+    "statewide": 16
   },
   "issue_top": {
     "grid_energy": 9,
@@ -59,8 +59,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2017-12-22",
-  "latest": "2026-04-29",
+  "latest": "2026-04-30",
   "top_citations": [
+    {
+      "id": "news:gdelt-b439bd1c4c91a480-me",
+      "date": "2026-04-30",
+      "jurisdiction": "wgme.com",
+      "title": "Maine lawmakers fail to override vetoes on AI data center ban , sealing criminal records",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wgme.com/news/local/maine-lawmakers-fail-to-override-vetoes-on-ai-data-center-ban-sealing-criminal-records-governor-janet-mills-augusta-state-house"
+    },
     {
       "id": "news:rss-dck-1c5ffd9050ba64fb-me",
       "date": "2026-04-29",
@@ -78,6 +87,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://centralmaine.com/2026/04/29/maine-legislature-sustains-mills-data-center-moratorium-veto"
+    },
+    {
+      "id": "news:gdelt-71dc82bcee4d7a42-me",
+      "date": "2026-04-29",
+      "jurisdiction": "wabi.tv",
+      "title": "Maine Legislature does not override Gov . Mill veto of data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wabi.tv/2026/04/29/maine-legislature-does-not-override-gov-mills-veto-data-center-moratorium"
     },
     {
       "id": "news:rss-dcd-a05d7aadcc8d1c57-me",
@@ -132,24 +150,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://reddit.com/r/ProgressiveHQ/comments/1svcvhf/janet_mills_vetoes_maine_data_center_ban"
-    },
-    {
-      "id": "social:reddit-462dc5f459517dbf-me",
-      "date": "2026-04-25",
-      "jurisdiction": "r/NewsSource",
-      "title": "Maine Gov. Janet Mills vetoes ban on data center construction",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/NewsSource/comments/1sv66hz/maine_gov_janet_mills_vetoes_ban_on_data_center"
-    },
-    {
-      "id": "social:reddit-8140de050778a624-me",
-      "date": "2026-04-25",
-      "jurisdiction": "r/thespinroom",
-      "title": "Maine Gov. Janet Mills vetoes ban on data center construction. Are you shitting me?",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/thespinroom/comments/1sv297x/maine_gov_janet_mills_vetoes_ban_on_data_center"
     }
   ]
 }

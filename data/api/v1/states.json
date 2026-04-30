@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-04-29T23:34:30Z",
+  "generated_at": "2026-04-30T01:21:33Z",
   "states": [
     {
       "state": "AK",
@@ -130,16 +130,16 @@
     },
     {
       "state": "FL",
-      "count": 6,
-      "risk_score": 40.6,
+      "count": 7,
+      "risk_score": 47.2,
       "grade": "C",
-      "grade_score": 59.4,
+      "grade_score": 52.8,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 2,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-04-14",
+      "latest": "2026-04-29",
       "url": "data/dossiers/state-FL.json"
     },
     {
@@ -284,16 +284,16 @@
     },
     {
       "state": "ME",
-      "count": 43,
-      "risk_score": 69.3,
+      "count": 45,
+      "risk_score": 69.4,
       "grade": "F",
-      "grade_score": 30.7,
-      "moratoriums": 26,
+      "grade_score": 30.6,
+      "moratoriums": 27,
       "approvals": 1,
-      "denials": 36,
+      "denials": 38,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-04-29",
+      "latest": "2026-04-30",
       "url": "data/dossiers/state-ME.json"
     },
     {
@@ -551,9 +551,9 @@
     {
       "state": "SC",
       "count": 11,
-      "risk_score": 55.2,
+      "risk_score": 54.3,
       "grade": "D",
-      "grade_score": 44.8,
+      "grade_score": 45.7,
       "moratoriums": 4,
       "approvals": 0,
       "denials": 1,
@@ -663,9 +663,9 @@
     {
       "state": "WI",
       "count": 21,
-      "risk_score": 47.9,
+      "risk_score": 47.8,
       "grade": "C",
-      "grade_score": 52.1,
+      "grade_score": 52.2,
       "moratoriums": 5,
       "approvals": 0,
       "denials": 5,
@@ -677,9 +677,9 @@
     {
       "state": "WV",
       "count": 15,
-      "risk_score": 45.3,
+      "risk_score": 44.0,
       "grade": "C",
-      "grade_score": 54.7,
+      "grade_score": 56.0,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 1,
