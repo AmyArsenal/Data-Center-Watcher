@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-05-01T00:12:04Z",
+  "generated_at": "2026-05-01T04:14:37Z",
   "risk_score": {
-    "score": 51.0,
-    "tier": 17.2,
-    "engagement": 10.7,
-    "recency": 11.1,
-    "multi_source": 7.1,
+    "score": 53.3,
+    "tier": 18.4,
+    "engagement": 10.4,
+    "recency": 12.7,
+    "multi_source": 6.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.0,
+    "score": 46.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 34,
+  "count": 36,
   "tier_counts": {
-    "restrictive": 5,
+    "restrictive": 7,
     "unclear": 15,
     "protective": 3,
     "null": 11
   },
   "outcome_counts": {
     "win": 16,
-    "pending": 15,
+    "pending": 17,
     "loss": 1,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 10,
+    "local": 12,
     "statewide": 24
   },
   "issue_top": {
@@ -69,8 +69,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-04-30",
+  "latest": "2026-05-01",
   "top_citations": [
+    {
+      "id": "news:gdelt-4e999ee3137c02c0-va",
+      "date": "2026-05-01",
+      "jurisdiction": "zerohedge.com",
+      "title": "Here Come The Cancellations : Brookfield - Backed Compass Pulls Out From Major Northern Virginia Data Center Project",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://zerohedge.com/markets/here-come-cancellations-brookfield-backed-compass-pulls-out-major-northern-virginia-data"
+    },
     {
       "id": "news:gdelt-dc188322768caf7a-va",
       "date": "2026-04-30",
@@ -79,6 +88,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://arkansasonline.com/news/2026/apr/30/virginia-data-center-project-halted"
+    },
+    {
+      "id": "news:gdelt-0141b9feef0c1444-va",
+      "date": "2026-04-30",
+      "jurisdiction": "therealdeal.com",
+      "title": "Brookfield Affiliate Abandons Virginia Data Center",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://therealdeal.com/national/washington-dc/2026/04/30/brookfield-affiliate-abandons-virginia-data-center"
     },
     {
       "id": "news:rss-canary-69572be3fea443e2-va",
@@ -142,24 +160,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://virginiamercury.com/2026/03/17/data-center-bills-dominated-this-years-general-assembly-heres-what-passed/"
-    },
-    {
-      "id": "news:loudoun-va-2026-03-15-va",
-      "date": "2026-03-15",
-      "jurisdiction": "Loudoun County",
-      "title": "Loudoun County eliminates by-right data center approval - every project now requires Special Exception",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://patch.com/virginia/ashburn/data-center-right-approval-process-removed-loudoun-county"
-    },
-    {
-      "id": "research:va-spotsylvania-county-board-of-supervisors-20260225-spotsylvania-board-voted-4-3-to-require-special-us",
-      "date": "2026-02-25",
-      "jurisdiction": "Spotsylvania County Board of Supervisors",
-      "title": "Spotsylvania Board voted 4-3 to require Special Use Permits for data centers in commercial, agricultural and industrial districts. Standards",
-      "tier": null,
-      "outcome": "win",
-      "url": "http://www.fredericksburgfreepress.com/2026/02/25/spotsylvania-board-of-supervisors-vote-to-require-sup-for-data-centers-set-advertised-tax-rate/"
     }
   ]
 }

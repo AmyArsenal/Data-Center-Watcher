@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-05-01T00:12:03Z",
+  "generated_at": "2026-05-01T04:14:37Z",
   "window_days": 90,
-  "count": 215,
+  "count": 222,
   "items": [
+    {
+      "id": "gdelt-9a347ed17f43247b",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Fulton County Area Plan Commission and Data Center Ordinance Committee Sued",
+      "source_domain": "wsbt.com",
+      "source_name": "wsbt.com",
+      "url": "https://wsbt.com/news/local/fulton-county-area-plan-commission-and-data-center-ordinance-committee-sued-indiana-meeting-public-review-injunction-transparency-open-door-law",
+      "date": "2026-05-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-01 04:14:37",
+      "url_hash": "9a347ed17f43247b",
+      "content_hash": "9b65dc1db33f21ca",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-01T04:14:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0546830564c9228b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Ferguson slows data center project as residents press for answers",
+      "source_domain": "stlamerican.com",
+      "source_name": "stlamerican.com",
+      "url": "https://stlamerican.com/news/local-news/ferguson-slows-data-center-project-as-residents-press-for-answers",
+      "date": "2026-05-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-01 04:14:37",
+      "url_hash": "0546830564c9228b",
+      "content_hash": "7415c8bc32337be0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-01T04:14:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7c4dfba156c2c302",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents press city council on data center transparency , water use and housing concerns",
+      "source_domain": "ktxs.com",
+      "source_name": "ktxs.com",
+      "url": "https://ktxs.com/news/local/residents-press-city-council-on-data-center-transparency-water-use-and-housing-concerns",
+      "date": "2026-05-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-01 04:14:37",
+      "url_hash": "7c4dfba156c2c302",
+      "content_hash": "81439a576ec5b54b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-01T04:14:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4e999ee3137c02c0",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Here Come The Cancellations : Brookfield - Backed Compass Pulls Out From Major Northern Virginia Data Center Project",
+      "source_domain": "zerohedge.com",
+      "source_name": "zerohedge.com",
+      "url": "https://zerohedge.com/markets/here-come-cancellations-brookfield-backed-compass-pulls-out-major-northern-virginia-data",
+      "date": "2026-05-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-01 04:14:37",
+      "url_hash": "4e999ee3137c02c0",
+      "content_hash": "58fb0ffa96565e2e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-01T04:14:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4fe6b0fc7e050478",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Chesapeake considering tax rate increase , zoning changes for future data center projects",
+      "source_domain": "dailypress.com",
+      "source_name": "dailypress.com",
+      "url": "https://dailypress.com/2026/04/30/chesapeake-considering-tax-rate-increase-zoning-changes-for-future-data-center-projects",
+      "date": "2026-05-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-01 04:14:37",
+      "url_hash": "4fe6b0fc7e050478",
+      "content_hash": "9928bb005e3953ab",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-01T04:14:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b85dce271d0d31f9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Planners send industrial rules to council as some residents worry about data center",
+      "source_domain": "nvdaily.com",
+      "source_name": "nvdaily.com",
+      "url": "https://nvdaily.com/nvdaily/planners-send-industrial-rules-to-council-as-some-residents-worry-about-data-center/article_91844ecf-82c5-57ec-aad4-3225af7671d9.html",
+      "date": "2026-05-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-01 04:14:37",
+      "url_hash": "b85dce271d0d31f9",
+      "content_hash": "d98cefa3497755a8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-01T04:14:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0141b9feef0c1444",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Brookfield Affiliate Abandons Virginia Data Center",
+      "source_domain": "therealdeal.com",
+      "source_name": "therealdeal.com",
+      "url": "https://therealdeal.com/national/washington-dc/2026/04/30/brookfield-affiliate-abandons-virginia-data-center",
+      "date": "2026-04-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-01 04:14:37",
+      "url_hash": "0141b9feef0c1444",
+      "content_hash": "c2fd4c0aad3d1600",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-01T04:14:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-rto-insider-8ba14d444381fce3",
       "state": "US",
@@ -30,7 +310,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Politicians on the left and the right are paying close attention to the populist movements, some of which have led to the large-load tariff proposals emerging from coast to coast. The post Editor’s Note: Opposition to Data Centers Puts Regulators on Notice appeared first on RTO Insider .",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -151,7 +431,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-04-30T22:28:33Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -191,7 +471,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection&rsquo;s planned backstop auction is flawed, Brian Tierney, FirstEnergy CEO, said. Separately, Pennsylvania Gov. Shaprio says his admininstration will oppose rate hike requests that fail to meet affordability criteria.",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1105,7 +1385,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1622,7 +1902,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2023,7 +2303,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6911,7 +7191,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7074,7 +7354,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7113,7 +7393,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-05-01T00:12:03Z",
+      "last_seen": "2026-05-01T04:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8493,6 +8773,21 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 6,
+      "total_engagement": 172,
+      "categories": {
+        "protested": 4,
+        "banned": 1,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 5,
+        "legal": 1
+      },
+      "latest_date": "2026-05-01"
+    },
     "MI": {
       "state": "MI",
       "count": 4,
@@ -8516,21 +8811,6 @@
       },
       "platforms": {
         "news": 1
-      },
-      "latest_date": "2026-04-30"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 4,
-      "total_engagement": 172,
-      "categories": {
-        "banned": 1,
-        "protested": 2,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 3,
-        "legal": 1
       },
       "latest_date": "2026-04-30"
     },
