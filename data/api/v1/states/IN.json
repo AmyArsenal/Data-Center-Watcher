@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-05-01T18:44:51Z",
+  "generated_at": "2026-05-01T19:51:21Z",
   "risk_score": {
-    "score": 51.2,
-    "tier": 20.0,
+    "score": 53.8,
+    "tier": 22.5,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 48.8,
+    "score": 46.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,18 +26,18 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
-    "restrictive": 2,
+    "restrictive": 3,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 4,
+    "pending": 5,
     "win": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 2
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-01",
-  "latest": "2026-04-23",
+  "latest": "2026-05-01",
   "top_citations": [
+    {
+      "id": "news:rss-latitude-b7298049ca437f36-in",
+      "date": "2026-05-01",
+      "jurisdiction": "Latitude Media",
+      "title": "In Indiana, an anatomy of data center opposition. High electricity rates, labor challenges, and black-box deals are colliding with longstand",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://latitudemedia.com/news/in-indiana-an-anatomy-of-data-center-opposition"
+    },
     {
       "id": "social:reddit-78dc109a58ec9dbf-in",
       "date": "2026-04-23",
