@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T01:16:24Z",
-  "count": 585,
+  "generated_at": "2026-05-02T04:31:54Z",
+  "count": 586,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-7794c25e6ea7bcd9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "timesleader.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-02",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers , legalizing marijuana top issues at Back Mountain Chamber event",
+      "sources": [
+        "https://timesleader.com/news/1740500/data-centers-legalizing-marijuana-top-issues-at-back-mountain-chamber-event"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-02T04:31:53Z",
+      "first_seen": "2026-05-02T04:31:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-0546830564c9228b-us",
@@ -27866,21 +27911,21 @@
     },
     "US": {
       "state": "US",
-      "count": 133,
+      "count": 134,
       "outcome_counts": {
-        "pending": 94,
+        "pending": 95,
         "win": 34,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 128,
+        "restrictive": 129,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 131,
+        "local": 132,
         "statewide": 1,
         "federal": 1
       },
@@ -27889,7 +27934,7 @@
         "zoning": 5,
         "water": 4
       },
-      "latest_date": "2026-05-01",
+      "latest_date": "2026-05-02",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
