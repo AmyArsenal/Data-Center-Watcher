@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-02T22:21:45Z",
+  "generated_at": "2026-05-02T23:06:23Z",
   "window_days": 90,
-  "count": 229,
+  "count": 231,
   "items": [
+    {
+      "id": "gdelt-86e90a6f8971c02f",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Athens leaders introduce new data center category in adjusted city zoning ordinance",
+      "source_domain": "enewscourier.com",
+      "source_name": "enewscourier.com",
+      "url": "https://enewscourier.com/2026/05/02/athens-leaders-introduce-new-data-center-category-in-adjusted-city-zoning-ordinance",
+      "date": "2026-05-02",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-02 23:06:23",
+      "url_hash": "86e90a6f8971c02f",
+      "content_hash": "204bbfa987a73edf",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-02T23:06:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-73dacba937a928db",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Lowell residents sue over data center expansion",
+      "source_domain": "wcvb.com",
+      "source_name": "wcvb.com",
+      "url": "https://wcvb.com/article/lowell-data-center-expansion-lawsuit/71192501",
+      "date": "2026-05-02",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-02 23:06:23",
+      "url_hash": "73dacba937a928db",
+      "content_hash": "dec9179c04b4978e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-02T23:06:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-24a496171662e7fc",
       "state": "US",
@@ -270,7 +350,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -589,7 +669,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Politicians on the left and the right are paying close attention to the populist movements, some of which have led to the large-load tariff proposals emerging from coast to coast. The post Editor’s Note: Opposition to Data Centers Puts Regulators on Notice appeared first on RTO Insider .",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -750,7 +830,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection&rsquo;s planned backstop auction is flawed, Brian Tierney, FirstEnergy CEO, said. Separately, Pennsylvania Gov. Shaprio says his admininstration will oppose rate hike requests that fail to meet affordability criteria.",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1664,7 +1744,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2181,7 +2261,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2582,7 +2662,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7470,7 +7550,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7633,7 +7713,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7672,7 +7752,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-05-02T22:21:44Z",
+      "last_seen": "2026-05-02T23:06:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
