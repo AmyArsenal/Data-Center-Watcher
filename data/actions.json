@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T06:29:15Z",
-  "count": 589,
+  "generated_at": "2026-05-02T08:06:47Z",
+  "count": 590,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -243,6 +243,51 @@
       "data_source": "news",
       "last_updated": "2026-05-02T06:29:15Z",
       "first_seen": "2026-05-02T06:29:15Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-fe0f3573152407cf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "seattletimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-02",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Seattle Mayor Katie Wilson backs data center moratorium",
+      "sources": [
+        "https://seattletimes.com/seattle-news/climate-lab/seattle-mayor-katie-wilson-backs-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-02T08:06:46Z",
+      "first_seen": "2026-05-02T08:06:46Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -28046,21 +28091,21 @@
     },
     "US": {
       "state": "US",
-      "count": 137,
+      "count": 138,
       "outcome_counts": {
         "pending": 95,
-        "win": 37,
+        "win": 38,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 132,
+        "restrictive": 133,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 135,
+        "local": 136,
         "statewide": 1,
         "federal": 1
       },
