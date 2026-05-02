@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-01T23:33:54Z",
+  "generated_at": "2026-05-02T01:16:24Z",
   "states": [
     {
       "state": "AK",
@@ -243,9 +243,9 @@
     {
       "state": "LA",
       "count": 5,
-      "risk_score": 53.0,
+      "risk_score": 52.7,
       "grade": "D",
-      "grade_score": 47.0,
+      "grade_score": 47.3,
       "moratoriums": 0,
       "approvals": 2,
       "denials": 2,
@@ -537,9 +537,9 @@
     {
       "state": "RI",
       "count": 5,
-      "risk_score": 37.6,
-      "grade": "C",
-      "grade_score": 62.4,
+      "risk_score": 32.3,
+      "grade": "B",
+      "grade_score": 67.7,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 0,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 36,
-      "risk_score": 53.3,
+      "risk_score": 52.5,
       "grade": "D",
-      "grade_score": 46.7,
+      "grade_score": 47.5,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 16,
@@ -808,7 +808,7 @@
       "county_name": "Prince William County",
       "state": "VA",
       "count": 1,
-      "risk_score": 66.2,
+      "risk_score": 59.6,
       "latest": "2026-04-01",
       "url": "data/dossiers/county-51153.json"
     }

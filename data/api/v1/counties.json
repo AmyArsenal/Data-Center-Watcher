@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-05-01T23:33:54Z",
+  "generated_at": "2026-05-02T01:16:24Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -106,7 +106,7 @@
       "county_name": "Prince William County",
       "state": "VA",
       "count": 1,
-      "risk_score": 66.2,
+      "risk_score": 59.6,
       "latest": "2026-04-01",
       "url": "data/dossiers/county-51153.json"
     }
