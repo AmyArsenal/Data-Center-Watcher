@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T23:58:24Z",
-  "count": 593,
+  "generated_at": "2026-05-03T02:30:22Z",
+  "count": 594,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -337,6 +337,51 @@
       "data_source": "news",
       "last_updated": "2026-05-02T23:06:23Z",
       "first_seen": "2026-05-02T23:06:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b02e2af83603688a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fortune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-02",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Unionized workers form alliance with rich tech giants on AI data centers , pushing back on opposition",
+      "sources": [
+        "https://fortune.com/2026/05/02/unionized-workers-skilled-trades-alliance-tech-giants-ai-data-centers-construction"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-03T02:30:22Z",
+      "first_seen": "2026-05-03T02:30:22Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -28230,21 +28275,21 @@
     },
     "US": {
       "state": "US",
-      "count": 141,
+      "count": 142,
       "outcome_counts": {
-        "pending": 97,
+        "pending": 98,
         "win": 39,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 136,
+        "restrictive": 137,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 138,
+        "local": 139,
         "statewide": 1,
         "federal": 2
       },

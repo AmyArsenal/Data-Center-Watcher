@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-02T23:58:25Z",
+  "generated_at": "2026-05-03T02:30:22Z",
   "states": [
     {
       "state": "AK",
@@ -75,9 +75,9 @@
     {
       "state": "CO",
       "count": 5,
-      "risk_score": 42.4,
+      "risk_score": 37.1,
       "grade": "C",
-      "grade_score": 57.6,
+      "grade_score": 62.9,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 0,
@@ -131,9 +131,9 @@
     {
       "state": "FL",
       "count": 7,
-      "risk_score": 47.2,
+      "risk_score": 45.8,
       "grade": "C",
-      "grade_score": 52.8,
+      "grade_score": 54.2,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 2,
@@ -145,9 +145,9 @@
     {
       "state": "GA",
       "count": 13,
-      "risk_score": 48.0,
+      "risk_score": 47.3,
       "grade": "C",
-      "grade_score": 52.0,
+      "grade_score": 52.7,
       "moratoriums": 3,
       "approvals": 1,
       "denials": 2,
@@ -663,9 +663,9 @@
     {
       "state": "WI",
       "count": 21,
-      "risk_score": 46.5,
+      "risk_score": 46.4,
       "grade": "C",
-      "grade_score": 53.5,
+      "grade_score": 53.6,
       "moratoriums": 5,
       "approvals": 0,
       "denials": 5,
