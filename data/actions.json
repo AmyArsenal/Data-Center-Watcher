@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T15:02:31Z",
-  "count": 596,
+  "generated_at": "2026-05-04T16:59:36Z",
+  "count": 597,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-882e5f6124790cd0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "benzinga.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Boom Meets Energy Limits As Denmark Halts New Projects Amid AI - Driven Power Crisis - Alphabet",
+      "sources": [
+        "https://benzinga.com/markets/tech/26/05/52240792/data-center-boom-meets-energy-limits-as-denmark-halts-new-projects-amid-ai-driven-power-crisis"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-04T16:59:35Z",
+      "first_seen": "2026-05-04T16:59:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-74f6203f1f9ea3de-us",
@@ -28370,21 +28415,21 @@
     },
     "US": {
       "state": "US",
-      "count": 144,
+      "count": 145,
       "outcome_counts": {
-        "pending": 100,
+        "pending": 101,
         "win": 39,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 139,
+        "restrictive": 140,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 141,
+        "local": 142,
         "statewide": 1,
         "federal": 2
       },
@@ -28393,7 +28438,7 @@
         "zoning": 6,
         "water": 4
       },
-      "latest_date": "2026-05-03",
+      "latest_date": "2026-05-04",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
