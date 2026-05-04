@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-05-04T16:59:36Z",
+  "generated_at": "2026-05-04T18:14:00Z",
   "filter": {
     "issue_category": "grid_energy"
   },
-  "count": 114,
+  "count": 115,
   "items": [
     {
       "id": "news:rss-dck-434e9e7618221e82-us",
@@ -4567,6 +4567,46 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-latitude-33240baee0d98a52-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Latitude Media",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-05-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": "[\"grid_energy\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "NERC sounds the alarm that data centers risk overtaxing the grid. The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media",
+      "sources": "[\"https://latitudemedia.com/news/nerc-sounds-the-alarm-that-data-centers-risk-overtaxing-the-grid\"]",
+      "data_source": "news",
+      "last_updated": "2026-05-04T18:13:59Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     }
   ]
 }

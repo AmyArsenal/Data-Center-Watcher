@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-05-04T16:59:36Z",
+  "generated_at": "2026-05-04T18:13:59Z",
   "window_days": 90,
-  "count": 235,
+  "count": 237,
   "items": [
+    {
+      "id": "gdelt-fdda3661c3c3ce0c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Backlash grows as almost half of Americans oppose local AI data centers",
+      "source_domain": "mpamag.com",
+      "source_name": "mpamag.com",
+      "url": "https://mpamag.com/us/mortgage-industry/industry-trends/backlash-grows-as-almost-half-of-americans-oppose-local-ai-data-centers/573940",
+      "date": "2026-05-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-04 18:13:59",
+      "url_hash": "fdda3661c3c3ce0c",
+      "content_hash": "353e416b449413b9",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-04T18:13:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-latitude-33240baee0d98a52",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "NERC sounds the alarm that data centers risk overtaxing the grid",
+      "source_domain": "latitudemedia.com",
+      "source_name": "Latitude Media",
+      "url": "https://latitudemedia.com/news/nerc-sounds-the-alarm-that-data-centers-risk-overtaxing-the-grid",
+      "date": "2026-05-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-04 18:13:59",
+      "url_hash": "33240baee0d98a52",
+      "content_hash": "fda36786f74c2c18",
+      "source": "rss-latitude",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-latitude"
+      ],
+      "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
+      "last_seen": "2026-05-04T18:13:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.latitudemedia.com/?p=13647",
+        "rss_author": "Catherine Boudreau",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-882e5f6124790cd0",
       "state": "US",
@@ -510,7 +589,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1388,7 +1467,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1904,7 +1983,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2421,7 +2500,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2822,7 +2901,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7710,7 +7789,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7873,7 +7952,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7912,7 +7991,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-05-04T16:59:35Z",
+      "last_seen": "2026-05-04T18:13:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
