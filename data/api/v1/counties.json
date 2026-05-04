@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-05-03T23:07:56Z",
+  "generated_at": "2026-05-04T00:00:48Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -70,7 +70,7 @@
       "county_name": "Oklahoma County",
       "state": "OK",
       "count": 8,
-      "risk_score": 56.9,
+      "risk_score": 54.4,
       "latest": "2026-04-22",
       "url": "data/dossiers/county-40109.json"
     },

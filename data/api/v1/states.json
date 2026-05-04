@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-03T23:07:56Z",
+  "generated_at": "2026-05-04T00:00:48Z",
   "states": [
     {
       "state": "AK",
@@ -117,7 +117,7 @@
     {
       "state": "DE",
       "count": 3,
-      "risk_score": 36.6,
+      "risk_score": 33.5,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
@@ -495,9 +495,9 @@
     {
       "state": "OK",
       "count": 17,
-      "risk_score": 58.6,
+      "risk_score": 53.1,
       "grade": "D",
-      "grade_score": 41.4,
+      "grade_score": 46.9,
       "moratoriums": 3,
       "approvals": 1,
       "denials": 5,
@@ -677,9 +677,9 @@
     {
       "state": "WV",
       "count": 15,
-      "risk_score": 42.8,
+      "risk_score": 42.1,
       "grade": "C",
-      "grade_score": 57.2,
+      "grade_score": 57.9,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 1,
