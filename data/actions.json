@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T22:44:37Z",
-  "count": 599,
+  "generated_at": "2026-05-04T23:35:52Z",
+  "count": 601,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -112,6 +112,96 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-883516284f5c84d0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "gpb.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-04",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Camden set to vote on data center moratorium amid Kingsland rezone vote",
+      "sources": [
+        "https://gpb.org/news/2026/05/04/camden-set-vote-on-data-center-moratorium-amid-kingsland-rezone-vote"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-04T23:35:52Z",
+      "first_seen": "2026-05-04T23:35:52Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d8ceb6bbb3d46455-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "1350kman.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-04",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Riley County plans to explore pros , cons of data centers during moratorium",
+      "sources": [
+        "https://1350kman.com/2026/05/riley-county-plans-to-explore-pros-cons-of-data-centers-during-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-04T23:35:52Z",
+      "first_seen": "2026-05-04T23:35:52Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-fdda3661c3c3ce0c-us",
@@ -28507,21 +28597,21 @@
     },
     "US": {
       "state": "US",
-      "count": 147,
+      "count": 149,
       "outcome_counts": {
         "pending": 103,
-        "win": 39,
+        "win": 41,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 142,
+        "restrictive": 144,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 144,
+        "local": 146,
         "statewide": 1,
         "federal": 2
       },

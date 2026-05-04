@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-04T22:44:37Z",
+  "generated_at": "2026-05-04T23:35:52Z",
   "window_days": 90,
-  "count": 237,
+  "count": 239,
   "items": [
+    {
+      "id": "gdelt-883516284f5c84d0",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Camden set to vote on data center moratorium amid Kingsland rezone vote",
+      "source_domain": "gpb.org",
+      "source_name": "gpb.org",
+      "url": "https://gpb.org/news/2026/05/04/camden-set-vote-on-data-center-moratorium-amid-kingsland-rezone-vote",
+      "date": "2026-05-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-04 23:35:52",
+      "url_hash": "883516284f5c84d0",
+      "content_hash": "d62fbc42afa67ff2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-04T23:35:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d8ceb6bbb3d46455",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Riley County plans to explore pros , cons of data centers during moratorium",
+      "source_domain": "1350kman.com",
+      "source_name": "1350kman.com",
+      "url": "https://1350kman.com/2026/05/riley-county-plans-to-explore-pros-cons-of-data-centers-during-moratorium",
+      "date": "2026-05-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-04 23:35:52",
+      "url_hash": "d8ceb6bbb3d46455",
+      "content_hash": "ec44267843b81c91",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-04T23:35:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-fdda3661c3c3ce0c",
       "state": "US",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +150,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -589,7 +669,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1983,7 +2063,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2500,7 +2580,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2901,7 +2981,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7789,7 +7869,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7952,7 +8032,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7991,7 +8071,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-05-04T22:44:36Z",
+      "last_seen": "2026-05-04T23:35:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
