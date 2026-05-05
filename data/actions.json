@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T01:16:23Z",
-  "count": 603,
+  "generated_at": "2026-05-05T04:31:51Z",
+  "count": 606,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,148 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-98034725cf8a66f6-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "patch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-05",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "It Just An Inquiry , Blue Island Mayor Reassures Residents Nervous About Data Center",
+      "sources": [
+        "https://patch.com/illinois/alsip-crestwood/it-s-just-inquiry-blue-island-mayor-reassures-residents-nervous-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-05T04:31:51Z",
+      "first_seen": "2026-05-05T04:31:51Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-f3ef1ed1fb7ef947-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "firstcoastnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "zoning_restriction",
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-05-05",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Rezoning requests to allow for data center in Kingsland withdrawn",
+      "sources": [
+        "https://firstcoastnews.com/article/news/local/rezoning-data-center-allowance-kingsland-camden-withdrawn/77-019e9615-174c-4542-8dcb-74fea44eab7b"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-05T04:31:51Z",
+      "first_seen": "2026-05-05T04:31:51Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-645edd43e0cbfb1d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-05",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Large Loads Add Difficulties to an Already Tough Subject: Cost Allocation. Exclusive interviews and examinations of relevant dockets look into the issue of making sure data centers pay for their share of needed grid expansions. The post Large Loads Add Difficulties to an Already Tough Subject: Cost Allocation appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/131480-large-loads-add-difficulties-an-already-tough-subject-cost-allocation"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-05T04:31:51Z",
+      "first_seen": "2026-05-05T04:31:51Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-7b66e6f677702b25-us",
@@ -28689,30 +28831,30 @@
     },
     "US": {
       "state": "US",
-      "count": 151,
+      "count": 154,
       "outcome_counts": {
-        "pending": 104,
+        "pending": 107,
         "win": 42,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 146,
+        "restrictive": 149,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 148,
+        "local": 151,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 40,
-        "zoning": 6,
-        "grid_energy": 4
+        "community_impact": 41,
+        "zoning": 7,
+        "grid_energy": 5
       },
-      "latest_date": "2026-05-04",
+      "latest_date": "2026-05-05",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
