@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WY",
-  "generated_at": "2026-05-05T19:50:39Z",
+  "generated_at": "2026-05-05T20:49:55Z",
   "risk_score": {
-    "score": 41.9,
-    "tier": 12.0,
-    "engagement": 8.3,
-    "recency": 18.2,
-    "multi_source": 3.3,
+    "score": 49.3,
+    "tier": 19.0,
+    "engagement": 7.8,
+    "recency": 20.0,
+    "multi_source": 2.5,
     "regulatory": 0.0
   },
   "grade": {
@@ -18,7 +18,7 @@
   "quantified": {
     "moratoriums": 0,
     "approvals": 0,
-    "denials": 0,
+    "denials": 1,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,31 +26,42 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
     "unclear": 1,
-    "null": 2
+    "null": 2,
+    "restrictive": 1
   },
   "outcome_counts": {
     "pending": 2,
-    "mixed": 1
+    "mixed": 1,
+    "win": 1
   },
   "scope_counts": {
     "statewide": 2,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "grid_energy": 2,
     "ratepayer": 2,
+    "community_impact": 2,
     "tax_incentive": 1,
-    "water": 1,
-    "community_impact": 1
+    "water": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2021-02-05",
-  "latest": "2026-04-14",
+  "latest": "2026-05-05",
   "top_citations": [
+    {
+      "id": "news:gdelt-a66daa0da3deba68-wy",
+      "date": "2026-05-05",
+      "jurisdiction": "matr.net",
+      "title": "Cheyenne , Wyoming Residents Demand Pause on 70 Planned Data Centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://matr.net/news/cheyenne-wyoming-residents-demand-pause-on-70-planned-data-centers"
+    },
     {
       "id": "research:wy-city-of-cheyenne-20260414-microsoft-announced-intent-to-acquire-approximatel",
       "date": "2026-04-14",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T19:50:39Z",
-  "count": 612,
+  "generated_at": "2026-05-05T20:49:54Z",
+  "count": 613,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -204,6 +204,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a66daa0da3deba68-wy",
+      "origin": "news",
+      "state": "WY",
+      "county": null,
+      "jurisdiction": "matr.net",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-05",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Cheyenne , Wyoming Residents Demand Pause on 70 Planned Data Centers",
+      "sources": [
+        "https://matr.net/news/cheyenne-wyoming-residents-demand-pause-on-70-planned-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-05T20:49:54Z",
+      "first_seen": "2026-05-05T20:49:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-b1e81138a88b03e6-us",
@@ -29190,6 +29237,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "WY": {
+      "state": "WY",
+      "count": 4,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 1,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "grid_energy": 2,
+        "ratepayer": 2
+      },
+      "latest_date": "2026-05-05",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "VA": {
       "state": "VA",
       "count": 36,
@@ -29883,35 +29959,6 @@
       },
       "latest_date": "2026-04-14",
       "map_color_tier": null,
-      "map_color_outcome": "pending"
-    },
-    "WY": {
-      "state": "WY",
-      "count": 3,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 2,
-        "ratepayer": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-04-14",
-      "map_color_tier": "unclear",
       "map_color_outcome": "pending"
     },
     "RI": {
