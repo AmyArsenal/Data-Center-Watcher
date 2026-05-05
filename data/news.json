@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-04T23:35:52Z",
+  "generated_at": "2026-05-05T01:16:23Z",
   "window_days": 90,
-  "count": 239,
+  "count": 241,
   "items": [
+    {
+      "id": "gdelt-e732b3cd7f9b111a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Opposition grows as residents push back on proposed data center in Northampton County",
+      "source_domain": "wfmz.com",
+      "source_name": "wfmz.com",
+      "url": "https://wfmz.com/news/area/lehighvalley/northampton-county/slate-belt/opposition-grows-as-residents-push-back-on-proposed-data-center-in-northampton-county/article_882e5674-b4c1-459a-a930-e0fd840c36ee.html",
+      "date": "2026-05-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-05 01:16:23",
+      "url_hash": "e732b3cd7f9b111a",
+      "content_hash": "adbd206aaed747fc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-05T01:16:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7b66e6f677702b25",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Meridian Township Board considers creating data center and battery storage facility moratorium",
+      "source_domain": "wkar.org",
+      "source_name": "wkar.org",
+      "url": "https://wkar.org/wkar-news/2026-05-04/meridian-township-board-considers-creating-data-center-and-battery-storage-facility-moratorium",
+      "date": "2026-05-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-05 01:16:23",
+      "url_hash": "7b66e6f677702b25",
+      "content_hash": "272ea7766aa61c52",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-05T01:16:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-883516284f5c84d0",
       "state": "US",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -70,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -150,7 +230,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -669,7 +749,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2063,7 +2143,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2580,7 +2660,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2981,7 +3061,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7869,7 +7949,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8032,7 +8112,7 @@
         "rss-dck"
       ],
       "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8071,7 +8151,7 @@
         "rss-dck"
       ],
       "snippet": "Industry leaders analyze the proposed pause on AI data centers and the need to balance growth, sustainability, and community concerns.",
-      "last_seen": "2026-05-04T23:35:52Z",
+      "last_seen": "2026-05-05T01:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,

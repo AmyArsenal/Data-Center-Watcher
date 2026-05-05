@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T23:35:52Z",
-  "count": 601,
+  "generated_at": "2026-05-05T01:16:23Z",
+  "count": 603,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-7b66e6f677702b25-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wkar.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "township_board",
+      "date": "2026-05-04",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Meridian Township Board considers creating data center and battery storage facility moratorium",
+      "sources": [
+        "https://wkar.org/wkar-news/2026-05-04/meridian-township-board-considers-creating-data-center-and-battery-storage-facility-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-05T01:16:23Z",
+      "first_seen": "2026-05-05T01:16:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-882e5f6124790cd0-us",
@@ -202,6 +247,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e732b3cd7f9b111a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wfmz.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Opposition grows as residents push back on proposed data center in Northampton County",
+      "sources": [
+        "https://wfmz.com/news/area/lehighvalley/northampton-county/slate-belt/opposition-grows-as-residents-push-back-on-proposed-data-center-in-northampton-county/article_882e5674-b4c1-459a-a930-e0fd840c36ee.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-05T01:16:23Z",
+      "first_seen": "2026-05-05T01:16:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-fdda3661c3c3ce0c-us",
@@ -28597,26 +28689,26 @@
     },
     "US": {
       "state": "US",
-      "count": 149,
+      "count": 151,
       "outcome_counts": {
-        "pending": 103,
-        "win": 41,
+        "pending": 104,
+        "win": 42,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 144,
+        "restrictive": 146,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 146,
+        "local": 148,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 39,
+        "community_impact": 40,
         "zoning": 6,
         "grid_energy": 4
       },
