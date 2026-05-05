@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-05-05T12:56:48Z",
+  "generated_at": "2026-05-05T16:53:04Z",
   "window_days": 90,
-  "count": 246,
+  "count": 249,
   "items": [
+    {
+      "id": "gdelt-577524a824f036dd",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Waite Park City Council Passes One - Year Data Center Moratorium",
+      "source_domain": "knsiradio.com",
+      "source_name": "knsiradio.com",
+      "url": "https://knsiradio.com/2026/05/05/waite-park-city-council-passes-one-year-data-center-moratorium",
+      "date": "2026-05-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-05 16:53:03",
+      "url_hash": "577524a824f036dd",
+      "content_hash": "a4a6e0f9bdef0fe7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-05T16:53:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-utilitydive-ae65d52687711c8c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "NERC issues Level 3 alert, mandates action to address data center load losses",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/nerc-issues-rare-level-3-alert-over-data-center-load-losses/819295",
+      "date": "2026-05-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-05 16:53:03",
+      "url_hash": "ae65d52687711c8c",
+      "content_hash": "27c08c9eff018310",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "Computational loads pose &ldquo;immediate risks,&rdquo; the grid watchdog said. Certain grid participants must take seven actions by Aug. 3 in response.&nbsp;",
+      "last_seen": "2026-05-05T16:53:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/nerc-issues-rare-level-3-alert-over-data-center-load-losses/819295/",
+        "rss_author": "Robert Walton",
+        "rss_needs_dc_filter": true
+      }
+    },
+    {
+      "id": "rss-dcd-985bac60e032d78b",
+      "state": "GA",
+      "city": null,
+      "category": "announced",
+      "headline": "Microsoft confirms plans for data center in Tyrone, Georgia",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/microsoft-confirms-plans-for-data-center-in-tyrone-georgia",
+      "date": "2026-05-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Microsoft"
+      ],
+      "first_seen": "2026-05-05 16:53:03",
+      "url_hash": "985bac60e032d78b",
+      "content_hash": "688d7aba9a958414",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Will hold a community information session later this month",
+      "last_seen": "2026-05-05T16:53:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/microsoft-confirms-plans-for-data-center-in-tyrone-georgia/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-b1e81138a88b03e6",
       "state": "US",
@@ -190,7 +310,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Exclusive interviews and examinations of relevant dockets look into the issue of making sure data centers pay for their share of needed grid expansions. The post Large Loads Add Difficulties to an Already Tough Subject: Cost Allocation appeared first on RTO Insider .",
-      "last_seen": "2026-05-05T12:56:48Z",
+      "last_seen": "2026-05-05T16:53:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -429,7 +549,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-05T12:56:48Z",
+      "last_seen": "2026-05-05T16:53:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -948,7 +1068,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-05T12:56:48Z",
+      "last_seen": "2026-05-05T16:53:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2342,7 +2462,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-05T12:56:48Z",
+      "last_seen": "2026-05-05T16:53:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2859,7 +2979,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-05T12:56:48Z",
+      "last_seen": "2026-05-05T16:53:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3260,7 +3380,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-05T12:56:48Z",
+      "last_seen": "2026-05-05T16:53:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8148,7 +8268,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-05-05T12:56:48Z",
+      "last_seen": "2026-05-05T16:53:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9730,6 +9850,19 @@
     }
   ],
   "by_state": {
+    "GA": {
+      "state": "GA",
+      "count": 2,
+      "total_engagement": 70,
+      "categories": {
+        "announced": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-05"
+    },
     "IN": {
       "state": "IN",
       "count": 3,
@@ -9944,18 +10077,6 @@
       },
       "platforms": {
         "reddit": 1
-      },
-      "latest_date": "2026-04-16"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 1,
-      "total_engagement": 70,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-04-16"
     }

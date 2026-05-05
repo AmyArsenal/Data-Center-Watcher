@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-05T14:30:53Z",
+  "generated_at": "2026-05-05T16:53:04Z",
   "tier_timestamps": {
-    "fast": "2026-05-05T12:56:49Z",
+    "fast": "2026-05-05T16:53:04Z",
     "bills": "2026-05-05T14:30:53Z"
   },
   "counts_by_source": {
-    "gdelt": 93,
+    "gdelt": 94,
+    "rss-utilitydive": 6,
+    "rss-dcd": 15,
     "rss-rto-insider": 2,
     "rss-latitude": 2,
-    "rss-utilitydive": 5,
-    "rss-dcd": 14,
     "rss-dck": 5,
     "rss-arstechnica": 1,
     "rss-canary": 1,
@@ -23,29 +23,24 @@
     "legal": 1
   },
   "run_stats": {
-    "last_run_seconds": 25.13,
+    "last_run_seconds": 24.95,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
       "reddit": 0,
-      "gdelt": 13
+      "gdelt": 6
     },
-    "inserted": 2,
-    "updated": 9,
-    "dropped_irrelevant": 188,
+    "inserted": 3,
+    "updated": 7,
+    "dropped_irrelevant": 186,
     "accepted_by_source_this_run": {
+      "rss-dcd": 1,
+      "rss-utilitydive": 1,
       "rss-latitude": 2,
       "rss-canary": 1,
-      "rss-dck": 5,
+      "rss-dck": 3,
       "rss-rto-insider": 1,
-      "gdelt": 2
-    },
-    "bills_last_run_seconds": 524.25,
-    "bills_raw_fetched": 0,
-    "bills_inserted": 0,
-    "bills_updated": 0,
-    "bills_noop": 0,
-    "bills_total_in_json": 193,
-    "bills_states_with_bills": 16
+      "gdelt": 1
+    }
   }
 }
