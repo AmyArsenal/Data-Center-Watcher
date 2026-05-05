@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-05-05T18:06:04Z",
+  "generated_at": "2026-05-05T19:50:39Z",
   "risk_score": {
-    "score": 52.0,
-    "tier": 20.0,
+    "score": 52.9,
+    "tier": 20.9,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.5,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 48.0,
+    "score": 47.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
-    "restrictive": 6,
+    "restrictive": 7,
     "null": 15
   },
   "outcome_counts": {
-    "pending": 13,
+    "pending": 14,
     "mixed": 3,
     "loss": 2,
     "win": 3
   },
   "scope_counts": {
-    "local": 17,
+    "local": 18,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-04-29",
+  "latest": "2026-05-05",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-4c1c6457607d9bf7-tx",
+      "date": "2026-05-05",
+      "jurisdiction": "DCD",
+      "title": "$30m data center near Austin, Texas, fails to get recommendation for approval from P&Z Commission. But its fate lies in the hands of the Cit",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/30m-data-center-near-austin-texas-fails-to-get-recommendation-for-approval-from-pz-commission"
+    },
     {
       "id": "news:rss-dcd-73c0770fbef78281-tx",
       "date": "2026-04-29",
@@ -169,15 +178,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.kltv.com/2026/04/14/athens-city-council-tables-data-center-zoning-decisions-after-dozens-residents-show-up-protest/"
-    },
-    {
-      "id": "research:tx-texas-comptroller-20260408-texas-comptroller-projected-the-state-s-qualified",
-      "date": "2026-04-08",
-      "jurisdiction": "Texas Comptroller",
-      "title": "Texas Comptroller projected the state's qualified data center sales-tax exemption will cost ~$3.2B in foregone revenue over the 2027-28 bien",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.texastribune.org/2026/04/08/texas-data-centers-sales-tax-break-billion-dollars/"
     }
   ]
 }

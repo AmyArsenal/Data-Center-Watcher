@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T18:06:04Z",
-  "count": 611,
+  "generated_at": "2026-05-05T19:50:39Z",
+  "count": 612,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -293,6 +293,51 @@
       "data_source": "news",
       "last_updated": "2026-05-05T04:31:51Z",
       "first_seen": "2026-05-05T04:31:51Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-4c1c6457607d9bf7-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-05",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "$30m data center near Austin, Texas, fails to get recommendation for approval from P&Z Commission. But its fate lies in the hands of the City Council",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/30m-data-center-near-austin-texas-fails-to-get-recommendation-for-approval-from-pz-commission"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-05T19:50:38Z",
+      "first_seen": "2026-05-05T19:50:38Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -29116,6 +29161,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "TX": {
+      "state": "TX",
+      "count": 22,
+      "outcome_counts": {
+        "pending": 14,
+        "win": 3,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 18,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 6
+      },
+      "latest_date": "2026-05-05",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "VA": {
       "state": "VA",
       "count": 36,
@@ -29260,35 +29334,6 @@
       "latest_date": "2026-04-30",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 21,
-      "outcome_counts": {
-        "pending": 13,
-        "win": 3,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 6,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 17,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 6
-      },
-      "latest_date": "2026-04-29",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "FL": {
       "state": "FL",
