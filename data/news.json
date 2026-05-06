@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-06T17:10:03Z",
+  "generated_at": "2026-05-06T18:55:39Z",
   "window_days": 90,
-  "count": 270,
+  "count": 271,
   "items": [
+    {
+      "id": "gdelt-f08a13a605b158a8",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Letter : Are data centers tomorrow abandoned coal mines ?",
+      "source_domain": "citizensvoice.com",
+      "source_name": "citizensvoice.com",
+      "url": "https://citizensvoice.com/2026/05/06/letter-are-data-centers-tomorrows-abandoned-coal-mines",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 18:55:39",
+      "url_hash": "f08a13a605b158a8",
+      "content_hash": "a33248b04d1abb68",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-06T18:55:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-4971a6d2e215be2b",
       "state": "US",
@@ -70,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -110,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +190,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -189,7 +229,7 @@
         "rss-dcd"
       ],
       "snippet": "Seeks to either overturn or exempt itself from moratorium",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -708,7 +748,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A county commission has approved an up-to-9-GW data center in northwestern Utah, a project that proponents say will generate its own power and help accomplish national defense objectives. The post County Commission Approves Huge Utah Data Center Project appeared first on RTO Insider .",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -906,7 +946,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Computational loads pose &ldquo;immediate risks,&rdquo; the grid watchdog said. Certain grid participants must take seven actions by Aug. 3 in response.&nbsp;",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1385,7 +1425,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1904,7 +1944,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3298,7 +3338,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -3815,7 +3855,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4216,7 +4256,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-06T17:10:03Z",
+      "last_seen": "2026-05-06T18:55:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
