@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-05-06T15:31:59Z",
+  "generated_at": "2026-05-06T17:10:03Z",
   "filter": {
     "issue_category": "grid_energy"
   },
-  "count": 117,
+  "count": 118,
   "items": [
     {
       "id": "news:rss-dck-434e9e7618221e82-us",
@@ -4687,6 +4687,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-4971a6d2e215be2b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"grid_energy\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Denmark presses pause on new data center grid connections as total requests hit 60 GW Nordic nation is the latest to put the brakes on AI buildouts",
+      "sources": "[\"https://tomshardware.com/tech-industry/artificial-intelligence/denmark-presses-pause-on-new-data-center-grid-connections-as-total-requests-hit-60-gw-nordic-nation-is-the-latest-to-put-the-brakes-on-ai-buildouts\"]",
+      "data_source": "news",
+      "last_updated": "2026-05-06T17:10:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }

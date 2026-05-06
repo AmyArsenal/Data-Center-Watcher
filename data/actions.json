@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T15:31:58Z",
-  "count": 628,
+  "generated_at": "2026-05-06T17:10:03Z",
+  "count": 632,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -298,6 +298,53 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-4971a6d2e215be2b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Denmark presses pause on new data center grid connections as total requests hit 60 GW Nordic nation is the latest to put the brakes on AI buildouts",
+      "sources": [
+        "https://tomshardware.com/tech-industry/artificial-intelligence/denmark-presses-pause-on-new-data-center-grid-connections-as-total-requests-hit-60-gw-nordic-nation-is-the-latest-to-put-the-brakes-on-ai-buildouts"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T17:10:03Z",
+      "first_seen": "2026-05-06T17:10:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-4f1a31d5f7fdc493-us",
       "origin": "news",
       "state": "US",
@@ -388,6 +435,53 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-819e72a9fce4e00d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Survey shows that nearly half of Americans dont want new data centers built near their homes 47 % oppose the construction of new AI data centers in their neighborhood",
+      "sources": [
+        "https://tomshardware.com/tech-industry/artificial-intelligence/survey-shows-that-nearly-half-of-americans-dont-want-new-data-centers-built-near-their-homes-47-percent-oppose-the-construction-of-new-ai-data-centers-in-their-neighborhood"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T17:10:03Z",
+      "first_seen": "2026-05-06T17:10:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-9f7586418130032c-us",
       "origin": "news",
       "state": "US",
@@ -427,6 +521,51 @@
       "data_source": "news",
       "last_updated": "2026-05-06T04:44:20Z",
       "first_seen": "2026-05-06T04:44:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b5a4cff5779c8bdf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wrn.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "WRN Daily : Marquette Poll shows increased opposition to AI , data centers",
+      "sources": [
+        "https://wrn.com/wrn-daily-marquette-poll-shows-increased-opposition-to-ai-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T17:10:03Z",
+      "first_seen": "2026-05-06T17:10:03Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -707,6 +846,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-cf43f1c081276f3d-nj",
+      "origin": "news",
+      "state": "NJ",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "PSEG CEO: Nuclear outlook for New Jersey improves on lifting of moratorium. Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO",
+      "sources": [
+        "https://utilitydive.com/news/pseg-nuclear-new-jersey-earnings/819444"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T17:10:03Z",
+      "first_seen": "2026-05-06T17:10:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-097131b9ce53a1be-us",
@@ -29866,28 +30050,28 @@
     },
     "US": {
       "state": "US",
-      "count": 170,
+      "count": 173,
       "outcome_counts": {
-        "pending": 116,
-        "win": 49,
+        "pending": 118,
+        "win": 50,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 165,
+        "restrictive": 168,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 167,
+        "local": 170,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 42,
+        "community_impact": 43,
         "zoning": 9,
-        "grid_energy": 6
+        "grid_energy": 7
       },
       "latest_date": "2026-05-06",
       "map_color_tier": "restrictive",
@@ -29946,6 +30130,35 @@
         "grid_energy": 3,
         "water": 3,
         "community_impact": 2
+      },
+      "latest_date": "2026-05-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "NJ": {
+      "state": "NJ",
+      "count": 22,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 6,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 1,
+        "supportive": 2,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 15,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 5,
+        "water": 4,
+        "community_impact": 3
       },
       "latest_date": "2026-05-06",
       "map_color_tier": "restrictive",
@@ -30298,35 +30511,6 @@
       "latest_date": "2026-04-24",
       "map_color_tier": null,
       "map_color_outcome": "loss"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 21,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 5,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 1,
-        "supportive": 2,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 15,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 5,
-        "water": 4,
-        "community_impact": 3
-      },
-      "latest_date": "2026-04-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "MO": {
       "state": "MO",

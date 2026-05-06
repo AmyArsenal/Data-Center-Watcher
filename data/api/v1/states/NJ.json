@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-05-06T15:31:59Z",
+  "generated_at": "2026-05-06T17:10:03Z",
   "risk_score": {
-    "score": 51.2,
-    "tier": 15.4,
-    "engagement": 10.1,
-    "recency": 14.4,
-    "multi_source": 6.2,
+    "score": 53.0,
+    "tier": 16.5,
+    "engagement": 9.9,
+    "recency": 15.6,
+    "multi_source": 5.9,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.8,
+    "score": 47.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 0,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 0,
     "blocked": 2,
     "active_companies": 1,
@@ -26,9 +26,9 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "unclear": 9,
     "supportive": 2,
     "protective": 1,
@@ -36,10 +36,10 @@
   },
   "outcome_counts": {
     "pending": 16,
-    "win": 5
+    "win": 6
   },
   "scope_counts": {
-    "local": 6,
+    "local": 7,
     "statewide": 15
   },
   "issue_top": {
@@ -60,8 +60,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-04-24",
+  "latest": "2026-05-06",
   "top_citations": [
+    {
+      "id": "news:rss-utilitydive-cf43f1c081276f3d-nj",
+      "date": "2026-05-06",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "PSEG CEO: Nuclear outlook for New Jersey improves on lifting of moratorium. Nuclear power plants won&rsquo;t be built, however, without long",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://utilitydive.com/news/pseg-nuclear-new-jersey-earnings/819444"
+    },
     {
       "id": "social:x-3aa2fcda6f-nj",
       "date": "2026-04-24",
@@ -142,15 +151,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://pinelandsalliance.org/data-center-victories-local-actions-drive-regional-change/"
-    },
-    {
-      "id": "research:nj-new-brunswick-city-council-20260220-after-significant-public-backlash-new-brunswick-c",
-      "date": "2026-02-20",
-      "jurisdiction": "New Brunswick City Council",
-      "title": "After significant public backlash, New Brunswick City Council voted to amend the redevelopment plan for 100 Jersey Avenue, removing data cen",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.foodandwaterwatch.org/2026/02/20/new-brunswick-city-council-rejects-data-center-plan/"
     }
   ]
 }

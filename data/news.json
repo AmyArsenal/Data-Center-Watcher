@@ -1,8 +1,167 @@
 {
-  "generated_at": "2026-05-06T15:31:58Z",
+  "generated_at": "2026-05-06T17:10:03Z",
   "window_days": 90,
-  "count": 266,
+  "count": 270,
   "items": [
+    {
+      "id": "gdelt-4971a6d2e215be2b",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Denmark presses pause on new data center grid connections as total requests hit 60 GW Nordic nation is the latest to put the brakes on AI buildouts",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/denmark-presses-pause-on-new-data-center-grid-connections-as-total-requests-hit-60-gw-nordic-nation-is-the-latest-to-put-the-brakes-on-ai-buildouts",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 17:10:03",
+      "url_hash": "4971a6d2e215be2b",
+      "content_hash": "8776e0bcf58ad2b1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-06T17:10:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-819e72a9fce4e00d",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Survey shows that nearly half of Americans dont want new data centers built near their homes 47 % oppose the construction of new AI data centers in their neighborhood",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/survey-shows-that-nearly-half-of-americans-dont-want-new-data-centers-built-near-their-homes-47-percent-oppose-the-construction-of-new-ai-data-centers-in-their-neighborhood",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 17:10:03",
+      "url_hash": "819e72a9fce4e00d",
+      "content_hash": "deb93e76ceed908e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-06T17:10:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b5a4cff5779c8bdf",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "WRN Daily : Marquette Poll shows increased opposition to AI , data centers",
+      "source_domain": "wrn.com",
+      "source_name": "wrn.com",
+      "url": "https://wrn.com/wrn-daily-marquette-poll-shows-increased-opposition-to-ai-data-centers",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 17:10:03",
+      "url_hash": "b5a4cff5779c8bdf",
+      "content_hash": "263370ca55deb4bf",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-06T17:10:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-utilitydive-cf43f1c081276f3d",
+      "state": "NJ",
+      "city": null,
+      "category": "banned",
+      "headline": "PSEG CEO: Nuclear outlook for New Jersey improves on lifting of moratorium",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/pseg-nuclear-new-jersey-earnings/819444",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 17:10:03",
+      "url_hash": "cf43f1c081276f3d",
+      "content_hash": "5f7c7b7210213b3e",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
+      "last_seen": "2026-05-06T17:10:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/pseg-nuclear-new-jersey-earnings/819444/",
+        "rss_author": "Ethan Howland",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-54543c55938bbf41",
       "state": "NC",
@@ -30,7 +189,7 @@
         "rss-dcd"
       ],
       "snippet": "Seeks to either overturn or exempt itself from moratorium",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -549,7 +708,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A county commission has approved an up-to-9-GW data center in northwestern Utah, a project that proponents say will generate its own power and help accomplish national defense objectives. The post County Commission Approves Huge Utah Data Center Project appeared first on RTO Insider .",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -747,7 +906,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Computational loads pose &ldquo;immediate risks,&rdquo; the grid watchdog said. Certain grid participants must take seven actions by Aug. 3 in response.&nbsp;",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1226,7 +1385,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1745,7 +1904,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3139,7 +3298,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -3656,7 +3815,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4057,7 +4216,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-06T15:31:58Z",
+      "last_seen": "2026-05-06T17:10:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10527,6 +10686,20 @@
     }
   ],
   "by_state": {
+    "NJ": {
+      "state": "NJ",
+      "count": 3,
+      "total_engagement": 2907,
+      "categories": {
+        "banned": 1,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 1,
+        "x": 2
+      },
+      "latest_date": "2026-05-06"
+    },
     "NC": {
       "state": "NC",
       "count": 2,
@@ -10701,18 +10874,6 @@
         "x": 1
       },
       "latest_date": "2026-04-28"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 2,
-      "total_engagement": 2907,
-      "categories": {
-        "protested": 2
-      },
-      "platforms": {
-        "x": 2
-      },
-      "latest_date": "2026-04-24"
     },
     "MN": {
       "state": "MN",

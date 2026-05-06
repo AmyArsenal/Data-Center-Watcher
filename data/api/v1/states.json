@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-06T15:31:59Z",
+  "generated_at": "2026-05-06T17:10:03Z",
   "states": [
     {
       "state": "AK",
@@ -424,16 +424,16 @@
     },
     {
       "state": "NJ",
-      "count": 21,
-      "risk_score": 51.2,
+      "count": 22,
+      "risk_score": 53.0,
       "grade": "D",
-      "grade_score": 48.8,
-      "moratoriums": 0,
+      "grade_score": 47.0,
+      "moratoriums": 1,
       "approvals": 0,
-      "denials": 5,
+      "denials": 6,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-04-24",
+      "latest": "2026-05-06",
       "url": "data/dossiers/state-NJ.json"
     },
     {
