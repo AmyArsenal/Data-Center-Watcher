@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AZ",
-  "generated_at": "2026-05-05T23:31:24Z",
+  "generated_at": "2026-05-06T01:15:16Z",
   "risk_score": {
-    "score": 40.9,
+    "score": 39.7,
     "tier": 12.0,
     "engagement": 10.2,
-    "recency": 7.5,
+    "recency": 6.3,
     "multi_source": 6.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.1,
+    "score": 60.3,
     "label": "Significant activity in both directions"
   },
   "quantified": {

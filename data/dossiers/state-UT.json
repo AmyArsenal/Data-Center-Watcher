@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-05-05T23:31:24Z",
+  "generated_at": "2026-05-06T01:15:16Z",
   "risk_score": {
-    "score": 27.2,
-    "tier": 12.0,
+    "score": 57.2,
+    "tier": 26.0,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
@@ -26,15 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 1,
+  "count": 2,
   "tier_counts": {
-    "null": 1
+    "null": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "mixed": 1
+    "mixed": 1,
+    "pending": 1
   },
   "scope_counts": {
-    "statewide": 1
+    "statewide": 1,
+    "local": 1
   },
   "issue_top": {
     "grid_energy": 1,
@@ -49,8 +52,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2025-05-07",
+  "latest": "2026-05-06",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-8845193493354262-ut",
+      "date": "2026-05-06",
+      "jurisdiction": "RTO Insider",
+      "title": "County Commission Approves Huge Utah Data Center Project. A county commission has approved an up-to-9-GW data center in northwestern Utah, a",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/131627-county-commission-approves-huge-utah-data-center-project"
+    },
     {
       "id": "research:ut-utah-legislature-20250507-utah-s-sb-132-modified-rocky-mountain-power-s-duty",
       "date": "2025-05-07",

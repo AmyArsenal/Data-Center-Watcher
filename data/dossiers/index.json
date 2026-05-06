@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-05T23:31:24Z",
+  "generated_at": "2026-05-06T01:15:16Z",
   "states": [
     {
       "state": "AK",
@@ -47,9 +47,9 @@
     {
       "state": "AZ",
       "count": 8,
-      "risk_score": 40.9,
+      "risk_score": 39.7,
       "grade": "C",
-      "grade_score": 59.1,
+      "grade_score": 60.3,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 1,
@@ -61,9 +61,9 @@
     {
       "state": "CA",
       "count": 15,
-      "risk_score": 48.5,
+      "risk_score": 47.9,
       "grade": "C",
-      "grade_score": 51.5,
+      "grade_score": 52.1,
       "moratoriums": 2,
       "approvals": 1,
       "denials": 5,
@@ -117,7 +117,7 @@
     {
       "state": "DE",
       "count": 3,
-      "risk_score": 33.5,
+      "risk_score": 30.4,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
@@ -606,8 +606,8 @@
     },
     {
       "state": "UT",
-      "count": 1,
-      "risk_score": 27.2,
+      "count": 2,
+      "risk_score": 57.2,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
@@ -615,15 +615,15 @@
       "denials": 0,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2025-05-07",
+      "latest": "2026-05-06",
       "url": "data/dossiers/state-UT.json"
     },
     {
       "state": "VA",
       "count": 36,
-      "risk_score": 52.5,
+      "risk_score": 52.3,
       "grade": "D",
-      "grade_score": 47.5,
+      "grade_score": 47.7,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 16,
