@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T11:27:49Z",
-  "count": 627,
+  "generated_at": "2026-05-06T13:11:13Z",
+  "count": 628,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -617,6 +617,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-54543c55938bbf41-nc",
+      "origin": "news",
+      "state": "NC",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center developer sues North Carolina county after it passes one-year moratorium. Seeks to either overturn or exempt itself from moratorium",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/data-center-developer-sues-north-carolina-county-after-it-passes-one-year-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T13:11:13Z",
+      "first_seen": "2026-05-06T13:11:13Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-rto-insider-8845193493354262-ut",
@@ -29877,6 +29922,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "NC": {
+      "state": "NC",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 3,
+        "win": 3,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 0,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 3,
+        "water": 3,
+        "community_impact": 2
+      },
+      "latest_date": "2026-05-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "GA": {
       "state": "GA",
       "count": 14,
@@ -30191,35 +30265,6 @@
         "transparency": 3,
         "grid_energy": 2,
         "community_impact": 1
-      },
-      "latest_date": "2026-04-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 0,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 3,
-        "water": 3,
-        "community_impact": 2
       },
       "latest_date": "2026-04-24",
       "map_color_tier": "restrictive",

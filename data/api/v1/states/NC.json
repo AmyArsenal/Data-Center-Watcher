@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NC",
-  "generated_at": "2026-05-06T11:27:49Z",
+  "generated_at": "2026-05-06T13:11:13Z",
   "risk_score": {
-    "score": 48.9,
-    "tier": 17.6,
+    "score": 52.6,
+    "tier": 21.3,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 51.1,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.4,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 1,
     "blocked": 0,
     "active_companies": 2,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
-    "restrictive": 1,
+    "restrictive": 2,
     "null": 4
   },
   "outcome_counts": {
     "pending": 3,
-    "win": 2
+    "win": 3
   },
   "scope_counts": {
-    "local": 5
+    "local": 6
   },
   "issue_top": {
     "water": 3,
@@ -60,8 +60,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-13",
-  "latest": "2026-04-24",
+  "latest": "2026-05-06",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-54543c55938bbf41-nc",
+      "date": "2026-05-06",
+      "jurisdiction": "DCD",
+      "title": "Data center developer sues North Carolina county after it passes one-year moratorium. Seeks to either overturn or exempt itself from morator",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/data-center-developer-sues-north-carolina-county-after-it-passes-one-year-moratorium"
+    },
     {
       "id": "research:nc-charlotte-city-council-20260424-charlotte-council-member-dimple-ajmera-publicly-ca",
       "date": "2026-04-24",

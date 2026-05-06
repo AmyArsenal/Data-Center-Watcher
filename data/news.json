@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-06T11:27:49Z",
+  "generated_at": "2026-05-06T13:11:13Z",
   "window_days": 90,
-  "count": 265,
+  "count": 266,
   "items": [
+    {
+      "id": "rss-dcd-54543c55938bbf41",
+      "state": "NC",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center developer sues North Carolina county after it passes one-year moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/data-center-developer-sues-north-carolina-county-after-it-passes-one-year-moratorium",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 13:11:13",
+      "url_hash": "54543c55938bbf41",
+      "content_hash": "0a235a6aa8bfe82e",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Seeks to either overturn or exempt itself from moratorium",
+      "last_seen": "2026-05-06T13:11:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/data-center-developer-sues-north-carolina-county-after-it-passes-one-year-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-6db3996b85129306",
       "state": "US",
@@ -510,7 +549,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A county commission has approved an up-to-9-GW data center in northwestern Utah, a project that proponents say will generate its own power and help accomplish national defense objectives. The post County Commission Approves Huge Utah Data Center Project appeared first on RTO Insider .",
-      "last_seen": "2026-05-06T11:27:48Z",
+      "last_seen": "2026-05-06T13:11:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -708,7 +747,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Computational loads pose &ldquo;immediate risks,&rdquo; the grid watchdog said. Certain grid participants must take seven actions by Aug. 3 in response.&nbsp;",
-      "last_seen": "2026-05-06T11:27:48Z",
+      "last_seen": "2026-05-06T13:11:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1187,7 +1226,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T11:27:48Z",
+      "last_seen": "2026-05-06T13:11:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1706,7 +1745,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T11:27:48Z",
+      "last_seen": "2026-05-06T13:11:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3100,7 +3139,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-06T11:27:48Z",
+      "last_seen": "2026-05-06T13:11:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -3617,7 +3656,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-06T11:27:48Z",
+      "last_seen": "2026-05-06T13:11:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4018,7 +4057,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-06T11:27:48Z",
+      "last_seen": "2026-05-06T13:11:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10488,6 +10527,20 @@
     }
   ],
   "by_state": {
+    "NC": {
+      "state": "NC",
+      "count": 2,
+      "total_engagement": 617,
+      "categories": {
+        "banned": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 1,
+        "reddit": 1
+      },
+      "latest_date": "2026-05-06"
+    },
     "KS": {
       "state": "KS",
       "count": 1,
@@ -10741,18 +10794,6 @@
         "reddit": 1
       },
       "latest_date": "2026-04-22"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 1,
-      "total_engagement": 617,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "reddit": 1
-      },
-      "latest_date": "2026-04-16"
     }
   }
 }
