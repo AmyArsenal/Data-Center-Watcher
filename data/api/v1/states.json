@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-06T20:16:13Z",
+  "generated_at": "2026-05-06T21:36:14Z",
   "states": [
     {
       "state": "AK",
@@ -424,10 +424,10 @@
     },
     {
       "state": "NJ",
-      "count": 22,
-      "risk_score": 53.0,
+      "count": 23,
+      "risk_score": 54.6,
       "grade": "D",
-      "grade_score": 47.0,
+      "grade_score": 45.4,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 6,

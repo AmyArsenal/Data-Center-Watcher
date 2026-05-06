@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T20:16:13Z",
-  "count": 635,
+  "generated_at": "2026-05-06T21:36:14Z",
+  "count": 636,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -710,6 +710,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d76fda5f95d83a2e-nj",
+      "origin": "news",
+      "state": "NJ",
+      "county": null,
+      "jurisdiction": "govtech.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "voters",
+      "date": "2026-05-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Poll : Majority of New Jersey Voters Support AI Data Center Bans",
+      "sources": [
+        "https://govtech.com/artificial-intelligence/poll-majority-of-new-jersey-voters-support-ai-data-center-bans"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T21:36:13Z",
+      "first_seen": "2026-05-06T21:36:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-e0c278bb4f3513bb-us",
@@ -30275,21 +30320,21 @@
     },
     "NJ": {
       "state": "NJ",
-      "count": 22,
+      "count": 23,
       "outcome_counts": {
-        "pending": 16,
+        "pending": 17,
         "win": 6,
         "loss": 0,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 4,
+        "restrictive": 5,
         "protective": 1,
         "supportive": 2,
         "unclear": 9
       },
       "scope_counts": {
-        "local": 7,
+        "local": 8,
         "statewide": 15,
         "federal": 0
       },
