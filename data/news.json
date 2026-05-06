@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-06T09:39:24Z",
+  "generated_at": "2026-05-06T11:27:49Z",
   "window_days": 90,
-  "count": 263,
+  "count": 265,
   "items": [
+    {
+      "id": "gdelt-6db3996b85129306",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "East Windsor NJ data center expansion draws public opposition",
+      "source_domain": "wobm.com",
+      "source_name": "wobm.com",
+      "url": "https://wobm.com/ixp/385/p/east-windsor-data-center-backlash",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 11:27:48",
+      "url_hash": "6db3996b85129306",
+      "content_hash": "2c936dcc1d7fcec9",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-06T11:27:48Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4f1a31d5f7fdc493",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Boulder City Protesters Oppose Proposed AI Data Center",
+      "source_domain": "fox5vegas.com",
+      "source_name": "fox5vegas.com",
+      "url": "https://fox5vegas.com/2026/05/06/developers-proposed-data-center-hold-second-community-meeting-opposition-continues",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-06 11:27:48",
+      "url_hash": "4f1a31d5f7fdc493",
+      "content_hash": "3f52191e4d3b37d6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-06T11:27:48Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-463c9201a71aa95f",
       "state": "US",
@@ -430,7 +510,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A county commission has approved an up-to-9-GW data center in northwestern Utah, a project that proponents say will generate its own power and help accomplish national defense objectives. The post County Commission Approves Huge Utah Data Center Project appeared first on RTO Insider .",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -549,7 +629,7 @@
         "rss-dcd"
       ],
       "snippet": "But its fate lies in the hands of the City Council",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -628,7 +708,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Computational loads pose &ldquo;immediate risks,&rdquo; the grid watchdog said. Certain grid participants must take seven actions by Aug. 3 in response.&nbsp;",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1107,7 +1187,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1626,7 +1706,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3020,7 +3100,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -3537,7 +3617,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3938,7 +4018,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8826,7 +8906,7 @@
         "rss-dck"
       ],
       "snippet": "Community protests against data center construction are growing rapidly, halting billions in projects and reshaping industry strategies.",
-      "last_seen": "2026-05-06T09:39:24Z",
+      "last_seen": "2026-05-06T11:27:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
