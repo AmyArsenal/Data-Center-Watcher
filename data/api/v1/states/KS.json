@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KS",
-  "generated_at": "2026-05-06T07:20:56Z",
+  "generated_at": "2026-05-06T09:39:24Z",
   "risk_score": {
-    "score": 36.1,
-    "tier": 8.4,
-    "engagement": 10.0,
-    "recency": 6.7,
-    "multi_source": 6.0,
+    "score": 41.1,
+    "tier": 11.3,
+    "engagement": 9.7,
+    "recency": 9.7,
+    "multi_source": 5.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 63.9,
+    "score": 58.9,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,33 +26,43 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
     "unclear": 3,
     "supportive": 3,
-    "null": 4
+    "null": 4,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 6,
+    "pending": 7,
     "win": 3,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "tax_incentive": 4,
+    "community_impact": 4,
     "zoning": 3,
-    "community_impact": 3,
     "water": 1,
     "grid_energy": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2023-03-08",
-  "latest": "2026-03-09",
+  "latest": "2026-05-06",
   "top_citations": [
+    {
+      "id": "news:gdelt-3c908385a3daaaa6-ks",
+      "date": "2026-05-06",
+      "jurisdiction": "ljworld.com",
+      "title": "Douglas County commissioners to weigh in on data centers and similar developments ; residents urge more public input | News , Sports , Jobs ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://www2.ljworld.com/news/county-government/2026/may/05/douglas-county-commissioners-to-weigh-in-on-data-centers-and-similar-developments-residents-urge-for-more-public-input"
+    },
     {
       "id": "openstates:ocd-bill-adeb8793-d1b6-409c-aec4-81484e65b34a-ks",
       "date": "2026-03-09",
@@ -133,15 +143,6 @@
       "tier": "supportive",
       "outcome": "pending",
       "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB545/"
-    },
-    {
-      "id": "openstates:ocd-bill-8af43d99-755a-4161-bb82-9dbe2265a7bc-ks",
-      "date": "2023-03-08",
-      "jurisdiction": "KS Legislature",
-      "title": "Substitute for HB 2450 by Committee on Commerce, Labor and Economic Development - Providing a sales tax exemption for the construction or re",
-      "tier": "supportive",
-      "outcome": "pending",
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2450/"
     }
   ]
 }

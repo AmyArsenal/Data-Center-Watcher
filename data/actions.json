@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T07:20:56Z",
-  "count": 621,
+  "generated_at": "2026-05-06T09:39:24Z",
+  "count": 625,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -69,6 +69,98 @@
       "tier_reason": null
     },
     {
+      "id": "news:gdelt-0d706a944455ac55-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "psdispatch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "zoning_restriction"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Exeter Borough Council approves data center zoning amendment",
+      "sources": [
+        "https://psdispatch.com/news/103292/exeter-borough-council-approves-data-center-zoning-amendment"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T09:39:24Z",
+      "first_seen": "2026-05-06T09:39:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-1659a88332e93f68-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "thevwindependent.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Anti - data center activist speaks « The VW independent",
+      "sources": [
+        "https://thevwindependent.com/news/2026/05/05/anti-data-center-activist-speaks"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T09:39:24Z",
+      "first_seen": "2026-05-06T09:39:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-292fb4d6f35979bf-us",
       "origin": "news",
       "state": "US",
@@ -112,6 +204,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-3c908385a3daaaa6-ks",
+      "origin": "news",
+      "state": "KS",
+      "county": null,
+      "jurisdiction": "ljworld.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Douglas County commissioners to weigh in on data centers and similar developments ; residents urge more public input | News , Sports , Jobs - Lawrence Journal - World : news , information , headlines and events in Lawrence , Kansas",
+      "sources": [
+        "https://www2.ljworld.com/news/county-government/2026/may/05/douglas-county-commissioners-to-weigh-in-on-data-centers-and-similar-developments-residents-urge-for-more-public-input"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T09:39:24Z",
+      "first_seen": "2026-05-06T09:39:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-463c9201a71aa95f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "lakenewsonline.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Camdenton aldermen rescind support for opportunity zone , approve moratorium on data centers",
+      "sources": [
+        "http://lakenewsonline.com/stories/camdenton-aldermen-rescind-support-for-opportunity-zone-approve-moratorium-on-data-centers,199992"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-06T09:39:24Z",
+      "first_seen": "2026-05-06T09:39:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-9f7586418130032c-us",
@@ -29547,28 +29731,57 @@
     },
     "US": {
       "state": "US",
-      "count": 165,
+      "count": 168,
       "outcome_counts": {
-        "pending": 112,
-        "win": 48,
+        "pending": 114,
+        "win": 49,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 160,
+        "restrictive": 163,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 162,
+        "local": 165,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 42,
-        "zoning": 8,
+        "zoning": 9,
         "grid_energy": 6
+      },
+      "latest_date": "2026-05-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "KS": {
+      "state": "KS",
+      "count": 11,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 3,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 4,
+        "tax_incentive": 4,
+        "zoning": 3
       },
       "latest_date": "2026-05-06",
       "map_color_tier": "restrictive",
@@ -30673,35 +30886,6 @@
       "latest_date": "2026-03-11",
       "map_color_tier": "protective",
       "map_color_outcome": "pending"
-    },
-    "KS": {
-      "state": "KS",
-      "count": 10,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 3,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 4,
-        "community_impact": 3,
-        "zoning": 3
-      },
-      "latest_date": "2026-03-09",
-      "map_color_tier": "supportive",
-      "map_color_outcome": "loss"
     },
     "NY": {
       "state": "NY",
