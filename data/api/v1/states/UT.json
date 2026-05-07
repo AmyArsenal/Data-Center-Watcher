@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-05-06T23:12:34Z",
+  "generated_at": "2026-05-07T00:03:11Z",
   "risk_score": {
-    "score": 57.2,
-    "tier": 26.0,
+    "score": 61.9,
+    "tier": 30.7,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -26,23 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
     "null": 1,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 1
+    "pending": 2
   },
   "scope_counts": {
     "statewide": 1,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "grid_energy": 1,
     "ratepayer": 1,
-    "contract_guarantees": 1
+    "contract_guarantees": 1,
+    "community_impact": 1
   },
   "companies": [
     [
@@ -62,6 +63,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/131627-county-commission-approves-huge-utah-data-center-project"
+    },
+    {
+      "id": "news:gdelt-1acee0ee143990d6-ut",
+      "date": "2026-05-06",
+      "jurisdiction": "nypost.com",
+      "title": "Shark Tank  mogul Kevin OLeary massive new data center enrages Utah residents :  Shame !",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://nypost.com/2026/05/06/business/local-utah-officials-approval-of-shark-tank-mogul-kevin-olearys-massive-new-data-center-enrages-residents-shame"
     },
     {
       "id": "research:ut-utah-legislature-20250507-utah-s-sb-132-modified-rocky-mountain-power-s-duty",

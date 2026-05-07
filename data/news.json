@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-06T23:12:33Z",
+  "generated_at": "2026-05-07T00:03:11Z",
   "window_days": 90,
-  "count": 274,
+  "count": 275,
   "items": [
+    {
+      "id": "gdelt-1acee0ee143990d6",
+      "state": "UT",
+      "city": null,
+      "category": "protested",
+      "headline": "Shark Tank  mogul Kevin OLeary massive new data center enrages Utah residents :  Shame !",
+      "source_domain": "nypost.com",
+      "source_name": "nypost.com",
+      "url": "https://nypost.com/2026/05/06/business/local-utah-officials-approval-of-shark-tank-mogul-kevin-olearys-massive-new-data-center-enrages-residents-shame",
+      "date": "2026-05-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-07 00:03:10",
+      "url_hash": "1acee0ee143990d6",
+      "content_hash": "f944cc84c78a35f0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-07T00:03:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-d76fda5f95d83a2e",
       "state": "NJ",
@@ -310,7 +350,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -349,7 +389,7 @@
         "rss-dcd"
       ],
       "snippet": "Seeks to either overturn or exempt itself from moratorium",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -868,7 +908,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A county commission has approved an up-to-9-GW data center in northwestern Utah, a project that proponents say will generate its own power and help accomplish national defense objectives. The post County Commission Approves Huge Utah Data Center Project appeared first on RTO Insider .",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1066,7 +1106,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Computational loads pose &ldquo;immediate risks,&rdquo; the grid watchdog said. Certain grid participants must take seven actions by Aug. 3 in response.&nbsp;",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1545,7 +1585,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2064,7 +2104,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3458,7 +3498,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -3975,7 +4015,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4376,7 +4416,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-06T23:12:33Z",
+      "last_seen": "2026-05-07T00:03:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10846,6 +10886,18 @@
     }
   ],
   "by_state": {
+    "UT": {
+      "state": "UT",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-06"
+    },
     "NJ": {
       "state": "NJ",
       "count": 4,
@@ -10876,18 +10928,6 @@
     },
     "KS": {
       "state": "KS",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-05-06"
-    },
-    "UT": {
-      "state": "UT",
       "count": 1,
       "total_engagement": 0,
       "categories": {
