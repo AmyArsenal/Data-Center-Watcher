@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-07T22:41:19Z",
+  "generated_at": "2026-05-07T23:31:46Z",
   "window_days": 90,
-  "count": 284,
+  "count": 286,
   "items": [
+    {
+      "id": "gdelt-6501ab8f049ca70f",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Lysander Town Board to vote on six - month moratorium for new data centers",
+      "source_domain": "cnycentral.com",
+      "source_name": "cnycentral.com",
+      "url": "https://cnycentral.com/news/local/lysander-town-board-to-vote-on-six-month-moratorium-for-new-data-centers",
+      "date": "2026-05-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-07 23:31:45",
+      "url_hash": "6501ab8f049ca70f",
+      "content_hash": "a2e9249383c24c96",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-07T23:31:45Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-95a362f5c6d88a54",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Columbia Planning & Zoning data center regulation debate continues",
+      "source_domain": "abc17news.com",
+      "source_name": "abc17news.com",
+      "url": "https://abc17news.com/news/columbia/2026/05/07/columbia-planning-zoning-data-center-regulation-debate-continues",
+      "date": "2026-05-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-07 23:31:45",
+      "url_hash": "95a362f5c6d88a54",
+      "content_hash": "2a86ab087107bf88",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-07T23:31:45Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-baf0f4b71aa488f7",
       "state": "US",
@@ -70,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-07T21:35:36Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-07T21:35:36Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -230,7 +310,7 @@
         "rss-dcd"
       ],
       "snippet": "Set to go live in late 2027",
-      "last_seen": "2026-05-07T22:41:18Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -708,7 +788,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
-      "last_seen": "2026-05-07T22:41:18Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1943,7 +2023,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-07T22:41:18Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3856,7 +3936,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-07T22:41:18Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4373,7 +4453,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-07T22:41:18Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4774,7 +4854,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-07T22:41:18Z",
+      "last_seen": "2026-05-07T23:31:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

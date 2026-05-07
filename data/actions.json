@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T22:41:19Z",
-  "count": 646,
+  "generated_at": "2026-05-07T23:31:46Z",
+  "count": 648,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -159,6 +159,51 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-6501ab8f049ca70f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cnycentral.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-07",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lysander Town Board to vote on six - month moratorium for new data centers",
+      "sources": [
+        "https://cnycentral.com/news/local/lysander-town-board-to-vote-on-six-month-moratorium-for-new-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T23:31:45Z",
+      "first_seen": "2026-05-07T23:31:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-652253b44ffaa381-us",
       "origin": "news",
       "state": "US",
@@ -202,6 +247,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-95a362f5c6d88a54-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "abc17news.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-07",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Columbia Planning & Zoning data center regulation debate continues",
+      "sources": [
+        "https://abc17news.com/news/columbia/2026/05/07/columbia-planning-zoning-data-center-regulation-debate-continues"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T23:31:45Z",
+      "first_seen": "2026-05-07T23:31:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-a27aa6195805f188-us",
@@ -30693,27 +30785,27 @@
     },
     "US": {
       "state": "US",
-      "count": 184,
+      "count": 186,
       "outcome_counts": {
-        "pending": 124,
-        "win": 55,
+        "pending": 125,
+        "win": 56,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 179,
+        "restrictive": 181,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 181,
+        "local": 183,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 44,
-        "zoning": 10,
+        "zoning": 11,
         "grid_energy": 8
       },
       "latest_date": "2026-05-07",
