@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T00:03:11Z",
-  "count": 637,
+  "generated_at": "2026-05-07T04:01:16Z",
+  "count": 639,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-a57b806eae1c5236-ut",
+      "origin": "news",
+      "state": "UT",
+      "county": null,
+      "jurisdiction": "crooksandliars.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-07",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Shame !: Utah Residents Livid After Shark Tank Billionaire Data Center Approved",
+      "sources": [
+        "https://crooksandliars.com/2026/05/shame-utah-residents-livid-after-shark"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T04:01:16Z",
+      "first_seen": "2026-05-07T04:01:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-0d706a944455ac55-us",
@@ -616,6 +663,53 @@
       "data_source": "news",
       "last_updated": "2026-05-06T04:44:20Z",
       "first_seen": "2026-05-06T04:44:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a0992d3a11b91f09-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "lancasteronline.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "township_board",
+      "date": "2026-05-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ephrata Township board sets new zoning rules to regulate data centers , backyard chickens",
+      "sources": [
+        "https://lancasteronline.com/news/ephrata/ephrata-township-board-sets-new-zoning-rules-to-regulate-data-centers-backyard-chickens/article_b6eb4ac4-f53f-48b7-a84e-38d41df4b66e.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T04:01:16Z",
+      "first_seen": "2026-05-07T04:01:16Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -30251,56 +30345,56 @@
     },
     "UT": {
       "state": "UT",
-      "count": 3,
+      "count": 4,
       "outcome_counts": {
-        "pending": 2,
+        "pending": 3,
         "win": 0,
         "loss": 0,
         "mixed": 1
       },
       "tier_counts": {
-        "restrictive": 2,
+        "restrictive": 3,
         "protective": 0,
         "supportive": 0,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 2,
+        "local": 3,
         "statewide": 1,
         "federal": 0
       },
       "issue_top": {
-        "community_impact": 1,
+        "community_impact": 2,
         "contract_guarantees": 1,
         "grid_energy": 1
       },
-      "latest_date": "2026-05-06",
+      "latest_date": "2026-05-07",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
     "US": {
       "state": "US",
-      "count": 176,
+      "count": 177,
       "outcome_counts": {
-        "pending": 120,
+        "pending": 121,
         "win": 51,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 171,
+        "restrictive": 172,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 173,
+        "local": 174,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 43,
-        "zoning": 9,
+        "zoning": 10,
         "grid_energy": 7
       },
       "latest_date": "2026-05-06",

@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-05-07T00:03:11Z",
+  "generated_at": "2026-05-07T04:01:16Z",
   "risk_score": {
-    "score": 61.9,
-    "tier": 30.7,
+    "score": 64.2,
+    "tier": 33.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -26,24 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
     "null": 1,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 2
+    "pending": 3
   },
   "scope_counts": {
     "statewide": 1,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
+    "community_impact": 2,
     "grid_energy": 1,
     "ratepayer": 1,
-    "contract_guarantees": 1,
-    "community_impact": 1
+    "contract_guarantees": 1
   },
   "companies": [
     [
@@ -53,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2026-05-06",
+  "latest": "2026-05-07",
   "top_citations": [
+    {
+      "id": "news:gdelt-a57b806eae1c5236-ut",
+      "date": "2026-05-07",
+      "jurisdiction": "crooksandliars.com",
+      "title": "Shame !: Utah Residents Livid After Shark Tank Billionaire Data Center Approved",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://crooksandliars.com/2026/05/shame-utah-residents-livid-after-shark"
+    },
     {
       "id": "news:rss-rto-insider-8845193493354262-ut",
       "date": "2026-05-06",
