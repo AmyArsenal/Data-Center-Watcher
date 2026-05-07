@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-07T19:10:05Z",
+  "generated_at": "2026-05-07T20:37:12Z",
   "window_days": 90,
-  "count": 282,
+  "count": 283,
   "items": [
+    {
+      "id": "gdelt-45e04d4834589c91",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Water rights paperwork tied to Box Elder data center withdrawn after heavy protest",
+      "source_domain": "kuer.org",
+      "source_name": "kuer.org",
+      "url": "https://kuer.org/politics-government/2026-05-07/water-rights-paperwork-tied-to-box-elder-data-center-withdrawn-after-heavy-protest",
+      "date": "2026-05-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-07 20:37:12",
+      "url_hash": "45e04d4834589c91",
+      "content_hash": "19fd569a0a21e251",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-07T20:37:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-a27aa6195805f188",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -70,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -150,7 +190,7 @@
         "rss-dcd"
       ],
       "snippet": "Set to go live in late 2027",
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -628,7 +668,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1863,7 +1903,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2382,7 +2422,7 @@
         "rss-latitude"
       ],
       "snippet": "High electricity rates, labor challenges, and black-box deals are colliding with longstanding mistrust of Lake County's local utility. The post In Indiana, an anatomy of data center opposition appeared first on Latitude Media .",
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3776,7 +3816,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4293,7 +4333,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4694,7 +4734,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-07T19:10:04Z",
+      "last_seen": "2026-05-07T20:37:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

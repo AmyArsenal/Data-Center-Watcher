@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T19:10:05Z",
-  "count": 644,
+  "generated_at": "2026-05-07T20:37:12Z",
+  "count": 645,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -112,6 +112,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-45e04d4834589c91-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kuer.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-05-07",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Water rights paperwork tied to Box Elder data center withdrawn after heavy protest",
+      "sources": [
+        "https://kuer.org/politics-government/2026-05-07/water-rights-paperwork-tied-to-box-elder-data-center-withdrawn-after-heavy-protest"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T20:37:12Z",
+      "first_seen": "2026-05-07T20:37:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-652253b44ffaa381-us",
@@ -30603,21 +30648,21 @@
     },
     "US": {
       "state": "US",
-      "count": 182,
+      "count": 183,
       "outcome_counts": {
-        "pending": 122,
+        "pending": 123,
         "win": 55,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 177,
+        "restrictive": 178,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 179,
+        "local": 180,
         "statewide": 1,
         "federal": 2
       },
