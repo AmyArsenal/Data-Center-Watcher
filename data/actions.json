@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T17:22:57Z",
-  "count": 643,
+  "generated_at": "2026-05-07T19:10:05Z",
+  "count": 644,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -157,6 +157,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-a27aa6195805f188-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "boston.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-05-07",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lowell residents launch Massachusett first data center lawsuit",
+      "sources": [
+        "https://boston.com/news/local-news/2026/05/07/lowell-residents-file-massachusetts-first-lawsuit-against-a-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T19:10:04Z",
+      "first_seen": "2026-05-07T19:10:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-a57b806eae1c5236-ut",
@@ -30556,26 +30603,26 @@
     },
     "US": {
       "state": "US",
-      "count": 181,
+      "count": 182,
       "outcome_counts": {
         "pending": 122,
-        "win": 54,
+        "win": 55,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 176,
+        "restrictive": 177,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 178,
+        "local": 179,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 43,
+        "community_impact": 44,
         "zoning": 10,
         "grid_energy": 8
       },
