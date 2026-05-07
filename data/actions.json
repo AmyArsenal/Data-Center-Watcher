@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T15:35:24Z",
-  "count": 642,
+  "generated_at": "2026-05-07T17:22:57Z",
+  "count": 643,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-45cb3e37dd9dc1bb-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "richlandsource.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-07",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ontario City Council passes data center moratorium , alongside sewer improvements and more",
+      "sources": [
+        "https://richlandsource.com/2026/05/07/ontario-city-council-passes-data-center-moratorium-alongside-sewer-improvements-and-more"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T17:22:57Z",
+      "first_seen": "2026-05-07T17:22:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-652253b44ffaa381-us",
@@ -30511,21 +30556,21 @@
     },
     "US": {
       "state": "US",
-      "count": 180,
+      "count": 181,
       "outcome_counts": {
         "pending": 122,
-        "win": 53,
+        "win": 54,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 175,
+        "restrictive": 176,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 177,
+        "local": 178,
         "statewide": 1,
         "federal": 2
       },
