@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T09:23:42Z",
-  "count": 639,
+  "generated_at": "2026-05-07T11:23:44Z",
+  "count": 640,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -114,6 +114,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-4938d7b3057742ad-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-07",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Danish grid operator introduces three-month moratorium for new grid connections. Cited data center capacity demands as major driver",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/danish-grid-operator-introduces-three-month-moratorium-for-new-grid-connections"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-07T11:23:44Z",
+      "first_seen": "2026-05-07T11:23:44Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-0d706a944455ac55-us",
@@ -30374,30 +30421,30 @@
     },
     "US": {
       "state": "US",
-      "count": 177,
+      "count": 178,
       "outcome_counts": {
         "pending": 121,
-        "win": 51,
+        "win": 52,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 172,
+        "restrictive": 173,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 174,
+        "local": 175,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 43,
         "zoning": 10,
-        "grid_energy": 7
+        "grid_energy": 8
       },
-      "latest_date": "2026-05-06",
+      "latest_date": "2026-05-07",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
