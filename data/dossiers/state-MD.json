@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MD",
-  "generated_at": "2026-05-07T23:31:46Z",
+  "generated_at": "2026-05-08T01:23:09Z",
   "risk_score": {
-    "score": 48.8,
-    "tier": 14.5,
-    "engagement": 10.7,
-    "recency": 11.6,
-    "multi_source": 7.1,
+    "score": 48.4,
+    "tier": 15.5,
+    "engagement": 10.5,
+    "recency": 10.6,
+    "multi_source": 6.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.2,
+    "score": 51.6,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,24 +26,25 @@
     "bills_passed": 4,
     "bills_enacted": 3
   },
-  "count": 24,
+  "count": 25,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "unclear": 14,
     "supportive": 2,
     "null": 5
   },
   "outcome_counts": {
     "win": 8,
-    "pending": 15,
+    "pending": 16,
     "loss": 1
   },
   "scope_counts": {
     "local": 4,
-    "statewide": 20
+    "statewide": 20,
+    "federal": 1
   },
   "issue_top": {
-    "grid_energy": 4,
+    "grid_energy": 5,
     "community_impact": 3,
     "transparency": 3,
     "zoning": 2,
@@ -60,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2020-02-07",
-  "latest": "2026-04-23",
+  "latest": "2026-05-08",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-1c5f7b6f0e05c81c-md",
+      "date": "2026-05-08",
+      "jurisdiction": "RTO Insider",
+      "title": "Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers. The Maryland Office of People’s Counsel has filed a FERC compla",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/131812-complaint-pjm-tx-cost-allocation-rules-rendered-unfair-data-centers"
+    },
     {
       "id": "news:rss-dcd-8c08b5d4370c3cf3-md",
       "date": "2026-04-23",
@@ -142,15 +152,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1411?ys=2026RS"
-    },
-    {
-      "id": "openstates:ocd-bill-3d2f9294-a492-4131-b901-76e4a39a89f5-md",
-      "date": "2026-02-10",
-      "jurisdiction": "MD Legislature",
-      "title": "Large Load Customers - Data Centers and Rate Schedule Requirements",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1082?ys=2026RS"
     }
   ]
 }

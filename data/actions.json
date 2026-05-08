@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T23:31:46Z",
-  "count": 648,
+  "generated_at": "2026-05-08T01:23:09Z",
+  "count": 650,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,99 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-rto-insider-1c5f7b6f0e05c81c-md",
+      "origin": "news",
+      "state": "MD",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "federal",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "federal_agency",
+      "date": "2026-05-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers. The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/131812-complaint-pjm-tx-cost-allocation-rules-rendered-unfair-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-08T01:23:08Z",
+      "first_seen": "2026-05-08T01:23:09Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-c8d6d02ffc503815-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report",
+        "utility_regulation"
+      ],
+      "authority_level": "utility_commission",
+      "date": "2026-05-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Oregon PUC Approves New Data Center Rate Class for PGE Customers. The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/131735-oregon-puc-approves-data-center-rate-class-pge"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-08T01:23:08Z",
+      "first_seen": "2026-05-08T01:23:09Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-45cb3e37dd9dc1bb-us",
@@ -30754,6 +30847,64 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "OR": {
+      "state": "OR",
+      "count": 5,
+      "outcome_counts": {
+        "pending": 3,
+        "win": 2,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "environmental": 1,
+        "ratepayer": 1,
+        "tax_incentive": 1
+      },
+      "latest_date": "2026-05-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "MD": {
+      "state": "MD",
+      "count": 25,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 8,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 2,
+        "unclear": 14
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 20,
+        "federal": 1
+      },
+      "issue_top": {
+        "grid_energy": 5,
+        "community_impact": 3,
+        "transparency": 3
+      },
+      "latest_date": "2026-05-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "UT": {
       "state": "UT",
       "count": 4,
@@ -31276,35 +31427,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
-    "MD": {
-      "state": "MD",
-      "count": 24,
-      "outcome_counts": {
-        "pending": 15,
-        "win": 8,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 2,
-        "unclear": 14
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 20,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 4,
-        "community_impact": 3,
-        "transparency": 3
-      },
-      "latest_date": "2026-04-23",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "NV": {
       "state": "NV",
       "count": 2,
@@ -31535,35 +31657,6 @@
       "latest_date": "2026-04-15",
       "map_color_tier": "unclear",
       "map_color_outcome": "loss"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 4,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "environmental": 1,
-        "ratepayer": 1,
-        "tax_incentive": 1
-      },
-      "latest_date": "2026-04-15",
-      "map_color_tier": "unclear",
-      "map_color_outcome": "pending"
     },
     "SC": {
       "state": "SC",

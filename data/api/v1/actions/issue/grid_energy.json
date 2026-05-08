@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-05-07T23:31:46Z",
+  "generated_at": "2026-05-08T01:23:09Z",
   "filter": {
     "issue_category": "grid_energy"
   },
-  "count": 119,
+  "count": 120,
   "items": [
     {
       "id": "news:rss-dck-434e9e7618221e82-us",
@@ -4767,6 +4767,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-rto-insider-1c5f7b6f0e05c81c-md",
+      "origin": "news",
+      "state": "MD",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "federal",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": "federal_agency",
+      "date": "2026-05-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": "[\"grid_energy\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers. The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider",
+      "sources": "[\"https://rtoinsider.com/131812-complaint-pjm-tx-cost-allocation-rules-rendered-unfair-data-centers\"]",
+      "data_source": "news",
+      "last_updated": "2026-05-08T01:23:08Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     }
   ]
 }

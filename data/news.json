@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-05-07T23:31:46Z",
+  "generated_at": "2026-05-08T01:23:09Z",
   "window_days": 90,
-  "count": 286,
+  "count": 288,
   "items": [
+    {
+      "id": "rss-rto-insider-1c5f7b6f0e05c81c",
+      "state": "MD",
+      "city": null,
+      "category": "protested",
+      "headline": "Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/131812-complaint-pjm-tx-cost-allocation-rules-rendered-unfair-data-centers",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-08 01:23:08",
+      "url_hash": "1c5f7b6f0e05c81c",
+      "content_hash": "a693fcd112049705",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
+      "last_seen": "2026-05-08T01:23:08Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.52,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=131812",
+        "rss_author": "James Downing",
+        "rss_needs_dc_filter": true
+      }
+    },
+    {
+      "id": "rss-rto-insider-c8d6d02ffc503815",
+      "state": "OR",
+      "city": null,
+      "category": "protested",
+      "headline": "Oregon PUC Approves New Data Center Rate Class for PGE Customers",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/131735-oregon-puc-approves-data-center-rate-class-pge",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-08 01:23:08",
+      "url_hash": "c8d6d02ffc503815",
+      "content_hash": "9396e4134d0d85d0",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
+      "last_seen": "2026-05-08T01:23:08Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=131735",
+        "rss_author": "Henrik Nilsson",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-6501ab8f049ca70f",
       "state": "US",
@@ -310,7 +388,7 @@
         "rss-dcd"
       ],
       "snippet": "Set to go live in late 2027",
-      "last_seen": "2026-05-07T23:31:45Z",
+      "last_seen": "2026-05-08T01:23:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -788,7 +866,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
-      "last_seen": "2026-05-07T23:31:45Z",
+      "last_seen": "2026-05-08T01:23:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2023,7 +2101,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-07T23:31:45Z",
+      "last_seen": "2026-05-08T01:23:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3936,7 +4014,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-07T23:31:45Z",
+      "last_seen": "2026-05-08T01:23:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4453,7 +4531,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-07T23:31:45Z",
+      "last_seen": "2026-05-08T01:23:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4854,7 +4932,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-07T23:31:45Z",
+      "last_seen": "2026-05-08T01:23:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11324,6 +11402,32 @@
     }
   ],
   "by_state": {
+    "MD": {
+      "state": "MD",
+      "count": 3,
+      "total_engagement": 1,
+      "categories": {
+        "protested": 2,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 2,
+        "reddit": 1
+      },
+      "latest_date": "2026-05-08"
+    },
+    "OR": {
+      "state": "OR",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-05-08"
+    },
     "UT": {
       "state": "UT",
       "count": 3,
@@ -11535,20 +11639,6 @@
       },
       "platforms": {
         "reddit": 1
-      },
-      "latest_date": "2026-04-23"
-    },
-    "MD": {
-      "state": "MD",
-      "count": 2,
-      "total_engagement": 1,
-      "categories": {
-        "protested": 1,
-        "banned": 1
-      },
-      "platforms": {
-        "reddit": 1,
-        "news": 1
       },
       "latest_date": "2026-04-23"
     },

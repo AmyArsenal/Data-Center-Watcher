@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-05-07T23:31:46Z",
+  "generated_at": "2026-05-08T01:23:09Z",
   "risk_score": {
-    "score": 45.4,
-    "tier": 12.0,
-    "engagement": 9.4,
-    "recency": 14.0,
-    "multi_source": 5.0,
+    "score": 54.6,
+    "tier": 17.6,
+    "engagement": 8.8,
+    "recency": 19.2,
+    "multi_source": 4.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "N/A",
-    "score": null,
-    "label": "Insufficient data"
+    "letter": "D",
+    "score": 45.4,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,18 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 4,
+  "count": 5,
   "tier_counts": {
     "unclear": 2,
-    "null": 2
+    "null": 2,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 2,
+    "pending": 3,
     "win": 2
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "tax_incentive": 1,
@@ -53,8 +54,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-04-15",
+  "latest": "2026-05-08",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-c8d6d02ffc503815-or",
+      "date": "2026-05-08",
+      "jurisdiction": "RTO Insider",
+      "title": "Oregon PUC Approves New Data Center Rate Class for PGE Customers. The Oregon Public Utility Commission issued an order requiring Portland Ge",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/131735-oregon-puc-approves-data-center-rate-class-pge"
+    },
     {
       "id": "research:or-federal-court-amazon-settlement--20260415-amazon-data-services-agreed-to-pay-20-5m-to-settl",
       "date": "2026-04-15",
