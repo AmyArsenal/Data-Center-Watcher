@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T16:59:29Z",
-  "count": 664,
+  "generated_at": "2026-05-08T18:09:20Z",
+  "count": 665,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -657,6 +657,51 @@
       "data_source": "news",
       "last_updated": "2026-05-08T15:51:53Z",
       "first_seen": "2026-05-08T15:51:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-9b9782b83df42aef-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Developers file application for $1.6bn data center in Cleveland, Ohio. But a potential moratorium could stop it in its tracks",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/developers-file-application-for-16bn-data-center-in-cleveland-ohio"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-08T18:09:19Z",
+      "first_seen": "2026-05-08T18:09:20Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -31604,6 +31649,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "OH": {
+      "state": "OH",
+      "count": 16,
+      "outcome_counts": {
+        "pending": 12,
+        "win": 4,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 10,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 12,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "ratepayer": 5,
+        "grid_energy": 4
+      },
+      "latest_date": "2026-05-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "UT": {
       "state": "UT",
       "count": 4,
@@ -31949,35 +32023,6 @@
         "community_impact": 1
       },
       "latest_date": "2026-04-29",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 15,
-      "outcome_counts": {
-        "pending": 11,
-        "win": 4,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 9,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 11,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "ratepayer": 5,
-        "grid_energy": 4
-      },
-      "latest_date": "2026-04-28",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

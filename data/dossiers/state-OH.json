@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-05-08T16:59:30Z",
+  "generated_at": "2026-05-08T18:09:20Z",
   "risk_score": {
-    "score": 60.1,
-    "tier": 28.8,
+    "score": 60.8,
+    "tier": 29.5,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,11 +12,11 @@
   },
   "grade": {
     "letter": "D",
-    "score": 39.9,
+    "score": 39.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 0,
     "denials": 4,
     "lawsuits": 0,
@@ -26,17 +26,17 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 15,
+  "count": 16,
   "tier_counts": {
-    "restrictive": 9,
+    "restrictive": 10,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 11,
+    "pending": 12,
     "win": 4
   },
   "scope_counts": {
-    "local": 11,
+    "local": 12,
     "statewide": 4
   },
   "issue_top": {
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-04-28",
+  "latest": "2026-05-08",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-9b9782b83df42aef-oh",
+      "date": "2026-05-08",
+      "jurisdiction": "DCD",
+      "title": "Developers file application for $1.6bn data center in Cleveland, Ohio. But a potential moratorium could stop it in its tracks",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/developers-file-application-for-16bn-data-center-in-cleveland-ohio"
+    },
     {
       "id": "news:gdelt-0a1e0fc2f822569f-oh",
       "date": "2026-04-28",
@@ -134,15 +143,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.aol.com/articles/ravenna-shalersville-limit-data-centers-130003334.html"
-    },
-    {
-      "id": "social:tiktok-34735b86f9e6d46a-oh",
-      "date": "2026-04-13",
-      "jurisdiction": "@moreperfectunion",
-      "title": "An Ohio man delivered an impassioned speech against the construction of a new data center in his town. It's really worth a watch. Yes. So, u",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://tiktok.com/@moreperfectunion/video/7628276009485258014"
     }
   ]
 }
