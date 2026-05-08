@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T20:38:54Z",
-  "count": 666,
+  "generated_at": "2026-05-08T21:37:57Z",
+  "count": 667,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -432,6 +432,51 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-aef0bebf0c37a0bf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kctv5.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Nebius pays off student meal debt as Independence faces recall push tied to AI data center",
+      "sources": [
+        "https://kctv5.com/2026/05/08/nebius-pays-off-student-meal-debt-independence-faces-recall-push-tied-ai-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-08T21:37:56Z",
+      "first_seen": "2026-05-08T21:37:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-b67e19a2bb1dfea1-us",
@@ -31640,21 +31685,21 @@
     },
     "US": {
       "state": "US",
-      "count": 200,
+      "count": 201,
       "outcome_counts": {
-        "pending": 134,
+        "pending": 135,
         "win": 61,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 195,
+        "restrictive": 196,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 197,
+        "local": 198,
         "statewide": 1,
         "federal": 2
       },

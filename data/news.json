@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-05-08T20:38:54Z",
+  "generated_at": "2026-05-08T21:37:57Z",
   "window_days": 90,
-  "count": 304,
+  "count": 305,
   "items": [
+    {
+      "id": "gdelt-aef0bebf0c37a0bf",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Nebius pays off student meal debt as Independence faces recall push tied to AI data center",
+      "source_domain": "kctv5.com",
+      "source_name": "kctv5.com",
+      "url": "https://kctv5.com/2026/05/08/nebius-pays-off-student-meal-debt-independence-faces-recall-push-tied-ai-data-center",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Nebius"
+      ],
+      "first_seen": "2026-05-08 21:37:56",
+      "url_hash": "aef0bebf0c37a0bf",
+      "content_hash": "34e899cab7743590",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-08T21:37:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dck-2222ac003d523988",
       "state": "US",
@@ -30,7 +72,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +111,7 @@
         "rss-dcd"
       ],
       "snippet": "But a potential moratorium could stop it in its tracks",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -232,7 +274,7 @@
         "rss-dcd"
       ],
       "snippet": "Digital Realty subsidiary seeks damages after alleged issues at modular build",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -271,7 +313,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -670,7 +712,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -709,7 +751,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4654,7 +4696,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5171,7 +5213,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5572,7 +5614,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-08T20:38:54Z",
+      "last_seen": "2026-05-08T21:37:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
