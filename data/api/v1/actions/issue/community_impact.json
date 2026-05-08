@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-05-08T04:27:39Z",
+  "generated_at": "2026-05-08T06:14:10Z",
   "filter": {
     "issue_category": "community_impact"
   },
-  "count": 136,
+  "count": 137,
   "items": [
     {
       "id": "social:x-4643366107-ok",
@@ -5449,6 +5449,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-18a2eef083799789-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "turnto23.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-05-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": "[\"community_impact\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "AI data center proposal draws opposition from Kern County residents",
+      "sources": "[\"https://turnto23.com/news/local-news/ai-data-center-proposal-draws-opposition-from-kern-county-residents\"]",
+      "data_source": "news",
+      "last_updated": "2026-05-08T06:14:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     }
   ]
 }
