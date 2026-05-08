@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-08T06:14:10Z",
+  "generated_at": "2026-05-08T07:57:32Z",
   "window_days": 90,
-  "count": 296,
+  "count": 297,
   "items": [
+    {
+      "id": "gdelt-01d1be7d72c44ad5",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Diamond Lake Association calls for data center moratorium in Cass County",
+      "source_domain": "wsbt.com",
+      "source_name": "wsbt.com",
+      "url": "https://wsbt.com/news/local/diamond-lake-association-calls-for-data-center-moratorium-in-cass-county-pause-developments-cassopolis-penn-township-board-trustees-zoning-ordinance",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-08 07:57:32",
+      "url_hash": "01d1be7d72c44ad5",
+      "content_hash": "43d0aa030a5d88d8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-08T07:57:32Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-93128b78186b10e8",
       "state": "US",
@@ -110,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -190,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -230,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -270,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +350,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -350,7 +390,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -389,7 +429,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -708,7 +748,7 @@
         "rss-dcd"
       ],
       "snippet": "Set to go live in late 2027",
-      "last_seen": "2026-05-08T06:14:09Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1186,7 +1226,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
-      "last_seen": "2026-05-08T06:14:09Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2421,7 +2461,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-08T06:14:09Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4334,7 +4374,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4851,7 +4891,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-08T06:14:09Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5252,7 +5292,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T07:57:32Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
