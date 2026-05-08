@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-08T09:08:49Z",
+  "generated_at": "2026-05-08T10:47:13Z",
   "window_days": 90,
-  "count": 297,
+  "count": 298,
   "items": [
+    {
+      "id": "rss-dck-fbbc5c02c4b0aa25",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "From Capacity to Chaos: How AI Data Centers Challenge the Grid",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/uptime/from-capacity-to-chaos-how-ai-data-centers-challenge-the-grid",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-08 10:47:13",
+      "url_hash": "fbbc5c02c4b0aa25",
+      "content_hash": "a3aca88ef3eb1981",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
+      "last_seen": "2026-05-08T10:47:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/uptime/from-capacity-to-chaos-how-ai-data-centers-challenge-the-grid",
+        "rss_author": "Shane Snider",
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-01d1be7d72c44ad5",
       "state": "US",
@@ -30,7 +69,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -310,7 +349,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -350,7 +389,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -390,7 +429,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -429,7 +468,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1226,7 +1265,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Nuclear power plants won&rsquo;t be built, however, without long-term federal financial support and hyperscaler offtake agreements, said Ralph LaRossa, Public Service Enterprise Group CEO.",
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2461,7 +2500,7 @@
         "rss-latitude"
       ],
       "snippet": "The grid watchdog issued a rare Level 3 alert, setting the stage for data center reliability standards. The post NERC sounds the alarm that data centers risk overtaxing the grid appeared first on Latitude Media .",
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4374,7 +4413,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4891,7 +4930,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5292,7 +5331,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-08T09:08:48Z",
+      "last_seen": "2026-05-08T10:47:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
