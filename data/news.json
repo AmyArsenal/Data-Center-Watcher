@@ -1,8 +1,130 @@
 {
-  "generated_at": "2026-05-08T15:51:53Z",
+  "generated_at": "2026-05-08T16:59:29Z",
   "window_days": 90,
-  "count": 299,
+  "count": 302,
   "items": [
+    {
+      "id": "gdelt-9901d7046abeb468",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Amazon Chile data center moves ahead after residents lose environmental challenge | 1450 AM 99 . 7 FM WHTC",
+      "source_domain": "whtc.com",
+      "source_name": "whtc.com",
+      "url": "https://whtc.com/2026/05/08/amazons-chile-data-center-moves-ahead-after-residents-lose-environmental-challenge",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Amazon"
+      ],
+      "first_seen": "2026-05-08 16:59:29",
+      "url_hash": "9901d7046abeb468",
+      "content_hash": "444d45d021859d13",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-08T16:59:29Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-bf57b7e1ee3e0430",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "County : Proposed data center moratorium would not affect Monticello",
+      "source_domain": "hometownsource.com",
+      "source_name": "hometownsource.com",
+      "url": "https://hometownsource.com/monticello_times/county-proposed-data-center-moratorium-would-not-affect-monticello/article_0fecbff8-38f3-4ffb-a829-e8d26803a114.html",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-08 16:59:29",
+      "url_hash": "bf57b7e1ee3e0430",
+      "content_hash": "eb9bfafdfa366036",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-08T16:59:29Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a2a027f3f7f03d5c",
+      "state": "KS",
+      "city": null,
+      "category": "announced",
+      "headline": "In Kansas , Gardner data center plan withdrawn by company after resident opposition",
+      "source_domain": "hppr.org",
+      "source_name": "hppr.org",
+      "url": "https://hppr.org/hppr-news/2026-05-08/in-kansas-gardner-data-center-plan-withdrawn-by-company-after-resident-opposition",
+      "date": "2026-05-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-08 16:59:29",
+      "url_hash": "a2a027f3f7f03d5c",
+      "content_hash": "f88956daf57640c0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-08T16:59:29Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-77c35240762b9b2b",
       "state": "US",
@@ -32,7 +154,7 @@
         "rss-dcd"
       ],
       "snippet": "Digital Realty subsidiary seeks damages after alleged issues at modular build",
-      "last_seen": "2026-05-08T15:51:53Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -71,7 +193,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-08T15:51:53Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +272,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-08T06:14:10Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -470,7 +592,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T15:51:53Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -509,7 +631,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-08T15:51:53Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4454,7 +4576,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-08T15:51:53Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4971,7 +5093,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-08T15:51:53Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5372,7 +5494,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-08T15:51:53Z",
+      "last_seen": "2026-05-08T16:59:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11842,6 +11964,19 @@
     }
   ],
   "by_state": {
+    "KS": {
+      "state": "KS",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "announced": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-08"
+    },
     "MD": {
       "state": "MD",
       "count": 3,
@@ -11905,18 +12040,6 @@
       "platforms": {
         "news": 1,
         "reddit": 1
-      },
-      "latest_date": "2026-05-06"
-    },
-    "KS": {
-      "state": "KS",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-05-06"
     },

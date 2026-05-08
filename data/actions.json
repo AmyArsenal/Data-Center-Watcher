@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T15:51:53Z",
-  "count": 661,
+  "generated_at": "2026-05-08T16:59:29Z",
+  "count": 664,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -341,6 +341,99 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-9901d7046abeb468-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "whtc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "environmental"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Amazon Chile data center moves ahead after residents lose environmental challenge | 1450 AM 99 . 7 FM WHTC",
+      "sources": [
+        "https://whtc.com/2026/05/08/amazons-chile-data-center-moves-ahead-after-residents-lose-environmental-challenge"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-08T16:59:29Z",
+      "first_seen": "2026-05-08T16:59:29Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a2a027f3f7f03d5c-ks",
+      "origin": "news",
+      "state": "KS",
+      "county": null,
+      "jurisdiction": "hppr.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-05-08",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "In Kansas , Gardner data center plan withdrawn by company after resident opposition",
+      "sources": [
+        "https://hppr.org/hppr-news/2026-05-08/in-kansas-gardner-data-center-plan-withdrawn-by-company-after-resident-opposition"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-08T16:59:29Z",
+      "first_seen": "2026-05-08T16:59:29Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
       "id": "news:gdelt-b67e19a2bb1dfea1-us",
       "origin": "news",
       "state": "US",
@@ -386,6 +479,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-bf57b7e1ee3e0430-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "hometownsource.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "County : Proposed data center moratorium would not affect Monticello",
+      "sources": [
+        "https://hometownsource.com/monticello_times/county-proposed-data-center-moratorium-would-not-affect-monticello/article_0fecbff8-38f3-4ffb-a829-e8d26803a114.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-08T16:59:29Z",
+      "first_seen": "2026-05-08T16:59:29Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-c44b7832489c72ca-us",
@@ -31410,28 +31548,57 @@
     },
     "US": {
       "state": "US",
-      "count": 197,
+      "count": 199,
       "outcome_counts": {
-        "pending": 132,
-        "win": 60,
+        "pending": 133,
+        "win": 61,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 192,
+        "restrictive": 194,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 194,
+        "local": 196,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 45,
+        "community_impact": 46,
         "zoning": 13,
         "grid_energy": 9
+      },
+      "latest_date": "2026-05-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "KS": {
+      "state": "KS",
+      "count": 12,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 3,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 4,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 4,
+        "tax_incentive": 4,
+        "zoning": 3
       },
       "latest_date": "2026-05-08",
       "map_color_tier": "restrictive",
@@ -31465,35 +31632,6 @@
       "latest_date": "2026-05-07",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "KS": {
-      "state": "KS",
-      "count": 11,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 3,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 4,
-        "tax_incentive": 4,
-        "zoning": 3
-      },
-      "latest_date": "2026-05-06",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "NC": {
       "state": "NC",

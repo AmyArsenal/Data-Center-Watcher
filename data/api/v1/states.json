@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-08T15:51:53Z",
+  "generated_at": "2026-05-08T16:59:30Z",
   "states": [
     {
       "state": "AK",
@@ -214,16 +214,16 @@
     },
     {
       "state": "KS",
-      "count": 11,
-      "risk_score": 41.1,
+      "count": 12,
+      "risk_score": 41.9,
       "grade": "C",
-      "grade_score": 58.9,
+      "grade_score": 58.1,
       "moratoriums": 3,
-      "approvals": 1,
+      "approvals": 2,
       "denials": 3,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-06",
+      "latest": "2026-05-08",
       "url": "data/dossiers/state-KS.json"
     },
     {
