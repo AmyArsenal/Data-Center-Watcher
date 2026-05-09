@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-05-09T14:03:23Z",
+  "generated_at": "2026-05-09T15:09:50Z",
   "filter": {
     "issue_category": "community_impact"
   },
-  "count": 139,
+  "count": 140,
   "items": [
     {
       "id": "social:x-4643366107-ok",
@@ -5569,6 +5569,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-9f1b758986edf36f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wyomingnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"moratorium\"]",
+      "authority_level": null,
+      "date": "2026-05-09",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"community_impact\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Some Cheyenne residents push for moratorium on data center projects",
+      "sources": "[\"https://wyomingnews.com/laramieboomerang/laramieboomerang/news/some-cheyenne-residents-push-for-moratorium-on-data-center-projects/article_71909521-1b4c-48c5-8930-f34c1b13b6f3.html\"]",
+      "data_source": "news",
+      "last_updated": "2026-05-09T15:09:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
