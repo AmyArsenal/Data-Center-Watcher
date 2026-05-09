@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-05-09T21:43:23Z",
+  "generated_at": "2026-05-09T22:25:47Z",
   "risk_score": {
-    "score": 53.8,
-    "tier": 22.5,
+    "score": 55.7,
+    "tier": 24.4,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 46.2,
+    "score": 44.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,18 +26,18 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 5,
+    "pending": 6,
     "win": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 6,
+    "local": 7,
     "statewide": 2
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-01",
-  "latest": "2026-05-01",
+  "latest": "2026-05-09",
   "top_citations": [
+    {
+      "id": "news:gdelt-34496627fc83ddae-in",
+      "date": "2026-05-09",
+      "jurisdiction": "chicagotribune.com",
+      "title": "Indiana public interest groups call for data center moratoriums",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://chicagotribune.com/2026/05/09/indiana-public-interest-groups-call-for-data-center-moratoriums"
+    },
     {
       "id": "news:rss-latitude-b7298049ca437f36-in",
       "date": "2026-05-01",

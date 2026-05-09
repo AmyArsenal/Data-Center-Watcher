@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-09T21:43:23Z",
+  "generated_at": "2026-05-09T22:25:47Z",
   "states": [
     {
       "state": "AK",
@@ -200,16 +200,16 @@
     },
     {
       "state": "IN",
-      "count": 8,
-      "risk_score": 53.8,
+      "count": 9,
+      "risk_score": 55.7,
       "grade": "D",
-      "grade_score": 46.2,
+      "grade_score": 44.3,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 2,
       "lawsuits": 1,
       "active_companies": 3,
-      "latest": "2026-05-01",
+      "latest": "2026-05-09",
       "url": "data/dossiers/state-IN.json"
     },
     {
