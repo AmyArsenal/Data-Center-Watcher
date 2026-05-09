@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-05-09T21:00:17Z",
+  "generated_at": "2026-05-09T21:43:23Z",
   "risk_score": {
-    "score": 60.8,
-    "tier": 29.5,
+    "score": 61.4,
+    "tier": 30.1,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 39.2,
+    "score": 38.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 4,
     "approvals": 0,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,17 +26,17 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 16,
+  "count": 17,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 11,
     "null": 6
   },
   "outcome_counts": {
     "pending": 12,
-    "win": 4
+    "win": 5
   },
   "scope_counts": {
-    "local": 12,
+    "local": 13,
     "statewide": 4
   },
   "issue_top": {
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-05-08",
+  "latest": "2026-05-09",
   "top_citations": [
+    {
+      "id": "news:gdelt-d3e95360b3c2c928-oh",
+      "date": "2026-05-09",
+      "jurisdiction": "10tv.com",
+      "title": "Ohio data center ban advocates are trying to get 413 , 000 signatures by July 1",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://10tv.com/article/news/local/ohio-data-center-ban-advocates-trying-to-get-413000-signatures-july-1/530-471a09f4-d911-46d9-88ef-917a29156a0a"
+    },
     {
       "id": "news:rss-dcd-9b9782b83df42aef-oh",
       "date": "2026-05-08",
@@ -134,15 +143,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://tiktok.com/@putschforohio/video/7630986924760567053"
-    },
-    {
-      "id": "research:oh-ravenna-city-council-20260415-ravenna-city-council-approved-12-month-moratorium",
-      "date": "2026-04-15",
-      "jurisdiction": "Ravenna City Council",
-      "title": "Ravenna City Council approved 12-month moratorium on new data center development after nearly 100 residents packed April 10 council meeting ",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.aol.com/articles/ravenna-shalersville-limit-data-centers-130003334.html"
     }
   ]
 }

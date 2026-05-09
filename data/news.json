@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-09T21:00:17Z",
+  "generated_at": "2026-05-09T21:43:23Z",
   "window_days": 90,
-  "count": 312,
+  "count": 313,
   "items": [
+    {
+      "id": "gdelt-d3e95360b3c2c928",
+      "state": "OH",
+      "city": null,
+      "category": "banned",
+      "headline": "Ohio data center ban advocates are trying to get 413 , 000 signatures by July 1",
+      "source_domain": "10tv.com",
+      "source_name": "10tv.com",
+      "url": "https://10tv.com/article/news/local/ohio-data-center-ban-advocates-trying-to-get-413000-signatures-july-1/530-471a09f4-d911-46d9-88ef-917a29156a0a",
+      "date": "2026-05-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-09 21:43:22",
+      "url_hash": "d3e95360b3c2c928",
+      "content_hash": "6f34d12a30c3e880",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-09T21:43:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-cbb48cf187bc1891",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -110,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -352,7 +392,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -391,7 +431,7 @@
         "rss-dcd"
       ],
       "snippet": "But a potential moratorium could stop it in its tracks",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -554,7 +594,7 @@
         "rss-dcd"
       ],
       "snippet": "Digital Realty subsidiary seeks damages after alleged issues at modular build",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -593,7 +633,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -992,7 +1032,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -1031,7 +1071,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4976,7 +5016,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5493,7 +5533,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5894,7 +5934,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-09T21:00:17Z",
+      "last_seen": "2026-05-09T21:43:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12366,19 +12406,19 @@
   "by_state": {
     "OH": {
       "state": "OH",
-      "count": 10,
+      "count": 11,
       "total_engagement": 2750,
       "categories": {
-        "protested": 9,
-        "banned": 1
+        "banned": 2,
+        "protested": 9
       },
       "platforms": {
-        "news": 3,
+        "news": 4,
         "reddit": 3,
         "tiktok": 3,
         "x": 1
       },
-      "latest_date": "2026-05-08"
+      "latest_date": "2026-05-09"
     },
     "KS": {
       "state": "KS",
