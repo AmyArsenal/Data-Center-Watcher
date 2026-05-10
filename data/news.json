@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-10T15:10:23Z",
+  "generated_at": "2026-05-10T16:06:36Z",
   "window_days": 90,
-  "count": 316,
+  "count": 318,
   "items": [
+    {
+      "id": "gdelt-da541c78de9269e7",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Flagstaff City Council again delays decision on data center regulations",
+      "source_domain": "azdailysun.com",
+      "source_name": "azdailysun.com",
+      "url": "https://azdailysun.com/news/local/flagstaff-city-council-again-delays-decision-on-data-center-regulations/article_dbfa8e57-87e3-4034-aa05-d8768021bc7f.html",
+      "date": "2026-05-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-10 16:06:35",
+      "url_hash": "da541c78de9269e7",
+      "content_hash": "96cc6eb7dcf6bc55",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-10T16:06:35Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-445737e4cef47a86",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure officials refuse to fine builders of massive 6 . 2 million - square - foot facility over unauthorized ...",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water",
+      "date": "2026-05-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-10 16:06:35",
+      "url_hash": "445737e4cef47a86",
+      "content_hash": "469b22cc4a12187d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-10T16:06:35Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-b358c70488105557",
       "state": "US",
@@ -514,7 +594,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -553,7 +633,7 @@
         "rss-dcd"
       ],
       "snippet": "But a potential moratorium could stop it in its tracks",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -716,7 +796,7 @@
         "rss-dcd"
       ],
       "snippet": "Digital Realty subsidiary seeks damages after alleged issues at modular build",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -755,7 +835,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1154,7 +1234,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -1193,7 +1273,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5138,7 +5218,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5655,7 +5735,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6056,7 +6136,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-10T15:10:23Z",
+      "last_seen": "2026-05-10T16:06:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

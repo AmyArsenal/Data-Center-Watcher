@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T15:10:23Z",
-  "count": 678,
+  "generated_at": "2026-05-10T16:06:36Z",
+  "count": 680,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -117,6 +117,53 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-445737e4cef47a86-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure officials refuse to fine builders of massive 6 . 2 million - square - foot facility over unauthorized ...",
+      "sources": [
+        "https://tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-10T16:06:35Z",
+      "first_seen": "2026-05-10T16:06:36Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-b358c70488105557-us",
       "origin": "news",
       "state": "US",
@@ -156,6 +203,51 @@
       "data_source": "news",
       "last_updated": "2026-05-10T08:28:53Z",
       "first_seen": "2026-05-10T08:28:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-da541c78de9269e7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "azdailysun.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Flagstaff City Council again delays decision on data center regulations",
+      "sources": [
+        "https://azdailysun.com/news/local/flagstaff-city-council-again-delays-decision-on-data-center-regulations/article_dbfa8e57-87e3-4034-aa05-d8768021bc7f.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-10T16:06:35Z",
+      "first_seen": "2026-05-10T16:06:36Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -32133,26 +32225,26 @@
     },
     "US": {
       "state": "US",
-      "count": 210,
+      "count": 212,
       "outcome_counts": {
-        "pending": 143,
+        "pending": 145,
         "win": 62,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 205,
+        "restrictive": 207,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 207,
+        "local": 209,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 51,
+        "community_impact": 52,
         "zoning": 13,
         "grid_energy": 9
       },
