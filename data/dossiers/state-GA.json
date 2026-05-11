@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-05-11T04:21:25Z",
+  "generated_at": "2026-05-11T07:58:29Z",
   "risk_score": {
-    "score": 47.6,
-    "tier": 13.4,
-    "engagement": 9.4,
-    "recency": 14.8,
-    "multi_source": 5.0,
+    "score": 50.5,
+    "tier": 15.2,
+    "engagement": 9.2,
+    "recency": 16.4,
+    "multi_source": 4.7,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.4,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.5,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
@@ -26,32 +26,32 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 14,
+  "count": 15,
   "tier_counts": {
-    "restrictive": 2,
+    "restrictive": 3,
     "unclear": 4,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 9,
+    "pending": 10,
     "win": 2,
     "loss": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 9
   },
   "issue_top": {
-    "community_impact": 5,
+    "community_impact": 6,
     "water": 3,
     "grid_energy": 3,
     "tax_incentive": 2,
+    "transparency": 2,
     "environmental": 2,
     "zoning": 2,
-    "ratepayer": 2,
-    "transparency": 1
+    "ratepayer": 2
   },
   "companies": [
     [
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
-  "latest": "2026-05-05",
+  "latest": "2026-05-11",
   "top_citations": [
+    {
+      "id": "news:gdelt-f4099319a5c5368e-ga",
+      "date": "2026-05-11",
+      "jurisdiction": "dailymail.com",
+      "title": "Fury as massive Georgia data center uses 30 million gallons of water through secret  unbilled  pipes while residents suffer low pressure",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://dailymail.com/news/article-15806311/Data-center-Georgia-free-water.html"
+    },
     {
       "id": "news:rss-dcd-985bac60e032d78b-ga",
       "date": "2026-05-05",
@@ -142,15 +151,6 @@
       "title": "Local government; construction or development of  new data centers for a specified time; prohibit",
       "tier": "unclear",
       "outcome": "pending",
-      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
-    },
-    {
-      "id": "openstates:ocd-bill-3d0d7fa7-831c-47f7-b7a9-315ea60d3654-ga",
-      "date": "2026-01-15",
-      "jurisdiction": "GA Legislature",
-      "title": "State Sales and Use Taxes; the data center equipment sales and use tax exemption; repeal",
-      "tier": "supportive",
-      "outcome": "win",
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
     }
   ]

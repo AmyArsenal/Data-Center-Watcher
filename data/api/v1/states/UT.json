@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-05-11T04:21:25Z",
+  "generated_at": "2026-05-11T07:58:29Z",
   "risk_score": {
-    "score": 64.2,
-    "tier": 33.0,
+    "score": 65.7,
+    "tier": 34.4,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "N/A",
-    "score": null,
-    "label": "Insufficient data"
+    "letter": "F",
+    "score": 34.3,
+    "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
     "moratoriums": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 4,
+  "count": 5,
   "tier_counts": {
     "null": 1,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 3
+    "pending": 4
   },
   "scope_counts": {
     "statewide": 1,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
-    "community_impact": 2,
+    "community_impact": 3,
     "grid_energy": 1,
     "ratepayer": 1,
     "contract_guarantees": 1
@@ -53,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2026-05-07",
+  "latest": "2026-05-11",
   "top_citations": [
+    {
+      "id": "news:gdelt-d9f6373d26f76daa-ut",
+      "date": "2026-05-11",
+      "jurisdiction": "koco.com",
+      "title": "Why Utah residents are protesting a massive AI data center",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://koco.com/article/utah-residents-protesting-ai-data-center-kevin-oleary/71258120"
+    },
     {
       "id": "news:gdelt-a57b806eae1c5236-ut",
       "date": "2026-05-07",

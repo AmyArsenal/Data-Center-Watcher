@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-11T04:21:25Z",
+  "generated_at": "2026-05-11T07:58:29Z",
   "states": [
     {
       "state": "AK",
@@ -144,16 +144,16 @@
     },
     {
       "state": "GA",
-      "count": 14,
-      "risk_score": 47.6,
-      "grade": "C",
-      "grade_score": 52.4,
+      "count": 15,
+      "risk_score": 50.5,
+      "grade": "D",
+      "grade_score": 49.5,
       "moratoriums": 3,
       "approvals": 2,
       "denials": 2,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-05-05",
+      "latest": "2026-05-11",
       "url": "data/dossiers/state-GA.json"
     },
     {
@@ -606,16 +606,16 @@
     },
     {
       "state": "UT",
-      "count": 4,
-      "risk_score": 64.2,
-      "grade": "N/A",
-      "grade_score": null,
+      "count": 5,
+      "risk_score": 65.7,
+      "grade": "F",
+      "grade_score": 34.3,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 0,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-05-07",
+      "latest": "2026-05-11",
       "url": "data/dossiers/state-UT.json"
     },
     {
