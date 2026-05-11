@@ -1,8 +1,126 @@
 {
-  "generated_at": "2026-05-11T10:57:16Z",
+  "generated_at": "2026-05-11T13:39:48Z",
   "window_days": 90,
-  "count": 321,
+  "count": 324,
   "items": [
+    {
+      "id": "gdelt-0aee6fdb3c72e75e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Opposition grows to proposed AI data center project near Cayuga Lake",
+      "source_domain": "fingerlakes1.com",
+      "source_name": "fingerlakes1.com",
+      "url": "https://fingerlakes1.com/2026/05/11/opposition-grows-to-proposed-ai-data-center-project-near-cayuga-lake",
+      "date": "2026-05-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-11 13:39:48",
+      "url_hash": "0aee6fdb3c72e75e",
+      "content_hash": "3c9099ef95a23e3d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-11T13:39:48Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-ef06c67129f5ac8b",
+      "state": "FL",
+      "city": null,
+      "category": "protested",
+      "headline": "Florida enacts data center law covering ratepayer protections, water use, and local zoning powers",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/florida-enacts-data-center-law-covering-ratepayer-protections-water-use-and-local-zoning-powers",
+      "date": "2026-05-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-11 13:39:47",
+      "url_hash": "ef06c67129f5ac8b",
+      "content_hash": "337b0e979a627519",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Will come into effect July 1",
+      "last_seen": "2026-05-11T13:39:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/florida-enacts-data-center-law-covering-ratepayer-protections-water-use-and-local-zoning-powers/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-35267d10a476be1d",
+      "state": "MI",
+      "city": null,
+      "category": "banned",
+      "headline": "Utility in Ypsilanti, Michigan, imposes one-year moratorium on supplying new data centers",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/utility-in-ypsilanti-michigan-imposes-one-year-moratorium-on-supplying-new-data-centers",
+      "date": "2026-05-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-11 13:39:47",
+      "url_hash": "35267d10a476be1d",
+      "content_hash": "f4f0733b9b262c0b",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Effectively halts two potential projects in the area",
+      "last_seen": "2026-05-11T13:39:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/utility-in-ypsilanti-michigan-imposes-one-year-moratorium-on-supplying-new-data-centers/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-0da10be5bce59bdc",
       "state": "US",
@@ -30,7 +148,7 @@
         "rss-dcd"
       ],
       "snippet": "Production at the Japanese plant expected to start in 2028",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +227,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-11T07:58:28Z",
+      "last_seen": "2026-05-11T13:39:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -713,7 +831,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -752,7 +870,7 @@
         "rss-dcd"
       ],
       "snippet": "But a potential moratorium could stop it in its tracks",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -954,7 +1072,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1353,7 +1471,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -1392,7 +1510,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5337,7 +5455,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5854,7 +5972,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6255,7 +6373,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-11T10:57:15Z",
+      "last_seen": "2026-05-11T13:39:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12725,6 +12843,32 @@
     }
   ],
   "by_state": {
+    "FL": {
+      "state": "FL",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-11"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 5,
+      "total_engagement": 104,
+      "categories": {
+        "banned": 3,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 4,
+        "reddit": 1
+      },
+      "latest_date": "2026-05-11"
+    },
     "GA": {
       "state": "GA",
       "count": 3,
@@ -12888,20 +13032,6 @@
       },
       "latest_date": "2026-05-01"
     },
-    "MI": {
-      "state": "MI",
-      "count": 4,
-      "total_engagement": 104,
-      "categories": {
-        "banned": 2,
-        "protested": 2
-      },
-      "platforms": {
-        "news": 3,
-        "reddit": 1
-      },
-      "latest_date": "2026-04-30"
-    },
     "PA": {
       "state": "PA",
       "count": 1,
@@ -12928,18 +13058,6 @@
         "x": 4
       },
       "latest_date": "2026-04-30"
-    },
-    "FL": {
-      "state": "FL",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-04-29"
     },
     "MN": {
       "state": "MN",

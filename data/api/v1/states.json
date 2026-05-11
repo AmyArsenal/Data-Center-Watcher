@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-11T10:57:16Z",
+  "generated_at": "2026-05-11T13:39:48Z",
   "states": [
     {
       "state": "AK",
@@ -130,16 +130,16 @@
     },
     {
       "state": "FL",
-      "count": 7,
-      "risk_score": 45.8,
-      "grade": "C",
-      "grade_score": 54.2,
+      "count": 8,
+      "risk_score": 50.9,
+      "grade": "D",
+      "grade_score": 49.1,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 2,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-04-29",
+      "latest": "2026-05-11",
       "url": "data/dossiers/state-FL.json"
     },
     {
@@ -298,16 +298,16 @@
     },
     {
       "state": "MI",
-      "count": 7,
-      "risk_score": 54.2,
+      "count": 8,
+      "risk_score": 55.8,
       "grade": "D",
-      "grade_score": 45.8,
-      "moratoriums": 1,
+      "grade_score": 44.2,
+      "moratoriums": 2,
       "approvals": 0,
-      "denials": 3,
+      "denials": 4,
       "lawsuits": 0,
       "active_companies": 2,
-      "latest": "2026-04-30",
+      "latest": "2026-05-11",
       "url": "data/dossiers/state-MI.json"
     },
     {
