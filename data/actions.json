@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T16:18:50Z",
-  "count": 686,
+  "generated_at": "2026-05-11T18:14:07Z",
+  "count": 687,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -297,6 +297,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-86b5164b94d278d3-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-11",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Concern over proposed sale of 300 acres for data center in Hillsboro, Texas. Residents voice worries at public meeting",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/concern-over-proposed-sale-of-300-acres-for-data-center-in-hillsboro-texas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-11T18:14:06Z",
+      "first_seen": "2026-05-11T18:14:07Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-ef06c67129f5ac8b-fl",
@@ -32647,6 +32694,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "TX": {
+      "state": "TX",
+      "count": 23,
+      "outcome_counts": {
+        "pending": 15,
+        "win": 3,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 8,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 19,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 7
+      },
+      "latest_date": "2026-05-11",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 17,
@@ -32849,35 +32925,6 @@
       "latest_date": "2026-05-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 22,
-      "outcome_counts": {
-        "pending": 14,
-        "win": 3,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 7,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 18,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 6
-      },
-      "latest_date": "2026-05-05",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "WY": {
       "state": "WY",

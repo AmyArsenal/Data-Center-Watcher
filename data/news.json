@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-11T16:18:50Z",
+  "generated_at": "2026-05-11T18:14:07Z",
   "window_days": 90,
-  "count": 324,
+  "count": 325,
   "items": [
+    {
+      "id": "rss-dcd-86b5164b94d278d3",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Concern over proposed sale of 300 acres for data center in Hillsboro, Texas",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/concern-over-proposed-sale-of-300-acres-for-data-center-in-hillsboro-texas",
+      "date": "2026-05-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-11 18:14:06",
+      "url_hash": "86b5164b94d278d3",
+      "content_hash": "75822b72283d0200",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Residents voice worries at public meeting",
+      "last_seen": "2026-05-11T18:14:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/concern-over-proposed-sale-of-300-acres-for-data-center-in-hillsboro-texas/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-0aee6fdb3c72e75e",
       "state": "US",
@@ -70,7 +109,7 @@
         "rss-dcd"
       ],
       "snippet": "Will come into effect July 1",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +148,7 @@
         "rss-dcd"
       ],
       "snippet": "Effectively halts two potential projects in the area",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -148,7 +187,7 @@
         "rss-dcd"
       ],
       "snippet": "Production at the Japanese plant expected to start in 2028",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -831,7 +870,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1072,7 +1111,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1471,7 +1510,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Maryland Office of People’s Counsel has filed a FERC complaint against PJM contending that the advent of massive demand growth from data centers has rendered the RTO’s transmission cost allocation rules unjust and unreasonable. The post Complaint Says PJM Tx Cost Allocation Rules Rendered Unfair by Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -1510,7 +1549,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission issued an order requiring Portland General Electric’s large data center customers to bear more of the costs associated with serving their load, in an effort to protect other customer classes from unwarranted costs. The post Oregon PUC Approves New Data Center Rate Class for PGE Customers appeared first on RTO Insider .",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5455,7 +5494,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5972,7 +6011,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6373,7 +6412,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-11T16:18:49Z",
+      "last_seen": "2026-05-11T18:14:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12843,6 +12882,21 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 8,
+      "total_engagement": 629,
+      "categories": {
+        "protested": 8
+      },
+      "platforms": {
+        "news": 4,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-05-11"
+    },
     "FL": {
       "state": "FL",
       "count": 2,
@@ -12999,21 +13053,6 @@
       },
       "platforms": {
         "news": 1
-      },
-      "latest_date": "2026-05-05"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 7,
-      "total_engagement": 629,
-      "categories": {
-        "protested": 7
-      },
-      "platforms": {
-        "news": 3,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
       },
       "latest_date": "2026-05-05"
     },
