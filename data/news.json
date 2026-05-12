@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-05-12T19:17:20Z",
+  "generated_at": "2026-05-12T20:55:50Z",
   "window_days": 90,
-  "count": 344,
+  "count": 350,
   "items": [
+    {
+      "id": "gdelt-36efcb69e156b0bc",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "New Red Oak Data Center Project Meets Community Pushback",
+      "source_domain": "dallasobserver.com",
+      "source_name": "dallasobserver.com",
+      "url": "https://dallasobserver.com/news/red-oak-data-center-meets-community-resistance-40674118",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 20:55:50",
+      "url_hash": "36efcb69e156b0bc",
+      "content_hash": "6f1ade7562255c7c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T20:55:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1fe824368bb577e6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "The data centers are coming  – but some Hanover and Henrico residents are fighting to stop them",
+      "source_domain": "henricocitizen.com",
+      "source_name": "henricocitizen.com",
+      "url": "https://henricocitizen.com/the-data-centers-are-coming-but-some-hanover-and-henrico-residents-are-fighting-to-stop-them",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 20:55:50",
+      "url_hash": "1fe824368bb577e6",
+      "content_hash": "b08e7c568fd16bf0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T20:55:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-387df239735f5f44",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Henderson County commissioners call for safeguards on data centers",
+      "source_domain": "kltv.com",
+      "source_name": "kltv.com",
+      "url": "https://kltv.com/2026/05/12/packed-house-henderson-county-commissioners-court-meeting-future-data-centers",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 20:55:50",
+      "url_hash": "387df239735f5f44",
+      "content_hash": "2c49c9f03603ebf7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T20:55:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-80cf32ca2d0da5b4",
+      "state": "MI",
+      "city": null,
+      "category": "banned",
+      "headline": "Penn Township , Michigan Board approves 30 day data center moratorium",
+      "source_domain": "wwmt.com",
+      "source_name": "wwmt.com",
+      "url": "https://wwmt.com/news/state/penn-township-michigan-board-considers-data-center-moratorium-in-cass-county",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 20:55:50",
+      "url_hash": "80cf32ca2d0da5b4",
+      "content_hash": "c77dc5c71fdf8557",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T20:55:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4d6c647a2d669bf5",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "North Coventry moves toward writing zoning ordinance to deal with data center",
+      "source_domain": "thereporteronline.com",
+      "source_name": "thereporteronline.com",
+      "url": "https://thereporteronline.com/2026/05/12/north-coventry-moves-toward-writing-zoning-ordinance-to-deal-with-data-center",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 20:55:50",
+      "url_hash": "4d6c647a2d669bf5",
+      "content_hash": "b3db412abf4c90af",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T20:55:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-743a7780f37156a0",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center regulations in Cave City voted down , council supports moratorium",
+      "source_domain": "bgdailynews.com",
+      "source_name": "bgdailynews.com",
+      "url": "https://bgdailynews.com/2026/05/12/data-center-regulations-in-cave-city-voted-down-council-supports-moratorium",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 20:55:50",
+      "url_hash": "743a7780f37156a0",
+      "content_hash": "c629973f796b9903",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T20:55:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-fbbfd81575952c8d",
       "state": "US",
@@ -30,7 +270,7 @@
         "rss-dcd"
       ],
       "snippet": "Company to take up Westbank's two data center projects in Vancouver",
-      "last_seen": "2026-05-12T19:17:19Z",
+      "last_seen": "2026-05-12T20:55:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +309,7 @@
         "rss-dcd"
       ],
       "snippet": "Robinhood luminary pursues vertical orbital data center/rocket empire, quintuples its Series-A",
-      "last_seen": "2026-05-12T19:17:19Z",
+      "last_seen": "2026-05-12T20:55:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -268,7 +508,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T07:36:10Z",
+      "last_seen": "2026-05-12T20:55:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1627,7 +1867,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-12T19:17:19Z",
+      "last_seen": "2026-05-12T20:55:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1868,7 +2108,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-12T19:17:19Z",
+      "last_seen": "2026-05-12T20:55:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6251,7 +6491,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-12T19:17:19Z",
+      "last_seen": "2026-05-12T20:55:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6768,7 +7008,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-12T19:17:19Z",
+      "last_seen": "2026-05-12T20:55:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7169,7 +7409,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-12T19:17:19Z",
+      "last_seen": "2026-05-12T20:55:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13639,6 +13879,20 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 6,
+      "total_engagement": 104,
+      "categories": {
+        "banned": 4,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 5,
+        "reddit": 1
+      },
+      "latest_date": "2026-05-12"
+    },
     "KS": {
       "state": "KS",
       "count": 3,
@@ -13700,20 +13954,6 @@
       },
       "platforms": {
         "news": 2
-      },
-      "latest_date": "2026-05-11"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 5,
-      "total_engagement": 104,
-      "categories": {
-        "banned": 3,
-        "protested": 2
-      },
-      "platforms": {
-        "news": 4,
-        "reddit": 1
       },
       "latest_date": "2026-05-11"
     },
