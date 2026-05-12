@@ -1,41 +1,44 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CO",
-  "generated_at": "2026-05-12T04:52:32Z",
+  "generated_at": "2026-05-12T07:36:11Z",
   "risk_score": {
-    "score": 37.1,
-    "tier": 12.0,
-    "engagement": 10.0,
-    "recency": 9.1,
-    "multi_source": 6.0,
+    "score": 45.3,
+    "tier": 16.7,
+    "engagement": 9.4,
+    "recency": 14.2,
+    "multi_source": 5.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 62.9,
+    "score": 54.7,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 0,
     "approvals": 0,
-    "denials": 0,
+    "denials": 1,
     "lawsuits": 0,
-    "blocked": 0,
+    "blocked": 1,
     "active_companies": 1,
     "bills_introduced": 4,
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 3,
-    "null": 2
+    "null": 2,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 5
+    "pending": 5,
+    "win": 1
   },
   "scope_counts": {
-    "statewide": 5
+    "statewide": 5,
+    "local": 1
   },
   "issue_top": {
     "grid_energy": 3,
@@ -51,8 +54,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-04-04",
-  "latest": "2026-04-02",
+  "latest": "2026-05-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-3920c99bc6dc298d-co",
+      "date": "2026-05-12",
+      "jurisdiction": "ksut.org",
+      "title": "Colorado lawmakers reject environmentalist - backed effort to regulate data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://ksut.org/government-politics/2026-05-11/colorado-lawmakers-reject-environmentalist-backed-effort-to-regulate-data-centers"
+    },
     {
       "id": "research:co-colorado-puc-20260402-xcel-energy-filed-large-load-tariff-at-colorado-pu",
       "date": "2026-04-02",

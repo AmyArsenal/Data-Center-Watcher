@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-05-12T04:52:32Z",
+  "generated_at": "2026-05-12T07:36:11Z",
   "window_days": 90,
-  "count": 335,
+  "count": 338,
   "items": [
+    {
+      "id": "gdelt-34188015b1ece6a8",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Hillsboro looks to redefine data center zoning as neighbors raise concerns",
+      "source_domain": "kxxv.com",
+      "source_name": "kxxv.com",
+      "url": "https://kxxv.com/news/local-news/in-your-neighborhood/hill-county/hillsboro-looks-to-redefine-data-center-zoning-as-neighbors-raise-concerns",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 07:36:10",
+      "url_hash": "34188015b1ece6a8",
+      "content_hash": "39a349405c346ac8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T07:36:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3920c99bc6dc298d",
+      "state": "CO",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Colorado lawmakers reject environmentalist - backed effort to regulate data centers",
+      "source_domain": "ksut.org",
+      "source_name": "ksut.org",
+      "url": "https://ksut.org/government-politics/2026-05-11/colorado-lawmakers-reject-environmentalist-backed-effort-to-regulate-data-centers",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 07:36:10",
+      "url_hash": "3920c99bc6dc298d",
+      "content_hash": "8eec064d9bacc805",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T07:36:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-574c962927f6b97d",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Red Oak residents pack council meeting to oppose proposed 800 - acre data center campus",
+      "source_domain": "wfaa.com",
+      "source_name": "wfaa.com",
+      "url": "https://wfaa.com/article/news/local/red-oak-residents-pack-council-meeting-oppose-proposed-data-center-campus/287-dc2d997c-1af1-4167-aff8-22a4e7d8d3ef",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 07:36:10",
+      "url_hash": "574c962927f6b97d",
+      "content_hash": "479fbd72cffda05f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T07:36:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-923198f656c0e80c",
       "state": "US",
@@ -150,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -190,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -230,7 +350,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -270,7 +390,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +430,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -430,7 +550,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents voice worries at public meeting",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -509,7 +629,7 @@
         "rss-dcd"
       ],
       "snippet": "Will come into effect July 1",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -548,7 +668,7 @@
         "rss-dcd"
       ],
       "snippet": "Effectively halts two potential projects in the area",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -587,7 +707,7 @@
         "rss-dcd"
       ],
       "snippet": "Production at the Japanese plant expected to start in 2028",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1270,7 +1390,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1511,7 +1631,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5894,7 +6014,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6411,7 +6531,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6812,7 +6932,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-12T04:52:32Z",
+      "last_seen": "2026-05-12T07:36:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13282,6 +13402,18 @@
     }
   ],
   "by_state": {
+    "CO": {
+      "state": "CO",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-05-12"
+    },
     "WA": {
       "state": "WA",
       "count": 1,
