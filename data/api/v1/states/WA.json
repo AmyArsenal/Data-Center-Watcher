@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-05-12T01:22:17Z",
+  "generated_at": "2026-05-12T04:52:32Z",
   "risk_score": {
-    "score": 37.0,
-    "tier": 9.0,
-    "engagement": 9.4,
-    "recency": 8.7,
-    "multi_source": 5.0,
+    "score": 47.9,
+    "tier": 15.2,
+    "engagement": 8.8,
+    "recency": 14.9,
+    "multi_source": 4.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "N/A",
-    "score": null,
-    "label": "Insufficient data"
+    "letter": "C",
+    "score": 52.1,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 0,
@@ -26,19 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 4,
+  "count": 5,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
-    "null": 2
+    "null": 2,
+    "restrictive": 1
   },
   "outcome_counts": {
     "win": 2,
-    "pending": 1,
+    "pending": 2,
     "loss": 1
   },
   "scope_counts": {
-    "statewide": 4
+    "statewide": 4,
+    "local": 1
   },
   "issue_top": {
     "tax_incentive": 3,
@@ -50,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-03-07",
+  "latest": "2026-05-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-c32118cc6be9984a-wa",
+      "date": "2026-05-12",
+      "jurisdiction": "washtimesherald.com",
+      "title": "Washington City Council says no to data center",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://washtimesherald.com/news/local_news/washington-city-council-says-no-to-data-center/article_9e635735-d823-46b1-9c83-3c89b04934e5.html"
+    },
     {
       "id": "research:wa-washington-state-legislature-20260307-washington-s-legislature-passed-sb-6231-eliminati",
       "date": "2026-03-07",
