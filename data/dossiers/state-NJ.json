@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-05-12T22:00:12Z",
+  "generated_at": "2026-05-12T23:00:51Z",
   "risk_score": {
-    "score": 51.9,
-    "tier": 17.6,
-    "engagement": 9.8,
-    "recency": 13.9,
-    "multi_source": 5.7,
+    "score": 53.6,
+    "tier": 18.5,
+    "engagement": 9.6,
+    "recency": 15.0,
+    "multi_source": 5.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.1,
+    "score": 46.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 0,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 0,
     "blocked": 2,
     "active_companies": 1,
@@ -26,9 +26,9 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 23,
+  "count": 24,
   "tier_counts": {
-    "restrictive": 5,
+    "restrictive": 6,
     "unclear": 9,
     "supportive": 2,
     "protective": 1,
@@ -36,10 +36,10 @@
   },
   "outcome_counts": {
     "pending": 17,
-    "win": 6
+    "win": 7
   },
   "scope_counts": {
-    "local": 8,
+    "local": 9,
     "statewide": 15
   },
   "issue_top": {
@@ -60,8 +60,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-05-06",
+  "latest": "2026-05-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-bf8fec78b9c6a9e6-nj",
+      "date": "2026-05-12",
+      "jurisdiction": "govtech.com",
+      "title": "New Jersey Town to Ban All Data Centers After Chaotic Meeting",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://govtech.com/artificial-intelligence/new-jersey-town-to-ban-all-data-centers-after-chaotic-meeting"
+    },
     {
       "id": "news:rss-utilitydive-cf43f1c081276f3d-nj",
       "date": "2026-05-06",
@@ -142,15 +151,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://newjerseymonitor.com/briefs/nj-bill-data-centers-electric-costs/"
-    },
-    {
-      "id": "openstates:ocd-bill-f44bc4b8-a2e4-4490-ae87-94e8c3c538c2-nj",
-      "date": "2026-02-24",
-      "jurisdiction": "NJ Legislature",
-      "title": "Requires BPU, DCA, and DEP to establish expedited approval and permitting procedures for artificial intelligence data centers powered by sma",
-      "tier": "supportive",
-      "outcome": "pending",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3639"
     }
   ]
 }

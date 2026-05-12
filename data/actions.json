@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T22:00:11Z",
-  "count": 712,
+  "generated_at": "2026-05-12T23:00:51Z",
+  "count": 716,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -716,6 +716,53 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-9481ac8352f2ff75-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kdhnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "zoning_restriction"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Applicant for Killeen data center rezoning withdraws request",
+      "sources": [
+        "https://kdhnews.com/news/local/applicant-for-killeen-data-center-rezoning-withdraws-request/article_bc1255d3-487c-4e1e-9e55-e4bd2e2b75a6.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-12T23:00:50Z",
+      "first_seen": "2026-05-12T23:00:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-b4165de0d2f40263-us",
       "origin": "news",
       "state": "US",
@@ -800,6 +847,51 @@
       "data_source": "news",
       "last_updated": "2026-05-12T04:52:32Z",
       "first_seen": "2026-05-12T04:52:32Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-bf8fec78b9c6a9e6-nj",
+      "origin": "news",
+      "state": "NJ",
+      "county": null,
+      "jurisdiction": "govtech.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New Jersey Town to Ban All Data Centers After Chaotic Meeting",
+      "sources": [
+        "https://govtech.com/artificial-intelligence/new-jersey-town-to-ban-all-data-centers-after-chaotic-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-12T23:00:50Z",
+      "first_seen": "2026-05-12T23:00:50Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -984,6 +1076,98 @@
       "data_source": "news",
       "last_updated": "2026-05-12T12:16:19Z",
       "first_seen": "2026-05-12T12:16:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-ffe3ea6b363cd8c7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "finance-commerce.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Inver Grove Heights pauses new data center projects",
+      "sources": [
+        "https://finance-commerce.com/2026/05/inver-grove-heights-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-12T23:00:50Z",
+      "first_seen": "2026-05-12T23:00:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-arstechnica-267b213afc1004a3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Ars Technica - All content",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "The newest AI boom pitch: Host a mini data center at your home. The plan aims to speed up AI compute deployment while compensating residents",
+      "sources": [
+        "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-12T23:00:50Z",
+      "first_seen": "2026-05-12T23:00:50Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -33731,27 +33915,27 @@
     },
     "US": {
       "state": "US",
-      "count": 235,
+      "count": 238,
       "outcome_counts": {
-        "pending": 162,
-        "win": 68,
+        "pending": 164,
+        "win": 69,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 230,
+        "restrictive": 233,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 232,
+        "local": 235,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 60,
-        "zoning": 16,
+        "community_impact": 61,
+        "zoning": 17,
         "grid_energy": 10
       },
       "latest_date": "2026-05-12",
@@ -33840,6 +34024,35 @@
         "community_impact": 3,
         "environmental": 1,
         "grid_energy": 1
+      },
+      "latest_date": "2026-05-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "NJ": {
+      "state": "NJ",
+      "count": 24,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 7,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 6,
+        "protective": 1,
+        "supportive": 2,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 15,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 5,
+        "water": 4,
+        "community_impact": 3
       },
       "latest_date": "2026-05-12",
       "map_color_tier": "restrictive",
@@ -34101,35 +34314,6 @@
         "grid_energy": 3,
         "water": 3,
         "community_impact": 2
-      },
-      "latest_date": "2026-05-06",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 23,
-      "outcome_counts": {
-        "pending": 17,
-        "win": 6,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 5,
-        "protective": 1,
-        "supportive": 2,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 15,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 5,
-        "water": 4,
-        "community_impact": 3
       },
       "latest_date": "2026-05-06",
       "map_color_tier": "restrictive",

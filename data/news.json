@@ -1,8 +1,167 @@
 {
-  "generated_at": "2026-05-12T22:00:11Z",
+  "generated_at": "2026-05-12T23:00:51Z",
   "window_days": 90,
-  "count": 350,
+  "count": 354,
   "items": [
+    {
+      "id": "gdelt-ffe3ea6b363cd8c7",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Inver Grove Heights pauses new data center projects",
+      "source_domain": "finance-commerce.com",
+      "source_name": "finance-commerce.com",
+      "url": "https://finance-commerce.com/2026/05/inver-grove-heights-data-center-moratorium",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 23:00:50",
+      "url_hash": "ffe3ea6b363cd8c7",
+      "content_hash": "47d425a396e83326",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T23:00:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9481ac8352f2ff75",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Applicant for Killeen data center rezoning withdraws request",
+      "source_domain": "kdhnews.com",
+      "source_name": "kdhnews.com",
+      "url": "https://kdhnews.com/news/local/applicant-for-killeen-data-center-rezoning-withdraws-request/article_bc1255d3-487c-4e1e-9e55-e4bd2e2b75a6.html",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 23:00:50",
+      "url_hash": "9481ac8352f2ff75",
+      "content_hash": "c0f74864d023aa3c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T23:00:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-bf8fec78b9c6a9e6",
+      "state": "NJ",
+      "city": null,
+      "category": "banned",
+      "headline": "New Jersey Town to Ban All Data Centers After Chaotic Meeting",
+      "source_domain": "govtech.com",
+      "source_name": "govtech.com",
+      "url": "https://govtech.com/artificial-intelligence/new-jersey-town-to-ban-all-data-centers-after-chaotic-meeting",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 23:00:50",
+      "url_hash": "bf8fec78b9c6a9e6",
+      "content_hash": "c4ac5ef758206cb7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T23:00:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-arstechnica-267b213afc1004a3",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "The newest AI boom pitch: Host a mini data center at your home",
+      "source_domain": "arstechnica.com",
+      "source_name": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 23:00:50",
+      "url_hash": "267b213afc1004a3",
+      "content_hash": "7874befde3ef4a83",
+      "source": "rss-arstechnica",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-arstechnica"
+      ],
+      "snippet": "The plan aims to speed up AI compute deployment while compensating residents.",
+      "last_seen": "2026-05-12T23:00:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+        "rss_author": "Jeremy Hsu",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-36efcb69e156b0bc",
       "state": "US",
@@ -110,7 +269,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T20:55:50Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +309,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T20:55:50Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -270,7 +429,7 @@
         "rss-dcd"
       ],
       "snippet": "Company to take up Westbank's two data center projects in Vancouver",
-      "last_seen": "2026-05-12T22:00:11Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -309,7 +468,7 @@
         "rss-dcd"
       ],
       "snippet": "Robinhood luminary pursues vertical orbital data center/rocket empire, quintuples its Series-A",
-      "last_seen": "2026-05-12T22:00:11Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1867,7 +2026,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-12T22:00:11Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2108,7 +2267,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-12T22:00:11Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6491,7 +6650,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-12T22:00:11Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7008,7 +7167,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-12T22:00:11Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7409,7 +7568,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-12T22:00:11Z",
+      "last_seen": "2026-05-12T23:00:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13879,6 +14038,20 @@
     }
   ],
   "by_state": {
+    "NJ": {
+      "state": "NJ",
+      "count": 5,
+      "total_engagement": 2907,
+      "categories": {
+        "banned": 2,
+        "protested": 3
+      },
+      "platforms": {
+        "news": 3,
+        "x": 2
+      },
+      "latest_date": "2026-05-12"
+    },
     "MI": {
       "state": "MI",
       "count": 6,
@@ -14036,20 +14209,6 @@
         "news": 1
       },
       "latest_date": "2026-05-08"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 4,
-      "total_engagement": 2907,
-      "categories": {
-        "protested": 3,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 2,
-        "x": 2
-      },
-      "latest_date": "2026-05-06"
     },
     "NC": {
       "state": "NC",
