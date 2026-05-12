@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-11T23:37:13Z",
+  "generated_at": "2026-05-12T01:22:17Z",
   "window_days": 90,
-  "count": 326,
+  "count": 327,
   "items": [
+    {
+      "id": "gdelt-7ec3bce820991344",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Andover Township moves to ban data centers after meeting chaos",
+      "source_domain": "nj1015.com",
+      "source_name": "nj1015.com",
+      "url": "https://nj1015.com/andover-township-data-center-ban",
+      "date": "2026-05-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 01:22:17",
+      "url_hash": "7ec3bce820991344",
+      "content_hash": "1a4ca412830d485c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T01:22:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-5ff05953caf4525f",
       "state": "US",
@@ -70,7 +110,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents voice worries at public meeting",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -149,7 +189,7 @@
         "rss-dcd"
       ],
       "snippet": "Will come into effect July 1",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -188,7 +228,7 @@
         "rss-dcd"
       ],
       "snippet": "Effectively halts two potential projects in the area",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -227,7 +267,7 @@
         "rss-dcd"
       ],
       "snippet": "Production at the Japanese plant expected to start in 2028",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -910,7 +950,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1151,7 +1191,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5534,7 +5574,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6051,7 +6091,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6452,7 +6492,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-11T23:37:12Z",
+      "last_seen": "2026-05-12T01:22:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
