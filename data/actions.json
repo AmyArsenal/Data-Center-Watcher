@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T10:12:57Z",
-  "count": 701,
+  "generated_at": "2026-05-12T12:16:19Z",
+  "count": 704,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -251,6 +251,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-441a8792e54355eb-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cachevalleydaily.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Box Elder residents file two AI data center referendums",
+      "sources": [
+        "https://cachevalleydaily.com/podcasts/box-elder-residents-file-two-ai-data-center-referendums/audio_d1858597-1f92-5966-ab1b-cb774933aed4.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-12T12:16:19Z",
+      "first_seen": "2026-05-12T12:16:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-574c962927f6b97d-us",
@@ -528,6 +575,53 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-ca300549f0e6e487-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kcentv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "We dont want it in our community  | Hillsboro commissioners table discussion on data centers",
+      "sources": [
+        "https://kcentv.com/article/news/local/hillsboro-commissioners-table-discussion-data-centers/500-dbbed8d2-ce5b-4df3-9bb4-56ea10955689"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-12T12:16:19Z",
+      "first_seen": "2026-05-12T12:16:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-e98571535136f99b-us",
       "origin": "news",
       "state": "US",
@@ -571,6 +665,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f804914d6167b359-ks",
+      "origin": "news",
+      "state": "KS",
+      "county": null,
+      "jurisdiction": "kshb.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Residents fight back as data center developers chase Kansas tax incentives",
+      "sources": [
+        "https://kshb.com/news/local-news/residents-fight-back-as-data-center-developers-chase-kansas-tax-incentives"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-12T12:16:19Z",
+      "first_seen": "2026-05-12T12:16:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-0aee6fdb3c72e75e-us",
@@ -33224,26 +33365,26 @@
     },
     "US": {
       "state": "US",
-      "count": 226,
+      "count": 228,
       "outcome_counts": {
-        "pending": 154,
+        "pending": 156,
         "win": 67,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 221,
+        "restrictive": 223,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 223,
+        "local": 225,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 56,
+        "community_impact": 58,
         "zoning": 15,
         "grid_energy": 10
       },
@@ -33279,6 +33420,35 @@
       "latest_date": "2026-05-12",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
+    },
+    "KS": {
+      "state": "KS",
+      "count": 13,
+      "outcome_counts": {
+        "pending": 8,
+        "win": 3,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 4,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "tax_incentive": 4,
+        "zoning": 3
+      },
+      "latest_date": "2026-05-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
     },
     "UT": {
       "state": "UT",
@@ -33536,35 +33706,6 @@
         "grid_energy": 5,
         "community_impact": 3,
         "transparency": 3
-      },
-      "latest_date": "2026-05-08",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "KS": {
-      "state": "KS",
-      "count": 12,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 3,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 4,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 4,
-        "tax_incentive": 4,
-        "zoning": 3
       },
       "latest_date": "2026-05-08",
       "map_color_tier": "restrictive",

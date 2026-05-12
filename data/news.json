@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-05-12T10:12:57Z",
+  "generated_at": "2026-05-12T12:16:19Z",
   "window_days": 90,
-  "count": 339,
+  "count": 342,
   "items": [
+    {
+      "id": "gdelt-441a8792e54355eb",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Box Elder residents file two AI data center referendums",
+      "source_domain": "cachevalleydaily.com",
+      "source_name": "cachevalleydaily.com",
+      "url": "https://cachevalleydaily.com/podcasts/box-elder-residents-file-two-ai-data-center-referendums/audio_d1858597-1f92-5966-ab1b-cb774933aed4.html",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 12:16:19",
+      "url_hash": "441a8792e54355eb",
+      "content_hash": "ae18209fee50211a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T12:16:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ca300549f0e6e487",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "We dont want it in our community  | Hillsboro commissioners table discussion on data centers",
+      "source_domain": "kcentv.com",
+      "source_name": "kcentv.com",
+      "url": "https://kcentv.com/article/news/local/hillsboro-commissioners-table-discussion-data-centers/500-dbbed8d2-ce5b-4df3-9bb4-56ea10955689",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 12:16:19",
+      "url_hash": "ca300549f0e6e487",
+      "content_hash": "219a980c8a0a0ed3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T12:16:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-f804914d6167b359",
+      "state": "KS",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents fight back as data center developers chase Kansas tax incentives",
+      "source_domain": "kshb.com",
+      "source_name": "kshb.com",
+      "url": "https://kshb.com/news/local-news/residents-fight-back-as-data-center-developers-chase-kansas-tax-incentives",
+      "date": "2026-05-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-12 12:16:19",
+      "url_hash": "f804914d6167b359",
+      "content_hash": "dcc5ed2d8d81d230",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-12T12:16:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-34188015b1ece6a8",
       "state": "US",
@@ -110,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-12T07:36:10Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -470,7 +590,7 @@
         "rss-dcd"
       ],
       "snippet": "Seb Moss speaks with Gaelle Mogabure of Virtus DC on ESG strategy, community engagement, sustainable cooling innovation, supply chain collaboration, and developing future talent for responsible data center growth",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -589,7 +709,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents voice worries at public meeting",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -707,7 +827,7 @@
         "rss-dcd"
       ],
       "snippet": "Effectively halts two potential projects in the area",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1429,7 +1549,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1670,7 +1790,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6053,7 +6173,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6570,7 +6690,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6971,7 +7091,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-12T10:12:56Z",
+      "last_seen": "2026-05-12T12:16:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13441,6 +13561,19 @@
     }
   ],
   "by_state": {
+    "KS": {
+      "state": "KS",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-05-12"
+    },
     "CO": {
       "state": "CO",
       "count": 1,
@@ -13559,19 +13692,6 @@
         "x": 1
       },
       "latest_date": "2026-05-09"
-    },
-    "KS": {
-      "state": "KS",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "announced": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-05-08"
     },
     "MD": {
       "state": "MD",

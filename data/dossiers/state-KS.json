@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KS",
-  "generated_at": "2026-05-12T10:12:57Z",
+  "generated_at": "2026-05-12T12:16:19Z",
   "risk_score": {
-    "score": 41.9,
-    "tier": 10.3,
-    "engagement": 9.4,
-    "recency": 12.2,
-    "multi_source": 5.0,
+    "score": 45.7,
+    "tier": 12.6,
+    "engagement": 9.1,
+    "recency": 14.4,
+    "multi_source": 4.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 58.1,
+    "score": 54.3,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,25 +26,25 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
     "unclear": 3,
     "supportive": 4,
     "null": 4,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
-    "pending": 7,
+    "pending": 8,
     "win": 3,
     "loss": 2
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 5
+    "local": 6
   },
   "issue_top": {
+    "community_impact": 5,
     "tax_incentive": 4,
-    "community_impact": 4,
     "zoning": 3,
     "water": 1,
     "grid_energy": 1
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2023-03-08",
-  "latest": "2026-05-08",
+  "latest": "2026-05-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-f804914d6167b359-ks",
+      "date": "2026-05-12",
+      "jurisdiction": "kshb.com",
+      "title": "Residents fight back as data center developers chase Kansas tax incentives",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://kshb.com/news/local-news/residents-fight-back-as-data-center-developers-chase-kansas-tax-incentives"
+    },
     {
       "id": "news:gdelt-a2a027f3f7f03d5c-ks",
       "date": "2026-05-08",
@@ -134,15 +143,6 @@
       "tier": null,
       "outcome": "loss",
       "url": "https://www.kansascommerce.gov/program/business-incentives-and-services/sb-98-data-center-sales-tax-exemption/"
-    },
-    {
-      "id": "openstates:ocd-bill-ae659306-883e-4832-944c-66cd3eb65fed-ks",
-      "date": "2025-01-28",
-      "jurisdiction": "KS Legislature",
-      "title": "Extending the expiration date for provisions that authorize an electric utility to not offer parallel generation service to certain large lo",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB92/"
     }
   ]
 }
