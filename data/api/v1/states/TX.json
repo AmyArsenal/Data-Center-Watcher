@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-05-12T23:00:51Z",
+  "generated_at": "2026-05-13T00:12:43Z",
   "risk_score": {
-    "score": 53.7,
-    "tier": 21.7,
+    "score": 54.4,
+    "tier": 22.5,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.4,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 46.3,
+    "score": 45.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 23,
+  "count": 24,
   "tier_counts": {
-    "restrictive": 8,
+    "restrictive": 9,
     "null": 15
   },
   "outcome_counts": {
-    "pending": 15,
+    "pending": 16,
     "mixed": 3,
     "loss": 2,
     "win": 3
   },
   "scope_counts": {
-    "local": 19,
+    "local": 20,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-05-11",
+  "latest": "2026-05-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-fb6ad5b737ca9672-tx",
+      "date": "2026-05-12",
+      "jurisdiction": "keranews.org",
+      "title": "Oppose ? Expand ? Votes in 2 North Texas communities highlight a divide over data center growth",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://keranews.org/energy-environment/2026-05-12/oppose-expand-votes-in-2-north-texas-communities-highlight-a-divide-over-data-center-growth"
+    },
     {
       "id": "news:rss-dcd-86b5164b94d278d3-tx",
       "date": "2026-05-11",
@@ -169,15 +178,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.kut.org/energy-environment/2026-04-20/hutto-tx-zydeco-data-center-rezoning-request"
-    },
-    {
-      "id": "research:tx-matagorda-county-20260415-residents-of-matagorda-county-launched-mad---mata",
-      "date": "2026-04-15",
-      "jurisdiction": "Matagorda County",
-      "title": "Residents of Matagorda County launched 'MAD - Matagorda County Against Data Centers' petition (300+ signatures) against two proposed Barrio ",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://abc13.com/post/data-centers-proposed-matagorda-county-residents-pushing-back/18944946/"
     }
   ]
 }

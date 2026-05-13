@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T23:00:51Z",
-  "count": 716,
+  "generated_at": "2026-05-13T00:12:43Z",
+  "count": 718,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -114,6 +114,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-0728a21fae15ba5a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wfae.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Charlotte City Council weighs data center moratorium amid water , power concerns",
+      "sources": [
+        "https://wfae.org/politics/2026-05-12/charlotte-city-council-weighs-data-center-moratorium-amid-water-power-concerns"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T00:12:42Z",
+      "first_seen": "2026-05-13T00:12:42Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-1fe824368bb577e6-us",
@@ -1076,6 +1121,51 @@
       "data_source": "news",
       "last_updated": "2026-05-12T12:16:19Z",
       "first_seen": "2026-05-12T12:16:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-fb6ad5b737ca9672-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "keranews.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Oppose ? Expand ? Votes in 2 North Texas communities highlight a divide over data center growth",
+      "sources": [
+        "https://keranews.org/energy-environment/2026-05-12/oppose-expand-votes-in-2-north-texas-communities-highlight-a-divide-over-data-center-growth"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T00:12:42Z",
+      "first_seen": "2026-05-13T00:12:42Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -33915,21 +34005,21 @@
     },
     "US": {
       "state": "US",
-      "count": 238,
+      "count": 239,
       "outcome_counts": {
         "pending": 164,
-        "win": 69,
+        "win": 70,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 233,
+        "restrictive": 234,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 235,
+        "local": 236,
         "statewide": 1,
         "federal": 2
       },
@@ -34058,6 +34148,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "TX": {
+      "state": "TX",
+      "count": 24,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 3,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 9,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 20,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 7
+      },
+      "latest_date": "2026-05-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "UT": {
       "state": "UT",
       "count": 5,
@@ -34144,35 +34263,6 @@
       "latest_date": "2026-05-11",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 23,
-      "outcome_counts": {
-        "pending": 15,
-        "win": 3,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 8,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 19,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 7
-      },
-      "latest_date": "2026-05-11",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "OH": {
       "state": "OH",

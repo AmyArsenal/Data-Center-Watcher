@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "DC",
-  "generated_at": "2026-05-12T23:00:51Z",
+  "generated_at": "2026-05-13T00:12:43Z",
   "risk_score": {
-    "score": 31.4,
+    "score": 30.7,
     "tier": 12.0,
     "engagement": 6.2,
-    "recency": 13.1,
+    "recency": 12.4,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "B",
-    "score": 68.6,
+    "score": 69.3,
     "label": "Some friction, projects generally advance"
   },
   "quantified": {
