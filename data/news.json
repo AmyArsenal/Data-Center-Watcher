@@ -1,8 +1,368 @@
 {
-  "generated_at": "2026-05-13T21:00:57Z",
+  "generated_at": "2026-05-13T22:22:39Z",
   "window_days": 90,
-  "count": 375,
+  "count": 384,
   "items": [
+    {
+      "id": "gdelt-6a5843abfcfef70a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | Newsradio 600 KOGO",
+      "source_domain": "kogo.iheart.com",
+      "source_name": "kogo.iheart.com",
+      "url": "https://kogo.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "6a5843abfcfef70a",
+      "content_hash": "761dc9672c59fe9e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-194af93f5104953b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | NewsRadio 1110 KFAB",
+      "source_domain": "kfab.iheart.com",
+      "source_name": "kfab.iheart.com",
+      "url": "https://kfab.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "194af93f5104953b",
+      "content_hash": "7856c2d7b3a6a40a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b4c81cf548cbc80b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | Talk Radio 105 . 9",
+      "source_domain": "talkradio1059.iheart.com",
+      "source_name": "talkradio1059.iheart.com",
+      "url": "https://talkradio1059.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "b4c81cf548cbc80b",
+      "content_hash": "b0c0ad2ac684b5ee",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-61f2b4c193f9a48e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | KFBK News Radio",
+      "source_domain": "kfbk.iheart.com",
+      "source_name": "kfbk.iheart.com",
+      "url": "https://kfbk.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "61f2b4c193f9a48e",
+      "content_hash": "764664512f14031f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-016fa08d3908a3c0",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | News Radio 1400 WRAK",
+      "source_domain": "wrak.iheart.com",
+      "source_name": "wrak.iheart.com",
+      "url": "https://wrak.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "016fa08d3908a3c0",
+      "content_hash": "bc1a3e6f63d23de9",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-93d972c88cff95b1",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | News Radio 920 AM & 104 . 7 FM",
+      "source_domain": "newsradiori.iheart.com",
+      "source_name": "newsradiori.iheart.com",
+      "url": "https://newsradiori.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "93d972c88cff95b1",
+      "content_hash": "cb017988c40bea72",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4f828967237fa0b9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | NewsTalk 1240 WSFC",
+      "source_domain": "wsfcam.iheart.com",
+      "source_name": "wsfcam.iheart.com",
+      "url": "https://wsfcam.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "4f828967237fa0b9",
+      "content_hash": "43ee7cd4b189c174",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5fe7d2677e81275b",
+      "state": "CO",
+      "city": null,
+      "category": "protested",
+      "headline": "Second community meeting for AI data center in Colorado Springs",
+      "source_domain": "gazette.com",
+      "source_name": "gazette.com",
+      "url": "https://gazette.com/2026/05/13/second-community-meeting-around-proposed-ai-data-center-in-colorado-springs-happening-thursday",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "5fe7d2677e81275b",
+      "content_hash": "3bcb180fab0ea276",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0cb4d0b61f30b7c9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Conway residents comment on possible data center",
+      "source_domain": "ualrpublicradio.org",
+      "source_name": "ualrpublicradio.org",
+      "url": "https://ualrpublicradio.org/local-regional-news/2026-05-13/conway-residents-comment-on-possible-data-center",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 22:22:38",
+      "url_hash": "0cb4d0b61f30b7c9",
+      "content_hash": "3e1d37dfd82fbe5f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T22:22:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-071019a2fd6df5da",
       "state": "US",
@@ -30,7 +390,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +430,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -110,7 +470,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +510,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -190,7 +550,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -230,7 +590,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -270,7 +630,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +670,7 @@
         "rss-dcd"
       ],
       "snippet": "Reason for withdrawal not provided",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -349,7 +709,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -388,7 +748,7 @@
         "rss-dcd"
       ],
       "snippet": "Victory for opponents",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -427,7 +787,7 @@
         "rss-dcd"
       ],
       "snippet": "City council had threatened to veto the project",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -468,7 +828,7 @@
         "rss-dcd"
       ],
       "snippet": "Will have an operational life of 25 years",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -747,7 +1107,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Pennsylvania Public Utility Commission has issued its final order in a closely watched case to set a framework for confronting the costs of powering large load data centers and other heavyweight industrial users. The post Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation appeared first on RTO Insider .",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -986,7 +1346,7 @@
         "rss-arstechnica"
       ],
       "snippet": "The plan aims to speed up AI compute deployment while compensating residents.",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2862,7 +3222,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3103,7 +3463,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7486,7 +7846,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8003,7 +8363,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8404,7 +8764,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-13T21:00:57Z",
+      "last_seen": "2026-05-13T22:22:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14874,6 +15234,19 @@
     }
   ],
   "by_state": {
+    "CO": {
+      "state": "CO",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-13"
+    },
     "VA": {
       "state": "VA",
       "count": 7,
@@ -14969,18 +15342,6 @@
       },
       "platforms": {
         "news": 3
-      },
-      "latest_date": "2026-05-12"
-    },
-    "CO": {
-      "state": "CO",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-05-12"
     },
