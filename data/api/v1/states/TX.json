@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-05-13T07:24:23Z",
+  "generated_at": "2026-05-13T10:01:04Z",
   "risk_score": {
-    "score": 54.4,
-    "tier": 22.5,
+    "score": 55.1,
+    "tier": 23.2,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.4,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 45.6,
+    "score": 44.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 2,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 1,
     "blocked": 2,
     "active_companies": 8,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 24,
+  "count": 25,
   "tier_counts": {
-    "restrictive": 9,
+    "restrictive": 10,
     "null": 15
   },
   "outcome_counts": {
     "pending": 16,
     "mixed": 3,
     "loss": 2,
-    "win": 3
+    "win": 4
   },
   "scope_counts": {
-    "local": 20,
+    "local": 21,
     "statewide": 4
   },
   "issue_top": {
@@ -47,8 +47,8 @@
     "community_impact": 7,
     "ratepayer": 4,
     "noise": 4,
+    "farmland": 4,
     "transparency": 3,
-    "farmland": 3,
     "environmental": 3
   },
   "companies": [
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-05-12",
+  "latest": "2026-05-13",
   "top_citations": [
+    {
+      "id": "news:gdelt-70ee0a8952567fe0-tx",
+      "date": "2026-05-13",
+      "jurisdiction": "krgv.com",
+      "title": "Texas county pauses data center construction in rural areas for a year",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://krgv.com/news/texas-county-pauses-data-center-construction-in-rural-areas-for-a-year"
+    },
     {
       "id": "news:gdelt-fb6ad5b737ca9672-tx",
       "date": "2026-05-12",
@@ -169,15 +178,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.kwtx.com/2026/04/21/temple-residents-launch-recall-effort-against-mayor-council-members-over-data-center-vote/"
-    },
-    {
-      "id": "research:tx-city-of-hutto-20260420-zydeco-development-withdrew-its-rezoning-applicati",
-      "date": "2026-04-20",
-      "jurisdiction": "City of Hutto",
-      "title": "Zydeco Development withdrew its rezoning application for a Hutto data center in late April 2026 ahead of May 7 council vote. City received 5",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.kut.org/energy-environment/2026-04-20/hutto-tx-zydeco-data-center-rezoning-request"
     }
   ]
 }

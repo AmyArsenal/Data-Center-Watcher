@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-05-13T07:24:23Z",
+  "generated_at": "2026-05-13T10:01:04Z",
   "window_days": 90,
-  "count": 357,
+  "count": 363,
   "items": [
+    {
+      "id": "gdelt-fe0c418c93acaa04",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Porter Township approves one - year moratorium to establish data center guidelines",
+      "source_domain": "wndu.com",
+      "source_name": "wndu.com",
+      "url": "https://wndu.com/2026/05/13/porter-township-approves-one-year-moratorium-establish-data-center-guidelines",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 10:01:03",
+      "url_hash": "fe0c418c93acaa04",
+      "content_hash": "a57f8366d3827f41",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T10:01:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-2bd2f85fc2cbec1b",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Porter Township passes one - year data center moratorium",
+      "source_domain": "wsbt.com",
+      "source_name": "wsbt.com",
+      "url": "https://wsbt.com/news/local/porter-township-passes-one-year-moratorium-pause-data-center-pause-ordinance-town-residents-developer-law-michigan-board-members-zoning-comment-public-meetings-approval-extension-cass-county-michigan",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 10:01:03",
+      "url_hash": "2bd2f85fc2cbec1b",
+      "content_hash": "65226cb463c74e36",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T10:01:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-de7301e2fce019ef",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Conway residents give feedback on proposed data center , call for project halt",
+      "source_domain": "thv11.com",
+      "source_name": "thv11.com",
+      "url": "https://thv11.com/article/news/local/conway/conway-residents-proposed-data-center/91-447e14b6-0440-4df7-ab9e-0153af825ea9",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 10:01:03",
+      "url_hash": "de7301e2fce019ef",
+      "content_hash": "c24d1cab83f960fd",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T10:01:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ac35bb7ef3f7ef05",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Rockdale County extends moratorium regarding new data center projects",
+      "source_domain": "11alive.com",
+      "source_name": "11alive.com",
+      "url": "https://11alive.com/article/news/local/rockdale-county-extends-moratorium-new-data-center-projects/85-4ed4f449-73d5-4107-b1d4-8d260c399805",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 10:01:03",
+      "url_hash": "ac35bb7ef3f7ef05",
+      "content_hash": "f7eaa9ab54859725",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T10:01:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-aba793689680edf7",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Cave City officials divided over data center moratorium decision",
+      "source_domain": "wbko.com",
+      "source_name": "wbko.com",
+      "url": "https://wbko.com/2026/05/13/cave-city-officials-divided-over-data-center-moratorium-decision",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 10:01:03",
+      "url_hash": "aba793689680edf7",
+      "content_hash": "58b0967e3618f279",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T10:01:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-70ee0a8952567fe0",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Texas county pauses data center construction in rural areas for a year",
+      "source_domain": "krgv.com",
+      "source_name": "krgv.com",
+      "url": "https://krgv.com/news/texas-county-pauses-data-center-construction-in-rural-areas-for-a-year",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 10:01:03",
+      "url_hash": "70ee0a8952567fe0",
+      "content_hash": "63c52e962f758a32",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T10:01:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-rto-insider-8a4e06df5d19179d",
       "state": "PA",
@@ -30,7 +270,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Pennsylvania Public Utility Commission has issued its final order in a closely watched case to set a framework for confronting the costs of powering large load data centers and other heavyweight industrial users. The post Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation appeared first on RTO Insider .",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -269,7 +509,7 @@
         "rss-arstechnica"
       ],
       "snippet": "The plan aims to speed up AI compute deployment while compensating residents.",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -548,7 +788,7 @@
         "rss-dcd"
       ],
       "snippet": "Company to take up Westbank's two data center projects in Vancouver",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -587,7 +827,7 @@
         "rss-dcd"
       ],
       "snippet": "Robinhood luminary pursues vertical orbital data center/rocket empire, quintuples its Series-A",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2145,7 +2385,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2386,7 +2626,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6769,7 +7009,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7286,7 +7526,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7687,7 +7927,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-13T07:24:23Z",
+      "last_seen": "2026-05-13T10:01:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14157,6 +14397,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 10,
+      "total_engagement": 629,
+      "categories": {
+        "banned": 1,
+        "protested": 9
+      },
+      "platforms": {
+        "news": 6,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-05-13"
+    },
     "PA": {
       "state": "PA",
       "count": 2,
@@ -14169,21 +14425,6 @@
         "news": 2
       },
       "latest_date": "2026-05-13"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 9,
-      "total_engagement": 629,
-      "categories": {
-        "protested": 9
-      },
-      "platforms": {
-        "news": 5,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-05-12"
     },
     "NJ": {
       "state": "NJ",

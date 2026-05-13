@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T07:24:23Z",
-  "count": 719,
+  "generated_at": "2026-05-13T10:01:04Z",
+  "count": 725,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,280 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-2bd2f85fc2cbec1b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wsbt.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Porter Township passes one - year data center moratorium",
+      "sources": [
+        "https://wsbt.com/news/local/porter-township-passes-one-year-moratorium-pause-data-center-pause-ordinance-town-residents-developer-law-michigan-board-members-zoning-comment-public-meetings-approval-extension-cass-county-michigan"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T10:01:03Z",
+      "first_seen": "2026-05-13T10:01:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-70ee0a8952567fe0-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "krgv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas county pauses data center construction in rural areas for a year",
+      "sources": [
+        "https://krgv.com/news/texas-county-pauses-data-center-construction-in-rural-areas-for-a-year"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T10:01:03Z",
+      "first_seen": "2026-05-13T10:01:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-aba793689680edf7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wbko.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Cave City officials divided over data center moratorium decision",
+      "sources": [
+        "https://wbko.com/2026/05/13/cave-city-officials-divided-over-data-center-moratorium-decision"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T10:01:03Z",
+      "first_seen": "2026-05-13T10:01:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-ac35bb7ef3f7ef05-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "11alive.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Rockdale County extends moratorium regarding new data center projects",
+      "sources": [
+        "https://11alive.com/article/news/local/rockdale-county-extends-moratorium-new-data-center-projects/85-4ed4f449-73d5-4107-b1d4-8d260c399805"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T10:01:03Z",
+      "first_seen": "2026-05-13T10:01:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-de7301e2fce019ef-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "thv11.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Conway residents give feedback on proposed data center , call for project halt",
+      "sources": [
+        "https://thv11.com/article/news/local/conway/conway-residents-proposed-data-center/91-447e14b6-0440-4df7-ab9e-0153af825ea9"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T10:01:03Z",
+      "first_seen": "2026-05-13T10:01:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-fe0c418c93acaa04-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wndu.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Porter Township approves one - year moratorium to establish data center guidelines",
+      "sources": [
+        "https://wndu.com/2026/05/13/porter-township-approves-one-year-moratorium-establish-data-center-guidelines"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T10:01:03Z",
+      "first_seen": "2026-05-13T10:01:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-rto-insider-8a4e06df5d19179d-pa",
@@ -34049,6 +34323,64 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "TX": {
+      "state": "TX",
+      "count": 25,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 4,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 10,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 21,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 7
+      },
+      "latest_date": "2026-05-13",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "US": {
+      "state": "US",
+      "count": 244,
+      "outcome_counts": {
+        "pending": 164,
+        "win": 75,
+        "loss": 5,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 239,
+        "protective": 0,
+        "supportive": 5,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 241,
+        "statewide": 1,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 62,
+        "zoning": 17,
+        "grid_energy": 10
+      },
+      "latest_date": "2026-05-13",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "WA": {
       "state": "WA",
       "count": 5,
@@ -34073,35 +34405,6 @@
         "tax_incentive": 3,
         "environmental": 1,
         "grid_energy": 1
-      },
-      "latest_date": "2026-05-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 239,
-      "outcome_counts": {
-        "pending": 164,
-        "win": 70,
-        "loss": 5,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 234,
-        "protective": 0,
-        "supportive": 5,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 236,
-        "statewide": 1,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 61,
-        "zoning": 17,
-        "grid_energy": 10
       },
       "latest_date": "2026-05-12",
       "map_color_tier": "restrictive",
@@ -34222,35 +34525,6 @@
       "latest_date": "2026-05-12",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 24,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 3,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 9,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 20,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 7
-      },
-      "latest_date": "2026-05-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "UT": {
       "state": "UT",
