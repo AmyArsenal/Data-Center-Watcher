@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T00:12:43Z",
-  "count": 718,
+  "generated_at": "2026-05-13T04:11:15Z",
+  "count": 719,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,52 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-rto-insider-8a4e06df5d19179d-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report",
+        "utility_regulation"
+      ],
+      "authority_level": "utility_commission",
+      "date": "2026-05-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation. The Pennsylvania Public Utility Commission has issued its final order in a closely watched case to set a framework for confronting the costs of powering large load data centers and other heavyweight industrial users. The post Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/132106-pennsylvania-regulators-issue-final-blueprint-large-load-regulation"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T04:11:14Z",
+      "first_seen": "2026-05-13T04:11:15Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-03d9708ad4bae0f4-us",
@@ -33974,6 +34020,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "PA": {
+      "state": "PA",
+      "count": 25,
+      "outcome_counts": {
+        "pending": 15,
+        "win": 9,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 7,
+        "unclear": 10
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 22,
+        "federal": 1
+      },
+      "issue_top": {
+        "ratepayer": 6,
+        "tax_incentive": 6,
+        "grid_energy": 5
+      },
+      "latest_date": "2026-05-13",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "WA": {
       "state": "WA",
       "count": 5,
@@ -34494,35 +34569,6 @@
       },
       "latest_date": "2026-04-30",
       "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 24,
-      "outcome_counts": {
-        "pending": 14,
-        "win": 9,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 7,
-        "unclear": 10
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 22,
-        "federal": 1
-      },
-      "issue_top": {
-        "ratepayer": 6,
-        "tax_incentive": 6,
-        "grid_energy": 5
-      },
-      "latest_date": "2026-04-30",
-      "map_color_tier": "supportive",
       "map_color_outcome": "loss"
     },
     "MN": {

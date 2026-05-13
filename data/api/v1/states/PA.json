@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-05-13T00:12:43Z",
+  "generated_at": "2026-05-13T04:11:15Z",
   "risk_score": {
-    "score": 43.4,
-    "tier": 8.5,
-    "engagement": 10.4,
-    "recency": 12.8,
-    "multi_source": 6.7,
+    "score": 45.3,
+    "tier": 9.8,
+    "engagement": 10.2,
+    "recency": 13.9,
+    "multi_source": 6.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 56.6,
+    "score": 54.7,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,21 +26,22 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 24,
+  "count": 25,
   "tier_counts": {
     "unclear": 10,
     "supportive": 7,
-    "null": 7
+    "null": 7,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 14,
+    "pending": 15,
     "win": 9,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 22,
     "federal": 1,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "tax_incentive": 6,
@@ -64,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-04-30",
+  "latest": "2026-05-13",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-8a4e06df5d19179d-pa",
+      "date": "2026-05-13",
+      "jurisdiction": "RTO Insider",
+      "title": "Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation. The Pennsylvania Public Utility Commission has issued its final ord",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/132106-pennsylvania-regulators-issue-final-blueprint-large-load-regulation"
+    },
     {
       "id": "news:rss-utilitydive-c07863110c1895f3-pa",
       "date": "2026-04-30",
@@ -146,15 +156,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.datacenterdynamics.com/en/news/ferc-upholds-rejection-of-proposed-interconnection-agreement-between-aws-data-center-and-pennsylvania-nuclear-plant/"
-    },
-    {
-      "id": "openstates:ocd-bill-4e8ff354-6db6-4d71-9bad-8047315cb144-pa",
-      "date": "2026-02-25",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act amending Title 27 (Environmental Resources) of the Pennsylvania Consolidated Statutes, in water resources planning, further providing",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.palegis.us/legislation/bills/2025/hb2246"
     }
   ]
 }

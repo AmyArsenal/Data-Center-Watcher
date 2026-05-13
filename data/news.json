@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-13T00:12:43Z",
+  "generated_at": "2026-05-13T04:11:15Z",
   "window_days": 90,
-  "count": 356,
+  "count": 357,
   "items": [
+    {
+      "id": "rss-rto-insider-8a4e06df5d19179d",
+      "state": "PA",
+      "city": null,
+      "category": "protested",
+      "headline": "Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/132106-pennsylvania-regulators-issue-final-blueprint-large-load-regulation",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 04:11:14",
+      "url_hash": "8a4e06df5d19179d",
+      "content_hash": "51df1102f444dab7",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "The Pennsylvania Public Utility Commission has issued its final order in a closely watched case to set a framework for confronting the costs of powering large load data centers and other heavyweight industrial users. The post Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation appeared first on RTO Insider .",
+      "last_seen": "2026-05-13T04:11:14Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=132106",
+        "rss_author": "Sean Reilly",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-0728a21fae15ba5a",
       "state": "US",
@@ -230,7 +269,7 @@
         "rss-arstechnica"
       ],
       "snippet": "The plan aims to speed up AI compute deployment while compensating residents.",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -509,7 +548,7 @@
         "rss-dcd"
       ],
       "snippet": "Company to take up Westbank's two data center projects in Vancouver",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -548,7 +587,7 @@
         "rss-dcd"
       ],
       "snippet": "Robinhood luminary pursues vertical orbital data center/rocket empire, quintuples its Series-A",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2106,7 +2145,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2347,7 +2386,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6730,7 +6769,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7247,7 +7286,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7648,7 +7687,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-13T00:12:42Z",
+      "last_seen": "2026-05-13T04:11:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14118,6 +14157,19 @@
     }
   ],
   "by_state": {
+    "PA": {
+      "state": "PA",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-13"
+    },
     "TX": {
       "state": "TX",
       "count": 9,
@@ -14330,18 +14382,6 @@
         "legal": 1
       },
       "latest_date": "2026-05-01"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "announced": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-04-30"
     },
     "ME": {
       "state": "ME",
