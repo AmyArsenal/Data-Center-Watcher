@@ -3,24 +3,26 @@
   "state": "VA",
   "county_fips": "51153",
   "county_name": "Prince William County",
-  "generated_at": "2026-05-13T15:20:02Z",
+  "generated_at": "2026-05-13T17:30:32Z",
   "risk_score": {
-    "score": 59.6,
-    "tier": 40.0,
+    "score": 46.2,
+    "tier": 20.0,
     "engagement": 6.2,
-    "recency": 13.3,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 1,
+  "count": 2,
   "tier_counts": {
-    "restrictive": 1
+    "restrictive": 1,
+    "supportive": 1
   },
   "outcome_counts": {
-    "win": 1
+    "win": 1,
+    "loss": 1
   },
   "scope_counts": {
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "zoning": 1
@@ -28,8 +30,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-04-01",
-  "latest": "2026-04-01",
+  "latest": "2026-05-13",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-ec20f81ca2807d6a-va",
+      "date": "2026-05-13",
+      "jurisdiction": "Prince William County",
+      "title": "Developer withdraws plan for 160-acre data center in Prince William County, Virginia. Reason for withdrawal not provided",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/developer-withdraws-plan-for-160-acre-data-center-in-prince-william-county-virginia"
+    },
     {
       "id": "court:prince-william-va-2026-04-01-va",
       "date": "2026-04-01",

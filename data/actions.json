@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T15:20:02Z",
-  "count": 729,
+  "generated_at": "2026-05-13T17:30:31Z",
+  "count": 730,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -476,6 +476,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-ec20f81ca2807d6a-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "Prince William County",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Developer withdraws plan for 160-acre data center in Prince William County, Virginia. Reason for withdrawal not provided",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/developer-withdraws-plan-for-160-acre-data-center-in-prince-william-county-virginia"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T17:30:31Z",
+      "first_seen": "2026-05-13T17:30:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-dck-634fce4102798e0c-us",
@@ -34592,6 +34637,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "VA": {
+      "state": "VA",
+      "count": 37,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 16,
+        "loss": 2,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 3,
+        "supportive": 1,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 13,
+        "statewide": 24,
+        "federal": 0
+      },
+      "issue_top": {
+        "zoning": 9,
+        "community_impact": 8,
+        "environmental": 5
+      },
+      "latest_date": "2026-05-13",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "WA": {
       "state": "WA",
       "count": 5,
@@ -34997,35 +35071,6 @@
       "latest_date": "2026-05-05",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 36,
-      "outcome_counts": {
-        "pending": 17,
-        "win": 16,
-        "loss": 1,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 7,
-        "protective": 3,
-        "supportive": 0,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 12,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "zoning": 9,
-        "community_impact": 8,
-        "environmental": 5
-      },
-      "latest_date": "2026-05-01",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "ME": {
       "state": "ME",
