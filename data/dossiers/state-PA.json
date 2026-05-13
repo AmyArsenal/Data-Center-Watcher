@@ -1,47 +1,47 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-05-13T12:22:40Z",
+  "generated_at": "2026-05-13T15:20:02Z",
   "risk_score": {
-    "score": 45.3,
-    "tier": 9.8,
-    "engagement": 10.2,
-    "recency": 13.9,
-    "multi_source": 6.4,
+    "score": 45.5,
+    "tier": 9.4,
+    "engagement": 10.1,
+    "recency": 14.9,
+    "multi_source": 6.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 54.7,
+    "score": 54.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 1,
+    "approvals": 2,
     "denials": 9,
     "lawsuits": 0,
-    "blocked": 0,
+    "blocked": 1,
     "active_companies": 2,
     "bills_introduced": 9,
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 25,
+  "count": 26,
   "tier_counts": {
     "unclear": 10,
-    "supportive": 7,
+    "supportive": 8,
     "null": 7,
     "restrictive": 1
   },
   "outcome_counts": {
     "pending": 15,
     "win": 9,
-    "loss": 1
+    "loss": 2
   },
   "scope_counts": {
     "statewide": 22,
     "federal": 1,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "tax_incentive": 6,
@@ -75,6 +75,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/132106-pennsylvania-regulators-issue-final-blueprint-large-load-regulation"
+    },
+    {
+      "id": "news:rss-dcd-70e094d5f8746f63-pa",
+      "date": "2026-05-13",
+      "jurisdiction": "DCD",
+      "title": "Plan for $1.7bn data center in Lebanon County, Pennsylvania, withdrawn by developer. Victory for opponents",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/plan-for-17bn-data-center-in-lebanon-county-pennsylvania-withdrawn-by-developer"
     },
     {
       "id": "news:rss-utilitydive-c07863110c1895f3-pa",
@@ -147,15 +156,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.utilitydive.com/news/ppl-electric-rate-case-settlement-data-center-tariff/814760/"
-    },
-    {
-      "id": "research:pa-ferc-aws-talen--20260301-ferc-denied-talen-energy-s-rehearing-request-and-u",
-      "date": "2026-03-01",
-      "jurisdiction": "FERC (AWS-Talen)",
-      "title": "FERC denied Talen Energy's rehearing request and upheld its rejection of the amended Interconnection Service Agreement that would have raise",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.datacenterdynamics.com/en/news/ferc-upholds-rejection-of-proposed-interconnection-agreement-between-aws-data-center-and-pennsylvania-nuclear-plant/"
     }
   ]
 }

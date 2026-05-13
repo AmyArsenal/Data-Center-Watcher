@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IL",
-  "generated_at": "2026-05-13T12:22:40Z",
+  "generated_at": "2026-05-13T15:20:02Z",
   "risk_score": {
-    "score": 38.2,
-    "tier": 12.0,
+    "score": 45.2,
+    "tier": 19.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -26,16 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
-    "null": 3
+    "null": 3,
+    "restrictive": 1
   },
   "outcome_counts": {
     "win": 2,
-    "loss": 1
+    "loss": 1,
+    "pending": 1
   },
   "scope_counts": {
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "zoning": 2,
@@ -52,8 +54,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-16",
-  "latest": "2026-04-24",
+  "latest": "2026-05-13",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-b7973724728c5fa7-il",
+      "date": "2026-05-13",
+      "jurisdiction": "DCD",
+      "title": "Developer withdraws data center proposal in Pekin, Illinois. City council had threatened to veto the project",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/developer-withdraws-data-center-proposal-in-pekin-illinois"
+    },
     {
       "id": "research:il-champaign-county-board-20260424-champaign-county-board-approved-a-one-year-morator",
       "date": "2026-04-24",

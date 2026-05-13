@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T12:22:40Z",
-  "count": 725,
+  "generated_at": "2026-05-13T15:20:02Z",
+  "count": 729,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -341,6 +341,188 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-0542a852692dc301-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "DataBank to install 3.1MW rooftop solar array at HOU3 data center in Houston, Texas. Will have an operational life of 25 years",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/databank-to-install-31mw-rooftop-solar-array-at-hou3-data-center-in-houston-texas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T15:20:01Z",
+      "first_seen": "2026-05-13T15:20:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-70e094d5f8746f63-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Plan for $1.7bn data center in Lebanon County, Pennsylvania, withdrawn by developer. Victory for opponents",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/plan-for-17bn-data-center-in-lebanon-county-pennsylvania-withdrawn-by-developer"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T15:20:01Z",
+      "first_seen": "2026-05-13T15:20:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dcd-b7973724728c5fa7-il",
+      "origin": "news",
+      "state": "IL",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Developer withdraws data center proposal in Pekin, Illinois. City council had threatened to veto the project",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/developer-withdraws-data-center-proposal-in-pekin-illinois"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T15:20:01Z",
+      "first_seen": "2026-05-13T15:20:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dck-634fce4102798e0c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Community Resistance Meets AI Data Center Expansion Head-On. We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns",
+      "sources": [
+        "https://datacenterknowledge.com/build-design/organized-opposition-collides-with-ai-data-center-growth"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T15:20:01Z",
+      "first_seen": "2026-05-13T15:20:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-rto-insider-8a4e06df5d19179d-pa",
@@ -34296,21 +34478,21 @@
     },
     "PA": {
       "state": "PA",
-      "count": 25,
+      "count": 26,
       "outcome_counts": {
         "pending": 15,
         "win": 9,
-        "loss": 1,
+        "loss": 2,
         "mixed": 0
       },
       "tier_counts": {
         "restrictive": 1,
         "protective": 0,
-        "supportive": 7,
+        "supportive": 8,
         "unclear": 10
       },
       "scope_counts": {
-        "local": 2,
+        "local": 3,
         "statewide": 22,
         "federal": 1
       },
@@ -34325,21 +34507,21 @@
     },
     "TX": {
       "state": "TX",
-      "count": 25,
+      "count": 26,
       "outcome_counts": {
-        "pending": 16,
+        "pending": 17,
         "win": 4,
         "loss": 2,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 10,
+        "restrictive": 11,
         "protective": 0,
         "supportive": 0,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 21,
+        "local": 22,
         "statewide": 4,
         "federal": 0
       },
@@ -34354,28 +34536,57 @@
     },
     "US": {
       "state": "US",
-      "count": 244,
+      "count": 245,
       "outcome_counts": {
-        "pending": 164,
+        "pending": 165,
         "win": 75,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 239,
+        "restrictive": 240,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 241,
+        "local": 242,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 62,
+        "community_impact": 63,
         "zoning": 17,
         "grid_energy": 10
+      },
+      "latest_date": "2026-05-13",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "IL": {
+      "state": "IL",
+      "count": 4,
+      "outcome_counts": {
+        "pending": 1,
+        "win": 2,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 0,
+        "federal": 0
+      },
+      "issue_top": {
+        "farmland": 2,
+        "grid_energy": 2,
+        "water": 2
       },
       "latest_date": "2026-05-13",
       "map_color_tier": "restrictive",
@@ -34873,35 +35084,6 @@
       "latest_date": "2026-04-24",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "IL": {
-      "state": "IL",
-      "count": 3,
-      "outcome_counts": {
-        "pending": 0,
-        "win": 2,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 0,
-        "federal": 0
-      },
-      "issue_top": {
-        "farmland": 2,
-        "grid_energy": 2,
-        "water": 2
-      },
-      "latest_date": "2026-04-24",
-      "map_color_tier": null,
-      "map_color_outcome": "loss"
     },
     "MO": {
       "state": "MO",

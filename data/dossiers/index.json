@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-13T12:22:40Z",
+  "generated_at": "2026-05-13T15:20:02Z",
   "states": [
     {
       "state": "AK",
@@ -186,8 +186,8 @@
     },
     {
       "state": "IL",
-      "count": 3,
-      "risk_score": 38.2,
+      "count": 4,
+      "risk_score": 45.2,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
@@ -195,7 +195,7 @@
       "denials": 2,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-04-24",
+      "latest": "2026-05-13",
       "url": "data/dossiers/state-IL.json"
     },
     {
@@ -522,12 +522,12 @@
     },
     {
       "state": "PA",
-      "count": 25,
-      "risk_score": 45.3,
+      "count": 26,
+      "risk_score": 45.5,
       "grade": "C",
-      "grade_score": 54.7,
+      "grade_score": 54.5,
       "moratoriums": 1,
-      "approvals": 1,
+      "approvals": 2,
       "denials": 9,
       "lawsuits": 0,
       "active_companies": 2,
@@ -592,10 +592,10 @@
     },
     {
       "state": "TX",
-      "count": 25,
-      "risk_score": 55.1,
+      "count": 26,
+      "risk_score": 55.7,
       "grade": "D",
-      "grade_score": 44.9,
+      "grade_score": 44.3,
       "moratoriums": 2,
       "approvals": 2,
       "denials": 4,

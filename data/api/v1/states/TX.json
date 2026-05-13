@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-05-13T12:22:40Z",
+  "generated_at": "2026-05-13T15:20:02Z",
   "risk_score": {
-    "score": 55.1,
-    "tier": 23.2,
+    "score": 55.7,
+    "tier": 23.8,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.4,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 44.9,
+    "score": 44.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 25,
+  "count": 26,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 11,
     "null": 15
   },
   "outcome_counts": {
-    "pending": 16,
+    "pending": 17,
     "mixed": 3,
     "loss": 2,
     "win": 4
   },
   "scope_counts": {
-    "local": 21,
+    "local": 22,
     "statewide": 4
   },
   "issue_top": {
@@ -97,6 +97,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://krgv.com/news/texas-county-pauses-data-center-construction-in-rural-areas-for-a-year"
+    },
+    {
+      "id": "news:rss-dcd-0542a852692dc301-tx",
+      "date": "2026-05-13",
+      "jurisdiction": "DCD",
+      "title": "DataBank to install 3.1MW rooftop solar array at HOU3 data center in Houston, Texas. Will have an operational life of 25 years",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/databank-to-install-31mw-rooftop-solar-array-at-hou3-data-center-in-houston-texas"
     },
     {
       "id": "news:gdelt-fb6ad5b737ca9672-tx",
@@ -169,15 +178,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://www.kbtx.com/2026/04/21/temple-residents-launch-recall-effort-against-mayor-council-members-over-data-center-vote/"
-    },
-    {
-      "id": "research:tx-city-of-temple-20260421-temple-city-council-voted-4-0-1-abstain-to-annex",
-      "date": "2026-04-21",
-      "jurisdiction": "City of Temple",
-      "title": "Temple City Council voted 4-0 (1 abstain) to annex/rezone ~700 acres for Rowan Digital's third Temple data center ($700M project) after a ne",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.kwtx.com/2026/04/21/temple-residents-launch-recall-effort-against-mayor-council-members-over-data-center-vote/"
     }
   ]
 }
