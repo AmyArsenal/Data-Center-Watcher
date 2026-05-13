@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T19:17:07Z",
-  "count": 735,
+  "generated_at": "2026-05-13T21:00:57Z",
+  "count": 737,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,96 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-0487c0e2b8236cff-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "woodradio.iheart.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Americans Oppose Local AI Data Centers | Newsradio WOOD 1300 and 106 . 9 FM",
+      "sources": [
+        "https://woodradio.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T21:00:57Z",
+      "first_seen": "2026-05-13T21:00:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-071019a2fd6df5da-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "943wsc.iheart.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Americans Oppose Local AI Data Centers | News Radio 94 . 3 WSC",
+      "sources": [
+        "https://943wsc.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-13T21:00:57Z",
+      "first_seen": "2026-05-13T21:00:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-239fcbe2d0c43fa5-us",
@@ -34806,21 +34896,21 @@
     },
     "US": {
       "state": "US",
-      "count": 250,
+      "count": 252,
       "outcome_counts": {
-        "pending": 169,
+        "pending": 171,
         "win": 76,
         "loss": 5,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 245,
+        "restrictive": 247,
         "protective": 0,
         "supportive": 5,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 247,
+        "local": 249,
         "statewide": 1,
         "federal": 2
       },

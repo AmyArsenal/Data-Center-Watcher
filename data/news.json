@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-13T19:17:07Z",
+  "generated_at": "2026-05-13T21:00:57Z",
   "window_days": 90,
-  "count": 373,
+  "count": 375,
   "items": [
+    {
+      "id": "gdelt-071019a2fd6df5da",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | News Radio 94 . 3 WSC",
+      "source_domain": "943wsc.iheart.com",
+      "source_name": "943wsc.iheart.com",
+      "url": "https://943wsc.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 21:00:57",
+      "url_hash": "071019a2fd6df5da",
+      "content_hash": "a285bc341f481677",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T21:00:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0487c0e2b8236cff",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans Oppose Local AI Data Centers | Newsradio WOOD 1300 and 106 . 9 FM",
+      "source_domain": "woodradio.iheart.com",
+      "source_name": "woodradio.iheart.com",
+      "url": "https://woodradio.iheart.com/content/2026-05-13-americans-oppose-local-ai-data-centers",
+      "date": "2026-05-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-13 21:00:57",
+      "url_hash": "0487c0e2b8236cff",
+      "content_hash": "1f54eb1fb3f0351f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-13T21:00:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-239fcbe2d0c43fa5",
       "state": "US",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -190,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -230,7 +310,7 @@
         "rss-dcd"
       ],
       "snippet": "Reason for withdrawal not provided",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -269,7 +349,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -308,7 +388,7 @@
         "rss-dcd"
       ],
       "snippet": "Victory for opponents",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -347,7 +427,7 @@
         "rss-dcd"
       ],
       "snippet": "City council had threatened to veto the project",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -388,7 +468,7 @@
         "rss-dcd"
       ],
       "snippet": "Will have an operational life of 25 years",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -667,7 +747,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Pennsylvania Public Utility Commission has issued its final order in a closely watched case to set a framework for confronting the costs of powering large load data centers and other heavyweight industrial users. The post Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation appeared first on RTO Insider .",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -906,7 +986,7 @@
         "rss-arstechnica"
       ],
       "snippet": "The plan aims to speed up AI compute deployment while compensating residents.",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2782,7 +2862,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3023,7 +3103,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7406,7 +7486,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7923,7 +8003,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8324,7 +8404,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-13T19:17:07Z",
+      "last_seen": "2026-05-13T21:00:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
