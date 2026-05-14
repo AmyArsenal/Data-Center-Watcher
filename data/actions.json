@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T08:14:37Z",
-  "count": 758,
+  "generated_at": "2026-05-14T10:33:13Z",
+  "count": 759,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -112,6 +112,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-39f5b0b14be4eb04-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nystateofpolitics.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lawmakers push for data center moratorium this session",
+      "sources": [
+        "https://nystateofpolitics.com/state-of-politics/new-york/politics/2026/05/13/data-center-construction-"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T10:33:13Z",
+      "first_seen": "2026-05-14T10:33:13Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-6a0779cce878ff9b-us",
@@ -35795,21 +35840,21 @@
     },
     "US": {
       "state": "US",
-      "count": 270,
+      "count": 271,
       "outcome_counts": {
         "pending": 186,
-        "win": 78,
+        "win": 79,
         "loss": 6,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 264,
+        "restrictive": 265,
         "protective": 0,
         "supportive": 6,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 267,
+        "local": 268,
         "statewide": 1,
         "federal": 2
       },
