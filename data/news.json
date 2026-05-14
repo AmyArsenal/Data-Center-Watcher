@@ -1,8 +1,167 @@
 {
-  "generated_at": "2026-05-14T20:11:02Z",
+  "generated_at": "2026-05-14T21:21:33Z",
   "window_days": 90,
-  "count": 402,
+  "count": 406,
   "items": [
+    {
+      "id": "gdelt-ddfae707b50c7b90",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Ald . Mark Chambers Attempts To Set Record Straight About Midtown  Data Center  » Urban Milwaukee",
+      "source_domain": "urbanmilwaukee.com",
+      "source_name": "urbanmilwaukee.com",
+      "url": "https://urbanmilwaukee.com/2026/05/14/ald-mark-chambers-attempts-to-set-record-straight-about-midtown-data-center",
+      "date": "2026-05-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-14 21:21:33",
+      "url_hash": "ddfae707b50c7b90",
+      "content_hash": "6d8dc4fb750dbcd7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-14T21:21:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ac34272b0bb8ea32",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Cleveland rejects permit for hyperscale data center in Slavic Village",
+      "source_domain": "ideastream.org",
+      "source_name": "ideastream.org",
+      "url": "https://ideastream.org/government-politics/2026-05-14/cleveland-rejects-permit-for-hyperscale-data-center-in-slavic-village",
+      "date": "2026-05-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-14 21:21:33",
+      "url_hash": "ac34272b0bb8ea32",
+      "content_hash": "40aad6bce9d823f3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-14T21:21:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-974cb4cfdc87c493",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Hoover City Council changes approval process for data centers",
+      "source_domain": "hooversun.com",
+      "source_name": "hooversun.com",
+      "url": "https://hooversun.com/news/hoover-council-changes-approval-process-for-data-centers",
+      "date": "2026-05-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-14 21:21:33",
+      "url_hash": "974cb4cfdc87c493",
+      "content_hash": "5dd423a4c4c330e2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-14T21:21:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-arstechnica-4177700ba74cb9fe",
+      "state": "CA",
+      "city": null,
+      "category": "protested",
+      "headline": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+      "source_domain": "arstechnica.com",
+      "source_name": "Ars Technica - All content",
+      "url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers",
+      "date": "2026-05-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-14 21:21:33",
+      "url_hash": "4177700ba74cb9fe",
+      "content_hash": "cc614b266f96bf3c",
+      "source": "rss-arstechnica",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-arstechnica"
+      ],
+      "snippet": "Town’s 49,000 California residents compete with Nevada data centers for energy.",
+      "last_seen": "2026-05-14T21:21:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+        "rss_author": "Jeremy Hsu",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-111636d28c09c6d7",
       "state": "US",
@@ -30,7 +189,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -70,7 +229,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -110,7 +269,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +309,7 @@
         "rss-dcd"
       ],
       "snippet": "With significant capital on the line, facilities demand a new lifecycle approach to risk that strengthens bankability, protects schedules and delivers operational resilience from day one",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +348,7 @@
         "rss-dcd"
       ],
       "snippet": "Construction permits have yet to be issued",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -268,7 +427,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1426,7 +1585,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1824,7 +1983,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Pennsylvania Public Utility Commission has issued its final order in a closely watched case to set a framework for confronting the costs of powering large load data centers and other heavyweight industrial users. The post Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation appeared first on RTO Insider .",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3939,7 +4098,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4180,7 +4339,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8563,7 +8722,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -9080,7 +9239,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-14T20:11:02Z",
+      "last_seen": "2026-05-14T21:21:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -15951,6 +16110,18 @@
     }
   ],
   "by_state": {
+    "CA": {
+      "state": "CA",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-05-14"
+    },
     "IN": {
       "state": "IN",
       "count": 5,

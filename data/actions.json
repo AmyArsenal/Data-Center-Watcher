@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T20:11:02Z",
-  "count": 764,
+  "generated_at": "2026-05-14T21:21:33Z",
+  "count": 768,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -345,6 +345,96 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-974cb4cfdc87c493-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "hooversun.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hoover City Council changes approval process for data centers",
+      "sources": [
+        "https://hooversun.com/news/hoover-council-changes-approval-process-for-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T21:21:33Z",
+      "first_seen": "2026-05-14T21:21:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-ac34272b0bb8ea32-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ideastream.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Cleveland rejects permit for hyperscale data center in Slavic Village",
+      "sources": [
+        "https://ideastream.org/government-politics/2026-05-14/cleveland-rejects-permit-for-hyperscale-data-center-in-slavic-village"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T21:21:33Z",
+      "first_seen": "2026-05-14T21:21:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-bec0f7b76cc830a7-us",
       "origin": "news",
       "state": "US",
@@ -433,6 +523,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-ddfae707b50c7b90-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "urbanmilwaukee.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ald . Mark Chambers Attempts To Set Record Straight About Midtown  Data Center  » Urban Milwaukee",
+      "sources": [
+        "https://urbanmilwaukee.com/2026/05/14/ald-mark-chambers-attempts-to-set-record-straight-about-midtown-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T21:21:33Z",
+      "first_seen": "2026-05-14T21:21:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-arstechnica-4177700ba74cb9fe-ca",
+      "origin": "news",
+      "state": "CA",
+      "county": null,
+      "jurisdiction": "Ars Technica - All content",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Energy supplier abandons Lake Tahoe residents to serve data centers. Town’s 49,000 California residents compete with Nevada data centers for energy",
+      "sources": [
+        "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T21:21:33Z",
+      "first_seen": "2026-05-14T21:21:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-canary-aa33e83b09c358fd-in",
@@ -36069,21 +36251,21 @@
     },
     "US": {
       "state": "US",
-      "count": 276,
+      "count": 279,
       "outcome_counts": {
-        "pending": 189,
+        "pending": 192,
         "win": 80,
         "loss": 7,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 269,
+        "restrictive": 272,
         "protective": 0,
         "supportive": 7,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 273,
+        "local": 276,
         "statewide": 1,
         "federal": 2
       },
@@ -36124,6 +36306,35 @@
       "latest_date": "2026-05-14",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
+    },
+    "CA": {
+      "state": "CA",
+      "count": 16,
+      "outcome_counts": {
+        "pending": 9,
+        "win": 5,
+        "loss": 1,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 1,
+        "supportive": 0,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 11,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 5,
+        "water": 4,
+        "community_impact": 3
+      },
+      "latest_date": "2026-05-14",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
     },
     "PA": {
       "state": "PA",
@@ -36791,35 +37002,6 @@
       "latest_date": "2026-04-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "CA": {
-      "state": "CA",
-      "count": 15,
-      "outcome_counts": {
-        "pending": 8,
-        "win": 5,
-        "loss": 1,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 1,
-        "supportive": 0,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 11,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 5,
-        "water": 4,
-        "community_impact": 2
-      },
-      "latest_date": "2026-04-22",
-      "map_color_tier": "protective",
-      "map_color_outcome": "loss"
     },
     "LA": {
       "state": "LA",

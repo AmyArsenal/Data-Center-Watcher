@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-05-14T20:11:02Z",
+  "generated_at": "2026-05-14T21:21:33Z",
   "risk_score": {
-    "score": 44.3,
-    "tier": 12.8,
-    "engagement": 10.4,
-    "recency": 9.4,
-    "multi_source": 6.7,
+    "score": 47.2,
+    "tier": 14.5,
+    "engagement": 10.2,
+    "recency": 11.3,
+    "multi_source": 6.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 55.7,
+    "score": 52.8,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,28 +26,29 @@
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 15,
+  "count": 16,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
-    "null": 5
+    "null": 5,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 8,
+    "pending": 9,
     "win": 5,
     "mixed": 1,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 4
+    "local": 5
   },
   "issue_top": {
     "grid_energy": 5,
     "water": 4,
+    "community_impact": 3,
     "environmental": 2,
     "transparency": 2,
-    "community_impact": 2,
     "zoning": 2,
     "ratepayer": 1,
     "farmland": 1
@@ -68,8 +69,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-04-22",
+  "latest": "2026-05-14",
   "top_citations": [
+    {
+      "id": "news:rss-arstechnica-4177700ba74cb9fe-ca",
+      "date": "2026-05-14",
+      "jurisdiction": "Ars Technica - All content",
+      "title": "Energy supplier abandons Lake Tahoe residents to serve data centers. Town’s 49,000 California residents compete with Nevada data centers for",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers"
+    },
     {
       "id": "research:ca-coachella-city-council-20260422-more-than-100-residents-protested-at-coachella-cit",
       "date": "2026-04-22",
@@ -150,15 +160,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB887"
-    },
-    {
-      "id": "openstates:ocd-bill-28512a83-39f0-46a4-8f5a-0bfd5f2b9ece-ca",
-      "date": "2026-01-12",
-      "jurisdiction": "CA Legislature",
-      "title": "Data centers: reporting.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1577"
     }
   ]
 }
