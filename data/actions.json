@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T18:21:49Z",
-  "count": 761,
+  "generated_at": "2026-05-14T20:11:02Z",
+  "count": 764,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -69,6 +69,53 @@
       "tier_reason": null
     },
     {
+      "id": "news:gdelt-111636d28c09c6d7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kdhnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hill County pauses data center construction in rural areas for a year",
+      "sources": [
+        "https://kdhnews.com/news/region/hill-county-pauses-data-center-construction-in-rural-areas-for-a-year/article_b1ed8e24-b428-5f69-ae76-fa571b1dedcc.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T20:11:02Z",
+      "first_seen": "2026-05-14T20:11:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-21205f85a164101c-us",
       "origin": "news",
       "state": "US",
@@ -108,6 +155,53 @@
       "data_source": "news",
       "last_updated": "2026-05-14T01:30:52Z",
       "first_seen": "2026-05-14T01:30:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-358bedafaac6f676-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center project rejected in South Jersey community after pushback",
+      "sources": [
+        "https://yahoo.com/news/articles/data-center-project-rejected-south-180133382.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T20:11:02Z",
+      "first_seen": "2026-05-14T20:11:02Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -245,6 +339,51 @@
       "data_source": "news",
       "last_updated": "2026-05-14T01:30:52Z",
       "first_seen": "2026-05-14T01:30:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-bec0f7b76cc830a7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "washingtonexaminer.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Majority of Americans oppose AI data centers being built in their areas",
+      "sources": [
+        "https://washingtonexaminer.com/policy/technology/4568983/majority-americans-oppose-ai-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T20:11:02Z",
+      "first_seen": "2026-05-14T20:11:02Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -35930,26 +36069,26 @@
     },
     "US": {
       "state": "US",
-      "count": 273,
+      "count": 276,
       "outcome_counts": {
-        "pending": 187,
-        "win": 79,
+        "pending": 189,
+        "win": 80,
         "loss": 7,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 266,
+        "restrictive": 269,
         "protective": 0,
         "supportive": 7,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 270,
+        "local": 273,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 66,
+        "community_impact": 67,
         "zoning": 17,
         "grid_energy": 10
       },
