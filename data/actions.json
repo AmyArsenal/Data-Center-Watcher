@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T23:34:35Z",
-  "count": 752,
+  "generated_at": "2026-05-14T01:30:53Z",
+  "count": 755,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,96 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-21205f85a164101c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wfaa.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hood County data center opposition :  You know the fight not over until it absolutely over .",
+      "sources": [
+        "https://wfaa.com/article/news/local/hood-county-data-center-opposition-granbury/287-534cd82f-2de2-4f27-b5ed-c8ee67856b9e"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T01:30:52Z",
+      "first_seen": "2026-05-14T01:30:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-825f6519e817a348-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "foxla.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Not in my backyard : Most Americans oppose AI data centers , Gallup finds",
+      "sources": [
+        "https://foxla.com/news/americans-oppose-ai-data-centers-communities-survey-finds"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T01:30:52Z",
+      "first_seen": "2026-05-14T01:30:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-016fa08d3908a3c0-us",
@@ -1020,6 +1110,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a6830addcee05e08-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "myfox28columbus.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Moratorium : Another Central Ohio community is saying  NO  to data centers",
+      "sources": [
+        "https://myfox28columbus.com/news/local/moratorium-another-central-ohio-community-is-saying-no-to-data-centers-policy-tech-energy-water-consumption"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-14T01:30:52Z",
+      "first_seen": "2026-05-14T01:30:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-aba793689680edf7-us",
@@ -35517,6 +35654,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "US": {
+      "state": "US",
+      "count": 268,
+      "outcome_counts": {
+        "pending": 186,
+        "win": 77,
+        "loss": 5,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 263,
+        "protective": 0,
+        "supportive": 5,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 265,
+        "statewide": 1,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 65,
+        "zoning": 17,
+        "grid_energy": 10
+      },
+      "latest_date": "2026-05-14",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "PA": {
       "state": "PA",
       "count": 26,
@@ -35570,35 +35736,6 @@
         "grid_energy": 9,
         "water": 9,
         "community_impact": 7
-      },
-      "latest_date": "2026-05-13",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 266,
-      "outcome_counts": {
-        "pending": 184,
-        "win": 77,
-        "loss": 5,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 261,
-        "protective": 0,
-        "supportive": 5,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 263,
-        "statewide": 1,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 65,
-        "zoning": 17,
-        "grid_energy": 10
       },
       "latest_date": "2026-05-13",
       "map_color_tier": "restrictive",
@@ -35686,6 +35823,35 @@
         "grid_energy": 3,
         "ratepayer": 2,
         "community_impact": 1
+      },
+      "latest_date": "2026-05-13",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 18,
+      "outcome_counts": {
+        "pending": 12,
+        "win": 6,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 12,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 14,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "ratepayer": 5,
+        "grid_energy": 4
       },
       "latest_date": "2026-05-13",
       "map_color_tier": "restrictive",
@@ -35891,35 +36057,6 @@
         "ratepayer": 2
       },
       "latest_date": "2026-05-11",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 17,
-      "outcome_counts": {
-        "pending": 12,
-        "win": 5,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 11,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 13,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "ratepayer": 5,
-        "grid_energy": 4
-      },
-      "latest_date": "2026-05-09",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

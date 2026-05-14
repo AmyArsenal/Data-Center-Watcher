@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-13T23:34:35Z",
+  "generated_at": "2026-05-14T01:30:53Z",
   "states": [
     {
       "state": "AK",
@@ -75,9 +75,9 @@
     {
       "state": "CO",
       "count": 7,
-      "risk_score": 49.8,
+      "risk_score": 48.5,
       "grade": "C",
-      "grade_score": 50.2,
+      "grade_score": 51.5,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 1,
@@ -467,7 +467,7 @@
     {
       "state": "NY",
       "count": 3,
-      "risk_score": 33.9,
+      "risk_score": 30.8,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
@@ -480,16 +480,16 @@
     },
     {
       "state": "OH",
-      "count": 17,
-      "risk_score": 61.4,
+      "count": 18,
+      "risk_score": 61.9,
       "grade": "D",
-      "grade_score": 38.6,
-      "moratoriums": 4,
+      "grade_score": 38.1,
+      "moratoriums": 5,
       "approvals": 0,
-      "denials": 5,
+      "denials": 6,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-09",
+      "latest": "2026-05-13",
       "url": "data/dossiers/state-OH.json"
     },
     {
@@ -537,9 +537,9 @@
     {
       "state": "RI",
       "count": 5,
-      "risk_score": 32.3,
+      "risk_score": 26.9,
       "grade": "B",
-      "grade_score": 67.7,
+      "grade_score": 73.1,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 0,

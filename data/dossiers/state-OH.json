@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-05-13T23:34:35Z",
+  "generated_at": "2026-05-14T01:30:53Z",
   "risk_score": {
-    "score": 61.4,
-    "tier": 30.1,
+    "score": 61.9,
+    "tier": 30.7,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 38.6,
+    "score": 38.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 0,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,22 +26,22 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 17,
+  "count": 18,
   "tier_counts": {
-    "restrictive": 11,
+    "restrictive": 12,
     "null": 6
   },
   "outcome_counts": {
     "pending": 12,
-    "win": 5
+    "win": 6
   },
   "scope_counts": {
-    "local": 13,
+    "local": 14,
     "statewide": 4
   },
   "issue_top": {
+    "community_impact": 6,
     "ratepayer": 5,
-    "community_impact": 5,
     "grid_energy": 4,
     "water": 3,
     "zoning": 2,
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-05-09",
+  "latest": "2026-05-13",
   "top_citations": [
+    {
+      "id": "news:gdelt-a6830addcee05e08-oh",
+      "date": "2026-05-13",
+      "jurisdiction": "myfox28columbus.com",
+      "title": "Moratorium : Another Central Ohio community is saying  NO  to data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://myfox28columbus.com/news/local/moratorium-another-central-ohio-community-is-saying-no-to-data-centers-policy-tech-energy-water-consumption"
+    },
     {
       "id": "news:gdelt-d3e95360b3c2c928-oh",
       "date": "2026-05-09",
@@ -134,15 +143,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://tiffinohio.net/posts/tiffin-city-council-approves-12-month-data-center-moratorium/"
-    },
-    {
-      "id": "social:tiktok-e6c404ba0222cccc-oh",
-      "date": "2026-04-20",
-      "jurisdiction": "@putschforohio",
-      "title": "Billionaires are using data centers for control, not progress. They're taking advantage of us, polluting our water, and skyrocketing bills..",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://tiktok.com/@putschforohio/video/7630986924760567053"
     }
   ]
 }
