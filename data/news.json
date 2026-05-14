@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-14T05:31:29Z",
+  "generated_at": "2026-05-14T08:14:37Z",
   "window_days": 90,
-  "count": 395,
+  "count": 396,
   "items": [
+    {
+      "id": "rss-canary-aa33e83b09c358fd",
+      "state": "IN",
+      "city": null,
+      "category": "protested",
+      "headline": "This Indiana community is caught between coal and the data center boom",
+      "source_domain": "canarymedia.com",
+      "source_name": "Canary Media",
+      "url": "https://canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom",
+      "date": "2026-05-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-14 08:14:36",
+      "url_hash": "aa33e83b09c358fd",
+      "content_hash": "a6b22d9bc894dc35",
+      "source": "rss-canary",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-canary"
+      ],
+      "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
+      "last_seen": "2026-05-14T08:14:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom",
+        "rss_author": "Kari Lydersen",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-6a0779cce878ff9b",
       "state": "US",
@@ -1110,7 +1149,7 @@
         "rss-dcd"
       ],
       "snippet": "Reason for withdrawal not provided",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1149,7 +1188,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1188,7 +1227,7 @@
         "rss-dcd"
       ],
       "snippet": "Victory for opponents",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1227,7 +1266,7 @@
         "rss-dcd"
       ],
       "snippet": "City council had threatened to veto the project",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1268,7 +1307,7 @@
         "rss-dcd"
       ],
       "snippet": "Will have an operational life of 25 years",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1547,7 +1586,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Pennsylvania Public Utility Commission has issued its final order in a closely watched case to set a framework for confronting the costs of powering large load data centers and other heavyweight industrial users. The post Pennsylvania Regulators Issue Final Blueprint for Large Load Regulation appeared first on RTO Insider .",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1786,7 +1825,7 @@
         "rss-arstechnica"
       ],
       "snippet": "The plan aims to speed up AI compute deployment while compensating residents.",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3662,7 +3701,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3903,7 +3942,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8286,7 +8325,7 @@
         "rss-dck"
       ],
       "snippet": "Maine has rejected a data center moratorium, but pressure on the industry shows no sign of easing.",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8803,7 +8842,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9204,7 +9243,7 @@
         "rss-dck"
       ],
       "snippet": "A flatter topology and higher bandwidth reflect how hyperscalers are reshaping networks for large-scale AI clusters.",
-      "last_seen": "2026-05-14T05:31:28Z",
+      "last_seen": "2026-05-14T08:14:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -15674,6 +15713,19 @@
     }
   ],
   "by_state": {
+    "IN": {
+      "state": "IN",
+      "count": 5,
+      "total_engagement": 24,
+      "categories": {
+        "protested": 5
+      },
+      "platforms": {
+        "news": 3,
+        "reddit": 2
+      },
+      "latest_date": "2026-05-14"
+    },
     "OH": {
       "state": "OH",
       "count": 12,
@@ -15849,19 +15901,6 @@
         "news": 4
       },
       "latest_date": "2026-05-11"
-    },
-    "IN": {
-      "state": "IN",
-      "count": 4,
-      "total_engagement": 24,
-      "categories": {
-        "protested": 4
-      },
-      "platforms": {
-        "news": 2,
-        "reddit": 2
-      },
-      "latest_date": "2026-05-09"
     },
     "MD": {
       "state": "MD",
