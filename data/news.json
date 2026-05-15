@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-05-15T16:25:13Z",
+  "generated_at": "2026-05-15T17:57:03Z",
   "window_days": 90,
-  "count": 421,
+  "count": 422,
   "items": [
+    {
+      "id": "rss-utilitydive-062449304293d113",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "DOJ may intervene in NAACP lawsuit over xAI’s data center gas turbines",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/doj-may-intervene-in-naacp-lawsuit-over-xais-data-center-gas-turbines/820363",
+      "date": "2026-05-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "xAI"
+      ],
+      "first_seen": "2026-05-15 17:57:03",
+      "url_hash": "062449304293d113",
+      "content_hash": "15f54d9ec1f01c5a",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "It is &ldquo;the policy of the United States to sustain and enhance America&rsquo;s global AI dominance,&rdquo; a deputy assistant attorney general at the Department of Justice wrote in a court notice suggesting it might intervene.",
+      "last_seen": "2026-05-15T17:57:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/doj-may-intervene-in-naacp-lawsuit-over-xais-data-center-gas-turbines/820363/",
+        "rss_author": "Diana DiGangi",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-373290c548f2e05b",
       "state": "US",
@@ -110,7 +151,7 @@
         "rss-arstechnica"
       ],
       "snippet": "“This is a public trust and transparency issue.”",
-      "last_seen": "2026-05-15T16:25:13Z",
+      "last_seen": "2026-05-15T17:57:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -747,7 +788,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Town’s 49,000 California residents compete with Nevada data centers for energy.",
-      "last_seen": "2026-05-15T16:25:13Z",
+      "last_seen": "2026-05-15T17:57:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1024,7 +1065,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-15T16:25:13Z",
+      "last_seen": "2026-05-15T17:57:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2182,7 +2223,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-15T16:25:13Z",
+      "last_seen": "2026-05-15T17:57:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4695,7 +4736,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-15T16:25:13Z",
+      "last_seen": "2026-05-15T17:57:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4936,7 +4977,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-15T16:25:13Z",
+      "last_seen": "2026-05-15T17:57:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9836,7 +9877,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-15T16:25:13Z",
+      "last_seen": "2026-05-15T17:57:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,

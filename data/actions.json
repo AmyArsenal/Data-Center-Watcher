@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T16:25:13Z",
-  "count": 783,
+  "generated_at": "2026-05-15T17:57:04Z",
+  "count": 784,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -569,6 +569,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-062449304293d113-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-05-15",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "DOJ may intervene in NAACP lawsuit over xAI’s data center gas turbines. It is &ldquo;the policy of the United States to sustain and enhance America&rsquo;s global AI dominance,&rdquo; a deputy assistant attorney general at the Department of Justice wrote in a court notice suggesting it might intervene",
+      "sources": [
+        "https://utilitydive.com/news/doj-may-intervene-in-naacp-lawsuit-over-xais-data-center-gas-turbines/820363"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-15T17:57:03Z",
+      "first_seen": "2026-05-15T17:57:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-111636d28c09c6d7-us",
@@ -36939,21 +36984,21 @@
     },
     "US": {
       "state": "US",
-      "count": 291,
+      "count": 292,
       "outcome_counts": {
         "pending": 198,
-        "win": 85,
+        "win": 86,
         "loss": 8,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 283,
+        "restrictive": 284,
         "protective": 0,
         "supportive": 8,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 288,
+        "local": 289,
         "statewide": 1,
         "federal": 2
       },
