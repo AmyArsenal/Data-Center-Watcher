@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-05-15T12:23:19Z",
+  "generated_at": "2026-05-15T14:43:17Z",
   "risk_score": {
-    "score": 45.5,
-    "tier": 9.4,
-    "engagement": 10.1,
-    "recency": 14.9,
-    "multi_source": 6.2,
+    "score": 47.2,
+    "tier": 10.5,
+    "engagement": 10.0,
+    "recency": 15.8,
+    "multi_source": 5.9,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 54.5,
+    "score": 52.8,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,22 +26,22 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 26,
+  "count": 27,
   "tier_counts": {
     "unclear": 10,
     "supportive": 8,
     "null": 7,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
-    "pending": 15,
+    "pending": 16,
     "win": 9,
     "loss": 2
   },
   "scope_counts": {
     "statewide": 22,
     "federal": 1,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "tax_incentive": 6,
@@ -50,8 +50,8 @@
     "community_impact": 4,
     "environmental": 3,
     "water": 2,
-    "anti_ai": 2,
-    "farmland": 1
+    "transparency": 2,
+    "anti_ai": 2
   },
   "companies": [
     [
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-05-13",
+  "latest": "2026-05-15",
   "top_citations": [
+    {
+      "id": "news:rss-arstechnica-177eb7eca036b96b-pa",
+      "date": "2026-05-15",
+      "jurisdiction": "Ars Technica - All content",
+      "title": "Pennsylvanians use town hall meeting to rail against data center boom. “This is a public trust and transparency issue.”",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom"
+    },
     {
       "id": "news:rss-rto-insider-8a4e06df5d19179d-pa",
       "date": "2026-05-13",
@@ -147,15 +156,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
-    },
-    {
-      "id": "research:pa-pa-puc-20260313--275m-settlement-filed-at-pa-puc-raises-ppl-electr",
-      "date": "2026-03-13",
-      "jurisdiction": "PA PUC",
-      "title": "$275M settlement filed at PA PUC raises PPL Electric base distribution revenue and creates new dedicated tariff for data centers and other l",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.utilitydive.com/news/ppl-electric-rate-case-settlement-data-center-tariff/814760/"
     }
   ]
 }

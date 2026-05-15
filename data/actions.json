@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T12:23:19Z",
-  "count": 780,
+  "generated_at": "2026-05-15T14:43:17Z",
+  "count": 782,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -340,6 +340,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d2f5ce861ed89020-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "localnews8.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-05-15",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Tensions Rise at Public Hearing for Pocatello AI Data Center Proposal - LocalNews8 . com",
+      "sources": [
+        "https://localnews8.com/news/2026/05/14/tensions-rise-at-public-hearing-for-pocatello-ai-data-center-proposal"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-15T14:43:16Z",
+      "first_seen": "2026-05-15T14:43:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-arstechnica-177eb7eca036b96b-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "Ars Technica - All content",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-05-15",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "transparency"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pennsylvanians use town hall meeting to rail against data center boom. “This is a public trust and transparency issue.”",
+      "sources": [
+        "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-15T14:43:16Z",
+      "first_seen": "2026-05-15T14:43:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-796fad987aa6d575-us",
@@ -36800,21 +36892,21 @@
     },
     "US": {
       "state": "US",
-      "count": 289,
+      "count": 290,
       "outcome_counts": {
-        "pending": 196,
+        "pending": 197,
         "win": 85,
         "loss": 8,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 281,
+        "restrictive": 282,
         "protective": 0,
         "supportive": 8,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 286,
+        "local": 287,
         "statewide": 1,
         "federal": 2
       },
@@ -36885,6 +36977,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "PA": {
+      "state": "PA",
+      "count": 27,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 9,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 8,
+        "unclear": 10
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 22,
+        "federal": 1
+      },
+      "issue_top": {
+        "ratepayer": 6,
+        "tax_incentive": 6,
+        "grid_energy": 5
+      },
+      "latest_date": "2026-05-15",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "IN": {
       "state": "IN",
       "count": 10,
@@ -36940,35 +37061,6 @@
         "community_impact": 3
       },
       "latest_date": "2026-05-14",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 26,
-      "outcome_counts": {
-        "pending": 15,
-        "win": 9,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 8,
-        "unclear": 10
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 22,
-        "federal": 1
-      },
-      "issue_top": {
-        "ratepayer": 6,
-        "tax_incentive": 6,
-        "grid_energy": 5
-      },
-      "latest_date": "2026-05-13",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
