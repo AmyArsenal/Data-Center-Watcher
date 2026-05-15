@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-15T14:43:17Z",
+  "generated_at": "2026-05-15T16:25:13Z",
   "window_days": 90,
-  "count": 420,
+  "count": 421,
   "items": [
+    {
+      "id": "gdelt-373290c548f2e05b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "At data center panel , residents are encouraged to get involved in the process",
+      "source_domain": "mcall.com",
+      "source_name": "mcall.com",
+      "url": "https://mcall.com/2026/05/15/at-data-center-panel-residents-are-encouraged-to-get-involved-in-the-process",
+      "date": "2026-05-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-15 16:25:13",
+      "url_hash": "373290c548f2e05b",
+      "content_hash": "44e5e87e35de366d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-15T16:25:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-d2f5ce861ed89020",
       "state": "US",
@@ -70,7 +110,7 @@
         "rss-arstechnica"
       ],
       "snippet": "“This is a public trust and transparency issue.”",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -149,7 +189,7 @@
         "rss-dcd"
       ],
       "snippet": "Puts T5 Data Center proposal on hold",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -228,7 +268,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-15T10:41:44Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -707,7 +747,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Town’s 49,000 California residents compete with Nevada data centers for energy.",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -984,7 +1024,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2142,7 +2182,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4655,7 +4695,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4896,7 +4936,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9796,7 +9836,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-15T14:43:16Z",
+      "last_seen": "2026-05-15T16:25:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
