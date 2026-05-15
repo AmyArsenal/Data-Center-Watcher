@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NV",
-  "generated_at": "2026-05-15T05:10:50Z",
+  "generated_at": "2026-05-15T08:15:54Z",
   "risk_score": {
-    "score": 52.2,
-    "tier": 26.0,
+    "score": 56.9,
+    "tier": 30.7,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -18,7 +18,7 @@
   "quantified": {
     "moratoriums": 1,
     "approvals": 0,
-    "denials": 0,
+    "denials": 1,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,16 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
-    "restrictive": 1,
+    "restrictive": 2,
     "null": 1
   },
   "outcome_counts": {
-    "pending": 2
+    "pending": 2,
+    "win": 1
   },
   "scope_counts": {
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "environmental": 1,
@@ -47,8 +48,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-04-22",
-  "latest": "2026-04-23",
+  "latest": "2026-05-15",
   "top_citations": [
+    {
+      "id": "news:gdelt-69009dca327d5e60-nv",
+      "date": "2026-05-15",
+      "jurisdiction": "reviewjournal.com",
+      "title": "Reno City Council pauses AI data centers , first government in Nevada to do so | Environment",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://reviewjournal.com/news/environment/this-nevada-city-is-the-first-to-pause-new-data-centers-3824360"
+    },
     {
       "id": "social:reddit-370f756ed2de009b-nv",
       "date": "2026-04-23",

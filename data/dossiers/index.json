@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-15T05:10:50Z",
+  "generated_at": "2026-05-15T08:15:54Z",
   "states": [
     {
       "state": "AK",
@@ -32,16 +32,16 @@
     },
     {
       "state": "AR",
-      "count": 6,
-      "risk_score": 40.1,
+      "count": 7,
+      "risk_score": 47.4,
       "grade": "C",
-      "grade_score": 59.9,
+      "grade_score": 52.6,
       "moratoriums": 0,
       "approvals": 1,
       "denials": 1,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-04-08",
+      "latest": "2026-05-15",
       "url": "data/dossiers/state-AR.json"
     },
     {
@@ -452,16 +452,16 @@
     },
     {
       "state": "NV",
-      "count": 2,
-      "risk_score": 52.2,
+      "count": 3,
+      "risk_score": 56.9,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
       "approvals": 0,
-      "denials": 0,
+      "denials": 1,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-04-23",
+      "latest": "2026-05-15",
       "url": "data/dossiers/state-NV.json"
     },
     {

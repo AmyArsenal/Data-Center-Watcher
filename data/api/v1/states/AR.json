@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-05-15T05:10:50Z",
+  "generated_at": "2026-05-15T08:15:54Z",
   "risk_score": {
-    "score": 40.1,
-    "tier": 10.0,
-    "engagement": 11.5,
-    "recency": 5.3,
-    "multi_source": 8.3,
+    "score": 47.4,
+    "tier": 14.3,
+    "engagement": 10.7,
+    "recency": 10.3,
+    "multi_source": 7.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.9,
+    "score": 52.6,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,29 +26,42 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "unclear": 4,
     "supportive": 1,
-    "null": 1
+    "null": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 4,
+    "pending": 5,
     "win": 1,
     "loss": 1
   },
   "scope_counts": {
-    "statewide": 6
+    "statewide": 6,
+    "local": 1
   },
   "issue_top": {
     "tax_incentive": 2,
-    "grid_energy": 1
+    "grid_energy": 1,
+    "community_impact": 1,
+    "environmental": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-12-13",
-  "latest": "2026-04-08",
+  "latest": "2026-05-15",
   "top_citations": [
+    {
+      "id": "news:gdelt-423f1474cfd0d62c-ar",
+      "date": "2026-05-15",
+      "jurisdiction": "thv11.com",
+      "title": "Arkansas residents voice concerns over proposed data centers amid environmental and economic issues",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://thv11.com/article/news/local/arkansas-residents-voice-concerns-over-proposed-data-centers-amid-environmental-and-economic-issues/91-a3214bcf-8b34-49ee-91b3-c924a4284053"
+    },
     {
       "id": "openstates:ocd-bill-373a6ecc-898b-4920-9dd8-f17cdf1c1fdb-ar",
       "date": "2026-04-08",
