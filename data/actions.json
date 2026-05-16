@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T08:58:33Z",
-  "count": 787,
+  "generated_at": "2026-05-16T10:11:59Z",
+  "count": 788,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -108,6 +108,51 @@
       "data_source": "news",
       "last_updated": "2026-05-16T04:43:50Z",
       "first_seen": "2026-05-16T04:43:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-6748c6235877c64f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "freerepublic.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "How anti - data center activists are taking on Big Tech – and winning",
+      "sources": [
+        "https://freerepublic.com/focus/f-chat/4379508/posts"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-16T10:11:59Z",
+      "first_seen": "2026-05-16T10:11:59Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -37119,21 +37164,21 @@
     },
     "US": {
       "state": "US",
-      "count": 295,
+      "count": 296,
       "outcome_counts": {
-        "pending": 201,
+        "pending": 202,
         "win": 86,
         "loss": 8,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 287,
+        "restrictive": 288,
         "protective": 0,
         "supportive": 8,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 292,
+        "local": 293,
         "statewide": 1,
         "federal": 2
       },
