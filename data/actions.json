@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T16:36:52Z",
-  "count": 788,
+  "generated_at": "2026-05-16T17:38:02Z",
+  "count": 790,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -247,6 +247,100 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-8ae01fd6db890281-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas county passes data center ban for rural areas for a year , move comes in wake of AI data centers moving to remote areas to skirt regulations state senator says counties cannot legally impose these bans",
+      "sources": [
+        "https://tomshardware.com/tech-industry/big-tech/texas-county-passes-data-center-moratorium-for-a-year-follows-other-local-governments-pausing-similar-projects-but-state-senator-says-counties-cannot-impose-these-bans"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-16T17:38:02Z",
+      "first_seen": "2026-05-16T17:38:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-da62de5863d02696-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ubergizmo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-16",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Microsoft Massive Kenya AI Data Center Blocked By  Half the Country  Power Demand",
+      "sources": [
+        "https://ubergizmo.com/2026/05/microsofts-kenya-ai-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-16T17:38:02Z",
+      "first_seen": "2026-05-16T17:38:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-2c763d901a7f03dc-us",
@@ -37164,28 +37258,57 @@
     },
     "US": {
       "state": "US",
-      "count": 296,
+      "count": 297,
       "outcome_counts": {
         "pending": 202,
-        "win": 86,
+        "win": 87,
         "loss": 8,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 288,
+        "restrictive": 289,
         "protective": 0,
         "supportive": 8,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 293,
+        "local": 294,
         "statewide": 1,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 70,
         "zoning": 18,
-        "grid_energy": 10
+        "grid_energy": 11
+      },
+      "latest_date": "2026-05-16",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 27,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 5,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 12,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 23,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 7
       },
       "latest_date": "2026-05-16",
       "map_color_tier": "restrictive",
@@ -37333,35 +37456,6 @@
         "community_impact": 3
       },
       "latest_date": "2026-05-14",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 26,
-      "outcome_counts": {
-        "pending": 17,
-        "win": 4,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 11,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 22,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 7
-      },
-      "latest_date": "2026-05-13",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

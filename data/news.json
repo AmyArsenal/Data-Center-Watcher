@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-05-16T16:36:52Z",
+  "generated_at": "2026-05-16T17:38:02Z",
   "window_days": 90,
-  "count": 426,
+  "count": 428,
   "items": [
+    {
+      "id": "gdelt-8ae01fd6db890281",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Texas county passes data center ban for rural areas for a year , move comes in wake of AI data centers moving to remote areas to skirt regulations state senator says counties cannot legally impose these bans",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/tech-industry/big-tech/texas-county-passes-data-center-moratorium-for-a-year-follows-other-local-governments-pausing-similar-projects-but-state-senator-says-counties-cannot-impose-these-bans",
+      "date": "2026-05-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-16 17:38:02",
+      "url_hash": "8ae01fd6db890281",
+      "content_hash": "91db24ffd484017d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-16T17:38:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-da62de5863d02696",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Microsoft Massive Kenya AI Data Center Blocked By  Half the Country  Power Demand",
+      "source_domain": "ubergizmo.com",
+      "source_name": "ubergizmo.com",
+      "url": "https://ubergizmo.com/2026/05/microsofts-kenya-ai-data-center",
+      "date": "2026-05-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Microsoft"
+      ],
+      "first_seen": "2026-05-16 17:38:02",
+      "url_hash": "da62de5863d02696",
+      "content_hash": "97e309ad8a975f83",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-16T17:38:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-6748c6235877c64f",
       "state": "US",
@@ -192,7 +274,7 @@
         "rss-utilitydive"
       ],
       "snippet": "It is &ldquo;the policy of the United States to sustain and enhance America&rsquo;s global AI dominance,&rdquo; a deputy assistant attorney general at the Department of Justice wrote in a court notice suggesting it might intervene.",
-      "last_seen": "2026-05-16T16:36:52Z",
+      "last_seen": "2026-05-16T17:38:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -311,7 +393,7 @@
         "rss-arstechnica"
       ],
       "snippet": "“This is a public trust and transparency issue.”",
-      "last_seen": "2026-05-16T16:36:52Z",
+      "last_seen": "2026-05-16T17:38:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1225,7 +1307,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-16T16:36:52Z",
+      "last_seen": "2026-05-16T17:38:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2383,7 +2465,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-16T16:36:52Z",
+      "last_seen": "2026-05-16T17:38:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4896,7 +4978,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-16T16:36:52Z",
+      "last_seen": "2026-05-16T17:38:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5137,7 +5219,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-16T16:36:52Z",
+      "last_seen": "2026-05-16T17:38:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10037,7 +10119,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-16T16:36:52Z",
+      "last_seen": "2026-05-16T17:38:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -16908,6 +16990,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 12,
+      "total_engagement": 629,
+      "categories": {
+        "banned": 2,
+        "protested": 10
+      },
+      "platforms": {
+        "news": 8,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-05-16"
+    },
     "PA": {
       "state": "PA",
       "count": 4,
@@ -17026,22 +17124,6 @@
       },
       "platforms": {
         "news": 1
-      },
-      "latest_date": "2026-05-13"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 11,
-      "total_engagement": 629,
-      "categories": {
-        "protested": 10,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 7,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
       },
       "latest_date": "2026-05-13"
     },
