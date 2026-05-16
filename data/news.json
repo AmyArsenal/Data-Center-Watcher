@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-16T01:22:22Z",
+  "generated_at": "2026-05-16T04:43:51Z",
   "window_days": 90,
-  "count": 423,
+  "count": 425,
   "items": [
+    {
+      "id": "gdelt-7d16fcc0e5cc85d9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "We need hard number : Proposal of Pocatello AI Data Center draws crowd at public hearing",
+      "source_domain": "ktvb.com",
+      "source_name": "ktvb.com",
+      "url": "https://ktvb.com/article/tech/we-need-hard-numbers-proposal-of-pocatello-ai-data-center-draws-crowd-at-public-hearing/277-4635f699-59c2-40f3-a9ce-e3f8533706de",
+      "date": "2026-05-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-16 04:43:50",
+      "url_hash": "7d16fcc0e5cc85d9",
+      "content_hash": "939b2fb3c51b3148",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-16T04:43:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-2ca915b29f63556d",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Tonganoxie group wants to pull the plug on AI data center",
+      "source_domain": "kctv5.com",
+      "source_name": "kctv5.com",
+      "url": "https://kctv5.com/2026/05/16/tonganoxie-group-wants-pull-plug-ai-data-center",
+      "date": "2026-05-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-16 04:43:50",
+      "url_hash": "2ca915b29f63556d",
+      "content_hash": "fc66196184df11a5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-16T04:43:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-714d8d7354b8f308",
       "state": "US",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -72,7 +152,7 @@
         "rss-utilitydive"
       ],
       "snippet": "It is &ldquo;the policy of the United States to sustain and enhance America&rsquo;s global AI dominance,&rdquo; a deputy assistant attorney general at the Department of Justice wrote in a court notice suggesting it might intervene.",
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -191,7 +271,7 @@
         "rss-arstechnica"
       ],
       "snippet": "“This is a public trust and transparency issue.”",
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1105,7 +1185,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2263,7 +2343,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4776,7 +4856,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5017,7 +5097,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9917,7 +9997,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-16T01:22:22Z",
+      "last_seen": "2026-05-16T04:43:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
