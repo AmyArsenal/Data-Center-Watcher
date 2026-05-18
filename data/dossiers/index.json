@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-18T09:33:51Z",
+  "generated_at": "2026-05-18T12:54:48Z",
   "states": [
     {
       "state": "AK",
@@ -326,16 +326,16 @@
     },
     {
       "state": "MO",
-      "count": 15,
-      "risk_score": 56.1,
+      "count": 16,
+      "risk_score": 56.8,
       "grade": "D",
-      "grade_score": 43.9,
+      "grade_score": 43.2,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 4,
       "lawsuits": 1,
       "active_companies": 3,
-      "latest": "2026-04-23",
+      "latest": "2026-05-18",
       "url": "data/dossiers/state-MO.json"
     },
     {

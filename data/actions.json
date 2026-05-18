@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T09:33:51Z",
-  "count": 795,
+  "generated_at": "2026-05-18T12:54:48Z",
+  "count": 796,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-06dac22233c9181a-mo",
+      "origin": "news",
+      "state": "MO",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Developer Lumon Solutions backing data center project in Marshfield, Missouri. Project faces steep opposition",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/developer-lumon-solutions-backing-data-center-project-in-marshfield-missouri"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-18T12:54:47Z",
+      "first_seen": "2026-05-18T12:54:48Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-utilitydive-1cc75557939d3d53-ny",
@@ -37519,6 +37564,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "MO": {
+      "state": "MO",
+      "count": 16,
+      "outcome_counts": {
+        "pending": 12,
+        "win": 4,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 10,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 15,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "transparency": 3,
+        "grid_energy": 2
+      },
+      "latest_date": "2026-05-18",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
       "count": 301,
@@ -38212,35 +38286,6 @@
         "community_impact": 1
       },
       "latest_date": "2026-04-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "MO": {
-      "state": "MO",
-      "count": 15,
-      "outcome_counts": {
-        "pending": 11,
-        "win": 4,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 9,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 14,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "transparency": 3,
-        "grid_energy": 2
-      },
-      "latest_date": "2026-04-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

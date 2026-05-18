@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-05-18T09:33:51Z",
+  "generated_at": "2026-05-18T12:54:48Z",
   "risk_score": {
-    "score": 56.1,
-    "tier": 28.8,
-    "engagement": 6.7,
+    "score": 56.8,
+    "tier": 29.5,
+    "engagement": 6.6,
     "recency": 20.0,
-    "multi_source": 0.7,
+    "multi_source": 0.6,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.9,
+    "score": 43.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 15,
+  "count": 16,
   "tier_counts": {
-    "restrictive": 9,
+    "restrictive": 10,
     "unclear": 1,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 11,
+    "pending": 12,
     "win": 4
   },
   "scope_counts": {
-    "local": 14,
+    "local": 15,
     "statewide": 1
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-24",
-  "latest": "2026-04-23",
+  "latest": "2026-05-18",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-06dac22233c9181a-mo",
+      "date": "2026-05-18",
+      "jurisdiction": "DCD",
+      "title": "Developer Lumon Solutions backing data center project in Marshfield, Missouri. Project faces steep opposition",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/developer-lumon-solutions-backing-data-center-project-in-marshfield-missouri"
+    },
     {
       "id": "news:rss-dcd-b115d59663df30a9-mo",
       "date": "2026-04-23",
@@ -148,15 +157,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://x.com/bluelivesmtr/status/2040021502901542937"
-    },
-    {
-      "id": "social:x-531b8bfa67-mo",
-      "date": "2026-04-03",
-      "jurisdiction": "@WallStreetApes",
-      "title": "This is literally insane So many people showed up to oppose a $6 billion dollar data center in Missouri they had to use bleachers The whole",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://x.com/WallStreetApes/status/2039888027783516164"
     }
   ]
 }
