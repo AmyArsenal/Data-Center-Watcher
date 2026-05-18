@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-05-18T05:53:55Z",
+  "generated_at": "2026-05-18T09:33:51Z",
   "risk_score": {
-    "score": 30.8,
-    "tier": 12.0,
-    "engagement": 8.3,
-    "recency": 7.1,
-    "multi_source": 3.3,
+    "score": 44.6,
+    "tier": 19.0,
+    "engagement": 7.8,
+    "recency": 15.3,
+    "multi_source": 2.5,
     "regulatory": 0.0
   },
   "grade": {
@@ -26,24 +26,27 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
-    "null": 3
+    "null": 3,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 3
+    "pending": 4
   },
   "scope_counts": {
     "statewide": 2,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
-    "grid_energy": 3,
+    "grid_energy": 4,
     "ratepayer": 2,
     "environmental": 2,
-    "water": 1,
+    "water": 2,
+    "community_impact": 2,
     "transparency": 1,
-    "community_impact": 1
+    "air_quality": 1,
+    "noise": 1
   },
   "companies": [
     [
@@ -53,8 +56,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-03-07",
+  "latest": "2026-05-18",
   "top_citations": [
+    {
+      "id": "news:rss-utilitydive-1cc75557939d3d53-ny",
+      "date": "2026-05-18",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "Data center’s onsite generation strategy could be the key to navigating community opposition. Community resistance to data centers is intens",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://utilitydive.com/spons/data-centers-onsite-generation-strategy-could-be-the-key-to-navigating-com/820075"
+    },
     {
       "id": "research:ny-holtec-nyiso-20260307-holtec-proposed-making-indian-point-campus-buchan",
       "date": "2026-03-07",
