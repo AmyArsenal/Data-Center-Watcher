@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-18T12:54:48Z",
+  "generated_at": "2026-05-18T16:16:24Z",
   "window_days": 90,
-  "count": 434,
+  "count": 436,
   "items": [
+    {
+      "id": "rss-dcd-d8b824a15dbeb9a8",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Equinix facing local opposition over plans for two data centers in Cape Town, South Africa - report",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/equinix-facing-local-opposition-over-plans-for-two-data-centers-in-cape-town-south-africa-report",
+      "date": "2026-05-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Equinix"
+      ],
+      "first_seen": "2026-05-18 16:16:23",
+      "url_hash": "d8b824a15dbeb9a8",
+      "content_hash": "63bd50b6d2b6030a",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Opponents claim projects lack key details on water use, electricity demand, and environmental impact",
+      "last_seen": "2026-05-18T16:16:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/equinix-facing-local-opposition-over-plans-for-two-data-centers-in-cape-town-south-africa-report/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-5d74c53b158b85ac",
+      "state": "NJ",
+      "city": null,
+      "category": "banned",
+      "headline": "Ban on data centers being considered in Andover Township, New Jersey, after town meeting gets violent",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/ban-on-data-centers-being-considered-in-andover-township-new-jersey-after-town-meeting-gets-violent",
+      "date": "2026-05-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-18 16:16:23",
+      "url_hash": "5d74c53b158b85ac",
+      "content_hash": "ec5670efb49266f2",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Police officers tackled man to ground during the May 7 township committee meeting",
+      "last_seen": "2026-05-18T16:16:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/ban-on-data-centers-being-considered-in-andover-township-new-jersey-after-town-meeting-gets-violent/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-06dac22233c9181a",
       "state": "MO",
@@ -69,7 +149,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Community resistance to data centers is intensifying. Residents and local officials in states like Indiana, New York and Georgia cite a range of concerns: noise, emissions, water consumption, visual impact, land use and the fear that large new loads will require costly new grid infrastructure &mdash; with those costs passed on to ratepayers.",
-      "last_seen": "2026-05-18T12:54:47Z",
+      "last_seen": "2026-05-18T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -512,7 +592,7 @@
         "rss-utilitydive"
       ],
       "snippet": "It is &ldquo;the policy of the United States to sustain and enhance America&rsquo;s global AI dominance,&rdquo; a deputy assistant attorney general at the Department of Justice wrote in a court notice suggesting it might intervene.",
-      "last_seen": "2026-05-18T12:54:47Z",
+      "last_seen": "2026-05-18T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1545,7 +1625,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-18T12:54:47Z",
+      "last_seen": "2026-05-18T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2703,7 +2783,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-18T12:54:47Z",
+      "last_seen": "2026-05-18T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5216,7 +5296,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-18T12:54:47Z",
+      "last_seen": "2026-05-18T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5457,7 +5537,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-18T12:54:47Z",
+      "last_seen": "2026-05-18T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10357,7 +10437,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-18T12:54:47Z",
+      "last_seen": "2026-05-18T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -17228,6 +17308,20 @@
     }
   ],
   "by_state": {
+    "NJ": {
+      "state": "NJ",
+      "count": 6,
+      "total_engagement": 2907,
+      "categories": {
+        "banned": 3,
+        "protested": 3
+      },
+      "platforms": {
+        "news": 4,
+        "x": 2
+      },
+      "latest_date": "2026-05-18"
+    },
     "MO": {
       "state": "MO",
       "count": 10,
@@ -17391,20 +17485,6 @@
         "news": 1
       },
       "latest_date": "2026-05-13"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 5,
-      "total_engagement": 2907,
-      "categories": {
-        "banned": 2,
-        "protested": 3
-      },
-      "platforms": {
-        "news": 3,
-        "x": 2
-      },
-      "latest_date": "2026-05-12"
     },
     "MI": {
       "state": "MI",

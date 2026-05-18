@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-05-18T12:54:48Z",
+  "generated_at": "2026-05-18T16:16:24Z",
   "risk_score": {
-    "score": 52.4,
-    "tier": 18.5,
-    "engagement": 9.6,
-    "recency": 13.9,
-    "multi_source": 5.4,
+    "score": 54.0,
+    "tier": 19.4,
+    "engagement": 9.5,
+    "recency": 14.9,
+    "multi_source": 5.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.6,
+    "score": 46.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 0,
-    "denials": 7,
+    "denials": 8,
     "lawsuits": 0,
     "blocked": 2,
     "active_companies": 1,
@@ -26,9 +26,9 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 24,
+  "count": 25,
   "tier_counts": {
-    "restrictive": 6,
+    "restrictive": 7,
     "unclear": 9,
     "supportive": 2,
     "protective": 1,
@@ -36,10 +36,10 @@
   },
   "outcome_counts": {
     "pending": 17,
-    "win": 7
+    "win": 8
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 15
   },
   "issue_top": {
@@ -60,8 +60,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-05-12",
+  "latest": "2026-05-18",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-5d74c53b158b85ac-nj",
+      "date": "2026-05-18",
+      "jurisdiction": "DCD",
+      "title": "Ban on data centers being considered in Andover Township, New Jersey, after town meeting gets violent. Police officers tackled man to ground",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/ban-on-data-centers-being-considered-in-andover-township-new-jersey-after-town-meeting-gets-violent"
+    },
     {
       "id": "news:gdelt-bf8fec78b9c6a9e6-nj",
       "date": "2026-05-12",
@@ -142,15 +151,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A4696"
-    },
-    {
-      "id": "research:nj-new-jersey-legislature-20260301-s731-a796-requires-nj-board-of-public-utilities-to",
-      "date": "2026-03-01",
-      "jurisdiction": "New Jersey Legislature",
-      "title": "S731/A796 requires NJ Board of Public Utilities to establish special tariffs for data centers using 100+ MW monthly. Customers must commit t",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://newjerseymonitor.com/briefs/nj-bill-data-centers-electric-costs/"
     }
   ]
 }
