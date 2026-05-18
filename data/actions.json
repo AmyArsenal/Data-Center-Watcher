@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T18:16:23Z",
-  "count": 799,
+  "generated_at": "2026-05-18T20:08:53Z",
+  "count": 800,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-683f56716fe77952-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fortune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Communities are blocking billions in data centers . Big Tech has wagered $1 trillion otherwise",
+      "sources": [
+        "https://fortune.com/2026/05/18/communities-are-blocking-billions-in-data-centers-big-tech-has-wagered-1-trillion-otherwise"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-18T20:08:52Z",
+      "first_seen": "2026-05-18T20:08:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-06dac22233c9181a-mo",
@@ -37762,21 +37807,21 @@
     },
     "US": {
       "state": "US",
-      "count": 302,
+      "count": 303,
       "outcome_counts": {
-        "pending": 204,
+        "pending": 205,
         "win": 88,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 292,
+        "restrictive": 293,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 299,
+        "local": 300,
         "statewide": 1,
         "federal": 2
       },
