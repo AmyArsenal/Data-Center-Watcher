@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-05-19T14:27:22Z",
+  "generated_at": "2026-05-19T17:24:37Z",
   "risk_score": {
-    "score": 51.3,
-    "tier": 17.9,
-    "engagement": 10.3,
-    "recency": 11.5,
-    "multi_source": 6.5,
+    "score": 52.3,
+    "tier": 18.5,
+    "engagement": 10.2,
+    "recency": 12.3,
+    "multi_source": 6.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.7,
+    "score": 47.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 37,
+  "count": 38,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,21 +36,21 @@
   },
   "outcome_counts": {
     "win": 16,
-    "pending": 17,
+    "pending": 18,
     "loss": 2,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 13,
+    "local": 14,
     "statewide": 24
   },
   "issue_top": {
     "zoning": 9,
-    "community_impact": 8,
+    "community_impact": 9,
     "water": 5,
     "environmental": 5,
+    "grid_energy": 4,
     "noise": 4,
-    "grid_energy": 3,
     "ratepayer": 3,
     "design_standards": 2
   },
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-05-13",
+  "latest": "2026-05-19",
   "top_citations": [
+    {
+      "id": "news:rss-dck-fbe9ee434ad68e60-va",
+      "date": "2026-05-19",
+      "jurisdiction": "datacenterknowledge",
+      "title": "Virginia Tightens Data Center Generator Permitting as Community Scrutiny Grows. Virginia’s revised guidance reflects growing concern that hy",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds"
+    },
     {
       "id": "news:rss-dcd-ec20f81ca2807d6a-va",
       "date": "2026-05-13",
@@ -152,15 +161,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.nbcwashington.com/news/local/prince-william-digital-gateway-project-halted-by-virginia-court-of-appeals/4084112/"
-    },
-    {
-      "id": "research:va-virginia-general-assembly-20260317-hb-507-del-john-mcauliff-d-fauquier-requires-v",
-      "date": "2026-03-17",
-      "jurisdiction": "Virginia General Assembly",
-      "title": "HB 507 (Del. John McAuliff, D-Fauquier) requires VA DEQ to deny any air permit submitted for a data center generator after July 2026 unless ",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://lis.virginia.gov/bill-details/20261/HB507"
     }
   ]
 }

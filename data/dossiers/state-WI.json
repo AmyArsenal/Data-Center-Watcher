@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-05-19T14:27:22Z",
+  "generated_at": "2026-05-19T17:24:37Z",
   "risk_score": {
-    "score": 42.7,
-    "tier": 12.6,
-    "engagement": 10.4,
-    "recency": 8.1,
-    "multi_source": 6.7,
+    "score": 44.9,
+    "tier": 13.8,
+    "engagement": 10.2,
+    "recency": 9.5,
+    "multi_source": 6.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 57.3,
+    "score": 55.1,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,27 +26,27 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "unclear": 6,
     "supportive": 6,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 16,
+    "pending": 17,
     "win": 5
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 16
   },
   "issue_top": {
     "tax_incentive": 5,
     "transparency": 4,
+    "community_impact": 4,
     "grid_energy": 3,
     "water": 3,
-    "community_impact": 3,
     "environmental": 2,
     "ratepayer": 2,
     "zoning": 2
@@ -71,8 +71,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2023-05-24",
-  "latest": "2026-04-22",
+  "latest": "2026-05-19",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-e258bb8b11479e78-wi",
+      "date": "2026-05-19",
+      "jurisdiction": "DCD",
+      "title": "Real estate developer Panattoni takes over Meta-backed data center proposal in southern Wisconsin. But residents remain unhappy",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/real-estate-developer-panattoni-takes-over-meta-backed-data-center-proposal-in-southern-wisconsin"
+    },
     {
       "id": "social:reddit-a118bc122944cc0a-wi",
       "date": "2026-04-22",
@@ -153,15 +162,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1036"
-    },
-    {
-      "id": "openstates:ocd-bill-2a916b0d-93d2-44e7-9241-8266e1fb3a15-wi",
-      "date": "2026-02-06",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb969"
     }
   ]
 }

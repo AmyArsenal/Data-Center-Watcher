@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-05-19T14:27:21Z",
+  "generated_at": "2026-05-19T17:24:36Z",
   "window_days": 90,
-  "count": 457,
+  "count": 460,
   "items": [
+    {
+      "id": "rss-dck-fbe9ee434ad68e60",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Virginia Tightens Data Center Generator Permitting as Community Scrutiny Grows",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds",
+      "date": "2026-05-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-19 17:24:36",
+      "url_hash": "fbe9ee434ad68e60",
+      "content_hash": "240adf2c105d5389",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
+      "last_seen": "2026-05-19T17:24:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds",
+        "rss_author": "Shane Snider",
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-e258bb8b11479e78",
+      "state": "WI",
+      "city": null,
+      "category": "protested",
+      "headline": "Real estate developer Panattoni takes over Meta-backed data center proposal in southern Wisconsin",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/real-estate-developer-panattoni-takes-over-meta-backed-data-center-proposal-in-southern-wisconsin",
+      "date": "2026-05-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Meta"
+      ],
+      "first_seen": "2026-05-19 17:24:36",
+      "url_hash": "e258bb8b11479e78",
+      "content_hash": "94f3077e838664d2",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "But residents remain unhappy",
+      "last_seen": "2026-05-19T17:24:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/real-estate-developer-panattoni-takes-over-meta-backed-data-center-proposal-in-southern-wisconsin/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-arstechnica-9fa26ddcade3a801",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Electrical utility megamerger is all about the data centers",
+      "source_domain": "arstechnica.com",
+      "source_name": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers",
+      "date": "2026-05-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-19 17:24:36",
+      "url_hash": "9fa26ddcade3a801",
+      "content_hash": "5ff49d8d35bb97c2",
+      "source": "rss-arstechnica",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-arstechnica"
+      ],
+      "snippet": "NextEra’s blockbuster deal with Dominion likely means higher bills for consumers.",
+      "last_seen": "2026-05-19T17:24:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
+        "rss_author": "Dan Gearino, Amy Green, and Charles Paullin, Inside Climate News",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-bdd39502c728e30a",
       "state": "US",
@@ -988,7 +1107,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Community resistance to data centers is intensifying. Residents and local officials in states like Indiana, New York and Georgia cite a range of concerns: noise, emissions, water consumption, visual impact, land use and the fear that large new loads will require costly new grid infrastructure &mdash; with those costs passed on to ratepayers.",
-      "last_seen": "2026-05-19T14:27:21Z",
+      "last_seen": "2026-05-19T17:24:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2464,7 +2583,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-19T14:27:21Z",
+      "last_seen": "2026-05-19T17:24:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3622,7 +3741,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-19T14:27:21Z",
+      "last_seen": "2026-05-19T17:24:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6135,7 +6254,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-19T14:27:21Z",
+      "last_seen": "2026-05-19T17:24:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6376,7 +6495,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-19T14:27:21Z",
+      "last_seen": "2026-05-19T17:24:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11276,7 +11395,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-19T14:27:21Z",
+      "last_seen": "2026-05-19T17:24:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -18147,6 +18266,35 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 8,
+      "total_engagement": 172,
+      "categories": {
+        "protested": 5,
+        "announced": 1,
+        "banned": 1,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 7,
+        "legal": 1
+      },
+      "latest_date": "2026-05-19"
+    },
+    "WI": {
+      "state": "WI",
+      "count": 2,
+      "total_engagement": 7,
+      "categories": {
+        "protested": 2
+      },
+      "platforms": {
+        "news": 1,
+        "reddit": 1
+      },
+      "latest_date": "2026-05-19"
+    },
     "OK": {
       "state": "OK",
       "count": 4,
@@ -18328,22 +18476,6 @@
       },
       "latest_date": "2026-05-13"
     },
-    "VA": {
-      "state": "VA",
-      "count": 7,
-      "total_engagement": 172,
-      "categories": {
-        "announced": 1,
-        "protested": 4,
-        "banned": 1,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 6,
-        "legal": 1
-      },
-      "latest_date": "2026-05-13"
-    },
     "IL": {
       "state": "IL",
       "count": 1,
@@ -18497,18 +18629,6 @@
         "news": 2
       },
       "latest_date": "2026-04-24"
-    },
-    "WI": {
-      "state": "WI",
-      "count": 1,
-      "total_engagement": 7,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "reddit": 1
-      },
-      "latest_date": "2026-04-22"
     }
   }
 }
