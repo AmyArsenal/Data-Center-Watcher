@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T20:56:44Z",
-  "count": 824,
+  "generated_at": "2026-05-19T22:06:31Z",
+  "count": 826,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-004a169214c200e8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "patch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-19",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Warren Township Moves to Ban Data Centers An All Zoning Districts",
+      "sources": [
+        "https://patch.com/new-jersey/warren/warren-township-moves-ban-data-centers-all-zoning-districts"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-19T22:06:31Z",
+      "first_seen": "2026-05-19T22:06:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-14670adf71111c82-us",
@@ -251,6 +298,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-32a2fd623bae147d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wpde.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-19",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "The last thing they need : Rep . Mace calls for pause on data center construction in SC",
+      "sources": [
+        "https://wpde.com/newsletter-daily/the-last-thing-they-need-rep-mace-calls-for-pause-on-data-center-construction-in-sc-south-carolina-data-centers-energy-prices-midterm-elections-republican-democrat-donald-trump-white-house-china-ai"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-19T22:06:31Z",
+      "first_seen": "2026-05-19T22:06:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-3df04932766eec23-nc",
@@ -38907,27 +38999,27 @@
     },
     "US": {
       "state": "US",
-      "count": 322,
+      "count": 324,
       "outcome_counts": {
         "pending": 213,
-        "win": 99,
+        "win": 101,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 312,
+        "restrictive": 314,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 318,
+        "local": 320,
         "statewide": 2,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 75,
-        "zoning": 21,
+        "zoning": 22,
         "grid_energy": 11
       },
       "latest_date": "2026-05-19",
