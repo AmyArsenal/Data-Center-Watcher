@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-05-18T23:36:27Z",
+  "generated_at": "2026-05-19T01:33:25Z",
   "risk_score": {
-    "score": 60.3,
-    "tier": 29.1,
+    "score": 60.9,
+    "tier": 29.6,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 39.7,
+    "score": 39.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 19,
+  "count": 20,
   "tier_counts": {
-    "restrictive": 12,
+    "restrictive": 13,
     "null": 6,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 12,
+    "pending": 13,
     "win": 6,
     "loss": 1
   },
   "scope_counts": {
-    "local": 15,
+    "local": 16,
     "statewide": 4
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-05-18",
+  "latest": "2026-05-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-299aa4e25a3ab696-oh",
+      "date": "2026-05-19",
+      "jurisdiction": "abc6onyourside.com",
+      "title": "Ohio group collects 25 , 000 signatures for a constitutional amendment banning data centers",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://abc6onyourside.com/news/local/this-ohio-group-wants-a-constitutional-amendment-banning-data-centers-on-november-ballot-politics-policy-tech-enviornment"
+    },
     {
       "id": "news:rss-dcd-79bd72afc016ee61-oh",
       "date": "2026-05-18",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/Ohio/comments/1stkt4b/data_center_protest_perry_ohio_tonight_530pm"
-    },
-    {
-      "id": "social:tiktok-e5eba4b639d43985-oh",
-      "date": "2026-04-23",
-      "jurisdiction": "@oh.political.news",
-      "title": "Mega data centers are here, demanding massive power and causing noise pollution. Is this for AI, or something more controlling? #DataCenters",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://tiktok.com/@oh.political.news/video/7631947573456014606"
     }
   ]
 }

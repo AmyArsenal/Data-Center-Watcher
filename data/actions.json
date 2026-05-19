@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T23:36:26Z",
-  "count": 804,
+  "generated_at": "2026-05-19T01:33:25Z",
+  "count": 807,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -69,6 +69,96 @@
       "tier_reason": null
     },
     {
+      "id": "news:gdelt-299aa4e25a3ab696-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "abc6onyourside.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ohio group collects 25 , 000 signatures for a constitutional amendment banning data centers",
+      "sources": [
+        "https://abc6onyourside.com/news/local/this-ohio-group-wants-a-constitutional-amendment-banning-data-centers-on-november-ballot-politics-policy-tech-enviornment"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-19T01:33:24Z",
+      "first_seen": "2026-05-19T01:33:25Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-3df04932766eec23-nc",
+      "origin": "news",
+      "state": "NC",
+      "county": null,
+      "jurisdiction": "Cumberland County",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-19",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center developments on hold ? Cumberland County weighs moratorium",
+      "sources": [
+        "https://abc11.com/post/data-center-developments-hold-cumberland-county-weighs-moratorium/19126573"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-19T01:33:24Z",
+      "first_seen": "2026-05-19T01:33:25Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-683f56716fe77952-us",
       "origin": "news",
       "state": "US",
@@ -112,6 +202,52 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-75691d7f221b5646-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "easttexasradio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium",
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-05-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "As Texans Question the Unchecked Growth of Data Centers , Commissioner Sid Miller Lays Out Plan for Statewide Moratorium and Study",
+      "sources": [
+        "https://easttexasradio.com/as-texans-question-the-unchecked-growth-of-data-centers-commissioner-sid-miller-lays-out-plan-for-statewide-moratorium-and-study"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-19T01:33:24Z",
+      "first_seen": "2026-05-19T01:33:25Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-9c8a459013b28a30-us",
@@ -37900,6 +38036,64 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "OH": {
+      "state": "OH",
+      "count": 20,
+      "outcome_counts": {
+        "pending": 13,
+        "win": 6,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 13,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 16,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "ratepayer": 5,
+        "grid_energy": 4
+      },
+      "latest_date": "2026-05-19",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "NC": {
+      "state": "NC",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 3,
+        "win": 4,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 0,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 3,
+        "water": 3,
+        "community_impact": 2
+      },
+      "latest_date": "2026-05-19",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "NY": {
       "state": "NY",
       "count": 4,
@@ -37989,21 +38183,21 @@
     },
     "US": {
       "state": "US",
-      "count": 307,
+      "count": 308,
       "outcome_counts": {
         "pending": 207,
-        "win": 90,
+        "win": 91,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 297,
+        "restrictive": 298,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 303,
+        "local": 304,
         "statewide": 2,
         "federal": 2
       },
@@ -38011,35 +38205,6 @@
         "community_impact": 71,
         "zoning": 19,
         "grid_energy": 11
-      },
-      "latest_date": "2026-05-18",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 19,
-      "outcome_counts": {
-        "pending": 12,
-        "win": 6,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 12,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 15,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 6,
-        "ratepayer": 5,
-        "grid_energy": 4
       },
       "latest_date": "2026-05-18",
       "map_color_tier": "restrictive",
@@ -38537,35 +38702,6 @@
       "latest_date": "2026-05-08",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 3,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 0,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 3,
-        "water": 3,
-        "community_impact": 2
-      },
-      "latest_date": "2026-05-06",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "WY": {
       "state": "WY",

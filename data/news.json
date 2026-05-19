@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-05-18T23:36:26Z",
+  "generated_at": "2026-05-19T01:33:25Z",
   "window_days": 90,
-  "count": 442,
+  "count": 445,
   "items": [
+    {
+      "id": "gdelt-3df04932766eec23",
+      "state": "NC",
+      "city": "Cumberland County",
+      "category": "banned",
+      "headline": "Data center developments on hold ? Cumberland County weighs moratorium",
+      "source_domain": "abc11.com",
+      "source_name": "abc11.com",
+      "url": "https://abc11.com/post/data-center-developments-hold-cumberland-county-weighs-moratorium/19126573",
+      "date": "2026-05-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-19 01:33:24",
+      "url_hash": "3df04932766eec23",
+      "content_hash": "714cf5b7b6c2d726",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-19T01:33:24Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-299aa4e25a3ab696",
+      "state": "OH",
+      "city": null,
+      "category": "protested",
+      "headline": "Ohio group collects 25 , 000 signatures for a constitutional amendment banning data centers",
+      "source_domain": "abc6onyourside.com",
+      "source_name": "abc6onyourside.com",
+      "url": "https://abc6onyourside.com/news/local/this-ohio-group-wants-a-constitutional-amendment-banning-data-centers-on-november-ballot-politics-policy-tech-enviornment",
+      "date": "2026-05-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-19 01:33:24",
+      "url_hash": "299aa4e25a3ab696",
+      "content_hash": "1606885e4a2385ee",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-19T01:33:24Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-75691d7f221b5646",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "As Texans Question the Unchecked Growth of Data Centers , Commissioner Sid Miller Lays Out Plan for Statewide Moratorium and Study",
+      "source_domain": "easttexasradio.com",
+      "source_name": "easttexasradio.com",
+      "url": "https://easttexasradio.com/as-texans-question-the-unchecked-growth-of-data-centers-commissioner-sid-miller-lays-out-plan-for-statewide-moratorium-and-study",
+      "date": "2026-05-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-19 01:33:24",
+      "url_hash": "75691d7f221b5646",
+      "content_hash": "25f8382b28b49060",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-19T01:33:24Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-b494ee2bc6d8c32c",
       "state": "US",
@@ -110,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -150,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -230,7 +350,7 @@
         "rss-dcd"
       ],
       "snippet": "Would have spanned 35 acres and offered 150MW of IT capacity",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -271,7 +391,7 @@
         "rss-dcd"
       ],
       "snippet": "Opponents claim projects lack key details on water use, electricity demand, and environmental impact",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +430,7 @@
         "rss-dcd"
       ],
       "snippet": "Police officers tackled man to ground during the May 7 township committee meeting",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -388,7 +508,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Community resistance to data centers is intensifying. Residents and local officials in states like Indiana, New York and Georgia cite a range of concerns: noise, emissions, water consumption, visual impact, land use and the fear that large new loads will require costly new grid infrastructure &mdash; with those costs passed on to ratepayers.",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -831,7 +951,7 @@
         "rss-utilitydive"
       ],
       "snippet": "It is &ldquo;the policy of the United States to sustain and enhance America&rsquo;s global AI dominance,&rdquo; a deputy assistant attorney general at the Department of Justice wrote in a court notice suggesting it might intervene.",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1864,7 +1984,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3022,7 +3142,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5535,7 +5655,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5776,7 +5896,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10676,7 +10796,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-18T23:36:26Z",
+      "last_seen": "2026-05-19T01:33:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -17547,22 +17667,36 @@
     }
   ],
   "by_state": {
-    "OH": {
-      "state": "OH",
-      "count": 13,
-      "total_engagement": 2750,
+    "NC": {
+      "state": "NC",
+      "count": 3,
+      "total_engagement": 617,
       "categories": {
-        "announced": 1,
-        "banned": 3,
-        "protested": 9
+        "banned": 2,
+        "protested": 1
       },
       "platforms": {
-        "news": 6,
+        "news": 2,
+        "reddit": 1
+      },
+      "latest_date": "2026-05-19"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 14,
+      "total_engagement": 2750,
+      "categories": {
+        "protested": 10,
+        "announced": 1,
+        "banned": 3
+      },
+      "platforms": {
+        "news": 7,
         "reddit": 3,
         "tiktok": 3,
         "x": 1
       },
-      "latest_date": "2026-05-18"
+      "latest_date": "2026-05-19"
     },
     "NJ": {
       "state": "NJ",
@@ -17827,20 +17961,6 @@
         "news": 1
       },
       "latest_date": "2026-05-08"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 2,
-      "total_engagement": 617,
-      "categories": {
-        "banned": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1,
-        "reddit": 1
-      },
-      "latest_date": "2026-05-06"
     },
     "WY": {
       "state": "WY",
