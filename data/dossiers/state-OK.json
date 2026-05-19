@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OK",
-  "generated_at": "2026-05-19T05:49:17Z",
+  "generated_at": "2026-05-19T08:54:05Z",
   "risk_score": {
-    "score": 51.6,
-    "tier": 16.9,
-    "engagement": 10.3,
-    "recency": 12.9,
-    "multi_source": 6.5,
+    "score": 53.8,
+    "tier": 18.2,
+    "engagement": 10.1,
+    "recency": 14.4,
+    "multi_source": 6.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.4,
+    "score": 46.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 3,
     "bills_enacted": 0
   },
-  "count": 17,
+  "count": 18,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "unclear": 11,
     "null": 3
   },
   "outcome_counts": {
-    "pending": 11,
+    "pending": 12,
     "win": 5,
     "loss": 1
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 12
   },
   "issue_top": {
@@ -59,8 +59,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-03",
-  "latest": "2026-04-22",
+  "latest": "2026-05-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-b2b736cb326958a6-ok",
+      "date": "2026-05-19",
+      "jurisdiction": "Claremore",
+      "title": "Claremore City Council votes on proposed data center incentive district",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://fox23.com/news/claremore-city-council-votes-on-proposed-data-center-incentive-district/article_5959f303-afa3-4358-a806-71b7ead71c27.html"
+    },
     {
       "id": "social:reddit-98ec6b26ba63a616-ok",
       "date": "2026-04-22",
@@ -141,15 +150,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4219&session=2600"
-    },
-    {
-      "id": "openstates:ocd-bill-f3fac452-6189-4871-b73e-c372dfce3b0d-ok",
-      "date": "2026-02-02",
-      "jurisdiction": "OK Legislature",
-      "title": "Foreign ownership of land; prohibiting foreign principals from renting, leasing, or having a controlling interest in data centers. Effective",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1706&session=2600"
     }
   ]
 }
