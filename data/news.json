@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-05-20T14:14:20Z",
+  "generated_at": "2026-05-20T17:29:13Z",
   "window_days": 90,
-  "count": 477,
+  "count": 479,
   "items": [
+    {
+      "id": "gdelt-c364d4d51e51a36d",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "PSC Candidate Calls for Statewide Data Center Moratorium",
+      "source_domain": "knoxradio.com",
+      "source_name": "knoxradio.com",
+      "url": "https://knoxradio.com/2026/05/20/psc-candidate-calls-for-statewide-data-center-moratorium",
+      "date": "2026-05-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-20 17:29:13",
+      "url_hash": "c364d4d51e51a36d",
+      "content_hash": "b08f5b8b14081f68",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-20T17:29:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-7069b059c3e60d4c",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Denver City Council passes one-year data center moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/denver-city-council-passes-one-year-data-center-moratorium",
+      "date": "2026-05-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-20 17:29:13",
+      "url_hash": "7069b059c3e60d4c",
+      "content_hash": "aa411cbbaae3d2bb",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Puts pause on any zoning permits",
+      "last_seen": "2026-05-20T17:29:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.8999999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/denver-city-council-passes-one-year-data-center-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-11ae2c865969a9ef",
       "state": "US",
@@ -712,7 +791,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-20T14:14:20Z",
+      "last_seen": "2026-05-20T17:29:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -792,7 +871,7 @@
         "rss-arstechnica"
       ],
       "snippet": "NextEra’s blockbuster deal with Dominion likely means higher bills for consumers.",
-      "last_seen": "2026-05-20T14:14:20Z",
+      "last_seen": "2026-05-20T17:29:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3265,7 +3344,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-20T14:14:20Z",
+      "last_seen": "2026-05-20T17:29:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4423,7 +4502,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-20T14:14:20Z",
+      "last_seen": "2026-05-20T17:29:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6936,7 +7015,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-20T14:14:20Z",
+      "last_seen": "2026-05-20T17:29:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7177,7 +7256,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-20T14:14:20Z",
+      "last_seen": "2026-05-20T17:29:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12077,7 +12156,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-20T14:14:20Z",
+      "last_seen": "2026-05-20T17:29:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
