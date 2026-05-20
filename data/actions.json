@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T17:29:13Z",
-  "count": 841,
+  "generated_at": "2026-05-20T19:38:56Z",
+  "count": 842,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -570,6 +570,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-6c6e0efd9baf2113-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-05-20",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "noise"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Crypto firm Mara sued over 'data center noise and dead chickens'. Denies any wrongdoing",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/crypto-firm-mara-sued-over-data-center-noise-and-dead-chickens"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-20T19:38:55Z",
+      "first_seen": "2026-05-20T19:38:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:rss-dcd-7069b059c3e60d4c-us",
@@ -39597,21 +39644,21 @@
     },
     "US": {
       "state": "US",
-      "count": 339,
+      "count": 340,
       "outcome_counts": {
         "pending": 219,
-        "win": 110,
+        "win": 111,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 329,
+        "restrictive": 330,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 335,
+        "local": 336,
         "statewide": 2,
         "federal": 2
       },
