@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T23:59:17Z",
-  "count": 842,
+  "generated_at": "2026-05-21T03:28:32Z",
+  "count": 846,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,96 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-66e34bdb76e39519-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "wkar.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Why one Michigan township just rejected data centers , while another stays open to them",
+      "sources": [
+        "https://wkar.org/wkar-news/2026-05-20/why-one-michigan-township-just-rejected-data-centers-while-another-stays-open-to-them"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-21T03:28:31Z",
+      "first_seen": "2026-05-21T03:28:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-bb07e16719a88ef1-me",
+      "origin": "news",
+      "state": "ME",
+      "county": null,
+      "jurisdiction": "wgme.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Maine municipal leaders to vote on data center moratoriums amid concerns",
+      "sources": [
+        "https://wgme.com/news/local/maine-municipal-leaders-to-vote-on-data-center-moratoriums-amid-concerns-maine-technology-environment-power-gird-quality-of-life-issues"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-21T03:28:31Z",
+      "first_seen": "2026-05-21T03:28:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-11ae2c865969a9ef-us",
@@ -159,6 +249,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-1b827d98049ce1fd-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "thedailystar.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-20",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "In Our Opinion : City data center moratorium makes sense",
+      "sources": [
+        "https://thedailystar.com/opinion/editorials/in-our-opinion-city-data-center-moratorium-makes-sense/article_ebbd6f55-94f4-4de6-9eb4-1dfee25ac61b.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-21T03:28:31Z",
+      "first_seen": "2026-05-21T03:28:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-2caf798829403320-us",
@@ -570,6 +705,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e2b33464f2db6230-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cbs2iowa.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": null,
+      "date": "2026-05-20",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Palo discusses data center zoning ordinance ahead of any proposed development",
+      "sources": [
+        "https://cbs2iowa.com/news/local/palo-discusses-data-center-zoning-ordinance-ahead-of-any-proposed-development"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-21T03:28:31Z",
+      "first_seen": "2026-05-21T03:28:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-6c6e0efd9baf2113-us",
@@ -39642,29 +39824,87 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "MI": {
+      "state": "MI",
+      "count": 10,
+      "outcome_counts": {
+        "pending": 5,
+        "win": 5,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 3,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-05-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "ME": {
+      "state": "ME",
+      "count": 46,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 38,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 39,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 30,
+        "statewide": 16,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "environmental": 5,
+        "ratepayer": 5
+      },
+      "latest_date": "2026-05-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
-      "count": 340,
+      "count": 342,
       "outcome_counts": {
-        "pending": 219,
-        "win": 111,
+        "pending": 220,
+        "win": 112,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 330,
+        "restrictive": 332,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 336,
+        "local": 338,
         "statewide": 2,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 78,
-        "zoning": 23,
+        "zoning": 24,
         "grid_energy": 11
       },
       "latest_date": "2026-05-20",
@@ -40193,35 +40433,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "MI": {
-      "state": "MI",
-      "count": 9,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 5,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 6,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 3,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-05-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
     "UT": {
       "state": "UT",
       "count": 5,
@@ -40395,35 +40606,6 @@
       "latest_date": "2026-05-05",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "ME": {
-      "state": "ME",
-      "count": 45,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 38,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 38,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 29,
-        "statewide": 16,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "environmental": 5,
-        "ratepayer": 5
-      },
-      "latest_date": "2026-04-30",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "MN": {
       "state": "MN",

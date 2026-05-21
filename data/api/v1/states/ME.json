@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-05-20T23:59:17Z",
+  "generated_at": "2026-05-21T03:28:32Z",
   "risk_score": {
-    "score": 69.4,
-    "tier": 35.6,
+    "score": 69.5,
+    "tier": 35.7,
     "engagement": 7.2,
     "recency": 20.0,
-    "multi_source": 1.6,
+    "multi_source": 1.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "F",
-    "score": 30.6,
+    "score": 30.5,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 45,
+  "count": 46,
   "tier_counts": {
-    "restrictive": 38,
+    "restrictive": 39,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
     "win": 38,
-    "pending": 6,
+    "pending": 7,
     "loss": 1
   },
   "scope_counts": {
-    "local": 29,
+    "local": 30,
     "statewide": 16
   },
   "issue_top": {
@@ -59,8 +59,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2017-12-22",
-  "latest": "2026-04-30",
+  "latest": "2026-05-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-bb07e16719a88ef1-me",
+      "date": "2026-05-21",
+      "jurisdiction": "wgme.com",
+      "title": "Maine municipal leaders to vote on data center moratoriums amid concerns",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wgme.com/news/local/maine-municipal-leaders-to-vote-on-data-center-moratoriums-amid-concerns-maine-technology-environment-power-gird-quality-of-life-issues"
+    },
     {
       "id": "news:gdelt-b439bd1c4c91a480-me",
       "date": "2026-04-30",
@@ -141,15 +150,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://nbcwashington.com/news/national-international/maine-governor-veto-moratorium-data-centers/4095671"
-    },
-    {
-      "id": "social:reddit-1c2806727e4dab1c-me",
-      "date": "2026-04-25",
-      "jurisdiction": "r/ProgressiveHQ",
-      "title": "Janet Mills vetoes Maine data center ban",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://reddit.com/r/ProgressiveHQ/comments/1svcvhf/janet_mills_vetoes_maine_data_center_ban"
     }
   ]
 }

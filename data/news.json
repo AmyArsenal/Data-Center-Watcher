@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-05-20T23:59:17Z",
+  "generated_at": "2026-05-21T03:28:32Z",
   "window_days": 90,
-  "count": 480,
+  "count": 484,
   "items": [
+    {
+      "id": "gdelt-bb07e16719a88ef1",
+      "state": "ME",
+      "city": null,
+      "category": "protested",
+      "headline": "Maine municipal leaders to vote on data center moratoriums amid concerns",
+      "source_domain": "wgme.com",
+      "source_name": "wgme.com",
+      "url": "https://wgme.com/news/local/maine-municipal-leaders-to-vote-on-data-center-moratoriums-amid-concerns-maine-technology-environment-power-gird-quality-of-life-issues",
+      "date": "2026-05-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-21 03:28:31",
+      "url_hash": "bb07e16719a88ef1",
+      "content_hash": "a283f4abcfb19a3b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-21T03:28:31Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-66e34bdb76e39519",
+      "state": "MI",
+      "city": null,
+      "category": "protested",
+      "headline": "Why one Michigan township just rejected data centers , while another stays open to them",
+      "source_domain": "wkar.org",
+      "source_name": "wkar.org",
+      "url": "https://wkar.org/wkar-news/2026-05-20/why-one-michigan-township-just-rejected-data-centers-while-another-stays-open-to-them",
+      "date": "2026-05-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-21 03:28:31",
+      "url_hash": "66e34bdb76e39519",
+      "content_hash": "0c16367d29a8a9c8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-21T03:28:31Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e2b33464f2db6230",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Palo discusses data center zoning ordinance ahead of any proposed development",
+      "source_domain": "cbs2iowa.com",
+      "source_name": "cbs2iowa.com",
+      "url": "https://cbs2iowa.com/news/local/palo-discusses-data-center-zoning-ordinance-ahead-of-any-proposed-development",
+      "date": "2026-05-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-21 03:28:31",
+      "url_hash": "e2b33464f2db6230",
+      "content_hash": "ec79b78c0289d59a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-21T03:28:31Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1b827d98049ce1fd",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "In Our Opinion : City data center moratorium makes sense",
+      "source_domain": "thedailystar.com",
+      "source_name": "thedailystar.com",
+      "url": "https://thedailystar.com/opinion/editorials/in-our-opinion-city-data-center-moratorium-makes-sense/article_ebbd6f55-94f4-4de6-9eb4-1dfee25ac61b.html",
+      "date": "2026-05-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-21 03:28:31",
+      "url_hash": "1b827d98049ce1fd",
+      "content_hash": "85600c8d1512cf72",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-21T03:28:31Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-6c6e0efd9baf2113",
       "state": "US",
@@ -30,7 +190,7 @@
         "rss-dcd"
       ],
       "snippet": "Denies any wrongdoing",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -109,7 +269,7 @@
         "rss-dcd"
       ],
       "snippet": "Puts pause on any zoning permits",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.8999999999999999,
@@ -830,7 +990,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3383,7 +3543,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4541,7 +4701,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7054,7 +7214,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7295,7 +7455,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12195,7 +12355,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-20T23:59:17Z",
+      "last_seen": "2026-05-21T03:28:31Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -19066,6 +19226,35 @@
     }
   ],
   "by_state": {
+    "ME": {
+      "state": "ME",
+      "count": 39,
+      "total_engagement": 35464,
+      "categories": {
+        "protested": 6,
+        "banned": 33
+      },
+      "platforms": {
+        "news": 18,
+        "reddit": 17,
+        "x": 4
+      },
+      "latest_date": "2026-05-21"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 7,
+      "total_engagement": 104,
+      "categories": {
+        "protested": 3,
+        "banned": 4
+      },
+      "platforms": {
+        "news": 6,
+        "reddit": 1
+      },
+      "latest_date": "2026-05-21"
+    },
     "VA": {
       "state": "VA",
       "count": 8,
@@ -19288,20 +19477,6 @@
       },
       "latest_date": "2026-05-13"
     },
-    "MI": {
-      "state": "MI",
-      "count": 6,
-      "total_engagement": 104,
-      "categories": {
-        "banned": 4,
-        "protested": 2
-      },
-      "platforms": {
-        "news": 5,
-        "reddit": 1
-      },
-      "latest_date": "2026-05-12"
-    },
     "KS": {
       "state": "KS",
       "count": 3,
@@ -19401,21 +19576,6 @@
         "news": 1
       },
       "latest_date": "2026-05-05"
-    },
-    "ME": {
-      "state": "ME",
-      "count": 38,
-      "total_engagement": 35464,
-      "categories": {
-        "banned": 33,
-        "protested": 5
-      },
-      "platforms": {
-        "news": 17,
-        "reddit": 17,
-        "x": 4
-      },
-      "latest_date": "2026-04-30"
     },
     "MN": {
       "state": "MN",
