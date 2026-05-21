@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-21T13:51:11Z",
+  "generated_at": "2026-05-21T16:32:05Z",
   "window_days": 90,
-  "count": 485,
+  "count": 487,
   "items": [
+    {
+      "id": "gdelt-a4967437803d934e",
+      "state": "NJ",
+      "city": null,
+      "category": "protested",
+      "headline": "New Jersey list of local bans on AI data centers keeps growing",
+      "source_domain": "nj1015.com",
+      "source_name": "nj1015.com",
+      "url": "https://nj1015.com/new-jersey-ai-data-center-bans",
+      "date": "2026-05-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-21 16:32:04",
+      "url_hash": "a4967437803d934e",
+      "content_hash": "9e0dcf616f6699a5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-21T16:32:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-555c0e5c1ff7d601",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Dickson City denies data center developer zoning challenge",
+      "source_domain": "thetimes-tribune.com",
+      "source_name": "thetimes-tribune.com",
+      "url": "https://thetimes-tribune.com/2026/05/21/dickson-city-denies-data-center-developers-zoning-challenge",
+      "date": "2026-05-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-21 16:32:04",
+      "url_hash": "555c0e5c1ff7d601",
+      "content_hash": "d9f4d32fbb0be433",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-21T16:32:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dck-61d80bfae2320cd8",
       "state": "US",
@@ -30,7 +110,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-21T13:51:11Z",
+      "last_seen": "2026-05-21T16:32:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1029,7 +1109,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-21T13:51:11Z",
+      "last_seen": "2026-05-21T16:32:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3582,7 +3662,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-21T13:51:11Z",
+      "last_seen": "2026-05-21T16:32:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4740,7 +4820,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-21T13:51:11Z",
+      "last_seen": "2026-05-21T16:32:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7253,7 +7333,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-21T13:51:11Z",
+      "last_seen": "2026-05-21T16:32:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7494,7 +7574,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-21T13:51:11Z",
+      "last_seen": "2026-05-21T16:32:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12394,7 +12474,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-21T13:51:11Z",
+      "last_seen": "2026-05-21T16:32:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -19265,6 +19345,20 @@
     }
   ],
   "by_state": {
+    "NJ": {
+      "state": "NJ",
+      "count": 7,
+      "total_engagement": 2907,
+      "categories": {
+        "protested": 4,
+        "banned": 3
+      },
+      "platforms": {
+        "news": 5,
+        "x": 2
+      },
+      "latest_date": "2026-05-21"
+    },
     "ME": {
       "state": "ME",
       "count": 39,
@@ -19369,20 +19463,6 @@
         "x": 1
       },
       "latest_date": "2026-05-19"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 6,
-      "total_engagement": 2907,
-      "categories": {
-        "banned": 3,
-        "protested": 3
-      },
-      "platforms": {
-        "news": 4,
-        "x": 2
-      },
-      "latest_date": "2026-05-18"
     },
     "MO": {
       "state": "MO",

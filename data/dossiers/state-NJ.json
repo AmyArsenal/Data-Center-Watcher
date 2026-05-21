@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-05-21T13:51:12Z",
+  "generated_at": "2026-05-21T16:32:05Z",
   "risk_score": {
-    "score": 53.6,
-    "tier": 19.4,
-    "engagement": 9.5,
-    "recency": 14.6,
-    "multi_source": 5.2,
+    "score": 55.1,
+    "tier": 20.2,
+    "engagement": 9.4,
+    "recency": 15.5,
+    "multi_source": 5.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.4,
+    "score": 44.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 25,
+  "count": 26,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "unclear": 9,
     "supportive": 2,
     "protective": 1,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 17,
+    "pending": 18,
     "win": 8
   },
   "scope_counts": {
-    "local": 10,
+    "local": 11,
     "statewide": 15
   },
   "issue_top": {
@@ -60,8 +60,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-05-18",
+  "latest": "2026-05-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-a4967437803d934e-nj",
+      "date": "2026-05-21",
+      "jurisdiction": "nj1015.com",
+      "title": "New Jersey list of local bans on AI data centers keeps growing",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://nj1015.com/new-jersey-ai-data-center-bans"
+    },
     {
       "id": "news:rss-dcd-5d74c53b158b85ac-nj",
       "date": "2026-05-18",
@@ -142,15 +151,6 @@
       "tier": "supportive",
       "outcome": "pending",
       "url": "https://www.njleg.state.nj.us/bill-search/2026/A4769"
-    },
-    {
-      "id": "openstates:ocd-bill-0c0194d8-e666-4bc4-a4ef-d21d54f6ca96-nj",
-      "date": "2026-03-16",
-      "jurisdiction": "NJ Legislature",
-      "title": "Requires owner or operator of data center to submit water and energy usage report to BPU.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.njleg.state.nj.us/bill-search/2026/A4696"
     }
   ]
 }
