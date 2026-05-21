@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T22:56:42Z",
-  "count": 853,
+  "generated_at": "2026-05-21T23:52:02Z",
+  "count": 854,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-4dfd5a6c52adf85c-wi",
+      "origin": "news",
+      "state": "WI",
+      "county": null,
+      "jurisdiction": "urbanmilwaukee.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Wisconsin Researchers Probe AI Data Center Thirst For Water » Urban Milwaukee",
+      "sources": [
+        "https://urbanmilwaukee.com/2026/05/21/wisconsin-researchers-probe-ai-data-centers-thirst-for-water"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-21T23:52:02Z",
+      "first_seen": "2026-05-21T23:52:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-555c0e5c1ff7d601-us",
@@ -40259,6 +40304,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "WI": {
+      "state": "WI",
+      "count": 23,
+      "outcome_counts": {
+        "pending": 18,
+        "win": 5,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 6,
+        "unclear": 6
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 16,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 5,
+        "community_impact": 4,
+        "transparency": 4
+      },
+      "latest_date": "2026-05-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "OH": {
       "state": "OH",
       "count": 20,
@@ -40345,35 +40419,6 @@
       "latest_date": "2026-05-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "WI": {
-      "state": "WI",
-      "count": 22,
-      "outcome_counts": {
-        "pending": 17,
-        "win": 5,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 6,
-        "unclear": 6
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 16,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 5,
-        "community_impact": 4,
-        "transparency": 4
-      },
-      "latest_date": "2026-05-19",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "VA": {
       "state": "VA",

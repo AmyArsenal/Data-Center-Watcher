@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-05-21T22:56:42Z",
+  "generated_at": "2026-05-21T23:52:02Z",
   "risk_score": {
-    "score": 44.9,
-    "tier": 13.8,
-    "engagement": 10.2,
-    "recency": 9.5,
-    "multi_source": 6.4,
+    "score": 46.9,
+    "tier": 15.0,
+    "engagement": 10.1,
+    "recency": 10.8,
+    "multi_source": 6.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 55.1,
+    "score": 53.1,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 22,
+  "count": 23,
   "tier_counts": {
-    "restrictive": 4,
+    "restrictive": 5,
     "unclear": 6,
     "supportive": 6,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 17,
+    "pending": 18,
     "win": 5
   },
   "scope_counts": {
-    "local": 6,
+    "local": 7,
     "statewide": 16
   },
   "issue_top": {
@@ -71,8 +71,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2023-05-24",
-  "latest": "2026-05-19",
+  "latest": "2026-05-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-4dfd5a6c52adf85c-wi",
+      "date": "2026-05-21",
+      "jurisdiction": "urbanmilwaukee.com",
+      "title": "Wisconsin Researchers Probe AI Data Center Thirst For Water » Urban Milwaukee",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://urbanmilwaukee.com/2026/05/21/wisconsin-researchers-probe-ai-data-centers-thirst-for-water"
+    },
     {
       "id": "news:rss-dcd-e258bb8b11479e78-wi",
       "date": "2026-05-19",
@@ -153,15 +162,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb1061"
-    },
-    {
-      "id": "openstates:ocd-bill-7036ac90-6599-44be-96b9-12de35e7c58f-wi",
-      "date": "2026-02-13",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1036"
     }
   ]
 }
