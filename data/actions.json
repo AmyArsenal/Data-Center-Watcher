@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T16:32:05Z",
-  "count": 849,
+  "generated_at": "2026-05-21T18:25:49Z",
+  "count": 850,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -204,6 +204,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b2ffeaa93c902ea7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "koel.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Opposition to Dubuque Data Center Leads to Possible Moratorium",
+      "sources": [
+        "https://koel.com/ixp/679/p/dubuque-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-21T18:25:48Z",
+      "first_seen": "2026-05-21T18:25:48Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-bb07e16719a88ef1-me",
@@ -40021,21 +40066,21 @@
     },
     "US": {
       "state": "US",
-      "count": 344,
+      "count": 345,
       "outcome_counts": {
         "pending": 222,
-        "win": 112,
+        "win": 113,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 334,
+        "restrictive": 335,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 340,
+        "local": 341,
         "statewide": 2,
         "federal": 2
       },
