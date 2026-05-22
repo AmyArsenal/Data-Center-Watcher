@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T16:23:05Z",
-  "count": 864,
+  "generated_at": "2026-05-22T18:11:58Z",
+  "count": 866,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -110,6 +110,53 @@
       "data_source": "news",
       "last_updated": "2026-05-22T13:59:04Z",
       "first_seen": "2026-05-22T13:59:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-30b4b337f04267a3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "willistonherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "transparency"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Williston protesters demand more transparency , regulation surrounding data centers",
+      "sources": [
+        "https://willistonherald.com/news/local/williston-protesters-demand-more-transparency-regulation-surrounding-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-22T18:11:57Z",
+      "first_seen": "2026-05-22T18:11:58Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -440,6 +487,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-e0694990355da997-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wjcl.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Port Wentworth residents call for pause on data center proposals",
+      "sources": [
+        "https://wjcl.com/article/port-wentworth-residents-call-for-pause-on-data-center-proposals/71382361"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-22T18:11:57Z",
+      "first_seen": "2026-05-22T18:11:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-e3ebce273fd7f1e6-us",
@@ -40653,26 +40747,26 @@
     },
     "US": {
       "state": "US",
-      "count": 357,
+      "count": 359,
       "outcome_counts": {
-        "pending": 231,
-        "win": 116,
+        "pending": 232,
+        "win": 117,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 347,
+        "restrictive": 349,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 353,
+        "local": 355,
         "statewide": 2,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 81,
+        "community_impact": 82,
         "zoning": 27,
         "grid_energy": 11
       },
