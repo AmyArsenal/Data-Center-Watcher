@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T05:57:49Z",
-  "count": 860,
+  "generated_at": "2026-05-22T08:52:19Z",
+  "count": 861,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -110,6 +110,55 @@
       "data_source": "news",
       "last_updated": "2026-05-22T01:56:34Z",
       "first_seen": "2026-05-22T01:56:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-589214b5d32d6d4b-ga",
+      "origin": "news",
+      "state": "GA",
+      "county": null,
+      "jurisdiction": "benzinga.com",
+      "lat": null,
+      "lng": null,
+      "scope": "federal",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "federal_agency",
+      "date": "2026-05-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "environmental",
+        "water"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "AOC Demands EPA Probe After Residents Near Meta Data Center In Georgia Complain Of Murky Drinking Water :",
+      "sources": [
+        "https://benzinga.com/markets/tech/26/05/52737929/aoc-epa-probe-meta-data-center-georgia-water"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-22T08:52:19Z",
+      "first_seen": "2026-05-22T08:52:19Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -40494,6 +40543,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "GA": {
+      "state": "GA",
+      "count": 16,
+      "outcome_counts": {
+        "pending": 11,
+        "win": 2,
+        "loss": 2,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 3,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 9,
+        "federal": 1
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "water": 4,
+        "environmental": 3
+      },
+      "latest_date": "2026-05-22",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "MI": {
       "state": "MI",
       "count": 10,
@@ -41102,35 +41180,6 @@
       "latest_date": "2026-05-11",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 15,
-      "outcome_counts": {
-        "pending": 10,
-        "win": 2,
-        "loss": 2,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 3,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 9,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 6,
-        "grid_energy": 3,
-        "water": 3
-      },
-      "latest_date": "2026-05-11",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "FL": {
       "state": "FL",

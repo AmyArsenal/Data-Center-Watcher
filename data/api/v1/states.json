@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-22T05:57:49Z",
+  "generated_at": "2026-05-22T08:52:19Z",
   "states": [
     {
       "state": "AK",
@@ -144,16 +144,16 @@
     },
     {
       "state": "GA",
-      "count": 15,
-      "risk_score": 44.5,
+      "count": 16,
+      "risk_score": 47.4,
       "grade": "C",
-      "grade_score": 55.5,
+      "grade_score": 52.6,
       "moratoriums": 3,
       "approvals": 2,
       "denials": 2,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-05-11",
+      "latest": "2026-05-22",
       "url": "data/dossiers/state-GA.json"
     },
     {
