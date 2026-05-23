@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T19:47:57Z",
-  "count": 873,
+  "generated_at": "2026-05-23T20:37:28Z",
+  "count": 875,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -202,6 +202,96 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-9713bf671a97a1f6-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "dailykos.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Americans overwhelmingly oppose data centers . Women most of all .",
+      "sources": [
+        "https://dailykos.com/stories/2026/5/23/800043219/tech/americans-overwhelmingly-oppose-data-centers-women-most-of-all"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-23T20:37:27Z",
+      "first_seen": "2026-05-23T20:37:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-ee675ea31516f525-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "kilgorenewsherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-23",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Opinion : For the Future of Texas , Pause Data Centers",
+      "sources": [
+        "https://kilgorenewsherald.com/2026/05/23/opinion-for-the-future-of-texas-pause-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-23T20:37:27Z",
+      "first_seen": "2026-05-23T20:37:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-265761a6e79bfa41-us",
@@ -41093,21 +41183,21 @@
     },
     "US": {
       "state": "US",
-      "count": 365,
+      "count": 366,
       "outcome_counts": {
-        "pending": 235,
+        "pending": 236,
         "win": 120,
         "loss": 10,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 355,
+        "restrictive": 356,
         "protective": 0,
         "supportive": 10,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 361,
+        "local": 362,
         "statewide": 2,
         "federal": 2
       },
@@ -41115,6 +41205,35 @@
         "community_impact": 83,
         "zoning": 27,
         "grid_energy": 11
+      },
+      "latest_date": "2026-05-23",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 28,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 6,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 13,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 24,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 7
       },
       "latest_date": "2026-05-23",
       "map_color_tier": "restrictive",
@@ -41438,35 +41557,6 @@
       "latest_date": "2026-05-18",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 27,
-      "outcome_counts": {
-        "pending": 17,
-        "win": 5,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 12,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 23,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 7
-      },
-      "latest_date": "2026-05-16",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "AR": {
       "state": "AR",

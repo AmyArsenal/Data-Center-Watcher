@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-23T19:47:57Z",
+  "generated_at": "2026-05-23T20:37:28Z",
   "window_days": 90,
-  "count": 511,
+  "count": 513,
   "items": [
+    {
+      "id": "gdelt-ee675ea31516f525",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Opinion : For the Future of Texas , Pause Data Centers",
+      "source_domain": "kilgorenewsherald.com",
+      "source_name": "kilgorenewsherald.com",
+      "url": "https://kilgorenewsherald.com/2026/05/23/opinion-for-the-future-of-texas-pause-data-centers",
+      "date": "2026-05-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-23 20:37:27",
+      "url_hash": "ee675ea31516f525",
+      "content_hash": "59c85adb852f622b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-23T20:37:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9713bf671a97a1f6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Americans overwhelmingly oppose data centers . Women most of all .",
+      "source_domain": "dailykos.com",
+      "source_name": "dailykos.com",
+      "url": "https://dailykos.com/stories/2026/5/23/800043219/tech/americans-overwhelmingly-oppose-data-centers-women-most-of-all",
+      "date": "2026-05-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-23 20:37:27",
+      "url_hash": "9713bf671a97a1f6",
+      "content_hash": "e0f83b39b74117fd",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-23T20:37:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-5bf852197bd35c9c",
       "state": "US",
@@ -390,7 +470,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1073,7 +1153,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2072,7 +2152,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4625,7 +4705,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5783,7 +5863,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8296,7 +8376,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8537,7 +8617,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13437,7 +13517,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-23T19:47:56Z",
+      "last_seen": "2026-05-23T20:37:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -20308,6 +20388,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 13,
+      "total_engagement": 629,
+      "categories": {
+        "banned": 3,
+        "protested": 10
+      },
+      "platforms": {
+        "news": 9,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-05-23"
+    },
     "MN": {
       "state": "MN",
       "count": 3,
@@ -20479,22 +20575,6 @@
         "news": 1
       },
       "latest_date": "2026-05-18"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 12,
-      "total_engagement": 629,
-      "categories": {
-        "banned": 2,
-        "protested": 10
-      },
-      "platforms": {
-        "news": 8,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-05-16"
     },
     "PA": {
       "state": "PA",

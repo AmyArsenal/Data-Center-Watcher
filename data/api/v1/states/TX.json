@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-05-23T19:47:57Z",
+  "generated_at": "2026-05-23T20:37:28Z",
   "risk_score": {
-    "score": 56.3,
-    "tier": 24.4,
+    "score": 56.8,
+    "tier": 25.0,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.4,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 43.7,
+    "score": 43.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 2,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 1,
     "blocked": 2,
     "active_companies": 8,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 27,
+  "count": 28,
   "tier_counts": {
-    "restrictive": 12,
+    "restrictive": 13,
     "null": 15
   },
   "outcome_counts": {
     "pending": 17,
     "mixed": 3,
     "loss": 2,
-    "win": 5
+    "win": 6
   },
   "scope_counts": {
-    "local": 23,
+    "local": 24,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-05-16",
+  "latest": "2026-05-23",
   "top_citations": [
+    {
+      "id": "news:gdelt-ee675ea31516f525-tx",
+      "date": "2026-05-23",
+      "jurisdiction": "kilgorenewsherald.com",
+      "title": "Opinion : For the Future of Texas , Pause Data Centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kilgorenewsherald.com/2026/05/23/opinion-for-the-future-of-texas-pause-data-centers"
+    },
     {
       "id": "news:gdelt-8ae01fd6db890281-tx",
       "date": "2026-05-16",
@@ -169,15 +178,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://tiktok.com/@claytontuckertx/video/7632023957792738574"
-    },
-    {
-      "id": "social:youtube-f6e8a569dbee1df6-tx",
-      "date": "2026-04-22",
-      "jurisdiction": "@James Dickey",
-      "title": "Texas's 410 GW Data Center Queue: State Affairs Committee Meeting on ERCOT, Water & the AI Race. Texas's 410 GW Data Center Queue: State Aff",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://youtube.com/watch?v=VX-Vay_jmYY"
     }
   ]
 }
