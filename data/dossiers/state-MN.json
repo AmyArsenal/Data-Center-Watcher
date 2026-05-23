@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MN",
-  "generated_at": "2026-05-23T01:26:49Z",
+  "generated_at": "2026-05-23T04:55:41Z",
   "risk_score": {
-    "score": 49.5,
-    "tier": 23.2,
+    "score": 52.2,
+    "tier": 26.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.5,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.8,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 0,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
-    "restrictive": 2,
+    "restrictive": 3,
     "null": 3
   },
   "outcome_counts": {
     "pending": 2,
-    "win": 2,
+    "win": 3,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 4,
+    "local": 5,
     "statewide": 1
   },
   "issue_top": {
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-15",
-  "latest": "2026-04-24",
+  "latest": "2026-05-23",
   "top_citations": [
+    {
+      "id": "news:gdelt-4ae9f8c6a5bbd35d-mn",
+      "date": "2026-05-23",
+      "jurisdiction": "kare11.com",
+      "title": "There are 60 data centers in Minnesota , a moratorium will pause some new ones in Minneapolis",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kare11.com/article/news/local/there-are-60-data-centers-in-minnesota-a-moratorium-will-pause-some-new-ones-in-minneapolis/89-f340f4cf-e8d8-4061-a519-10e1b0152c8c"
+    },
     {
       "id": "news:rss-dcd-88ddbf6adeec4fd1-mn",
       "date": "2026-04-24",

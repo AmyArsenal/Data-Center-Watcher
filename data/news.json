@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-05-23T01:26:49Z",
+  "generated_at": "2026-05-23T04:55:41Z",
   "window_days": 90,
-  "count": 508,
+  "count": 511,
   "items": [
+    {
+      "id": "gdelt-5bf852197bd35c9c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Protesters rally against STAMP data center plan during Hochul visit in Buffalo",
+      "source_domain": "wgrz.com",
+      "source_name": "wgrz.com",
+      "url": "https://wgrz.com/article/tech/science/environment/protesters-rally-against-stamp-data-center-plan/71-e69d0438-c16e-4ca1-876f-6a9ca4600746",
+      "date": "2026-05-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-23 04:55:40",
+      "url_hash": "5bf852197bd35c9c",
+      "content_hash": "1e03c920f1abc699",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-23T04:55:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-515f0c3ca482bc54",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "We have to get this right : Dubuque County supervisors to consider data center moratorium",
+      "source_domain": "kcrg.com",
+      "source_name": "kcrg.com",
+      "url": "https://kcrg.com/2026/05/22/we-have-get-this-right-dubuque-county-supervisors-consider-data-center-moratorium",
+      "date": "2026-05-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-23 04:55:40",
+      "url_hash": "515f0c3ca482bc54",
+      "content_hash": "1f6ceb459b5166c1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-23T04:55:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4ae9f8c6a5bbd35d",
+      "state": "MN",
+      "city": null,
+      "category": "banned",
+      "headline": "There are 60 data centers in Minnesota , a moratorium will pause some new ones in Minneapolis",
+      "source_domain": "kare11.com",
+      "source_name": "kare11.com",
+      "url": "https://kare11.com/article/news/local/there-are-60-data-centers-in-minnesota-a-moratorium-will-pause-some-new-ones-in-minneapolis/89-f340f4cf-e8d8-4061-a519-10e1b0152c8c",
+      "date": "2026-05-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-23 04:55:40",
+      "url_hash": "4ae9f8c6a5bbd35d",
+      "content_hash": "a0dcce1c93a15972",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-23T04:55:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-473e06c2a15b1b44",
       "state": "US",
@@ -270,7 +390,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-23T01:26:48Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -953,7 +1073,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-23T01:26:48Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1952,7 +2072,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-23T01:26:48Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4505,7 +4625,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-23T01:26:48Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5663,7 +5783,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-23T01:26:48Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8176,7 +8296,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-23T01:26:49Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8417,7 +8537,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-23T01:26:49Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13317,7 +13437,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-23T01:26:48Z",
+      "last_seen": "2026-05-23T04:55:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -20188,6 +20308,19 @@
     }
   ],
   "by_state": {
+    "MN": {
+      "state": "MN",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-05-23"
+    },
     "GA": {
       "state": "GA",
       "count": 4,
@@ -20538,19 +20671,6 @@
         "news": 1
       },
       "latest_date": "2026-05-05"
-    },
-    "MN": {
-      "state": "MN",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-04-24"
     }
   }
 }
