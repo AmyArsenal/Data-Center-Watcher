@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-23T23:39:22Z",
+  "generated_at": "2026-05-24T01:34:16Z",
   "window_days": 90,
-  "count": 513,
+  "count": 514,
   "items": [
+    {
+      "id": "gdelt-f484337c1eff0d76",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Our View : Pause needed to study data centers",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/politics/articles/view-pause-needed-study-data-222000783.html",
+      "date": "2026-05-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-24 01:34:15",
+      "url_hash": "f484337c1eff0d76",
+      "content_hash": "69a0c66eef1c7596",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-24T01:34:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-ee675ea31516f525",
       "state": "TX",
@@ -470,7 +510,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1153,7 +1193,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2152,7 +2192,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4705,7 +4745,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5863,7 +5903,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8376,7 +8416,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8617,7 +8657,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13517,7 +13557,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-23T23:39:22Z",
+      "last_seen": "2026-05-24T01:34:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
