@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:45:48Z",
-  "count": 876,
+  "generated_at": "2026-05-24T08:12:05Z",
+  "count": 878,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,96 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-650ce7009970df33-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tctimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Township renews moratoriums on data centers , medical marijuana facilities",
+      "sources": [
+        "https://tctimes.com/articles/news/township-renews-moratoriums-on-data-centers-medical-marijuana-facilities"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-24T08:12:04Z",
+      "first_seen": "2026-05-24T08:12:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-79e8f5c1f6a96c25-wa",
+      "origin": "news",
+      "state": "WA",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Washington Township passes six - month moratorium on data centers",
+      "sources": [
+        "https://yahoo.com/news/us/articles/washington-township-passes-six-month-020130272.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-24T08:12:04Z",
+      "first_seen": "2026-05-24T08:12:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-4ae9f8c6a5bbd35d-mn",
@@ -41197,6 +41287,64 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "WA": {
+      "state": "WA",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 3,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-05-24",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "US": {
+      "state": "US",
+      "count": 368,
+      "outcome_counts": {
+        "pending": 237,
+        "win": 121,
+        "loss": 10,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 358,
+        "protective": 0,
+        "supportive": 10,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 364,
+        "statewide": 2,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 83,
+        "zoning": 27,
+        "grid_energy": 11
+      },
+      "latest_date": "2026-05-24",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "MN": {
       "state": "MN",
       "count": 6,
@@ -41225,35 +41373,6 @@
       "latest_date": "2026-05-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 367,
-      "outcome_counts": {
-        "pending": 236,
-        "win": 121,
-        "loss": 10,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 357,
-        "protective": 0,
-        "supportive": 10,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 363,
-        "statewide": 2,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 83,
-        "zoning": 27,
-        "grid_energy": 11
-      },
-      "latest_date": "2026-05-23",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "TX": {
       "state": "TX",
@@ -41805,35 +41924,6 @@
       "latest_date": "2026-05-13",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "WA": {
-      "state": "WA",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 2,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 3,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-05-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "KS": {
       "state": "KS",

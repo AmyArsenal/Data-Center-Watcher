@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-05-24T05:45:48Z",
+  "generated_at": "2026-05-24T08:12:05Z",
   "risk_score": {
-    "score": 47.9,
-    "tier": 15.2,
-    "engagement": 8.8,
-    "recency": 14.9,
-    "multi_source": 4.0,
+    "score": 55.1,
+    "tier": 19.3,
+    "engagement": 8.3,
+    "recency": 19.1,
+    "multi_source": 3.3,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.1,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 44.9,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 1,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
-    "win": 2,
+    "win": 3,
     "pending": 2,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "tax_incentive": 3,
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-05-12",
+  "latest": "2026-05-24",
   "top_citations": [
+    {
+      "id": "news:gdelt-79e8f5c1f6a96c25-wa",
+      "date": "2026-05-24",
+      "jurisdiction": "yahoo.com",
+      "title": "Washington Township passes six - month moratorium on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://yahoo.com/news/us/articles/washington-township-passes-six-month-020130272.html"
+    },
     {
       "id": "news:gdelt-c32118cc6be9984a-wa",
       "date": "2026-05-12",

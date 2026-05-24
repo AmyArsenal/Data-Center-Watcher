@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-24T05:45:48Z",
+  "generated_at": "2026-05-24T08:12:05Z",
   "states": [
     {
       "state": "AK",
@@ -648,16 +648,16 @@
     },
     {
       "state": "WA",
-      "count": 5,
-      "risk_score": 47.9,
-      "grade": "C",
-      "grade_score": 52.1,
-      "moratoriums": 0,
+      "count": 6,
+      "risk_score": 55.1,
+      "grade": "D",
+      "grade_score": 44.9,
+      "moratoriums": 1,
       "approvals": 1,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-12",
+      "latest": "2026-05-24",
       "url": "data/dossiers/state-WA.json"
     },
     {
