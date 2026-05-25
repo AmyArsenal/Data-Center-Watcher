@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-25T17:55:54Z",
+  "generated_at": "2026-05-25T19:13:10Z",
   "window_days": 90,
-  "count": 516,
+  "count": 517,
   "items": [
+    {
+      "id": "rss-dcd-693e970181f8c143",
+      "state": "OR",
+      "city": null,
+      "category": "announced",
+      "headline": "Boxminer plans 20MW crypto data center in La Pine, Oregon",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/boxminer-plans-20mw-crypto-data-center-in-la-pine-oregon",
+      "date": "2026-05-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-25 19:13:10",
+      "url_hash": "693e970181f8c143",
+      "content_hash": "17539f4a79e56fa3",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Residents up in arms about proposal",
+      "last_seen": "2026-05-25T19:13:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/boxminer-plans-20mw-crypto-data-center-in-la-pine-oregon/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-650ce7009970df33",
       "state": "US",
@@ -590,7 +629,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1273,7 +1312,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2272,7 +2311,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4825,7 +4864,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5983,7 +6022,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8496,7 +8535,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8737,7 +8776,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13637,7 +13676,7 @@
         "rss-canary"
       ],
       "snippet": "As data centers drive electricity demand to new heights and consumers struggle with rising energy costs, cheap, clean power remains out of reach in much of Virginia: Nearly two-thirds of counties outright ban or severely restrict large solar farms. But that’s about to change. Virginia Gov. Abigail Spanberger, a…",
-      "last_seen": "2026-05-25T17:55:54Z",
+      "last_seen": "2026-05-25T19:13:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -20508,6 +20547,19 @@
     }
   ],
   "by_state": {
+    "OR": {
+      "state": "OR",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "announced": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-25"
+    },
     "WA": {
       "state": "WA",
       "count": 2,
@@ -20846,18 +20898,6 @@
       "platforms": {
         "news": 2,
         "reddit": 1
-      },
-      "latest_date": "2026-05-08"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-05-08"
     },

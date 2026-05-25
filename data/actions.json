@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T17:55:54Z",
-  "count": 878,
+  "generated_at": "2026-05-25T19:13:10Z",
+  "count": 879,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-693e970181f8c143-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-25",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Boxminer plans 20MW crypto data center in La Pine, Oregon. Residents up in arms about proposal",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/boxminer-plans-20mw-crypto-data-center-in-la-pine-oregon"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-25T19:13:10Z",
+      "first_seen": "2026-05-25T19:13:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:gdelt-650ce7009970df33-us",
@@ -41287,6 +41334,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "OR": {
+      "state": "OR",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 3,
+        "win": 2,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 1,
+        "environmental": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-05-25",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "WA": {
       "state": "WA",
       "count": 6,
@@ -42009,35 +42085,6 @@
         "ratepayer": 2
       },
       "latest_date": "2026-05-11",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "environmental": 1,
-        "ratepayer": 1,
-        "tax_incentive": 1
-      },
-      "latest_date": "2026-05-08",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-05-25T17:55:54Z",
+  "generated_at": "2026-05-25T19:13:10Z",
   "risk_score": {
-    "score": 49.2,
-    "tier": 17.6,
-    "engagement": 8.8,
-    "recency": 13.9,
-    "multi_source": 4.0,
+    "score": 49.6,
+    "tier": 14.7,
+    "engagement": 8.3,
+    "recency": 18.2,
+    "multi_source": 3.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 50.8,
+    "score": 50.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 2,
     "lawsuits": 1,
     "blocked": 0,
@@ -26,25 +26,28 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 1
+    "restrictive": 1,
+    "supportive": 1
   },
   "outcome_counts": {
     "pending": 3,
-    "win": 2
+    "win": 2,
+    "loss": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "tax_incentive": 1,
     "ratepayer": 1,
     "water": 1,
-    "environmental": 1
+    "environmental": 1,
+    "community_impact": 1
   },
   "companies": [
     [
@@ -54,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-05-08",
+  "latest": "2026-05-25",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-693e970181f8c143-or",
+      "date": "2026-05-25",
+      "jurisdiction": "DCD",
+      "title": "Boxminer plans 20MW crypto data center in La Pine, Oregon. Residents up in arms about proposal",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/boxminer-plans-20mw-crypto-data-center-in-la-pine-oregon"
+    },
     {
       "id": "news:rss-rto-insider-c8d6d02ffc503815-or",
       "date": "2026-05-08",
