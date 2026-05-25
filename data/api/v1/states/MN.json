@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MN",
-  "generated_at": "2026-05-24T23:40:36Z",
+  "generated_at": "2026-05-25T01:36:42Z",
   "risk_score": {
-    "score": 52.2,
+    "score": 50.0,
     "tier": 26.0,
     "engagement": 6.2,
-    "recency": 20.0,
+    "recency": 17.8,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "D",
-    "score": 47.8,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 50.0,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 4,
