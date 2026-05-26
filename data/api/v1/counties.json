@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-05-25T23:53:42Z",
+  "generated_at": "2026-05-26T01:52:11Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -61,7 +61,7 @@
       "county_name": "Portage County",
       "state": "OH",
       "count": 3,
-      "risk_score": 56.9,
+      "risk_score": 50.2,
       "latest": "2026-04-25",
       "url": "data/dossiers/county-39133.json"
     },

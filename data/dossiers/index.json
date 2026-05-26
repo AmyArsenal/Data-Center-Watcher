@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-25T23:53:42Z",
+  "generated_at": "2026-05-26T01:52:11Z",
   "states": [
     {
       "state": "AK",
@@ -285,9 +285,9 @@
     {
       "state": "ME",
       "count": 46,
-      "risk_score": 69.5,
+      "risk_score": 67.3,
       "grade": "F",
-      "grade_score": 30.5,
+      "grade_score": 32.7,
       "moratoriums": 27,
       "approvals": 1,
       "denials": 38,
@@ -327,9 +327,9 @@
     {
       "state": "MO",
       "count": 16,
-      "risk_score": 51.8,
+      "risk_score": 51.2,
       "grade": "D",
-      "grade_score": 48.2,
+      "grade_score": 48.8,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 4,
@@ -425,9 +425,9 @@
     {
       "state": "NJ",
       "count": 26,
-      "risk_score": 53.3,
+      "risk_score": 53.0,
       "grade": "D",
-      "grade_score": 46.7,
+      "grade_score": 47.0,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 8,
@@ -578,16 +578,16 @@
     },
     {
       "state": "TN",
-      "count": 2,
-      "risk_score": 26.9,
+      "count": 3,
+      "risk_score": 46.7,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
       "approvals": 0,
-      "denials": 0,
+      "denials": 1,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-04-14",
+      "latest": "2026-05-26",
       "url": "data/dossiers/state-TN.json"
     },
     {
@@ -763,7 +763,7 @@
       "county_name": "Portage County",
       "state": "OH",
       "count": 3,
-      "risk_score": 56.9,
+      "risk_score": 50.2,
       "latest": "2026-04-25",
       "url": "data/dossiers/county-39133.json"
     },
