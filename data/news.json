@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-05-26T09:31:21Z",
+  "generated_at": "2026-05-26T16:23:34Z",
   "window_days": 90,
-  "count": 522,
+  "count": 524,
   "items": [
+    {
+      "id": "rss-dcd-6ab36e32a8060773",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "SoftBank Corp. to launch 'AI Data Center GPU Cloud' offering in Japan",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/softbank-corp-to-launch-ai-data-center-gpu-cloud-offering-in-japan",
+      "date": "2026-05-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-26 16:23:33",
+      "url_hash": "6ab36e32a8060773",
+      "content_hash": "a13f57472a99a56a",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Will be available in October 2026 as part of its neocloud business",
+      "last_seen": "2026-05-26T16:23:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/softbank-corp-to-launch-ai-data-center-gpu-cloud-offering-in-japan/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-9afd14590f7cbc8e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "SoftBank power subsidiary SB Energy to file for IPO",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/softbank-power-subsidary-sb-energy-to-file-for-ipo",
+      "date": "2026-05-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-26 16:23:33",
+      "url_hash": "9afd14590f7cbc8e",
+      "content_hash": "931106e92bddf774",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Will support its ability to provide power infrastructure to the data center market",
+      "last_seen": "2026-05-26T16:23:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/softbank-power-subsidary-sb-energy-to-file-for-ipo/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-c4d4bf30b6e60635",
       "state": "TN",
@@ -829,7 +907,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-26T09:31:21Z",
+      "last_seen": "2026-05-26T16:23:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1512,7 +1590,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-26T09:31:21Z",
+      "last_seen": "2026-05-26T16:23:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2511,7 +2589,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-26T09:31:21Z",
+      "last_seen": "2026-05-26T16:23:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5064,7 +5142,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-26T09:31:21Z",
+      "last_seen": "2026-05-26T16:23:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6222,7 +6300,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-26T09:31:21Z",
+      "last_seen": "2026-05-26T16:23:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8735,7 +8813,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-26T09:31:21Z",
+      "last_seen": "2026-05-26T16:23:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8976,7 +9054,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-26T09:31:21Z",
+      "last_seen": "2026-05-26T16:23:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T09:31:21Z",
-  "count": 884,
+  "generated_at": "2026-05-26T16:23:34Z",
+  "count": 886,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -112,6 +112,96 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-6ab36e32a8060773-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-26",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "SoftBank Corp. to launch 'AI Data Center GPU Cloud' offering in Japan. Will be available in October 2026 as part of its neocloud business",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/softbank-corp-to-launch-ai-data-center-gpu-cloud-offering-in-japan"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-26T16:23:33Z",
+      "first_seen": "2026-05-26T16:23:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dcd-9afd14590f7cbc8e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "SoftBank power subsidiary SB Energy to file for IPO. Will support its ability to provide power infrastructure to the data center market",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/softbank-power-subsidary-sb-energy-to-file-for-ipo"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-26T16:23:33Z",
+      "first_seen": "2026-05-26T16:23:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-705bf8b25965eeec-us",
@@ -41590,6 +41680,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "US": {
+      "state": "US",
+      "count": 374,
+      "outcome_counts": {
+        "pending": 240,
+        "win": 123,
+        "loss": 11,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 363,
+        "protective": 0,
+        "supportive": 11,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 370,
+        "statewide": 2,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 84,
+        "zoning": 27,
+        "grid_energy": 11
+      },
+      "latest_date": "2026-05-26",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OR": {
       "state": "OR",
       "count": 6,
@@ -41614,35 +41733,6 @@
         "community_impact": 1,
         "environmental": 1,
         "ratepayer": 1
-      },
-      "latest_date": "2026-05-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 372,
-      "outcome_counts": {
-        "pending": 239,
-        "win": 123,
-        "loss": 10,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 362,
-        "protective": 0,
-        "supportive": 10,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 368,
-        "statewide": 2,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 84,
-        "zoning": 27,
-        "grid_energy": 11
       },
       "latest_date": "2026-05-25",
       "map_color_tier": "restrictive",
