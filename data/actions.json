@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T18:40:08Z",
-  "count": 886,
+  "generated_at": "2026-05-26T20:33:58Z",
+  "count": 887,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-a77f6d6179a18ffe-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "timesherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Guest column : Data centers must have community consent",
+      "sources": [
+        "https://timesherald.com/2026/05/26/guest-column-data-centers-must-have-community-consent"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-26T20:33:58Z",
+      "first_seen": "2026-05-26T20:33:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-c4d4bf30b6e60635-tn",
@@ -41682,26 +41729,26 @@
     },
     "US": {
       "state": "US",
-      "count": 374,
+      "count": 375,
       "outcome_counts": {
-        "pending": 240,
+        "pending": 241,
         "win": 123,
         "loss": 11,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 363,
+        "restrictive": 364,
         "protective": 0,
         "supportive": 11,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 370,
+        "local": 371,
         "statewide": 2,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 84,
+        "community_impact": 85,
         "zoning": 27,
         "grid_energy": 11
       },
