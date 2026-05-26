@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T05:56:01Z",
+  "generated_at": "2026-05-26T08:45:40Z",
   "tier_timestamps": {
     "fast": "2026-05-26T05:56:01Z",
-    "bills": "2026-05-26T04:26:50Z"
+    "bills": "2026-05-26T08:45:40Z"
   },
   "counts_by_source": {
     "gdelt": 320,
@@ -38,6 +38,13 @@
       "rss-canary": 2,
       "rss-dck": 6,
       "gdelt": 1
-    }
+    },
+    "bills_last_run_seconds": 264.09,
+    "bills_raw_fetched": 0,
+    "bills_inserted": 0,
+    "bills_updated": 0,
+    "bills_noop": 0,
+    "bills_total_in_json": 193,
+    "bills_states_with_bills": 16
   }
 }
