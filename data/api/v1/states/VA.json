@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-05-26T23:21:12Z",
+  "generated_at": "2026-05-27T01:31:24Z",
   "risk_score": {
-    "score": 51.6,
-    "tier": 18.5,
-    "engagement": 10.2,
-    "recency": 11.6,
-    "multi_source": 6.3,
+    "score": 52.4,
+    "tier": 19.1,
+    "engagement": 10.1,
+    "recency": 12.1,
+    "multi_source": 6.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.4,
+    "score": 47.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 38,
+  "count": 39,
   "tier_counts": {
-    "restrictive": 8,
+    "restrictive": 9,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 16,
-    "pending": 18,
+    "pending": 19,
     "loss": 2,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 14,
+    "local": 15,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-05-19",
+  "latest": "2026-05-26",
   "top_citations": [
+    {
+      "id": "news:gdelt-f72afeae8f871477-va",
+      "date": "2026-05-26",
+      "jurisdiction": "cavalierdaily.com",
+      "title": "TAYLOR : AI data centers increase Virginia urban - rural divide - The Cavalier Daily - University of Virginia Student Newspaper",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://cavalierdaily.com/article/2026/05/taylor-ai-data-centers-increase-the-urban-rural-divide"
+    },
     {
       "id": "news:rss-dck-fbe9ee434ad68e60-va",
       "date": "2026-05-19",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://virginiamercury.com/briefs/va-court-of-appeals-stops-major-data-center-development-in-prince-william-county/"
-    },
-    {
-      "id": "research:va-virginia-court-of-appeals-20260331-three-judge-va-court-of-appeals-panel-affirmed-low",
-      "date": "2026-03-31",
-      "jurisdiction": "Virginia Court of Appeals",
-      "title": "Three-judge VA Court of Appeals panel affirmed lower court decision invalidating Prince William's December 2023 rezoning of 2,100-acre, 22-m",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.nbcwashington.com/news/local/prince-william-digital-gateway-project-halted-by-virginia-court-of-appeals/4084112/"
     }
   ]
 }

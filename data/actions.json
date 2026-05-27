@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T23:21:12Z",
-  "count": 887,
+  "generated_at": "2026-05-27T01:31:24Z",
+  "count": 894,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -69,6 +69,231 @@
       "tier_reason": null
     },
     {
+      "id": "news:gdelt-45c6d1a52e91868f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nystateofpolitics.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "N . Y . small business urge state data center moratorium",
+      "sources": [
+        "https://nystateofpolitics.com/state-of-politics/new-york/politics/2026/05/26/n-y--small-business-urge-state-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T01:31:23Z",
+      "first_seen": "2026-05-27T01:31:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-705074b90bcad2af-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wfmz.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-27",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "East Vincent rejects Pennhurst data center proposal ; Developer plans to take fight to court",
+      "sources": [
+        "https://wfmz.com/news/area/southeastern-pa/northern-chester-county/east-vincent-rejects-pennhurst-data-center-proposal-developer-plans-to-take-fight-to-court/article_a2a347e4-0a34-4842-b366-cdb732326783.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T01:31:23Z",
+      "first_seen": "2026-05-27T01:31:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-85ed14ad0e25db51-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "y95country.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-26",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Cheyenne City Council To Discuss Data Center Moratorium Tonight",
+      "sources": [
+        "https://y95country.com/ixp/99/p/cheyenne-data-center-moratorium-3"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T01:31:23Z",
+      "first_seen": "2026-05-27T01:31:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-8e4b155df3ba5b1a-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "business2community.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-26",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Nearly 500 New York Small Businesses Back Moratorium Push on AI Data Centers",
+      "sources": [
+        "https://business2community.com/small-business/ny-small-businesses-ai-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T01:31:23Z",
+      "first_seen": "2026-05-27T01:31:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-8e893c56feaef6a2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "sanangelolive.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-26",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Tom Green County Tables Data Center , Green Energy Moratorium",
+      "sources": [
+        "https://sanangelolive.com/news/san-angelo/2026-05-26/tom-green-county-tables-data-center-green-energy-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T01:31:23Z",
+      "first_seen": "2026-05-27T01:31:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-a77f6d6179a18ffe-us",
       "origin": "news",
       "state": "US",
@@ -110,6 +335,51 @@
       "data_source": "news",
       "last_updated": "2026-05-26T20:33:58Z",
       "first_seen": "2026-05-26T20:33:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b3d4ad8611847916-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "terradaily.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Activist Erin Brockovich takes on US Big Tech data center boom",
+      "sources": [
+        "https://terradaily.com/afp/260526181224.iq5tdtvy.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T01:31:23Z",
+      "first_seen": "2026-05-27T01:31:24Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -159,6 +429,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f72afeae8f871477-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "cavalierdaily.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "TAYLOR : AI data centers increase Virginia urban - rural divide - The Cavalier Daily - University of Virginia Student Newspaper",
+      "sources": [
+        "https://cavalierdaily.com/article/2026/05/taylor-ai-data-centers-increase-the-urban-rural-divide"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T01:31:23Z",
+      "first_seen": "2026-05-27T01:31:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-6ab36e32a8060773-us",
@@ -41698,6 +42015,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "US": {
+      "state": "US",
+      "count": 380,
+      "outcome_counts": {
+        "pending": 242,
+        "win": 127,
+        "loss": 11,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 369,
+        "protective": 0,
+        "supportive": 11,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 376,
+        "statewide": 2,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 85,
+        "zoning": 27,
+        "grid_energy": 11
+      },
+      "latest_date": "2026-05-27",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "TN": {
       "state": "TN",
       "count": 3,
@@ -41727,30 +42073,59 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
-    "US": {
-      "state": "US",
-      "count": 375,
+    "NY": {
+      "state": "NY",
+      "count": 5,
       "outcome_counts": {
-        "pending": 241,
-        "win": 123,
-        "loss": 11,
+        "pending": 4,
+        "win": 1,
+        "loss": 0,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 364,
+        "restrictive": 2,
         "protective": 0,
-        "supportive": 11,
+        "supportive": 0,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 371,
+        "local": 3,
         "statewide": 2,
-        "federal": 2
+        "federal": 0
       },
       "issue_top": {
-        "community_impact": 85,
-        "zoning": 27,
-        "grid_energy": 11
+        "grid_energy": 4,
+        "community_impact": 2,
+        "environmental": 2
+      },
+      "latest_date": "2026-05-26",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "VA": {
+      "state": "VA",
+      "count": 39,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 16,
+        "loss": 2,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 9,
+        "protective": 3,
+        "supportive": 1,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 15,
+        "statewide": 24,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "zoning": 9,
+        "environmental": 5
       },
       "latest_date": "2026-05-26",
       "map_color_tier": "restrictive",
@@ -42103,64 +42478,6 @@
       "latest_date": "2026-05-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 38,
-      "outcome_counts": {
-        "pending": 18,
-        "win": 16,
-        "loss": 2,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 8,
-        "protective": 3,
-        "supportive": 1,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 14,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 9,
-        "zoning": 9,
-        "environmental": 5
-      },
-      "latest_date": "2026-05-19",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 4,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 0,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 4,
-        "community_impact": 2,
-        "environmental": 2
-      },
-      "latest_date": "2026-05-18",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "MO": {
       "state": "MO",

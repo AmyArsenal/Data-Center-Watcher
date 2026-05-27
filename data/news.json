@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-05-26T23:21:12Z",
+  "generated_at": "2026-05-27T01:31:24Z",
   "window_days": 90,
-  "count": 525,
+  "count": 532,
   "items": [
+    {
+      "id": "gdelt-705074b90bcad2af",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "East Vincent rejects Pennhurst data center proposal ; Developer plans to take fight to court",
+      "source_domain": "wfmz.com",
+      "source_name": "wfmz.com",
+      "url": "https://wfmz.com/news/area/southeastern-pa/northern-chester-county/east-vincent-rejects-pennhurst-data-center-proposal-developer-plans-to-take-fight-to-court/article_a2a347e4-0a34-4842-b366-cdb732326783.html",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 01:31:23",
+      "url_hash": "705074b90bcad2af",
+      "content_hash": "1f55b7a01a19316e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T01:31:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-45c6d1a52e91868f",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "N . Y . small business urge state data center moratorium",
+      "source_domain": "nystateofpolitics.com",
+      "source_name": "nystateofpolitics.com",
+      "url": "https://nystateofpolitics.com/state-of-politics/new-york/politics/2026/05/26/n-y--small-business-urge-state-data-center-moratorium",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 01:31:23",
+      "url_hash": "45c6d1a52e91868f",
+      "content_hash": "285b4b8b0a06fe6f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T01:31:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-85ed14ad0e25db51",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Cheyenne City Council To Discuss Data Center Moratorium Tonight",
+      "source_domain": "y95country.com",
+      "source_name": "y95country.com",
+      "url": "https://y95country.com/ixp/99/p/cheyenne-data-center-moratorium-3",
+      "date": "2026-05-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 01:31:23",
+      "url_hash": "85ed14ad0e25db51",
+      "content_hash": "184d4d62972aa320",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T01:31:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-f72afeae8f871477",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "TAYLOR : AI data centers increase Virginia urban - rural divide - The Cavalier Daily - University of Virginia Student Newspaper",
+      "source_domain": "cavalierdaily.com",
+      "source_name": "cavalierdaily.com",
+      "url": "https://cavalierdaily.com/article/2026/05/taylor-ai-data-centers-increase-the-urban-rural-divide",
+      "date": "2026-05-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 01:31:23",
+      "url_hash": "f72afeae8f871477",
+      "content_hash": "7a887526a2e3f0f8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T01:31:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b3d4ad8611847916",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Activist Erin Brockovich takes on US Big Tech data center boom",
+      "source_domain": "terradaily.com",
+      "source_name": "terradaily.com",
+      "url": "https://terradaily.com/afp/260526181224.iq5tdtvy.html",
+      "date": "2026-05-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 01:31:23",
+      "url_hash": "b3d4ad8611847916",
+      "content_hash": "5a603ffb0523d4f3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T01:31:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-8e893c56feaef6a2",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Tom Green County Tables Data Center , Green Energy Moratorium",
+      "source_domain": "sanangelolive.com",
+      "source_name": "sanangelolive.com",
+      "url": "https://sanangelolive.com/news/san-angelo/2026-05-26/tom-green-county-tables-data-center-green-energy-moratorium",
+      "date": "2026-05-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 01:31:23",
+      "url_hash": "8e893c56feaef6a2",
+      "content_hash": "88a5d422b8536e9a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T01:31:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-8e4b155df3ba5b1a",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "Nearly 500 New York Small Businesses Back Moratorium Push on AI Data Centers",
+      "source_domain": "business2community.com",
+      "source_name": "business2community.com",
+      "url": "https://business2community.com/small-business/ny-small-businesses-ai-data-center-moratorium",
+      "date": "2026-05-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 01:31:23",
+      "url_hash": "8e4b155df3ba5b1a",
+      "content_hash": "599e618c2e2e103d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T01:31:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-a77f6d6179a18ffe",
       "state": "US",
@@ -70,7 +350,7 @@
         "rss-dcd"
       ],
       "snippet": "Will be available in October 2026 as part of its neocloud business",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +389,7 @@
         "rss-dcd"
       ],
       "snippet": "Will support its ability to provide power infrastructure to the data center market",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -947,7 +1227,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1630,7 +1910,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2629,7 +2909,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5182,7 +5462,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6340,7 +6620,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8853,7 +9133,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9094,7 +9374,7 @@
         "rss-dck"
       ],
       "snippet": "Unpredictable power swings from AI data centers are forcing utilities to model how these facilities behave during disturbances – not just how much electricity they consume.",
-      "last_seen": "2026-05-26T23:21:12Z",
+      "last_seen": "2026-05-27T01:31:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -20865,6 +21145,35 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 9,
+      "total_engagement": 172,
+      "categories": {
+        "protested": 6,
+        "announced": 1,
+        "banned": 1,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 8,
+        "legal": 1
+      },
+      "latest_date": "2026-05-26"
+    },
+    "NY": {
+      "state": "NY",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-26"
+    },
     "TN": {
       "state": "TN",
       "count": 1,
@@ -21001,22 +21310,6 @@
       },
       "latest_date": "2026-05-21"
     },
-    "VA": {
-      "state": "VA",
-      "count": 8,
-      "total_engagement": 172,
-      "categories": {
-        "protested": 5,
-        "announced": 1,
-        "banned": 1,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 7,
-        "legal": 1
-      },
-      "latest_date": "2026-05-19"
-    },
     "OK": {
       "state": "OK",
       "count": 4,
@@ -21076,18 +21369,6 @@
         "reddit": 2,
         "x": 3,
         "tiktok": 1
-      },
-      "latest_date": "2026-05-18"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-05-18"
     },

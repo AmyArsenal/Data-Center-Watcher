@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-05-26T23:21:12Z",
+  "generated_at": "2026-05-27T01:31:24Z",
   "states": [
     {
       "state": "AK",
@@ -89,9 +89,9 @@
     {
       "state": "CT",
       "count": 12,
-      "risk_score": 37.9,
+      "risk_score": 37.1,
       "grade": "C",
-      "grade_score": 62.1,
+      "grade_score": 62.9,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 3,
@@ -285,9 +285,9 @@
     {
       "state": "ME",
       "count": 46,
-      "risk_score": 67.3,
+      "risk_score": 66.1,
       "grade": "F",
-      "grade_score": 32.7,
+      "grade_score": 33.9,
       "moratoriums": 27,
       "approvals": 1,
       "denials": 38,
@@ -466,16 +466,16 @@
     },
     {
       "state": "NY",
-      "count": 4,
-      "risk_score": 44.6,
-      "grade": "N/A",
-      "grade_score": null,
-      "moratoriums": 1,
+      "count": 5,
+      "risk_score": 52.7,
+      "grade": "D",
+      "grade_score": 47.3,
+      "moratoriums": 2,
       "approvals": 0,
-      "denials": 0,
+      "denials": 1,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-05-18",
+      "latest": "2026-05-26",
       "url": "data/dossiers/state-NY.json"
     },
     {
@@ -523,9 +523,9 @@
     {
       "state": "PA",
       "count": 27,
-      "risk_score": 43.2,
+      "risk_score": 42.9,
       "grade": "C",
-      "grade_score": 56.8,
+      "grade_score": 57.1,
       "moratoriums": 1,
       "approvals": 2,
       "denials": 9,
@@ -593,9 +593,9 @@
     {
       "state": "TX",
       "count": 28,
-      "risk_score": 56.8,
+      "risk_score": 56.4,
       "grade": "D",
-      "grade_score": 43.2,
+      "grade_score": 43.6,
       "moratoriums": 2,
       "approvals": 2,
       "denials": 6,
@@ -620,16 +620,16 @@
     },
     {
       "state": "VA",
-      "count": 38,
-      "risk_score": 51.6,
+      "count": 39,
+      "risk_score": 52.4,
       "grade": "D",
-      "grade_score": 48.4,
+      "grade_score": 47.6,
       "moratoriums": 1,
       "approvals": 2,
       "denials": 16,
       "lawsuits": 3,
       "active_companies": 3,
-      "latest": "2026-05-19",
+      "latest": "2026-05-26",
       "url": "data/dossiers/state-VA.json"
     },
     {
