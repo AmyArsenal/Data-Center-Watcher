@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-05-27T16:56:23Z",
+  "generated_at": "2026-05-27T19:14:01Z",
   "window_days": 90,
-  "count": 538,
+  "count": 542,
   "items": [
+    {
+      "id": "gdelt-df895a7903d19ff4",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "People vs . Machines : Texas County Pushes Pause On Data Center Construction As Project Risks Expand Nationally Amid Public Opposition",
+      "source_domain": "mondaq.com",
+      "source_name": "mondaq.com",
+      "url": "https://mondaq.com/unitedstates/land-law-agriculture/1791852/people-vs-machines-texas-county-pushes-pause-on-data-center-construction-as-project-risks-expand-nationally-amid-public-opposition",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 19:14:00",
+      "url_hash": "df895a7903d19ff4",
+      "content_hash": "d077dc07b4f87f25",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T19:14:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-20a1aa85753e049e",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Dubuque County supervisors approve temporary moratorium on new data center proposals",
+      "source_domain": "cbs2iowa.com",
+      "source_name": "cbs2iowa.com",
+      "url": "https://cbs2iowa.com/news/local/dubuque-county-supervisors-approve-temporary-moratorium-on-new-data-center-proposals",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 19:14:00",
+      "url_hash": "20a1aa85753e049e",
+      "content_hash": "1e76f19ee1c2efb7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T19:14:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-da2a3d9b1cd03ce2",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "York County Planning & Zoning Committee Recommends 9 - Month Data Center Moratorium , Advances Industrial Use Amendments",
+      "source_domain": "wrhi.com",
+      "source_name": "wrhi.com",
+      "url": "https://wrhi.com/2026/05/york-county-planning-zoning-committee-recommends-9-month-data-center-moratorium-advances-industrial-use-amendments-213070",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 19:14:00",
+      "url_hash": "da2a3d9b1cd03ce2",
+      "content_hash": "1e85c25534a133de",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T19:14:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-98db8e2422cad56b",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center ban proposal paused by Inver Grove Heights City Council",
+      "source_domain": "fox9.com",
+      "source_name": "fox9.com",
+      "url": "https://fox9.com/news/data-center-ban-proposal-paused-inver-grove-heights-city-council",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 19:14:00",
+      "url_hash": "98db8e2422cad56b",
+      "content_hash": "06e8cc5d5bb953a8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T19:14:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-db539392a45337fe",
       "state": "OH",
@@ -30,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -72,7 +232,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -152,7 +312,7 @@
         "rss-dcd"
       ],
       "snippet": "Latest in series of moratoria approved in Minnesota",
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1468,7 +1628,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2151,7 +2311,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3150,7 +3310,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5703,7 +5863,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6861,7 +7021,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-27T16:56:22Z",
+      "last_seen": "2026-05-27T19:14:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -21386,6 +21546,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 14,
+      "total_engagement": 629,
+      "categories": {
+        "banned": 4,
+        "protested": 10
+      },
+      "platforms": {
+        "news": 10,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-05-27"
+    },
     "OH": {
       "state": "OH",
       "count": 15,
@@ -21496,22 +21672,6 @@
         "news": 2
       },
       "latest_date": "2026-05-24"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 13,
-      "total_engagement": 629,
-      "categories": {
-        "banned": 3,
-        "protested": 10
-      },
-      "platforms": {
-        "news": 9,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-05-23"
     },
     "GA": {
       "state": "GA",

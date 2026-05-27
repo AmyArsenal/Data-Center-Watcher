@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-05-27T16:56:23Z",
+  "generated_at": "2026-05-27T19:14:01Z",
   "risk_score": {
-    "score": 56.4,
-    "tier": 25.0,
+    "score": 57.3,
+    "tier": 25.5,
     "engagement": 6.5,
-    "recency": 19.6,
-    "multi_source": 0.4,
+    "recency": 20.0,
+    "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.6,
+    "score": 42.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 2,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 1,
     "blocked": 2,
     "active_companies": 8,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 28,
+  "count": 29,
   "tier_counts": {
-    "restrictive": 13,
+    "restrictive": 14,
     "null": 15
   },
   "outcome_counts": {
     "pending": 17,
     "mixed": 3,
     "loss": 2,
-    "win": 6
+    "win": 7
   },
   "scope_counts": {
-    "local": 24,
+    "local": 25,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-05-23",
+  "latest": "2026-05-27",
   "top_citations": [
+    {
+      "id": "news:gdelt-df895a7903d19ff4-tx",
+      "date": "2026-05-27",
+      "jurisdiction": "mondaq.com",
+      "title": "People vs . Machines : Texas County Pushes Pause On Data Center Construction As Project Risks Expand Nationally Amid Public Opposition",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://mondaq.com/unitedstates/land-law-agriculture/1791852/people-vs-machines-texas-county-pushes-pause-on-data-center-construction-as-project-risks-expand-nationally-amid-public-opposition"
+    },
     {
       "id": "news:gdelt-ee675ea31516f525-tx",
       "date": "2026-05-23",
@@ -169,15 +178,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://tiktok.com/@mrs.reginajass0/video/7632021957269097758"
-    },
-    {
-      "id": "social:tiktok-c72543305176b025-tx",
-      "date": "2026-04-23",
-      "jurisdiction": "@claytontuckertx",
-      "title": "Data centers don't just take land and water. They may also take our health. Early reports show negative side effects for both people and liv",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://tiktok.com/@claytontuckertx/video/7632023957792738574"
     }
   ]
 }

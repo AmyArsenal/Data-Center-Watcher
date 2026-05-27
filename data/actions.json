@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T16:56:23Z",
-  "count": 900,
+  "generated_at": "2026-05-27T19:14:01Z",
+  "count": 904,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -108,6 +108,51 @@
       "data_source": "news",
       "last_updated": "2026-05-27T10:17:52Z",
       "first_seen": "2026-05-27T10:17:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-20a1aa85753e049e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cbs2iowa.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "county_commission",
+      "date": "2026-05-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Dubuque County supervisors approve temporary moratorium on new data center proposals",
+      "sources": [
+        "https://cbs2iowa.com/news/local/dubuque-county-supervisors-approve-temporary-moratorium-on-new-data-center-proposals"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T19:14:00Z",
+      "first_seen": "2026-05-27T19:14:01Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -294,6 +339,51 @@
       "tier_reason": "cancelled"
     },
     {
+      "id": "news:gdelt-98db8e2422cad56b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fox9.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-05-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center ban proposal paused by Inver Grove Heights City Council",
+      "sources": [
+        "https://fox9.com/news/data-center-ban-proposal-paused-inver-grove-heights-city-council"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T19:14:00Z",
+      "first_seen": "2026-05-27T19:14:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-d61114af89e24fd8-us",
       "origin": "news",
       "state": "US",
@@ -341,6 +431,53 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-da2a3d9b1cd03ce2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wrhi.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "York County Planning & Zoning Committee Recommends 9 - Month Data Center Moratorium , Advances Industrial Use Amendments",
+      "sources": [
+        "https://wrhi.com/2026/05/york-county-planning-zoning-committee-recommends-9-month-data-center-moratorium-advances-industrial-use-amendments-213070"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T19:14:00Z",
+      "first_seen": "2026-05-27T19:14:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-db539392a45337fe-oh",
       "origin": "news",
       "state": "OH",
@@ -386,6 +523,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-df895a7903d19ff4-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "mondaq.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "People vs . Machines : Texas County Pushes Pause On Data Center Construction As Project Risks Expand Nationally Amid Public Opposition",
+      "sources": [
+        "https://mondaq.com/unitedstates/land-law-agriculture/1791852/people-vs-machines-texas-county-pushes-pause-on-data-center-construction-as-project-risks-expand-nationally-amid-public-opposition"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-27T19:14:00Z",
+      "first_seen": "2026-05-27T19:14:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-dcd-8c5b13cad62cf937-mn",
@@ -42291,27 +42473,27 @@
     },
     "US": {
       "state": "US",
-      "count": 383,
+      "count": 386,
       "outcome_counts": {
         "pending": 245,
-        "win": 127,
+        "win": 130,
         "loss": 11,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 372,
+        "restrictive": 375,
         "protective": 0,
         "supportive": 11,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 379,
+        "local": 382,
         "statewide": 2,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 85,
-        "zoning": 28,
+        "zoning": 29,
         "grid_energy": 11
       },
       "latest_date": "2026-05-27",
@@ -42400,6 +42582,35 @@
         "community_impact": 7,
         "ratepayer": 5,
         "grid_energy": 4
+      },
+      "latest_date": "2026-05-27",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 29,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 7,
+        "loss": 2,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 14,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 25,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "water": 9,
+        "community_impact": 7
       },
       "latest_date": "2026-05-27",
       "map_color_tier": "restrictive",
@@ -42547,35 +42758,6 @@
         "grid_energy": 1
       },
       "latest_date": "2026-05-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 28,
-      "outcome_counts": {
-        "pending": 17,
-        "win": 6,
-        "loss": 2,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 13,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 24,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "water": 9,
-        "community_impact": 7
-      },
-      "latest_date": "2026-05-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
