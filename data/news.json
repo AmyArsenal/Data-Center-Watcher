@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-05-27T13:55:10Z",
+  "generated_at": "2026-05-27T16:56:23Z",
   "window_days": 90,
-  "count": 536,
+  "count": 538,
   "items": [
+    {
+      "id": "gdelt-db539392a45337fe",
+      "state": "OH",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Residents suing to block proposed $4 billion data center in Ohio",
+      "source_domain": "wlwt.com",
+      "source_name": "wlwt.com",
+      "url": "https://wlwt.com/article/wilmington-data-center-lawsuit-moves-to-federal-court/71419677",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 16:56:22",
+      "url_hash": "db539392a45337fe",
+      "content_hash": "c2ada14e2e1edd09",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T16:56:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-590ed9604c6ecddd",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Judge Halts Google Data Center Construction In Pine Island",
+      "source_domain": "krforadio.com",
+      "source_name": "krforadio.com",
+      "url": "https://krforadio.com/ixp/669/p/google-data-center-pine-island-mn",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Google"
+      ],
+      "first_seen": "2026-05-27 16:56:22",
+      "url_hash": "590ed9604c6ecddd",
+      "content_hash": "bebdcf512ced1475",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T16:56:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-d61114af89e24fd8",
       "state": "US",
@@ -70,7 +152,7 @@
         "rss-dcd"
       ],
       "snippet": "Latest in series of moratoria approved in Minnesota",
-      "last_seen": "2026-05-27T13:55:09Z",
+      "last_seen": "2026-05-27T16:56:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1386,7 +1468,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-27T13:55:10Z",
+      "last_seen": "2026-05-27T16:56:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2069,7 +2151,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-27T13:55:10Z",
+      "last_seen": "2026-05-27T16:56:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3068,7 +3150,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-27T13:55:10Z",
+      "last_seen": "2026-05-27T16:56:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5621,7 +5703,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-27T13:55:09Z",
+      "last_seen": "2026-05-27T16:56:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6779,7 +6861,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-27T13:55:10Z",
+      "last_seen": "2026-05-27T16:56:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -21304,6 +21386,24 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 15,
+      "total_engagement": 2750,
+      "categories": {
+        "cancelled": 1,
+        "protested": 10,
+        "announced": 1,
+        "banned": 3
+      },
+      "platforms": {
+        "news": 8,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-05-27"
+    },
     "MN": {
       "state": "MN",
       "count": 4,
@@ -21509,23 +21609,6 @@
       "platforms": {
         "news": 2,
         "reddit": 1
-      },
-      "latest_date": "2026-05-19"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 14,
-      "total_engagement": 2750,
-      "categories": {
-        "protested": 10,
-        "announced": 1,
-        "banned": 3
-      },
-      "platforms": {
-        "news": 7,
-        "reddit": 3,
-        "tiktok": 3,
-        "x": 1
       },
       "latest_date": "2026-05-19"
     },

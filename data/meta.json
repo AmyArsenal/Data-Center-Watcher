@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T13:55:10Z",
+  "generated_at": "2026-05-27T16:56:23Z",
   "tier_timestamps": {
-    "fast": "2026-05-27T13:55:10Z",
+    "fast": "2026-05-27T16:56:23Z",
     "bills": "2026-05-27T12:36:54Z"
   },
   "counts_by_source": {
-    "gdelt": 331,
+    "gdelt": 333,
     "rss-dcd": 47,
     "rss-dck": 11,
     "rss-arstechnica": 5,
@@ -23,21 +23,21 @@
     "legal": 1
   },
   "run_stats": {
-    "last_run_seconds": 30.91,
+    "last_run_seconds": 27.01,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
       "reddit": 0,
-      "gdelt": 2
+      "gdelt": 6
     },
     "inserted": 2,
-    "updated": 6,
-    "dropped_irrelevant": 184,
+    "updated": 9,
+    "dropped_irrelevant": 185,
     "accepted_by_source_this_run": {
       "rss-dcd": 1,
       "rss-canary": 1,
-      "rss-dck": 5,
-      "gdelt": 1
+      "rss-dck": 4,
+      "gdelt": 5
     }
   }
 }

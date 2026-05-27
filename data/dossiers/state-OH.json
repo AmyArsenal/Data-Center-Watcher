@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-05-27T13:55:10Z",
+  "generated_at": "2026-05-27T16:56:23Z",
   "risk_score": {
-    "score": 60.9,
-    "tier": 29.6,
+    "score": 61.3,
+    "tier": 30.1,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,37 +12,37 @@
   },
   "grade": {
     "letter": "D",
-    "score": 39.1,
+    "score": 38.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 1,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 0,
-    "blocked": 0,
+    "blocked": 1,
     "active_companies": 0,
     "bills_introduced": 1,
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 20,
+  "count": 21,
   "tier_counts": {
-    "restrictive": 13,
+    "restrictive": 14,
     "null": 6,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 13,
-    "win": 6,
+    "win": 7,
     "loss": 1
   },
   "scope_counts": {
-    "local": 16,
+    "local": 17,
     "statewide": 4
   },
   "issue_top": {
-    "community_impact": 6,
+    "community_impact": 7,
     "ratepayer": 5,
     "grid_energy": 4,
     "water": 3,
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-05-19",
+  "latest": "2026-05-27",
   "top_citations": [
+    {
+      "id": "news:gdelt-db539392a45337fe-oh",
+      "date": "2026-05-27",
+      "jurisdiction": "wlwt.com",
+      "title": "Residents suing to block proposed $4 billion data center in Ohio",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wlwt.com/article/wilmington-data-center-lawsuit-moves-to-federal-court/71419677"
+    },
     {
       "id": "news:gdelt-299aa4e25a3ab696-oh",
       "date": "2026-05-19",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/u_Late-Cup-8762/comments/1stnfhm/ohio_data_center_petitionwhere_to_sign"
-    },
-    {
-      "id": "social:reddit-dbceb87f2eeaeb71-oh",
-      "date": "2026-04-23",
-      "jurisdiction": "r/Ohio",
-      "title": "Data Center Protest - Perry, Ohio - Tonight, 5:30PM, April 23rd, 2026. Show up tonight!\n\n\n\n\\- The average residential electric bill in Colum",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://reddit.com/r/Ohio/comments/1stkt4b/data_center_protest_perry_ohio_tonight_530pm"
     }
   ]
 }

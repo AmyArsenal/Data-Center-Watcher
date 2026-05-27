@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-05-27T13:55:10Z",
+  "generated_at": "2026-05-27T16:56:23Z",
   "filter": {
     "issue_category": "community_impact"
   },
-  "count": 191,
+  "count": 192,
   "items": [
     {
       "id": "social:x-4643366107-ok",
@@ -7649,6 +7649,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-db539392a45337fe-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "wlwt.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-05-27",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": "[\"community_impact\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Residents suing to block proposed $4 billion data center in Ohio",
+      "sources": "[\"https://wlwt.com/article/wilmington-data-center-lawsuit-moves-to-federal-court/71419677\"]",
+      "data_source": "news",
+      "last_updated": "2026-05-27T16:56:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     }
   ]
 }
