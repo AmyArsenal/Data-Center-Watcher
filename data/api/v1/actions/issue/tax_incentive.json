@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-05-27T21:11:20Z",
+  "generated_at": "2026-05-27T22:50:01Z",
   "filter": {
     "issue_category": "tax_incentive"
   },
-  "count": 42,
+  "count": 43,
   "items": [
     {
       "id": "openstates:ocd-bill-272a4d6a-c291-47d9-982e-e335d0589403-ar",
@@ -1685,6 +1685,46 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-b9d81ae604e369ed-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "wtol.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-05-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"tax_incentive\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "DeWine pauses new data center tax exemption requests in Ohio",
+      "sources": "[\"https://wtol.com/article/news/local/ohio/dewine-pauses-ohio-data-center-tax-exemptions/512-49767f5b-e4a1-4e0e-a62e-fa4b15b41db0\"]",
+      "data_source": "news",
+      "last_updated": "2026-05-27T22:50:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }

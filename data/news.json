@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-05-27T21:11:20Z",
+  "generated_at": "2026-05-27T22:50:01Z",
   "window_days": 90,
-  "count": 543,
+  "count": 546,
   "items": [
+    {
+      "id": "gdelt-68430af515554d86",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "This a protection , not invitation : Lee Co . commissioners consider extending moratorium on data center ordinance",
+      "source_domain": "walb.com",
+      "source_name": "walb.com",
+      "url": "https://walb.com/2026/05/27/this-protection-not-invitation-lee-co-commissioners-consider-extending-moratorium-data-center-ordinance",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 22:50:01",
+      "url_hash": "68430af515554d86",
+      "content_hash": "b7889cae3cbba856",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T22:50:01Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-53e40b973440de81",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Alcoa residents show up to speak against allowing data centers",
+      "source_domain": "thedailytimes.com",
+      "source_name": "thedailytimes.com",
+      "url": "https://thedailytimes.com/news/alcoa-residents-show-up-to-speak-against-allowing-data-centers/article_c17bb97a-329c-4990-9136-9688558f8cab.html",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 22:50:01",
+      "url_hash": "53e40b973440de81",
+      "content_hash": "c4c69a3eced7bafc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T22:50:01Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b9d81ae604e369ed",
+      "state": "OH",
+      "city": null,
+      "category": "banned",
+      "headline": "DeWine pauses new data center tax exemption requests in Ohio",
+      "source_domain": "wtol.com",
+      "source_name": "wtol.com",
+      "url": "https://wtol.com/article/news/local/ohio/dewine-pauses-ohio-data-center-tax-exemptions/512-49767f5b-e4a1-4e0e-a62e-fa4b15b41db0",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 22:50:01",
+      "url_hash": "b9d81ae604e369ed",
+      "content_hash": "e1fa64e2cac8c60a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T22:50:01Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-1307b70826d91d7a",
       "state": "US",
@@ -30,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-27T21:11:20Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -150,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-27T21:11:20Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -190,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-27T21:11:20Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -352,7 +472,7 @@
         "rss-dcd"
       ],
       "snippet": "Latest in series of moratoria approved in Minnesota",
-      "last_seen": "2026-05-27T21:11:19Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1668,7 +1788,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-27T21:11:20Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2351,7 +2471,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-27T21:11:20Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3350,7 +3470,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-27T21:11:20Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5903,7 +6023,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-27T21:11:19Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7061,7 +7181,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-27T21:11:20Z",
+      "last_seen": "2026-05-27T22:50:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -21586,6 +21706,24 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 16,
+      "total_engagement": 2750,
+      "categories": {
+        "banned": 4,
+        "cancelled": 1,
+        "protested": 10,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 9,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-05-27"
+    },
     "TX": {
       "state": "TX",
       "count": 14,
@@ -21598,24 +21736,6 @@
         "news": 10,
         "tiktok": 2,
         "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-05-27"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 15,
-      "total_engagement": 2750,
-      "categories": {
-        "cancelled": 1,
-        "protested": 10,
-        "announced": 1,
-        "banned": 3
-      },
-      "platforms": {
-        "news": 8,
-        "reddit": 3,
-        "tiktok": 3,
         "x": 1
       },
       "latest_date": "2026-05-27"
