@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-27T06:01:29Z",
+  "generated_at": "2026-05-27T10:17:53Z",
   "window_days": 90,
-  "count": 532,
+  "count": 534,
   "items": [
+    {
+      "id": "gdelt-12d1559ebc4f1d44",
+      "state": "AR",
+      "city": null,
+      "category": "banned",
+      "headline": "Pulaski County Quorum Court passes ordinance to ban new data center permits for a year | The Arkansas Democrat - Gazette",
+      "source_domain": "arkansasonline.com",
+      "source_name": "arkansasonline.com",
+      "url": "https://arkansasonline.com/news/2026/may/26/pulaski-county-quorum-court-passes-ordinance-to-ban-new-data-center-permits-for-a-year",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 10:17:52",
+      "url_hash": "12d1559ebc4f1d44",
+      "content_hash": "82576417031020e4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T10:17:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4120f898259f0cc2",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Columbia Borough Council rejects bid from company with history of data center development",
+      "source_domain": "local21news.com",
+      "source_name": "local21news.com",
+      "url": "https://local21news.com/news/local/columbia-borough-community-weighs-in-on-possible-data-center-development",
+      "date": "2026-05-27",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-27 10:17:52",
+      "url_hash": "4120f898259f0cc2",
+      "content_hash": "e7452dd5453e4ff3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-27T10:17:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-705074b90bcad2af",
       "state": "US",
@@ -389,7 +469,7 @@
         "rss-dcd"
       ],
       "snippet": "Will support its ability to provide power infrastructure to the data center market",
-      "last_seen": "2026-05-27T06:01:29Z",
+      "last_seen": "2026-05-27T10:17:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1227,7 +1307,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-27T06:01:29Z",
+      "last_seen": "2026-05-27T10:17:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1910,7 +1990,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-27T06:01:29Z",
+      "last_seen": "2026-05-27T10:17:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2909,7 +2989,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-27T06:01:29Z",
+      "last_seen": "2026-05-27T10:17:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5462,7 +5542,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-27T06:01:29Z",
+      "last_seen": "2026-05-27T10:17:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6620,7 +6700,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-27T06:01:29Z",
+      "last_seen": "2026-05-27T10:17:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9133,7 +9213,7 @@
         "rss-dck"
       ],
       "snippet": "Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.",
-      "last_seen": "2026-05-27T06:01:29Z",
+      "last_seen": "2026-05-27T10:17:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -21145,6 +21225,19 @@
     }
   ],
   "by_state": {
+    "AR": {
+      "state": "AR",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-05-27"
+    },
     "VA": {
       "state": "VA",
       "count": 9,
@@ -21396,18 +21489,6 @@
       "platforms": {
         "news": 1,
         "reddit": 1
-      },
-      "latest_date": "2026-05-15"
-    },
-    "AR": {
-      "state": "AR",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-05-15"
     },

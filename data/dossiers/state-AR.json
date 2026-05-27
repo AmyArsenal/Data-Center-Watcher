@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-05-27T06:01:29Z",
+  "generated_at": "2026-05-27T10:17:53Z",
   "risk_score": {
-    "score": 47.4,
-    "tier": 14.3,
-    "engagement": 10.7,
-    "recency": 10.3,
-    "multi_source": 7.1,
+    "score": 52.9,
+    "tier": 17.5,
+    "engagement": 10.2,
+    "recency": 14.0,
+    "multi_source": 6.2,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.6,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.1,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 0,
     "approvals": 1,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "unclear": 4,
     "supportive": 1,
     "null": 1,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 1,
+    "win": 2,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "tax_incentive": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-12-13",
-  "latest": "2026-05-15",
+  "latest": "2026-05-27",
   "top_citations": [
+    {
+      "id": "news:gdelt-12d1559ebc4f1d44-ar",
+      "date": "2026-05-27",
+      "jurisdiction": "arkansasonline.com",
+      "title": "Pulaski County Quorum Court passes ordinance to ban new data center permits for a year | The Arkansas Democrat - Gazette",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://arkansasonline.com/news/2026/may/26/pulaski-county-quorum-court-passes-ordinance-to-ban-new-data-center-permits-for-a-year"
+    },
     {
       "id": "news:gdelt-423f1474cfd0d62c-ar",
       "date": "2026-05-15",

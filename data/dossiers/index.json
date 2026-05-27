@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-27T06:01:29Z",
+  "generated_at": "2026-05-27T10:17:53Z",
   "states": [
     {
       "state": "AK",
@@ -32,16 +32,16 @@
     },
     {
       "state": "AR",
-      "count": 7,
-      "risk_score": 47.4,
-      "grade": "C",
-      "grade_score": 52.6,
+      "count": 8,
+      "risk_score": 52.9,
+      "grade": "D",
+      "grade_score": 47.1,
       "moratoriums": 0,
       "approvals": 1,
-      "denials": 1,
+      "denials": 2,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-15",
+      "latest": "2026-05-27",
       "url": "data/dossiers/state-AR.json"
     },
     {
