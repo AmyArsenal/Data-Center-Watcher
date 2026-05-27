@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-27T10:17:53Z",
+  "generated_at": "2026-05-27T13:55:10Z",
   "states": [
     {
       "state": "AK",
@@ -312,16 +312,16 @@
     },
     {
       "state": "MN",
-      "count": 6,
-      "risk_score": 50.0,
-      "grade": "C",
-      "grade_score": 50.0,
-      "moratoriums": 4,
+      "count": 7,
+      "risk_score": 54.2,
+      "grade": "D",
+      "grade_score": 45.8,
+      "moratoriums": 5,
       "approvals": 0,
-      "denials": 3,
+      "denials": 4,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-23",
+      "latest": "2026-05-27",
       "url": "data/dossiers/state-MN.json"
     },
     {

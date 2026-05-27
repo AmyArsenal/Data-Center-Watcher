@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MN",
-  "generated_at": "2026-05-27T10:17:53Z",
+  "generated_at": "2026-05-27T13:55:10Z",
   "risk_score": {
-    "score": 50.0,
-    "tier": 26.0,
+    "score": 54.2,
+    "tier": 28.0,
     "engagement": 6.2,
-    "recency": 17.8,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.0,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 45.8,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 0,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 0,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "null": 3
   },
   "outcome_counts": {
     "pending": 2,
-    "win": 3,
+    "win": 4,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 1
   },
   "issue_top": {
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-15",
-  "latest": "2026-05-23",
+  "latest": "2026-05-27",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-8c5b13cad62cf937-mn",
+      "date": "2026-05-27",
+      "jurisdiction": "DCD",
+      "title": "Minneapolis City Council approves six-month moratorium for data centers larger than 350,000 sq ft. Latest in series of moratoria approved in",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/minneapolis-city-council-approves-six-month-moratorium-for-data-centers-larger-than-350000-sq-ft"
+    },
     {
       "id": "news:gdelt-4ae9f8c6a5bbd35d-mn",
       "date": "2026-05-23",
