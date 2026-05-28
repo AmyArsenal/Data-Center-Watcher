@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-05-28T05:53:44Z",
+  "generated_at": "2026-05-28T09:39:10Z",
   "window_days": 90,
-  "count": 569,
+  "count": 572,
   "items": [
+    {
+      "id": "gdelt-615d24f90e7dc08a",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Warren council proposes ban on data centers | News , Sports , Jobs",
+      "source_domain": "tribtoday.com",
+      "source_name": "tribtoday.com",
+      "url": "https://tribtoday.com/news/local-news/2026/05/warren-council-proposes-ban-on-data-centers",
+      "date": "2026-05-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-28 09:39:10",
+      "url_hash": "615d24f90e7dc08a",
+      "content_hash": "f4c5d74117895cfe",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-28T09:39:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3bf38b8773f79d90",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Coachella seeks moratorium on data centers projects after hundreds protest during meeting",
+      "source_domain": "kesq.com",
+      "source_name": "kesq.com",
+      "url": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting",
+      "date": "2026-05-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-28 09:39:10",
+      "url_hash": "3bf38b8773f79d90",
+      "content_hash": "1abd2c2c5c6e4fd4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-28T09:39:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-642f6b9546c31c84",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Swiss-backed GreenSquareDC withdraws application for 120MW data center in Perth, Australia",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/swiss-backed-greensquaredc-withdraws-application-for-120mw-data-center-in-perth-australia",
+      "date": "2026-05-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-28 09:39:09",
+      "url_hash": "642f6b9546c31c84",
+      "content_hash": "869d51b8fb05ad95",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Proposal faced backlash related to noise and proximity to school",
+      "last_seen": "2026-05-28T09:39:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/swiss-backed-greensquaredc-withdraws-application-for-120mw-data-center-in-perth-australia/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-7e6d8e4ed3475c00",
       "state": "US",
@@ -310,7 +429,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -350,7 +469,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -390,7 +509,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -430,7 +549,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -470,7 +589,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -550,7 +669,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -590,7 +709,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -670,7 +789,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -710,7 +829,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -750,7 +869,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -790,7 +909,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -2710,7 +2829,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3393,7 +3512,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4392,7 +4511,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6945,7 +7064,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8103,7 +8222,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-28T05:53:44Z",
+      "last_seen": "2026-05-28T09:39:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
