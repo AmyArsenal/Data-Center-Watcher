@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-28T01:31:22Z",
+  "generated_at": "2026-05-28T05:53:44Z",
   "states": [
     {
       "state": "AK",
@@ -410,16 +410,16 @@
     },
     {
       "state": "NH",
-      "count": 3,
-      "risk_score": 37.1,
+      "count": 4,
+      "risk_score": 39.4,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
-      "approvals": 0,
+      "approvals": 1,
       "denials": 1,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-02-11",
+      "latest": "2026-05-28",
       "url": "data/dossiers/state-NH.json"
     },
     {
@@ -606,16 +606,16 @@
     },
     {
       "state": "UT",
-      "count": 5,
-      "risk_score": 65.7,
+      "count": 6,
+      "risk_score": 66.6,
       "grade": "F",
-      "grade_score": 34.3,
+      "grade_score": 33.4,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 0,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-05-11",
+      "latest": "2026-05-28",
       "url": "data/dossiers/state-UT.json"
     },
     {

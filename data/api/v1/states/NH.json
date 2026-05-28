@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NH",
-  "generated_at": "2026-05-28T01:31:22Z",
+  "generated_at": "2026-05-28T05:53:44Z",
   "risk_score": {
-    "score": 37.1,
-    "tier": 16.0,
-    "engagement": 10.4,
-    "recency": 4.0,
-    "multi_source": 6.7,
+    "score": 39.4,
+    "tier": 12.0,
+    "engagement": 9.4,
+    "recency": 13.0,
+    "multi_source": 5.0,
     "regulatory": 0.0
   },
   "grade": {
@@ -17,7 +17,7 @@
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 1,
     "lawsuits": 0,
     "blocked": 0,
@@ -26,18 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
     "unclear": 1,
     "protective": 1,
-    "null": 1
+    "null": 1,
+    "supportive": 1
   },
   "outcome_counts": {
     "win": 1,
-    "pending": 2
+    "pending": 2,
+    "loss": 1
   },
   "scope_counts": {
-    "statewide": 3
+    "statewide": 3,
+    "local": 1
   },
   "issue_top": {
     "environmental": 2,
@@ -50,8 +53,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2025-11-21",
-  "latest": "2026-02-11",
+  "latest": "2026-05-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-f304232d66373ed5-nh",
+      "date": "2026-05-28",
+      "jurisdiction": "yahoo.com",
+      "title": "New Hampshire data center developer withdraws plans hours before opponents were to pack town meeting",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://yahoo.com/news/us/articles/hampshire-data-center-developer-withdraws-215208543.html"
+    },
     {
       "id": "research:nh-new-hampshire-house-20260211-hb-1265-would-prohibit-construction-of-new-data-ce",
       "date": "2026-02-11",
