@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-05-28T23:00:45Z",
+  "generated_at": "2026-05-29T00:18:39Z",
   "risk_score": {
-    "score": 52.9,
-    "tier": 17.5,
-    "engagement": 10.2,
-    "recency": 14.0,
-    "multi_source": 6.2,
+    "score": 57.2,
+    "tier": 20.0,
+    "engagement": 9.7,
+    "recency": 16.9,
+    "multi_source": 5.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.1,
+    "score": 42.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 1,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "unclear": 4,
     "supportive": 1,
     "null": 1,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 2,
+    "win": 3,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "tax_incentive": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-12-13",
-  "latest": "2026-05-27",
+  "latest": "2026-05-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-77f254dd31214cf4-ar",
+      "date": "2026-05-28",
+      "jurisdiction": "nwaonline.com",
+      "title": "Review of Pulaski County Quorum Court vote finds data center moratorium failed | Northwest Arkansas Democrat - Gazette",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://nwaonline.com/news/2026/may/28/review-of-pulaski-county-quorum-court-vote-finds"
+    },
     {
       "id": "news:gdelt-12d1559ebc4f1d44-ar",
       "date": "2026-05-27",

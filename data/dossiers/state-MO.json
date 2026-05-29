@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-05-28T23:00:45Z",
+  "generated_at": "2026-05-29T00:18:39Z",
   "risk_score": {
-    "score": 51.2,
-    "tier": 29.5,
+    "score": 53.2,
+    "tier": 30.1,
     "engagement": 6.6,
-    "recency": 14.4,
+    "recency": 15.9,
     "multi_source": 0.6,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.8,
+    "score": 46.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 16,
+  "count": 17,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 11,
     "unclear": 1,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 12,
+    "pending": 13,
     "win": 4
   },
   "scope_counts": {
-    "local": 15,
+    "local": 16,
     "statewide": 1
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-24",
-  "latest": "2026-05-18",
+  "latest": "2026-05-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-2156488b96869bfc-mo",
+      "date": "2026-05-28",
+      "jurisdiction": "Festus",
+      "title": "Festus to vote on recalling mayor , 2 councilmembers amid data center pushback",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://ksdk.com/article/news/local/festus-mayor-recall-councilmembers-data-center-pushback-missouri/63-eb7b92be-3313-4f4b-970f-c85a493501e0"
+    },
     {
       "id": "news:rss-dcd-06dac22233c9181a-mo",
       "date": "2026-05-18",
@@ -148,15 +157,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.kcur.org/politics-elections-and-government/2026-04-09/after-these-independence-councilmembers-supported-an-ai-data-center-voters-ousted-them"
-    },
-    {
-      "id": "social:x-65404ef2a8-mo",
-      "date": "2026-04-03",
-      "jurisdiction": "@bluelivesmtr",
-      "title": "THIS is the left, folks. They don't care what you think or what. It's getting BAD. Turns out that so many people showed up to oppose a $6 bi",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://x.com/bluelivesmtr/status/2040021502901542937"
     }
   ]
 }
