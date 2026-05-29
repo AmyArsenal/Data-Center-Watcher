@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T20:04:11Z",
-  "count": 957,
+  "generated_at": "2026-05-29T22:02:53Z",
+  "count": 962,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -294,6 +294,51 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-90804ee83d428172-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wrjn.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "More cities are pressing pause on data centers as local backlash grows - WRJN",
+      "sources": [
+        "https://wrjn.com/news/2026/05/29/more-cities-are-pressing-pause-on-data-centers-as-local-backlash-grows"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-29T22:02:53Z",
+      "first_seen": "2026-05-29T22:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-90d2158ac0cd50ef-us",
       "origin": "news",
       "state": "US",
@@ -339,6 +384,98 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-91507bf225b10285-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "patch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "More Than 1 , 000 Residents Pack Upper Merion Hearing In Stand Against Data Centers",
+      "sources": [
+        "https://patch.com/pennsylvania/norristown/more-1-000-residents-pack-upper-merion-hearing-stand-against-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-29T22:02:53Z",
+      "first_seen": "2026-05-29T22:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a3b2f3d59dd5f44c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "pvtimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Nye County officials moving to ban data centers in Pahrump .",
+      "sources": [
+        "https://pvtimes.com/news/data-center-concerns-prompt-ordinance-proposal-186414"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-29T22:02:53Z",
+      "first_seen": "2026-05-29T22:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-b30e91371b716576-us",
       "origin": "news",
       "state": "US",
@@ -382,6 +519,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-bc7d2aba2b2c8802-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "heraldextra.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Box Elder County residents wont get to vote on data center referendum , county attorney says | News , Sports , Jobs",
+      "sources": [
+        "https://heraldextra.com/news/2026/may/29/box-elder-county-residents-wont-get-to-vote-on-data-center-referendum-county-attorney-says"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-29T22:02:53Z",
+      "first_seen": "2026-05-29T22:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-d9a07cfa0f7301b3-us",
@@ -519,6 +703,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-f11d4636fae8cf9e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "channel3000.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-05-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Proposed data center moratorium receives pushback",
+      "sources": [
+        "https://channel3000.com/news/proposed-data-center-moratorium-receives-pushback/article_e6e4eb82-ccdb-4812-b728-2435bd036993.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-29T22:02:53Z",
+      "first_seen": "2026-05-29T22:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-f225d1b47673aa40-us",
@@ -44890,26 +45119,26 @@
     },
     "US": {
       "state": "US",
-      "count": 430,
+      "count": 435,
       "outcome_counts": {
-        "pending": 267,
-        "win": 152,
+        "pending": 269,
+        "win": 155,
         "loss": 11,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 419,
+        "restrictive": 424,
         "protective": 0,
         "supportive": 11,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 425,
+        "local": 430,
         "statewide": 3,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 91,
+        "community_impact": 93,
         "zoning": 33,
         "grid_energy": 12
       },
