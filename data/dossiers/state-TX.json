@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-05-29T04:50:03Z",
+  "generated_at": "2026-05-29T08:35:46Z",
   "risk_score": {
-    "score": 57.3,
-    "tier": 25.5,
+    "score": 57.8,
+    "tier": 26.0,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.3,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 42.7,
+    "score": 42.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 2,
-    "denials": 7,
+    "denials": 8,
     "lawsuits": 1,
     "blocked": 2,
     "active_companies": 8,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 29,
+  "count": 30,
   "tier_counts": {
-    "restrictive": 14,
+    "restrictive": 15,
     "null": 15
   },
   "outcome_counts": {
     "pending": 17,
     "mixed": 3,
     "loss": 2,
-    "win": 7
+    "win": 8
   },
   "scope_counts": {
-    "local": 25,
+    "local": 26,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-05-27",
+  "latest": "2026-05-29",
   "top_citations": [
+    {
+      "id": "news:gdelt-298c14f02d0310dc-tx",
+      "date": "2026-05-29",
+      "jurisdiction": "lufkindailynews.com",
+      "title": "MILLER : For the future of Texas , pause data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://lufkindailynews.com/opinion/columns/miller-for-the-future-of-texas-pause-data-centers/article_8c62936f-9b92-5db2-b100-140a325a2043.html"
+    },
     {
       "id": "news:gdelt-df895a7903d19ff4-tx",
       "date": "2026-05-27",
@@ -169,15 +178,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/soluna-expands-blockware-partnership-with-33mw-texas-deployment"
-    },
-    {
-      "id": "social:tiktok-b99019d1815d4b2b-tx",
-      "date": "2026-04-23",
-      "jurisdiction": "@mrs.reginajass0",
-      "title": "I hope we raise a generation that  refuses to accept \"that's just how things are\" as a valid explanation for preventable suffering. May they",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://tiktok.com/@mrs.reginajass0/video/7632021957269097758"
     }
   ]
 }

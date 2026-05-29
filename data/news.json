@@ -1,8 +1,250 @@
 {
-  "generated_at": "2026-05-29T04:50:03Z",
+  "generated_at": "2026-05-29T08:35:46Z",
   "window_days": 90,
-  "count": 589,
+  "count": 595,
   "items": [
+    {
+      "id": "gdelt-dad201928f51ce9a",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Daviess Co . Fiscal Court approves moratorium on data center applications",
+      "source_domain": "14news.com",
+      "source_name": "14news.com",
+      "url": "https://14news.com/2026/05/29/daviess-co-fiscal-court-approves-moratorium-data-center-applications",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-29 08:35:46",
+      "url_hash": "dad201928f51ce9a",
+      "content_hash": "2e875392eaad1090",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-29T08:35:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-f225d1b47673aa40",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Meridian Township is officially putting a pause on any data centers that might come to town",
+      "source_domain": "wkar.org",
+      "source_name": "wkar.org",
+      "url": "https://wkar.org/wkar-news/2026-05-28/meridian-township-is-officially-putting-a-pause-on-any-data-centers-that-might-come-to-town",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-29 08:35:46",
+      "url_hash": "f225d1b47673aa40",
+      "content_hash": "53bef2a8e8bde8a3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-29T08:35:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-f87b5855957844ce",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents pack county meeting fearing Google data center could put private wells at risk",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/us/articles/residents-pack-county-meeting-fearing-054000447.html",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Google"
+      ],
+      "first_seen": "2026-05-29 08:35:46",
+      "url_hash": "f87b5855957844ce",
+      "content_hash": "a3814ab765c5296d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-29T08:35:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-8a5cb5fb69972bfc",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Brookhaven hearing to ponder moratorium on plans for AI data centers until 2028",
+      "source_domain": "newsday.com",
+      "source_name": "newsday.com",
+      "url": "https://newsday.com/long-island/towns/brookhaven-ai-data-centers-vu9a5ymz",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-29 08:35:46",
+      "url_hash": "8a5cb5fb69972bfc",
+      "content_hash": "b0758d8c674ba3e8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-29T08:35:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-298c14f02d0310dc",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "MILLER : For the future of Texas , pause data centers",
+      "source_domain": "lufkindailynews.com",
+      "source_name": "lufkindailynews.com",
+      "url": "https://lufkindailynews.com/opinion/columns/miller-for-the-future-of-texas-pause-data-centers/article_8c62936f-9b92-5db2-b100-140a325a2043.html",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-29 08:35:46",
+      "url_hash": "298c14f02d0310dc",
+      "content_hash": "35412f4ec52b6fc8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-29T08:35:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e417474ef48eda04",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Pure excitement : Neighbors celebrate data center rejection , but prep for next fight",
+      "source_domain": "wfmz.com",
+      "source_name": "wfmz.com",
+      "url": "https://wfmz.com/news/area/lehighvalley/lehigh-county/western-lehigh-county/pure-excitement-neighbors-celebrate-data-center-rejection-but-prep-for-next-fight/article_20c31eeb-5b84-4f63-a129-ff17aedfed23.html",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-29 08:35:46",
+      "url_hash": "e417474ef48eda04",
+      "content_hash": "fa4cd4b58d076fe5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-29T08:35:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-8b5c96cec3ab8624",
       "state": "US",
@@ -150,7 +392,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -190,7 +432,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -630,7 +872,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The grid operator stopped short of taking a position on the complaint itself. States and consumer advocates oppose it, while at least one major data center company supports it.",
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3508,7 +3750,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4191,7 +4433,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5190,7 +5432,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7743,7 +7985,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8901,7 +9143,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-29T04:50:03Z",
+      "last_seen": "2026-05-29T08:35:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -23426,6 +23668,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 15,
+      "total_engagement": 629,
+      "categories": {
+        "banned": 5,
+        "protested": 10
+      },
+      "platforms": {
+        "news": 11,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-05-29"
+    },
     "AZ": {
       "state": "AZ",
       "count": 1,
@@ -23519,22 +23777,6 @@
         "news": 1
       },
       "latest_date": "2026-05-28"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 14,
-      "total_engagement": 629,
-      "categories": {
-        "banned": 4,
-        "protested": 10
-      },
-      "platforms": {
-        "news": 10,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-05-27"
     },
     "MN": {
       "state": "MN",
