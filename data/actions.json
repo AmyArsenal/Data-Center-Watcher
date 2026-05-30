@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T23:40:40Z",
-  "count": 962,
+  "generated_at": "2026-05-30T01:29:55Z",
+  "count": 963,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -157,6 +157,54 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-3fef810056ae84b0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "naturalnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "environmental"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "AI data center  infrasound  pollution linked to nausea , insomnia in nearby residents – NaturalNews . com",
+      "sources": [
+        "https://naturalnews.com/2026-05-29-data-centers-infrasound-pollution-linked-to-nausea-insomnia.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-30T01:29:54Z",
+      "first_seen": "2026-05-30T01:29:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-8a5cb5fb69972bfc-us",
@@ -45119,26 +45167,26 @@
     },
     "US": {
       "state": "US",
-      "count": 435,
+      "count": 436,
       "outcome_counts": {
-        "pending": 269,
+        "pending": 270,
         "win": 155,
         "loss": 11,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 424,
+        "restrictive": 425,
         "protective": 0,
         "supportive": 11,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 430,
+        "local": 431,
         "statewide": 3,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 93,
+        "community_impact": 94,
         "zoning": 33,
         "grid_energy": 12
       },

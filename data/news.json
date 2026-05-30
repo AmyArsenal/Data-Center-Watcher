@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-29T23:40:40Z",
+  "generated_at": "2026-05-30T01:29:55Z",
   "window_days": 90,
-  "count": 600,
+  "count": 601,
   "items": [
+    {
+      "id": "gdelt-3fef810056ae84b0",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "AI data center  infrasound  pollution linked to nausea , insomnia in nearby residents – NaturalNews . com",
+      "source_domain": "naturalnews.com",
+      "source_name": "naturalnews.com",
+      "url": "https://naturalnews.com/2026-05-29-data-centers-infrasound-pollution-linked-to-nausea-insomnia.html",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-30 01:29:54",
+      "url_hash": "3fef810056ae84b0",
+      "content_hash": "3bd676d2e26232d4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-30T01:29:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-a3b2f3d59dd5f44c",
       "state": "US",
@@ -190,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-29T22:02:53Z",
+      "last_seen": "2026-05-30T01:29:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1072,7 +1112,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The grid operator stopped short of taking a position on the complaint itself. States and consumer advocates oppose it, while at least one major data center company supports it.",
-      "last_seen": "2026-05-29T23:40:39Z",
+      "last_seen": "2026-05-30T01:29:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3950,7 +3990,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-29T23:40:39Z",
+      "last_seen": "2026-05-30T01:29:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4633,7 +4673,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-29T23:40:39Z",
+      "last_seen": "2026-05-30T01:29:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5632,7 +5672,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-29T23:40:39Z",
+      "last_seen": "2026-05-30T01:29:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8185,7 +8225,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-29T23:40:39Z",
+      "last_seen": "2026-05-30T01:29:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9343,7 +9383,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-29T23:40:39Z",
+      "last_seen": "2026-05-30T01:29:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
