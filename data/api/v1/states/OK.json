@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OK",
-  "generated_at": "2026-05-30T01:29:55Z",
+  "generated_at": "2026-05-30T05:10:15Z",
   "risk_score": {
-    "score": 47.8,
-    "tier": 18.2,
-    "engagement": 10.1,
-    "recency": 8.4,
-    "multi_source": 6.1,
+    "score": 50.1,
+    "tier": 19.4,
+    "engagement": 9.9,
+    "recency": 10.1,
+    "multi_source": 5.8,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.2,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.9,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
@@ -26,19 +26,19 @@
     "bills_passed": 3,
     "bills_enacted": 0
   },
-  "count": 18,
+  "count": 19,
   "tier_counts": {
-    "restrictive": 4,
+    "restrictive": 5,
     "unclear": 11,
     "null": 3
   },
   "outcome_counts": {
-    "pending": 12,
+    "pending": 13,
     "win": 5,
     "loss": 1
   },
   "scope_counts": {
-    "local": 6,
+    "local": 7,
     "statewide": 12
   },
   "issue_top": {
@@ -59,8 +59,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-03",
-  "latest": "2026-05-19",
+  "latest": "2026-05-30",
   "top_citations": [
+    {
+      "id": "news:gdelt-fc02426a7345f199-ok",
+      "date": "2026-05-30",
+      "jurisdiction": "Claremore",
+      "title": "Recall and referendum petitions filed in Claremore over data center",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://ktul.com/news/local/recall-and-referendum-petitions-filed-in-claremore-over-data-center"
+    },
     {
       "id": "news:gdelt-b2b736cb326958a6-ok",
       "date": "2026-05-19",
@@ -141,15 +150,6 @@
       "tier": "unclear",
       "outcome": "win",
       "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3620&session=2600"
-    },
-    {
-      "id": "openstates:ocd-bill-135586c6-af6c-45d1-81a2-422c12fe0023-ok",
-      "date": "2026-02-02",
-      "jurisdiction": "OK Legislature",
-      "title": "Data centers; Data Centers Act of 2026; effective date.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4219&session=2600"
     }
   ]
 }

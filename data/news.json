@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-05-30T01:29:55Z",
+  "generated_at": "2026-05-30T05:10:15Z",
   "window_days": 90,
-  "count": 601,
+  "count": 605,
   "items": [
+    {
+      "id": "gdelt-e3acd9666a14ebf3",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Hill County commissioners table discussion on lawsuit over data center moratorium",
+      "source_domain": "kwtx.com",
+      "source_name": "kwtx.com",
+      "url": "https://kwtx.com/2026/05/29/hill-county-commissioners-table-lawsuit-discussion-over-data-center-moratorium",
+      "date": "2026-05-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-30 05:10:15",
+      "url_hash": "e3acd9666a14ebf3",
+      "content_hash": "7607fc7c65be8bf6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-30T05:10:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.78,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-8b6ee29559fff981",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Statesboro Council to hold second public hearing on downscaled data centers law",
+      "source_domain": "statesboroherald.com",
+      "source_name": "statesboroherald.com",
+      "url": "https://statesboroherald.com/local/statesboro-council-to-hold-second-public-hearing-on-downscaled-data-centers-law",
+      "date": "2026-05-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-30 05:10:15",
+      "url_hash": "8b6ee29559fff981",
+      "content_hash": "ffa4f2ed260fbcdf",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-30T05:10:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-fc02426a7345f199",
+      "state": "OK",
+      "city": "Claremore",
+      "category": "protested",
+      "headline": "Recall and referendum petitions filed in Claremore over data center",
+      "source_domain": "ktul.com",
+      "source_name": "ktul.com",
+      "url": "https://ktul.com/news/local/recall-and-referendum-petitions-filed-in-claremore-over-data-center",
+      "date": "2026-05-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-30 05:10:15",
+      "url_hash": "fc02426a7345f199",
+      "content_hash": "fd75c06f12091dc2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-30T05:10:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e743b565b102fc81",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Hill County residents continue opposition to proposed data center development",
+      "source_domain": "kxxv.com",
+      "source_name": "kxxv.com",
+      "url": "https://kxxv.com/news/local-news/in-your-neighborhood/hill-county/shockwaves-across-the-state-hill-county-residents-continue-opposition-to-proposed-data-center-development",
+      "date": "2026-05-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-30 05:10:15",
+      "url_hash": "e743b565b102fc81",
+      "content_hash": "3ba0c0b78efdabab",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-30T05:10:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-3fef810056ae84b0",
       "state": "US",
@@ -1112,7 +1272,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The grid operator stopped short of taking a position on the complaint itself. States and consumer advocates oppose it, while at least one major data center company supports it.",
-      "last_seen": "2026-05-30T01:29:54Z",
+      "last_seen": "2026-05-30T05:10:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3990,7 +4150,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-30T01:29:54Z",
+      "last_seen": "2026-05-30T05:10:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4673,7 +4833,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-30T01:29:54Z",
+      "last_seen": "2026-05-30T05:10:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5672,7 +5832,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-30T01:29:54Z",
+      "last_seen": "2026-05-30T05:10:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8225,7 +8385,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-30T01:29:54Z",
+      "last_seen": "2026-05-30T05:10:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9383,7 +9543,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-30T01:29:54Z",
+      "last_seen": "2026-05-30T05:10:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -23908,6 +24068,22 @@
     }
   ],
   "by_state": {
+    "OK": {
+      "state": "OK",
+      "count": 5,
+      "total_engagement": 12236,
+      "categories": {
+        "protested": 4,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 2,
+        "reddit": 1,
+        "tiktok": 1,
+        "x": 1
+      },
+      "latest_date": "2026-05-30"
+    },
     "TX": {
       "state": "TX",
       "count": 15,
@@ -24166,22 +24342,6 @@
         "reddit": 1
       },
       "latest_date": "2026-05-21"
-    },
-    "OK": {
-      "state": "OK",
-      "count": 4,
-      "total_engagement": 12236,
-      "categories": {
-        "protested": 3,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 1,
-        "reddit": 1,
-        "tiktok": 1,
-        "x": 1
-      },
-      "latest_date": "2026-05-19"
     },
     "NC": {
       "state": "NC",
