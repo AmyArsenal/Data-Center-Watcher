@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-05-31T15:44:30Z",
+  "generated_at": "2026-05-31T16:46:15Z",
   "states": [
     {
       "state": "AK",
@@ -606,16 +606,16 @@
     },
     {
       "state": "UT",
-      "count": 6,
-      "risk_score": 66.6,
+      "count": 7,
+      "risk_score": 67.2,
       "grade": "F",
-      "grade_score": 33.4,
+      "grade_score": 32.8,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 0,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-05-28",
+      "latest": "2026-05-31",
       "url": "data/dossiers/state-UT.json"
     },
     {

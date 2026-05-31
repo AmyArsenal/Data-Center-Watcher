@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T15:44:30Z",
-  "count": 968,
+  "generated_at": "2026-05-31T16:46:15Z",
+  "count": 970,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,98 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-52975dea3016b872-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "suncommercial.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-05-31",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Parke County Commissioners rein in data centers amid rumored plans near county line",
+      "sources": [
+        "https://suncommercial.com/brazil_times/brazil_times/article_e73f053d-8700-55ff-bee3-d19452757019.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-31T16:46:15Z",
+      "first_seen": "2026-05-31T16:46:15Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-cd2f4fc2ecdba3d3-ut",
+      "origin": "news",
+      "state": "UT",
+      "county": null,
+      "jurisdiction": "thenextweb.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-05-31",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "A 9 - gigawatt data centre outraged a Utah community . The governor just issued new rules .",
+      "sources": [
+        "https://thenextweb.com/news/utah-governor-data-centre-rules-oleary-stratos-backlash"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-05-31T16:46:15Z",
+      "first_seen": "2026-05-31T16:46:15Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-8b6ee29559fff981-us",
@@ -45393,6 +45485,64 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "UT": {
+      "state": "UT",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 0,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 6,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 4,
+        "contract_guarantees": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-05-31",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "US": {
+      "state": "US",
+      "count": 441,
+      "outcome_counts": {
+        "pending": 272,
+        "win": 156,
+        "loss": 13,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 428,
+        "protective": 0,
+        "supportive": 13,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 436,
+        "statewide": 3,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 95,
+        "zoning": 33,
+        "grid_energy": 12
+      },
+      "latest_date": "2026-05-31",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OK": {
       "state": "OK",
       "count": 19,
@@ -45417,35 +45567,6 @@
         "community_impact": 2,
         "grid_energy": 2,
         "ratepayer": 2
-      },
-      "latest_date": "2026-05-30",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 440,
-      "outcome_counts": {
-        "pending": 272,
-        "win": 156,
-        "loss": 12,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 428,
-        "protective": 0,
-        "supportive": 12,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 435,
-        "statewide": 3,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 95,
-        "zoning": 33,
-        "grid_energy": 12
       },
       "latest_date": "2026-05-30",
       "map_color_tier": "restrictive",
@@ -45537,35 +45658,6 @@
       "latest_date": "2026-05-28",
       "map_color_tier": "protective",
       "map_color_outcome": "loss"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 5,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 3,
-        "contract_guarantees": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-05-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "OH": {
       "state": "OH",

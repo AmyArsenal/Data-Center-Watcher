@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-05-31T15:44:30Z",
+  "generated_at": "2026-05-31T16:46:15Z",
   "risk_score": {
-    "score": 66.6,
-    "tier": 35.3,
+    "score": 67.2,
+    "tier": 36.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "F",
-    "score": 33.4,
+    "score": 32.8,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "null": 1,
-    "restrictive": 5
+    "restrictive": 6
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 5
+    "pending": 6
   },
   "scope_counts": {
-    "statewide": 1,
+    "statewide": 2,
     "local": 5
   },
   "issue_top": {
-    "community_impact": 3,
+    "community_impact": 4,
     "grid_energy": 1,
     "ratepayer": 1,
     "contract_guarantees": 1
@@ -53,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2026-05-28",
+  "latest": "2026-05-31",
   "top_citations": [
+    {
+      "id": "news:gdelt-cd2f4fc2ecdba3d3-ut",
+      "date": "2026-05-31",
+      "jurisdiction": "thenextweb.com",
+      "title": "A 9 - gigawatt data centre outraged a Utah community . The governor just issued new rules .",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://thenextweb.com/news/utah-governor-data-centre-rules-oleary-stratos-backlash"
+    },
     {
       "id": "news:gdelt-0f28b06b2e7e351b-ut",
       "date": "2026-05-28",

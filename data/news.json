@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-05-31T15:44:30Z",
+  "generated_at": "2026-05-31T16:46:15Z",
   "window_days": 90,
-  "count": 606,
+  "count": 608,
   "items": [
+    {
+      "id": "gdelt-52975dea3016b872",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Parke County Commissioners rein in data centers amid rumored plans near county line",
+      "source_domain": "suncommercial.com",
+      "source_name": "suncommercial.com",
+      "url": "https://suncommercial.com/brazil_times/brazil_times/article_e73f053d-8700-55ff-bee3-d19452757019.html",
+      "date": "2026-05-31",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-31 16:46:15",
+      "url_hash": "52975dea3016b872",
+      "content_hash": "430cc025a080dfa1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-31T16:46:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-cd2f4fc2ecdba3d3",
+      "state": "UT",
+      "city": null,
+      "category": "protested",
+      "headline": "A 9 - gigawatt data centre outraged a Utah community . The governor just issued new rules .",
+      "source_domain": "thenextweb.com",
+      "source_name": "thenextweb.com",
+      "url": "https://thenextweb.com/news/utah-governor-data-centre-rules-oleary-stratos-backlash",
+      "date": "2026-05-31",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-05-31 16:46:15",
+      "url_hash": "cd2f4fc2ecdba3d3",
+      "content_hash": "9e60ba6570aee53a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-05-31T16:46:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-822962497cd064da",
       "state": "US",
@@ -30,7 +110,7 @@
         "rss-dcd"
       ],
       "snippet": "Will partner with Schneider Electric for a \"large-scale industrial production cluster\" at the Port of Dunkirk",
-      "last_seen": "2026-05-31T15:44:29Z",
+      "last_seen": "2026-05-31T16:46:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1311,7 +1391,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The grid operator stopped short of taking a position on the complaint itself. States and consumer advocates oppose it, while at least one major data center company supports it.",
-      "last_seen": "2026-05-31T15:44:29Z",
+      "last_seen": "2026-05-31T16:46:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4189,7 +4269,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-05-31T15:44:29Z",
+      "last_seen": "2026-05-31T16:46:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4872,7 +4952,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-05-31T15:44:29Z",
+      "last_seen": "2026-05-31T16:46:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5871,7 +5951,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-05-31T15:44:29Z",
+      "last_seen": "2026-05-31T16:46:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8424,7 +8504,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-05-31T15:44:29Z",
+      "last_seen": "2026-05-31T16:46:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9582,7 +9662,7 @@
         "rss-dck"
       ],
       "snippet": "We spoke to the founder of a new website tracking data center opposition and heard from experts on how the industry can address growing community concerns.",
-      "last_seen": "2026-05-31T15:44:29Z",
+      "last_seen": "2026-05-31T16:46:14Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -24107,6 +24187,18 @@
     }
   ],
   "by_state": {
+    "UT": {
+      "state": "UT",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 6
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-05-31"
+    },
     "OK": {
       "state": "OK",
       "count": 5,
@@ -24206,18 +24298,6 @@
         "reddit": 3,
         "tiktok": 3,
         "x": 1
-      },
-      "latest_date": "2026-05-28"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 5
-      },
-      "platforms": {
-        "news": 5
       },
       "latest_date": "2026-05-28"
     },
