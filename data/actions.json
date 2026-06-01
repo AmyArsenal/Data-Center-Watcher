@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T06:32:25Z",
-  "count": 971,
+  "generated_at": "2026-06-01T12:20:56Z",
+  "count": 972,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-47da99ea27d1ccd8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-06-01",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "LA data center firm Multacom sued by site owner, claims unpaid rent and other charges. Site owner Carolwood claims Multacom owes $401,128.25",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/la-data-center-firm-multacom-sued-by-site-owner-claims-unpaid-rent-and-other-charges"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-01T12:20:56Z",
+      "first_seen": "2026-06-01T12:20:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-4f54fb3434036e2d-us",
@@ -45532,6 +45577,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "US": {
+      "state": "US",
+      "count": 443,
+      "outcome_counts": {
+        "pending": 273,
+        "win": 157,
+        "loss": 13,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 430,
+        "protective": 0,
+        "supportive": 13,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 438,
+        "statewide": 3,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 95,
+        "zoning": 33,
+        "grid_energy": 13
+      },
+      "latest_date": "2026-06-01",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "UT": {
       "state": "UT",
       "count": 7,
@@ -45560,35 +45634,6 @@
       "latest_date": "2026-05-31",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 442,
-      "outcome_counts": {
-        "pending": 273,
-        "win": 156,
-        "loss": 13,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 429,
-        "protective": 0,
-        "supportive": 13,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 437,
-        "statewide": 3,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 95,
-        "zoning": 33,
-        "grid_energy": 13
-      },
-      "latest_date": "2026-05-31",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "OK": {
       "state": "OK",

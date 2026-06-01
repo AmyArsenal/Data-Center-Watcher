@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-06-01T06:32:26Z",
+  "generated_at": "2026-06-01T12:20:57Z",
   "filter": {
     "community_outcome": "win"
   },
-  "count": 330,
+  "count": 331,
   "items": [
     {
       "id": "social:x-c778319fc8-me",
@@ -13211,6 +13211,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-47da99ea27d1ccd8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"lawsuit\"]",
+      "authority_level": null,
+      "date": "2026-06-01",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": null,
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "LA data center firm Multacom sued by site owner, claims unpaid rent and other charges. Site owner Carolwood claims Multacom owes $401,128.25",
+      "sources": "[\"https://datacenterdynamics.com/en/news/la-data-center-firm-multacom-sued-by-site-owner-claims-unpaid-rent-and-other-charges\"]",
+      "data_source": "news",
+      "last_updated": "2026-06-01T12:20:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     }
   ]
 }
