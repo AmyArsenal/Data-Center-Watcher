@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-01T21:46:28Z",
+  "generated_at": "2026-06-01T23:20:07Z",
   "window_days": 90,
-  "count": 615,
+  "count": 616,
   "items": [
+    {
+      "id": "gdelt-3db2076c7e5b19d6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Erin Brockovich , the activist who defeated a utility giant and inspired a Julia Roberts film , is pushing data centers to be more transparent",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/us/articles/erin-brockovich-activist-defeated-utility-175600894.html",
+      "date": "2026-06-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-01 23:20:06",
+      "url_hash": "3db2076c7e5b19d6",
+      "content_hash": "c881e4bb2b436e5f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-01T23:20:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-b7d9d8be51be8499",
       "state": "TN",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-01T21:46:28Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +150,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-01T21:46:28Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -149,7 +189,7 @@
         "rss-dcd"
       ],
       "snippet": "Activist behind PG&amp;E Hinkley lawsuit turns her ire towards data centers",
-      "last_seen": "2026-06-01T21:46:27Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -188,7 +228,7 @@
         "rss-dcd"
       ],
       "snippet": "But opposition continues to mount",
-      "last_seen": "2026-06-01T21:46:27Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4545,7 +4585,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-01T21:46:28Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5228,7 +5268,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-01T21:46:28Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6227,7 +6267,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-06-01T21:46:28Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8780,7 +8820,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-01T21:46:28Z",
+      "last_seen": "2026-06-01T23:20:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

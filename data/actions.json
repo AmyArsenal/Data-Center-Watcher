@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T21:46:28Z",
-  "count": 977,
+  "generated_at": "2026-06-01T23:20:07Z",
+  "count": 978,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-3db2076c7e5b19d6-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-01",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Erin Brockovich , the activist who defeated a utility giant and inspired a Julia Roberts film , is pushing data centers to be more transparent",
+      "sources": [
+        "https://yahoo.com/news/us/articles/erin-brockovich-activist-defeated-utility-175600894.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-01T23:20:06Z",
+      "first_seen": "2026-06-01T23:20:06Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-b7d9d8be51be8499-tn",
@@ -45806,21 +45851,21 @@
     },
     "US": {
       "state": "US",
-      "count": 446,
+      "count": 447,
       "outcome_counts": {
-        "pending": 276,
+        "pending": 277,
         "win": 157,
         "loss": 13,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 433,
+        "restrictive": 434,
         "protective": 0,
         "supportive": 13,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 441,
+        "local": 442,
         "statewide": 3,
         "federal": 2
       },
