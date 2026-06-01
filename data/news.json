@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-01T18:20:51Z",
+  "generated_at": "2026-06-01T21:46:28Z",
   "window_days": 90,
-  "count": 614,
+  "count": 615,
   "items": [
+    {
+      "id": "gdelt-b7d9d8be51be8499",
+      "state": "TN",
+      "city": null,
+      "category": "banned",
+      "headline": "Amid plans for new  high - density  AI data center campus in a Middle Tennessee city , locals push for moratorium on such facilities",
+      "source_domain": "wsmv.com",
+      "source_name": "wsmv.com",
+      "url": "https://wsmv.com/2026/06/01/amid-plans-new-high-density-ai-data-center-campus-middle-tennessee-city-locals-push-moratorium-such-facilities",
+      "date": "2026-06-01",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-01 21:46:28",
+      "url_hash": "b7d9d8be51be8499",
+      "content_hash": "9c3ba1ddb901b231",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-01T21:46:28Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-d5ba42a735519cbe",
       "state": "US",
@@ -70,7 +110,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-01T18:20:51Z",
+      "last_seen": "2026-06-01T21:46:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +149,7 @@
         "rss-dcd"
       ],
       "snippet": "Activist behind PG&amp;E Hinkley lawsuit turns her ire towards data centers",
-      "last_seen": "2026-06-01T18:20:51Z",
+      "last_seen": "2026-06-01T21:46:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -148,7 +188,7 @@
         "rss-dcd"
       ],
       "snippet": "But opposition continues to mount",
-      "last_seen": "2026-06-01T18:20:51Z",
+      "last_seen": "2026-06-01T21:46:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4505,7 +4545,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-01T18:20:51Z",
+      "last_seen": "2026-06-01T21:46:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5188,7 +5228,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-01T18:20:51Z",
+      "last_seen": "2026-06-01T21:46:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6187,7 +6227,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-06-01T18:20:51Z",
+      "last_seen": "2026-06-01T21:46:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8740,7 +8780,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-01T18:20:51Z",
+      "last_seen": "2026-06-01T21:46:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -24423,6 +24463,18 @@
     }
   ],
   "by_state": {
+    "TN": {
+      "state": "TN",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-06-01"
+    },
     "KY": {
       "state": "KY",
       "count": 1,
@@ -24600,18 +24652,6 @@
       },
       "platforms": {
         "news": 2
-      },
-      "latest_date": "2026-05-26"
-    },
-    "TN": {
-      "state": "TN",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-05-26"
     },

@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TN",
-  "generated_at": "2026-06-01T18:20:52Z",
+  "generated_at": "2026-06-01T21:46:28Z",
   "risk_score": {
-    "score": 46.7,
-    "tier": 21.3,
+    "score": 52.2,
+    "tier": 26.0,
     "engagement": 6.2,
-    "recency": 19.1,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
@@ -16,9 +16,9 @@
     "label": "Insufficient data"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 0,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 1,
     "blocked": 0,
     "active_companies": 1,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
     "null": 2,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
     "pending": 2,
-    "win": 1
+    "win": 2
   },
   "scope_counts": {
     "federal": 1,
     "statewide": 1,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "air_quality": 1,
@@ -56,8 +56,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-05",
-  "latest": "2026-05-26",
+  "latest": "2026-06-01",
   "top_citations": [
+    {
+      "id": "news:gdelt-b7d9d8be51be8499-tn",
+      "date": "2026-06-01",
+      "jurisdiction": "wsmv.com",
+      "title": "Amid plans for new  high - density  AI data center campus in a Middle Tennessee city , locals push for moratorium on such facilities",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wsmv.com/2026/06/01/amid-plans-new-high-density-ai-data-center-campus-middle-tennessee-city-locals-push-moratorium-such-facilities"
+    },
     {
       "id": "news:gdelt-c4d4bf30b6e60635-tn",
       "date": "2026-05-26",
