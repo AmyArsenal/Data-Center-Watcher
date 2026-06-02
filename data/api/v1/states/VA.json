@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-06-02T14:52:40Z",
+  "generated_at": "2026-06-02T18:28:11Z",
   "risk_score": {
-    "score": 49.7,
-    "tier": 19.1,
-    "engagement": 10.1,
-    "recency": 9.3,
-    "multi_source": 6.2,
+    "score": 50.7,
+    "tier": 19.6,
+    "engagement": 10.0,
+    "recency": 10.1,
+    "multi_source": 6.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.3,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.3,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 39,
+  "count": 40,
   "tier_counts": {
-    "restrictive": 9,
+    "restrictive": 10,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 16,
-    "pending": 19,
+    "pending": 20,
     "loss": 2,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 15,
+    "local": 16,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-05-26",
+  "latest": "2026-06-02",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-5c934942ac91b0c5-va",
+      "date": "2026-06-02",
+      "jurisdiction": "DCD",
+      "title": "Tract's 430-acre data center rejected by local officials in Hanover County, Virginia. A win for local opposition groups",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/tracts-430-acre-data-center-rejected-by-local-officials-in-hanover-county-virginia"
+    },
     {
       "id": "news:gdelt-f72afeae8f871477-va",
       "date": "2026-05-26",
@@ -152,15 +161,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://wtop.com/virginia/2026/04/prince-william-co-withdraws-from-digital-gateway-lawsuit-reversing-course-from-2023/"
-    },
-    {
-      "id": "court:prince-william-va-2026-04-01-va",
-      "date": "2026-04-01",
-      "jurisdiction": "Prince William County",
-      "title": "VA Court of Appeals halts 'Digital Gateway' mega data center rezoning near Manassas battlefield",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://virginiamercury.com/briefs/va-court-of-appeals-stops-major-data-center-development-in-prince-william-county/"
     }
   ]
 }
