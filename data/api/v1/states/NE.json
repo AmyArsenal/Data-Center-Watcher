@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NE",
-  "generated_at": "2026-06-02T23:15:03Z",
+  "generated_at": "2026-06-03T01:46:40Z",
   "risk_score": {
-    "score": 38.7,
-    "tier": 14.7,
-    "engagement": 11.5,
-    "recency": 4.2,
-    "multi_source": 8.3,
+    "score": 45.5,
+    "tier": 18.3,
+    "engagement": 10.7,
+    "recency": 9.3,
+    "multi_source": 7.1,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 61.3,
+    "score": 54.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "unclear": 3,
-    "restrictive": 1,
+    "restrictive": 2,
     "supportive": 1,
     "null": 1
   },
   "outcome_counts": {
-    "pending": 5,
+    "pending": 6,
     "mixed": 1
   },
   "scope_counts": {
-    "statewide": 6
+    "statewide": 7
   },
   "issue_top": {
     "tax_incentive": 3,
@@ -54,8 +54,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2023-01-10",
-  "latest": "2026-03-19",
+  "latest": "2026-06-02",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-6968652bc7fd5dc2-ne",
+      "date": "2026-06-02",
+      "jurisdiction": "RTO Insider",
+      "title": "Nebraska Governor, Legislature Move to Win ‘AI Power Game’. Nebraska’s government leaders are seeing growing local opposition to laws and po",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/133544-nebraska-governor-legislature-move-to-win-ai-power-game"
+    },
     {
       "id": "research:ne-nebraska-legislature-20260319-nebraska-lawmakers-approved-34-7-sen-barry-deka",
       "date": "2026-03-19",

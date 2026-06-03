@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T23:15:03Z",
-  "count": 988,
+  "generated_at": "2026-06-03T01:46:39Z",
+  "count": 989,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -519,6 +519,51 @@
       "data_source": "news",
       "last_updated": "2026-06-02T18:28:10Z",
       "first_seen": "2026-06-02T18:28:11Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-6968652bc7fd5dc2-ne",
+      "origin": "news",
+      "state": "NE",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "state_legislature",
+      "date": "2026-06-02",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Nebraska Governor, Legislature Move to Win ‘AI Power Game’. Nebraska’s government leaders are seeing growing local opposition to laws and policies that have helped make the state one of the nation’s hot spots for large-scale data center development. The post Nebraska Governor, Legislature Move to Win ‘AI Power Game’ appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/133544-nebraska-governor-legislature-move-to-win-ai-power-game"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-03T01:46:39Z",
+      "first_seen": "2026-06-03T01:46:39Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -46363,6 +46408,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "NE": {
+      "state": "NE",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 0,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 0,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 3,
+        "grid_energy": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-06-02",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "KY": {
       "state": "KY",
       "count": 5,
@@ -47492,35 +47566,6 @@
       "latest_date": "2026-03-24",
       "map_color_tier": null,
       "map_color_outcome": "win"
-    },
-    "NE": {
-      "state": "NE",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 0,
-        "statewide": 6,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 3,
-        "grid_energy": 1,
-        "ratepayer": 1
-      },
-      "latest_date": "2026-03-19",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "VT": {
       "state": "VT",
