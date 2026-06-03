@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-03T11:31:19Z",
+  "generated_at": "2026-06-03T16:04:50Z",
   "states": [
     {
       "state": "AK",
@@ -410,16 +410,16 @@
     },
     {
       "state": "NH",
-      "count": 4,
-      "risk_score": 39.4,
-      "grade": "N/A",
-      "grade_score": null,
+      "count": 5,
+      "risk_score": 48.8,
+      "grade": "C",
+      "grade_score": 51.2,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 1,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-28",
+      "latest": "2026-06-03",
       "url": "data/dossiers/state-NH.json"
     },
     {

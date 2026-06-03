@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-06-03T11:31:19Z",
+  "generated_at": "2026-06-03T16:04:49Z",
   "window_days": 90,
-  "count": 638,
+  "count": 640,
   "items": [
+    {
+      "id": "rss-dcd-ac746c660db11900",
+      "state": "NH",
+      "city": null,
+      "category": "protested",
+      "headline": "Proposal for data center in Nottingham, New Hampshire, withdrawn after facing intense opposition",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/proposal-for-data-center-in-nottingham-new-hampshire-withdrawn-after-facing-intense-opposition",
+      "date": "2026-06-03",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-03 16:04:49",
+      "url_hash": "ac746c660db11900",
+      "content_hash": "31a30c302e4af7ce",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "But proposal could be resubmitted",
+      "last_seen": "2026-06-03T16:04:49Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/proposal-for-data-center-in-nottingham-new-hampshire-withdrawn-after-facing-intense-opposition/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-2e4f097e41de5147",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "American law enforcement targets \"anti-tech violent extremist activity,\" have monitored data center protests and meetings - report",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/american-law-enforcement-targets-anti-tech-violent-extremist-activity-have-monitored-data-center-protests-and-meetings-report",
+      "date": "2026-06-03",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-03 16:04:49",
+      "url_hash": "2e4f097e41de5147",
+      "content_hash": "7464dcb50db06697",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Data center opposition is being monitored",
+      "last_seen": "2026-06-03T16:04:49Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/american-law-enforcement-targets-anti-tech-violent-extremist-activity-have-monitored-data-center-protests-and-meetings-report/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-bfba097c18513f2e",
       "state": "US",
@@ -390,7 +468,7 @@
         "rss-dcd"
       ],
       "snippet": "Company partners with local ISP Broadband Systems Corp",
-      "last_seen": "2026-06-03T11:31:18Z",
+      "last_seen": "2026-06-03T16:04:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -469,7 +547,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Nebraska’s government leaders are seeing growing local opposition to laws and policies that have helped make the state one of the nation’s hot spots for large-scale data center development. The post Nebraska Governor, Legislature Move to Win ‘AI Power Game’ appeared first on RTO Insider .",
-      "last_seen": "2026-06-03T11:31:18Z",
+      "last_seen": "2026-06-03T16:04:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1026,7 +1104,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-03T11:31:18Z",
+      "last_seen": "2026-06-03T16:04:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5461,7 +5539,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-03T11:31:18Z",
+      "last_seen": "2026-06-03T16:04:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6144,7 +6222,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-03T11:31:18Z",
+      "last_seen": "2026-06-03T16:04:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7143,7 +7221,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-06-03T11:31:18Z",
+      "last_seen": "2026-06-03T16:04:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9696,7 +9774,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-03T11:31:18Z",
+      "last_seen": "2026-06-03T16:04:49Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25379,6 +25457,19 @@
     }
   ],
   "by_state": {
+    "NH": {
+      "state": "NH",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-06-03"
+    },
     "NE": {
       "state": "NE",
       "count": 1,
@@ -25542,18 +25633,6 @@
         "reddit": 3,
         "tiktok": 3,
         "x": 1
-      },
-      "latest_date": "2026-05-28"
-    },
-    "NH": {
-      "state": "NH",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "announced": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-05-28"
     },

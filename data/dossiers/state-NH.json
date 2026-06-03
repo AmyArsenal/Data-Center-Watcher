@@ -1,46 +1,47 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NH",
-  "generated_at": "2026-06-03T11:31:19Z",
+  "generated_at": "2026-06-03T16:04:50Z",
   "risk_score": {
-    "score": 39.4,
-    "tier": 12.0,
-    "engagement": 9.4,
-    "recency": 13.0,
-    "multi_source": 5.0,
+    "score": 48.8,
+    "tier": 17.6,
+    "engagement": 8.8,
+    "recency": 18.4,
+    "multi_source": 4.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "N/A",
-    "score": null,
-    "label": "Insufficient data"
+    "letter": "C",
+    "score": 51.2,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 1,
     "denials": 1,
     "lawsuits": 0,
-    "blocked": 0,
+    "blocked": 1,
     "active_companies": 0,
     "bills_introduced": 2,
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 4,
+  "count": 5,
   "tier_counts": {
     "unclear": 1,
     "protective": 1,
     "null": 1,
-    "supportive": 1
+    "supportive": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
     "win": 1,
-    "pending": 2,
+    "pending": 3,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "environmental": 2,
@@ -53,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2025-11-21",
-  "latest": "2026-05-28",
+  "latest": "2026-06-03",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-ac746c660db11900-nh",
+      "date": "2026-06-03",
+      "jurisdiction": "DCD",
+      "title": "Proposal for data center in Nottingham, New Hampshire, withdrawn after facing intense opposition. But proposal could be resubmitted",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/proposal-for-data-center-in-nottingham-new-hampshire-withdrawn-after-facing-intense-opposition"
+    },
     {
       "id": "news:gdelt-f304232d66373ed5-nh",
       "date": "2026-05-28",
