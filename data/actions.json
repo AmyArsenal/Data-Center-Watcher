@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T00:09:31Z",
-  "count": 1004,
+  "generated_at": "2026-06-04T05:02:14Z",
+  "count": 1006,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-f51654f1a1e5cc5f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Asprofin Bank unveils $12bn proposal for data centers in UAE. The plan features a cost efficiency model reducing capex to $4m-$8m per MW",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/asprofin-bank-unveils-12bn-proposal-for-data-centers-in-uae"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-04T05:02:14Z",
+      "first_seen": "2026-06-04T05:02:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-067e744156987815-us",
@@ -656,6 +701,53 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dck-1e28dd45a0c4e0ad-ca",
+      "origin": "news",
+      "state": "CA",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "voters",
+      "date": "2026-06-03",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "California City Approves First Voter-Enacted Data Center Ban. Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000 sq.ft facility",
+      "sources": [
+        "https://datacenterknowledge.com/data-center-construction/california-city-approves-first-voter-enacted-data-center-ban"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-04T05:02:14Z",
+      "first_seen": "2026-06-04T05:02:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-dck-f5eedf3e7e65ed50-ca",
@@ -47035,21 +47127,21 @@
     },
     "US": {
       "state": "US",
-      "count": 469,
+      "count": 470,
       "outcome_counts": {
-        "pending": 286,
+        "pending": 287,
         "win": 169,
         "loss": 14,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 455,
+        "restrictive": 456,
         "protective": 0,
         "supportive": 14,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 464,
+        "local": 465,
         "statewide": 3,
         "federal": 2
       },
@@ -47058,7 +47150,7 @@
         "zoning": 35,
         "grid_energy": 13
       },
-      "latest_date": "2026-06-03",
+      "latest_date": "2026-06-04",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -47093,27 +47185,27 @@
     },
     "CA": {
       "state": "CA",
-      "count": 17,
+      "count": 18,
       "outcome_counts": {
         "pending": 9,
-        "win": 6,
+        "win": 7,
         "loss": 1,
         "mixed": 1
       },
       "tier_counts": {
-        "restrictive": 2,
+        "restrictive": 3,
         "protective": 1,
         "supportive": 0,
         "unclear": 9
       },
       "scope_counts": {
-        "local": 6,
+        "local": 7,
         "statewide": 11,
         "federal": 0
       },
       "issue_top": {
+        "community_impact": 5,
         "grid_energy": 5,
-        "community_impact": 4,
         "water": 4
       },
       "latest_date": "2026-06-03",

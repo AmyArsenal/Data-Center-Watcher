@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-06-04T00:09:31Z",
+  "generated_at": "2026-06-04T05:02:15Z",
   "risk_score": {
-    "score": 46.1,
-    "tier": 16.0,
-    "engagement": 9.9,
-    "recency": 9.3,
-    "multi_source": 5.9,
+    "score": 48.6,
+    "tier": 17.3,
+    "engagement": 9.7,
+    "recency": 11.0,
+    "multi_source": 5.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 53.9,
+    "score": 51.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 1,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 3,
@@ -26,27 +26,27 @@
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 17,
+  "count": 18,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "pending": 9,
-    "win": 6,
+    "win": 7,
     "mixed": 1,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 6
+    "local": 7
   },
   "issue_top": {
     "grid_energy": 5,
+    "community_impact": 5,
     "water": 4,
-    "community_impact": 4,
     "environmental": 2,
     "transparency": 2,
     "zoning": 2,
@@ -79,6 +79,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterknowledge.com/build-design/california-city-approves-first-voter-enacted-data-center-ban"
+    },
+    {
+      "id": "news:rss-dck-1e28dd45a0c4e0ad-ca",
+      "date": "2026-06-03",
+      "jurisdiction": "datacenterknowledge",
+      "title": "California City Approves First Voter-Enacted Data Center Ban. Monterey Park residents overwhelmingly backed a ballot measure prohibiting dat",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterknowledge.com/data-center-construction/california-city-approves-first-voter-enacted-data-center-ban"
     },
     {
       "id": "news:rss-arstechnica-4177700ba74cb9fe-ca",
@@ -151,15 +160,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1168"
-    },
-    {
-      "id": "openstates:ocd-bill-62cc514f-d799-4d01-afa2-0f2b633faee6-ca",
-      "date": "2026-02-04",
-      "jurisdiction": "CA Legislature",
-      "title": "Data centers: labor: electricity rates.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB978"
     }
   ]
 }
