@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-03T22:24:18Z",
+  "generated_at": "2026-06-04T00:09:31Z",
   "window_days": 90,
-  "count": 641,
+  "count": 642,
   "items": [
+    {
+      "id": "rss-dck-f5eedf3e7e65ed50",
+      "state": "CA",
+      "city": null,
+      "category": "banned",
+      "headline": "California City Approves First Voter-Enacted Data Center Ban",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/build-design/california-city-approves-first-voter-enacted-data-center-ban",
+      "date": "2026-06-03",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-04 00:09:30",
+      "url_hash": "f5eedf3e7e65ed50",
+      "content_hash": "5a378a1b955dfc3d",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
+      "last_seen": "2026-06-04T00:09:30Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/build-design/california-city-approves-first-voter-enacted-data-center-ban",
+        "rss_author": "",
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-latitude-cd5e7189fa5a50bf",
       "state": "US",
@@ -32,7 +71,7 @@
         "rss-latitude"
       ],
       "snippet": "Most hyperscalers are secretive about their data centers’ water use, fueling local opposition The post Data center water use can be a ‘black box.’ Google aims to change that appeared first on Latitude Media .",
-      "last_seen": "2026-06-03T22:24:17Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -71,7 +110,7 @@
         "rss-dcd"
       ],
       "snippet": "But proposal could be resubmitted",
-      "last_seen": "2026-06-03T22:24:17Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +149,7 @@
         "rss-dcd"
       ],
       "snippet": "Data center opposition is being monitored",
-      "last_seen": "2026-06-03T22:24:17Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -588,7 +627,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Nebraska’s government leaders are seeing growing local opposition to laws and policies that have helped make the state one of the nation’s hot spots for large-scale data center development. The post Nebraska Governor, Legislature Move to Win ‘AI Power Game’ appeared first on RTO Insider .",
-      "last_seen": "2026-06-03T22:24:18Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1145,7 +1184,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-03T22:24:18Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5580,7 +5619,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-03T22:24:18Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6263,7 +6302,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-03T22:24:18Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7262,7 +7301,7 @@
         "rss-dck"
       ],
       "snippet": "Virginia’s revised guidance reflects growing concern that hyperscale backup generators are moving beyond rarely used emergency systems as AI-driven load growth strains the grid.",
-      "last_seen": "2026-06-03T22:24:18Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9815,7 +9854,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-03T22:24:18Z",
+      "last_seen": "2026-06-04T00:09:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25498,6 +25537,19 @@
     }
   ],
   "by_state": {
+    "CA": {
+      "state": "CA",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-06-03"
+    },
     "NH": {
       "state": "NH",
       "count": 2,
@@ -25838,18 +25890,6 @@
         "reddit": 1
       },
       "latest_date": "2026-05-15"
-    },
-    "CA": {
-      "state": "CA",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-05-14"
     },
     "IN": {
       "state": "IN",

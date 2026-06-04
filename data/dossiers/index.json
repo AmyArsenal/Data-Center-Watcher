@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-03T22:24:18Z",
+  "generated_at": "2026-06-04T00:09:31Z",
   "states": [
     {
       "state": "AK",
@@ -60,16 +60,16 @@
     },
     {
       "state": "CA",
-      "count": 16,
-      "risk_score": 43.2,
+      "count": 17,
+      "risk_score": 46.1,
       "grade": "C",
-      "grade_score": 56.8,
+      "grade_score": 53.9,
       "moratoriums": 2,
       "approvals": 1,
-      "denials": 5,
+      "denials": 6,
       "lawsuits": 0,
       "active_companies": 3,
-      "latest": "2026-05-14",
+      "latest": "2026-06-03",
       "url": "data/dossiers/state-CA.json"
     },
     {

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-06-03T22:24:18Z",
+  "generated_at": "2026-06-04T00:09:31Z",
   "risk_score": {
-    "score": 43.2,
-    "tier": 14.5,
-    "engagement": 10.2,
-    "recency": 7.3,
-    "multi_source": 6.2,
+    "score": 46.1,
+    "tier": 16.0,
+    "engagement": 9.9,
+    "recency": 9.3,
+    "multi_source": 5.9,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 56.8,
+    "score": 53.9,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 1,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 3,
@@ -26,27 +26,27 @@
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 16,
+  "count": 17,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
     "pending": 9,
-    "win": 5,
+    "win": 6,
     "mixed": 1,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 5
+    "local": 6
   },
   "issue_top": {
     "grid_energy": 5,
     "water": 4,
-    "community_impact": 3,
+    "community_impact": 4,
     "environmental": 2,
     "transparency": 2,
     "zoning": 2,
@@ -69,8 +69,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-05-14",
+  "latest": "2026-06-03",
   "top_citations": [
+    {
+      "id": "news:rss-dck-f5eedf3e7e65ed50-ca",
+      "date": "2026-06-03",
+      "jurisdiction": "datacenterknowledge",
+      "title": "California City Approves First Voter-Enacted Data Center Ban. Monterey Park residents overwhelmingly backed a ballot measure prohibiting dat",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterknowledge.com/build-design/california-city-approves-first-voter-enacted-data-center-ban"
+    },
     {
       "id": "news:rss-arstechnica-4177700ba74cb9fe-ca",
       "date": "2026-05-14",
@@ -151,15 +160,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB978"
-    },
-    {
-      "id": "openstates:ocd-bill-165ca92b-63f7-4bd9-a990-b7ecd0dcbbfb-ca",
-      "date": "2026-01-13",
-      "jurisdiction": "CA Legislature",
-      "title": "California Environmental Quality Act: environmental leadership development projects: data centers: clean energy powerplant projects.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB887"
     }
   ]
 }

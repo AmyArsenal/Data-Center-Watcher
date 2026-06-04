@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T22:24:18Z",
-  "count": 1003,
+  "generated_at": "2026-06-04T00:09:31Z",
+  "count": 1004,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -656,6 +656,53 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dck-f5eedf3e7e65ed50-ca",
+      "origin": "news",
+      "state": "CA",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "voters",
+      "date": "2026-06-03",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "California City Approves First Voter-Enacted Data Center Ban. Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility",
+      "sources": [
+        "https://datacenterknowledge.com/build-design/california-city-approves-first-voter-enacted-data-center-ban"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-04T00:09:30Z",
+      "first_seen": "2026-06-04T00:09:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-latitude-cd5e7189fa5a50bf-us",
@@ -47044,6 +47091,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "CA": {
+      "state": "CA",
+      "count": 17,
+      "outcome_counts": {
+        "pending": 9,
+        "win": 6,
+        "loss": 1,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 1,
+        "supportive": 0,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 11,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 5,
+        "community_impact": 4,
+        "water": 4
+      },
+      "latest_date": "2026-06-03",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "VA": {
       "state": "VA",
       "count": 40,
@@ -47768,35 +47844,6 @@
       "latest_date": "2026-05-14",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "CA": {
-      "state": "CA",
-      "count": 16,
-      "outcome_counts": {
-        "pending": 9,
-        "win": 5,
-        "loss": 1,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 1,
-        "supportive": 0,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 11,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 5,
-        "water": 4,
-        "community_impact": 3
-      },
-      "latest_date": "2026-05-14",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "IL": {
       "state": "IL",
