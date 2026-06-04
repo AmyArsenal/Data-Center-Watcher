@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T11:49:22Z",
-  "count": 1006,
+  "generated_at": "2026-06-04T14:25:59Z",
+  "count": 1007,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-b84714ee88b46b54-nm",
+      "origin": "news",
+      "state": "NM",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-04",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Plans for 10,000 acre data center scrapped in Socorro, New Mexico. Insufficient continguous acreage, says President of New Mexico Institute of Mining and Technology",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/plans-for-10000-acre-data-center-scrapped-in-socorro-new-mexico"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-04T14:25:58Z",
+      "first_seen": "2026-06-04T14:25:59Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-dcd-f51654f1a1e5cc5f-us",
@@ -47154,6 +47199,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "NM": {
+      "state": "NM",
+      "count": 3,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 0,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 0,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 1,
+        "statewide": 1,
+        "federal": 1
+      },
+      "issue_top": {
+        "environmental": 2,
+        "water": 2,
+        "community_impact": 1
+      },
+      "latest_date": "2026-06-04",
+      "map_color_tier": "supportive",
+      "map_color_outcome": "loss"
+    },
     "NH": {
       "state": "NH",
       "count": 5,
@@ -48138,35 +48212,6 @@
       "latest_date": "2026-04-17",
       "map_color_tier": "unclear",
       "map_color_outcome": "win"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 2,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 0,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 0,
-        "statewide": 1,
-        "federal": 1
-      },
-      "issue_top": {
-        "environmental": 2,
-        "water": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-04-17",
-      "map_color_tier": null,
-      "map_color_outcome": "pending"
     },
     "SC": {
       "state": "SC",

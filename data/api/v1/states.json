@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-04T11:49:22Z",
+  "generated_at": "2026-06-04T14:25:59Z",
   "states": [
     {
       "state": "AK",
@@ -438,16 +438,16 @@
     },
     {
       "state": "NM",
-      "count": 2,
-      "risk_score": 26.9,
+      "count": 3,
+      "risk_score": 33.4,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
-      "approvals": 0,
+      "approvals": 1,
       "denials": 0,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-04-17",
+      "latest": "2026-06-04",
       "url": "data/dossiers/state-NM.json"
     },
     {

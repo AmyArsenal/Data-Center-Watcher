@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NM",
-  "generated_at": "2026-06-04T11:49:22Z",
+  "generated_at": "2026-06-04T14:25:59Z",
   "risk_score": {
-    "score": 26.9,
-    "tier": 12.0,
+    "score": 33.4,
+    "tier": 8.0,
     "engagement": 6.2,
-    "recency": 8.7,
+    "recency": 19.1,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
@@ -17,7 +17,7 @@
   },
   "quantified": {
     "moratoriums": 0,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 0,
     "lawsuits": 0,
     "blocked": 0,
@@ -26,16 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
-    "null": 2
+    "null": 2,
+    "supportive": 1
   },
   "outcome_counts": {
-    "pending": 2
+    "pending": 2,
+    "loss": 1
   },
   "scope_counts": {
     "statewide": 1,
-    "federal": 1
+    "federal": 1,
+    "local": 1
   },
   "issue_top": {
     "environmental": 2,
@@ -52,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-14",
-  "latest": "2026-04-17",
+  "latest": "2026-06-04",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-b84714ee88b46b54-nm",
+      "date": "2026-06-04",
+      "jurisdiction": "DCD",
+      "title": "Plans for 10,000 acre data center scrapped in Socorro, New Mexico. Insufficient continguous acreage, says President of New Mexico Institute ",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/plans-for-10000-acre-data-center-scrapped-in-socorro-new-mexico"
+    },
     {
       "id": "research:nm-ferc-staff-20260417-federal-regulatory-staff-at-ferc-formally-proteste",
       "date": "2026-04-17",
