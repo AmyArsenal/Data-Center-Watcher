@@ -1,8 +1,330 @@
 {
-  "generated_at": "2026-06-05T22:54:17Z",
+  "generated_at": "2026-06-05T23:56:10Z",
   "window_days": 90,
-  "count": 652,
+  "count": 660,
   "items": [
+    {
+      "id": "gdelt-908d5320fc3e76de",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Environmental and clean energy advocates largely oppose new data center and coal plant bill",
+      "source_domain": "wfae.org",
+      "source_name": "wfae.org",
+      "url": "https://wfae.org/energy-environment/2026-06-05/environmental-and-clean-energy-advocates-largely-oppose-new-data-center-and-coal-plant-bill",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "908d5320fc3e76de",
+      "content_hash": "fcd33109464e1ebc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-61c6175eba96ec2d",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Mid - Hudson Democrats praise pause on data centers in NY as Republicans balk",
+      "source_domain": "dailyfreeman.com",
+      "source_name": "dailyfreeman.com",
+      "url": "https://dailyfreeman.com/2026/06/05/mid-hudson-democrats-praise-pause-on-data-centers-in-ny-as-republicans-balk",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "61c6175eba96ec2d",
+      "content_hash": "7d4959276fafed89",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0d63d47a8ae063a3",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Newberry County passes 1 - year data center moratorium",
+      "source_domain": "wrdw.com",
+      "source_name": "wrdw.com",
+      "url": "https://wrdw.com/2026/06/05/newberry-county-passes-1-year-data-center-moratorium",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "0d63d47a8ae063a3",
+      "content_hash": "cbed4297694abc4b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3a34d2fe1177899d",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Monterey Park Voters Ban Data Centers in Historic Vote",
+      "source_domain": "kfiam640.iheart.com",
+      "source_name": "kfiam640.iheart.com",
+      "url": "https://kfiam640.iheart.com/content/2026-06-05-monterey-park-voters-ban-data-centers-in-historic-vote",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "3a34d2fe1177899d",
+      "content_hash": "7c5470d26da3e2f6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e5443841cd2c717f",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Dane County Board approves data center moratorium",
+      "source_domain": "isthmus.com",
+      "source_name": "isthmus.com",
+      "url": "https://isthmus.com/news/news/dane-county-board-approves-data-center-moratorium",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "e5443841cd2c717f",
+      "content_hash": "988e7f93a2976b41",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-45fcca706ef4fd46",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Amazon data center rises in Gilroy , while residents say they were left in the dark",
+      "source_domain": "montereyherald.com",
+      "source_name": "montereyherald.com",
+      "url": "https://montereyherald.com/2026/06/05/amazon-data-center-south-bay-gilroy",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Amazon"
+      ],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "45fcca706ef4fd46",
+      "content_hash": "96e5efc95f2a4377",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5c706895260b6488",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "El Paso Residents Voice Concerns Over Rapid Rise of Data Centers in Borderland region",
+      "source_domain": "ktep.org",
+      "source_name": "ktep.org",
+      "url": "https://ktep.org/2026-06-05/el-paso-residents-voice-concerns-over-rapid-rise-of-data-centers-in-borderland-region",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "5c706895260b6488",
+      "content_hash": "8778582da7204a29",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9d5ed76ddfdadadb",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Texas county rescinds data center moratorium after lawsuit",
+      "source_domain": "texastribune.org",
+      "source_name": "texastribune.org",
+      "url": "https://texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 23:56:09",
+      "url_hash": "9d5ed76ddfdadadb",
+      "content_hash": "8ba0fe44a6dc7623",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T23:56:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-rto-insider-db4179ec733c0f37",
       "state": "IL",
@@ -30,7 +352,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Illinois Gov. JB Pritzker announced a pause in new data center incentives and called on the General Assembly to pass legislation on their development after legislators failed to move a bill before adjourning for the summer. The post Illinois Governor Pauses Data Center Incentives and Calls for Legislation appeared first on RTO Insider .",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -69,7 +391,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center.",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -188,7 +510,7 @@
         "rss-dcd"
       ],
       "snippet": "Text of bill matches proposal submitted by Republican colleague earlier this year",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -227,7 +549,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The New York Assembly and Senate approved a one-year pause on new environmental permits for data centers with a peak load greater than 20 MW. The post N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider .",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -422,7 +744,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -463,7 +785,7 @@
         "rss-latitude"
       ],
       "snippet": "Most hyperscalers are secretive about their data centers’ water use, fueling local opposition The post Data center water use can be a ‘black box.’ Google aims to change that appeared first on Latitude Media .",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1576,7 +1898,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4213,7 +4535,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-05-27T23:53:16Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6011,7 +6333,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6694,7 +7016,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10246,7 +10568,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-05T22:54:17Z",
+      "last_seen": "2026-06-05T23:56:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25929,6 +26251,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 16,
+      "total_engagement": 629,
+      "categories": {
+        "banned": 6,
+        "protested": 10
+      },
+      "platforms": {
+        "news": 12,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-06-05"
+    },
     "IL": {
       "state": "IL",
       "count": 2,
@@ -26086,22 +26424,6 @@
         "x": 1
       },
       "latest_date": "2026-05-30"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 15,
-      "total_engagement": 629,
-      "categories": {
-        "banned": 5,
-        "protested": 10
-      },
-      "platforms": {
-        "news": 11,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-05-29"
     },
     "AZ": {
       "state": "AZ",

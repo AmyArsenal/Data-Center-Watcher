@@ -1,44 +1,44 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-06-05T22:54:18Z",
+  "generated_at": "2026-06-05T23:56:10Z",
   "risk_score": {
-    "score": 56.7,
-    "tier": 26.0,
+    "score": 57.8,
+    "tier": 26.5,
     "engagement": 6.5,
-    "recency": 18.9,
+    "recency": 19.6,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.3,
+    "score": 42.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 2,
-    "denials": 8,
-    "lawsuits": 1,
+    "denials": 9,
+    "lawsuits": 2,
     "blocked": 2,
     "active_companies": 8,
     "bills_introduced": 0,
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 30,
+  "count": 31,
   "tier_counts": {
-    "restrictive": 15,
+    "restrictive": 16,
     "null": 15
   },
   "outcome_counts": {
     "pending": 17,
     "mixed": 3,
     "loss": 2,
-    "win": 8
+    "win": 9
   },
   "scope_counts": {
-    "local": 26,
+    "local": 27,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +87,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-05-29",
+  "latest": "2026-06-05",
   "top_citations": [
+    {
+      "id": "news:gdelt-9d5ed76ddfdadadb-tx",
+      "date": "2026-06-05",
+      "jurisdiction": "texastribune.org",
+      "title": "Texas county rescinds data center moratorium after lawsuit",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers"
+    },
     {
       "id": "news:gdelt-298c14f02d0310dc-tx",
       "date": "2026-05-29",
@@ -169,15 +178,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/30m-data-center-near-austin-texas-fails-to-get-recommendation-for-approval-from-pz-commission"
-    },
-    {
-      "id": "news:rss-dcd-73c0770fbef78281-tx",
-      "date": "2026-04-29",
-      "jurisdiction": "DCD",
-      "title": "Soluna expands Blockware partnership with 3.3MW Texas deployment. Data center firm signs cryptominer as first customer at Project Dorothy 1B",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/soluna-expands-blockware-partnership-with-33mw-texas-deployment"
     }
   ]
 }
