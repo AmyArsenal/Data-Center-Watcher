@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WY",
-  "generated_at": "2026-06-04T23:58:01Z",
+  "generated_at": "2026-06-05T02:51:06Z",
   "risk_score": {
-    "score": 52.7,
+    "score": 47.1,
     "tier": 23.2,
     "engagement": 7.5,
-    "recency": 20.0,
+    "recency": 14.4,
     "multi_source": 2.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "D",
-    "score": 47.3,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 52.9,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 0,
