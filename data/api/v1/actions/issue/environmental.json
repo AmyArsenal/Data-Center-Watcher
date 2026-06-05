@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-06-05T13:40:54Z",
+  "generated_at": "2026-06-05T16:16:24Z",
   "filter": {
     "issue_category": "environmental"
   },
-  "count": 69,
+  "count": 70,
   "items": [
     {
       "id": "social:reddit-8ed4d33171baa5d0-me",
@@ -2766,6 +2766,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-a34a9f2b18480c54-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": "[\"moratorium\"]",
+      "authority_level": "state_legislature",
+      "date": "2026-06-05",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"environmental\",\"grid_energy\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium. The New York Assembly and Senate approved a one-year pause on new environmental permits for data centers with a peak load greater than 20 MW. The post N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider",
+      "sources": "[\"https://rtoinsider.com/133811-ny-legislature-sets-stage-nations-first-data-center-moratorium\"]",
+      "data_source": "news",
+      "last_updated": "2026-06-05T16:16:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }

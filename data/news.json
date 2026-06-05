@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-05T13:40:54Z",
+  "generated_at": "2026-06-05T16:16:24Z",
   "window_days": 90,
-  "count": 646,
+  "count": 647,
   "items": [
+    {
+      "id": "rss-rto-insider-a34a9f2b18480c54",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/133811-ny-legislature-sets-stage-nations-first-data-center-moratorium",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 16:16:23",
+      "url_hash": "a34a9f2b18480c54",
+      "content_hash": "d31f997ba0bb4238",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "The New York Assembly and Senate approved a one-year pause on new environmental permits for data centers with a peak load greater than 20 MW. The post N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider .",
+      "last_seen": "2026-06-05T16:16:23Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=133811",
+        "rss_author": "John Cropley",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-fcdb74a72191612f",
       "state": "US",
@@ -30,7 +69,7 @@
         "rss-dcd"
       ],
       "snippet": "Will be housed in a data center in Bangkok",
-      "last_seen": "2026-06-05T13:40:53Z",
+      "last_seen": "2026-06-05T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -186,7 +225,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-04T14:25:59Z",
+      "last_seen": "2026-06-05T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -227,7 +266,7 @@
         "rss-latitude"
       ],
       "snippet": "Most hyperscalers are secretive about their data centers’ water use, fueling local opposition The post Data center water use can be a ‘black box.’ Google aims to change that appeared first on Latitude Media .",
-      "last_seen": "2026-06-05T13:40:53Z",
+      "last_seen": "2026-06-05T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1340,7 +1379,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-05T13:40:53Z",
+      "last_seen": "2026-06-05T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5775,7 +5814,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-05T13:40:53Z",
+      "last_seen": "2026-06-05T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6458,7 +6497,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-05T13:40:53Z",
+      "last_seen": "2026-06-05T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10010,7 +10049,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-05T13:40:53Z",
+      "last_seen": "2026-06-05T16:16:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25693,6 +25732,19 @@
     }
   ],
   "by_state": {
+    "NY": {
+      "state": "NY",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-05"
+    },
     "NM": {
       "state": "NM",
       "count": 1,
@@ -25909,19 +25961,6 @@
         "news": 4
       },
       "latest_date": "2026-05-27"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-05-26"
     },
     "OR": {
       "state": "OR",

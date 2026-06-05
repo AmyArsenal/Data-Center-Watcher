@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T13:40:54Z",
-  "count": 1008,
+  "generated_at": "2026-06-05T16:16:24Z",
+  "count": 1009,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -112,6 +112,54 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-a34a9f2b18480c54-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "state_legislature",
+      "date": "2026-06-05",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "environmental",
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium. The New York Assembly and Senate approved a one-year pause on new environmental permits for data centers with a peak load greater than 20 MW. The post N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/133811-ny-legislature-sets-stage-nations-first-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-05T16:16:23Z",
+      "first_seen": "2026-06-05T16:16:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-dcd-b84714ee88b46b54-nm",
@@ -47244,6 +47292,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "NY": {
+      "state": "NY",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 2,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 5,
+        "environmental": 3,
+        "community_impact": 2
+      },
+      "latest_date": "2026-06-05",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "NM": {
       "state": "NM",
       "count": 3,
@@ -47705,35 +47782,6 @@
         "community_impact": 1
       },
       "latest_date": "2026-05-27",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 1,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 4,
-        "community_impact": 2,
-        "environmental": 2
-      },
-      "latest_date": "2026-05-26",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
