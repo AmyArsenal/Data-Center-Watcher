@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-06-05T16:16:24Z",
+  "generated_at": "2026-06-05T18:18:20Z",
   "window_days": 90,
-  "count": 647,
+  "count": 650,
   "items": [
+    {
+      "id": "gdelt-3d04bc4c0fc19752",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Lysander weighs advisory committee to guide data center plans during moratorium",
+      "source_domain": "cnycentral.com",
+      "source_name": "cnycentral.com",
+      "url": "https://cnycentral.com/news/local/lysander-weighs-advisory-committee-to-guide-data-center-plans-during-moratorium",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 18:18:19",
+      "url_hash": "3d04bc4c0fc19752",
+      "content_hash": "0bd7a9743761f7e8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T18:18:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1c537525753a762a",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Seattle data center proposed for downtown arts venue just days before city council votes on a moratorium",
+      "source_domain": "mynorthwest.com",
+      "source_name": "mynorthwest.com",
+      "url": "https://mynorthwest.com/local/seattle-data-center-moratorium-vote/4245196",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 18:18:19",
+      "url_hash": "1c537525753a762a",
+      "content_hash": "3a6500929e5865a8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-05T18:18:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-668692f87d482616",
+      "state": "MI",
+      "city": null,
+      "category": "banned",
+      "headline": "Michigan senator proposes one-year state-wide moratorium on data centers",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/michigan-senator-proposes-one-year-state-wide-moratorium-on-data-centers",
+      "date": "2026-06-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-05 18:18:19",
+      "url_hash": "668692f87d482616",
+      "content_hash": "469cc32195a5a8ed",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Text of bill matches proposal submitted by Republican colleague earlier this year",
+      "last_seen": "2026-06-05T18:18:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/michigan-senator-proposes-one-year-state-wide-moratorium-on-data-centers/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-rto-insider-a34a9f2b18480c54",
       "state": "NY",
@@ -30,7 +149,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The New York Assembly and Senate approved a one-year pause on new environmental permits for data centers with a peak load greater than 20 MW. The post N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider .",
-      "last_seen": "2026-06-05T16:16:23Z",
+      "last_seen": "2026-06-05T18:18:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -225,7 +344,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-05T16:16:23Z",
+      "last_seen": "2026-06-05T18:18:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -266,7 +385,7 @@
         "rss-latitude"
       ],
       "snippet": "Most hyperscalers are secretive about their data centers’ water use, fueling local opposition The post Data center water use can be a ‘black box.’ Google aims to change that appeared first on Latitude Media .",
-      "last_seen": "2026-06-05T16:16:23Z",
+      "last_seen": "2026-06-05T18:18:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1379,7 +1498,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-05T16:16:23Z",
+      "last_seen": "2026-06-05T18:18:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5814,7 +5933,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-05T16:16:23Z",
+      "last_seen": "2026-06-05T18:18:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6497,7 +6616,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-05T16:16:23Z",
+      "last_seen": "2026-06-05T18:18:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10049,7 +10168,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-05T16:16:23Z",
+      "last_seen": "2026-06-05T18:18:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25732,6 +25851,20 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 8,
+      "total_engagement": 104,
+      "categories": {
+        "banned": 5,
+        "protested": 3
+      },
+      "platforms": {
+        "news": 7,
+        "reddit": 1
+      },
+      "latest_date": "2026-06-05"
+    },
     "NY": {
       "state": "NY",
       "count": 3,
@@ -26040,20 +26173,6 @@
         "news": 18,
         "reddit": 17,
         "x": 4
-      },
-      "latest_date": "2026-05-21"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 7,
-      "total_engagement": 104,
-      "categories": {
-        "protested": 3,
-        "banned": 4
-      },
-      "platforms": {
-        "news": 6,
-        "reddit": 1
       },
       "latest_date": "2026-05-21"
     },

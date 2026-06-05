@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T16:16:24Z",
-  "count": 1009,
+  "generated_at": "2026-06-05T18:18:20Z",
+  "count": 1012,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,141 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-1c537525753a762a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "mynorthwest.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-05",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Seattle data center proposed for downtown arts venue just days before city council votes on a moratorium",
+      "sources": [
+        "https://mynorthwest.com/local/seattle-data-center-moratorium-vote/4245196"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-05T18:18:19Z",
+      "first_seen": "2026-06-05T18:18:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-3d04bc4c0fc19752-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cnycentral.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-05",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lysander weighs advisory committee to guide data center plans during moratorium",
+      "sources": [
+        "https://cnycentral.com/news/local/lysander-weighs-advisory-committee-to-guide-data-center-plans-during-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-05T18:18:19Z",
+      "first_seen": "2026-06-05T18:18:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-668692f87d482616-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-05",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan senator proposes one-year state-wide moratorium on data centers. Text of bill matches proposal submitted by Republican colleague earlier this year",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/michigan-senator-proposes-one-year-state-wide-moratorium-on-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-05T18:18:19Z",
+      "first_seen": "2026-06-05T18:18:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-dcd-fcdb74a72191612f-us",
@@ -47265,21 +47400,21 @@
     },
     "US": {
       "state": "US",
-      "count": 471,
+      "count": 473,
       "outcome_counts": {
         "pending": 288,
-        "win": 169,
+        "win": 171,
         "loss": 14,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 457,
+        "restrictive": 459,
         "protective": 0,
         "supportive": 14,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 466,
+        "local": 468,
         "statewide": 3,
         "federal": 2
       },
@@ -47316,6 +47451,35 @@
         "grid_energy": 5,
         "environmental": 3,
         "community_impact": 2
+      },
+      "latest_date": "2026-06-05",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 11,
+      "outcome_counts": {
+        "pending": 5,
+        "win": 6,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 8,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 10,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 3,
+        "environmental": 1,
+        "grid_energy": 1
       },
       "latest_date": "2026-06-05",
       "map_color_tier": "restrictive",
@@ -47871,35 +48035,6 @@
       "latest_date": "2026-05-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 10,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 5,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 7,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 9,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 3,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-05-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "ME": {
       "state": "ME",

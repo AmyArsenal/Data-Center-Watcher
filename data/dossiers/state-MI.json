@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-06-05T16:16:24Z",
+  "generated_at": "2026-06-05T18:18:20Z",
   "risk_score": {
-    "score": 57.3,
-    "tier": 31.6,
+    "score": 58.6,
+    "tier": 32.4,
     "engagement": 6.2,
-    "recency": 19.5,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 42.7,
+    "score": 41.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 0,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 2,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "null": 3
   },
   "outcome_counts": {
-    "win": 5,
+    "win": 6,
     "pending": 5
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 1
   },
   "issue_top": {
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-05-21",
+  "latest": "2026-06-05",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-668692f87d482616-mi",
+      "date": "2026-06-05",
+      "jurisdiction": "DCD",
+      "title": "Michigan senator proposes one-year state-wide moratorium on data centers. Text of bill matches proposal submitted by Republican colleague ea",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/michigan-senator-proposes-one-year-state-wide-moratorium-on-data-centers"
+    },
     {
       "id": "news:gdelt-66e34bdb76e39519-mi",
       "date": "2026-05-21",
@@ -143,15 +152,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.wilx.com/2026/03/03/michigan-lawmakers-propose-year-long-data-center-construction-moratorium/"
-    },
-    {
-      "id": "research:mi-city-of-dowagiac-20260301-hyperscale-data-an-ai-bitcoin-company-in-dowagiac",
-      "date": "2026-03-01",
-      "jurisdiction": "City of Dowagiac",
-      "title": "Hyperscale Data, an AI/bitcoin company in Dowagiac, announced 48-acre expansion growing site from 30 to 340 megawatts. City manager said cit",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://michiganadvance.com/briefs/dowagiac-data-center-moves-forward-with-expansion-plans-and-agreement-to-purchase-additional-land/"
     }
   ]
 }
