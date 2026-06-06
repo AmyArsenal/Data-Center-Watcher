@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-06-05T23:56:10Z",
+  "generated_at": "2026-06-06T02:02:51Z",
   "risk_score": {
-    "score": 52.6,
+    "score": 50.6,
     "tier": 20.2,
     "engagement": 9.4,
-    "recency": 13.1,
+    "recency": 11.0,
     "multi_source": 5.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.4,
+    "score": 49.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
