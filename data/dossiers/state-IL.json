@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IL",
-  "generated_at": "2026-06-06T15:37:33Z",
+  "generated_at": "2026-06-06T16:44:12Z",
   "risk_score": {
-    "score": 49.5,
-    "tier": 23.2,
+    "score": 52.2,
+    "tier": 26.0,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.5,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.8,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 1,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "null": 3,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
-    "win": 3,
+    "win": 4,
     "loss": 1,
     "pending": 1
   },
   "scope_counts": {
-    "local": 4,
+    "local": 5,
     "statewide": 1
   },
   "issue_top": {
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-16",
-  "latest": "2026-06-05",
+  "latest": "2026-06-06",
   "top_citations": [
+    {
+      "id": "news:gdelt-4f3470e4f1ba3b68-il",
+      "date": "2026-06-06",
+      "jurisdiction": "chicagotribune.com",
+      "title": "JB Pritzker pauses tax incentives for Illinois data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://chicagotribune.com/2026/06/06/jb-pritzker-illinois-tax-incentives-data-centers"
+    },
     {
       "id": "news:rss-rto-insider-db4179ec733c0f37-il",
       "date": "2026-06-05",

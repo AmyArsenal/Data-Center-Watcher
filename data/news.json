@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-06-06T15:37:33Z",
+  "generated_at": "2026-06-06T16:44:12Z",
   "window_days": 90,
-  "count": 667,
+  "count": 673,
   "items": [
+    {
+      "id": "gdelt-4f3470e4f1ba3b68",
+      "state": "IL",
+      "city": null,
+      "category": "banned",
+      "headline": "JB Pritzker pauses tax incentives for Illinois data centers",
+      "source_domain": "chicagotribune.com",
+      "source_name": "chicagotribune.com",
+      "url": "https://chicagotribune.com/2026/06/06/jb-pritzker-illinois-tax-incentives-data-centers",
+      "date": "2026-06-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-06 16:44:12",
+      "url_hash": "4f3470e4f1ba3b68",
+      "content_hash": "14b150f3fd29272f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-06T16:44:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-128dc2b074c6614d",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Grant County committee recommends data center moratorium to Board of Supervisors",
+      "source_domain": "telegraphherald.com",
+      "source_name": "telegraphherald.com",
+      "url": "https://telegraphherald.com/news/tri-state/article_34f4cb17-448c-4750-8ddb-94c288614b2a.html",
+      "date": "2026-06-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-06 16:44:12",
+      "url_hash": "128dc2b074c6614d",
+      "content_hash": "e1b92ac7d40ba27f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-06T16:44:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c14b0058d9a09772",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Legislative Roundup : Brown pushes for data center moratorium , says governor proposal falls short",
+      "source_domain": "timesleader.com",
+      "source_name": "timesleader.com",
+      "url": "https://timesleader.com/news/1744549/legislative-roundup-brown-pushes-for-data-center-moratorium-says-governors-proposal-falls-short",
+      "date": "2026-06-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-06 16:44:12",
+      "url_hash": "c14b0058d9a09772",
+      "content_hash": "d44589a015d74266",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-06T16:44:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0f7fea44287b5dd9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Laybourn and Wolfe : Data centers what is next before the City Council",
+      "source_domain": "wyomingnews.com",
+      "source_name": "wyomingnews.com",
+      "url": "https://wyomingnews.com/opinion/guest_column/laybourn-and-wolfe-data-centers-what-is-next-before-the-city-council/article_f77c64ee-510c-42c2-9642-38736203189c.html",
+      "date": "2026-06-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-06 16:44:12",
+      "url_hash": "0f7fea44287b5dd9",
+      "content_hash": "55ac5823dbd52726",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-06T16:44:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-230fce4ad956fca2",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Data center bans debated nationwide | National & World News",
+      "source_domain": "news8000.com",
+      "source_name": "news8000.com",
+      "url": "https://news8000.com/news/national-world/theyre-noisy-theyre-unpopular-should-data-centers-be-banned/article_bb385c79-0b10-5be6-8632-484a2199962e.html",
+      "date": "2026-06-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-06 16:44:12",
+      "url_hash": "230fce4ad956fca2",
+      "content_hash": "549d7e0c9ac368bc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-06T16:44:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e88670182a04121d",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Commissioners split on data center moratorium | Bowling Green Daily News",
+      "source_domain": "bgdailynews.com",
+      "source_name": "bgdailynews.com",
+      "url": "https://bgdailynews.com/2026/06/06/commissioners-split-on-data-center-moratorium",
+      "date": "2026-06-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-06 16:44:12",
+      "url_hash": "e88670182a04121d",
+      "content_hash": "8ff2d90903011914",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-06T16:44:12Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-c7944e81672753ef",
       "state": "US",
@@ -632,7 +872,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Illinois Gov. JB Pritzker announced a pause in new data center incentives and called on the General Assembly to pass legislation on their development after legislators failed to move a bill before adjourning for the summer. The post Illinois Governor Pauses Data Center Incentives and Calls for Legislation appeared first on RTO Insider .",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -671,7 +911,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center.",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -790,7 +1030,7 @@
         "rss-dcd"
       ],
       "snippet": "Text of bill matches proposal submitted by Republican colleague earlier this year",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -829,7 +1069,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The New York Assembly and Senate approved a one-year pause on new environmental permits for data centers with a peak load greater than 20 MW. The post N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider .",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1024,7 +1264,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1065,7 +1305,7 @@
         "rss-latitude"
       ],
       "snippet": "Most hyperscalers are secretive about their data centers’ water use, fueling local opposition The post Data center water use can be a ‘black box.’ Google aims to change that appeared first on Latitude Media .",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2178,7 +2418,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6613,7 +6853,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7296,7 +7536,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10848,7 +11088,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-06T15:37:32Z",
+      "last_seen": "2026-06-06T16:44:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -26531,6 +26771,19 @@
     }
   ],
   "by_state": {
+    "IL": {
+      "state": "IL",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-06"
+    },
     "TX": {
       "state": "TX",
       "count": 16,
@@ -26544,19 +26797,6 @@
         "tiktok": 2,
         "youtube": 1,
         "x": 1
-      },
-      "latest_date": "2026-06-05"
-    },
-    "IL": {
-      "state": "IL",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
       },
       "latest_date": "2026-06-05"
     },

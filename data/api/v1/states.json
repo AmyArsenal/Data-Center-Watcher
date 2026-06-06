@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-06T15:37:33Z",
+  "generated_at": "2026-06-06T16:44:12Z",
   "states": [
     {
       "state": "AK",
@@ -186,16 +186,16 @@
     },
     {
       "state": "IL",
-      "count": 5,
-      "risk_score": 49.5,
-      "grade": "C",
-      "grade_score": 50.5,
+      "count": 6,
+      "risk_score": 52.2,
+      "grade": "D",
+      "grade_score": 47.8,
       "moratoriums": 1,
       "approvals": 1,
-      "denials": 3,
+      "denials": 4,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-06-05",
+      "latest": "2026-06-06",
       "url": "data/dossiers/state-IL.json"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T15:37:33Z",
-  "count": 1029,
+  "generated_at": "2026-06-06T16:44:12Z",
+  "count": 1035,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -69,6 +69,96 @@
       "tier_reason": null
     },
     {
+      "id": "news:gdelt-0f7fea44287b5dd9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wyomingnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Laybourn and Wolfe : Data centers what is next before the City Council",
+      "sources": [
+        "https://wyomingnews.com/opinion/guest_column/laybourn-and-wolfe-data-centers-what-is-next-before-the-city-council/article_f77c64ee-510c-42c2-9642-38736203189c.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-06T16:44:12Z",
+      "first_seen": "2026-06-06T16:44:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-128dc2b074c6614d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "telegraphherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Grant County committee recommends data center moratorium to Board of Supervisors",
+      "sources": [
+        "https://telegraphherald.com/news/tri-state/article_34f4cb17-448c-4750-8ddb-94c288614b2a.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-06T16:44:12Z",
+      "first_seen": "2026-06-06T16:44:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-19ff8e4219268478-us",
       "origin": "news",
       "state": "US",
@@ -109,6 +199,96 @@
       "data_source": "news",
       "last_updated": "2026-06-06T06:00:52Z",
       "first_seen": "2026-06-06T06:00:52Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-230fce4ad956fca2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "news8000.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center bans debated nationwide | National & World News",
+      "sources": [
+        "https://news8000.com/news/national-world/theyre-noisy-theyre-unpopular-should-data-centers-be-banned/article_bb385c79-0b10-5be6-8632-484a2199962e.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-06T16:44:12Z",
+      "first_seen": "2026-06-06T16:44:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-4f3470e4f1ba3b68-il",
+      "origin": "news",
+      "state": "IL",
+      "county": null,
+      "jurisdiction": "chicagotribune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "JB Pritzker pauses tax incentives for Illinois data centers",
+      "sources": [
+        "https://chicagotribune.com/2026/06/06/jb-pritzker-illinois-tax-incentives-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-06T16:44:12Z",
+      "first_seen": "2026-06-06T16:44:12Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -297,6 +477,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-c14b0058d9a09772-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "timesleader.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-06-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Legislative Roundup : Brown pushes for data center moratorium , says governor proposal falls short",
+      "sources": [
+        "https://timesleader.com/news/1744549/legislative-roundup-brown-pushes-for-data-center-moratorium-says-governors-proposal-falls-short"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-06T16:44:12Z",
+      "first_seen": "2026-06-06T16:44:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-c7944e81672753ef-us",
       "origin": "news",
       "state": "US",
@@ -342,6 +567,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-e88670182a04121d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "bgdailynews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Commissioners split on data center moratorium | Bowling Green Daily News",
+      "sources": [
+        "https://bgdailynews.com/2026/06/06/commissioners-split-on-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-06T16:44:12Z",
+      "first_seen": "2026-06-06T16:44:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-f9022c82142f3d3c-us",
@@ -48177,28 +48447,57 @@
     },
     "US": {
       "state": "US",
-      "count": 488,
+      "count": 493,
       "outcome_counts": {
-        "pending": 293,
-        "win": 180,
+        "pending": 295,
+        "win": 183,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 473,
+        "restrictive": 478,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 481,
-        "statewide": 5,
+        "local": 485,
+        "statewide": 6,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 100,
         "zoning": 37,
         "grid_energy": 13
+      },
+      "latest_date": "2026-06-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "IL": {
+      "state": "IL",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 1,
+        "win": 4,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "farmland": 2,
+        "grid_energy": 2,
+        "water": 2
       },
       "latest_date": "2026-06-06",
       "map_color_tier": "restrictive",
@@ -48261,35 +48560,6 @@
       "latest_date": "2026-06-05",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "IL": {
-      "state": "IL",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 1,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "farmland": 2,
-        "grid_energy": 2,
-        "water": 2
-      },
-      "latest_date": "2026-06-05",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "TX": {
       "state": "TX",
