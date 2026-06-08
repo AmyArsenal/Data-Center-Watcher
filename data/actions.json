@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T13:56:13Z",
-  "count": 1038,
+  "generated_at": "2026-06-08T17:00:45Z",
+  "count": 1040,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -114,6 +114,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:rss-dcd-7e5aef74381f7287-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-06-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Activist investor urges Segro to spin off data center business - report. Lauro Asset Management says Segro's business is undervalued",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/activist-investor-urges-segro-to-spin-off-data-center-business-report"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-08T17:00:44Z",
+      "first_seen": "2026-06-08T17:00:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:rss-dcd-983029deb2fd6970-ut",
       "origin": "news",
       "state": "UT",
@@ -155,6 +200,53 @@
       "data_source": "news",
       "last_updated": "2026-06-08T09:53:34Z",
       "first_seen": "2026-06-08T09:53:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-f3c4ff8aa1facd10-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Officials in Hamilton, Canada, deny proposal for data center. Eight-hour meeting saw strong opposition from local residents",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/officials-in-hamilton-canada-deny-proposal-for-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-08T17:00:44Z",
+      "first_seen": "2026-06-08T17:00:45Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -48644,30 +48736,30 @@
     },
     "US": {
       "state": "US",
-      "count": 494,
+      "count": 496,
       "outcome_counts": {
-        "pending": 296,
+        "pending": 298,
         "win": 183,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 479,
+        "restrictive": 481,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 486,
+        "local": 488,
         "statewide": 6,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 100,
+        "community_impact": 101,
         "zoning": 37,
         "grid_energy": 13
       },
-      "latest_date": "2026-06-07",
+      "latest_date": "2026-06-08",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
