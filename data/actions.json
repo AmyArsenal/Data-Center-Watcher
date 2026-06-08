@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T05:09:13Z",
-  "count": 1036,
+  "generated_at": "2026-06-08T09:53:34Z",
+  "count": 1037,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-983029deb2fd6970-ut",
+      "origin": "news",
+      "state": "UT",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-06-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Utah Governor orders “higher bar” for data center development amid O’Leary data center debacle. State agencies were directed to protect utility ratepayers and residents' quality of life",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/utah-governor-orders-higher-bar-for-data-center-development-amid-oleary-data-center-debacle"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-08T09:53:34Z",
+      "first_seen": "2026-06-08T09:53:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-rto-insider-4e92fa5893e6e3e7-us",
@@ -48492,6 +48539,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "UT": {
+      "state": "UT",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 0,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "contract_guarantees": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-06-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
       "count": 494,
@@ -48837,35 +48913,6 @@
         "contract_guarantees": 1
       },
       "latest_date": "2026-06-01",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 6,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 4,
-        "contract_guarantees": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-05-31",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

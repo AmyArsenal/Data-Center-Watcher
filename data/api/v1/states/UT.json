@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-06-08T05:09:13Z",
+  "generated_at": "2026-06-08T09:53:34Z",
   "risk_score": {
-    "score": 67.2,
-    "tier": 36.0,
+    "score": 67.8,
+    "tier": 36.5,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "F",
-    "score": 32.8,
+    "score": 32.2,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "null": 1,
-    "restrictive": 6
+    "restrictive": 7
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 6
+    "pending": 7
   },
   "scope_counts": {
-    "statewide": 2,
+    "statewide": 3,
     "local": 5
   },
   "issue_top": {
-    "community_impact": 4,
+    "community_impact": 5,
     "grid_energy": 1,
     "ratepayer": 1,
     "contract_guarantees": 1
@@ -53,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2026-05-31",
+  "latest": "2026-06-08",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-983029deb2fd6970-ut",
+      "date": "2026-06-08",
+      "jurisdiction": "DCD",
+      "title": "Utah Governor orders “higher bar” for data center development amid O’Leary data center debacle. State agencies were directed to protect util",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/utah-governor-orders-higher-bar-for-data-center-development-amid-oleary-data-center-debacle"
+    },
     {
       "id": "news:gdelt-cd2f4fc2ecdba3d3-ut",
       "date": "2026-05-31",
