@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-06-07T23:00:46Z",
+  "generated_at": "2026-06-08T00:20:12Z",
   "risk_score": {
-    "score": 48.0,
+    "score": 43.6,
     "tier": 14.7,
     "engagement": 8.3,
-    "recency": 16.7,
+    "recency": 12.2,
     "multi_source": 3.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 52.0,
+    "score": 56.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
