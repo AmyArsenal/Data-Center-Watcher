@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-08T09:53:34Z",
+  "generated_at": "2026-06-08T13:56:13Z",
   "window_days": 90,
-  "count": 675,
+  "count": 676,
   "items": [
+    {
+      "id": "rss-dcd-57c02ca8d81ce25b",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "New York state legislature passes data center moratorium, awaits governor Hochul's approval",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/new-york-state-legislature-passes-data-center-moratorium-awaits-governor-hochuls-approval",
+      "date": "2026-06-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-08 13:56:13",
+      "url_hash": "57c02ca8d81ce25b",
+      "content_hash": "93bda351e55d8416",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Would make New York the first in the US to impose state-wide moratorium",
+      "last_seen": "2026-06-08T13:56:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/new-york-state-legislature-passes-data-center-moratorium-awaits-governor-hochuls-approval/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-983029deb2fd6970",
       "state": "UT",
@@ -30,7 +69,7 @@
         "rss-dcd"
       ],
       "snippet": "State agencies were directed to protect utility ratepayers and residents' quality of life",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +108,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Consumer and environmental activists in New England are voicing continued concern about how potential data center development could negatively affect the region’s decarbonization efforts and energy affordability. The post ISO-NE Consumer Liaison Group Talks Data Center Impacts appeared first on RTO Insider .",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -989,7 +1028,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center.",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1342,7 +1381,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1383,7 +1422,7 @@
         "rss-latitude"
       ],
       "snippet": "Most hyperscalers are secretive about their data centers’ water use, fueling local opposition The post Data center water use can be a ‘black box.’ Google aims to change that appeared first on Latitude Media .",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2496,7 +2535,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6931,7 +6970,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7614,7 +7653,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11166,7 +11205,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-08T09:53:34Z",
+      "last_seen": "2026-06-08T13:56:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -26849,6 +26888,19 @@
     }
   ],
   "by_state": {
+    "NY": {
+      "state": "NY",
+      "count": 4,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 3,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 4
+      },
+      "latest_date": "2026-06-08"
+    },
     "UT": {
       "state": "UT",
       "count": 7,
@@ -26901,19 +26953,6 @@
       "platforms": {
         "news": 7,
         "reddit": 1
-      },
-      "latest_date": "2026-06-05"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 3,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 3
       },
       "latest_date": "2026-06-05"
     },

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-06-08T09:53:34Z",
+  "generated_at": "2026-06-08T13:56:14Z",
   "risk_score": {
-    "score": 55.0,
-    "tier": 26.0,
-    "engagement": 7.3,
+    "score": 56.6,
+    "tier": 28.0,
+    "engagement": 7.1,
     "recency": 20.0,
-    "multi_source": 1.7,
+    "multi_source": 1.4,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 45.0,
+    "score": 43.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "null": 3,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "pending": 4,
-    "win": 2
+    "win": 3
   },
   "scope_counts": {
-    "statewide": 3,
+    "statewide": 4,
     "local": 3
   },
   "issue_top": {
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-06-05",
+  "latest": "2026-06-08",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-57c02ca8d81ce25b-ny",
+      "date": "2026-06-08",
+      "jurisdiction": "DCD",
+      "title": "New York state legislature passes data center moratorium, awaits governor Hochul's approval. Would make New York the first in the US to impo",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/new-york-state-legislature-passes-data-center-moratorium-awaits-governor-hochuls-approval"
+    },
     {
       "id": "news:rss-rto-insider-a34a9f2b18480c54-ny",
       "date": "2026-06-05",
