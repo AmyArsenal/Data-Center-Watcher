@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KY",
-  "generated_at": "2026-06-08T19:21:45Z",
+  "generated_at": "2026-06-08T21:19:47Z",
   "risk_score": {
-    "score": 45.3,
-    "tier": 17.6,
-    "engagement": 8.8,
-    "recency": 14.9,
-    "multi_source": 4.0,
+    "score": 52.1,
+    "tier": 21.3,
+    "engagement": 8.3,
+    "recency": 19.1,
+    "multi_source": 3.3,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 54.7,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.9,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 0,
     "approvals": 1,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 1,
     "blocked": 0,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
-    "win": 1,
+    "win": 2,
     "pending": 3,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "ratepayer": 1,
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-06-01",
+  "latest": "2026-06-08",
   "top_citations": [
+    {
+      "id": "news:gdelt-18ce0ba373665603-ky",
+      "date": "2026-06-08",
+      "jurisdiction": "the-messenger.com",
+      "title": "Some Kentucky counties and cities are hitting pause on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://the-messenger.com/news/article_ed7b9f82-e791-5866-965b-ad91c008270a.html"
+    },
     {
       "id": "news:rss-dcd-ab93ee53a6b681c1-ky",
       "date": "2026-06-01",

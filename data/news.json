@@ -1,8 +1,208 @@
 {
-  "generated_at": "2026-06-08T19:21:45Z",
+  "generated_at": "2026-06-08T21:19:47Z",
   "window_days": 90,
-  "count": 678,
+  "count": 683,
   "items": [
+    {
+      "id": "gdelt-9b0babd95f85fabe",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Builders must be part of the response to data center opposition",
+      "source_domain": "constructiondive.com",
+      "source_name": "constructiondive.com",
+      "url": "https://constructiondive.com/news/builders-must-respond-data-center-opposition/821893",
+      "date": "2026-06-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-08 21:19:46",
+      "url_hash": "9b0babd95f85fabe",
+      "content_hash": "625456ca063cb0cb",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-08T21:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-35e2d6d500bf36e3",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "New York Votes For Nation - First Pause On AI Data Centers",
+      "source_domain": "bigfrog104.com",
+      "source_name": "bigfrog104.com",
+      "url": "https://bigfrog104.com/ixp/854/p/ai-data-center-pause-new-york",
+      "date": "2026-06-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-08 21:19:46",
+      "url_hash": "35e2d6d500bf36e3",
+      "content_hash": "f1652aef4625e1bc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-08T21:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d06bc2c8f5393e8d",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "New York State Legislature passes bill to put a one - year moratorium on data centers",
+      "source_domain": "wcax.com",
+      "source_name": "wcax.com",
+      "url": "https://wcax.com/2026/06/05/new-york-state-legislature-passes-bill-put-one-year-moratorium-data-centers",
+      "date": "2026-06-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-08 21:19:46",
+      "url_hash": "d06bc2c8f5393e8d",
+      "content_hash": "932ba24f1afc38d6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-08T21:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-471992c22b2d95c2",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "DeKalb County to consider extending data center moratorium",
+      "source_domain": "decaturish.com",
+      "source_name": "decaturish.com",
+      "url": "https://decaturish.com/news/dekalb/dekalb-county-to-consider-extending-data-center-moratorium/article_6af20c81-389a-43ec-8e57-0abe552f6c7c.html",
+      "date": "2026-06-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-08 21:19:46",
+      "url_hash": "471992c22b2d95c2",
+      "content_hash": "006941ba26b661d7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-08T21:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-18ce0ba373665603",
+      "state": "KY",
+      "city": null,
+      "category": "banned",
+      "headline": "Some Kentucky counties and cities are hitting pause on data centers",
+      "source_domain": "the-messenger.com",
+      "source_name": "the-messenger.com",
+      "url": "https://the-messenger.com/news/article_ed7b9f82-e791-5866-965b-ad91c008270a.html",
+      "date": "2026-06-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-08 21:19:46",
+      "url_hash": "18ce0ba373665603",
+      "content_hash": "60740931746de92b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-08T21:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-7e5aef74381f7287",
       "state": "US",
@@ -30,7 +230,7 @@
         "rss-dcd"
       ],
       "snippet": "Lauro Asset Management says Segro's business is undervalued",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +269,7 @@
         "rss-dcd"
       ],
       "snippet": "Eight-hour meeting saw strong opposition from local residents",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -108,7 +308,7 @@
         "rss-dcd"
       ],
       "snippet": "Would make New York the first in the US to impose state-wide moratorium",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -186,7 +386,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Consumer and environmental activists in New England are voicing continued concern about how potential data center development could negatively affect the region’s decarbonization efforts and energy affordability. The post ISO-NE Consumer Liaison Group Talks Data Center Impacts appeared first on RTO Insider .",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1459,7 +1659,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1500,7 +1700,7 @@
         "rss-latitude"
       ],
       "snippet": "Most hyperscalers are secretive about their data centers’ water use, fueling local opposition The post Data center water use can be a ‘black box.’ Google aims to change that appeared first on Latitude Media .",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2613,7 +2813,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7048,7 +7248,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7731,7 +7931,7 @@
         "rss-dck"
       ],
       "snippet": "AI data centers face a critical 'memory wall' bottleneck where GPU processing power vastly outpaces memory bandwidth and capacity.",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11283,7 +11483,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-08T19:21:44Z",
+      "last_seen": "2026-06-08T21:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -26968,14 +27168,27 @@
   "by_state": {
     "NY": {
       "state": "NY",
-      "count": 4,
+      "count": 6,
       "total_engagement": 0,
       "categories": {
-        "banned": 3,
+        "banned": 5,
         "protested": 1
       },
       "platforms": {
-        "news": 4
+        "news": 6
+      },
+      "latest_date": "2026-06-08"
+    },
+    "KY": {
+      "state": "KY",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
       },
       "latest_date": "2026-06-08"
     },
@@ -27109,18 +27322,6 @@
       },
       "platforms": {
         "news": 2
-      },
-      "latest_date": "2026-06-01"
-    },
-    "KY": {
-      "state": "KY",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
       },
       "latest_date": "2026-06-01"
     },

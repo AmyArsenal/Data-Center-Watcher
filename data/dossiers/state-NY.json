@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-06-08T19:21:45Z",
+  "generated_at": "2026-06-08T21:19:47Z",
   "risk_score": {
-    "score": 56.6,
-    "tier": 28.0,
-    "engagement": 7.1,
+    "score": 58.7,
+    "tier": 30.7,
+    "engagement": 6.9,
     "recency": 20.0,
-    "multi_source": 1.4,
+    "multi_source": 1.1,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.4,
+    "score": 41.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 0,
-    "denials": 3,
+    "denials": 5,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 7,
+  "count": 9,
   "tier_counts": {
     "null": 3,
-    "restrictive": 4
+    "restrictive": 6
   },
   "outcome_counts": {
     "pending": 4,
-    "win": 3
+    "win": 5
   },
   "scope_counts": {
-    "statewide": 4,
-    "local": 3
+    "statewide": 5,
+    "local": 4
   },
   "issue_top": {
     "grid_energy": 5,
@@ -67,6 +67,24 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/new-york-state-legislature-passes-data-center-moratorium-awaits-governor-hochuls-approval"
+    },
+    {
+      "id": "news:gdelt-d06bc2c8f5393e8d-ny",
+      "date": "2026-06-08",
+      "jurisdiction": "wcax.com",
+      "title": "New York State Legislature passes bill to put a one - year moratorium on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wcax.com/2026/06/05/new-york-state-legislature-passes-bill-put-one-year-moratorium-data-centers"
+    },
+    {
+      "id": "news:gdelt-35e2d6d500bf36e3-ny",
+      "date": "2026-06-08",
+      "jurisdiction": "bigfrog104.com",
+      "title": "New York Votes For Nation - First Pause On AI Data Centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://bigfrog104.com/ixp/854/p/ai-data-center-pause-new-york"
     },
     {
       "id": "news:rss-rto-insider-a34a9f2b18480c54-ny",
