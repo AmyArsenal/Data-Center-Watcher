@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T09:24:59Z",
-  "count": 1046,
+  "generated_at": "2026-06-09T12:19:35Z",
+  "count": 1050,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,186 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-5e7f5e8f85a950c9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "observer-reporter.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": null,
+      "date": "2026-06-09",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "South Strabane to hold hearing before data center ordinance vote",
+      "sources": [
+        "https://observer-reporter.com/news/local-news/2026/jun/09/south-strabane-to-hold-hearing-before-data-center-ordinance-vote"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-09T12:19:35Z",
+      "first_seen": "2026-06-09T12:19:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-77f51846d7b6e0a8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "okcfox.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-09",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Edmond City Council approves data center permit moratorium through December",
+      "sources": [
+        "https://okcfox.com/news/local/edmond-city-council-approves-data-center-permit-moratorium-through-december"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-09T12:19:35Z",
+      "first_seen": "2026-06-09T12:19:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9d9e65abe94c7e45-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wbrc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-09",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "City of Leeds passes one - year moratorium on data center development",
+      "sources": [
+        "https://wbrc.com/2026/06/09/city-leeds-passes-one-year-moratorium-data-center-development"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-09T12:19:35Z",
+      "first_seen": "2026-06-09T12:19:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e4462cbb53d32f9a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wvtm13.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-09",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "City of Leeds approves one - year moratorium on data centers",
+      "sources": [
+        "https://wvtm13.com/article/leeds-data-center-moratorium-vote-alabama/71528436"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-09T12:19:35Z",
+      "first_seen": "2026-06-09T12:19:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-18ce0ba373665603-ky",
@@ -48946,6 +49126,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "US": {
+      "state": "US",
+      "count": 503,
+      "outcome_counts": {
+        "pending": 301,
+        "win": 187,
+        "loss": 15,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 488,
+        "protective": 0,
+        "supportive": 15,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 495,
+        "statewide": 6,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 101,
+        "zoning": 37,
+        "grid_energy": 13
+      },
+      "latest_date": "2026-06-09",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "UT": {
       "state": "UT",
       "count": 8,
@@ -49003,35 +49212,6 @@
       "latest_date": "2026-06-08",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 499,
-      "outcome_counts": {
-        "pending": 300,
-        "win": 184,
-        "loss": 15,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 484,
-        "protective": 0,
-        "supportive": 15,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 491,
-        "statewide": 6,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 101,
-        "zoning": 37,
-        "grid_energy": 13
-      },
-      "latest_date": "2026-06-08",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "KY": {
       "state": "KY",
