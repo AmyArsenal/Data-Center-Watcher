@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-08T23:55:47Z",
+  "generated_at": "2026-06-09T01:53:15Z",
   "states": [
     {
       "state": "AK",
@@ -201,9 +201,9 @@
     {
       "state": "IN",
       "count": 10,
-      "risk_score": 52.8,
+      "risk_score": 50.2,
       "grade": "D",
-      "grade_score": 47.2,
+      "grade_score": 49.8,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 2,
