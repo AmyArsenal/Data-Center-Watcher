@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-10T17:47:43Z",
+  "generated_at": "2026-06-10T20:06:39Z",
   "states": [
     {
       "state": "AK",
@@ -466,16 +466,16 @@
     },
     {
       "state": "NY",
-      "count": 9,
-      "risk_score": 58.7,
+      "count": 10,
+      "risk_score": 59.5,
       "grade": "D",
-      "grade_score": 41.3,
-      "moratoriums": 5,
+      "grade_score": 40.5,
+      "moratoriums": 6,
       "approvals": 0,
       "denials": 5,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-06-08",
+      "latest": "2026-06-10",
       "url": "data/dossiers/state-NY.json"
     },
     {

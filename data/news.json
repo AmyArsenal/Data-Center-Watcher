@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-10T17:47:43Z",
+  "generated_at": "2026-06-10T20:06:39Z",
   "window_days": 90,
-  "count": 700,
+  "count": 701,
   "items": [
+    {
+      "id": "rss-dck-a34734cb7dc115de",
+      "state": "NY",
+      "city": null,
+      "category": "protested",
+      "headline": "New York Confronts the Data Center Boom: Balancing Growth and Grid Reform",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/regulations/new-york-confronts-the-data-center-boom-balancing-growth-and-grid-reform",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 20:06:38",
+      "url_hash": "a34734cb7dc115de",
+      "content_hash": "8eaab837ec5e0ec2",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
+      "last_seen": "2026-06-10T20:06:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/regulations/new-york-confronts-the-data-center-boom-balancing-growth-and-grid-reform",
+        "rss_author": "Graham Coates, Brendan Connors, Nic Martell, Industry Perspectives",
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-dc7a761f27a9a91a",
       "state": "US",
@@ -152,7 +191,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege \"foreign influence campaigns\" are responsible for data center opposition",
-      "last_seen": "2026-06-10T17:47:42Z",
+      "last_seen": "2026-06-10T20:06:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -433,7 +472,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-10T17:47:42Z",
+      "last_seen": "2026-06-10T20:06:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2341,7 +2380,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-10T17:47:42Z",
+      "last_seen": "2026-06-10T20:06:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3495,7 +3534,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-10T17:47:42Z",
+      "last_seen": "2026-06-10T20:06:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7930,7 +7969,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-10T17:47:42Z",
+      "last_seen": "2026-06-10T20:06:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12165,7 +12204,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-10T17:47:42Z",
+      "last_seen": "2026-06-10T20:06:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -27848,6 +27887,19 @@
     }
   ],
   "by_state": {
+    "NY": {
+      "state": "NY",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 5
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-06-10"
+    },
     "MS": {
       "state": "MS",
       "count": 1,
@@ -27889,19 +27941,6 @@
         "news": 3
       },
       "latest_date": "2026-06-10"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 5,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 6
-      },
-      "latest_date": "2026-06-08"
     },
     "KY": {
       "state": "KY",
