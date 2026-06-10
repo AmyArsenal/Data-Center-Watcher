@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-06-10T22:19:20Z",
+  "generated_at": "2026-06-10T23:53:03Z",
   "risk_score": {
-    "score": 43.6,
-    "tier": 14.7,
-    "engagement": 8.3,
-    "recency": 12.2,
-    "multi_source": 3.3,
+    "score": 50.4,
+    "tier": 18.3,
+    "engagement": 8.0,
+    "recency": 16.2,
+    "multi_source": 2.9,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 56.4,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.6,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 1,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 1,
     "blocked": 0,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 1,
+    "restrictive": 2,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 3,
-    "win": 2,
+    "win": 3,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "tax_incentive": 1,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-05-25",
+  "latest": "2026-06-10",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-c6804f1f813c9cc9-or",
+      "date": "2026-06-10",
+      "jurisdiction": "RTO Insider",
+      "title": "Oregon PUC Pauses PGE’s Data Center Rate Hikes. The Oregon Public Utility Commission paused implementation of rate hikes on Portland General",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://rtoinsider.com/134135-oregon-puc-pauses-pge-data-center-rate-hikes"
+    },
     {
       "id": "news:rss-dcd-693e970181f8c143-or",
       "date": "2026-05-25",

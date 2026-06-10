@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T22:19:20Z",
-  "count": 1063,
+  "generated_at": "2026-06-10T23:53:03Z",
+  "count": 1064,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -657,6 +657,52 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-c6804f1f813c9cc9-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report",
+        "utility_regulation"
+      ],
+      "authority_level": "utility_commission",
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Oregon PUC Pauses PGE’s Data Center Rate Hikes. The Oregon Public Utility Commission paused implementation of rate hikes on Portland General Electric’s data center customers after finding issues with the utility’s compliance filing. The post Oregon PUC Pauses PGE’s Data Center Rate Hikes appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/134135-oregon-puc-pauses-pge-data-center-rate-hikes"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T23:53:02Z",
+      "first_seen": "2026-06-10T23:53:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-5e7f5e8f85a950c9-us",
@@ -49861,6 +49907,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "OR": {
+      "state": "OR",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 3,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 1,
+        "environmental": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-06-10",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "UT": {
       "state": "UT",
       "count": 8,
@@ -50324,35 +50399,6 @@
       "latest_date": "2026-05-27",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 2,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 1,
-        "environmental": 1,
-        "ratepayer": 1
-      },
-      "latest_date": "2026-05-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "WA": {
       "state": "WA",

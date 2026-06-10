@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-10T22:19:20Z",
+  "generated_at": "2026-06-10T23:53:03Z",
   "window_days": 90,
-  "count": 701,
+  "count": 702,
   "items": [
+    {
+      "id": "rss-rto-insider-c6804f1f813c9cc9",
+      "state": "OR",
+      "city": null,
+      "category": "banned",
+      "headline": "Oregon PUC Pauses PGE’s Data Center Rate Hikes",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/134135-oregon-puc-pauses-pge-data-center-rate-hikes",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 23:53:02",
+      "url_hash": "c6804f1f813c9cc9",
+      "content_hash": "dee380b2180eff83",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "The Oregon Public Utility Commission paused implementation of rate hikes on Portland General Electric’s data center customers after finding issues with the utility’s compliance filing. The post Oregon PUC Pauses PGE’s Data Center Rate Hikes appeared first on RTO Insider .",
+      "last_seen": "2026-06-10T23:53:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=134135",
+        "rss_author": "Henrik Nilsson",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dck-a34734cb7dc115de",
       "state": "NY",
@@ -30,7 +69,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-10T22:19:19Z",
+      "last_seen": "2026-06-10T23:53:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -191,7 +230,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege \"foreign influence campaigns\" are responsible for data center opposition",
-      "last_seen": "2026-06-10T22:19:19Z",
+      "last_seen": "2026-06-10T23:53:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -472,7 +511,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-10T22:19:19Z",
+      "last_seen": "2026-06-10T23:53:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2380,7 +2419,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-10T22:19:19Z",
+      "last_seen": "2026-06-10T23:53:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3534,7 +3573,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-10T22:19:19Z",
+      "last_seen": "2026-06-10T23:53:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7969,7 +8008,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-10T22:19:19Z",
+      "last_seen": "2026-06-10T23:53:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -27887,6 +27926,20 @@
     }
   ],
   "by_state": {
+    "OR": {
+      "state": "OR",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "announced": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-10"
+    },
     "NY": {
       "state": "NY",
       "count": 7,
@@ -28156,19 +28209,6 @@
         "news": 4
       },
       "latest_date": "2026-05-27"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "announced": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-05-25"
     },
     "WA": {
       "state": "WA",
