@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T14:52:10Z",
-  "count": 1059,
+  "generated_at": "2026-06-10T17:47:43Z",
+  "count": 1062,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -112,6 +112,54 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-5c404eb756f6e460-ms",
+      "origin": "news",
+      "state": "MS",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact",
+        "noise"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Mississippi residents sue xAI and SpaceX over data center noise",
+      "sources": [
+        "https://yahoo.com/news/us/articles/mississippi-residents-sue-xai-spacex-121414683.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T17:47:42Z",
+      "first_seen": "2026-06-10T17:47:42Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-69ab820d65758241-us",
@@ -294,6 +342,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-dc7a761f27a9a91a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wrganews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Floyd County implements temporary moratorium on data center projects .",
+      "sources": [
+        "https://wrganews.com/2026/06/10/the-floyd-county-commission-approved-an-80-day-moratorium-on-data-center-projects"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T17:47:42Z",
+      "first_seen": "2026-06-10T17:47:42Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-e5df1f150d06fcc6-oh",
       "origin": "news",
       "state": "OH",
@@ -337,6 +430,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-ed4312b1a94f2fdf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "patch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Plymouth Twp . Council Opposes Data Center , Cites Threat To Health And Safety",
+      "sources": [
+        "https://patch.com/pennsylvania/plymouthwhitemarsh/plymouth-twp-council-opposes-data-center-cites-threat-health-safety"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T17:47:42Z",
+      "first_seen": "2026-06-10T17:47:42Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-ae1c7d7442b61b85-wy",
@@ -49562,21 +49700,21 @@
     },
     "US": {
       "state": "US",
-      "count": 510,
+      "count": 512,
       "outcome_counts": {
-        "pending": 304,
-        "win": 191,
+        "pending": 305,
+        "win": 192,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 495,
+        "restrictive": 497,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 502,
+        "local": 504,
         "statewide": 6,
         "federal": 2
       },
@@ -49617,6 +49755,35 @@
       "latest_date": "2026-06-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "MS": {
+      "state": "MS",
+      "count": 2,
+      "outcome_counts": {
+        "pending": 0,
+        "win": 1,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 1,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "grid_energy": 1,
+        "noise": 1
+      },
+      "latest_date": "2026-06-10",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "mixed"
     },
     "UT": {
       "state": "UT",
@@ -50892,35 +51059,6 @@
       "latest_date": "2026-02-19",
       "map_color_tier": null,
       "map_color_outcome": "pending"
-    },
-    "MS": {
-      "state": "MS",
-      "count": 1,
-      "outcome_counts": {
-        "pending": 0,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 0,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 1,
-        "grid_energy": 1,
-        "tax_incentive": 1
-      },
-      "latest_date": "2025-11-20",
-      "map_color_tier": null,
-      "map_color_outcome": "mixed"
     },
     "ND": {
       "state": "ND",

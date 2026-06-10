@@ -1,8 +1,130 @@
 {
-  "generated_at": "2026-06-10T14:52:10Z",
+  "generated_at": "2026-06-10T17:47:43Z",
   "window_days": 90,
-  "count": 697,
+  "count": 700,
   "items": [
+    {
+      "id": "gdelt-dc7a761f27a9a91a",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Floyd County implements temporary moratorium on data center projects .",
+      "source_domain": "wrganews.com",
+      "source_name": "wrganews.com",
+      "url": "https://wrganews.com/2026/06/10/the-floyd-county-commission-approved-an-80-day-moratorium-on-data-center-projects",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 17:47:42",
+      "url_hash": "dc7a761f27a9a91a",
+      "content_hash": "57976f5f467fe748",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T17:47:42Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5c404eb756f6e460",
+      "state": "MS",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Mississippi residents sue xAI and SpaceX over data center noise",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/us/articles/mississippi-residents-sue-xai-spacex-121414683.html",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "xAI"
+      ],
+      "first_seen": "2026-06-10 17:47:42",
+      "url_hash": "5c404eb756f6e460",
+      "content_hash": "abb1673dbb5d1b05",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T17:47:42Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ed4312b1a94f2fdf",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Plymouth Twp . Council Opposes Data Center , Cites Threat To Health And Safety",
+      "source_domain": "patch.com",
+      "source_name": "patch.com",
+      "url": "https://patch.com/pennsylvania/plymouthwhitemarsh/plymouth-twp-council-opposes-data-center-cites-threat-health-safety",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 17:47:42",
+      "url_hash": "ed4312b1a94f2fdf",
+      "content_hash": "d2c792392532b328",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T17:47:42Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-df9ccab7e195f40a",
       "state": "US",
@@ -30,7 +152,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege \"foreign influence campaigns\" are responsible for data center opposition",
-      "last_seen": "2026-06-10T14:52:09Z",
+      "last_seen": "2026-06-10T17:47:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -311,7 +433,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-10T14:52:09Z",
+      "last_seen": "2026-06-10T17:47:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2219,7 +2341,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-10T14:52:09Z",
+      "last_seen": "2026-06-10T17:47:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3373,7 +3495,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-10T14:52:09Z",
+      "last_seen": "2026-06-10T17:47:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7808,7 +7930,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-10T14:52:09Z",
+      "last_seen": "2026-06-10T17:47:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12043,7 +12165,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-10T14:52:09Z",
+      "last_seen": "2026-06-10T17:47:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -27726,6 +27848,18 @@
     }
   ],
   "by_state": {
+    "MS": {
+      "state": "MS",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-06-10"
+    },
     "OH": {
       "state": "OH",
       "count": 18,

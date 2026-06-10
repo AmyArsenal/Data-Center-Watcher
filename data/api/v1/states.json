@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-10T14:52:10Z",
+  "generated_at": "2026-06-10T17:47:43Z",
   "states": [
     {
       "state": "AK",
@@ -340,16 +340,16 @@
     },
     {
       "state": "MS",
-      "count": 1,
-      "risk_score": 22.2,
+      "count": 2,
+      "risk_score": 52.2,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
       "approvals": 0,
-      "denials": 0,
+      "denials": 1,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2025-11-20",
+      "latest": "2026-06-10",
       "url": "data/dossiers/state-MS.json"
     },
     {
