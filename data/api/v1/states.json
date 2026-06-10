@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-10T08:35:33Z",
+  "generated_at": "2026-06-10T11:56:27Z",
   "states": [
     {
       "state": "AK",
@@ -480,16 +480,16 @@
     },
     {
       "state": "OH",
-      "count": 23,
-      "risk_score": 62.2,
+      "count": 24,
+      "risk_score": 62.6,
       "grade": "D",
-      "grade_score": 37.8,
+      "grade_score": 37.4,
       "moratoriums": 5,
       "approvals": 1,
-      "denials": 9,
+      "denials": 10,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-28",
+      "latest": "2026-06-10",
       "url": "data/dossiers/state-OH.json"
     },
     {
@@ -690,16 +690,16 @@
     },
     {
       "state": "WY",
-      "count": 5,
-      "risk_score": 47.1,
-      "grade": "C",
-      "grade_score": 52.9,
+      "count": 6,
+      "risk_score": 53.6,
+      "grade": "D",
+      "grade_score": 46.4,
       "moratoriums": 0,
       "approvals": 0,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-28",
+      "latest": "2026-06-10",
       "url": "data/dossiers/state-WY.json"
     }
   ]

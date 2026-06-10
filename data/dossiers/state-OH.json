@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-06-10T08:35:33Z",
+  "generated_at": "2026-06-10T11:56:27Z",
   "risk_score": {
-    "score": 62.2,
-    "tier": 31.0,
+    "score": 62.6,
+    "tier": 31.3,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 37.8,
+    "score": 37.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 1,
-    "denials": 9,
+    "denials": 10,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 23,
+  "count": 24,
   "tier_counts": {
-    "restrictive": 16,
+    "restrictive": 17,
     "null": 6,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 13,
-    "win": 9,
+    "win": 10,
     "loss": 1
   },
   "scope_counts": {
-    "local": 18,
+    "local": 19,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-05-28",
+  "latest": "2026-06-10",
   "top_citations": [
+    {
+      "id": "news:gdelt-e5df1f150d06fcc6-oh",
+      "date": "2026-06-10",
+      "jurisdiction": "New Albany",
+      "title": "New Albany mayor considers 1 - year pause on data center development",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wdrb.com/news/new-albany-mayor-considers-1-year-pause-on-data-center-development/article_19a32a42-27ae-4b94-8e7c-20f04eef85cc.html"
+    },
     {
       "id": "news:gdelt-3505402f0041c63c-oh",
       "date": "2026-05-28",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wfmj.com/news/local-news/niles/niles-residents-collect-signatures-for-ohio-data-center-ban/article_6ed349db-7fc8-470f-a6ea-977808e3b22b.html"
-    },
-    {
-      "id": "social:reddit-3a608b757556015b-oh",
-      "date": "2026-04-25",
-      "jurisdiction": "Ravenna",
-      "title": "Will &amp; The People win in Ravenna against data centers — for now!. Wanted to share this that a successful moratorium was announced at the",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://reddit.com/r/Ohio/comments/1suz1qb/will_the_people_win_in_ravenna_against_data"
     }
   ]
 }

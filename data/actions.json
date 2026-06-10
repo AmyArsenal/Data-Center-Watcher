@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T08:35:33Z",
-  "count": 1050,
+  "generated_at": "2026-06-10T11:56:27Z",
+  "count": 1058,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,366 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-26a133edd28bd5f4-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "arktimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "This is real : Data center moratorium pushed to July after tense meeting",
+      "sources": [
+        "https://arktimes.com/arkansas-blog/2026/06/09/this-is-real-data-center-moratorium-pushed-to-july-after-tense-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-69ab820d65758241-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "thedigitalcourier.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Seattle enacts one - year ban on data centers",
+      "sources": [
+        "https://thedigitalcourier.com/news/national/seattle-enacts-one-year-ban-on-data-centers/article_53a2acc0-a54f-599f-8416-de8b171a843e.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-6e15ae118a87734c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kfoxtv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "El Paso city council votes to keep Meta data center incentive agreement",
+      "sources": [
+        "https://kfoxtv.com/news/local/el-paso-city-council-votes-to-keep-meta-data-center-incentive-agreement"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-8dd3c55120376401-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "clintonherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Cllinton Council rejects data center moratorium , members acknowledge public fears",
+      "sources": [
+        "https://clintonherald.com/news/local_news/cllinton-council-rejects-data-center-moratorium-members-acknowledge-public-fears/article_ddb35b41-cb2f-435e-843d-5bb758dfbc56.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-dac94a21a8e532bd-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kcrg.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "City council turns down temporary halt on AI data centers in Clinton",
+      "sources": [
+        "https://kcrg.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e5df1f150d06fcc6-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "New Albany",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New Albany mayor considers 1 - year pause on data center development",
+      "sources": [
+        "https://wdrb.com/news/new-albany-mayor-considers-1-year-pause-on-data-center-development/article_19a32a42-27ae-4b94-8e7c-20f04eef85cc.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-ae1c7d7442b61b85-wy",
+      "origin": "news",
+      "state": "WY",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\". As company touts 5GW pipeline",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dck-73c6a30fa3c9030e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Architects Reimagine Facilities as Urban Assets. Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent",
+      "sources": [
+        "https://datacenterknowledge.com/build-design/from-ugly-boxes-to-city-assets-data-center-architecture-reimagined"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-10T11:56:26Z",
+      "first_seen": "2026-06-10T11:56:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-5e7f5e8f85a950c9-us",
@@ -49126,23 +49486,52 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "WY": {
+      "state": "WY",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 3,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "grid_energy": 2,
+        "ratepayer": 2
+      },
+      "latest_date": "2026-06-10",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
-      "count": 503,
+      "count": 509,
       "outcome_counts": {
-        "pending": 301,
-        "win": 187,
+        "pending": 303,
+        "win": 191,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 488,
+        "restrictive": 494,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 495,
+        "local": 501,
         "statewide": 6,
         "federal": 2
       },
@@ -49151,7 +49540,36 @@
         "zoning": 37,
         "grid_energy": 13
       },
-      "latest_date": "2026-06-09",
+      "latest_date": "2026-06-10",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 24,
+      "outcome_counts": {
+        "pending": 13,
+        "win": 10,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 17,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 19,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "ratepayer": 5,
+        "grid_energy": 4
+      },
+      "latest_date": "2026-06-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -49561,35 +49979,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
-    "OH": {
-      "state": "OH",
-      "count": 23,
-      "outcome_counts": {
-        "pending": 13,
-        "win": 9,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 16,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 18,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "ratepayer": 5,
-        "grid_energy": 4
-      },
-      "latest_date": "2026-05-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "AR": {
       "state": "AR",
       "count": 9,
@@ -49618,35 +50007,6 @@
       "latest_date": "2026-05-28",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "WY": {
-      "state": "WY",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 2,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "grid_energy": 2,
-        "ratepayer": 2
-      },
-      "latest_date": "2026-05-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "MO": {
       "state": "MO",

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WY",
-  "generated_at": "2026-06-10T08:35:33Z",
+  "generated_at": "2026-06-10T11:56:27Z",
   "risk_score": {
-    "score": 47.1,
-    "tier": 23.2,
-    "engagement": 7.5,
-    "recency": 14.4,
-    "multi_source": 2.0,
+    "score": 53.6,
+    "tier": 26.0,
+    "engagement": 7.3,
+    "recency": 18.7,
+    "multi_source": 1.7,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.9,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 46.4,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 0,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 1,
     "null": 2,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "pending": 2,
     "mixed": 1,
-    "win": 2
+    "win": 3
   },
   "scope_counts": {
     "statewide": 2,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "grid_energy": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2021-02-05",
-  "latest": "2026-05-28",
+  "latest": "2026-06-10",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-ae1c7d7442b61b85-wy",
+      "date": "2026-06-10",
+      "jurisdiction": "DCD",
+      "title": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\". As company touts 5GW pipeline",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer"
+    },
     {
       "id": "news:gdelt-a1c4662455770cb5-wy",
       "date": "2026-05-28",

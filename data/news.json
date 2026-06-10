@@ -1,8 +1,330 @@
 {
-  "generated_at": "2026-06-10T08:35:33Z",
+  "generated_at": "2026-06-10T11:56:27Z",
   "window_days": 90,
-  "count": 688,
+  "count": 696,
   "items": [
+    {
+      "id": "gdelt-26a133edd28bd5f4",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "This is real : Data center moratorium pushed to July after tense meeting",
+      "source_domain": "arktimes.com",
+      "source_name": "arktimes.com",
+      "url": "https://arktimes.com/arkansas-blog/2026/06/09/this-is-real-data-center-moratorium-pushed-to-july-after-tense-meeting",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "26a133edd28bd5f4",
+      "content_hash": "2fa4b8e0941c61ed",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6e15ae118a87734c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "El Paso city council votes to keep Meta data center incentive agreement",
+      "source_domain": "kfoxtv.com",
+      "source_name": "kfoxtv.com",
+      "url": "https://kfoxtv.com/news/local/el-paso-city-council-votes-to-keep-meta-data-center-incentive-agreement",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Meta"
+      ],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "6e15ae118a87734c",
+      "content_hash": "477e3e601971d3cd",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e5df1f150d06fcc6",
+      "state": "OH",
+      "city": "New Albany",
+      "category": "banned",
+      "headline": "New Albany mayor considers 1 - year pause on data center development",
+      "source_domain": "wdrb.com",
+      "source_name": "wdrb.com",
+      "url": "https://wdrb.com/news/new-albany-mayor-considers-1-year-pause-on-data-center-development/article_19a32a42-27ae-4b94-8e7c-20f04eef85cc.html",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "e5df1f150d06fcc6",
+      "content_hash": "14af5de005ec29b7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-dac94a21a8e532bd",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "City council turns down temporary halt on AI data centers in Clinton",
+      "source_domain": "kcrg.com",
+      "source_name": "kcrg.com",
+      "url": "https://kcrg.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "dac94a21a8e532bd",
+      "content_hash": "ea5d4e284e6d8a36",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-69ab820d65758241",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Seattle enacts one - year ban on data centers",
+      "source_domain": "thedigitalcourier.com",
+      "source_name": "thedigitalcourier.com",
+      "url": "https://thedigitalcourier.com/news/national/seattle-enacts-one-year-ban-on-data-centers/article_53a2acc0-a54f-599f-8416-de8b171a843e.html",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "69ab820d65758241",
+      "content_hash": "9de87b5732d45433",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-8dd3c55120376401",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Cllinton Council rejects data center moratorium , members acknowledge public fears",
+      "source_domain": "clintonherald.com",
+      "source_name": "clintonherald.com",
+      "url": "https://clintonherald.com/news/local_news/cllinton-council-rejects-data-center-moratorium-members-acknowledge-public-fears/article_ddb35b41-cb2f-435e-843d-5bb758dfbc56.html",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "8dd3c55120376401",
+      "content_hash": "4aca9a5805571ff9",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dck-73c6a30fa3c9030e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Data Center Architects Reimagine Facilities as Urban Assets",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/build-design/from-ugly-boxes-to-city-assets-data-center-architecture-reimagined",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "73c6a30fa3c9030e",
+      "content_hash": "ad85195ef55d1c97",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/build-design/from-ugly-boxes-to-city-assets-data-center-architecture-reimagined",
+        "rss_author": "Nathan Eddy",
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-ae1c7d7442b61b85",
+      "state": "WY",
+      "city": null,
+      "category": "banned",
+      "headline": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\"",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer",
+      "date": "2026-06-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Crusoe"
+      ],
+      "first_seen": "2026-06-10 11:56:26",
+      "url_hash": "ae1c7d7442b61b85",
+      "content_hash": "e7cf8a99685863f5",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "As company touts 5GW pipeline",
+      "last_seen": "2026-06-10T11:56:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-5e7f5e8f85a950c9",
       "state": "US",
@@ -1858,7 +2180,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-10T08:35:32Z",
+      "last_seen": "2026-06-10T11:56:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3012,7 +3334,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-10T08:35:32Z",
+      "last_seen": "2026-06-10T11:56:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7447,7 +7769,7 @@
         "rss-dck"
       ],
       "snippet": "Mathpix’s Brooklyn GPU deployment highlights how production AI workloads are driving new demand for urban colocation infrastructure.",
-      "last_seen": "2026-06-10T08:35:32Z",
+      "last_seen": "2026-06-10T11:56:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11682,7 +12004,7 @@
         "rss-canary"
       ],
       "snippet": "Photography by Neeta R. Satam JASPER COUNTY, Indiana—Barb Deardorff loves her living room’s wide picture windows. She can gaze out at the cornfields, where sandhill cranes warble and graze, and in the evening, she can unwind from her hectic job as a teachers’ union organizer by watching the sun go down. Her sunset…",
-      "last_seen": "2026-06-10T08:35:32Z",
+      "last_seen": "2026-06-10T11:56:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -27365,6 +27687,36 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 18,
+      "total_engagement": 2750,
+      "categories": {
+        "banned": 6,
+        "cancelled": 1,
+        "protested": 10,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 11,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-06-10"
+    },
+    "WY": {
+      "state": "WY",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 3
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-10"
+    },
     "NY": {
       "state": "NY",
       "count": 6,
@@ -27567,18 +27919,6 @@
       },
       "latest_date": "2026-05-28"
     },
-    "WY": {
-      "state": "WY",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-05-28"
-    },
     "AR": {
       "state": "AR",
       "count": 3,
@@ -27589,24 +27929,6 @@
       },
       "platforms": {
         "news": 3
-      },
-      "latest_date": "2026-05-28"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 17,
-      "total_engagement": 2750,
-      "categories": {
-        "banned": 5,
-        "cancelled": 1,
-        "protested": 10,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 10,
-        "reddit": 3,
-        "tiktok": 3,
-        "x": 1
       },
       "latest_date": "2026-05-28"
     },
