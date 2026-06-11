@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-06-11T11:46:06Z",
+  "generated_at": "2026-06-11T15:26:11Z",
   "window_days": 90,
-  "count": 702,
+  "count": 703,
   "items": [
+    {
+      "id": "rss-dcd-3bf73320f182ca32",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Amazon secures $17.5bn loan for AI data center buildout",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/amazon-secures-175bn-loan-for-ai-data-center-buildout",
+      "date": "2026-06-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Amazon"
+      ],
+      "first_seen": "2026-06-11 15:26:10",
+      "url_hash": "3bf73320f182ca32",
+      "content_hash": "2ce8e8119e2e9c27",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Lenders include Citibank, BofA, and JPMorgan Chase, among others",
+      "last_seen": "2026-06-11T15:26:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/amazon-secures-175bn-loan-for-ai-data-center-buildout/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-rto-insider-c6804f1f813c9cc9",
       "state": "OR",
@@ -30,7 +71,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission paused implementation of rate hikes on Portland General Electric’s data center customers after finding issues with the utility’s compliance filing. The post Oregon PUC Pauses PGE’s Data Center Rate Hikes appeared first on RTO Insider .",
-      "last_seen": "2026-06-11T11:46:06Z",
+      "last_seen": "2026-06-11T15:26:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -69,7 +110,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-11T11:46:06Z",
+      "last_seen": "2026-06-11T15:26:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -511,7 +552,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-11T11:46:06Z",
+      "last_seen": "2026-06-11T15:26:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2419,7 +2460,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-11T11:46:06Z",
+      "last_seen": "2026-06-11T15:26:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3573,7 +3614,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-11T11:46:06Z",
+      "last_seen": "2026-06-11T15:26:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
