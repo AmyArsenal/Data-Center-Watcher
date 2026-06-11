@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-06-11T22:26:49Z",
+  "generated_at": "2026-06-11T23:58:52Z",
   "risk_score": {
-    "score": 67.8,
-    "tier": 36.5,
+    "score": 68.1,
+    "tier": 36.9,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "F",
-    "score": 32.2,
+    "score": 31.9,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "null": 1,
-    "restrictive": 7
+    "restrictive": 8
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 7
+    "pending": 8
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 5
+    "local": 6
   },
   "issue_top": {
     "community_impact": 5,
@@ -53,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2026-06-08",
+  "latest": "2026-06-11",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-6937d4e78be1b28d-ut",
+      "date": "2026-06-11",
+      "jurisdiction": "RTO Insider",
+      "title": "Developers Agree to Scale Back Utah Data Center. Political pressure and public opposition have prompted investor and television personality ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/134226-developers-agree-scale-back-utah-data-center"
+    },
     {
       "id": "news:rss-dcd-983029deb2fd6970-ut",
       "date": "2026-06-08",

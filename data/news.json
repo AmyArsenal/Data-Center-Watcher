@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-06-11T22:26:49Z",
+  "generated_at": "2026-06-11T23:58:52Z",
   "window_days": 90,
-  "count": 706,
+  "count": 708,
   "items": [
+    {
+      "id": "rss-rto-insider-6937d4e78be1b28d",
+      "state": "UT",
+      "city": null,
+      "category": "protested",
+      "headline": "Developers Agree to Scale Back Utah Data Center",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/134226-developers-agree-scale-back-utah-data-center",
+      "date": "2026-06-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-11 23:58:52",
+      "url_hash": "6937d4e78be1b28d",
+      "content_hash": "54a9e6d8744e821a",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "Political pressure and public opposition have prompted investor and television personality Kevin O’Leary to dramatically scale back the size of a proposed data center project in northwest Utah that is now at the epicenter of the national debate over artificial intelligence and the data centers needed to power the technology. The post Developers Agree to Scale Back Utah Data Center appeared first on RTO Insider .",
+      "last_seen": "2026-06-11T23:58:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=134226",
+        "rss_author": "Scott Streater",
+        "rss_needs_dc_filter": true
+      }
+    },
+    {
+      "id": "gdelt-c0c3c2ff7d03a45e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "A Special Place in Hell : San Antonio residents push back against far West Side data center",
+      "source_domain": "sacurrent.com",
+      "source_name": "sacurrent.com",
+      "url": "https://sacurrent.com/news/san-antonio-news/a-special-place-in-hell-san-antonio-residents-push-back-against-far-west-side-data-center",
+      "date": "2026-06-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-11 23:58:52",
+      "url_hash": "c0c3c2ff7d03a45e",
+      "content_hash": "20671c1569025ec9",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-11T23:58:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "(hyperscaler OR \"AI campus\") (opposition OR protest OR pause) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-03f4131a662b7ecb",
       "state": "US",
@@ -154,7 +233,7 @@
         "rss-dcd"
       ],
       "snippet": "Lenders include Citibank, BofA, and JPMorgan Chase, among others",
-      "last_seen": "2026-06-11T22:26:48Z",
+      "last_seen": "2026-06-11T23:58:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -193,7 +272,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Oregon Public Utility Commission paused implementation of rate hikes on Portland General Electric’s data center customers after finding issues with the utility’s compliance filing. The post Oregon PUC Pauses PGE’s Data Center Rate Hikes appeared first on RTO Insider .",
-      "last_seen": "2026-06-11T22:26:48Z",
+      "last_seen": "2026-06-11T23:58:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -232,7 +311,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-11T22:26:48Z",
+      "last_seen": "2026-06-11T23:58:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -674,7 +753,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-11T22:26:48Z",
+      "last_seen": "2026-06-11T23:58:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2582,7 +2661,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-11T22:26:48Z",
+      "last_seen": "2026-06-11T23:58:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3736,7 +3815,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-11T22:26:48Z",
+      "last_seen": "2026-06-11T23:58:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -28089,6 +28168,18 @@
     }
   ],
   "by_state": {
+    "UT": {
+      "state": "UT",
+      "count": 8,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 8
+      },
+      "platforms": {
+        "news": 8
+      },
+      "latest_date": "2026-06-11"
+    },
     "OR": {
       "state": "OR",
       "count": 3,
@@ -28168,18 +28259,6 @@
       },
       "platforms": {
         "news": 2
-      },
-      "latest_date": "2026-06-08"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 7,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 7
-      },
-      "platforms": {
-        "news": 7
       },
       "latest_date": "2026-06-08"
     },

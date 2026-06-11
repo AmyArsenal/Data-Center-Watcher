@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T22:26:49Z",
-  "count": 1068,
+  "generated_at": "2026-06-11T23:58:52Z",
+  "count": 1070,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -208,6 +208,53 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-c0c3c2ff7d03a45e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "sacurrent.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-11",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "A Special Place in Hell : San Antonio residents push back against far West Side data center",
+      "sources": [
+        "https://sacurrent.com/news/san-antonio-news/a-special-place-in-hell-san-antonio-residents-push-back-against-far-west-side-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-11T23:58:52Z",
+      "first_seen": "2026-06-11T23:58:52Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:rss-dcd-3bf73320f182ca32-us",
       "origin": "news",
       "state": "US",
@@ -247,6 +294,51 @@
       "data_source": "news",
       "last_updated": "2026-06-11T15:26:10Z",
       "first_seen": "2026-06-11T15:26:11Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-6937d4e78be1b28d-ut",
+      "origin": "news",
+      "state": "UT",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-11",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Developers Agree to Scale Back Utah Data Center. Political pressure and public opposition have prompted investor and television personality Kevin O’Leary to dramatically scale back the size of a proposed data center project in northwest Utah that is now at the epicenter of the national debate over artificial intelligence and the data centers needed to power the technology. The post Developers Agree to Scale Back Utah Data Center appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/134226-developers-agree-scale-back-utah-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-11T23:58:52Z",
+      "first_seen": "2026-06-11T23:58:52Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -49948,32 +50040,61 @@
     },
     "US": {
       "state": "US",
-      "count": 516,
+      "count": 517,
       "outcome_counts": {
-        "pending": 309,
+        "pending": 310,
         "win": 192,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 501,
+        "restrictive": 502,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 508,
+        "local": 509,
         "statewide": 6,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 102,
+        "community_impact": 103,
         "zoning": 37,
         "grid_energy": 13
       },
       "latest_date": "2026-06-11",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "UT": {
+      "state": "UT",
+      "count": 9,
+      "outcome_counts": {
+        "pending": 8,
+        "win": 0,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 8,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "contract_guarantees": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-06-11",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "WY": {
       "state": "WY",
@@ -50119,35 +50240,6 @@
       "latest_date": "2026-06-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 8,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 7,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "contract_guarantees": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-06-08",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "KY": {
       "state": "KY",
