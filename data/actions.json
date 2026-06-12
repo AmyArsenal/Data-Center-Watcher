@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T14:14:23Z",
-  "count": 1072,
+  "generated_at": "2026-06-12T17:15:31Z",
+  "count": 1073,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-1aa057b0a4831f0f-me",
+      "origin": "news",
+      "state": "ME",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-06-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sentinel DC backs off paper mill data center project in Maine. Company drops plans, even after state-wide moratorium was vetoed by the governor",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-12T17:15:30Z",
+      "first_seen": "2026-06-12T17:15:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-bb5820b0a89cf2c9-us",
@@ -50159,6 +50204,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "ME": {
+      "state": "ME",
+      "count": 47,
+      "outcome_counts": {
+        "pending": 8,
+        "win": 38,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 40,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 30,
+        "statewide": 17,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 9,
+        "environmental": 5,
+        "ratepayer": 5
+      },
+      "latest_date": "2026-06-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "UT": {
       "state": "UT",
       "count": 9,
@@ -50823,35 +50897,6 @@
         "environmental": 3
       },
       "latest_date": "2026-05-22",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "ME": {
-      "state": "ME",
-      "count": 46,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 38,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 39,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 30,
-        "statewide": 16,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 9,
-        "environmental": 5,
-        "ratepayer": 5
-      },
-      "latest_date": "2026-05-21",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

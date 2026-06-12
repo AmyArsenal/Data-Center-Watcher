@@ -1,22 +1,22 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ME",
-  "generated_at": "2026-06-12T14:14:23Z",
+  "generated_at": "2026-06-12T17:15:31Z",
   "risk_score": {
-    "score": 62.7,
-    "tier": 35.7,
+    "score": 63.3,
+    "tier": 35.8,
     "engagement": 7.2,
-    "recency": 13.2,
+    "recency": 13.8,
     "multi_source": 1.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 37.3,
+    "score": 36.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 27,
+    "moratoriums": 28,
     "approvals": 1,
     "denials": 38,
     "lawsuits": 0,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 46,
+  "count": 47,
   "tier_counts": {
-    "restrictive": 39,
+    "restrictive": 40,
     "unclear": 2,
     "null": 5
   },
   "outcome_counts": {
     "win": 38,
-    "pending": 7,
+    "pending": 8,
     "loss": 1
   },
   "scope_counts": {
     "local": 30,
-    "statewide": 16
+    "statewide": 17
   },
   "issue_top": {
     "grid_energy": 9,
@@ -59,8 +59,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2017-12-22",
-  "latest": "2026-05-21",
+  "latest": "2026-06-12",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-1aa057b0a4831f0f-me",
+      "date": "2026-06-12",
+      "jurisdiction": "DCD",
+      "title": "Sentinel DC backs off paper mill data center project in Maine. Company drops plans, even after state-wide moratorium was vetoed by the gover",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine"
+    },
     {
       "id": "news:gdelt-bb07e16719a88ef1-me",
       "date": "2026-05-21",
@@ -141,15 +150,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://gizmodo.com/maine-governor-vetoes-landmark-data-center-moratorium-2000750961"
-    },
-    {
-      "id": "news:gdelt-dd4da60cb3ace3e4-me",
-      "date": "2026-04-25",
-      "jurisdiction": "nbcwashington.com",
-      "title": "Maine governor vetoes first state moratorium on data centers – NBC4 Washington",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://nbcwashington.com/news/national-international/maine-governor-veto-moratorium-data-centers/4095671"
     }
   ]
 }
