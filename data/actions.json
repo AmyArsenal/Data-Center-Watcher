@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:58:05Z",
-  "count": 1087,
+  "generated_at": "2026-06-13T21:08:06Z",
+  "count": 1088,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-163fa088ba17d900-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "breitbart.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-13",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Structural Shift : AI Data Center Opponents Block or Delay Projects Worth Nearly $130B in 2026",
+      "sources": [
+        "https://breitbart.com/politics/2026/06/13/structural-shift-ai-data-center-opponents-block-or-delay-projects-worth-nearly-130b-in-2026"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T21:08:05Z",
+      "first_seen": "2026-06-13T21:08:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-49325f1152758a42-us",
@@ -50811,21 +50856,21 @@
     },
     "US": {
       "state": "US",
-      "count": 530,
+      "count": 531,
       "outcome_counts": {
         "pending": 315,
-        "win": 200,
+        "win": 201,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 515,
+        "restrictive": 516,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 522,
+        "local": 523,
         "statewide": 6,
         "federal": 2
       },
