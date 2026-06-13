@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-06-12T22:44:23Z",
+  "generated_at": "2026-06-13T00:05:35Z",
   "risk_score": {
-    "score": 50.7,
+    "score": 50.0,
     "tier": 19.6,
     "engagement": 10.0,
-    "recency": 10.1,
+    "recency": 9.4,
     "multi_source": 6.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "D",
-    "score": 49.3,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 50.0,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
