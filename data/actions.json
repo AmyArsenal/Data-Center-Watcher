@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T00:05:35Z",
-  "count": 1075,
+  "generated_at": "2026-06-13T04:46:34Z",
+  "count": 1082,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,323 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-843d929a1aaa1afc-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "newson6.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Broken Arrow council to consider 6 - month data center pause",
+      "sources": [
+        "https://newson6.com/data-centers-in-oklahoma/broken-arrow-council-to-consider-6-month-data-center-pause"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T04:46:33Z",
+      "first_seen": "2026-06-13T04:46:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e720abb5400295ea-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fox13news.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lakeland moves forward with drafting 12 - month moratorium on large - scale data centers",
+      "sources": [
+        "https://fox13news.com/news/lakeland-drafting-month-moratorium-large-scale-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T04:46:33Z",
+      "first_seen": "2026-06-13T04:46:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f64c1a7510548071-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Avista puts data center negotiations on pause",
+      "sources": [
+        "https://yahoo.com/news/us/articles/avista-puts-data-center-negotiations-020100676.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T04:46:33Z",
+      "first_seen": "2026-06-13T04:46:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-39aaa53649d3dfab-nj",
+      "origin": "news",
+      "state": "NJ",
+      "county": null,
+      "jurisdiction": "govtech.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "After a Data Center Proposal , New Jersey Town Bans Them",
+      "sources": [
+        "https://govtech.com/artificial-intelligence/after-a-data-center-proposal-new-jersey-town-bans-them"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T04:46:33Z",
+      "first_seen": "2026-06-13T04:46:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-6bb78aa507e423a6-wa",
+      "origin": "news",
+      "state": "WA",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Company wont pursue project at Washington Twp . site amid data center opposition",
+      "sources": [
+        "https://yahoo.com/news/us/articles/company-wont-pursue-project-washington-230124410.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T04:46:33Z",
+      "first_seen": "2026-06-13T04:46:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a547c48cc903e284-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "abcnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Residents fight to keep AI data center campus away from Nashville Zoo",
+      "sources": [
+        "https://abcnews.com/GMA/News/residents-fight-ai-data-center-campus-nashville-zoo/story?id=133810954"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T04:46:33Z",
+      "first_seen": "2026-06-13T04:46:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-aaf107998c771442-az",
+      "origin": "news",
+      "state": "AZ",
+      "county": null,
+      "jurisdiction": "azcapitoltimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Arizona data center moratorium is only the beginning",
+      "sources": [
+        "https://azcapitoltimes.com/news/2026/06/12/arizonas-data-center-moratorium-is-only-the-beginning"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-13T04:46:33Z",
+      "first_seen": "2026-06-13T04:46:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-arstechnica-da6a05af3ba14f83-us",
@@ -50267,30 +50584,30 @@
     },
     "US": {
       "state": "US",
-      "count": 521,
+      "count": 525,
       "outcome_counts": {
-        "pending": 312,
-        "win": 194,
+        "pending": 313,
+        "win": 197,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 506,
+        "restrictive": 510,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 513,
+        "local": 517,
         "statewide": 6,
         "federal": 2
       },
       "issue_top": {
-        "community_impact": 103,
+        "community_impact": 104,
         "zoning": 37,
         "grid_energy": 14
       },
-      "latest_date": "2026-06-12",
+      "latest_date": "2026-06-13",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -50322,6 +50639,93 @@
       "latest_date": "2026-06-12",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "AZ": {
+      "state": "AZ",
+      "count": 10,
+      "outcome_counts": {
+        "pending": 8,
+        "win": 2,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 5
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "water": 2,
+        "zoning": 2,
+        "community_impact": 1
+      },
+      "latest_date": "2026-06-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "WA": {
+      "state": "WA",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 3,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 3,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-06-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "NJ": {
+      "state": "NJ",
+      "count": 27,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 8,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 9,
+        "protective": 1,
+        "supportive": 2,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 12,
+        "statewide": 15,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 5,
+        "water": 4,
+        "community_impact": 3
+      },
+      "latest_date": "2026-06-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "UT": {
       "state": "UT",
@@ -50816,35 +51220,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "AZ": {
-      "state": "AZ",
-      "count": 9,
-      "outcome_counts": {
-        "pending": 8,
-        "win": 1,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 5
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 6,
-        "federal": 0
-      },
-      "issue_top": {
-        "water": 2,
-        "zoning": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-05-29",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
     "AR": {
       "state": "AR",
       "count": 9,
@@ -50932,35 +51307,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
-    "WA": {
-      "state": "WA",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 3,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-05-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "GA": {
       "state": "GA",
       "count": 16,
@@ -50989,35 +51335,6 @@
       "latest_date": "2026-05-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 26,
-      "outcome_counts": {
-        "pending": 18,
-        "win": 8,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 8,
-        "protective": 1,
-        "supportive": 2,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 11,
-        "statewide": 15,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 5,
-        "water": 4,
-        "community_impact": 3
-      },
-      "latest_date": "2026-05-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "WI": {
       "state": "WI",

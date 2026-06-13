@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-13T00:05:35Z",
+  "generated_at": "2026-06-13T04:46:34Z",
   "states": [
     {
       "state": "AK",
@@ -46,16 +46,16 @@
     },
     {
       "state": "AZ",
-      "count": 9,
-      "risk_score": 43.4,
+      "count": 10,
+      "risk_score": 48.2,
       "grade": "C",
-      "grade_score": 56.6,
-      "moratoriums": 0,
+      "grade_score": 51.8,
+      "moratoriums": 1,
       "approvals": 0,
-      "denials": 1,
+      "denials": 2,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-05-29",
+      "latest": "2026-06-12",
       "url": "data/dossiers/state-AZ.json"
     },
     {
@@ -424,16 +424,16 @@
     },
     {
       "state": "NJ",
-      "count": 26,
-      "risk_score": 49.5,
-      "grade": "C",
-      "grade_score": 50.5,
+      "count": 27,
+      "risk_score": 51.1,
+      "grade": "D",
+      "grade_score": 48.9,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 8,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-05-21",
+      "latest": "2026-06-12",
       "url": "data/dossiers/state-NJ.json"
     },
     {
@@ -648,16 +648,16 @@
     },
     {
       "state": "WA",
-      "count": 6,
-      "risk_score": 47.6,
-      "grade": "C",
-      "grade_score": 52.4,
+      "count": 7,
+      "risk_score": 53.8,
+      "grade": "D",
+      "grade_score": 46.2,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 3,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-24",
+      "latest": "2026-06-12",
       "url": "data/dossiers/state-WA.json"
     },
     {

@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-06-13T00:05:35Z",
+  "generated_at": "2026-06-13T04:46:34Z",
   "window_days": 90,
-  "count": 713,
+  "count": 720,
   "items": [
+    {
+      "id": "gdelt-e720abb5400295ea",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Lakeland moves forward with drafting 12 - month moratorium on large - scale data centers",
+      "source_domain": "fox13news.com",
+      "source_name": "fox13news.com",
+      "url": "https://fox13news.com/news/lakeland-drafting-month-moratorium-large-scale-data-centers",
+      "date": "2026-06-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-13 04:46:33",
+      "url_hash": "e720abb5400295ea",
+      "content_hash": "fff20ef4a6c37a6d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-13T04:46:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-843d929a1aaa1afc",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Broken Arrow council to consider 6 - month data center pause",
+      "source_domain": "newson6.com",
+      "source_name": "newson6.com",
+      "url": "https://newson6.com/data-centers-in-oklahoma/broken-arrow-council-to-consider-6-month-data-center-pause",
+      "date": "2026-06-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-13 04:46:33",
+      "url_hash": "843d929a1aaa1afc",
+      "content_hash": "6f3d854a4561ec37",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-13T04:46:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-f64c1a7510548071",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Avista puts data center negotiations on pause",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/us/articles/avista-puts-data-center-negotiations-020100676.html",
+      "date": "2026-06-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-13 04:46:33",
+      "url_hash": "f64c1a7510548071",
+      "content_hash": "8279a66c907a4941",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-13T04:46:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-39aaa53649d3dfab",
+      "state": "NJ",
+      "city": null,
+      "category": "protested",
+      "headline": "After a Data Center Proposal , New Jersey Town Bans Them",
+      "source_domain": "govtech.com",
+      "source_name": "govtech.com",
+      "url": "https://govtech.com/artificial-intelligence/after-a-data-center-proposal-new-jersey-town-bans-them",
+      "date": "2026-06-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-13 04:46:33",
+      "url_hash": "39aaa53649d3dfab",
+      "content_hash": "5fc9109c5e355ba1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-13T04:46:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a547c48cc903e284",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents fight to keep AI data center campus away from Nashville Zoo",
+      "source_domain": "abcnews.com",
+      "source_name": "abcnews.com",
+      "url": "https://abcnews.com/GMA/News/residents-fight-ai-data-center-campus-nashville-zoo/story?id=133810954",
+      "date": "2026-06-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-13 04:46:33",
+      "url_hash": "a547c48cc903e284",
+      "content_hash": "3a94eb61f32ddb9c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-13T04:46:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6bb78aa507e423a6",
+      "state": "WA",
+      "city": null,
+      "category": "protested",
+      "headline": "Company wont pursue project at Washington Twp . site amid data center opposition",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/us/articles/company-wont-pursue-project-washington-230124410.html",
+      "date": "2026-06-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-13 04:46:33",
+      "url_hash": "6bb78aa507e423a6",
+      "content_hash": "8431901c3d2352ce",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-13T04:46:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-aaf107998c771442",
+      "state": "AZ",
+      "city": null,
+      "category": "banned",
+      "headline": "Arizona data center moratorium is only the beginning",
+      "source_domain": "azcapitoltimes.com",
+      "source_name": "azcapitoltimes.com",
+      "url": "https://azcapitoltimes.com/news/2026/06/12/arizonas-data-center-moratorium-is-only-the-beginning",
+      "date": "2026-06-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-13 04:46:33",
+      "url_hash": "aaf107998c771442",
+      "content_hash": "98c6207ed50cc41b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-13T04:46:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-arstechnica-da6a05af3ba14f83",
       "state": "US",
@@ -30,7 +310,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "last_seen": "2026-06-13T00:05:34Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -72,7 +352,7 @@
         "rss-dcd"
       ],
       "snippet": "AWS shares the small number, as anti-data center protests focus on water usage",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -111,7 +391,7 @@
         "rss-dcd"
       ],
       "snippet": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -189,7 +469,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The report offers details on the issues around large load growth and the grid, with 12 different options to assign data centers and other facilities their fair share of transmission expansion costs. The post Report Offers a Dozen Options to Allocate Tx Costs for Large Loads appeared first on RTO Insider .",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -228,7 +508,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Political pressure and public opposition have prompted investor and television personality Kevin O’Leary to dramatically scale back the size of a proposed data center project in northwest Utah that is now at the epicenter of the national debate over artificial intelligence and the data centers needed to power the technology. The post Developers Agree to Scale Back Utah Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -509,7 +789,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -951,7 +1231,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2859,7 +3139,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4013,7 +4293,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-13T00:05:35Z",
+      "last_seen": "2026-06-13T04:46:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -28366,6 +28646,46 @@
     }
   ],
   "by_state": {
+    "NJ": {
+      "state": "NJ",
+      "count": 8,
+      "total_engagement": 2907,
+      "categories": {
+        "protested": 5,
+        "banned": 3
+      },
+      "platforms": {
+        "news": 6,
+        "x": 2
+      },
+      "latest_date": "2026-06-12"
+    },
+    "WA": {
+      "state": "WA",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-12"
+    },
+    "AZ": {
+      "state": "AZ",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-06-12"
+    },
     "ME": {
       "state": "ME",
       "count": 40,
@@ -28612,18 +28932,6 @@
       },
       "latest_date": "2026-05-30"
     },
-    "AZ": {
-      "state": "AZ",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-05-29"
-    },
     "MO": {
       "state": "MO",
       "count": 11,
@@ -28665,19 +28973,6 @@
       },
       "latest_date": "2026-05-27"
     },
-    "WA": {
-      "state": "WA",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-05-24"
-    },
     "GA": {
       "state": "GA",
       "count": 4,
@@ -28701,20 +28996,6 @@
       "platforms": {
         "news": 2,
         "reddit": 1
-      },
-      "latest_date": "2026-05-21"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 7,
-      "total_engagement": 2907,
-      "categories": {
-        "protested": 4,
-        "banned": 3
-      },
-      "platforms": {
-        "news": 5,
-        "x": 2
       },
       "latest_date": "2026-05-21"
     },

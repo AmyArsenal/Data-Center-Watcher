@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-06-13T00:05:35Z",
+  "generated_at": "2026-06-13T04:46:34Z",
   "risk_score": {
-    "score": 47.6,
-    "tier": 19.3,
-    "engagement": 8.3,
-    "recency": 11.6,
-    "multi_source": 3.3,
+    "score": 53.8,
+    "tier": 22.3,
+    "engagement": 8.0,
+    "recency": 15.6,
+    "multi_source": 2.9,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.4,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 46.2,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "win": 3,
-    "pending": 2,
+    "pending": 3,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "tax_incentive": 3,
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-05-24",
+  "latest": "2026-06-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-6bb78aa507e423a6-wa",
+      "date": "2026-06-12",
+      "jurisdiction": "yahoo.com",
+      "title": "Company wont pursue project at Washington Twp . site amid data center opposition",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://yahoo.com/news/us/articles/company-wont-pursue-project-washington-230124410.html"
+    },
     {
       "id": "news:gdelt-79e8f5c1f6a96c25-wa",
       "date": "2026-05-24",
