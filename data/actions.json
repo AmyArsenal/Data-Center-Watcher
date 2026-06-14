@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T06:36:41Z",
-  "count": 1088,
+  "generated_at": "2026-06-14T10:06:20Z",
+  "count": 1090,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,98 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-4c6f247e49d4ffc7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "theintelligencer.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Edwardsville zoning code does not allow data centers",
+      "sources": [
+        "https://theintelligencer.com/news/article/edwardsville-il-data-center-special-permit-22302143.php"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-14T10:06:19Z",
+      "first_seen": "2026-06-14T10:06:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b47fa1741c8207be-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nwaonline.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Fayetteville City Council members say they aim to be proactive with consideration of data center rule changes",
+      "sources": [
+        "https://nwaonline.com/news/2026/jun/13/fayetteville-city-council-members-say-they-aim-to"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-14T10:06:19Z",
+      "first_seen": "2026-06-14T10:06:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-163fa088ba17d900-us",
@@ -50856,30 +50948,30 @@
     },
     "US": {
       "state": "US",
-      "count": 531,
+      "count": 533,
       "outcome_counts": {
-        "pending": 315,
+        "pending": 317,
         "win": 201,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 516,
+        "restrictive": 518,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 523,
+        "local": 525,
         "statewide": 6,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 105,
-        "zoning": 37,
+        "zoning": 38,
         "grid_energy": 14
       },
-      "latest_date": "2026-06-13",
+      "latest_date": "2026-06-14",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

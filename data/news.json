@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-06-14T06:36:41Z",
+  "generated_at": "2026-06-14T10:06:20Z",
   "window_days": 90,
-  "count": 725,
+  "count": 727,
   "items": [
+    {
+      "id": "gdelt-4c6f247e49d4ffc7",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Edwardsville zoning code does not allow data centers",
+      "source_domain": "theintelligencer.com",
+      "source_name": "theintelligencer.com",
+      "url": "https://theintelligencer.com/news/article/edwardsville-il-data-center-special-permit-22302143.php",
+      "date": "2026-06-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-14 10:06:19",
+      "url_hash": "4c6f247e49d4ffc7",
+      "content_hash": "67fa02e01bd9a3e3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-14T10:06:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b47fa1741c8207be",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Fayetteville City Council members say they aim to be proactive with consideration of data center rule changes",
+      "source_domain": "nwaonline.com",
+      "source_name": "nwaonline.com",
+      "url": "https://nwaonline.com/news/2026/jun/13/fayetteville-city-council-members-say-they-aim-to",
+      "date": "2026-06-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-14 10:06:19",
+      "url_hash": "b47fa1741c8207be",
+      "content_hash": "8414b4395040a429",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-14T10:06:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-163fa088ba17d900",
       "state": "US",
@@ -550,7 +630,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -592,7 +672,7 @@
         "rss-dcd"
       ],
       "snippet": "AWS shares the small number, as anti-data center protests focus on water usage",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -631,7 +711,7 @@
         "rss-dcd"
       ],
       "snippet": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -709,7 +789,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The report offers details on the issues around large load growth and the grid, with 12 different options to assign data centers and other facilities their fair share of transmission expansion costs. The post Report Offers a Dozen Options to Allocate Tx Costs for Large Loads appeared first on RTO Insider .",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -748,7 +828,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Political pressure and public opposition have prompted investor and television personality Kevin O’Leary to dramatically scale back the size of a proposed data center project in northwest Utah that is now at the epicenter of the national debate over artificial intelligence and the data centers needed to power the technology. The post Developers Agree to Scale Back Utah Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1029,7 +1109,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1471,7 +1551,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3379,7 +3459,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4533,7 +4613,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-14T06:36:41Z",
+      "last_seen": "2026-06-14T10:06:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
