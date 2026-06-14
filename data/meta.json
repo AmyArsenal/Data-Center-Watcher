@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T00:23:21Z",
+  "generated_at": "2026-06-14T01:58:38Z",
   "tier_timestamps": {
-    "fast": "2026-06-13T23:36:46Z",
+    "fast": "2026-06-14T01:58:38Z",
     "bills": "2026-06-14T00:23:21Z"
   },
   "counts_by_source": {
@@ -19,33 +19,25 @@
     "instagram": 7,
     "youtube": 2,
     "polymarket": 2,
-    "news": 11,
+    "news": 10,
     "legal": 1
   },
   "run_stats": {
-    "last_run_seconds": 16.96,
+    "last_run_seconds": 13.66,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
-      "reddit": 0,
-      "gdelt": 9
+      "gdelt": 0,
+      "reddit": 0
     },
     "inserted": 0,
-    "updated": 10,
-    "dropped_irrelevant": 189,
+    "updated": 9,
+    "dropped_irrelevant": 181,
     "accepted_by_source_this_run": {
       "rss-arstechnica": 1,
       "rss-dcd": 2,
       "rss-rto-insider": 2,
-      "rss-dck": 4,
-      "gdelt": 1
-    },
-    "bills_last_run_seconds": 280.66,
-    "bills_raw_fetched": 0,
-    "bills_inserted": 0,
-    "bills_updated": 0,
-    "bills_noop": 0,
-    "bills_total_in_json": 193,
-    "bills_states_with_bills": 16
+      "rss-dck": 4
+    }
   }
 }

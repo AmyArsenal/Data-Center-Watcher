@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:36:46Z",
+  "generated_at": "2026-06-14T01:58:37Z",
   "window_days": 90,
-  "count": 726,
+  "count": 725,
   "items": [
     {
       "id": "gdelt-163fa088ba17d900",
@@ -550,7 +550,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -592,7 +592,7 @@
         "rss-dcd"
       ],
       "snippet": "AWS shares the small number, as anti-data center protests focus on water usage",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -631,7 +631,7 @@
         "rss-dcd"
       ],
       "snippet": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -709,7 +709,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The report offers details on the issues around large load growth and the grid, with 12 different options to assign data centers and other facilities their fair share of transmission expansion costs. The post Report Offers a Dozen Options to Allocate Tx Costs for Large Loads appeared first on RTO Insider .",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -748,7 +748,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Political pressure and public opposition have prompted investor and television personality Kevin O’Leary to dramatically scale back the size of a proposed data center project in northwest Utah that is now at the epicenter of the national debate over artificial intelligence and the data centers needed to power the technology. The post Developers Agree to Scale Back Utah Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1029,7 +1029,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1471,7 +1471,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3379,7 +3379,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4533,7 +4533,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-13T23:36:45Z",
+      "last_seen": "2026-06-14T01:58:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -28848,41 +28848,6 @@
       "topics": [],
       "ferc_dockets": [],
       "platform_metadata": null
-    },
-    {
-      "id": "loudoun-va-2026-03-15",
-      "state": "VA",
-      "city": "Loudoun County",
-      "category": "protested",
-      "headline": "Loudoun County eliminates by-right data center approval - every project now requires Special Exception",
-      "source_domain": "patch.com",
-      "source_name": "Ashburn Patch",
-      "url": "https://patch.com/virginia/ashburn/data-center-right-approval-process-removed-loudoun-county",
-      "date": "2026-03-15",
-      "platform": "news",
-      "engagement_score": 80,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": "negative",
-      "companies": [],
-      "first_seen": "2026-04-25 23:52:28",
-      "url_hash": "eadf75c679f64ed6",
-      "content_hash": "e5a64f68df9be33d",
-      "source": null,
-      "source_tier": "manual",
-      "sources_seen": [
-        "news"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-25 23:52:28",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 1.0,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": null
     }
   ],
   "by_state": {
@@ -29130,16 +29095,16 @@
     },
     "VA": {
       "state": "VA",
-      "count": 10,
-      "total_engagement": 172,
+      "count": 9,
+      "total_engagement": 92,
       "categories": {
-        "protested": 7,
+        "protested": 6,
         "announced": 1,
         "banned": 1,
         "cancelled": 1
       },
       "platforms": {
-        "news": 9,
+        "news": 8,
         "legal": 1
       },
       "latest_date": "2026-06-02"
