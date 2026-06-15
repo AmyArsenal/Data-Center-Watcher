@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-14T23:57:41Z",
+  "generated_at": "2026-06-15T03:27:59Z",
   "states": [
     {
       "state": "AK",
@@ -33,9 +33,9 @@
     {
       "state": "AR",
       "count": 9,
-      "risk_score": 57.2,
+      "risk_score": 54.2,
       "grade": "D",
-      "grade_score": 42.8,
+      "grade_score": 45.8,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 3,
@@ -425,9 +425,9 @@
     {
       "state": "NJ",
       "count": 27,
-      "risk_score": 51.1,
+      "risk_score": 50.7,
       "grade": "D",
-      "grade_score": 48.9,
+      "grade_score": 49.3,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 8,
@@ -453,7 +453,7 @@
     {
       "state": "NV",
       "count": 3,
-      "risk_score": 56.9,
+      "risk_score": 50.2,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
@@ -523,9 +523,9 @@
     {
       "state": "PA",
       "count": 27,
-      "risk_score": 38.9,
+      "risk_score": 37.9,
       "grade": "C",
-      "grade_score": 61.1,
+      "grade_score": 62.1,
       "moratoriums": 1,
       "approvals": 2,
       "denials": 9,
