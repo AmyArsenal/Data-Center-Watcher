@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-15T19:31:23Z",
+  "generated_at": "2026-06-15T22:02:56Z",
   "states": [
     {
       "state": "AK",
@@ -578,16 +578,16 @@
     },
     {
       "state": "TN",
-      "count": 4,
-      "risk_score": 52.2,
-      "grade": "N/A",
-      "grade_score": null,
-      "moratoriums": 1,
+      "count": 5,
+      "risk_score": 55.0,
+      "grade": "D",
+      "grade_score": 45.0,
+      "moratoriums": 2,
       "approvals": 0,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-06-01",
+      "latest": "2026-06-15",
       "url": "data/dossiers/state-TN.json"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T19:31:23Z",
-  "count": 1091,
+  "generated_at": "2026-06-15T22:02:56Z",
+  "count": 1095,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,188 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-aef9d1126133fdea-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-15",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Boone County adopts 1 - year data center moratorium",
+      "sources": [
+        "https://yahoo.com/news/us/articles/boone-county-adopts-1-data-184744905.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-15T22:02:55Z",
+      "first_seen": "2026-06-15T22:02:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-b2e431ff59f5a6a9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wuwf.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-15",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers in Jackson County are officially banned",
+      "sources": [
+        "https://wuwf.org/florida-news/2026-06-15/data-centers-in-jackson-county-are-officially-banned"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-15T22:02:55Z",
+      "first_seen": "2026-06-15T22:02:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-ca97ed9816e32996-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "sanangelolive.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-15",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "San Angelo City Council to Consider Data Center Rules , Zoning Changes",
+      "sources": [
+        "https://sanangelolive.com/news/san-angelo/2026-06-15/san-angelo-city-council-consider-data-center-rules-zoning-changes"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-15T22:02:55Z",
+      "first_seen": "2026-06-15T22:02:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d48ce19bccd3b3c7-tn",
+      "origin": "news",
+      "state": "TN",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-15",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Multiple small Tennessee counties pass temporary data center bans Nashville also passed near - unanimous moratorium on first reading",
+      "sources": [
+        "https://tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-15T22:02:55Z",
+      "first_seen": "2026-06-15T22:02:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-dcd-ddef057efb1fdb57-co",
@@ -51022,32 +51204,61 @@
     },
     "US": {
       "state": "US",
-      "count": 533,
+      "count": 536,
       "outcome_counts": {
-        "pending": 317,
-        "win": 201,
+        "pending": 318,
+        "win": 203,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 518,
+        "restrictive": 521,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 525,
+        "local": 528,
         "statewide": 6,
         "federal": 2
       },
       "issue_top": {
         "community_impact": 105,
-        "zoning": 38,
+        "zoning": 39,
         "grid_energy": 14
       },
-      "latest_date": "2026-06-14",
+      "latest_date": "2026-06-15",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "TN": {
+      "state": "TN",
+      "count": 5,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 3,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 1,
+        "federal": 1
+      },
+      "issue_top": {
+        "air_quality": 1,
+        "community_impact": 1,
+        "contract_guarantees": 1
+      },
+      "latest_date": "2026-06-15",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "ME": {
       "state": "ME",
@@ -51597,35 +51808,6 @@
         "ratepayer": 1
       },
       "latest_date": "2026-06-02",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "TN": {
-      "state": "TN",
-      "count": 4,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 1,
-        "federal": 1
-      },
-      "issue_top": {
-        "air_quality": 1,
-        "community_impact": 1,
-        "contract_guarantees": 1
-      },
-      "latest_date": "2026-06-01",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TN",
-  "generated_at": "2026-06-15T19:31:23Z",
+  "generated_at": "2026-06-15T22:02:56Z",
   "risk_score": {
-    "score": 52.2,
-    "tier": 26.0,
+    "score": 55.0,
+    "tier": 28.8,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "N/A",
-    "score": null,
-    "label": "Insufficient data"
+    "letter": "D",
+    "score": 45.0,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 1,
     "blocked": 0,
     "active_companies": 1,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 4,
+  "count": 5,
   "tier_counts": {
     "null": 2,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "pending": 2,
-    "win": 2
+    "win": 3
   },
   "scope_counts": {
     "federal": 1,
     "statewide": 1,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "air_quality": 1,
@@ -56,8 +56,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-05",
-  "latest": "2026-06-01",
+  "latest": "2026-06-15",
   "top_citations": [
+    {
+      "id": "news:gdelt-d48ce19bccd3b3c7-tn",
+      "date": "2026-06-15",
+      "jurisdiction": "tomshardware.com",
+      "title": "Multiple small Tennessee counties pass temporary data center bans Nashville also passed near - unanimous moratorium on first reading",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading"
+    },
     {
       "id": "news:gdelt-b7d9d8be51be8499-tn",
       "date": "2026-06-01",

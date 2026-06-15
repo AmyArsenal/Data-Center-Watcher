@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-06-15T19:31:23Z",
+  "generated_at": "2026-06-15T22:02:56Z",
   "window_days": 90,
-  "count": 728,
+  "count": 732,
   "items": [
+    {
+      "id": "gdelt-b2e431ff59f5a6a9",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data centers in Jackson County are officially banned",
+      "source_domain": "wuwf.org",
+      "source_name": "wuwf.org",
+      "url": "https://wuwf.org/florida-news/2026-06-15/data-centers-in-jackson-county-are-officially-banned",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 22:02:55",
+      "url_hash": "b2e431ff59f5a6a9",
+      "content_hash": "b0f29dcb75aa8d6d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T22:02:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d48ce19bccd3b3c7",
+      "state": "TN",
+      "city": null,
+      "category": "banned",
+      "headline": "Multiple small Tennessee counties pass temporary data center bans Nashville also passed near - unanimous moratorium on first reading",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 22:02:55",
+      "url_hash": "d48ce19bccd3b3c7",
+      "content_hash": "16313a3214aa3a68",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T22:02:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-aef9d1126133fdea",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Boone County adopts 1 - year data center moratorium",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/us/articles/boone-county-adopts-1-data-184744905.html",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 22:02:55",
+      "url_hash": "aef9d1126133fdea",
+      "content_hash": "cc7b0cce59547e2a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T22:02:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ca97ed9816e32996",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "San Angelo City Council to Consider Data Center Rules , Zoning Changes",
+      "source_domain": "sanangelolive.com",
+      "source_name": "sanangelolive.com",
+      "url": "https://sanangelolive.com/news/san-angelo/2026-06-15/san-angelo-city-council-consider-data-center-rules-zoning-changes",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 22:02:55",
+      "url_hash": "ca97ed9816e32996",
+      "content_hash": "a4a45df856377e18",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T22:02:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-ddef057efb1fdb57",
       "state": "CO",
@@ -30,7 +190,7 @@
         "rss-dcd"
       ],
       "snippet": "Those opposed can file an appeal before 5pm on June 22",
-      "last_seen": "2026-06-15T19:31:22Z",
+      "last_seen": "2026-06-15T22:02:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -1148,7 +1308,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-15T19:31:22Z",
+      "last_seen": "2026-06-15T22:02:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1590,7 +1750,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-15T19:31:22Z",
+      "last_seen": "2026-06-15T22:02:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3498,7 +3658,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-15T19:31:22Z",
+      "last_seen": "2026-06-15T22:02:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4652,7 +4812,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-15T19:31:22Z",
+      "last_seen": "2026-06-15T22:02:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -28970,6 +29130,18 @@
     }
   ],
   "by_state": {
+    "TN": {
+      "state": "TN",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 3
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-15"
+    },
     "CO": {
       "state": "CO",
       "count": 3,
@@ -29240,18 +29412,6 @@
         "legal": 1
       },
       "latest_date": "2026-06-02"
-    },
-    "TN": {
-      "state": "TN",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-06-01"
     },
     "OK": {
       "state": "OK",
