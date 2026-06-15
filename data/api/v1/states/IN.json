@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-06-15T22:02:56Z",
+  "generated_at": "2026-06-15T23:59:34Z",
   "risk_score": {
-    "score": 47.5,
-    "tier": 26.0,
+    "score": 51.5,
+    "tier": 27.3,
     "engagement": 6.2,
-    "recency": 10.3,
+    "recency": 13.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.5,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.5,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 3,
@@ -26,18 +26,18 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
-    "restrictive": 5,
+    "restrictive": 6,
     "null": 5
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 2,
+    "win": 3,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 8,
+    "local": 9,
     "statewide": 2
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-01",
-  "latest": "2026-05-14",
+  "latest": "2026-06-15",
   "top_citations": [
+    {
+      "id": "news:gdelt-a3c8a7e006cce6dc-in",
+      "date": "2026-06-15",
+      "jurisdiction": "insideindianabusiness.com",
+      "title": "Boone County passes moratorium on data center development – Inside INdiana Business",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://insideindianabusiness.com/articles/boone-county-passes-moratorium-on-data-center-development"
+    },
     {
       "id": "news:rss-canary-aa33e83b09c358fd-in",
       "date": "2026-05-14",
@@ -148,15 +157,6 @@
       "tier": null,
       "outcome": "mixed",
       "url": "https://www.wfyi.org/news/articles/data-center-legislation-indiana-general-assembly-2026"
-    },
-    {
-      "id": "research:in-chesterton-town-council-20250601-provident-realty-advisors-withdrew-its-1-3b-data",
-      "date": "2025-06-01",
-      "jurisdiction": "Chesterton Town Council",
-      "title": "Provident Realty Advisors withdrew its $1.3B data center application in Chesterton in June 2025 after sustained local opposition over air qu",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.datacenterdynamics.com/en/news/application-for-13bn-data-center-in-chesterton-indiana-withdrawn/"
     }
   ]
 }

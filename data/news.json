@@ -1,8 +1,210 @@
 {
-  "generated_at": "2026-06-15T22:02:56Z",
+  "generated_at": "2026-06-15T23:59:34Z",
   "window_days": 90,
-  "count": 732,
+  "count": 737,
   "items": [
+    {
+      "id": "gdelt-5242ee4d71081252",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Fort Wayne Community Development pushes back on Google data center - related bills",
+      "source_domain": "journalgazette.net",
+      "source_name": "journalgazette.net",
+      "url": "https://journalgazette.net/local/local-government/fort-wayne-community-development-pushes-back-on-google-data-center-related-bills/article_12815f08-d1ba-4b2c-9c3c-d4a5d06c7e1d.html",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Google"
+      ],
+      "first_seen": "2026-06-15 23:59:33",
+      "url_hash": "5242ee4d71081252",
+      "content_hash": "65bf558d978bfdcd",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T23:59:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-529a04ce47f36322",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Olyphant residents who oppose data centers raising money to hire attorney",
+      "source_domain": "thetimes-tribune.com",
+      "source_name": "thetimes-tribune.com",
+      "url": "https://thetimes-tribune.com/2026/06/15/olyphant-residents-who-oppose-data-centers-raising-money-to-hire-attorney",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 23:59:33",
+      "url_hash": "529a04ce47f36322",
+      "content_hash": "7bf614651b6f48a0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T23:59:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-90c4904c0b7757d7",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Commissioners discuss possible data center ban in Wakulla County",
+      "source_domain": "wctv.tv",
+      "source_name": "wctv.tv",
+      "url": "https://wctv.tv/2026/06/15/commissioners-discuss-possible-data-center-ban-wakulla-county",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 23:59:33",
+      "url_hash": "90c4904c0b7757d7",
+      "content_hash": "d32bff4089fb8484",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T23:59:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a7913e31ba065408",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Lakeland Halts Large - Scale Data Centers Amid Community Concerns , Launches 12 - Month Moratorium",
+      "source_domain": "myq105.com",
+      "source_name": "myq105.com",
+      "url": "https://myq105.com/2026/06/15/lakeland-halts-large-scale-data-centers-amid-community-concerns-launches-12-month-moratorium",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 23:59:33",
+      "url_hash": "a7913e31ba065408",
+      "content_hash": "09e9ea68c3d19eb2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T23:59:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.78,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a3c8a7e006cce6dc",
+      "state": "IN",
+      "city": null,
+      "category": "banned",
+      "headline": "Boone County passes moratorium on data center development – Inside INdiana Business",
+      "source_domain": "insideindianabusiness.com",
+      "source_name": "insideindianabusiness.com",
+      "url": "https://insideindianabusiness.com/articles/boone-county-passes-moratorium-on-data-center-development",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 23:59:33",
+      "url_hash": "a3c8a7e006cce6dc",
+      "content_hash": "2cc02c21207ed54b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-15T23:59:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-b2e431ff59f5a6a9",
       "state": "US",
@@ -30,7 +232,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -70,7 +272,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -110,7 +312,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -150,7 +352,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -190,7 +392,7 @@
         "rss-dcd"
       ],
       "snippet": "Those opposed can file an appeal before 5pm on June 22",
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -1308,7 +1510,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1750,7 +1952,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3658,7 +3860,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4812,7 +5014,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-15T22:02:55Z",
+      "last_seen": "2026-06-15T23:59:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29130,6 +29332,20 @@
     }
   ],
   "by_state": {
+    "IN": {
+      "state": "IN",
+      "count": 6,
+      "total_engagement": 24,
+      "categories": {
+        "banned": 1,
+        "protested": 5
+      },
+      "platforms": {
+        "news": 4,
+        "reddit": 2
+      },
+      "latest_date": "2026-06-15"
+    },
     "TN": {
       "state": "TN",
       "count": 3,
@@ -29536,19 +29752,6 @@
         "reddit": 1
       },
       "latest_date": "2026-05-15"
-    },
-    "IN": {
-      "state": "IN",
-      "count": 5,
-      "total_engagement": 24,
-      "categories": {
-        "protested": 5
-      },
-      "platforms": {
-        "news": 3,
-        "reddit": 2
-      },
-      "latest_date": "2026-05-14"
     },
     "KS": {
       "state": "KS",
