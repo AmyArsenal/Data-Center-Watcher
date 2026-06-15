@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-15T15:32:05Z",
+  "generated_at": "2026-06-15T19:31:23Z",
   "window_days": 90,
-  "count": 727,
+  "count": 728,
   "items": [
+    {
+      "id": "rss-dcd-ddef057efb1fdb57",
+      "state": "CO",
+      "city": null,
+      "category": "protested",
+      "headline": "50MW 'Project Taurus' data center gets go-ahead in Colorado",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado",
+      "date": "2026-06-15",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-15 19:31:22",
+      "url_hash": "ddef057efb1fdb57",
+      "content_hash": "5caa10a7f737650c",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Those opposed can file an appeal before 5pm on June 22",
+      "last_seen": "2026-06-15T19:31:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.64,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-4c6f247e49d4ffc7",
       "state": "US",
@@ -630,7 +669,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "last_seen": "2026-06-15T15:32:05Z",
+      "last_seen": "2026-06-15T19:31:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -789,7 +828,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The report offers details on the issues around large load growth and the grid, with 12 different options to assign data centers and other facilities their fair share of transmission expansion costs. The post Report Offers a Dozen Options to Allocate Tx Costs for Large Loads appeared first on RTO Insider .",
-      "last_seen": "2026-06-15T15:32:05Z",
+      "last_seen": "2026-06-15T19:31:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1109,7 +1148,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-15T15:32:05Z",
+      "last_seen": "2026-06-15T19:31:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1551,7 +1590,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-15T15:32:05Z",
+      "last_seen": "2026-06-15T19:31:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3459,7 +3498,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-15T15:32:05Z",
+      "last_seen": "2026-06-15T19:31:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4613,7 +4652,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-15T15:32:05Z",
+      "last_seen": "2026-06-15T19:31:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -28931,6 +28970,19 @@
     }
   ],
   "by_state": {
+    "CO": {
+      "state": "CO",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-15"
+    },
     "NJ": {
       "state": "NJ",
       "count": 8,
@@ -29337,19 +29389,6 @@
         "reddit": 2
       },
       "latest_date": "2026-05-14"
-    },
-    "CO": {
-      "state": "CO",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-05-13"
     },
     "KS": {
       "state": "KS",

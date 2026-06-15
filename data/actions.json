@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T15:32:05Z",
-  "count": 1090,
+  "generated_at": "2026-06-15T19:31:23Z",
+  "count": 1091,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-dcd-ddef057efb1fdb57-co",
+      "origin": "news",
+      "state": "CO",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-15",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "50MW 'Project Taurus' data center gets go-ahead in Colorado. Those opposed can file an appeal before 5pm on June 22",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-15T19:31:22Z",
+      "first_seen": "2026-06-15T19:31:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-4c6f247e49d4ffc7-us",
@@ -50946,6 +50991,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "CO": {
+      "state": "CO",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 1,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 3,
+        "ratepayer": 2,
+        "community_impact": 1
+      },
+      "latest_date": "2026-06-15",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
       "count": 533,
@@ -51842,35 +51916,6 @@
         "zoning": 2
       },
       "latest_date": "2026-05-14",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "CO": {
-      "state": "CO",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 1,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 3,
-        "ratepayer": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-05-13",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

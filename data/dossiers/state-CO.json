@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CO",
-  "generated_at": "2026-06-15T15:32:06Z",
+  "generated_at": "2026-06-15T19:31:23Z",
   "risk_score": {
-    "score": 40.8,
-    "tier": 20.0,
-    "engagement": 8.9,
-    "recency": 7.6,
-    "multi_source": 4.3,
+    "score": 46.5,
+    "tier": 22.5,
+    "engagement": 8.6,
+    "recency": 11.7,
+    "multi_source": 3.8,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.2,
+    "score": 53.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "unclear": 3,
     "null": 2,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
-    "pending": 6,
+    "pending": 7,
     "win": 1
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "grid_energy": 3,
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-04-04",
-  "latest": "2026-05-13",
+  "latest": "2026-06-15",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-ddef057efb1fdb57-co",
+      "date": "2026-06-15",
+      "jurisdiction": "DCD",
+      "title": "50MW 'Project Taurus' data center gets go-ahead in Colorado. Those opposed can file an appeal before 5pm on June 22",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado"
+    },
     {
       "id": "news:gdelt-5fe7d2677e81275b-co",
       "date": "2026-05-13",
