@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-06-15T23:59:34Z",
+  "generated_at": "2026-06-16T03:55:44Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -97,7 +97,7 @@
       "county_name": "Fauquier County",
       "state": "VA",
       "count": 1,
-      "risk_score": 47.8,
+      "risk_score": 38.5,
       "latest": "2026-03-17",
       "url": "data/dossiers/county-51061.json"
     },

@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-15T23:59:34Z",
+  "generated_at": "2026-06-16T03:55:44Z",
   "states": [
     {
       "state": "AK",
@@ -19,7 +19,7 @@
     {
       "state": "AL",
       "count": 3,
-      "risk_score": 47.4,
+      "risk_score": 44.3,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
@@ -593,9 +593,9 @@
     {
       "state": "TX",
       "count": 31,
-      "risk_score": 53.8,
+      "risk_score": 52.9,
       "grade": "D",
-      "grade_score": 46.2,
+      "grade_score": 47.1,
       "moratoriums": 3,
       "approvals": 2,
       "denials": 9,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 40,
-      "risk_score": 49.8,
+      "risk_score": 49.3,
       "grade": "C",
-      "grade_score": 50.2,
+      "grade_score": 50.7,
       "moratoriums": 1,
       "approvals": 2,
       "denials": 16,
@@ -799,7 +799,7 @@
       "county_name": "Fauquier County",
       "state": "VA",
       "count": 1,
-      "risk_score": 47.8,
+      "risk_score": 38.5,
       "latest": "2026-03-17",
       "url": "data/dossiers/county-51061.json"
     },
