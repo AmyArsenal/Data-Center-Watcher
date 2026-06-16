@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-06-16T18:41:43Z",
+  "generated_at": "2026-06-16T21:35:16Z",
   "window_days": 90,
-  "count": 741,
+  "count": 742,
   "items": [
+    {
+      "id": "rss-dcd-28f2f34855810dfc",
+      "state": "TX",
+      "city": null,
+      "category": "announced",
+      "headline": "DataBank secures $1.45bn for data center build-out",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out",
+      "date": "2026-06-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "DataBank"
+      ],
+      "first_seen": "2026-06-16 21:35:16",
+      "url_hash": "28f2f34855810dfc",
+      "content_hash": "fd189278b18ae0b5",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Part of financing to fuel construction of Red Oak campus in Texas",
+      "last_seen": "2026-06-16T21:35:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-d1a0440c1be04bf1",
       "state": "OH",
@@ -30,7 +71,7 @@
         "rss-dcd"
       ],
       "snippet": "Cryptomine and AI firm eyes major Ohio data center campus amid local moratorium",
-      "last_seen": "2026-06-16T18:41:42Z",
+      "last_seen": "2026-06-16T21:35:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1669,7 +1710,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-16T18:41:42Z",
+      "last_seen": "2026-06-16T21:35:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2111,7 +2152,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-16T18:41:42Z",
+      "last_seen": "2026-06-16T21:35:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4019,7 +4060,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-16T18:41:42Z",
+      "last_seen": "2026-06-16T21:35:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5173,7 +5214,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-16T18:41:42Z",
+      "last_seen": "2026-06-16T21:35:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29491,6 +29532,23 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 17,
+      "total_engagement": 629,
+      "categories": {
+        "announced": 1,
+        "banned": 6,
+        "protested": 10
+      },
+      "platforms": {
+        "news": 13,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-06-16"
+    },
     "OH": {
       "state": "OH",
       "count": 19,
@@ -29691,22 +29749,6 @@
         "news": 3
       },
       "latest_date": "2026-06-06"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 16,
-      "total_engagement": 629,
-      "categories": {
-        "banned": 6,
-        "protested": 10
-      },
-      "platforms": {
-        "news": 12,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-06-05"
     },
     "MI": {
       "state": "MI",

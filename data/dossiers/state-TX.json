@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-06-16T18:41:43Z",
+  "generated_at": "2026-06-16T21:35:17Z",
   "risk_score": {
-    "score": 52.9,
-    "tier": 26.5,
-    "engagement": 6.5,
-    "recency": 14.7,
+    "score": 52.8,
+    "tier": 25.6,
+    "engagement": 6.4,
+    "recency": 15.5,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.1,
+    "score": 47.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
-    "approvals": 2,
+    "approvals": 3,
     "denials": 9,
     "lawsuits": 2,
     "blocked": 2,
@@ -26,19 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 31,
+  "count": 32,
   "tier_counts": {
     "restrictive": 16,
-    "null": 15
+    "null": 15,
+    "supportive": 1
   },
   "outcome_counts": {
     "pending": 17,
     "mixed": 3,
-    "loss": 2,
+    "loss": 3,
     "win": 9
   },
   "scope_counts": {
-    "local": 27,
+    "local": 28,
     "statewide": 4
   },
   "issue_top": {
@@ -87,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-06-05",
+  "latest": "2026-06-16",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-28f2f34855810dfc-tx",
+      "date": "2026-06-16",
+      "jurisdiction": "DCD",
+      "title": "DataBank secures $1.45bn for data center build-out. Part of financing to fuel construction of Red Oak campus in Texas",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out"
+    },
     {
       "id": "news:gdelt-9d5ed76ddfdadadb-tx",
       "date": "2026-06-05",
@@ -169,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/concern-over-proposed-sale-of-300-acres-for-data-center-in-hillsboro-texas"
-    },
-    {
-      "id": "news:rss-dcd-4c1c6457607d9bf7-tx",
-      "date": "2026-05-05",
-      "jurisdiction": "DCD",
-      "title": "$30m data center near Austin, Texas, fails to get recommendation for approval from P&Z Commission. But its fate lies in the hands of the Cit",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/30m-data-center-near-austin-texas-fails-to-get-recommendation-for-approval-from-pz-commission"
     }
   ]
 }
