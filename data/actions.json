@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T09:13:48Z",
-  "count": 1100,
+  "generated_at": "2026-06-16T14:26:10Z",
+  "count": 1104,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,188 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-298238b5763168f8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-06-16",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Intel long - lost data center prototype  Arctic Sound  Xe - HP multi - tile GPU surfaces in new engineering sample Company cancelled AI processor features 32GB of HBM2E",
+      "sources": [
+        "https://tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-16T14:26:09Z",
+      "first_seen": "2026-06-16T14:26:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-b3b811845895441c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tribtoday.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lordstown extends data center moratorium | News , Sports , Jobs",
+      "sources": [
+        "https://tribtoday.com/news/local-news/2026/06/lordstown-extends-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-16T14:26:09Z",
+      "first_seen": "2026-06-16T14:26:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-bbcbeb53a4a0e494-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fultonsun.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Fulton residents weigh pros , cons of proposed data center",
+      "sources": [
+        "https://fultonsun.com/news/2026/jun/16/fulton-residents-weigh-pros-cons-of-proposed-data"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-16T14:26:09Z",
+      "first_seen": "2026-06-16T14:26:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-d1a0440c1be04bf1-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Bitdeer looks to develop 750MW data center campus in Ohio. Cryptomine and AI firm eyes major Ohio data center campus amid local moratorium",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/bitdeer-looks-to-develop-750mw-data-center-campus-in-ohio"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-16T14:26:09Z",
+      "first_seen": "2026-06-16T14:26:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-5242ee4d71081252-us",
@@ -51404,6 +51586,64 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "US": {
+      "state": "US",
+      "count": 543,
+      "outcome_counts": {
+        "pending": 321,
+        "win": 207,
+        "loss": 15,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 528,
+        "protective": 0,
+        "supportive": 15,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 535,
+        "statewide": 6,
+        "federal": 2
+      },
+      "issue_top": {
+        "community_impact": 109,
+        "zoning": 39,
+        "grid_energy": 14
+      },
+      "latest_date": "2026-06-16",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 25,
+      "outcome_counts": {
+        "pending": 14,
+        "win": 10,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 18,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 20,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "ratepayer": 5,
+        "grid_energy": 4
+      },
+      "latest_date": "2026-06-16",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "CO": {
       "state": "CO",
       "count": 8,
@@ -51432,35 +51672,6 @@
       "latest_date": "2026-06-15",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 540,
-      "outcome_counts": {
-        "pending": 320,
-        "win": 205,
-        "loss": 15,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 525,
-        "protective": 0,
-        "supportive": 15,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 532,
-        "statewide": 6,
-        "federal": 2
-      },
-      "issue_top": {
-        "community_impact": 108,
-        "zoning": 39,
-        "grid_energy": 14
-      },
-      "latest_date": "2026-06-15",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "TN": {
       "state": "TN",
@@ -51693,35 +51904,6 @@
       "latest_date": "2026-06-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 24,
-      "outcome_counts": {
-        "pending": 13,
-        "win": 10,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 17,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 19,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "ratepayer": 5,
-        "grid_energy": 4
-      },
-      "latest_date": "2026-06-10",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "MS": {
       "state": "MS",

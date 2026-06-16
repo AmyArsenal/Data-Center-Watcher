@@ -1,8 +1,167 @@
 {
-  "generated_at": "2026-06-16T09:13:48Z",
+  "generated_at": "2026-06-16T14:26:10Z",
   "window_days": 90,
-  "count": 737,
+  "count": 741,
   "items": [
+    {
+      "id": "rss-dcd-d1a0440c1be04bf1",
+      "state": "OH",
+      "city": null,
+      "category": "protested",
+      "headline": "Bitdeer looks to develop 750MW data center campus in Ohio",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/bitdeer-looks-to-develop-750mw-data-center-campus-in-ohio",
+      "date": "2026-06-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-16 14:26:09",
+      "url_hash": "d1a0440c1be04bf1",
+      "content_hash": "20efa78cb26da11a",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Cryptomine and AI firm eyes major Ohio data center campus amid local moratorium",
+      "last_seen": "2026-06-16T14:26:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/bitdeer-looks-to-develop-750mw-data-center-campus-in-ohio/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "gdelt-298238b5763168f8",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Intel long - lost data center prototype  Arctic Sound  Xe - HP multi - tile GPU surfaces in new engineering sample Company cancelled AI processor features 32GB of HBM2E",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
+      "date": "2026-06-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-16 14:26:09",
+      "url_hash": "298238b5763168f8",
+      "content_hash": "529ae86b33f4e268",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-16T14:26:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-bbcbeb53a4a0e494",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Fulton residents weigh pros , cons of proposed data center",
+      "source_domain": "fultonsun.com",
+      "source_name": "fultonsun.com",
+      "url": "https://fultonsun.com/news/2026/jun/16/fulton-residents-weigh-pros-cons-of-proposed-data",
+      "date": "2026-06-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-16 14:26:09",
+      "url_hash": "bbcbeb53a4a0e494",
+      "content_hash": "cdd42bdb302aa7e7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-16T14:26:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b3b811845895441c",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Lordstown extends data center moratorium | News , Sports , Jobs",
+      "source_domain": "tribtoday.com",
+      "source_name": "tribtoday.com",
+      "url": "https://tribtoday.com/news/local-news/2026/06/lordstown-extends-data-center-moratorium",
+      "date": "2026-06-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-16 14:26:09",
+      "url_hash": "b3b811845895441c",
+      "content_hash": "60846236397d5d01",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-16T14:26:09Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-5242ee4d71081252",
       "state": "US",
@@ -1510,7 +1669,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-16T09:13:48Z",
+      "last_seen": "2026-06-16T14:26:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1952,7 +2111,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-16T09:13:48Z",
+      "last_seen": "2026-06-16T14:26:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3860,7 +4019,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-16T09:13:48Z",
+      "last_seen": "2026-06-16T14:26:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5014,7 +5173,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-16T09:13:48Z",
+      "last_seen": "2026-06-16T14:26:09Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29332,6 +29491,24 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 19,
+      "total_engagement": 2750,
+      "categories": {
+        "protested": 11,
+        "banned": 6,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 12,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-06-16"
+    },
     "IN": {
       "state": "IN",
       "count": 6,
@@ -29474,24 +29651,6 @@
       },
       "platforms": {
         "news": 1
-      },
-      "latest_date": "2026-06-10"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 18,
-      "total_engagement": 2750,
-      "categories": {
-        "banned": 6,
-        "cancelled": 1,
-        "protested": 10,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 11,
-        "reddit": 3,
-        "tiktok": 3,
-        "x": 1
       },
       "latest_date": "2026-06-10"
     },
