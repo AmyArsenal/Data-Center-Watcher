@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T23:07:41Z",
-  "count": 1105,
+  "generated_at": "2026-06-17T01:39:16Z",
+  "count": 1106,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -204,6 +204,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-arstechnica-6928ab98fd771ae2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Ars Technica - All content",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-06-16",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines. NAACP lawsuit says xAI uses gas turbines without permits for Grok data center",
+      "sources": [
+        "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-17T01:39:15Z",
+      "first_seen": "2026-06-17T01:39:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:rss-dcd-28f2f34855810dfc-tx",
@@ -51633,21 +51678,21 @@
     },
     "US": {
       "state": "US",
-      "count": 543,
+      "count": 544,
       "outcome_counts": {
         "pending": 321,
-        "win": 207,
+        "win": 208,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 528,
+        "restrictive": 529,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 535,
+        "local": 536,
         "statewide": 6,
         "federal": 2
       },

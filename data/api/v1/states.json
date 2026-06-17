@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-16T23:07:41Z",
+  "generated_at": "2026-06-17T01:39:16Z",
   "states": [
     {
       "state": "AK",
@@ -313,9 +313,9 @@
     {
       "state": "MN",
       "count": 7,
-      "risk_score": 53.9,
+      "risk_score": 52.5,
       "grade": "D",
-      "grade_score": 46.1,
+      "grade_score": 47.5,
       "moratoriums": 5,
       "approvals": 0,
       "denials": 4,

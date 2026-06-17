@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-06-16T23:07:41Z",
+  "generated_at": "2026-06-17T01:39:16Z",
   "window_days": 90,
-  "count": 742,
+  "count": 743,
   "items": [
+    {
+      "id": "rss-arstechnica-6928ab98fd771ae2",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "source_domain": "arstechnica.com",
+      "source_name": "Ars Technica - All content",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war",
+      "date": "2026-06-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "xAI"
+      ],
+      "first_seen": "2026-06-17 01:39:15",
+      "url_hash": "6928ab98fd771ae2",
+      "content_hash": "ff453289877b4a5f",
+      "source": "rss-arstechnica",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-arstechnica"
+      ],
+      "snippet": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+      "last_seen": "2026-06-17T01:39:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+        "rss_author": "Jon Brodkin",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-28f2f34855810dfc",
       "state": "TX",
@@ -32,7 +73,7 @@
         "rss-dcd"
       ],
       "snippet": "Part of financing to fuel construction of Red Oak campus in Texas",
-      "last_seen": "2026-06-16T23:07:40Z",
+      "last_seen": "2026-06-17T01:39:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -71,7 +112,7 @@
         "rss-dcd"
       ],
       "snippet": "Cryptomine and AI firm eyes major Ohio data center campus amid local moratorium",
-      "last_seen": "2026-06-16T23:07:41Z",
+      "last_seen": "2026-06-17T01:39:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1710,7 +1751,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-16T23:07:41Z",
+      "last_seen": "2026-06-17T01:39:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2152,7 +2193,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-16T23:07:41Z",
+      "last_seen": "2026-06-17T01:39:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4060,7 +4101,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-16T23:07:41Z",
+      "last_seen": "2026-06-17T01:39:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5214,7 +5255,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-16T23:07:41Z",
+      "last_seen": "2026-06-17T01:39:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
