@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-06-17T06:47:50Z",
+  "generated_at": "2026-06-17T11:25:09Z",
   "risk_score": {
-    "score": 52.8,
-    "tier": 25.6,
+    "score": 54.0,
+    "tier": 26.1,
     "engagement": 6.4,
-    "recency": 15.5,
+    "recency": 16.2,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.2,
+    "score": 46.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,26 +26,26 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 32,
+  "count": 33,
   "tier_counts": {
-    "restrictive": 16,
+    "restrictive": 17,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 17,
+    "pending": 18,
     "mixed": 3,
     "loss": 3,
     "win": 9
   },
   "scope_counts": {
-    "local": 28,
+    "local": 29,
     "statewide": 4
   },
   "issue_top": {
     "grid_energy": 9,
     "water": 9,
-    "community_impact": 7,
+    "community_impact": 8,
     "farmland": 5,
     "ratepayer": 4,
     "noise": 4,
@@ -98,6 +98,15 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out"
+    },
+    {
+      "id": "court:rss-court-dc-fe8d749b04622f5a-tx",
+      "date": "2026-06-09",
+      "jurisdiction": "CourtListener.com Custom Search Feed",
+      "title": "Durrell Ware v. the State of Texas. at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://courtlistener.com/opinion/10876017/durrell-ware-v-the-state-of-texas"
     },
     {
       "id": "news:gdelt-9d5ed76ddfdadadb-tx",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://keranews.org/energy-environment/2026-05-12/oppose-expand-votes-in-2-north-texas-communities-highlight-a-divide-over-data-center-growth"
-    },
-    {
-      "id": "news:rss-dcd-86b5164b94d278d3-tx",
-      "date": "2026-05-11",
-      "jurisdiction": "DCD",
-      "title": "Concern over proposed sale of 300 acres for data center in Hillsboro, Texas. Residents voice worries at public meeting",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/concern-over-proposed-sale-of-300-acres-for-data-center-in-hillsboro-texas"
     }
   ]
 }

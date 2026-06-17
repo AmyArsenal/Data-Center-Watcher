@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-17T06:47:50Z",
+  "generated_at": "2026-06-17T11:25:09Z",
   "window_days": 90,
-  "count": 743,
+  "count": 745,
   "items": [
+    {
+      "id": "rss-canary-59854a1423dc5cb7",
+      "state": "NC",
+      "city": null,
+      "category": "protested",
+      "headline": "Data centers are key to fight over Duke electric rates in North Carolina",
+      "source_domain": "canarymedia.com",
+      "source_name": "Canary Media",
+      "url": "https://canarymedia.com/articles/data-centers/duke-electric-rates-north-carolina",
+      "date": "2026-06-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-17 11:25:08",
+      "url_hash": "59854a1423dc5cb7",
+      "content_hash": "43ed15c06cd2aa42",
+      "source": "rss-canary",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-canary"
+      ],
+      "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
+      "last_seen": "2026-06-17T11:25:08Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.canarymedia.com/articles/data-centers/duke-electric-rates-north-carolina",
+        "rss_author": "Elizabeth Ouzts",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-arstechnica-6928ab98fd771ae2",
       "state": "US",
@@ -32,7 +71,7 @@
         "rss-arstechnica"
       ],
       "snippet": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-      "last_seen": "2026-06-17T06:47:50Z",
+      "last_seen": "2026-06-17T11:25:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -73,7 +112,7 @@
         "rss-dcd"
       ],
       "snippet": "Part of financing to fuel construction of Red Oak campus in Texas",
-      "last_seen": "2026-06-17T06:47:50Z",
+      "last_seen": "2026-06-17T11:25:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1751,7 +1790,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-17T06:47:50Z",
+      "last_seen": "2026-06-17T11:25:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2193,7 +2232,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-17T06:47:50Z",
+      "last_seen": "2026-06-17T11:25:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2243,6 +2282,45 @@
       "platform_metadata": {
         "rss_id": "https://www.datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer/",
         "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-court-dc-fe8d749b04622f5a",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Durrell Ware v. the State of Texas",
+      "source_domain": "courtlistener.com",
+      "source_name": "CourtListener.com Custom Search Feed",
+      "url": "https://courtlistener.com/opinion/10876017/durrell-ware-v-the-state-of-texas",
+      "date": "2026-06-09",
+      "platform": "legal",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-17 11:25:08",
+      "url_hash": "fe8d749b04622f5a",
+      "content_hash": "1bfec1f580a3032a",
+      "source": "rss-court-dc",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-court-dc"
+      ],
+      "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
+      "last_seen": "2026-06-17T11:25:08Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.courtlistener.com/opinion/10876017/durrell-ware-v-the-state-of-texas/",
+        "rss_author": "Texas Court of Appeals, 6th District (Texarkana)",
         "rss_needs_dc_filter": false
       }
     },
@@ -4101,7 +4179,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-17T06:47:50Z",
+      "last_seen": "2026-06-17T11:25:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5255,7 +5333,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-17T06:47:50Z",
+      "last_seen": "2026-06-17T11:25:08Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29573,17 +29651,32 @@
     }
   ],
   "by_state": {
+    "NC": {
+      "state": "NC",
+      "count": 4,
+      "total_engagement": 617,
+      "categories": {
+        "protested": 2,
+        "banned": 2
+      },
+      "platforms": {
+        "news": 3,
+        "reddit": 1
+      },
+      "latest_date": "2026-06-17"
+    },
     "TX": {
       "state": "TX",
-      "count": 17,
+      "count": 18,
       "total_engagement": 629,
       "categories": {
         "announced": 1,
-        "banned": 6,
-        "protested": 10
+        "protested": 11,
+        "banned": 6
       },
       "platforms": {
         "news": 13,
+        "legal": 1,
         "tiktok": 2,
         "youtube": 1,
         "x": 1
@@ -29953,20 +30046,6 @@
         "reddit": 1
       },
       "latest_date": "2026-05-21"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 3,
-      "total_engagement": 617,
-      "categories": {
-        "banned": 2,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2,
-        "reddit": 1
-      },
-      "latest_date": "2026-05-19"
     },
     "PA": {
       "state": "PA",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:47:50Z",
-  "count": 1106,
+  "generated_at": "2026-06-17T11:25:09Z",
+  "count": 1108,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,51 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:rss-canary-59854a1423dc5cb7-nc",
+      "origin": "news",
+      "state": "NC",
+      "county": null,
+      "jurisdiction": "Canary Media",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers are key to fight over Duke electric rates in North Carolina. Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
+      "sources": [
+        "https://canarymedia.com/articles/data-centers/duke-electric-rates-north-carolina"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-17T11:25:08Z",
+      "first_seen": "2026-06-17T11:25:09Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-298238b5763168f8-us",
@@ -2617,6 +2662,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "court:rss-court-dc-fe8d749b04622f5a-tx",
+      "origin": "court",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "CourtListener.com Custom Search Feed",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-09",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Durrell Ware v. the State of Texas. at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
+      "sources": [
+        "https://courtlistener.com/opinion/10876017/durrell-ware-v-the-state-of-texas"
+      ],
+      "data_source": "court",
+      "last_updated": "2026-06-17T11:25:08Z",
+      "first_seen": "2026-06-17T11:25:09Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-5e7f5e8f85a950c9-us",
@@ -51676,6 +51768,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "NC": {
+      "state": "NC",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 4,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 0,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 3,
+        "water": 3,
+        "community_impact": 2
+      },
+      "latest_date": "2026-06-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
       "count": 544,
@@ -51736,28 +51857,28 @@
     },
     "TX": {
       "state": "TX",
-      "count": 32,
+      "count": 33,
       "outcome_counts": {
-        "pending": 17,
+        "pending": 18,
         "win": 9,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 16,
+        "restrictive": 17,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 28,
+        "local": 29,
         "statewide": 4,
         "federal": 0
       },
       "issue_top": {
         "grid_energy": 9,
         "water": 9,
-        "community_impact": 7
+        "community_impact": 8
       },
       "latest_date": "2026-06-16",
       "map_color_tier": "restrictive",
@@ -52514,35 +52635,6 @@
         "transparency": 4
       },
       "latest_date": "2026-05-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 4,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 7,
-        "statewide": 0,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 3,
-        "water": 3,
-        "community_impact": 2
-      },
-      "latest_date": "2026-05-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
