@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T21:32:47Z",
+  "generated_at": "2026-06-17T23:06:31Z",
   "tier_timestamps": {
-    "fast": "2026-06-17T21:32:47Z",
+    "fast": "2026-06-17T23:06:31Z",
     "bills": "2026-06-17T21:28:05Z"
   },
   "counts_by_source": {
@@ -24,7 +24,7 @@
     "legal": 1
   },
   "run_stats": {
-    "last_run_seconds": 21.49,
+    "last_run_seconds": 21.05,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
@@ -37,8 +37,8 @@
     "accepted_by_source_this_run": {
       "rss-arstechnica": 1,
       "rss-canary": 1,
-      "rss-dck": 4,
-      "rss-court-dc": 1
+      "rss-court-dc": 1,
+      "rss-dck": 4
     }
   }
 }
