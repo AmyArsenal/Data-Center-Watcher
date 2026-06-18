@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-06-18T06:25:09Z",
+  "generated_at": "2026-06-18T10:51:20Z",
   "risk_score": {
-    "score": 51.1,
-    "tier": 30.1,
+    "score": 53.1,
+    "tier": 30.7,
     "engagement": 6.6,
-    "recency": 13.8,
+    "recency": 15.3,
     "multi_source": 0.6,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.9,
+    "score": 46.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 17,
+  "count": 18,
   "tier_counts": {
-    "restrictive": 11,
+    "restrictive": 12,
     "unclear": 1,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 13,
+    "pending": 14,
     "win": 4
   },
   "scope_counts": {
-    "local": 16,
+    "local": 17,
     "statewide": 1
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-24",
-  "latest": "2026-05-28",
+  "latest": "2026-06-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-4e52dfdac07373bf-mo",
+      "date": "2026-06-18",
+      "jurisdiction": "kfvs12.com",
+      "title": "Protesters rally against data centers as Missouri officials meet to discuss projects",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://kfvs12.com/2026/06/18/protesters-rally-against-data-centers-missouri-officials-meet-discuss-projects"
+    },
     {
       "id": "news:gdelt-2156488b96869bfc-mo",
       "date": "2026-05-28",
@@ -148,15 +157,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.stlpr.org/government-politics-issues/2026-04-08/6b-data-center-festus-voters-oust-every-incumbent-council-member"
-    },
-    {
-      "id": "research:mo-independence-voters-20260408-independence-voters-ousted-city-council-members-br",
-      "date": "2026-04-08",
-      "jurisdiction": "Independence voters",
-      "title": "Independence voters ousted city council members Bridget McCandless and Jared Fears after they voted to grant more than $6B in tax breaks to ",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-04-09/after-these-independence-councilmembers-supported-an-ai-data-center-voters-ousted-them"
     }
   ]
 }

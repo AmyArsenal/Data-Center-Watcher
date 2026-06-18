@@ -1,8 +1,250 @@
 {
-  "generated_at": "2026-06-18T06:25:09Z",
+  "generated_at": "2026-06-18T10:51:20Z",
   "window_days": 90,
-  "count": 745,
+  "count": 751,
   "items": [
+    {
+      "id": "gdelt-18d37a99db24a7dd",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Commissioners approve 180 - day data center moratorium",
+      "source_domain": "times-herald.com",
+      "source_name": "times-herald.com",
+      "url": "https://times-herald.com/news/commissioners-approve-180-day-data-center-moratorium/article_29dd50b8-88fb-4424-98d9-9d87abfb4588.html",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 10:51:19",
+      "url_hash": "18d37a99db24a7dd",
+      "content_hash": "29d0d4b527d0b70d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T10:51:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-bbe3e8d4ba0606da",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Allentown City Council OKs data center ordinance in 4 - 2 vote",
+      "source_domain": "wfmz.com",
+      "source_name": "wfmz.com",
+      "url": "https://wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/allentown-city-council-oks-data-center-ordinance-in-4-2-vote/article_e5bfb155-b713-42de-83c5-ee5a62fb4f3d.html",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 10:51:19",
+      "url_hash": "bbe3e8d4ba0606da",
+      "content_hash": "fbf6166239419eed",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T10:51:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4e52dfdac07373bf",
+      "state": "MO",
+      "city": null,
+      "category": "protested",
+      "headline": "Protesters rally against data centers as Missouri officials meet to discuss projects",
+      "source_domain": "kfvs12.com",
+      "source_name": "kfvs12.com",
+      "url": "https://kfvs12.com/2026/06/18/protesters-rally-against-data-centers-missouri-officials-meet-discuss-projects",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 10:51:19",
+      "url_hash": "4e52dfdac07373bf",
+      "content_hash": "aebe393f840fd9ff",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T10:51:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d5b7c32103315cf3",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Proposed data center at Fisk University faces community pushback",
+      "source_domain": "tennesseedaily.com",
+      "source_name": "tennesseedaily.com",
+      "url": "http://tennesseedaily.com/news/279130293/proposed-data-center-at-fisk-university-faces-community-pushback",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 10:51:19",
+      "url_hash": "d5b7c32103315cf3",
+      "content_hash": "64c7491a51e5e198",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T10:51:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-202169467cfaa791",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Lorax - costumed protester joins opposition to Google data center in Botetourt County",
+      "source_domain": "wset.com",
+      "source_name": "wset.com",
+      "url": "https://wset.com/news/local/lorax-costumed-protester-joins-opposition-to-google-data-center-in-botetourt-county-southwest-virginia-data-center-transparency-alliance-june-2026",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Google"
+      ],
+      "first_seen": "2026-06-18 10:51:19",
+      "url_hash": "202169467cfaa791",
+      "content_hash": "9d39d091b7a45fe4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T10:51:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7a162fce2d4318f2",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Grant County supervisors approve data center moratorium",
+      "source_domain": "telegraphherald.com",
+      "source_name": "telegraphherald.com",
+      "url": "https://telegraphherald.com/news/tri-state/article_3404fac2-9efe-4bd9-82a0-4bafd5193038.html",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 10:51:19",
+      "url_hash": "7a162fce2d4318f2",
+      "content_hash": "c5261a7f3d4e63d2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T10:51:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-canary-59854a1423dc5cb7",
       "state": "NC",
@@ -30,7 +272,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-18T06:25:08Z",
+      "last_seen": "2026-06-18T10:51:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -71,7 +313,7 @@
         "rss-arstechnica"
       ],
       "snippet": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-      "last_seen": "2026-06-18T06:25:08Z",
+      "last_seen": "2026-06-18T10:51:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1790,7 +2032,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-18T06:25:08Z",
+      "last_seen": "2026-06-18T10:51:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2232,7 +2474,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-18T06:25:08Z",
+      "last_seen": "2026-06-18T10:51:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2312,7 +2554,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-18T06:25:08Z",
+      "last_seen": "2026-06-18T10:51:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4179,7 +4421,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-18T06:25:09Z",
+      "last_seen": "2026-06-18T10:51:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5333,7 +5575,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-18T06:25:09Z",
+      "last_seen": "2026-06-18T10:51:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29651,6 +29893,21 @@
     }
   ],
   "by_state": {
+    "MO": {
+      "state": "MO",
+      "count": 12,
+      "total_engagement": 66178,
+      "categories": {
+        "protested": 12
+      },
+      "platforms": {
+        "news": 6,
+        "reddit": 2,
+        "x": 3,
+        "tiktok": 1
+      },
+      "latest_date": "2026-06-18"
+    },
     "NC": {
       "state": "NC",
       "count": 4,
@@ -29979,21 +30236,6 @@
         "x": 1
       },
       "latest_date": "2026-05-30"
-    },
-    "MO": {
-      "state": "MO",
-      "count": 11,
-      "total_engagement": 66178,
-      "categories": {
-        "protested": 11
-      },
-      "platforms": {
-        "news": 5,
-        "reddit": 2,
-        "x": 3,
-        "tiktok": 1
-      },
-      "latest_date": "2026-05-28"
     },
     "AR": {
       "state": "AR",
