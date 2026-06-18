@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-18T10:51:20Z",
+  "generated_at": "2026-06-18T13:53:46Z",
   "states": [
     {
       "state": "AK",
@@ -130,16 +130,16 @@
     },
     {
       "state": "FL",
-      "count": 8,
-      "risk_score": 40.9,
+      "count": 9,
+      "risk_score": 45.9,
       "grade": "C",
-      "grade_score": 59.1,
+      "grade_score": 54.1,
       "moratoriums": 1,
       "approvals": 0,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-11",
+      "latest": "2026-06-18",
       "url": "data/dossiers/state-FL.json"
     },
     {
@@ -326,12 +326,12 @@
     },
     {
       "state": "MO",
-      "count": 18,
-      "risk_score": 53.1,
+      "count": 20,
+      "risk_score": 54.4,
       "grade": "D",
-      "grade_score": 46.9,
+      "grade_score": 45.6,
       "moratoriums": 0,
-      "approvals": 0,
+      "approvals": 1,
       "denials": 4,
       "lawsuits": 1,
       "active_companies": 3,

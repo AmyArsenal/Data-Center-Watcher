@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T10:51:20Z",
-  "count": 1114,
+  "generated_at": "2026-06-18T13:53:46Z",
+  "count": 1118,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -159,6 +159,96 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-2334b77762c4b05e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "inlander.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "NEWS BRIEFS : Avista pauses data center request that sparked a one - year moratorium by Spokane City Council",
+      "sources": [
+        "https://inlander.com/news/news-briefs-avista-pauses-data-center-request-that-sparked-a-one-year-moratorium-by-spokane/article_74c9c3c5-935f-44ae-b004-35280fe27418.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-18T13:53:45Z",
+      "first_seen": "2026-06-18T13:53:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-27a4ade93b45ea5d-fl",
+      "origin": "news",
+      "state": "FL",
+      "county": null,
+      "jurisdiction": "northescambia.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Escambia To Consider Data Center Ban ; FloridaWest Says No Active Talks : NorthEscambia . com",
+      "sources": [
+        "http://northescambia.com/2026/06/escambia-to-consider-data-center-ban-floridawest-says-no-active-talks"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-18T13:53:45Z",
+      "first_seen": "2026-06-18T13:53:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-4e52dfdac07373bf-mo",
       "origin": "news",
       "state": "MO",
@@ -247,6 +337,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-92fe0f8414f3738c-mo",
+      "origin": "news",
+      "state": "MO",
+      "county": null,
+      "jurisdiction": "kcur.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Missouri residents educate each other about data centers as AI companies come knocking",
+      "sources": [
+        "https://kcur.org/housing-development-section/2026-06-18/missouri-data-centers-information-amazon-google-ai"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-18T13:53:45Z",
+      "first_seen": "2026-06-18T13:53:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-bbe3e8d4ba0606da-us",
@@ -339,6 +476,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-c4eddd2cc052b45c-mo",
+      "origin": "news",
+      "state": "MO",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-18",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Crusoe could build 14-acre data center in unincorporated Missouri land. Potential development already facing local opposition",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/crusoe-could-build-14-acre-data-center-in-unincorporated-missouri-land"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-18T13:53:45Z",
+      "first_seen": "2026-06-18T13:53:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-canary-59854a1423dc5cb7-nc",
@@ -52042,21 +52224,21 @@
     },
     "US": {
       "state": "US",
-      "count": 549,
+      "count": 550,
       "outcome_counts": {
         "pending": 324,
-        "win": 210,
+        "win": 211,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 534,
+        "restrictive": 535,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 541,
+        "local": 542,
         "statewide": 6,
         "federal": 2
       },
@@ -52071,28 +52253,57 @@
     },
     "MO": {
       "state": "MO",
-      "count": 18,
+      "count": 20,
       "outcome_counts": {
-        "pending": 14,
+        "pending": 15,
         "win": 4,
-        "loss": 0,
+        "loss": 1,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 12,
+        "restrictive": 13,
         "protective": 0,
-        "supportive": 0,
+        "supportive": 1,
         "unclear": 1
       },
       "scope_counts": {
-        "local": 17,
+        "local": 19,
         "statewide": 1,
         "federal": 0
       },
       "issue_top": {
-        "community_impact": 5,
+        "community_impact": 6,
         "transparency": 3,
         "grid_energy": 2
+      },
+      "latest_date": "2026-06-18",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "FL": {
+      "state": "FL",
+      "count": 9,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 3,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "water": 3,
+        "grid_energy": 2,
+        "ratepayer": 2
       },
       "latest_date": "2026-06-18",
       "map_color_tier": "restrictive",
@@ -52996,35 +53207,6 @@
       "latest_date": "2026-05-12",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "FL": {
-      "state": "FL",
-      "count": 8,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "water": 3,
-        "grid_energy": 2,
-        "ratepayer": 2
-      },
-      "latest_date": "2026-05-11",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "MD": {
       "state": "MD",

@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-06-18T10:51:20Z",
+  "generated_at": "2026-06-18T13:53:46Z",
   "risk_score": {
-    "score": 53.1,
-    "tier": 30.7,
+    "score": 54.4,
+    "tier": 29.6,
     "engagement": 6.6,
-    "recency": 15.3,
-    "multi_source": 0.6,
+    "recency": 17.7,
+    "multi_source": 0.5,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.9,
+    "score": 45.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 0,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 4,
     "lawsuits": 1,
     "blocked": 0,
@@ -26,22 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 18,
+  "count": 20,
   "tier_counts": {
-    "restrictive": 12,
+    "restrictive": 13,
     "unclear": 1,
-    "null": 5
+    "null": 5,
+    "supportive": 1
   },
   "outcome_counts": {
-    "pending": 14,
-    "win": 4
+    "pending": 15,
+    "win": 4,
+    "loss": 1
   },
   "scope_counts": {
-    "local": 17,
+    "local": 19,
     "statewide": 1
   },
   "issue_top": {
-    "community_impact": 5,
+    "community_impact": 6,
     "transparency": 3,
     "grid_energy": 2,
     "zoning": 2,
@@ -76,6 +78,24 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://kfvs12.com/2026/06/18/protesters-rally-against-data-centers-missouri-officials-meet-discuss-projects"
+    },
+    {
+      "id": "news:rss-dcd-c4eddd2cc052b45c-mo",
+      "date": "2026-06-18",
+      "jurisdiction": "DCD",
+      "title": "Crusoe could build 14-acre data center in unincorporated Missouri land. Potential development already facing local opposition",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/crusoe-could-build-14-acre-data-center-in-unincorporated-missouri-land"
+    },
+    {
+      "id": "news:gdelt-92fe0f8414f3738c-mo",
+      "date": "2026-06-18",
+      "jurisdiction": "kcur.org",
+      "title": "Missouri residents educate each other about data centers as AI companies come knocking",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://kcur.org/housing-development-section/2026-06-18/missouri-data-centers-information-amazon-google-ai"
     },
     {
       "id": "news:gdelt-2156488b96869bfc-mo",
@@ -139,24 +159,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://www.kcur.org/politics-elections-and-government/2026-04-09/after-these-independence-councilmembers-supported-an-ai-data-center-voters-ousted-them"
-    },
-    {
-      "id": "news:festus-mo-2026-04-08-mo",
-      "date": "2026-04-08",
-      "jurisdiction": "Festus",
-      "title": "Festus voters oust 4 incumbent council members after $6B AI data center approval",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://www.stlpr.org/government-politics-issues/2026-04-08/6b-data-center-festus-voters-oust-every-incumbent-council-member"
-    },
-    {
-      "id": "research:mo-festus-voters-20260408-after-festus-city-council-approved-6b-360-acre-cr",
-      "date": "2026-04-08",
-      "jurisdiction": "Festus voters",
-      "title": "After Festus City Council approved $6B 360-acre CRG data center project March 30 over public opposition, voters on April 6 ousted all four i",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.stlpr.org/government-politics-issues/2026-04-08/6b-data-center-festus-voters-oust-every-incumbent-council-member"
     }
   ]
 }

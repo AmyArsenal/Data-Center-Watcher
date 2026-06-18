@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-06-18T10:51:20Z",
+  "generated_at": "2026-06-18T13:53:46Z",
   "window_days": 90,
-  "count": 751,
+  "count": 755,
   "items": [
+    {
+      "id": "gdelt-2334b77762c4b05e",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "NEWS BRIEFS : Avista pauses data center request that sparked a one - year moratorium by Spokane City Council",
+      "source_domain": "inlander.com",
+      "source_name": "inlander.com",
+      "url": "https://inlander.com/news/news-briefs-avista-pauses-data-center-request-that-sparked-a-one-year-moratorium-by-spokane/article_74c9c3c5-935f-44ae-b004-35280fe27418.html",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 13:53:45",
+      "url_hash": "2334b77762c4b05e",
+      "content_hash": "0ce52df4f8ec5c52",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T13:53:45Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.8999999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-27a4ade93b45ea5d",
+      "state": "FL",
+      "city": null,
+      "category": "banned",
+      "headline": "Escambia To Consider Data Center Ban ; FloridaWest Says No Active Talks : NorthEscambia . com",
+      "source_domain": "northescambia.com",
+      "source_name": "northescambia.com",
+      "url": "http://northescambia.com/2026/06/escambia-to-consider-data-center-ban-floridawest-says-no-active-talks",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 13:53:45",
+      "url_hash": "27a4ade93b45ea5d",
+      "content_hash": "68da479033075ef6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T13:53:45Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-92fe0f8414f3738c",
+      "state": "MO",
+      "city": null,
+      "category": "protested",
+      "headline": "Missouri residents educate each other about data centers as AI companies come knocking",
+      "source_domain": "kcur.org",
+      "source_name": "kcur.org",
+      "url": "https://kcur.org/housing-development-section/2026-06-18/missouri-data-centers-information-amazon-google-ai",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 13:53:45",
+      "url_hash": "92fe0f8414f3738c",
+      "content_hash": "8175dd075980551d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T13:53:45Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-c4eddd2cc052b45c",
+      "state": "MO",
+      "city": null,
+      "category": "announced",
+      "headline": "Crusoe could build 14-acre data center in unincorporated Missouri land",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/crusoe-could-build-14-acre-data-center-in-unincorporated-missouri-land",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Crusoe"
+      ],
+      "first_seen": "2026-06-18 13:53:45",
+      "url_hash": "c4eddd2cc052b45c",
+      "content_hash": "7751471e79fff89c",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Potential development already facing local opposition",
+      "last_seen": "2026-06-18T13:53:45Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/crusoe-could-build-14-acre-data-center-in-unincorporated-missouri-land/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-18d37a99db24a7dd",
       "state": "US",
@@ -232,7 +393,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -272,7 +433,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -313,7 +474,7 @@
         "rss-arstechnica"
       ],
       "snippet": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2032,7 +2193,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2474,7 +2635,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2554,7 +2715,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4421,7 +4582,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5575,7 +5736,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-18T10:51:19Z",
+      "last_seen": "2026-06-18T13:53:45Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29893,15 +30054,29 @@
     }
   ],
   "by_state": {
-    "MO": {
-      "state": "MO",
-      "count": 12,
-      "total_engagement": 66178,
+    "FL": {
+      "state": "FL",
+      "count": 3,
+      "total_engagement": 0,
       "categories": {
-        "protested": 12
+        "banned": 1,
+        "protested": 2
       },
       "platforms": {
-        "news": 6,
+        "news": 3
+      },
+      "latest_date": "2026-06-18"
+    },
+    "MO": {
+      "state": "MO",
+      "count": 14,
+      "total_engagement": 66178,
+      "categories": {
+        "protested": 13,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 8,
         "reddit": 2,
         "x": 3,
         "tiktok": 1
@@ -30328,18 +30503,6 @@
         "news": 3
       },
       "latest_date": "2026-05-12"
-    },
-    "FL": {
-      "state": "FL",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 2
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-05-11"
     },
     "MD": {
       "state": "MD",
