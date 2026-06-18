@@ -1,8 +1,287 @@
 {
-  "generated_at": "2026-06-18T13:53:46Z",
+  "generated_at": "2026-06-18T16:48:55Z",
   "window_days": 90,
-  "count": 755,
+  "count": 762,
   "items": [
+    {
+      "id": "gdelt-7a8e2ac2f4c37a9a",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Trump DOJ Trying To Protect Musk From Lawsuit Over Memphis AI Data Center Pollution",
+      "source_domain": "techdirt.com",
+      "source_name": "techdirt.com",
+      "url": "https://techdirt.com/2026/06/18/trump-doj-trying-to-protect-musk-from-lawsuit-over-memphis-ai-data-center-pollution",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 16:48:54",
+      "url_hash": "7a8e2ac2f4c37a9a",
+      "content_hash": "58fa1decff0c9b5e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T16:48:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-23d44eb5eea42c5e",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "SAC recommends the city of Eau Claire to hold a moratorium on data centers",
+      "source_domain": "leadertelegram.com",
+      "source_name": "leadertelegram.com",
+      "url": "http://leadertelegram.com/news/sac-recommends-the-city-of-eau-claire-to-hold-a-moratorium-on-data-centers/article_9cea527c-0121-4902-928e-47cb41062048.html",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 16:48:54",
+      "url_hash": "23d44eb5eea42c5e",
+      "content_hash": "99d6c784eeff3910",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-18T16:48:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-1c2ac3022cb7d034",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "City's data center moratorium in New York impacts Digi Power X’s hopes to convert cryptomine to AI data center",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/citys-data-center-moratorium-in-new-york-impacts-digi-power-xs-hopes-to-convert-cryptomine-to-ai-data-center",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 16:48:54",
+      "url_hash": "1c2ac3022cb7d034",
+      "content_hash": "6521effefc4e082b",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "North Tonawanda extends existing moratorium by another 12 months",
+      "last_seen": "2026-06-18T16:48:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/citys-data-center-moratorium-in-new-york-impacts-digi-power-xs-hopes-to-convert-cryptomine-to-ai-data-center/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-9d2c9f6800ca6af0",
+      "state": "SC",
+      "city": null,
+      "category": "protested",
+      "headline": "Stream Data Centers pulls out of $800m South Carolina data center, says utility power would take too long",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/stream-data-centers-pulls-out-of-800m-south-carolina-data-center-says-utility-power-would-take-too-long",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 16:48:54",
+      "url_hash": "9d2c9f6800ca6af0",
+      "content_hash": "1b0e65de1f99b7be",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Project Liberty had seen some local pushback, but was approved",
+      "last_seen": "2026-06-18T16:48:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/stream-data-centers-pulls-out-of-800m-south-carolina-data-center-says-utility-power-would-take-too-long/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-4db7576bacdd9191",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Switch buys another site outside Las Vegas",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/switch-buys-another-site-outside-las-vegas",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Switch"
+      ],
+      "first_seen": "2026-06-18 16:48:54",
+      "url_hash": "4db7576bacdd9191",
+      "content_hash": "da556abc5cb06630",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Data center firm grows its land bank again",
+      "last_seen": "2026-06-18T16:48:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/switch-buys-another-site-outside-las-vegas/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-utilitydive-f2f90203f2048c90",
+      "state": "MD",
+      "city": null,
+      "category": "protested",
+      "headline": "Maryland lawmakers back data center transmission cost complaint at FERC",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/maryland-ratepayer-advocate-ferc-data-center-complaint-transmission/823244",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-18 16:48:54",
+      "url_hash": "f2f90203f2048c90",
+      "content_hash": "db4eb98a76bfd2d7",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "The PJM Interconnection improperly makes ratepayers pay for data center-driven transmission projects that don&rsquo;t benefit them, according to Maryland's ratepayer advocate.",
+      "last_seen": "2026-06-18T16:48:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.52,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/maryland-ratepayer-advocate-ferc-data-center-complaint-transmission/823244/",
+        "rss_author": "Ethan Howland",
+        "rss_needs_dc_filter": true
+      }
+    },
+    {
+      "id": "rss-utilitydive-c2aef0ea385cafed",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823267",
+      "date": "2026-06-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "xAI"
+      ],
+      "first_seen": "2026-06-18 16:48:54",
+      "url_hash": "c2aef0ea385cafed",
+      "content_hash": "d86f677eca589df0",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
+      "last_seen": "2026-06-18T16:48:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823267/",
+        "rss_author": "Diana DiGangi",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-2334b77762c4b05e",
       "state": "US",
@@ -110,7 +389,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -152,7 +431,7 @@
         "rss-dcd"
       ],
       "snippet": "Potential development already facing local opposition",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -433,7 +712,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -474,7 +753,7 @@
         "rss-arstechnica"
       ],
       "snippet": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2193,7 +2472,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2635,7 +2914,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2715,7 +2994,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4582,7 +4861,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5736,7 +6015,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-18T13:53:45Z",
+      "last_seen": "2026-06-18T16:48:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -30054,6 +30333,45 @@
     }
   ],
   "by_state": {
+    "NY": {
+      "state": "NY",
+      "count": 8,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 6,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 8
+      },
+      "latest_date": "2026-06-18"
+    },
+    "SC": {
+      "state": "SC",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-06-18"
+    },
+    "MD": {
+      "state": "MD",
+      "count": 4,
+      "total_engagement": 1,
+      "categories": {
+        "protested": 3,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 3,
+        "reddit": 1
+      },
+      "latest_date": "2026-06-18"
+    },
     "FL": {
       "state": "FL",
       "count": 3,
@@ -30250,19 +30568,6 @@
       },
       "platforms": {
         "news": 3
-      },
-      "latest_date": "2026-06-10"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 7,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 2,
-        "banned": 5
-      },
-      "platforms": {
-        "news": 7
       },
       "latest_date": "2026-06-10"
     },
@@ -30503,20 +30808,6 @@
         "news": 3
       },
       "latest_date": "2026-05-12"
-    },
-    "MD": {
-      "state": "MD",
-      "count": 3,
-      "total_engagement": 1,
-      "categories": {
-        "protested": 2,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 2,
-        "reddit": 1
-      },
-      "latest_date": "2026-05-08"
     }
   }
 }

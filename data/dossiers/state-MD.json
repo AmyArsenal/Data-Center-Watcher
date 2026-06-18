@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MD",
-  "generated_at": "2026-06-18T13:53:46Z",
+  "generated_at": "2026-06-18T16:48:55Z",
   "risk_score": {
-    "score": 42.9,
-    "tier": 15.5,
-    "engagement": 10.5,
-    "recency": 5.1,
-    "multi_source": 6.8,
+    "score": 44.8,
+    "tier": 16.5,
+    "engagement": 10.3,
+    "recency": 6.5,
+    "multi_source": 6.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 57.1,
+    "score": 55.2,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,31 +26,31 @@
     "bills_passed": 4,
     "bills_enacted": 3
   },
-  "count": 25,
+  "count": 26,
   "tier_counts": {
-    "restrictive": 4,
+    "restrictive": 5,
     "unclear": 14,
     "supportive": 2,
     "null": 5
   },
   "outcome_counts": {
     "win": 8,
-    "pending": 16,
+    "pending": 17,
     "loss": 1
   },
   "scope_counts": {
     "local": 4,
     "statewide": 20,
-    "federal": 1
+    "federal": 2
   },
   "issue_top": {
-    "grid_energy": 5,
+    "grid_energy": 6,
     "community_impact": 3,
     "transparency": 3,
     "zoning": 2,
     "environmental": 2,
+    "ratepayer": 2,
     "tax_incentive": 1,
-    "ratepayer": 1,
     "farmland": 1
   },
   "companies": [
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2020-02-07",
-  "latest": "2026-05-08",
+  "latest": "2026-06-18",
   "top_citations": [
+    {
+      "id": "news:rss-utilitydive-f2f90203f2048c90-md",
+      "date": "2026-06-18",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "Maryland lawmakers back data center transmission cost complaint at FERC. The PJM Interconnection improperly makes ratepayers pay for data ce",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://utilitydive.com/news/maryland-ratepayer-advocate-ferc-data-center-complaint-transmission/823244"
+    },
     {
       "id": "news:rss-rto-insider-1c5f7b6f0e05c81c-md",
       "date": "2026-05-08",
@@ -143,15 +152,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1534?ys=2026RS"
-    },
-    {
-      "id": "openstates:ocd-bill-715d5a62-c2cd-4b6c-ad18-0d02d1ed7a7f-md",
-      "date": "2026-02-13",
-      "jurisdiction": "MD Legislature",
-      "title": "Data Center Planning and Transparency Act",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1411?ys=2026RS"
     }
   ]
 }
