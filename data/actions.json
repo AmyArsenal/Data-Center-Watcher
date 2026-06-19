@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T14:29:03Z",
-  "count": 1133,
+  "generated_at": "2026-06-19T16:57:31Z",
+  "count": 1134,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -202,6 +202,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-956f4ff3576c4731-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "963kklz.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Switch Data Center Gets Approval From Clark County Despite Public Opposition",
+      "sources": [
+        "https://963kklz.com/2026/06/19/switch-data-center-gets-approval-from-clark-county-despite-public-opposition"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-19T16:57:30Z",
+      "first_seen": "2026-06-19T16:57:31Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-rto-insider-18d9b8f5f1bd2294-us",
@@ -52906,21 +52951,21 @@
     },
     "US": {
       "state": "US",
-      "count": 562,
+      "count": 563,
       "outcome_counts": {
-        "pending": 327,
+        "pending": 328,
         "win": 220,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 547,
+        "restrictive": 548,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 553,
+        "local": 554,
         "statewide": 6,
         "federal": 3
       },
