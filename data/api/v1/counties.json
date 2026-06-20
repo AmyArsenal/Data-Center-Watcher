@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-06-20T16:46:38Z",
+  "generated_at": "2026-06-20T18:03:31Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -60,9 +60,9 @@
       "county_fips": "39089",
       "county_name": "Licking County",
       "state": "OH",
-      "count": 1,
+      "count": 2,
       "risk_score": 66.2,
-      "latest": "2026-06-10",
+      "latest": "2026-06-20",
       "url": "data/dossiers/county-39089.json"
     },
     {

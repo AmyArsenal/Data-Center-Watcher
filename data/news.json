@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-20T16:46:37Z",
+  "generated_at": "2026-06-20T18:03:31Z",
   "window_days": 90,
-  "count": 772,
+  "count": 773,
   "items": [
+    {
+      "id": "gdelt-a6e91106a06026ea",
+      "state": "OH",
+      "city": "New Albany",
+      "category": "protested",
+      "headline": "McDonald officials visit data centers in New Albany | News , Sports , Jobs",
+      "source_domain": "vindy.com",
+      "source_name": "vindy.com",
+      "url": "https://vindy.com/news/local-news/2026/06/mcdonald-officials-visit-data-centers-in-new-albany",
+      "date": "2026-06-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-20 18:03:30",
+      "url_hash": "a6e91106a06026ea",
+      "content_hash": "0f234e1d31ea4159",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-20T18:03:30Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-661290acb3356227",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -232,7 +272,7 @@
         "rss-rto-insider"
       ],
       "snippet": "FERC issued show-cause orders to every jurisdictional ISO and RTO, directing changes to how their rules interconnect data centers and other large loads. The post FERC Directs RTOs to Fix Large Load Interconnections as Answer to DOE ANOPR appeared first on RTO Insider .",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -630,7 +670,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection improperly makes ratepayers pay for data center-driven transmission projects that don&rsquo;t benefit them, according to Maryland's ratepayer advocate.",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -671,7 +711,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1113,7 +1153,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2873,7 +2913,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3315,7 +3355,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3395,7 +3435,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5262,7 +5302,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6416,7 +6456,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-20T16:46:37Z",
+      "last_seen": "2026-06-20T18:03:30Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -30734,6 +30774,24 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 20,
+      "total_engagement": 2750,
+      "categories": {
+        "protested": 12,
+        "banned": 6,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 13,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-06-20"
+    },
     "NY": {
       "state": "NY",
       "count": 8,
@@ -30830,24 +30888,6 @@
         "legal": 1,
         "tiktok": 2,
         "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-06-16"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 19,
-      "total_engagement": 2750,
-      "categories": {
-        "protested": 11,
-        "banned": 6,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 12,
-        "reddit": 3,
-        "tiktok": 3,
         "x": 1
       },
       "latest_date": "2026-06-16"

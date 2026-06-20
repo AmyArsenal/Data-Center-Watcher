@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-06-20T16:46:38Z",
+  "generated_at": "2026-06-20T18:03:31Z",
   "risk_score": {
-    "score": 60.9,
-    "tier": 31.7,
+    "score": 62.0,
+    "tier": 32.0,
     "engagement": 6.2,
-    "recency": 17.9,
+    "recency": 18.8,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 39.1,
+    "score": 38.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 25,
+  "count": 26,
   "tier_counts": {
-    "restrictive": 18,
+    "restrictive": 19,
     "null": 6,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 14,
+    "pending": 15,
     "win": 10,
     "loss": 1
   },
   "scope_counts": {
-    "local": 20,
+    "local": 21,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-06-16",
+  "latest": "2026-06-20",
   "top_citations": [
+    {
+      "id": "news:gdelt-a6e91106a06026ea-oh",
+      "date": "2026-06-20",
+      "jurisdiction": "New Albany",
+      "title": "McDonald officials visit data centers in New Albany | News , Sports , Jobs",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://vindy.com/news/local-news/2026/06/mcdonald-officials-visit-data-centers-in-new-albany"
+    },
     {
       "id": "news:rss-dcd-d1a0440c1be04bf1-oh",
       "date": "2026-06-16",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://10tv.com/article/news/local/ohio-data-center-ban-advocates-trying-to-get-413000-signatures-july-1/530-471a09f4-d911-46d9-88ef-917a29156a0a"
-    },
-    {
-      "id": "news:rss-dcd-9b9782b83df42aef-oh",
-      "date": "2026-05-08",
-      "jurisdiction": "DCD",
-      "title": "Developers file application for $1.6bn data center in Cleveland, Ohio. But a potential moratorium could stop it in its tracks",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/developers-file-application-for-16bn-data-center-in-cleveland-ohio"
     }
   ]
 }
