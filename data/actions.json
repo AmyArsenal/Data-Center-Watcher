@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T15:11:15Z",
-  "count": 1134,
+  "generated_at": "2026-06-20T16:46:37Z",
+  "count": 1135,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-661290acb3356227-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wset.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-20",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Spotsylvania residents push back on data centers and the county low data center tax",
+      "sources": [
+        "https://wset.com/news/local/data-center-spotsylvania-county-centers-virginia-low-tax-prince-william-stafford-lee-hill-niehbrohood-residents-react-support-condemn-environmental-attorney-industrial-supervisors"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-20T16:46:37Z",
+      "first_seen": "2026-06-20T16:46:37Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-33bed6ad03e98acf-us",
@@ -52951,30 +52998,30 @@
     },
     "US": {
       "state": "US",
-      "count": 563,
+      "count": 564,
       "outcome_counts": {
-        "pending": 328,
+        "pending": 329,
         "win": 220,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 548,
+        "restrictive": 549,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 554,
+        "local": 555,
         "statewide": 6,
         "federal": 3
       },
       "issue_top": {
-        "community_impact": 110,
+        "community_impact": 111,
         "zoning": 39,
         "grid_energy": 14
       },
-      "latest_date": "2026-06-19",
+      "latest_date": "2026-06-20",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

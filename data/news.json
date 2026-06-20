@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-20T15:11:15Z",
+  "generated_at": "2026-06-20T16:46:37Z",
   "window_days": 90,
-  "count": 771,
+  "count": 772,
   "items": [
+    {
+      "id": "gdelt-661290acb3356227",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Spotsylvania residents push back on data centers and the county low data center tax",
+      "source_domain": "wset.com",
+      "source_name": "wset.com",
+      "url": "https://wset.com/news/local/data-center-spotsylvania-county-centers-virginia-low-tax-prince-william-stafford-lee-hill-niehbrohood-residents-react-support-condemn-environmental-attorney-industrial-supervisors",
+      "date": "2026-06-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-20 16:46:37",
+      "url_hash": "661290acb3356227",
+      "content_hash": "6aa4074b7858c3a1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-20T16:46:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-956f4ff3576c4731",
       "state": "US",
@@ -192,7 +232,7 @@
         "rss-rto-insider"
       ],
       "snippet": "FERC issued show-cause orders to every jurisdictional ISO and RTO, directing changes to how their rules interconnect data centers and other large loads. The post FERC Directs RTOs to Fix Large Load Interconnections as Answer to DOE ANOPR appeared first on RTO Insider .",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -590,7 +630,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection improperly makes ratepayers pay for data center-driven transmission projects that don&rsquo;t benefit them, according to Maryland's ratepayer advocate.",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -631,7 +671,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1073,7 +1113,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2833,7 +2873,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3275,7 +3315,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3355,7 +3395,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5222,7 +5262,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6376,7 +6416,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-20T15:11:14Z",
+      "last_seen": "2026-06-20T16:46:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
