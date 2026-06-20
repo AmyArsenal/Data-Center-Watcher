@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T18:03:31Z",
-  "count": 1136,
+  "generated_at": "2026-06-20T19:52:27Z",
+  "count": 1137,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -159,6 +159,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d74a015ead961b38-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fox17.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-06-20",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "environmental"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Justice Department seeks to dismiss air pollution lawsuit against xAI data center",
+      "sources": [
+        "https://fox17.com/news/local/justice-department-seeks-to-dismiss-air-pollution-lawsuit-against-xai-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-20T19:52:26Z",
+      "first_seen": "2026-06-20T19:52:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-33bed6ad03e98acf-us",
@@ -53043,21 +53090,21 @@
     },
     "US": {
       "state": "US",
-      "count": 564,
+      "count": 565,
       "outcome_counts": {
         "pending": 329,
-        "win": 220,
+        "win": 221,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 549,
+        "restrictive": 550,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 555,
+        "local": 556,
         "statewide": 6,
         "federal": 3
       },

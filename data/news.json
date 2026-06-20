@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-06-20T18:03:31Z",
+  "generated_at": "2026-06-20T19:52:26Z",
   "window_days": 90,
-  "count": 773,
+  "count": 774,
   "items": [
+    {
+      "id": "gdelt-d74a015ead961b38",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Justice Department seeks to dismiss air pollution lawsuit against xAI data center",
+      "source_domain": "fox17.com",
+      "source_name": "fox17.com",
+      "url": "https://fox17.com/news/local/justice-department-seeks-to-dismiss-air-pollution-lawsuit-against-xai-data-center",
+      "date": "2026-06-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "xAI"
+      ],
+      "first_seen": "2026-06-20 19:52:26",
+      "url_hash": "d74a015ead961b38",
+      "content_hash": "b4cd65219d1d1fba",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-20T19:52:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-a6e91106a06026ea",
       "state": "OH",
@@ -30,7 +72,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +112,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -272,7 +314,7 @@
         "rss-rto-insider"
       ],
       "snippet": "FERC issued show-cause orders to every jurisdictional ISO and RTO, directing changes to how their rules interconnect data centers and other large loads. The post FERC Directs RTOs to Fix Large Load Interconnections as Answer to DOE ANOPR appeared first on RTO Insider .",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -670,7 +712,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection improperly makes ratepayers pay for data center-driven transmission projects that don&rsquo;t benefit them, according to Maryland's ratepayer advocate.",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -711,7 +753,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1153,7 +1195,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2913,7 +2955,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3355,7 +3397,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3435,7 +3477,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5302,7 +5344,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6456,7 +6498,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-20T18:03:30Z",
+      "last_seen": "2026-06-20T19:52:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
