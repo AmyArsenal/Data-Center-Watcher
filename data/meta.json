@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T22:24:07Z",
+  "generated_at": "2026-06-22T23:47:15Z",
   "tier_timestamps": {
-    "fast": "2026-06-22T22:24:07Z",
+    "fast": "2026-06-22T23:47:15Z",
     "bills": "2026-06-22T21:20:20Z"
   },
   "counts_by_source": {
@@ -24,12 +24,12 @@
     "legal": 1
   },
   "run_stats": {
-    "last_run_seconds": 13.98,
+    "last_run_seconds": 16.75,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
-      "gdelt": 0,
-      "reddit": 0
+      "reddit": 0,
+      "gdelt": 0
     },
     "inserted": 0,
     "updated": 8,
