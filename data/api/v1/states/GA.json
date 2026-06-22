@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-06-22T13:15:57Z",
+  "generated_at": "2026-06-22T17:58:20Z",
   "risk_score": {
-    "score": 42.4,
-    "tier": 16.8,
-    "engagement": 9.0,
-    "recency": 7.3,
-    "multi_source": 4.4,
+    "score": 45.3,
+    "tier": 18.1,
+    "engagement": 8.8,
+    "recency": 9.3,
+    "multi_source": 4.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 57.6,
+    "score": 54.7,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 16,
+  "count": 17,
   "tier_counts": {
-    "restrictive": 4,
+    "restrictive": 5,
     "unclear": 4,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 11,
+    "pending": 12,
     "win": 2,
     "loss": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 6,
+    "local": 7,
     "statewide": 9,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
-  "latest": "2026-05-22",
+  "latest": "2026-06-22",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-cb202539f0e393f0-ga",
+      "date": "2026-06-22",
+      "jurisdiction": "DCD",
+      "title": "DataBank files for 200MW data center campus outside Atlanta, Georgia. Site could go live in 2032",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/databank-files-for-200mw-data-center-campus-outside-atlanta-georgia"
+    },
     {
       "id": "news:gdelt-589214b5d32d6d4b-ga",
       "date": "2026-05-22",
@@ -142,15 +151,6 @@
       "jurisdiction": "GA Legislature",
       "title": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
       "tier": "restrictive",
-      "outcome": "pending",
-      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
-    },
-    {
-      "id": "openstates:ocd-bill-f1f3464c-84fd-45be-b454-e0658f67a3b9-ga",
-      "date": "2026-01-22",
-      "jurisdiction": "GA Legislature",
-      "title": "\"The Data Center Transparency Act\"; enact",
-      "tier": "unclear",
       "outcome": "pending",
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
     }

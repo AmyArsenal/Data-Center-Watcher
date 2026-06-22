@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-06-22T13:15:56Z",
+  "generated_at": "2026-06-22T17:58:20Z",
   "window_days": 90,
-  "count": 774,
+  "count": 775,
   "items": [
+    {
+      "id": "rss-dcd-cb202539f0e393f0",
+      "state": "GA",
+      "city": null,
+      "category": "protested",
+      "headline": "DataBank files for 200MW data center campus outside Atlanta, Georgia",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/databank-files-for-200mw-data-center-campus-outside-atlanta-georgia",
+      "date": "2026-06-22",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "DataBank"
+      ],
+      "first_seen": "2026-06-22 17:58:20",
+      "url_hash": "cb202539f0e393f0",
+      "content_hash": "be57a52494cd6309",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Site could go live in 2032",
+      "last_seen": "2026-06-22T17:58:20Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/databank-files-for-200mw-data-center-campus-outside-atlanta-georgia/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-d74a015ead961b38",
       "state": "US",
@@ -712,7 +753,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The PJM Interconnection improperly makes ratepayers pay for data center-driven transmission projects that don&rsquo;t benefit them, according to Maryland's ratepayer advocate.",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -753,7 +794,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The Department of Defense said the xAI data center powered by the gas plant is critical to national security, revealing Grok was used to fire thousands of missiles in the Iran war.",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1195,7 +1236,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2955,7 +2996,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3397,7 +3438,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3477,7 +3518,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5344,7 +5385,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6498,7 +6539,7 @@
         "rss-dck"
       ],
       "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-22T13:15:56Z",
+      "last_seen": "2026-06-22T17:58:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -30816,6 +30857,19 @@
     }
   ],
   "by_state": {
+    "GA": {
+      "state": "GA",
+      "count": 5,
+      "total_engagement": 70,
+      "categories": {
+        "protested": 4,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-06-22"
+    },
     "OH": {
       "state": "OH",
       "count": 20,
@@ -31225,19 +31279,6 @@
         "news": 4
       },
       "latest_date": "2026-05-27"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 4,
-      "total_engagement": 70,
-      "categories": {
-        "protested": 3,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 4
-      },
-      "latest_date": "2026-05-22"
     },
     "WI": {
       "state": "WI",
