@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T14:13:50Z",
-  "count": 1151,
+  "generated_at": "2026-06-23T16:40:38Z",
+  "count": 1152,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -663,6 +663,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-latitude-5a56fe03c188df9c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Latitude Media",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sen. Heinrich on what data centers can learn from SunZia. Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media",
+      "sources": [
+        "https://latitudemedia.com/news/sen-heinrich-on-what-data-centers-can-learn-from-sunzia"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-23T16:40:37Z",
+      "first_seen": "2026-06-23T16:40:37Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-cb202539f0e393f0-ga",
@@ -53731,26 +53778,26 @@
     },
     "US": {
       "state": "US",
-      "count": 577,
+      "count": 578,
       "outcome_counts": {
-        "pending": 335,
+        "pending": 336,
         "win": 227,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 562,
+        "restrictive": 563,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 568,
+        "local": 569,
         "statewide": 6,
         "federal": 3
       },
       "issue_top": {
-        "community_impact": 115,
+        "community_impact": 116,
         "zoning": 40,
         "grid_energy": 14
       },
