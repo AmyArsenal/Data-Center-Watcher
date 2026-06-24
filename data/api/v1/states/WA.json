@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-06-23T23:19:48Z",
+  "generated_at": "2026-06-24T01:21:35Z",
   "risk_score": {
-    "score": 53.8,
+    "score": 50.0,
     "tier": 22.3,
     "engagement": 8.0,
-    "recency": 15.6,
+    "recency": 11.8,
     "multi_source": 2.9,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "D",
-    "score": 46.2,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 50.0,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
