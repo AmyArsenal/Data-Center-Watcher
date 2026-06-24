@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NM",
-  "generated_at": "2026-06-24T22:37:42Z",
+  "generated_at": "2026-06-24T23:46:38Z",
   "risk_score": {
-    "score": 33.4,
-    "tier": 8.0,
+    "score": 42.2,
+    "tier": 16.0,
     "engagement": 6.2,
-    "recency": 19.1,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
@@ -18,27 +18,29 @@
   "quantified": {
     "moratoriums": 0,
     "approvals": 1,
-    "denials": 0,
-    "lawsuits": 0,
-    "blocked": 0,
+    "denials": 1,
+    "lawsuits": 1,
+    "blocked": 1,
     "active_companies": 1,
     "bills_introduced": 0,
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
     "null": 2,
-    "supportive": 1
+    "supportive": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
     "pending": 2,
-    "loss": 1
+    "loss": 1,
+    "win": 1
   },
   "scope_counts": {
     "statewide": 1,
     "federal": 1,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "environmental": 2,
@@ -55,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-14",
-  "latest": "2026-06-04",
+  "latest": "2026-06-24",
   "top_citations": [
+    {
+      "id": "news:gdelt-288582b8b21518d9-nm",
+      "date": "2026-06-24",
+      "jurisdiction": "ksfr.org",
+      "title": "New Mexico judge dismisses Project Jupiter data center lawsuit , but offers chance to re - file",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://ksfr.org/government/2026-06-24/new-mexico-judge-dismisses-project-jupiter-data-center-lawsuit-but-offers-chance-to-re-file"
+    },
     {
       "id": "news:rss-dcd-b84714ee88b46b54-nm",
       "date": "2026-06-04",

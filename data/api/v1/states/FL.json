@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "FL",
-  "generated_at": "2026-06-24T22:37:42Z",
+  "generated_at": "2026-06-24T23:46:38Z",
   "risk_score": {
-    "score": 45.9,
-    "tier": 21.3,
-    "engagement": 9.0,
-    "recency": 11.1,
-    "multi_source": 4.4,
+    "score": 56.0,
+    "tier": 26.0,
+    "engagement": 8.3,
+    "recency": 18.3,
+    "multi_source": 3.3,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 54.1,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 44.0,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 0,
-    "denials": 3,
+    "denials": 6,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 9,
+  "count": 12,
   "tier_counts": {
     "unclear": 4,
     "null": 2,
-    "restrictive": 3
+    "restrictive": 6
   },
   "outcome_counts": {
     "pending": 6,
-    "win": 3
+    "win": 6
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 4
+    "local": 7
   },
   "issue_top": {
     "water": 3,
@@ -51,8 +51,35 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-05",
-  "latest": "2026-06-18",
+  "latest": "2026-06-24",
   "top_citations": [
+    {
+      "id": "news:gdelt-6624d3527e694ffb-fl",
+      "date": "2026-06-24",
+      "jurisdiction": "wflaorlando.iheart.com",
+      "title": "3 Florida Counties Ban A . I . Data Centers In One Day | Newsradio WFLA Orlando",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wflaorlando.iheart.com/featured/florida-news/content/2026-06-24-3-florida-counties-ban-ai-data-centers-in-one-day"
+    },
+    {
+      "id": "news:gdelt-bfbccbf625113a99-fl",
+      "date": "2026-06-24",
+      "jurisdiction": "wflanews.iheart.com",
+      "title": "3 Florida Counties Ban A . I . Data Centers In One Day | NewsRadio WFLA",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wflanews.iheart.com/featured/florida-news/content/2026-06-24-3-florida-counties-ban-ai-data-centers-in-one-day"
+    },
+    {
+      "id": "news:gdelt-7b37de56bfd7631f-fl",
+      "date": "2026-06-24",
+      "jurisdiction": "945rocks.iheart.com",
+      "title": "3 Florida Counties Ban A . I . Data Centers In One Day",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://945rocks.iheart.com/content/2026-06-24-3-florida-counties-ban-ai-data-centers-in-one-day"
+    },
     {
       "id": "news:gdelt-27a4ade93b45ea5d-fl",
       "date": "2026-06-18",
@@ -115,24 +142,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://flsenate.gov/Session/Bill/2026/1118/ByCategory"
-    },
-    {
-      "id": "openstates:ocd-bill-2156b93d-a504-4707-9e4a-41e60d7cb7ea-fl",
-      "date": "2026-01-09",
-      "jurisdiction": "FL Legislature",
-      "title": "Approval of Data Center Facilities",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://flsenate.gov/Session/Bill/2026/1517/ByCategory"
-    },
-    {
-      "id": "openstates:ocd-bill-f76514da-cdb7-45f6-960b-0dbc54d92ad4-fl",
-      "date": "2026-01-05",
-      "jurisdiction": "FL Legislature",
-      "title": "Data Centers",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://flsenate.gov/Session/Bill/2026/1007/ByCategory"
     }
   ]
 }
