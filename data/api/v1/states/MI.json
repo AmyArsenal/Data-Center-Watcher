@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-06-24T08:32:42Z",
+  "generated_at": "2026-06-24T11:26:34Z",
   "risk_score": {
-    "score": 52.7,
-    "tier": 32.4,
+    "score": 55.5,
+    "tier": 33.0,
     "engagement": 6.2,
-    "recency": 14.1,
+    "recency": 16.2,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.3,
+    "score": 44.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 0,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 2,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 11,
+  "count": 12,
   "tier_counts": {
-    "restrictive": 8,
+    "restrictive": 9,
     "null": 3
   },
   "outcome_counts": {
-    "win": 6,
+    "win": 7,
     "pending": 5
   },
   "scope_counts": {
-    "local": 10,
+    "local": 11,
     "statewide": 1
   },
   "issue_top": {
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-06-05",
+  "latest": "2026-06-24",
   "top_citations": [
+    {
+      "id": "news:gdelt-8278bb6b046d9c62-mi",
+      "date": "2026-06-24",
+      "jurisdiction": "wmuk.org",
+      "title": "Michigan lawmakers continue call for data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wmuk.org/2026-06-23/michigan-lawmakers-continue-call-for-data-center-moratorium"
+    },
     {
       "id": "news:rss-dcd-668692f87d482616-mi",
       "date": "2026-06-05",
@@ -143,15 +152,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://planetdetroit.org/2026/04/ypsilanti-township-escalates-data-center-fight/"
-    },
-    {
-      "id": "research:mi-michigan-house-20260303-reps-wortz-fox-and-wegela-introduced-bipartisan",
-      "date": "2026-03-03",
-      "jurisdiction": "Michigan House",
-      "title": "Reps. Wortz, Fox, and Wegela introduced bipartisan Data Center Regulation Act (HB 5594-5596), prohibiting new data centers from receiving st",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.wilx.com/2026/03/03/michigan-lawmakers-propose-year-long-data-center-construction-moratorium/"
     }
   ]
 }

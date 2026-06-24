@@ -1,8 +1,167 @@
 {
-  "generated_at": "2026-06-24T08:32:42Z",
+  "generated_at": "2026-06-24T11:26:34Z",
   "window_days": 90,
-  "count": 792,
+  "count": 797,
   "items": [
+    {
+      "id": "gdelt-8278bb6b046d9c62",
+      "state": "MI",
+      "city": null,
+      "category": "banned",
+      "headline": "Michigan lawmakers continue call for data center moratorium",
+      "source_domain": "wmuk.org",
+      "source_name": "wmuk.org",
+      "url": "https://wmuk.org/2026-06-23/michigan-lawmakers-continue-call-for-data-center-moratorium",
+      "date": "2026-06-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-24 11:26:33",
+      "url_hash": "8278bb6b046d9c62",
+      "content_hash": "d4573fcdc6c51b3f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-24T11:26:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-21b8d3d5d3514204",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "South Hanover Township residents raise concerns over proposed data centers",
+      "source_domain": "wgal.com",
+      "source_name": "wgal.com",
+      "url": "https://wgal.com/article/south-hanover-township-residents-raise-concerns-proposed-data-centers/71687494",
+      "date": "2026-06-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-24 11:26:33",
+      "url_hash": "21b8d3d5d3514204",
+      "content_hash": "a8459f41751dc101",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-24T11:26:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-f52fde73472b1fd6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Local group sues Columbus over data center overlay ordinance",
+      "source_domain": "wtvm.com",
+      "source_name": "wtvm.com",
+      "url": "https://wtvm.com/2026/06/24/local-group-sues-columbus-over-data-center-overlay-ordinance",
+      "date": "2026-06-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-24 11:26:33",
+      "url_hash": "f52fde73472b1fd6",
+      "content_hash": "d68a6811b7f6bd2c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-24T11:26:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-cdb398c01905b10c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents rally against \"monster\" 300MW AI data center planned in Scotland",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/residents-rally-against-monster-300mw-ai-data-center-planned-in-scotland",
+      "date": "2026-06-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-24 11:26:33",
+      "url_hash": "cdb398c01905b10c",
+      "content_hash": "3b8b8c5e7967b6b3",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "What's that coming over the hill, is it a... data center?",
+      "last_seen": "2026-06-24T11:26:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/residents-rally-against-monster-300mw-ai-data-center-planned-in-scotland/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-rto-insider-9580e447ffde9eac",
       "state": "US",
@@ -30,7 +189,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Public opposition to data centers continues to increase, and both local governments and the industry are taking notice. The post Local Opposition Slowing Data Center Development appeared first on RTO Insider .",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40,6 +199,45 @@
         "rss_id": "//www.rtoinsider.com/?p=135061",
         "rss_author": "Scott Streater",
         "rss_needs_dc_filter": true
+      }
+    },
+    {
+      "id": "rss-dck-614047cf78937950",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Bridging the Divide: How Data Centers Are Addressing Community Concerns",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/data-center-site-selection/bridging-the-divide-how-data-centers-are-addressing-community-concerns",
+      "date": "2026-06-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-24 11:26:33",
+      "url_hash": "614047cf78937950",
+      "content_hash": "51a99256649c8d7d",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
+      "last_seen": "2026-06-24T11:26:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/data-center-site-selection/bridging-the-divide-how-data-centers-are-addressing-community-concerns",
+        "rss_author": "James Walker",
+        "rss_needs_dc_filter": false
       }
     },
     {
@@ -229,7 +427,7 @@
         "rss-dcd"
       ],
       "snippet": "Round was led by Yotta Capital with participation from SE Ventures, Navitas Semiconductor, and Cycle Group",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -268,7 +466,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2032,7 +2230,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3792,7 +3990,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4234,7 +4432,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4314,7 +4512,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6181,7 +6379,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-24T08:32:41Z",
+      "last_seen": "2026-06-24T11:26:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -31536,6 +31734,20 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 9,
+      "total_engagement": 104,
+      "categories": {
+        "banned": 6,
+        "protested": 3
+      },
+      "platforms": {
+        "news": 8,
+        "reddit": 1
+      },
+      "latest_date": "2026-06-24"
+    },
     "OH": {
       "state": "OH",
       "count": 21,
@@ -31836,20 +32048,6 @@
         "news": 3
       },
       "latest_date": "2026-06-06"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 8,
-      "total_engagement": 104,
-      "categories": {
-        "banned": 5,
-        "protested": 3
-      },
-      "platforms": {
-        "news": 7,
-        "reddit": 1
-      },
-      "latest_date": "2026-06-05"
     },
     "NM": {
       "state": "NM",
