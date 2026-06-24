@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-06-24T11:26:34Z",
+  "generated_at": "2026-06-24T13:33:20Z",
   "risk_score": {
-    "score": 37.9,
-    "tier": 10.5,
-    "engagement": 10.0,
-    "recency": 6.5,
-    "multi_source": 5.9,
+    "score": 38.4,
+    "tier": 10.1,
+    "engagement": 9.8,
+    "recency": 7.7,
+    "multi_source": 5.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 62.1,
+    "score": 61.6,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 2,
+    "approvals": 3,
     "denials": 9,
     "lawsuits": 0,
     "blocked": 1,
@@ -26,28 +26,28 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 27,
+  "count": 28,
   "tier_counts": {
     "unclear": 10,
-    "supportive": 8,
+    "supportive": 9,
     "null": 7,
     "restrictive": 2
   },
   "outcome_counts": {
     "pending": 16,
     "win": 9,
-    "loss": 2
+    "loss": 3
   },
   "scope_counts": {
     "statewide": 22,
     "federal": 1,
-    "local": 4
+    "local": 5
   },
   "issue_top": {
     "tax_incentive": 6,
     "ratepayer": 6,
+    "community_impact": 5,
     "grid_energy": 5,
-    "community_impact": 4,
     "environmental": 3,
     "water": 2,
     "transparency": 2,
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-05-15",
+  "latest": "2026-06-24",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-5c9973a75232dd71-pa",
+      "date": "2026-06-24",
+      "jurisdiction": "DCD",
+      "title": "Data centers planned at former quarry in Dauphin County, Pennsylvania. Residents left feeling \"blindsided\" as warehousing scheme is altered",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/data-centers-planned-at-former-quarry-in-dauphin-county-pennsylvania"
+    },
     {
       "id": "news:rss-arstechnica-177eb7eca036b96b-pa",
       "date": "2026-05-15",
@@ -147,15 +156,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.palegis.us/legislation/bills/2025/sb724"
-    },
-    {
-      "id": "research:pa-pennsylvania-house-20260315-pa-house-passed-hb-1834-imposing-financial-respo",
-      "date": "2026-03-15",
-      "jurisdiction": "Pennsylvania House",
-      "title": "PA House passed HB 1834, imposing 'financial responsibility' requirements on data center owners and preventing utilities from passing data c",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
     }
   ]
 }

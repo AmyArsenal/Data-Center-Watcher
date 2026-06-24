@@ -1,22 +1,22 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-06-24T11:26:34Z",
+  "generated_at": "2026-06-24T13:33:20Z",
   "risk_score": {
-    "score": 50.0,
-    "tier": 22.3,
-    "engagement": 8.0,
-    "recency": 11.8,
-    "multi_source": 2.9,
+    "score": 55.1,
+    "tier": 24.5,
+    "engagement": 7.8,
+    "recency": 15.3,
+    "multi_source": 2.5,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.0,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 44.9,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 1,
     "denials": 3,
     "lawsuits": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "win": 3,
-    "pending": 3,
+    "pending": 4,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "tax_incentive": 3,
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-06-12",
+  "latest": "2026-06-24",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-42f413fb4ec03f43-wa",
+      "date": "2026-06-24",
+      "jurisdiction": "DCD",
+      "title": "20MW data center proposed in Starbucks' Seattle HQ building in Washington. Building owners aiming to avoid Seattle's data center moratorium",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/20mw-data-center-proposed-in-starbucks-seattle-hq-building-in-washington"
+    },
     {
       "id": "news:gdelt-6bb78aa507e423a6-wa",
       "date": "2026-06-12",

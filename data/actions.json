@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T11:26:34Z",
-  "count": 1163,
+  "generated_at": "2026-06-24T13:33:20Z",
+  "count": 1165,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -204,6 +204,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-42f413fb4ec03f43-wa",
+      "origin": "news",
+      "state": "WA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "20MW data center proposed in Starbucks' Seattle HQ building in Washington. Building owners aiming to avoid Seattle's data center moratorium",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/20mw-data-center-proposed-in-starbucks-seattle-hq-building-in-washington"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-24T13:33:19Z",
+      "first_seen": "2026-06-24T13:33:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-5c9973a75232dd71-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-24",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers planned at former quarry in Dauphin County, Pennsylvania. Residents left feeling \"blindsided\" as warehousing scheme is altered",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/data-centers-planned-at-former-quarry-in-dauphin-county-pennsylvania"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-24T13:33:19Z",
+      "first_seen": "2026-06-24T13:33:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-dcd-cdb398c01905b10c-us",
@@ -54337,6 +54429,64 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "WA": {
+      "state": "WA",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 3,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-06-24",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "PA": {
+      "state": "PA",
+      "count": 28,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 9,
+        "loss": 3,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 9,
+        "unclear": 10
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 22,
+        "federal": 1
+      },
+      "issue_top": {
+        "ratepayer": 6,
+        "tax_incentive": 6,
+        "community_impact": 5
+      },
+      "latest_date": "2026-06-24",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 27,
@@ -54742,35 +54892,6 @@
       "latest_date": "2026-06-12",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "WA": {
-      "state": "WA",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 3,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-06-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "NJ": {
       "state": "NJ",
@@ -55264,35 +55385,6 @@
       "latest_date": "2026-05-15",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 27,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 9,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 8,
-        "unclear": 10
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 22,
-        "federal": 1
-      },
-      "issue_top": {
-        "ratepayer": 6,
-        "tax_incentive": 6,
-        "grid_energy": 5
-      },
-      "latest_date": "2026-05-15",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "KS": {
       "state": "KS",
