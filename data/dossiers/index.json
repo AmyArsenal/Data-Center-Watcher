@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-25T13:36:27Z",
+  "generated_at": "2026-06-25T16:08:05Z",
   "states": [
     {
       "state": "AK",
@@ -620,16 +620,16 @@
     },
     {
       "state": "VA",
-      "count": 40,
+      "count": 41,
       "risk_score": 48.7,
       "grade": "C",
       "grade_score": 51.3,
       "moratoriums": 1,
-      "approvals": 2,
+      "approvals": 3,
       "denials": 16,
       "lawsuits": 3,
       "active_companies": 3,
-      "latest": "2026-06-02",
+      "latest": "2026-06-25",
       "url": "data/dossiers/state-VA.json"
     },
     {
@@ -807,9 +807,9 @@
       "county_fips": "51107",
       "county_name": "Loudoun County",
       "state": "VA",
-      "count": 1,
-      "risk_score": 50.2,
-      "latest": "2026-03-15",
+      "count": 2,
+      "risk_score": 46.2,
+      "latest": "2026-06-25",
       "url": "data/dossiers/county-51107.json"
     },
     {

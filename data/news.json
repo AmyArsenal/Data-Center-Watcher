@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-06-25T13:36:27Z",
+  "generated_at": "2026-06-25T16:08:04Z",
   "window_days": 90,
-  "count": 830,
+  "count": 833,
   "items": [
+    {
+      "id": "rss-dcd-a6bcd1a5d5174746",
+      "state": "VA",
+      "city": "Loudoun County",
+      "category": "announced",
+      "headline": "Yondr & JK Land Holdings issue $715m in notes for build-out of Virginia data center",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/yondr-jk-land-holdings-issue-715m-in-notes-for-build-out-of-virginia-data-center",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 16:08:04",
+      "url_hash": "a6bcd1a5d5174746",
+      "content_hash": "9c71f48c297b2d9a",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Funds to fuel development of 28MW building in Loudoun County",
+      "last_seen": "2026-06-25T16:08:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/yondr-jk-land-holdings-issue-715m-in-notes-for-build-out-of-virginia-data-center/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-6fffeec97c385554",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Two data centers to be built in St. Petersburg amid growing pause on Russian data center build out",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/two-data-centers-to-be-built-in-st-petersburg-amid-growing-pause-on-russian-data-center-build-out",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 16:08:04",
+      "url_hash": "6fffeec97c385554",
+      "content_hash": "56f44ddb4092af7b",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "As IXcellerate secures MT Cloud as a customer in Moscow",
+      "last_seen": "2026-06-25T16:08:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/two-data-centers-to-be-built-in-st-petersburg-amid-growing-pause-on-russian-data-center-build-out/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-6c9ab5ee36bc689b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Qualcomm unveils three new data center solutions including Dragonfly C1000 CPU, set to be deployed by Meta",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/qualcomm-unveils-three-new-data-center-solutions-including-qualcomm-dragonfly-c1000-cpu-set-to-be-deployed-by-meta",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Meta"
+      ],
+      "first_seen": "2026-06-25 16:08:04",
+      "url_hash": "6c9ab5ee36bc689b",
+      "content_hash": "871b59f4c4486a86",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Company also debuted the Qualcomm High Bandwidth Compute and the Qualcomm Dragonfly AI300 inference accelerator",
+      "last_seen": "2026-06-25T16:08:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/qualcomm-unveils-three-new-data-center-solutions-including-qualcomm-dragonfly-c1000-cpu-set-to-be-deployed-by-meta/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-fb56dc24afbf0871",
       "state": "FL",
@@ -30,7 +149,7 @@
         "rss-dcd"
       ],
       "snippet": "Proposal to postpone application rejected",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -69,7 +188,7 @@
         "rss-dcd"
       ],
       "snippet": "Would block new data center builds until other regulations are passed",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1582,7 +1701,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1820,7 +1939,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3584,7 +3703,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5344,7 +5463,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5786,7 +5905,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5866,7 +5985,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-25T13:36:26Z",
+      "last_seen": "2026-06-25T16:08:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -33053,6 +33172,22 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 10,
+      "total_engagement": 92,
+      "categories": {
+        "announced": 2,
+        "protested": 6,
+        "banned": 1,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 9,
+        "legal": 1
+      },
+      "latest_date": "2026-06-25"
+    },
     "FL": {
       "state": "FL",
       "count": 7,
@@ -33429,22 +33564,6 @@
       },
       "platforms": {
         "news": 1
-      },
-      "latest_date": "2026-06-02"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 9,
-      "total_engagement": 92,
-      "categories": {
-        "protested": 6,
-        "announced": 1,
-        "banned": 1,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 8,
-        "legal": 1
       },
       "latest_date": "2026-06-02"
     },

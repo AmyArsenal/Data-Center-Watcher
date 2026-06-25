@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-06-25T13:36:27Z",
+  "generated_at": "2026-06-25T16:08:05Z",
   "risk_score": {
     "score": 48.7,
-    "tier": 19.6,
-    "engagement": 10.0,
-    "recency": 8.1,
-    "multi_source": 6.0,
+    "tier": 19.1,
+    "engagement": 9.9,
+    "recency": 8.8,
+    "multi_source": 5.9,
     "regulatory": 5.0
   },
   "grade": {
@@ -17,7 +17,7 @@
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 2,
+    "approvals": 3,
     "denials": 16,
     "lawsuits": 3,
     "blocked": 2,
@@ -26,22 +26,22 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 40,
+  "count": 41,
   "tier_counts": {
     "restrictive": 10,
     "unclear": 15,
     "protective": 3,
     "null": 11,
-    "supportive": 1
+    "supportive": 2
   },
   "outcome_counts": {
     "win": 16,
     "pending": 20,
-    "loss": 2,
+    "loss": 3,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 16,
+    "local": 17,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-06-02",
+  "latest": "2026-06-25",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-a6bcd1a5d5174746-va",
+      "date": "2026-06-25",
+      "jurisdiction": "Loudoun County",
+      "title": "Yondr & JK Land Holdings issue $715m in notes for build-out of Virginia data center. Funds to fuel development of 28MW building in Loudoun C",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/yondr-jk-land-holdings-issue-715m-in-notes-for-build-out-of-virginia-data-center"
+    },
     {
       "id": "news:rss-dcd-5c934942ac91b0c5-va",
       "date": "2026-06-02",
@@ -152,15 +161,6 @@
       "tier": null,
       "outcome": "mixed",
       "url": "https://virginiamercury.com/2026/04/22/the-governors-amendments-to-energy-and-data-center-legislation-will-save-money-for-customers/"
-    },
-    {
-      "id": "research:va-prince-william-county-board-of-supervisors-20260415-pwc-board-voted-unanimously-to-withdraw-from-the-d",
-      "date": "2026-04-15",
-      "jurisdiction": "Prince William County Board of Supervisors",
-      "title": "PWC Board voted unanimously to withdraw from the Digital Gateway lawsuit and not appeal to the Virginia Supreme Court, ending the county's d",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://wtop.com/virginia/2026/04/prince-william-co-withdraws-from-digital-gateway-lawsuit-reversing-course-from-2023/"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-06-25T13:36:27Z",
+  "generated_at": "2026-06-25T16:08:05Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -105,9 +105,9 @@
       "county_fips": "51107",
       "county_name": "Loudoun County",
       "state": "VA",
-      "count": 1,
-      "risk_score": 50.2,
-      "latest": "2026-03-15",
+      "count": 2,
+      "risk_score": 46.2,
+      "latest": "2026-06-25",
       "url": "data/dossiers/county-51107.json"
     },
     {
