@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-25T16:08:04Z",
+  "generated_at": "2026-06-25T18:23:42Z",
   "window_days": 90,
-  "count": 833,
+  "count": 834,
   "items": [
+    {
+      "id": "gdelt-494985d044d77927",
+      "state": "FL",
+      "city": null,
+      "category": "protested",
+      "headline": "Amid environmental concerns , some Florida counties are banning AI data centers",
+      "source_domain": "wlrn.org",
+      "source_name": "wlrn.org",
+      "url": "https://wlrn.org/florida-news/2026-06-25/amid-environmental-concerns-some-florida-counties-are-banning-ai-data-centers",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 18:23:41",
+      "url_hash": "494985d044d77927",
+      "content_hash": "cb47ce5c853fb813",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T18:23:41Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-a6bcd1a5d5174746",
       "state": "VA",
@@ -30,7 +70,7 @@
         "rss-dcd"
       ],
       "snippet": "Funds to fuel development of 28MW building in Loudoun County",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +109,7 @@
         "rss-dcd"
       ],
       "snippet": "As IXcellerate secures MT Cloud as a customer in Moscow",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -110,7 +150,7 @@
         "rss-dcd"
       ],
       "snippet": "Company also debuted the Qualcomm High Bandwidth Compute and the Qualcomm Dragonfly AI300 inference accelerator",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -149,7 +189,7 @@
         "rss-dcd"
       ],
       "snippet": "Proposal to postpone application rejected",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -188,7 +228,7 @@
         "rss-dcd"
       ],
       "snippet": "Would block new data center builds until other regulations are passed",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1939,7 +1979,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3703,7 +3743,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5985,7 +6025,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-25T16:08:04Z",
+      "last_seen": "2026-06-25T18:23:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -33172,6 +33212,19 @@
     }
   ],
   "by_state": {
+    "FL": {
+      "state": "FL",
+      "count": 8,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 4,
+        "banned": 4
+      },
+      "platforms": {
+        "news": 8
+      },
+      "latest_date": "2026-06-25"
+    },
     "VA": {
       "state": "VA",
       "count": 10,
@@ -33185,19 +33238,6 @@
       "platforms": {
         "news": 9,
         "legal": 1
-      },
-      "latest_date": "2026-06-25"
-    },
-    "FL": {
-      "state": "FL",
-      "count": 7,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 3,
-        "banned": 4
-      },
-      "platforms": {
-        "news": 7
       },
       "latest_date": "2026-06-25"
     },

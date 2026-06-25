@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-25T16:08:05Z",
+  "generated_at": "2026-06-25T18:23:42Z",
   "states": [
     {
       "state": "AK",
@@ -130,10 +130,10 @@
     },
     {
       "state": "FL",
-      "count": 13,
-      "risk_score": 58.3,
+      "count": 14,
+      "risk_score": 58.9,
       "grade": "D",
-      "grade_score": 41.7,
+      "grade_score": 41.1,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 6,

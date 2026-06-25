@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T16:08:04Z",
-  "count": 1200,
+  "generated_at": "2026-06-25T18:23:42Z",
+  "count": 1201,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-494985d044d77927-fl",
+      "origin": "news",
+      "state": "FL",
+      "county": null,
+      "jurisdiction": "wlrn.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "environmental"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Amid environmental concerns , some Florida counties are banning AI data centers",
+      "sources": [
+        "https://wlrn.org/florida-news/2026-06-25/amid-environmental-concerns-some-florida-counties-are-banning-ai-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-25T18:23:41Z",
+      "first_seen": "2026-06-25T18:23:42Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-52d6c31043994f37-pa",
@@ -56080,21 +56127,21 @@
     },
     "FL": {
       "state": "FL",
-      "count": 13,
+      "count": 14,
       "outcome_counts": {
-        "pending": 7,
+        "pending": 8,
         "win": 6,
         "loss": 0,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 7,
+        "restrictive": 8,
         "protective": 0,
         "supportive": 0,
         "unclear": 4
       },
       "scope_counts": {
-        "local": 8,
+        "local": 9,
         "statewide": 5,
         "federal": 0
       },

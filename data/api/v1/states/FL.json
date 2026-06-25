@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "FL",
-  "generated_at": "2026-06-25T16:08:05Z",
+  "generated_at": "2026-06-25T18:23:42Z",
   "risk_score": {
-    "score": 58.3,
-    "tier": 27.1,
-    "engagement": 8.2,
+    "score": 58.9,
+    "tier": 28.0,
+    "engagement": 8.0,
     "recency": 20.0,
-    "multi_source": 3.1,
+    "multi_source": 2.9,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.7,
+    "score": 41.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
     "unclear": 4,
     "null": 2,
-    "restrictive": 7
+    "restrictive": 8
   },
   "outcome_counts": {
-    "pending": 7,
+    "pending": 8,
     "win": 6
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 8
+    "local": 9
   },
   "issue_top": {
     "water": 3,
@@ -46,7 +46,8 @@
     "grid_energy": 2,
     "zoning": 2,
     "transparency": 1,
-    "community_impact": 1
+    "community_impact": 1,
+    "environmental": 1
   },
   "companies": [],
   "opposition_groups": [],
@@ -61,6 +62,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/data-center-proposal-in-citrus-county-florida-withdrawn-by-developer"
+    },
+    {
+      "id": "news:gdelt-494985d044d77927-fl",
+      "date": "2026-06-25",
+      "jurisdiction": "wlrn.org",
+      "title": "Amid environmental concerns , some Florida counties are banning AI data centers",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wlrn.org/florida-news/2026-06-25/amid-environmental-concerns-some-florida-counties-are-banning-ai-data-centers"
     },
     {
       "id": "news:gdelt-6624d3527e694ffb-fl",
@@ -133,15 +143,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.flsenate.gov/Session/Bill/2026/1007"
-    },
-    {
-      "id": "openstates:ocd-bill-1f530c44-19ee-4345-bc25-a13870dd271d-fl",
-      "date": "2026-01-13",
-      "jurisdiction": "FL Legislature",
-      "title": "Data Centers",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://flsenate.gov/Session/Bill/2026/484/ByCategory"
     }
   ]
 }
