@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-06-24T23:46:38Z",
+  "generated_at": "2026-06-25T01:57:03Z",
   "risk_score": {
-    "score": 63.1,
-    "tier": 32.3,
+    "score": 63.8,
+    "tier": 32.6,
     "engagement": 6.2,
-    "recency": 19.6,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 36.9,
+    "score": 36.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 27,
+  "count": 28,
   "tier_counts": {
-    "restrictive": 20,
+    "restrictive": 21,
     "null": 6,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 15,
+    "pending": 16,
     "win": 11,
     "loss": 1
   },
   "scope_counts": {
-    "local": 22,
+    "local": 23,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-06-23",
+  "latest": "2026-06-25",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-23efcad36a525332-oh",
+      "date": "2026-06-25",
+      "jurisdiction": "DCD",
+      "title": "Proposed data center in Guernsey County, Ohio, could go ahead despite local government opposition. Project proposed by Smart Energy Partners",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition"
+    },
     {
       "id": "news:rss-dcd-8aa294c5cae2b934-oh",
       "date": "2026-06-23",
@@ -136,15 +145,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/16bn-data-center-plan-rejected-in-cleveland-ohio"
-    },
-    {
-      "id": "news:gdelt-a6830addcee05e08-oh",
-      "date": "2026-05-13",
-      "jurisdiction": "myfox28columbus.com",
-      "title": "Moratorium : Another Central Ohio community is saying  NO  to data centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://myfox28columbus.com/news/local/moratorium-another-central-ohio-community-is-saying-no-to-data-centers-policy-tech-energy-water-consumption"
     }
   ]
 }

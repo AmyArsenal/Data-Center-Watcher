@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-24T23:46:37Z",
+  "generated_at": "2026-06-25T01:57:03Z",
   "window_days": 90,
   "count": 821,
   "items": [
+    {
+      "id": "rss-dcd-23efcad36a525332",
+      "state": "OH",
+      "city": null,
+      "category": "protested",
+      "headline": "Proposed data center in Guernsey County, Ohio, could go ahead despite local government opposition",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 01:57:02",
+      "url_hash": "23efcad36a525332",
+      "content_hash": "eac44442f370b71e",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Project proposed by Smart Energy Partners still in extremely early stages",
+      "last_seen": "2026-06-25T01:57:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-7b37de56bfd7631f",
       "state": "FL",
@@ -870,7 +909,7 @@
         "rss-dcd"
       ],
       "snippet": "The MXP Magenta targets 240MW across five buildings",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1185,7 +1224,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1423,7 +1462,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3187,7 +3226,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4947,7 +4986,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5389,7 +5428,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5469,7 +5508,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7336,7 +7375,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-24T23:46:37Z",
+      "last_seen": "2026-06-25T01:57:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -32653,44 +32692,27 @@
       "topics": [],
       "ferc_dockets": [],
       "platform_metadata": null
-    },
-    {
-      "id": "x-cb8c00bb50",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Opposition to data centers is cropping up all over the country. According to a new Data Center Watch report, $156 billion in projects were b",
-      "source_domain": "x.com",
-      "source_name": "@lydiadepillis",
-      "url": "https://x.com/lydiadepillis/status/2037224356883894483",
-      "date": "2026-03-26",
-      "platform": "x",
-      "engagement_score": 54,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": 38,
-      "sentiment": "negative",
-      "companies": [],
-      "first_seen": "2026-04-25 23:51:58",
-      "url_hash": "a88561e38de6c09d",
-      "content_hash": "5fac9dfbe74550dc",
-      "source": null,
-      "source_tier": "manual",
-      "sources_seen": [
-        "x"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-25 23:51:58",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 1.0,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": null
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 22,
+      "total_engagement": 2750,
+      "categories": {
+        "protested": 13,
+        "banned": 7,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 15,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-06-25"
+    },
     "FL": {
       "state": "FL",
       "count": 6,
@@ -32756,24 +32778,6 @@
         "reddit": 1
       },
       "latest_date": "2026-06-24"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 21,
-      "total_engagement": 2750,
-      "categories": {
-        "banned": 7,
-        "protested": 12,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 14,
-        "reddit": 3,
-        "tiktok": 3,
-        "x": 1
-      },
-      "latest_date": "2026-06-23"
     },
     "GA": {
       "state": "GA",
