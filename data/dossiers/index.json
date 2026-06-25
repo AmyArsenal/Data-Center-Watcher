@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-25T11:30:34Z",
+  "generated_at": "2026-06-25T13:36:27Z",
   "states": [
     {
       "state": "AK",
@@ -130,16 +130,16 @@
     },
     {
       "state": "FL",
-      "count": 12,
-      "risk_score": 56.0,
+      "count": 13,
+      "risk_score": 58.3,
       "grade": "D",
-      "grade_score": 44.0,
+      "grade_score": 41.7,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 6,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-06-24",
+      "latest": "2026-06-25",
       "url": "data/dossiers/state-FL.json"
     },
     {
