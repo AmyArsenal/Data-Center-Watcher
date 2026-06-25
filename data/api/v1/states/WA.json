@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-06-25T05:58:34Z",
+  "generated_at": "2026-06-25T08:56:18Z",
   "risk_score": {
-    "score": 55.1,
-    "tier": 24.5,
-    "engagement": 7.8,
-    "recency": 15.3,
-    "multi_source": 2.5,
+    "score": 59.2,
+    "tier": 26.2,
+    "engagement": 7.6,
+    "recency": 18.1,
+    "multi_source": 2.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.9,
+    "score": 40.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,34 +26,44 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
     "win": 3,
-    "pending": 4,
+    "pending": 5,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 4
+    "local": 5
   },
   "issue_top": {
     "tax_incentive": 3,
     "grid_energy": 1,
     "ratepayer": 1,
     "transparency": 1,
-    "environmental": 1
+    "environmental": 1,
+    "community_impact": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-06-24",
+  "latest": "2026-06-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-6b9eb9e571f0dfd9-wa",
+      "date": "2026-06-25",
+      "jurisdiction": "suncommercial.com",
+      "title": "WATCH : How data centers rescued a struggling central Washington community",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://suncommercial.com/brazil_times/news/national/article_eb38a0c8-3878-52e5-bff4-572c23710a54.html"
+    },
     {
       "id": "news:rss-dcd-42f413fb4ec03f43-wa",
       "date": "2026-06-24",

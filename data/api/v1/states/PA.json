@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-06-25T05:58:34Z",
+  "generated_at": "2026-06-25T08:56:18Z",
   "risk_score": {
-    "score": 38.4,
-    "tier": 10.1,
-    "engagement": 9.8,
-    "recency": 7.7,
-    "multi_source": 5.7,
+    "score": 38.8,
+    "tier": 9.8,
+    "engagement": 9.7,
+    "recency": 8.8,
+    "multi_source": 5.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 61.6,
+    "score": 61.2,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 3,
+    "approvals": 4,
     "denials": 9,
     "lawsuits": 0,
     "blocked": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 28,
+  "count": 29,
   "tier_counts": {
     "unclear": 10,
-    "supportive": 9,
+    "supportive": 10,
     "null": 7,
     "restrictive": 2
   },
   "outcome_counts": {
     "pending": 16,
     "win": 9,
-    "loss": 3
+    "loss": 4
   },
   "scope_counts": {
-    "statewide": 22,
+    "statewide": 23,
     "federal": 1,
     "local": 5
   },
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-06-24",
+  "latest": "2026-06-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-52d6c31043994f37-pa",
+      "date": "2026-06-25",
+      "jurisdiction": "wgal.com",
+      "title": "Pennsylvania House passes governor data center plan , local moratoriums",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://wgal.com/article/pennsylvania-house-passes-governors-data-center-plan/71719314"
+    },
     {
       "id": "news:rss-dcd-5c9973a75232dd71-pa",
       "date": "2026-06-24",
@@ -147,15 +156,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
-    },
-    {
-      "id": "openstates:ocd-bill-1c2178af-79c3-4361-8185-a838747d8f5c-pa",
-      "date": "2026-03-31",
-      "jurisdiction": "PA Legislature",
-      "title": "An Act providing for regulation of large load customers and public utilities and for community benefits agreements between large load custom",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb724"
     }
   ]
 }

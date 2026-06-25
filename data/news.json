@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-06-25T05:58:34Z",
+  "generated_at": "2026-06-25T08:56:17Z",
   "window_days": 90,
-  "count": 821,
+  "count": 828,
   "items": [
+    {
+      "id": "gdelt-52d6c31043994f37",
+      "state": "PA",
+      "city": null,
+      "category": "announced",
+      "headline": "Pennsylvania House passes governor data center plan , local moratoriums",
+      "source_domain": "wgal.com",
+      "source_name": "wgal.com",
+      "url": "https://wgal.com/article/pennsylvania-house-passes-governors-data-center-plan/71719314",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 08:56:17",
+      "url_hash": "52d6c31043994f37",
+      "content_hash": "4ef47b231ecf0043",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T08:56:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ac6e57ee3ee6f73a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Callaway County residents gather to discuss data centers",
+      "source_domain": "krcgtv.com",
+      "source_name": "krcgtv.com",
+      "url": "https://krcgtv.com/news/local/callaway-county-residents-gather-to-discuss-data-centers",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 08:56:17",
+      "url_hash": "ac6e57ee3ee6f73a",
+      "content_hash": "42d94eeaeb360af6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T08:56:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-90e4c06fbed46757",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Shenandoah County supervisors pass data center rules over calls for a ban",
+      "source_domain": "nvdaily.com",
+      "source_name": "nvdaily.com",
+      "url": "https://nvdaily.com/nvdaily/shenandoah-county-supervisors-pass-data-center-rules-over-calls-for-a-ban/article_86ac5b6d-5fe0-5c7c-adee-8970bbe8e13e.html",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 08:56:17",
+      "url_hash": "90e4c06fbed46757",
+      "content_hash": "0c1a4954d482fa07",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T08:56:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-997d8346411ed4c3",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "City Council discusses data center proposition",
+      "source_domain": "iowastatedaily.com",
+      "source_name": "iowastatedaily.com",
+      "url": "https://iowastatedaily.com/339765/city-of-ames/city-council-discusses-data-center-proposition",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 08:56:17",
+      "url_hash": "997d8346411ed4c3",
+      "content_hash": "c6381a64600b0cf5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T08:56:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d294c6e0cc4830f4",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Carbondale City Council Passes a One Year Hold on Any Potential Data Center Development",
+      "source_domain": "wsiltv.com",
+      "source_name": "wsiltv.com",
+      "url": "https://wsiltv.com/news/top-stories/carbondale-city-council-passes-a-one-year-hold-on-any-potential-data-center-development/article_0ac6a224-c128-4452-82ec-37f59fd8107b.html",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 08:56:17",
+      "url_hash": "d294c6e0cc4830f4",
+      "content_hash": "642c005fe0bba9e2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T08:56:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6b9eb9e571f0dfd9",
+      "state": "WA",
+      "city": null,
+      "category": "protested",
+      "headline": "WATCH : How data centers rescued a struggling central Washington community",
+      "source_domain": "suncommercial.com",
+      "source_name": "suncommercial.com",
+      "url": "https://suncommercial.com/brazil_times/news/national/article_eb38a0c8-3878-52e5-bff4-572c23710a54.html",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 08:56:17",
+      "url_hash": "6b9eb9e571f0dfd9",
+      "content_hash": "951e95e3b46a692f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T08:56:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5dd82242beab460a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Public hearing held in Solon Township over potential data center zoning",
+      "source_domain": "fox17online.com",
+      "source_name": "fox17online.com",
+      "url": "https://fox17online.com/news/local-news/lakeshore/muskegon/we-dont-want-it-public-hearing-held-in-solon-township-over-potential-data-center-zoning",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-25 08:56:17",
+      "url_hash": "5dd82242beab460a",
+      "content_hash": "7d6ea2f2008fe56e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-25T08:56:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-23efcad36a525332",
       "state": "OH",
@@ -30,7 +310,7 @@
         "rss-dcd"
       ],
       "snippet": "Project proposed by Smart Energy Partners still in extremely early stages",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1224,7 +1504,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1462,7 +1742,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3226,7 +3506,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4986,7 +5266,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5428,7 +5708,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5508,7 +5788,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7375,7 +7655,7 @@
         "rss-dck"
       ],
       "snippet": "Monterey Park residents overwhelmingly backed a ballot measure prohibiting data centers, locking in a ban after months of opposition to a proposed 247,000-square-foot facility.",
-      "last_seen": "2026-06-25T05:58:33Z",
+      "last_seen": "2026-06-25T08:56:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -32695,6 +32975,32 @@
     }
   ],
   "by_state": {
+    "PA": {
+      "state": "PA",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "announced": 4,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-06-25"
+    },
+    "WA": {
+      "state": "WA",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 4,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-06-25"
+    },
     "OH": {
       "state": "OH",
       "count": 22,
@@ -32736,32 +33042,6 @@
       },
       "platforms": {
         "news": 2
-      },
-      "latest_date": "2026-06-24"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "announced": 3,
-        "protested": 2
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-06-24"
-    },
-    "WA": {
-      "state": "WA",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 3,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 4
       },
       "latest_date": "2026-06-24"
     },
