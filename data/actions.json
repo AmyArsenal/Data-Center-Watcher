@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T23:12:47Z",
-  "count": 1201,
+  "generated_at": "2026-06-26T01:28:57Z",
+  "count": 1208,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,236 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-0ed4117df5be7b2e-wa",
+      "origin": "news",
+      "state": "WA",
+      "county": null,
+      "jurisdiction": "clickondetroit.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "transparency"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Washington Township residents demand transparency after data center emails exposed",
+      "sources": [
+        "https://clickondetroit.com/news/investigations/2026/06/25/washington-township-residents-demand-transparency-after-data-center-emails-exposed"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T01:28:56Z",
+      "first_seen": "2026-06-26T01:28:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-83ac9a12e53bfc7c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "westchester.news12.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-26",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "News 12 | Westchester | East Fishkill To Pass Moratorium On Data Centers As Developers Float Possibility Of Project In Town",
+      "sources": [
+        "https://westchester.news12.com/east-fishkill-to-pass-moratorium-on-data-centers-as-developers-float-possibility-of-project-in-town"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T01:28:56Z",
+      "first_seen": "2026-06-26T01:28:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-120db295ae37e638-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wamc.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "voters",
+      "date": "2026-06-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New statewide poll shows voters put affordability , data center moratorium at top of priorities",
+      "sources": [
+        "https://wamc.org/2026-06-25/new-statewide-poll-shows-voters-put-affordability-data-center-moratorium-at-top-of-priorities"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T01:28:56Z",
+      "first_seen": "2026-06-26T01:28:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-3478cdac262d4e5d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wdtimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Jefferson County Planning & Zoning Committee set for open conversation on data center zoning",
+      "sources": [
+        "http://wdtimes.com/news/local/jefferson-county-planning-zoning-committee-set-for-open-conversation-on-data-center-zoning/article_f23b6486-b048-4d2a-9cc6-807c6db285b4.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T01:28:56Z",
+      "first_seen": "2026-06-26T01:28:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-34eb0ed92224e593-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kazu.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Opposition to data centers in Gilroy , San Benito County H . R . 1 impacts",
+      "sources": [
+        "https://kazu.org/kazu-news/2026-06-25/opposition-to-data-centers-in-gilroy-san-benito-county-h-r-1-impacts"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T01:28:56Z",
+      "first_seen": "2026-06-26T01:28:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-494985d044d77927-fl",
@@ -300,6 +530,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-9516204f2fb1718e-wa",
+      "origin": "news",
+      "state": "WA",
+      "county": null,
+      "jurisdiction": "katu.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-06-25",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lawsuit filed against Hillsboro , Washington County over data center tax breaks",
+      "sources": [
+        "https://katu.com/news/local/lawsuit-filed-against-hillsboro-washington-county-over-data-center-tax-breaks-billionaire-environment-company-fortune-500-oregon-portland-salem-politics-business-jobs-water-privacy"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T01:28:56Z",
+      "first_seen": "2026-06-26T01:28:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
       "id": "news:gdelt-997d8346411ed4c3-us",
       "origin": "news",
       "state": "US",
@@ -390,6 +665,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-c89326266c4446ba-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kgou.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-06-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Norman City Council enacts data center moratorium",
+      "sources": [
+        "https://kgou.org/politics-and-government/2026-06-25/norman-city-council-enacts-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T01:28:56Z",
+      "first_seen": "2026-06-26T01:28:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-d294c6e0cc4830f4-us",
@@ -56009,6 +56329,64 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "WA": {
+      "state": "WA",
+      "count": 11,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 4,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 3,
+        "community_impact": 2,
+        "transparency": 2
+      },
+      "latest_date": "2026-06-26",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "US": {
+      "state": "US",
+      "count": 619,
+      "outcome_counts": {
+        "pending": 363,
+        "win": 241,
+        "loss": 15,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 604,
+        "protective": 0,
+        "supportive": 15,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 610,
+        "statewide": 6,
+        "federal": 3
+      },
+      "issue_top": {
+        "community_impact": 123,
+        "zoning": 44,
+        "grid_energy": 14
+      },
+      "latest_date": "2026-06-26",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 28,
@@ -56033,64 +56411,6 @@
         "community_impact": 7,
         "ratepayer": 5,
         "grid_energy": 4
-      },
-      "latest_date": "2026-06-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 614,
-      "outcome_counts": {
-        "pending": 361,
-        "win": 238,
-        "loss": 15,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 599,
-        "protective": 0,
-        "supportive": 15,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 605,
-        "statewide": 6,
-        "federal": 3
-      },
-      "issue_top": {
-        "community_impact": 123,
-        "zoning": 43,
-        "grid_energy": 14
-      },
-      "latest_date": "2026-06-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "WA": {
-      "state": "WA",
-      "count": 9,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 5,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 3,
-        "community_impact": 1,
-        "environmental": 1
       },
       "latest_date": "2026-06-25",
       "map_color_tier": "restrictive",

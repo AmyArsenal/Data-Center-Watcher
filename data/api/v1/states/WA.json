@@ -1,60 +1,69 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-06-25T23:12:47Z",
+  "generated_at": "2026-06-26T01:28:57Z",
   "risk_score": {
-    "score": 59.2,
-    "tier": 26.2,
-    "engagement": 7.6,
-    "recency": 18.1,
-    "multi_source": 2.2,
+    "score": 62.9,
+    "tier": 28.7,
+    "engagement": 7.4,
+    "recency": 20.0,
+    "multi_source": 1.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 40.8,
+    "score": 37.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 1,
-    "denials": 3,
-    "lawsuits": 0,
-    "blocked": 0,
+    "denials": 4,
+    "lawsuits": 1,
+    "blocked": 1,
     "active_companies": 0,
     "bills_introduced": 1,
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 9,
+  "count": 11,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 5
+    "restrictive": 7
   },
   "outcome_counts": {
-    "win": 3,
-    "pending": 5,
+    "win": 4,
+    "pending": 6,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 5
+    "local": 7
   },
   "issue_top": {
     "tax_incentive": 3,
+    "transparency": 2,
+    "community_impact": 2,
     "grid_energy": 1,
     "ratepayer": 1,
-    "transparency": 1,
-    "environmental": 1,
-    "community_impact": 1
+    "environmental": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-06-25",
+  "latest": "2026-06-26",
   "top_citations": [
+    {
+      "id": "news:gdelt-0ed4117df5be7b2e-wa",
+      "date": "2026-06-26",
+      "jurisdiction": "clickondetroit.com",
+      "title": "Washington Township residents demand transparency after data center emails exposed",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://clickondetroit.com/news/investigations/2026/06/25/washington-township-residents-demand-transparency-after-data-center-emails-exposed"
+    },
     {
       "id": "news:gdelt-6b9eb9e571f0dfd9-wa",
       "date": "2026-06-25",
@@ -63,6 +72,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://suncommercial.com/brazil_times/news/national/article_eb38a0c8-3878-52e5-bff4-572c23710a54.html"
+    },
+    {
+      "id": "news:gdelt-9516204f2fb1718e-wa",
+      "date": "2026-06-25",
+      "jurisdiction": "katu.com",
+      "title": "Lawsuit filed against Hillsboro , Washington County over data center tax breaks",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://katu.com/news/local/lawsuit-filed-against-hillsboro-washington-county-over-data-center-tax-breaks-billionaire-environment-company-fortune-500-oregon-portland-salem-politics-business-jobs-water-privacy"
     },
     {
       "id": "news:rss-dcd-42f413fb4ec03f43-wa",
@@ -126,15 +144,6 @@
       "tier": "supportive",
       "outcome": "pending",
       "url": "https://app.leg.wa.gov/billsummary/?BillNumber=2655&Year=2025&Initiative=false"
-    },
-    {
-      "id": "openstates:ocd-bill-2032f28e-b5fd-40b2-8cd2-b51f18dce144-wa",
-      "date": "2026-01-20",
-      "jurisdiction": "WA Legislature",
-      "title": "Removing a tax exemption for the replacement of equipment for data centers.",
-      "tier": "unclear",
-      "outcome": "win",
-      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=6231&Year=2025&Initiative=false"
     }
   ]
 }

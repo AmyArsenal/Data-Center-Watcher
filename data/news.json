@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-06-25T23:12:47Z",
+  "generated_at": "2026-06-26T01:28:57Z",
   "window_days": 90,
-  "count": 834,
+  "count": 840,
   "items": [
+    {
+      "id": "gdelt-83ac9a12e53bfc7c",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "News 12 | Westchester | East Fishkill To Pass Moratorium On Data Centers As Developers Float Possibility Of Project In Town",
+      "source_domain": "westchester.news12.com",
+      "source_name": "westchester.news12.com",
+      "url": "https://westchester.news12.com/east-fishkill-to-pass-moratorium-on-data-centers-as-developers-float-possibility-of-project-in-town",
+      "date": "2026-06-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-26 01:28:56",
+      "url_hash": "83ac9a12e53bfc7c",
+      "content_hash": "ba56cc91448c9ef1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-26T01:28:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0ed4117df5be7b2e",
+      "state": "WA",
+      "city": null,
+      "category": "protested",
+      "headline": "Washington Township residents demand transparency after data center emails exposed",
+      "source_domain": "clickondetroit.com",
+      "source_name": "clickondetroit.com",
+      "url": "https://clickondetroit.com/news/investigations/2026/06/25/washington-township-residents-demand-transparency-after-data-center-emails-exposed",
+      "date": "2026-06-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-26 01:28:56",
+      "url_hash": "0ed4117df5be7b2e",
+      "content_hash": "65e4b4cb56371b54",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-26T01:28:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-120db295ae37e638",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "New statewide poll shows voters put affordability , data center moratorium at top of priorities",
+      "source_domain": "wamc.org",
+      "source_name": "wamc.org",
+      "url": "https://wamc.org/2026-06-25/new-statewide-poll-shows-voters-put-affordability-data-center-moratorium-at-top-of-priorities",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-26 01:28:56",
+      "url_hash": "120db295ae37e638",
+      "content_hash": "2f0f1f8887403532",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-26T01:28:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c89326266c4446ba",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Norman City Council enacts data center moratorium",
+      "source_domain": "kgou.org",
+      "source_name": "kgou.org",
+      "url": "https://kgou.org/politics-and-government/2026-06-25/norman-city-council-enacts-data-center-moratorium",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-26 01:28:56",
+      "url_hash": "c89326266c4446ba",
+      "content_hash": "8c26806de4fa5458",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-26T01:28:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3478cdac262d4e5d",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Jefferson County Planning & Zoning Committee set for open conversation on data center zoning",
+      "source_domain": "wdtimes.com",
+      "source_name": "wdtimes.com",
+      "url": "http://wdtimes.com/news/local/jefferson-county-planning-zoning-committee-set-for-open-conversation-on-data-center-zoning/article_f23b6486-b048-4d2a-9cc6-807c6db285b4.html",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-26 01:28:56",
+      "url_hash": "3478cdac262d4e5d",
+      "content_hash": "76031a5106bb62b5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-26T01:28:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-34eb0ed92224e593",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Opposition to data centers in Gilroy , San Benito County H . R . 1 impacts",
+      "source_domain": "kazu.org",
+      "source_name": "kazu.org",
+      "url": "https://kazu.org/kazu-news/2026-06-25/opposition-to-data-centers-in-gilroy-san-benito-county-h-r-1-impacts",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-26 01:28:56",
+      "url_hash": "34eb0ed92224e593",
+      "content_hash": "8eb2cbcb2dbffa28",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-26T01:28:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9516204f2fb1718e",
+      "state": "WA",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Lawsuit filed against Hillsboro , Washington County over data center tax breaks",
+      "source_domain": "katu.com",
+      "source_name": "katu.com",
+      "url": "https://katu.com/news/local/lawsuit-filed-against-hillsboro-washington-county-over-data-center-tax-breaks-billionaire-environment-company-fortune-500-oregon-portland-salem-politics-business-jobs-water-privacy",
+      "date": "2026-06-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-26 01:28:56",
+      "url_hash": "9516204f2fb1718e",
+      "content_hash": "83756ad24f359ca5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-26T01:28:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-494985d044d77927",
       "state": "FL",
@@ -70,7 +350,7 @@
         "rss-dcd"
       ],
       "snippet": "Funds to fuel development of 28MW building in Loudoun County",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +389,7 @@
         "rss-dcd"
       ],
       "snippet": "As IXcellerate secures MT Cloud as a customer in Moscow",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +430,7 @@
         "rss-dcd"
       ],
       "snippet": "Company also debuted the Qualcomm High Bandwidth Compute and the Qualcomm Dragonfly AI300 inference accelerator",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +469,7 @@
         "rss-dcd"
       ],
       "snippet": "Proposal to postpone application rejected",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -228,7 +508,7 @@
         "rss-dcd"
       ],
       "snippet": "Would block new data center builds until other regulations are passed",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1741,7 +2021,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1979,7 +2259,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3743,7 +4023,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5503,7 +5783,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5945,7 +6225,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6025,7 +6305,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-25T23:12:46Z",
+      "last_seen": "2026-06-26T01:28:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -33174,44 +33454,23 @@
         "tiktok_fun": null,
         "tiktok_why": "Festus council approves amid jeers/opposition to $6B data center"
       }
-    },
-    {
-      "id": "x-800140c1c5",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Luther town leaders voted unanimously Thursday night against spending about $1,200 to send someone out of state to tour a data center, after",
-      "source_domain": "x.com",
-      "source_name": "@kfor",
-      "url": "https://x.com/kfor/status/2037550242271273314",
-      "date": "2026-03-27",
-      "platform": "x",
-      "engagement_score": 22,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": 21,
-      "sentiment": "negative",
-      "companies": [],
-      "first_seen": "2026-04-25 23:51:58",
-      "url_hash": "86ef2a01cb0d8f8e",
-      "content_hash": "b12a0a4af9880e06",
-      "source": null,
-      "source_tier": "manual",
-      "sources_seen": [
-        "x"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-25 23:51:58",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 1.0,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": null
     }
   ],
   "by_state": {
+    "WA": {
+      "state": "WA",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 5,
+        "cancelled": 1,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-06-26"
+    },
     "FL": {
       "state": "FL",
       "count": 8,
@@ -33251,19 +33510,6 @@
       },
       "platforms": {
         "news": 6
-      },
-      "latest_date": "2026-06-25"
-    },
-    "WA": {
-      "state": "WA",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 4,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 5
       },
       "latest_date": "2026-06-25"
     },

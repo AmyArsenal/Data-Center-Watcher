@@ -1,11 +1,11 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-25T23:12:47Z",
+  "generated_at": "2026-06-26T01:28:57Z",
   "states": [
     {
       "state": "AK",
       "count": 2,
-      "risk_score": 40.0,
+      "risk_score": 35.4,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 0,
@@ -593,9 +593,9 @@
     {
       "state": "TX",
       "count": 33,
-      "risk_score": 53.1,
+      "risk_score": 52.8,
       "grade": "D",
-      "grade_score": 46.9,
+      "grade_score": 47.2,
       "moratoriums": 3,
       "approvals": 3,
       "denials": 9,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 41,
-      "risk_score": 48.7,
+      "risk_score": 48.1,
       "grade": "C",
-      "grade_score": 51.3,
+      "grade_score": 51.9,
       "moratoriums": 1,
       "approvals": 3,
       "denials": 16,
@@ -648,16 +648,16 @@
     },
     {
       "state": "WA",
-      "count": 9,
-      "risk_score": 59.2,
+      "count": 11,
+      "risk_score": 62.9,
       "grade": "D",
-      "grade_score": 40.8,
+      "grade_score": 37.1,
       "moratoriums": 2,
       "approvals": 1,
-      "denials": 3,
-      "lawsuits": 0,
+      "denials": 4,
+      "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-06-25",
+      "latest": "2026-06-26",
       "url": "data/dossiers/state-WA.json"
     },
     {
