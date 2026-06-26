@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T11:29:54Z",
-  "count": 1209,
+  "generated_at": "2026-06-26T13:28:35Z",
+  "count": 1211,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -162,6 +162,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:rss-dcd-336937b1dee9b2db-ia",
+      "origin": "news",
+      "state": "IA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-06-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Karis named as firm behind proposed data center project in Dubuque County, Iowa. Real estate firm working on project despite local moratorium",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/karis-named-as-firm-behind-proposed-data-center-project-in-dubuque-county-iowa"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T13:28:35Z",
+      "first_seen": "2026-06-26T13:28:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:rss-dcd-4b833acdafebc0fc-us",
       "origin": "news",
       "state": "US",
@@ -201,6 +246,51 @@
       "data_source": "news",
       "last_updated": "2026-06-26T11:29:53Z",
       "first_seen": "2026-06-26T11:29:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-efb664945a1ba109-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Developer withdraws data center proposal in Katoomba, southeastern Australia. Opposition wins out",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/developer-withdraws-data-center-proposal-in-katoomba-southeastern-australia"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T13:28:35Z",
+      "first_seen": "2026-06-26T13:28:35Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -56405,21 +56495,21 @@
     },
     "US": {
       "state": "US",
-      "count": 620,
+      "count": 621,
       "outcome_counts": {
-        "pending": 364,
+        "pending": 365,
         "win": 241,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 605,
+        "restrictive": 606,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 611,
+        "local": 612,
         "statewide": 6,
         "federal": 3
       },
@@ -56431,6 +56521,35 @@
       "latest_date": "2026-06-26",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "IA": {
+      "state": "IA",
+      "count": 3,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 0,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "water": 2,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-06-26",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "OH": {
       "state": "OH",
@@ -57734,35 +57853,6 @@
       },
       "latest_date": "2026-02-25",
       "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "IA": {
-      "state": "IA",
-      "count": 2,
-      "outcome_counts": {
-        "pending": 1,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "water": 2,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-02-19",
-      "map_color_tier": null,
       "map_color_outcome": "pending"
     },
     "ND": {

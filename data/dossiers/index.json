@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-26T11:29:54Z",
+  "generated_at": "2026-06-26T13:28:35Z",
   "states": [
     {
       "state": "AK",
@@ -158,16 +158,16 @@
     },
     {
       "state": "IA",
-      "count": 2,
-      "risk_score": 22.2,
+      "count": 3,
+      "risk_score": 43.6,
       "grade": "N/A",
       "grade_score": null,
-      "moratoriums": 0,
+      "moratoriums": 1,
       "approvals": 0,
       "denials": 0,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-02-19",
+      "latest": "2026-06-26",
       "url": "data/dossiers/state-IA.json"
     },
     {
