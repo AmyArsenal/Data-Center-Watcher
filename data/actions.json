@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T08:40:53Z",
-  "count": 1208,
+  "generated_at": "2026-06-26T11:29:54Z",
+  "count": 1209,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -160,6 +160,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-4b833acdafebc0fc-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Thailand's TrueIDC breaks ground on $180m data center in northern Bangkok. But details about project sparse",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/httpswwwtrueidccomennews-detail238trueidc-7th-data-center-ground-breaking"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-26T11:29:53Z",
+      "first_seen": "2026-06-26T11:29:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-120db295ae37e638-us",
@@ -56360,21 +56405,21 @@
     },
     "US": {
       "state": "US",
-      "count": 619,
+      "count": 620,
       "outcome_counts": {
-        "pending": 363,
+        "pending": 364,
         "win": 241,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 604,
+        "restrictive": 605,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 610,
+        "local": 611,
         "statewide": 6,
         "federal": 3
       },
