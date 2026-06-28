@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-06-28T09:29:27Z",
+  "generated_at": "2026-06-28T11:19:42Z",
   "risk_score": {
-    "score": 52.0,
-    "tier": 26.1,
+    "score": 53.2,
+    "tier": 26.5,
     "engagement": 6.4,
-    "recency": 14.2,
+    "recency": 15.0,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.0,
+    "score": 46.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,26 +26,26 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 33,
+  "count": 34,
   "tier_counts": {
-    "restrictive": 17,
+    "restrictive": 18,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 18,
+    "pending": 19,
     "mixed": 3,
     "loss": 3,
     "win": 9
   },
   "scope_counts": {
-    "local": 29,
+    "local": 30,
     "statewide": 4
   },
   "issue_top": {
+    "community_impact": 9,
     "grid_energy": 9,
     "water": 9,
-    "community_impact": 8,
     "farmland": 5,
     "ratepayer": 4,
     "noise": 4,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-06-16",
+  "latest": "2026-06-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-cde28d1526bd7cf9-tx",
+      "date": "2026-06-28",
+      "jurisdiction": "lufkindailynews.com",
+      "title": "Hundreds of data centers are coming to Texas . Here what you need to know . | Community",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://lufkindailynews.com/news/community/hundreds-of-data-centers-are-coming-to-texas-here-s-what-you-need-to-know/article_b647962f-99d1-5000-b4e6-95e88ec43ad1.html"
+    },
     {
       "id": "news:rss-dcd-28f2f34855810dfc-tx",
       "date": "2026-06-16",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/databank-to-install-31mw-rooftop-solar-array-at-hou3-data-center-in-houston-texas"
-    },
-    {
-      "id": "news:gdelt-fb6ad5b737ca9672-tx",
-      "date": "2026-05-12",
-      "jurisdiction": "keranews.org",
-      "title": "Oppose ? Expand ? Votes in 2 North Texas communities highlight a divide over data center growth",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://keranews.org/energy-environment/2026-05-12/oppose-expand-votes-in-2-north-texas-communities-highlight-a-divide-over-data-center-growth"
     }
   ]
 }
