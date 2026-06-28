@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-27T23:39:02Z",
+  "generated_at": "2026-06-28T01:38:05Z",
   "states": [
     {
       "state": "AK",
@@ -33,9 +33,9 @@
     {
       "state": "AR",
       "count": 9,
-      "risk_score": 51.2,
-      "grade": "D",
-      "grade_score": 48.8,
+      "risk_score": 48.3,
+      "grade": "C",
+      "grade_score": 51.7,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 3,
@@ -327,9 +327,9 @@
     {
       "state": "MO",
       "count": 20,
-      "risk_score": 54.4,
+      "risk_score": 53.1,
       "grade": "D",
-      "grade_score": 45.6,
+      "grade_score": 46.9,
       "moratoriums": 0,
       "approvals": 1,
       "denials": 4,
@@ -411,9 +411,9 @@
     {
       "state": "NH",
       "count": 5,
-      "risk_score": 48.8,
+      "risk_score": 43.4,
       "grade": "C",
-      "grade_score": 51.2,
+      "grade_score": 56.6,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 1,
@@ -481,9 +481,9 @@
     {
       "state": "OH",
       "count": 28,
-      "risk_score": 62.2,
+      "risk_score": 61.2,
       "grade": "D",
-      "grade_score": 37.8,
+      "grade_score": 38.8,
       "moratoriums": 7,
       "approvals": 1,
       "denials": 11,
@@ -691,9 +691,9 @@
     {
       "state": "WY",
       "count": 6,
-      "risk_score": 53.6,
-      "grade": "D",
-      "grade_score": 46.4,
+      "risk_score": 49.2,
+      "grade": "C",
+      "grade_score": 50.8,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 3,
@@ -736,7 +736,7 @@
       "county_name": "Jefferson County",
       "state": "MO",
       "count": 5,
-      "risk_score": 64.9,
+      "risk_score": 59.6,
       "latest": "2026-05-28",
       "url": "data/dossiers/county-29099.json"
     },
