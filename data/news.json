@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-28T20:21:56Z",
+  "generated_at": "2026-06-28T21:34:00Z",
   "window_days": 90,
-  "count": 850,
+  "count": 851,
   "items": [
+    {
+      "id": "gdelt-3fb04b43119a4db9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Mark Cuban reveals what people really hate about AI data centers",
+      "source_domain": "finance.yahoo.com",
+      "source_name": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-reveals-people-really-161700990.html",
+      "date": "2026-06-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-28 21:34:00",
+      "url_hash": "3fb04b43119a4db9",
+      "content_hash": "97c6b494e7703591",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-28T21:34:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-cde28d1526bd7cf9",
       "state": "TX",
@@ -110,7 +150,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:34:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -269,7 +309,7 @@
         "rss-dcd"
       ],
       "snippet": "Effectively blocks 1 million sq ft data center proposal",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:33:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -347,7 +387,7 @@
         "rss-dcd"
       ],
       "snippet": "Real estate firm working on project despite local moratorium",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:33:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2416,7 +2456,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:34:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2654,7 +2694,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:34:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4418,7 +4458,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:34:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6178,7 +6218,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:34:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6620,7 +6660,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:34:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6700,7 +6740,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-28T20:21:55Z",
+      "last_seen": "2026-06-28T21:34:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
