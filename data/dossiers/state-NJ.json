@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-06-29T11:28:28Z",
+  "generated_at": "2026-06-29T14:56:45Z",
   "risk_score": {
-    "score": 48.4,
-    "tier": 20.9,
-    "engagement": 9.3,
-    "recency": 8.4,
-    "multi_source": 4.8,
+    "score": 48.5,
+    "tier": 20.1,
+    "engagement": 9.2,
+    "recency": 9.6,
+    "multi_source": 4.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.6,
+    "score": 51.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 8,
     "lawsuits": 0,
     "blocked": 2,
@@ -26,20 +26,21 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 27,
+  "count": 28,
   "tier_counts": {
     "restrictive": 9,
     "unclear": 9,
-    "supportive": 2,
+    "supportive": 3,
     "protective": 1,
     "null": 6
   },
   "outcome_counts": {
     "pending": 19,
-    "win": 8
+    "win": 8,
+    "loss": 1
   },
   "scope_counts": {
-    "local": 12,
+    "local": 13,
     "statewide": 15
   },
   "issue_top": {
@@ -60,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-06-12",
+  "latest": "2026-06-29",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-ade88de0f186511e-nj",
+      "date": "2026-06-29",
+      "jurisdiction": "DCD",
+      "title": "American Tower withdraws plans for data center in New Jersey. Township says no, bans future data center development",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/american-tower-withdraws-plans-for-data-center-in-new-jersey"
+    },
     {
       "id": "news:gdelt-39aaa53649d3dfab-nj",
       "date": "2026-06-12",
@@ -142,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://x.com/WallStreetApes/status/2041907768970637319"
-    },
-    {
-      "id": "research:nj-monroe-township-council-20260408-after-grassroots-opposition-monroe-township-advan",
-      "date": "2026-04-08",
-      "jurisdiction": "Monroe Township Council",
-      "title": "After grassroots opposition, Monroe Township advanced Ordinance O-20-2026 at March 25 and April 8 meetings to delete 'Data Centers, Data Cen",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://monroetownshipnj.org/wp-content/uploads/2026/03/O-20-2026.pdf"
     }
   ]
 }

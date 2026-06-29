@@ -1,8 +1,166 @@
 {
-  "generated_at": "2026-06-29T11:28:28Z",
+  "generated_at": "2026-06-29T14:56:45Z",
   "window_days": 90,
-  "count": 852,
+  "count": 856,
   "items": [
+    {
+      "id": "gdelt-5123f9d55db1b1c5",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Call for pause on data centers – KTBB News , Weather , Talk",
+      "source_domain": "ktbb.com",
+      "source_name": "ktbb.com",
+      "url": "https://ktbb.com/post?p=1518878",
+      "date": "2026-06-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-29 14:56:44",
+      "url_hash": "5123f9d55db1b1c5",
+      "content_hash": "79a5ad9a7dbca588",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-29T14:56:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-da7f2121e3b1e751",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents slam data center proposal for Calistoga Fairgrounds",
+      "source_domain": "mercurynews.com",
+      "source_name": "mercurynews.com",
+      "url": "https://mercurynews.com/2026/06/29/residents-slam-data-center-proposal-for-calistoga-fairgrounds",
+      "date": "2026-06-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-29 14:56:44",
+      "url_hash": "da7f2121e3b1e751",
+      "content_hash": "337cb9f48a341f41",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-06-29T14:56:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-a76d27ae0972e8ef",
+      "state": "KY",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center moratorium blocking gigawatt campus challenged in Cave City, Kentucky",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/data-center-moratorium-blocking-gigawatt-campus-challenged-in-cave-city-kentucky",
+      "date": "2026-06-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-29 14:56:44",
+      "url_hash": "a76d27ae0972e8ef",
+      "content_hash": "3a681af9e41bbcf3",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Legal challenge filed as developer seeks to have moratorium lifted",
+      "last_seen": "2026-06-29T14:56:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/data-center-moratorium-blocking-gigawatt-campus-challenged-in-cave-city-kentucky/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-ade88de0f186511e",
+      "state": "NJ",
+      "city": null,
+      "category": "announced",
+      "headline": "American Tower withdraws plans for data center in New Jersey",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/american-tower-withdraws-plans-for-data-center-in-new-jersey",
+      "date": "2026-06-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-29 14:56:44",
+      "url_hash": "ade88de0f186511e",
+      "content_hash": "c7a0751cb86d6964",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Township says no, bans future data center development",
+      "last_seen": "2026-06-29T14:56:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/american-tower-withdraws-plans-for-data-center-in-new-jersey/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-a82d872a5bc6d66e",
       "state": "US",
@@ -190,7 +348,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-06-29T11:28:27Z",
+      "last_seen": "2026-06-29T14:56:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2496,7 +2654,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-06-29T11:28:27Z",
+      "last_seen": "2026-06-29T14:56:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2734,7 +2892,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-29T11:28:27Z",
+      "last_seen": "2026-06-29T14:56:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4498,7 +4656,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-29T11:28:27Z",
+      "last_seen": "2026-06-29T14:56:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6258,7 +6416,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-29T11:28:27Z",
+      "last_seen": "2026-06-29T14:56:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6700,7 +6858,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-29T11:28:27Z",
+      "last_seen": "2026-06-29T14:56:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6780,7 +6938,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-29T11:28:27Z",
+      "last_seen": "2026-06-29T14:56:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -33932,6 +34090,34 @@
     }
   ],
   "by_state": {
+    "KY": {
+      "state": "KY",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-06-29"
+    },
+    "NJ": {
+      "state": "NJ",
+      "count": 9,
+      "total_engagement": 2907,
+      "categories": {
+        "announced": 1,
+        "protested": 5,
+        "banned": 3
+      },
+      "platforms": {
+        "news": 7,
+        "x": 2
+      },
+      "latest_date": "2026-06-29"
+    },
     "TX": {
       "state": "TX",
       "count": 19,
@@ -34184,20 +34370,6 @@
       },
       "latest_date": "2026-06-15"
     },
-    "NJ": {
-      "state": "NJ",
-      "count": 8,
-      "total_engagement": 2907,
-      "categories": {
-        "protested": 5,
-        "banned": 3
-      },
-      "platforms": {
-        "news": 6,
-        "x": 2
-      },
-      "latest_date": "2026-06-12"
-    },
     "AZ": {
       "state": "AZ",
       "count": 2,
@@ -34275,19 +34447,6 @@
         "news": 3
       },
       "latest_date": "2026-06-10"
-    },
-    "KY": {
-      "state": "KY",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-06-08"
     },
     "IL": {
       "state": "IL",

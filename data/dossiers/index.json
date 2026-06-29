@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-29T11:28:28Z",
+  "generated_at": "2026-06-29T14:56:45Z",
   "states": [
     {
       "state": "AK",
@@ -228,16 +228,16 @@
     },
     {
       "state": "KY",
-      "count": 6,
-      "risk_score": 52.1,
+      "count": 7,
+      "risk_score": 54.9,
       "grade": "D",
-      "grade_score": 47.9,
-      "moratoriums": 0,
+      "grade_score": 45.1,
+      "moratoriums": 1,
       "approvals": 1,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-06-08",
+      "latest": "2026-06-29",
       "url": "data/dossiers/state-KY.json"
     },
     {
@@ -424,16 +424,16 @@
     },
     {
       "state": "NJ",
-      "count": 27,
-      "risk_score": 48.4,
+      "count": 28,
+      "risk_score": 48.5,
       "grade": "C",
-      "grade_score": 51.6,
+      "grade_score": 51.5,
       "moratoriums": 1,
-      "approvals": 0,
+      "approvals": 1,
       "denials": 8,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-06-12",
+      "latest": "2026-06-29",
       "url": "data/dossiers/state-NJ.json"
     },
     {
