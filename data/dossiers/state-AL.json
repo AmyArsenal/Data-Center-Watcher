@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AL",
-  "generated_at": "2026-06-29T14:56:45Z",
+  "generated_at": "2026-06-29T17:27:27Z",
   "risk_score": {
-    "score": 44.3,
-    "tier": 12.0,
-    "engagement": 10.4,
-    "recency": 10.2,
-    "multi_source": 6.7,
+    "score": 56.0,
+    "tier": 19.0,
+    "engagement": 9.4,
+    "recency": 17.7,
+    "multi_source": 5.0,
     "regulatory": 5.0
   },
   "grade": {
@@ -16,9 +16,9 @@
     "label": "Insufficient data"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 0,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,16 +26,18 @@
     "bills_passed": 2,
     "bills_enacted": 1
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
     "unclear": 2,
-    "null": 1
+    "null": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "win": 3
+    "win": 4
   },
   "scope_counts": {
-    "statewide": 3
+    "statewide": 3,
+    "local": 1
   },
   "issue_top": {
     "tax_incentive": 1,
@@ -44,8 +46,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-17",
-  "latest": "2026-04-17",
+  "latest": "2026-06-29",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-c49f1f3a917b9ba7-al",
+      "date": "2026-06-29",
+      "jurisdiction": "DCD",
+      "title": "Morgan County, Alabama, passes data center moratorium, blocking cryptomine proposal. VoltCore blocked in Somerville",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/morgan-county-alabama-passes-data-center-moratorium-blocking-cryptomine-proposal"
+    },
     {
       "id": "openstates:ocd-bill-5372532b-a7e6-410e-9a0d-89df1bafe938-al",
       "date": "2026-04-17",

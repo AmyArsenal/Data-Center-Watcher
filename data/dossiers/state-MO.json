@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-06-29T14:56:45Z",
+  "generated_at": "2026-06-29T17:27:27Z",
   "risk_score": {
-    "score": 53.1,
-    "tier": 29.6,
-    "engagement": 6.6,
-    "recency": 16.4,
+    "score": 54.6,
+    "tier": 30.1,
+    "engagement": 6.5,
+    "recency": 17.5,
     "multi_source": 0.5,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.9,
+    "score": 45.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 1,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 1,
     "blocked": 0,
     "active_companies": 3,
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 20,
+  "count": 21,
   "tier_counts": {
-    "restrictive": 13,
+    "restrictive": 14,
     "unclear": 1,
     "null": 5,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 15,
-    "win": 4,
+    "win": 5,
     "loss": 1
   },
   "scope_counts": {
-    "local": 19,
+    "local": 20,
     "statewide": 1
   },
   "issue_top": {
@@ -68,8 +68,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-24",
-  "latest": "2026-06-18",
+  "latest": "2026-06-29",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-8588c65c99cc9728-mo",
+      "date": "2026-06-29",
+      "jurisdiction": "Independence",
+      "title": "Patmos to build new data center in Independence, Missouri, as city moratorium discussed. The second data center project in Independence",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/patmos-to-build-new-data-center-in-independence-missouri-as-city-moratorium-discussed"
+    },
     {
       "id": "news:gdelt-4e52dfdac07373bf-mo",
       "date": "2026-06-18",
@@ -150,15 +159,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.nprillinois.org/illinois/2026-04-20/data-center-opposition-group-sues-missouri-city-and-proposed-developer"
-    },
-    {
-      "id": "news:independence-mo-2026-04-09-mo",
-      "date": "2026-04-09",
-      "jurisdiction": "Independence",
-      "title": "Independence voters oust councilmembers who gave tax breaks to $6B+ Nebius AI data center",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-04-09/after-these-independence-councilmembers-supported-an-ai-data-center-voters-ousted-them"
     }
   ]
 }
