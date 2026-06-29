@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-06-29T21:01:07Z",
+  "generated_at": "2026-06-29T22:18:46Z",
   "risk_score": {
-    "score": 48.3,
-    "tier": 20.0,
-    "engagement": 9.7,
-    "recency": 8.0,
-    "multi_source": 5.6,
+    "score": 52.6,
+    "tier": 22.0,
+    "engagement": 9.4,
+    "recency": 11.2,
+    "multi_source": 5.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 51.7,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.4,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 1,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 9,
+  "count": 10,
   "tier_counts": {
     "unclear": 4,
     "supportive": 1,
     "null": 1,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 3,
+    "win": 4,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "tax_incentive": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-12-13",
-  "latest": "2026-05-28",
+  "latest": "2026-06-29",
   "top_citations": [
+    {
+      "id": "news:gdelt-e8236c31dd6a09e7-ar",
+      "date": "2026-06-29",
+      "jurisdiction": "arkansasonline.com",
+      "title": "Pulaski County Attorney who warned against data center moratorium resigns | The Arkansas Democrat - Gazette",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://arkansasonline.com/news/2026/jun/29/pulaski-county-attorney-who-warned-against-data"
+    },
     {
       "id": "news:gdelt-77f254dd31214cf4-ar",
       "date": "2026-05-28",
