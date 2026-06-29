@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-06-28T23:44:43Z",
+  "generated_at": "2026-06-29T01:54:11Z",
   "states": [
     {
       "state": "AK",
@@ -47,9 +47,9 @@
     {
       "state": "AZ",
       "count": 10,
-      "risk_score": 48.2,
+      "risk_score": 45.5,
       "grade": "C",
-      "grade_score": 51.8,
+      "grade_score": 54.5,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 2,
@@ -593,9 +593,9 @@
     {
       "state": "TX",
       "count": 34,
-      "risk_score": 53.2,
+      "risk_score": 52.4,
       "grade": "D",
-      "grade_score": 46.8,
+      "grade_score": 47.6,
       "moratoriums": 3,
       "approvals": 3,
       "denials": 9,

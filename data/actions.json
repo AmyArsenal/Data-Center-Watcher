@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T23:44:43Z",
-  "count": 1219,
+  "generated_at": "2026-06-29T01:54:11Z",
+  "count": 1220,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -67,6 +67,53 @@
       "bill_session": null,
       "tier": null,
       "tier_reason": null
+    },
+    {
+      "id": "news:gdelt-a82d872a5bc6d66e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "thereporteronline.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": null,
+      "date": "2026-06-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "East Rockhill Supervisors authorize revised data center ordinance following community concerns",
+      "sources": [
+        "https://thereporteronline.com/2026/06/28/east-rockhill-supervisors-authorize-revised-data-center-ordinance-following-community-concerns"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-29T01:54:10Z",
+      "first_seen": "2026-06-29T01:54:11Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-3fb04b43119a4db9-us",
@@ -56832,6 +56879,35 @@
       "map_color_tier": null,
       "map_color_outcome": "loss"
     },
+    "US": {
+      "state": "US",
+      "count": 628,
+      "outcome_counts": {
+        "pending": 368,
+        "win": 245,
+        "loss": 15,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 613,
+        "protective": 0,
+        "supportive": 15,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 619,
+        "statewide": 6,
+        "federal": 3
+      },
+      "issue_top": {
+        "community_impact": 125,
+        "zoning": 46,
+        "environmental": 14
+      },
+      "latest_date": "2026-06-29",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "TX": {
       "state": "TX",
       "count": 34,
@@ -56856,35 +56932,6 @@
         "community_impact": 9,
         "grid_energy": 9,
         "water": 9
-      },
-      "latest_date": "2026-06-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 627,
-      "outcome_counts": {
-        "pending": 367,
-        "win": 245,
-        "loss": 15,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 612,
-        "protective": 0,
-        "supportive": 15,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 618,
-        "statewide": 6,
-        "federal": 3
-      },
-      "issue_top": {
-        "community_impact": 124,
-        "zoning": 46,
-        "environmental": 14
       },
       "latest_date": "2026-06-28",
       "map_color_tier": "restrictive",
