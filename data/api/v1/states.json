@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-06-29T23:30:48Z",
+  "generated_at": "2026-06-30T01:35:10Z",
   "states": [
     {
       "state": "AK",
@@ -103,9 +103,9 @@
     {
       "state": "DC",
       "count": 13,
-      "risk_score": 26.5,
+      "risk_score": 25.7,
       "grade": "B",
-      "grade_score": 73.5,
+      "grade_score": 74.3,
       "moratoriums": 1,
       "approvals": 2,
       "denials": 0,
@@ -327,9 +327,9 @@
     {
       "state": "MO",
       "count": 21,
-      "risk_score": 54.6,
+      "risk_score": 54.2,
       "grade": "D",
-      "grade_score": 45.4,
+      "grade_score": 45.8,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 5,
@@ -495,9 +495,9 @@
     {
       "state": "OK",
       "count": 19,
-      "risk_score": 48.7,
+      "risk_score": 47.3,
       "grade": "C",
-      "grade_score": 51.3,
+      "grade_score": 52.7,
       "moratoriums": 3,
       "approvals": 1,
       "denials": 5,
@@ -523,9 +523,9 @@
     {
       "state": "PA",
       "count": 29,
-      "risk_score": 38.8,
+      "risk_score": 38.5,
       "grade": "C",
-      "grade_score": 61.2,
+      "grade_score": 61.5,
       "moratoriums": 1,
       "approvals": 4,
       "denials": 9,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 41,
-      "risk_score": 48.1,
+      "risk_score": 47.9,
       "grade": "C",
-      "grade_score": 51.9,
+      "grade_score": 52.1,
       "moratoriums": 1,
       "approvals": 3,
       "denials": 16,
@@ -663,9 +663,9 @@
     {
       "state": "WI",
       "count": 23,
-      "risk_score": 41.8,
+      "risk_score": 41.4,
       "grade": "C",
-      "grade_score": 58.2,
+      "grade_score": 58.6,
       "moratoriums": 5,
       "approvals": 0,
       "denials": 5,
