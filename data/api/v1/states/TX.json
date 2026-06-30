@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-06-30T16:00:42Z",
+  "generated_at": "2026-06-30T18:09:43Z",
   "risk_score": {
-    "score": 52.4,
-    "tier": 26.5,
+    "score": 53.5,
+    "tier": 26.9,
     "engagement": 6.4,
-    "recency": 14.2,
+    "recency": 14.9,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.6,
+    "score": 46.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 3,
-    "denials": 9,
+    "denials": 10,
     "lawsuits": 2,
     "blocked": 2,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 34,
+  "count": 35,
   "tier_counts": {
-    "restrictive": 18,
+    "restrictive": 19,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 19,
     "mixed": 3,
     "loss": 3,
-    "win": 9
+    "win": 10
   },
   "scope_counts": {
-    "local": 30,
+    "local": 31,
     "statewide": 4
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-06-28",
+  "latest": "2026-06-30",
   "top_citations": [
+    {
+      "id": "news:gdelt-70d0a308f303f27d-tx",
+      "date": "2026-06-30",
+      "jurisdiction": "news4sanantonio.com",
+      "title": "San Marcos becomes the first Texas city to ban data centers , testing its local control",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://news4sanantonio.com/news/local/san-marcos-becomes-the-first-texas-city-to-ban-data-centers-testing-its-local-control-hays-county-residents-protest-electricity-water-utilities"
+    },
     {
       "id": "news:gdelt-cde28d1526bd7cf9-tx",
       "date": "2026-06-28",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://krgv.com/news/texas-county-pauses-data-center-construction-in-rural-areas-for-a-year"
-    },
-    {
-      "id": "news:rss-dcd-0542a852692dc301-tx",
-      "date": "2026-05-13",
-      "jurisdiction": "DCD",
-      "title": "DataBank to install 3.1MW rooftop solar array at HOU3 data center in Houston, Texas. Will have an operational life of 25 years",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/databank-to-install-31mw-rooftop-solar-array-at-hou3-data-center-in-houston-texas"
     }
   ]
 }
