@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T13:28:19Z",
-  "count": 1237,
+  "generated_at": "2026-06-30T16:00:42Z",
+  "count": 1238,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-a009d57594939b94-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-06-30",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Mayor could block data center planned at former H&M warehouse in Le Bourget, France. Segro project under the microscope",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/mayor-could-block-data-center-planned-at-former-hm-warehouse-in-le-bourget-france"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-06-30T16:00:41Z",
+      "first_seen": "2026-06-30T16:00:42Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:rss-dck-e980356087e60544-us",
@@ -57682,21 +57727,21 @@
     },
     "US": {
       "state": "US",
-      "count": 637,
+      "count": 638,
       "outcome_counts": {
         "pending": 373,
-        "win": 249,
+        "win": 250,
         "loss": 15,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 622,
+        "restrictive": 623,
         "protective": 0,
         "supportive": 15,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 628,
+        "local": 629,
         "statewide": 6,
         "federal": 3
       },
