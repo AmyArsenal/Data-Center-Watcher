@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-06-30T08:50:14Z",
+  "generated_at": "2026-06-30T11:37:03Z",
   "window_days": 90,
-  "count": 866,
+  "count": 868,
   "items": [
+    {
+      "id": "rss-dck-e980356087e60544",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Stargate Update: AI’s Biggest Data Center Buildout Meets Reality",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/ai-data-centers/stargate-update-ai-s-biggest-data-center-buildout-meets-reality",
+      "date": "2026-06-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-30 11:37:03",
+      "url_hash": "e980356087e60544",
+      "content_hash": "8e50dadd72cf630a",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
+      "last_seen": "2026-06-30T11:37:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/ai-data-centers/stargate-update-ai-s-biggest-data-center-buildout-meets-reality",
+        "rss_author": "Nathan Eddy",
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-20ec4a0947c7d211",
+      "state": "MO",
+      "city": null,
+      "category": "protested",
+      "headline": "Local businessman withdraws application for data center in St. Joseph, Missouri",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/local-businessman-withdraws-application-for-data-center-in-st-joseph-missouri",
+      "date": "2026-06-30",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-06-30 11:37:03",
+      "url_hash": "20ec4a0947c7d211",
+      "content_hash": "7e1b5f280f9a7a44",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Opposition triumphs against data center proposal",
+      "last_seen": "2026-06-30T11:37:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/local-businessman-withdraws-application-for-data-center-in-st-joseph-missouri/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-ff371f1a29d77340",
       "state": "US",
@@ -310,7 +388,7 @@
         "rss-dcd"
       ],
       "snippet": "VoltCore blocked in Somerville",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -349,7 +427,7 @@
         "rss-dcd"
       ],
       "snippet": "The second data center project in Independence",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -388,7 +466,7 @@
         "rss-dcd"
       ],
       "snippet": "But faces opposition from locals",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -427,7 +505,7 @@
         "rss-dcd"
       ],
       "snippet": "Eagan Capital calls ban unlawful",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -784,7 +862,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3090,7 +3168,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3328,7 +3406,7 @@
         "rss-latitude"
       ],
       "snippet": "Senator Martin Heinrich says developers looking to build infrastructure for the AI era are missing the mark on community engagement. The post Sen. Heinrich on what data centers can learn from SunZia appeared first on Latitude Media .",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5092,7 +5170,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6852,7 +6930,7 @@
         "rss-dck"
       ],
       "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7294,7 +7372,7 @@
         "rss-dck"
       ],
       "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7374,7 +7452,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-06-30T08:50:13Z",
+      "last_seen": "2026-06-30T11:37:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -34486,6 +34564,22 @@
     }
   ],
   "by_state": {
+    "MO": {
+      "state": "MO",
+      "count": 15,
+      "total_engagement": 65746,
+      "categories": {
+        "protested": 13,
+        "banned": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 10,
+        "reddit": 2,
+        "x": 3
+      },
+      "latest_date": "2026-06-30"
+    },
     "AR": {
       "state": "AR",
       "count": 4,
@@ -34508,22 +34602,6 @@
       },
       "platforms": {
         "news": 1
-      },
-      "latest_date": "2026-06-29"
-    },
-    "MO": {
-      "state": "MO",
-      "count": 14,
-      "total_engagement": 65746,
-      "categories": {
-        "banned": 1,
-        "protested": 12,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 9,
-        "reddit": 2,
-        "x": 3
       },
       "latest_date": "2026-06-29"
     },

@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-06-30T08:50:14Z",
+  "generated_at": "2026-06-30T11:37:04Z",
   "risk_score": {
-    "score": 54.2,
-    "tier": 30.1,
+    "score": 55.7,
+    "tier": 30.5,
     "engagement": 6.5,
-    "recency": 17.1,
+    "recency": 18.1,
     "multi_source": 0.5,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 45.8,
+    "score": 44.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
-    "restrictive": 14,
+    "restrictive": 15,
     "unclear": 1,
     "null": 5,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 15,
+    "pending": 16,
     "win": 5,
     "loss": 1
   },
   "scope_counts": {
-    "local": 20,
+    "local": 21,
     "statewide": 1
   },
   "issue_top": {
@@ -68,8 +68,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-24",
-  "latest": "2026-06-29",
+  "latest": "2026-06-30",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-20ec4a0947c7d211-mo",
+      "date": "2026-06-30",
+      "jurisdiction": "DCD",
+      "title": "Local businessman withdraws application for data center in St. Joseph, Missouri. Opposition triumphs against data center proposal",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/local-businessman-withdraws-application-for-data-center-in-st-joseph-missouri"
+    },
     {
       "id": "news:rss-dcd-8588c65c99cc9728-mo",
       "date": "2026-06-29",
@@ -150,15 +159,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://abc17news.com/news/centralia/2026/04/21/centralia-aldermen-pass-data-center-ordinance/"
-    },
-    {
-      "id": "research:mo-wake-up-jeffco-jefferson-county-court-20260420-opposition-group-wake-up-jeffco-and-four-festus-re",
-      "date": "2026-04-20",
-      "jurisdiction": "Wake Up Jeffco / Jefferson County Court",
-      "title": "Opposition group Wake Up Jeffco and four Festus residents sued City of Festus and CRG, alleging city officials knowingly withheld informatio",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.nprillinois.org/illinois/2026-04-20/data-center-opposition-group-sues-missouri-city-and-proposed-developer"
     }
   ]
 }
