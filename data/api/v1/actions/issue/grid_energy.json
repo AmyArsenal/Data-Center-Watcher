@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-01T00:18:55Z",
+  "generated_at": "2026-07-01T04:59:07Z",
   "filter": {
     "issue_category": "grid_energy"
   },
-  "count": 131,
+  "count": 132,
   "items": [
     {
       "id": "news:rss-dck-434e9e7618221e82-us",
@@ -5247,6 +5247,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-5de7eeb18a361316-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-07-01",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": "[\"grid_energy\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "PJM Stakeholders Endorse 1 Backstop Procurement Proposal, Reject ‘Connect and Manage’. PJM’s Members Committee voted on dozens of proposals to address accelerating data center load, endorsing one package for a reliability backstop procurement and rejecting all options for a system to curtail large loads in years when capacity is short. The post PJM Stakeholders Endorse 1 Backstop Procurement Proposal, Reject ‘Connect and Manage’ appeared first on RTO Insider",
+      "sources": "[\"https://rtoinsider.com/135656-pjm-stakeholders-endorse-backstop-procurement-proposal-reject-connect-and-manage\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-01T04:59:06Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     }
   ]
 }

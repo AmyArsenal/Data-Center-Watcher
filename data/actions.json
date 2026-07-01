@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T00:18:55Z",
-  "count": 1246,
+  "generated_at": "2026-07-01T04:59:06Z",
+  "count": 1248,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,98 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-rto-insider-5de7eeb18a361316-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-01",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "PJM Stakeholders Endorse 1 Backstop Procurement Proposal, Reject ‘Connect and Manage’. PJM’s Members Committee voted on dozens of proposals to address accelerating data center load, endorsing one package for a reliability backstop procurement and rejecting all options for a system to curtail large loads in years when capacity is short. The post PJM Stakeholders Endorse 1 Backstop Procurement Proposal, Reject ‘Connect and Manage’ appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/135656-pjm-stakeholders-endorse-backstop-procurement-proposal-reject-connect-and-manage"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-01T04:59:06Z",
+      "first_seen": "2026-07-01T04:59:06Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:rss-rto-insider-a223f8bc137224f4-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "federal",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "federal_agency",
+      "date": "2026-07-01",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "SPP Confident of Compliance with FERC Order. SPP says it is confident its efforts to ensure appropriate cost-control and cost-allocation methodologies are in place and will ensure “full compliance” with FERC’s show-cause order issued June 18, directing changes to how it interconnects data centers and other large loads. The post SPP Confident of Compliance with FERC Order appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/135616-spp-confident-of-compliance-with-ferc-order"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-01T04:59:06Z",
+      "first_seen": "2026-07-01T04:59:06Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-0dfffe700cfe2d7f-us",
       "origin": "news",
@@ -58029,6 +58121,35 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 647,
+      "outcome_counts": {
+        "pending": 377,
+        "win": 255,
+        "loss": 15,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 632,
+        "protective": 0,
+        "supportive": 15,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 637,
+        "statewide": 6,
+        "federal": 4
+      },
+      "issue_top": {
+        "community_impact": 128,
+        "zoning": 46,
+        "grid_energy": 15
+      },
+      "latest_date": "2026-07-01",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "DC": {
       "state": "DC",
       "count": 13,
@@ -58082,35 +58203,6 @@
         "community_impact": 6,
         "transparency": 3,
         "grid_energy": 2
-      },
-      "latest_date": "2026-06-30",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 645,
-      "outcome_counts": {
-        "pending": 376,
-        "win": 254,
-        "loss": 15,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 630,
-        "protective": 0,
-        "supportive": 15,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 636,
-        "statewide": 6,
-        "federal": 3
-      },
-      "issue_top": {
-        "community_impact": 128,
-        "zoning": 46,
-        "environmental": 14
       },
       "latest_date": "2026-06-30",
       "map_color_tier": "restrictive",
