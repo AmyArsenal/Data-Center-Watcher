@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "RI",
-  "generated_at": "2026-06-30T23:01:20Z",
+  "generated_at": "2026-07-01T00:18:55Z",
   "risk_score": {
-    "score": 26.9,
+    "score": 25.1,
     "tier": 4.8,
     "engagement": 10.0,
-    "recency": 6.1,
+    "recency": 4.3,
     "multi_source": 6.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "B",
-    "score": 73.1,
+    "score": 74.9,
     "label": "Some friction, projects generally advance"
   },
   "quantified": {
