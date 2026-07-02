@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IL",
-  "generated_at": "2026-07-02T14:33:35Z",
+  "generated_at": "2026-07-02T16:24:04Z",
   "risk_score": {
-    "score": 51.4,
-    "tier": 26.0,
+    "score": 54.2,
+    "tier": 28.0,
     "engagement": 6.2,
-    "recency": 19.1,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.6,
+    "score": 45.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,22 +26,22 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "null": 3,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "win": 4,
     "loss": 1,
-    "pending": 1
+    "pending": 2
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 1
   },
   "issue_top": {
-    "zoning": 2,
+    "zoning": 3,
     "grid_energy": 2,
     "water": 2,
     "farmland": 2,
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-16",
-  "latest": "2026-06-06",
+  "latest": "2026-07-02",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-32fa1d8909a94ed2-il",
+      "date": "2026-07-02",
+      "jurisdiction": "DCD",
+      "title": "Karis withdraws rezoning request for data center in Hoffman Estates, Illinois. Opposition wins out",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/karis-withdraws-rezoning-request-for-data-center-in-hoffman-estates-illinois"
+    },
     {
       "id": "news:gdelt-4f3470e4f1ba3b68-il",
       "date": "2026-06-06",
