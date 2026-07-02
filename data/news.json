@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T22:59:24Z",
+  "generated_at": "2026-07-02T00:05:24Z",
   "window_days": 90,
-  "count": 876,
+  "count": 875,
   "items": [
     {
       "id": "rss-dcd-5533cd99421379f5",
@@ -30,7 +30,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents skeptical about height of the proposed development",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -108,7 +108,7 @@
         "rss-rto-insider"
       ],
       "snippet": "SPP says it is confident its efforts to ensure appropriate cost-control and cost-allocation methodologies are in place and will ensure “full compliance” with FERC’s show-cause order issued June 18, directing changes to how it interconnects data centers and other large loads. The post SPP Confident of Compliance with FERC Order appeared first on RTO Insider .",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -147,7 +147,7 @@
         "rss-rto-insider"
       ],
       "snippet": "PJM’s Members Committee voted on dozens of proposals to address accelerating data center load, endorsing one package for a reliability backstop procurement and rejecting all options for a system to curtail large loads in years when capacity is short. The post PJM Stakeholders Endorse 1 Backstop Procurement Proposal, Reject ‘Connect and Manage’ appeared first on RTO Insider .",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -544,7 +544,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1376,7 +1376,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3682,7 +3682,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5684,7 +5684,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -7966,7 +7966,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-01T22:59:23Z",
+      "last_seen": "2026-07-02T00:05:23Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -34865,41 +34865,6 @@
       "topics": [],
       "ferc_dockets": [],
       "platform_metadata": null
-    },
-    {
-      "id": "x-6dcc947306",
-      "state": "ME",
-      "city": null,
-      "category": "banned",
-      "headline": "Maine is on the verge of becoming the first state in the country to pass a data center moratorium. The bill, which just passed the Maine Hou",
-      "source_domain": "x.com",
-      "source_name": "@MorePerfectUS",
-      "url": "https://x.com/MorePerfectUS/status/2039760635123417449",
-      "date": "2026-04-02",
-      "platform": "x",
-      "engagement_score": 5451,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": 4683,
-      "sentiment": "negative",
-      "companies": [],
-      "first_seen": "2026-04-21 23:04:15",
-      "url_hash": "e39a6dd1961511bd",
-      "content_hash": "b1a55ec59a3589ca",
-      "source": null,
-      "source_tier": "manual",
-      "sources_seen": [
-        "x"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-21 23:04:15",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 1.0,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": null
     }
   ],
   "by_state": {
@@ -35234,16 +35199,16 @@
     },
     "ME": {
       "state": "ME",
-      "count": 40,
-      "total_engagement": 35464,
+      "count": 39,
+      "total_engagement": 30013,
       "categories": {
         "protested": 7,
-        "banned": 33
+        "banned": 32
       },
       "platforms": {
         "news": 19,
         "reddit": 17,
-        "x": 4
+        "x": 3
       },
       "latest_date": "2026-06-12"
     },
