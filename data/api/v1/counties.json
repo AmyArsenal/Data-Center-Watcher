@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-07-02T23:53:05Z",
+  "generated_at": "2026-07-03T01:27:08Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -34,7 +34,7 @@
       "county_name": "Jefferson County",
       "state": "MO",
       "count": 5,
-      "risk_score": 57.7,
+      "risk_score": 55.9,
       "latest": "2026-05-28",
       "url": "data/dossiers/county-29099.json"
     },
@@ -70,7 +70,7 @@
       "county_name": "Portage County",
       "state": "OH",
       "count": 3,
-      "risk_score": 50.2,
+      "risk_score": 47.1,
       "latest": "2026-04-25",
       "url": "data/dossiers/county-39133.json"
     },
