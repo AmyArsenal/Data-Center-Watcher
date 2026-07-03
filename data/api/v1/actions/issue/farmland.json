@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-03T13:06:40Z",
+  "generated_at": "2026-07-03T15:23:05Z",
   "filter": {
     "issue_category": "farmland"
   },
-  "count": 20,
+  "count": 21,
   "items": [
     {
       "id": "social:tiktok-d1bc0b5181e3fb3d-us",
@@ -805,6 +805,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-17028420fe7daa2c-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": "governor",
+      "date": "2026-07-03",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"farmland\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas Governor Abbott calls for data centers to be banned in rural areas. Abbott has historically supported the data center industry in Texas",
+      "sources": "[\"https://datacenterdynamics.com/en/news/texas-governor-abbott-calls-for-data-centers-to-be-banned-in-rural-areas\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-03T15:23:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }

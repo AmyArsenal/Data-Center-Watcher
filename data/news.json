@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-07-03T13:06:40Z",
+  "generated_at": "2026-07-03T15:23:05Z",
   "window_days": 90,
-  "count": 874,
+  "count": 876,
   "items": [
+    {
+      "id": "rss-dcd-17028420fe7daa2c",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Texas Governor Abbott calls for data centers to be banned in rural areas",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/texas-governor-abbott-calls-for-data-centers-to-be-banned-in-rural-areas",
+      "date": "2026-07-03",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-03 15:23:04",
+      "url_hash": "17028420fe7daa2c",
+      "content_hash": "d61ea831578be2cc",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Abbott has historically supported the data center industry in Texas",
+      "last_seen": "2026-07-03T15:23:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/texas-governor-abbott-calls-for-data-centers-to-be-banned-in-rural-areas/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-28851f9cd2dd7f2c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Sponsored: Why even ‘healthy’ data centers may be operating at risk",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/opinions/why-even-healthy-data-centers-may-be-operating-at-risk",
+      "date": "2026-07-03",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-03 15:23:04",
+      "url_hash": "28851f9cd2dd7f2c",
+      "content_hash": "d7c979fe6c877672",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "From first alert to issue resolution, every action must be traceable",
+      "last_seen": "2026-07-03T15:23:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/opinions/why-even-healthy-data-centers-may-be-operating-at-risk/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-32fa1d8909a94ed2",
       "state": "IL",
@@ -69,7 +147,7 @@
         "rss-latitude"
       ],
       "snippet": "Two data center developers on powered land, community opposition, and finding energy. The post The new reality for data centers: No easy answers appeared first on Latitude Media .",
-      "last_seen": "2026-07-03T13:06:39Z",
+      "last_seen": "2026-07-03T15:23:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -661,7 +739,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-03T13:06:39Z",
+      "last_seen": "2026-07-03T15:23:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1493,7 +1571,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-03T13:06:39Z",
+      "last_seen": "2026-07-03T15:23:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3799,7 +3877,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-03T13:06:39Z",
+      "last_seen": "2026-07-03T15:23:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5801,7 +5879,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-03T13:06:39Z",
+      "last_seen": "2026-07-03T15:23:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -8083,7 +8161,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-03T13:06:39Z",
+      "last_seen": "2026-07-03T15:23:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -34845,6 +34923,24 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 21,
+      "total_engagement": 629,
+      "categories": {
+        "banned": 8,
+        "protested": 12,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 16,
+        "legal": 1,
+        "tiktok": 2,
+        "youtube": 1,
+        "x": 1
+      },
+      "latest_date": "2026-07-03"
+    },
     "IL": {
       "state": "IL",
       "count": 4,
@@ -34857,24 +34953,6 @@
         "news": 4
       },
       "latest_date": "2026-07-02"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 20,
-      "total_engagement": 629,
-      "categories": {
-        "banned": 7,
-        "protested": 12,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 15,
-        "legal": 1,
-        "tiktok": 2,
-        "youtube": 1,
-        "x": 1
-      },
-      "latest_date": "2026-06-30"
     },
     "MO": {
       "state": "MO",

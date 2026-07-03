@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T13:06:40Z",
-  "count": 1253,
+  "generated_at": "2026-07-03T15:23:05Z",
+  "count": 1255,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,98 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-17028420fe7daa2c-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-07-03",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas Governor Abbott calls for data centers to be banned in rural areas. Abbott has historically supported the data center industry in Texas",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/texas-governor-abbott-calls-for-data-centers-to-be-banned-in-rural-areas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-03T15:23:04Z",
+      "first_seen": "2026-07-03T15:23:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-28851f9cd2dd7f2c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-03",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sponsored: Why even ‘healthy’ data centers may be operating at risk. From first alert to issue resolution, every action must be traceable",
+      "sources": [
+        "https://datacenterdynamics.com/en/opinions/why-even-healthy-data-centers-may-be-operating-at-risk"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-03T15:23:04Z",
+      "first_seen": "2026-07-03T15:23:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-dcd-32fa1d8909a94ed2-il",
       "origin": "news",
@@ -58356,21 +58448,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 651,
+      "count": 652,
       "outcome_counts": {
-        "pending": 380,
+        "pending": 381,
         "win": 255,
         "loss": 16,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 635,
+        "restrictive": 636,
         "protective": 0,
         "supportive": 16,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 641,
+        "local": 642,
         "statewide": 6,
         "federal": 4
       },
@@ -58379,7 +58471,36 @@
         "zoning": 46,
         "grid_energy": 15
       },
-      "latest_date": "2026-07-02",
+      "latest_date": "2026-07-03",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 36,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 11,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 20,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 31,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "grid_energy": 9,
+        "water": 9
+      },
+      "latest_date": "2026-07-03",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -58465,35 +58586,6 @@
         "community_impact": 6,
         "transparency": 3,
         "grid_energy": 2
-      },
-      "latest_date": "2026-06-30",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 35,
-      "outcome_counts": {
-        "pending": 19,
-        "win": 10,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 19,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 31,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 9,
-        "grid_energy": 9,
-        "water": 9
       },
       "latest_date": "2026-06-30",
       "map_color_tier": "restrictive",
