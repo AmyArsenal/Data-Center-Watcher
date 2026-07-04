@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T01:14:09Z",
+  "generated_at": "2026-07-04T04:50:38Z",
   "tier_timestamps": {
-    "fast": "2026-07-04T01:14:09Z",
+    "fast": "2026-07-04T04:50:38Z",
     "bills": "2026-07-04T00:19:38Z"
   },
   "counts_by_source": {
@@ -23,7 +23,7 @@
     "news": 6
   },
   "run_stats": {
-    "last_run_seconds": 19.11,
+    "last_run_seconds": 24.06,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
@@ -35,10 +35,10 @@
     "dropped_irrelevant": 182,
     "accepted_by_source_this_run": {
       "rss-dcd": 2,
-      "rss-latitude": 1,
       "rss-canary": 1,
-      "rss-dck": 3,
-      "rss-court-dc": 1
+      "rss-latitude": 1,
+      "rss-court-dc": 1,
+      "rss-dck": 3
     }
   }
 }
