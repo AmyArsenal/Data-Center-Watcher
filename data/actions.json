@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T08:16:17Z",
-  "count": 1255,
+  "generated_at": "2026-07-05T10:32:48Z",
+  "count": 1256,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-8408e63b7944ee1d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "finance.yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-05",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Prologis ( PLD ) Pursues £12 . 6 Billion Segro Deal to Expand Logistics and Data Center Footprint",
+      "sources": [
+        "https://finance.yahoo.com/real-estate/articles/prologis-pld-pursues-12-6-023411331.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-05T10:32:47Z",
+      "first_seen": "2026-07-05T10:32:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-dcd-17028420fe7daa2c-tx",
       "origin": "news",
@@ -58448,21 +58493,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 652,
+      "count": 653,
       "outcome_counts": {
-        "pending": 381,
+        "pending": 382,
         "win": 255,
         "loss": 16,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 636,
+        "restrictive": 637,
         "protective": 0,
         "supportive": 16,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 642,
+        "local": 643,
         "statewide": 6,
         "federal": 4
       },
@@ -58471,7 +58516,7 @@
         "zoning": 46,
         "grid_energy": 15
       },
-      "latest_date": "2026-07-03",
+      "latest_date": "2026-07-05",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
