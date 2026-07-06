@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-06T05:43:44Z",
+  "generated_at": "2026-07-06T09:42:39Z",
   "window_days": 90,
-  "count": 873,
+  "count": 874,
   "items": [
+    {
+      "id": "rss-canary-83c0439e48a98575",
+      "state": "NC",
+      "city": null,
+      "category": "protested",
+      "headline": "Duke Energy proposes special rules for data centers in North Carolina",
+      "source_domain": "canarymedia.com",
+      "source_name": "Canary Media",
+      "url": "https://canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
+      "date": "2026-07-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-06 09:42:39",
+      "url_hash": "83c0439e48a98575",
+      "content_hash": "1dc0a053c2524751",
+      "source": "rss-canary",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-canary"
+      ],
+      "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
+      "last_seen": "2026-07-06T09:42:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
+        "rss_author": "Elizabeth Ouzts",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-8408e63b7944ee1d",
       "state": "US",
@@ -70,7 +109,7 @@
         "rss-dcd"
       ],
       "snippet": "Abbott has historically supported the data center industry in Texas",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -109,7 +148,7 @@
         "rss-dcd"
       ],
       "snippet": "From first alert to issue resolution, every action must be traceable",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -187,7 +226,7 @@
         "rss-latitude"
       ],
       "snippet": "Two data center developers on powered land, community opposition, and finding energy. The post The new reality for data centers: No easy answers appeared first on Latitude Media .",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -779,7 +818,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1611,7 +1650,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3917,7 +3956,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -5919,7 +5958,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -8201,7 +8240,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-06T05:43:44Z",
+      "last_seen": "2026-07-06T09:42:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -34813,6 +34852,20 @@
     }
   ],
   "by_state": {
+    "NC": {
+      "state": "NC",
+      "count": 5,
+      "total_engagement": 617,
+      "categories": {
+        "protested": 3,
+        "banned": 2
+      },
+      "platforms": {
+        "news": 4,
+        "reddit": 1
+      },
+      "latest_date": "2026-07-06"
+    },
     "TX": {
       "state": "TX",
       "count": 21,
@@ -35087,20 +35140,6 @@
         "reddit": 1
       },
       "latest_date": "2026-06-18"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 4,
-      "total_engagement": 617,
-      "categories": {
-        "protested": 2,
-        "banned": 2
-      },
-      "platforms": {
-        "news": 3,
-        "reddit": 1
-      },
-      "latest_date": "2026-06-17"
     },
     "IN": {
       "state": "IN",
