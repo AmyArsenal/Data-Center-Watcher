@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-07-06T13:28:12Z",
+  "generated_at": "2026-07-06T16:35:43Z",
   "risk_score": {
-    "score": 44.1,
-    "tier": 17.3,
-    "engagement": 9.7,
-    "recency": 6.5,
-    "multi_source": 5.6,
+    "score": 46.6,
+    "tier": 18.5,
+    "engagement": 9.5,
+    "recency": 8.3,
+    "multi_source": 5.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 55.9,
+    "score": 53.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,22 +26,22 @@
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 18,
+  "count": 19,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
-    "pending": 9,
+    "pending": 10,
     "win": 7,
     "mixed": 1,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "grid_energy": 5,
@@ -69,8 +69,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-06-03",
+  "latest": "2026-07-06",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-d962322bde443cef-ca",
+      "date": "2026-07-06",
+      "jurisdiction": "DCD",
+      "title": "99MW data center proposed in Kern County, California. Faces opposition from locals",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/99mw-data-center-proposed-in-kern-county-california"
+    },
     {
       "id": "news:rss-dck-f5eedf3e7e65ed50-ca",
       "date": "2026-06-03",
@@ -151,15 +160,6 @@
       "tier": "protective",
       "outcome": "pending",
       "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2469"
-    },
-    {
-      "id": "openstates:ocd-bill-d9c8942e-ff6e-429d-a278-0862c0a02e67-ca",
-      "date": "2026-02-18",
-      "jurisdiction": "CA Legislature",
-      "title": "Data centers: rate structures.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1168"
     }
   ]
 }

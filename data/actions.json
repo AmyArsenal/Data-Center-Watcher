@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T13:28:12Z",
-  "count": 1257,
+  "generated_at": "2026-07-06T16:35:43Z",
+  "count": 1260,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,54 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-1b35fbe07563ee1a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wnmufm.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium",
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center moratorium will let Forsyth Township officials study the issue before creating zoning policies",
+      "sources": [
+        "https://wnmufm.org/government/2026-07-06/data-center-moratorium-will-let-forsyth-township-officials-study-the-issue-before-creating-zoning-policies"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-06T16:35:42Z",
+      "first_seen": "2026-07-06T16:35:43Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:rss-canary-83c0439e48a98575-nc",
       "origin": "news",
@@ -66,6 +114,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-d962322bde443cef-ca",
+      "origin": "news",
+      "state": "CA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "99MW data center proposed in Kern County, California. Faces opposition from locals",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/99mw-data-center-proposed-in-kern-county-california"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-06T16:35:42Z",
+      "first_seen": "2026-07-06T16:35:43Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dck-814f2ad71e2f0bbf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-07-06",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "What QTS’ Canceled $30B Project Reveals About AI Data Center Development. QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors",
+      "sources": [
+        "https://datacenterknowledge.com/data-center-site-selection/what-qts-canceled-30b-project-reveals-about-ai-data-center-development"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-06T16:35:42Z",
+      "first_seen": "2026-07-06T16:35:43Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-8408e63b7944ee1d-us",
@@ -58567,32 +58707,61 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "CA": {
+      "state": "CA",
+      "count": 19,
+      "outcome_counts": {
+        "pending": 10,
+        "win": 7,
+        "loss": 1,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 1,
+        "supportive": 0,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 11,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "grid_energy": 5,
+        "water": 4
+      },
+      "latest_date": "2026-07-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
-      "count": 653,
+      "count": 655,
       "outcome_counts": {
         "pending": 382,
-        "win": 255,
+        "win": 257,
         "loss": 16,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 637,
+        "restrictive": 639,
         "protective": 0,
         "supportive": 16,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 643,
+        "local": 645,
         "statewide": 6,
         "federal": 4
       },
       "issue_top": {
-        "community_impact": 131,
-        "zoning": 46,
+        "community_impact": 132,
+        "zoning": 47,
         "grid_energy": 15
       },
-      "latest_date": "2026-07-05",
+      "latest_date": "2026-07-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -59489,35 +59658,6 @@
         "environmental": 2,
         "community_impact": 1,
         "grid_energy": 1
-      },
-      "latest_date": "2026-06-03",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "CA": {
-      "state": "CA",
-      "count": 18,
-      "outcome_counts": {
-        "pending": 9,
-        "win": 7,
-        "loss": 1,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 1,
-        "supportive": 0,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 7,
-        "statewide": 11,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "grid_energy": 5,
-        "water": 4
       },
       "latest_date": "2026-06-03",
       "map_color_tier": "restrictive",
