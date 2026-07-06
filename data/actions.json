@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T22:56:58Z",
-  "count": 1260,
+  "generated_at": "2026-07-06T23:59:14Z",
+  "count": 1264,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -63,6 +63,186 @@
       "data_source": "news",
       "last_updated": "2026-07-06T16:35:42Z",
       "first_seen": "2026-07-06T16:35:43Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-3d9a4b33168887b9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "urbanmilwaukee.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-06",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Midtown Walmart Redevelopment Drops  Data Center  Plan » Urban Milwaukee",
+      "sources": [
+        "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-06T23:59:13Z",
+      "first_seen": "2026-07-06T23:59:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-79c85a440d2b2e83-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "newhavenindependent.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "12 - Month Pause Pitched For Data Center Dev - New Haven Independent",
+      "sources": [
+        "https://newhavenindependent.org/2026/07/06/12-month-pause-pitched-for-data-center-dev"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-06T23:59:13Z",
+      "first_seen": "2026-07-06T23:59:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f1f6b85b12aec63a-nm",
+      "origin": "news",
+      "state": "NM",
+      "county": null,
+      "jurisdiction": "koat.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Democratic New Mexico lawmakers propose moratorium on large - scale data centers",
+      "sources": [
+        "https://koat.com/article/democratic-new-mexico-lawmakers-propose-moratorium-on-large-scale-data-centers/71842983"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-06T23:59:13Z",
+      "first_seen": "2026-07-06T23:59:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f5e0fda0924a13b7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nbcmontana.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Construction of Bonner data center halted at mill location",
+      "sources": [
+        "https://nbcmontana.com/news/local/construction-of-bonner-data-center-paused-at-mill-location"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-06T23:59:13Z",
+      "first_seen": "2026-07-06T23:59:14Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -58738,21 +58918,21 @@
     },
     "US": {
       "state": "US",
-      "count": 655,
+      "count": 658,
       "outcome_counts": {
         "pending": 382,
-        "win": 257,
-        "loss": 16,
+        "win": 259,
+        "loss": 17,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 639,
+        "restrictive": 641,
         "protective": 0,
-        "supportive": 16,
+        "supportive": 17,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 645,
+        "local": 648,
         "statewide": 6,
         "federal": 4
       },
@@ -58760,6 +58940,35 @@
         "community_impact": 132,
         "zoning": 47,
         "grid_energy": 15
+      },
+      "latest_date": "2026-07-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "NM": {
+      "state": "NM",
+      "count": 5,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 2,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 1,
+        "federal": 1
+      },
+      "issue_top": {
+        "environmental": 2,
+        "water": 2,
+        "community_impact": 1
       },
       "latest_date": "2026-07-06",
       "map_color_tier": "restrictive",
@@ -59256,35 +59465,6 @@
       "latest_date": "2026-06-24",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 4,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 1,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 1,
-        "federal": 1
-      },
-      "issue_top": {
-        "environmental": 2,
-        "water": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-06-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "GA": {
       "state": "GA",
