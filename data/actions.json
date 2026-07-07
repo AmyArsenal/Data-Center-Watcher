@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T23:59:14Z",
-  "count": 1264,
+  "generated_at": "2026-07-07T02:50:27Z",
+  "count": 1265,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,53 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-rto-insider-65ea68f36cf43781-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "court",
+      "date": "2026-07-07",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "FERC Sets Grid Growth Ohio Project for Hearings on ROE, Other Issues. FERC instituted settlement judge proceedings for some aspects of a request for formula rates for a 765-kV transmission project that would stretch across much of Ohio to serve data center load in the area around Columbus. The post FERC Sets Grid Growth Ohio Project for Hearings on ROE, Other Issues appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/135914-ferc-sets-hearings-grid-growth-ohio-tx-project"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-07T02:50:26Z",
+      "first_seen": "2026-07-07T02:50:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-1b35fbe07563ee1a-us",
       "origin": "news",
@@ -58858,6 +58905,35 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 29,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 11,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 22,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 24,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "grid_energy": 5,
+        "ratepayer": 5
+      },
+      "latest_date": "2026-07-07",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "NC": {
       "state": "NC",
       "count": 9,
@@ -59320,35 +59396,6 @@
       "latest_date": "2026-06-26",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 28,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 11,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 21,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 23,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "ratepayer": 5,
-        "grid_energy": 4
-      },
-      "latest_date": "2026-06-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "PA": {
       "state": "PA",

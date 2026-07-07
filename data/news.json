@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-06T23:59:14Z",
+  "generated_at": "2026-07-07T02:50:27Z",
   "window_days": 90,
-  "count": 881,
+  "count": 879,
   "items": [
+    {
+      "id": "rss-rto-insider-65ea68f36cf43781",
+      "state": "OH",
+      "city": null,
+      "category": "protested",
+      "headline": "FERC Sets Grid Growth Ohio Project for Hearings on ROE, Other Issues",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/135914-ferc-sets-hearings-grid-growth-ohio-tx-project",
+      "date": "2026-07-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-07 02:50:26",
+      "url_hash": "65ea68f36cf43781",
+      "content_hash": "337dd7f06a3f9d3e",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "FERC instituted settlement judge proceedings for some aspects of a request for formula rates for a 765-kV transmission project that would stretch across much of Ohio to serve data center load in the area around Columbus. The post FERC Sets Grid Growth Ohio Project for Hearings on ROE, Other Issues appeared first on RTO Insider .",
+      "last_seen": "2026-07-07T02:50:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.52,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=135914",
+        "rss_author": "James Downing",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-f1f6b85b12aec63a",
       "state": "NM",
@@ -232,7 +271,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -271,7 +310,7 @@
         "rss-dcd"
       ],
       "snippet": "Faces opposition from locals",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +349,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -506,7 +545,7 @@
         "rss-latitude"
       ],
       "snippet": "Two data center developers on powered land, community opposition, and finding energy. The post The new reality for data centers: No easy answers appeared first on Latitude Media .",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1098,7 +1137,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1930,7 +1969,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4236,7 +4275,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6238,7 +6277,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -8520,7 +8559,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-06T23:59:13Z",
+      "last_seen": "2026-07-07T02:50:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35013,125 +35052,27 @@
       "topics": [],
       "ferc_dockets": [],
       "platform_metadata": null
-    },
-    {
-      "id": "youtube-ddb5e9a532fcb69c",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Episode 10: Data Centers, Energy Demand, and the Policy Fight at the Capitol",
-      "source_domain": "youtube.com",
-      "source_name": "@The Straight-Up 30",
-      "url": "https://youtube.com/watch?v=mxkXnM4vUP8",
-      "date": "2026-04-07",
-      "platform": "youtube",
-      "engagement_score": 134,
-      "upvotes": null,
-      "comments": null,
-      "views": 61,
-      "likes": 1,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-04-23 19:34:05",
-      "url_hash": "ddb5e9a532fcb69c",
-      "content_hash": "59ad09179e95b640",
-      "source": "youtube",
-      "source_tier": "deep",
-      "sources_seen": [
-        "youtube"
-      ],
-      "snippet": "Episode 10: Data Centers, Energy Demand, and the Policy Fight at the Capitol New data centers are rapidly expanding across the country, driven by the growth of AI and digital infrastructure. But behind that growth are real questions about energy use, water consumption, cost to consumers, and community impact. In this episode, Ross Izard sits down with Sen...",
-      "last_seen": "2026-04-25T23:51:58Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": null,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "youtube_handle": "The Straight-Up 30",
-        "youtube_score": 58,
-        "youtube_fun": null,
-        "youtube_why": "Policy fight on data centers/energy/community impact"
-      }
-    },
-    {
-      "id": "maine-ld307-2026-04-07",
-      "state": "ME",
-      "city": null,
-      "category": "banned",
-      "headline": "Maine LD 307 passes: House 82-62, Senate 19-13 - first statewide data center moratorium (20MW+) through Nov 2027",
-      "source_domain": "cnn.com",
-      "source_name": "CNN",
-      "url": "https://www.cnn.com/2026/04/12/climate/maine-data-center-ban-bill",
-      "date": "2026-04-07",
-      "platform": "news",
-      "engagement_score": 100,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": "negative",
-      "companies": [],
-      "first_seen": "2026-04-25 23:52:28",
-      "url_hash": "825da23aea7d0df6",
-      "content_hash": "b45e84b41e4b59f4",
-      "source": null,
-      "source_tier": "manual",
-      "sources_seen": [
-        "news"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-25 23:52:28",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 1.0,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": null
-    },
-    {
-      "id": "reddit-b28f7bc048a2cb81",
-      "state": "ME",
-      "city": null,
-      "category": "banned",
-      "headline": "Maine House advances data center moratorium",
-      "source_domain": "reddit.com",
-      "source_name": "r/politics",
-      "url": "https://reddit.com/r/politics/comments/1sel0so/maine_house_advances_data_center_moratorium",
-      "date": "2026-04-07",
-      "platform": "reddit",
-      "engagement_score": 88,
-      "upvotes": 80,
-      "comments": 8,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-04-22 21:33:21",
-      "url_hash": "b28f7bc048a2cb81",
-      "content_hash": "3734d31b53217961",
-      "source": "reddit",
-      "source_tier": "fast",
-      "sources_seen": [
-        "reddit"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-25T23:52:28Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "reddit_id": "1sel0so",
-        "reddit_subreddit": "politics",
-        "reddit_author": "804Brady",
-        "reddit_over_18": false,
-        "reddit_link_url": "https://mainemorningstar.com/2026/04/06/maine-house-advances-data-center-moratorium/"
-      }
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 23,
+      "total_engagement": 2750,
+      "categories": {
+        "protested": 14,
+        "banned": 7,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 16,
+        "reddit": 3,
+        "tiktok": 3,
+        "x": 1
+      },
+      "latest_date": "2026-07-07"
+    },
     "NM": {
       "state": "NM",
       "count": 3,
@@ -35364,24 +35305,6 @@
       },
       "latest_date": "2026-06-25"
     },
-    "OH": {
-      "state": "OH",
-      "count": 22,
-      "total_engagement": 2750,
-      "categories": {
-        "protested": 13,
-        "banned": 7,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 15,
-        "reddit": 3,
-        "tiktok": 3,
-        "x": 1
-      },
-      "latest_date": "2026-06-25"
-    },
     "MI": {
       "state": "MI",
       "count": 9,
@@ -35489,15 +35412,15 @@
     },
     "ME": {
       "state": "ME",
-      "count": 38,
-      "total_engagement": 29939,
+      "count": 36,
+      "total_engagement": 29751,
       "categories": {
         "protested": 6,
-        "banned": 32
+        "banned": 30
       },
       "platforms": {
-        "news": 19,
-        "reddit": 17,
+        "news": 18,
+        "reddit": 16,
         "x": 2
       },
       "latest_date": "2026-06-12"
