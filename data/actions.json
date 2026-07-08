@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T21:46:50Z",
-  "count": 1286,
+  "generated_at": "2026-07-08T22:52:22Z",
+  "count": 1287,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -700,6 +700,53 @@
       "data_source": "news",
       "last_updated": "2026-07-08T12:10:49Z",
       "first_seen": "2026-07-08T12:10:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-ddb62fe3c576fd74-ca",
+      "origin": "news",
+      "state": "CA",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "California Residents Grow Wary of Data Centers. The future of the artificial intelligence boom in California is in doubt thanks to growing public pushback to data centers that are needed to power the technology. The post California Residents Grow Wary of Data Centers appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/136064-california-residents-grow-weary-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T22:52:21Z",
+      "first_seen": "2026-07-08T22:52:22Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -59981,6 +60028,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "CA": {
+      "state": "CA",
+      "count": 20,
+      "outcome_counts": {
+        "pending": 11,
+        "win": 7,
+        "loss": 1,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 1,
+        "supportive": 0,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 11,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "grid_energy": 5,
+        "water": 4
+      },
+      "latest_date": "2026-07-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 29,
@@ -60038,35 +60114,6 @@
       "latest_date": "2026-07-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "CA": {
-      "state": "CA",
-      "count": 19,
-      "outcome_counts": {
-        "pending": 10,
-        "win": 7,
-        "loss": 1,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 1,
-        "supportive": 0,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 11,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "grid_energy": 5,
-        "water": 4
-      },
-      "latest_date": "2026-07-06",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "NM": {
       "state": "NM",

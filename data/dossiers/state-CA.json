@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-07-08T21:46:50Z",
+  "generated_at": "2026-07-08T22:52:22Z",
   "risk_score": {
-    "score": 46.1,
-    "tier": 18.5,
-    "engagement": 9.5,
-    "recency": 7.8,
-    "multi_source": 5.3,
+    "score": 48.4,
+    "tier": 19.6,
+    "engagement": 9.4,
+    "recency": 9.4,
+    "multi_source": 5.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 53.9,
+    "score": 51.6,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,26 +26,26 @@
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 19,
+  "count": 20,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
-    "pending": 10,
+    "pending": 11,
     "win": 7,
     "mixed": 1,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 8
+    "local": 9
   },
   "issue_top": {
+    "community_impact": 6,
     "grid_energy": 5,
-    "community_impact": 5,
     "water": 4,
     "environmental": 2,
     "transparency": 2,
@@ -69,8 +69,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-07-06",
+  "latest": "2026-07-08",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-ddb62fe3c576fd74-ca",
+      "date": "2026-07-08",
+      "jurisdiction": "RTO Insider",
+      "title": "California Residents Grow Wary of Data Centers. The future of the artificial intelligence boom in California is in doubt thanks to growing p",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/136064-california-residents-grow-weary-data-centers"
+    },
     {
       "id": "news:rss-dcd-d962322bde443cef-ca",
       "date": "2026-07-06",
@@ -151,15 +160,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
-    },
-    {
-      "id": "openstates:ocd-bill-1f701cd3-30f5-48b2-9295-79de5c9ab404-ca",
-      "date": "2026-02-20",
-      "jurisdiction": "CA Legislature",
-      "title": "Data centers: water use disclosures.",
-      "tier": "protective",
-      "outcome": "pending",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2469"
     }
   ]
 }
