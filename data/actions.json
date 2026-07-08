@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T14:37:44Z",
-  "count": 1285,
+  "generated_at": "2026-07-08T16:18:20Z",
+  "count": 1286,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -477,6 +477,51 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dcd-15b409e730bd9c03-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Tyler, Texas, rejects Bitcoin mining data center. Opponents win out",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/tyler-texas-rejects-bitcoin-mining-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T16:18:19Z",
+      "first_seen": "2026-07-08T16:18:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-4c6b7a638a8c7a56-tx",
@@ -59880,21 +59925,21 @@
     },
     "TX": {
       "state": "TX",
-      "count": 38,
+      "count": 39,
       "outcome_counts": {
-        "pending": 20,
+        "pending": 21,
         "win": 12,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 22,
+        "restrictive": 23,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 33,
+        "local": 34,
         "statewide": 5,
         "federal": 0
       },

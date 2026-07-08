@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-08T14:37:44Z",
+  "generated_at": "2026-07-08T16:18:20Z",
   "risk_score": {
-    "score": 54.8,
-    "tier": 27.9,
+    "score": 55.7,
+    "tier": 28.2,
     "engagement": 6.4,
-    "recency": 15.2,
+    "recency": 15.9,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 45.2,
+    "score": 44.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 38,
+  "count": 39,
   "tier_counts": {
-    "restrictive": 22,
+    "restrictive": 23,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 20,
+    "pending": 21,
     "mixed": 3,
     "loss": 3,
     "win": 12
   },
   "scope_counts": {
-    "local": 33,
+    "local": 34,
     "statewide": 5
   },
   "issue_top": {
@@ -109,6 +109,15 @@
       "url": "https://datacenterdynamics.com/en/news/aws-files-for-12bn-data-center-campus-outside-houston-texas"
     },
     {
+      "id": "news:rss-dcd-15b409e730bd9c03-tx",
+      "date": "2026-07-08",
+      "jurisdiction": "DCD",
+      "title": "Tyler, Texas, rejects Bitcoin mining data center. Opponents win out",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/tyler-texas-rejects-bitcoin-mining-data-center"
+    },
+    {
       "id": "news:rss-dcd-17028420fe7daa2c-tx",
       "date": "2026-07-03",
       "jurisdiction": "DCD",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://lufkindailynews.com/opinion/columns/miller-for-the-future-of-texas-pause-data-centers/article_8c62936f-9b92-5db2-b100-140a325a2043.html"
-    },
-    {
-      "id": "news:gdelt-df895a7903d19ff4-tx",
-      "date": "2026-05-27",
-      "jurisdiction": "mondaq.com",
-      "title": "People vs . Machines : Texas County Pushes Pause On Data Center Construction As Project Risks Expand Nationally Amid Public Opposition",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://mondaq.com/unitedstates/land-law-agriculture/1791852/people-vs-machines-texas-county-pushes-pause-on-data-center-construction-as-project-risks-expand-nationally-amid-public-opposition"
     }
   ]
 }
