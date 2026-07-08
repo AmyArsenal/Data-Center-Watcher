@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-08T10:48:51Z",
+  "generated_at": "2026-07-08T12:10:50Z",
   "risk_score": {
-    "score": 47.0,
-    "tier": 19.1,
-    "engagement": 9.9,
-    "recency": 7.1,
-    "multi_source": 5.9,
+    "score": 48.0,
+    "tier": 19.6,
+    "engagement": 9.8,
+    "recency": 7.9,
+    "multi_source": 5.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 53.0,
+    "score": 52.0,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 41,
+  "count": 42,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 11,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 16,
-    "pending": 20,
+    "pending": 21,
     "loss": 3,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 17,
+    "local": 18,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-06-25",
+  "latest": "2026-07-08",
   "top_citations": [
+    {
+      "id": "news:rss-dck-07d4b342f23e018d-va",
+      "date": "2026-07-08",
+      "jurisdiction": "datacenterknowledge",
+      "title": "Second Major Virginia Data Center Project Dies, Raising AI Site Selection Stakes. Days after QTS abandoned its $30 billion Digital Gateway p",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterknowledge.com/data-center-site-selection/second-major-virginia-data-center-project-dies-raising-ai-site-selection-stakes"
+    },
     {
       "id": "news:rss-dcd-a6bcd1a5d5174746-va",
       "date": "2026-06-25",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://canarymedia.com/articles/solar/virginia-blocks-counties-from-banning-solar"
-    },
-    {
-      "id": "research:va-virginia-general-assembly-20260423-sb-253-sen-lucas-d-portsmouth-extends-dominion",
-      "date": "2026-04-23",
-      "jurisdiction": "Virginia General Assembly",
-      "title": "SB 253 (Sen. Lucas, D-Portsmouth) extends Dominion and Appalachian Power weatherization programs and authorizes the SCC to shift more electr",
-      "tier": null,
-      "outcome": "mixed",
-      "url": "https://virginiamercury.com/2026/04/22/the-governors-amendments-to-energy-and-data-center-legislation-will-save-money-for-customers/"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-08T10:48:51Z",
+  "generated_at": "2026-07-08T12:10:50Z",
   "risk_score": {
-    "score": 53.8,
-    "tier": 27.6,
+    "score": 54.8,
+    "tier": 27.9,
     "engagement": 6.4,
-    "recency": 14.6,
+    "recency": 15.2,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.2,
+    "score": 45.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 37,
+  "count": 38,
   "tier_counts": {
-    "restrictive": 21,
+    "restrictive": 22,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 19,
+    "pending": 20,
     "mixed": 3,
     "loss": 3,
     "win": 12
   },
   "scope_counts": {
-    "local": 32,
+    "local": 33,
     "statewide": 5
   },
   "issue_top": {
@@ -98,6 +98,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://ktxs.com/news/local/gov-greg-abbott-calls-for-data-center-ban-across-rural-texas"
+    },
+    {
+      "id": "news:rss-dcd-4c6b7a638a8c7a56-tx",
+      "date": "2026-07-08",
+      "jurisdiction": "DCD",
+      "title": "AWS files for $1.2bn data center campus outside Houston, Texas. Will have four data center buildings",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/aws-files-for-12bn-data-center-campus-outside-houston-texas"
     },
     {
       "id": "news:rss-dcd-17028420fe7daa2c-tx",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://mondaq.com/unitedstates/land-law-agriculture/1791852/people-vs-machines-texas-county-pushes-pause-on-data-center-construction-as-project-risks-expand-nationally-amid-public-opposition"
-    },
-    {
-      "id": "news:gdelt-ee675ea31516f525-tx",
-      "date": "2026-05-23",
-      "jurisdiction": "kilgorenewsherald.com",
-      "title": "Opinion : For the Future of Texas , Pause Data Centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://kilgorenewsherald.com/2026/05/23/opinion-for-the-future-of-texas-pause-data-centers"
     }
   ]
 }
