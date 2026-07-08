@@ -3,31 +3,40 @@
   "state": "MO",
   "county_fips": "29099",
   "county_name": "Jefferson County",
-  "generated_at": "2026-07-08T08:43:45Z",
+  "generated_at": "2026-07-08T10:48:51Z",
   "risk_score": {
-    "score": 54.0,
+    "score": 59.4,
     "tier": 40.0,
     "engagement": 6.2,
-    "recency": 7.7,
+    "recency": 13.1,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
-    "restrictive": 5
+    "restrictive": 6
   },
   "outcome_counts": {
-    "pending": 5
+    "pending": 6
   },
   "scope_counts": {
-    "local": 5
+    "local": 6
   },
   "issue_top": {},
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-31",
-  "latest": "2026-05-28",
+  "latest": "2026-07-08",
   "top_citations": [
+    {
+      "id": "news:gdelt-e8e934d1b5f790e8-mo",
+      "date": "2026-07-08",
+      "jurisdiction": "Festus",
+      "title": "Judge to decide whether Festus recall election will proceed amid data center dispute",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://kfvs12.com/2026/07/07/judge-decide-whether-festus-recall-election-will-proceed-amid-data-center-dispute"
+    },
     {
       "id": "news:gdelt-2156488b96869bfc-mo",
       "date": "2026-05-28",

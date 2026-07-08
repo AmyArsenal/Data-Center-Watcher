@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T08:43:45Z",
-  "count": 1271,
+  "generated_at": "2026-07-08T10:48:50Z",
+  "count": 1283,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,556 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-0c18b82b8248a446-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "coloradocountycitizen.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Abbott wants ban on data centers in rural neighborhoods",
+      "sources": [
+        "https://coloradocountycitizen.com/article/8404,abbott-wants-ban-on-data-centers-in-rural-neighborhoods"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-4c14585767e3e380-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wlky.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Nelson County Fiscal Court passes data center moratorium",
+      "sources": [
+        "https://wlky.com/article/nelson-county-data-center-moratorium/71859768"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-651e8d7554620fc2-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "ktxs.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Gov . Greg Abbott calls for data center ban across rural Texas",
+      "sources": [
+        "https://ktxs.com/news/local/gov-greg-abbott-calls-for-data-center-ban-across-rural-texas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-7fc22f890cc26865-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "idahostatejournal.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Shoshone - Bannock Tribes reaffirm opposition to proposed AI data center in Pocatello",
+      "sources": [
+        "http://idahostatejournal.com/news/local/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/article_82fd4eeb-2f92-597e-aefa-7a91f47e5ff8.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-9058d7d580739b4d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wtov9.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Residents pack council meeting to oppose data center at former Warwood foundry site",
+      "sources": [
+        "https://wtov9.com/news/local/wheeling-residents-council-meeting-to-oppose-data-center-at-former-foundry-site"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-933e330e53729bad-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "1039wvbo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Wrightstown places moratorium on data centers",
+      "sources": [
+        "https://1039wvbo.com/2026/07/07/wrightstown-places-moratorium-on-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9ee56d19658b49dc-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wifr.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Beloit City Council discuss data centers as concerns grow",
+      "sources": [
+        "https://wifr.com/2026/07/08/beloit-city-council-discusses-possible-future-action-data-center-development"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b6eec0e7dc0bbe84-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kesq.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Desert Hot Springs extends temporary ban on new data centers , calls for more research",
+      "sources": [
+        "https://kesq.com/news/2026/07/07/desert-hot-springs-considers-extending-temporary-ban-on-new-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e8e934d1b5f790e8-mo",
+      "origin": "news",
+      "state": "MO",
+      "county": null,
+      "jurisdiction": "Festus",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "court",
+      "date": "2026-07-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Judge to decide whether Festus recall election will proceed amid data center dispute",
+      "sources": [
+        "https://kfvs12.com/2026/07/07/judge-decide-whether-festus-recall-election-will-proceed-amid-data-center-dispute"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-ed8b2a86b95f23d0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wvtm13.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Childersburg residents question possible data center plan",
+      "sources": [
+        "https://wvtm13.com/article/childersburg-data-center-concerns/71860099"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dcd-82d7d0c93ebbbafe-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "environmental"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "SNP backs national data center moratorium in Scotland. Cites negative environmental impact",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/snp-backs-national-data-center-moratorium-in-scotland"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-c7c16348e4c272ad-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Simplifying data center readiness with liquid-cooled load banks. Accelerate AI data center readiness by validating liquid cooling infrastructure with proven commissioning strategies before IT deployment",
+      "sources": [
+        "https://datacenterdynamics.com/en/whitepapers/simplifying-data-center-readiness-with-liquid-cooled-load-banks"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "first_seen": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-4ef506a6fa744f02-us",
       "origin": "news",
@@ -59180,6 +59730,93 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 674,
+      "outcome_counts": {
+        "pending": 388,
+        "win": 268,
+        "loss": 18,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 656,
+        "protective": 0,
+        "supportive": 18,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 664,
+        "statewide": 6,
+        "federal": 4
+      },
+      "issue_top": {
+        "community_impact": 135,
+        "zoning": 48,
+        "environmental": 15
+      },
+      "latest_date": "2026-07-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "MO": {
+      "state": "MO",
+      "count": 23,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 5,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 16,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 22,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "transparency": 3,
+        "grid_energy": 2
+      },
+      "latest_date": "2026-07-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 37,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 12,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 21,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 32,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "grid_energy": 9,
+        "water": 9
+      },
+      "latest_date": "2026-07-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 29,
@@ -59204,35 +59841,6 @@
         "community_impact": 7,
         "grid_energy": 5,
         "ratepayer": 5
-      },
-      "latest_date": "2026-07-07",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 664,
-      "outcome_counts": {
-        "pending": 384,
-        "win": 263,
-        "loss": 17,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 647,
-        "protective": 0,
-        "supportive": 17,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 654,
-        "statewide": 6,
-        "federal": 4
-      },
-      "issue_top": {
-        "community_impact": 133,
-        "zoning": 48,
-        "grid_energy": 15
       },
       "latest_date": "2026-07-07",
       "map_color_tier": "restrictive",
@@ -59325,35 +59933,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "TX": {
-      "state": "TX",
-      "count": 36,
-      "outcome_counts": {
-        "pending": 19,
-        "win": 11,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 20,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 31,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 9,
-        "grid_energy": 9,
-        "water": 9
-      },
-      "latest_date": "2026-07-03",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "IL": {
       "state": "IL",
       "count": 7,
@@ -59410,35 +59989,6 @@
       },
       "latest_date": "2026-06-30",
       "map_color_tier": null,
-      "map_color_outcome": "loss"
-    },
-    "MO": {
-      "state": "MO",
-      "count": 22,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 5,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 15,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 21,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 6,
-        "transparency": 3,
-        "grid_energy": 2
-      },
-      "latest_date": "2026-06-30",
-      "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "NJ": {

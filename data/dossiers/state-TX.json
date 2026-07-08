@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-08T08:43:45Z",
+  "generated_at": "2026-07-08T10:48:51Z",
   "risk_score": {
-    "score": 52.8,
-    "tier": 27.2,
+    "score": 53.8,
+    "tier": 27.6,
     "engagement": 6.4,
-    "recency": 13.9,
+    "recency": 14.6,
     "multi_source": 0.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.2,
+    "score": 46.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 3,
-    "denials": 11,
+    "denials": 12,
     "lawsuits": 2,
     "blocked": 2,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 36,
+  "count": 37,
   "tier_counts": {
-    "restrictive": 20,
+    "restrictive": 21,
     "null": 15,
     "supportive": 1
   },
@@ -36,17 +36,17 @@
     "pending": 19,
     "mixed": 3,
     "loss": 3,
-    "win": 11
+    "win": 12
   },
   "scope_counts": {
-    "local": 31,
+    "local": 32,
     "statewide": 5
   },
   "issue_top": {
     "community_impact": 9,
     "grid_energy": 9,
     "water": 9,
-    "farmland": 6,
+    "farmland": 7,
     "ratepayer": 4,
     "noise": 4,
     "transparency": 3,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-03",
+  "latest": "2026-07-08",
   "top_citations": [
+    {
+      "id": "news:gdelt-651e8d7554620fc2-tx",
+      "date": "2026-07-08",
+      "jurisdiction": "ktxs.com",
+      "title": "Gov . Greg Abbott calls for data center ban across rural Texas",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://ktxs.com/news/local/gov-greg-abbott-calls-for-data-center-ban-across-rural-texas"
+    },
     {
       "id": "news:rss-dcd-17028420fe7daa2c-tx",
       "date": "2026-07-03",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://kilgorenewsherald.com/2026/05/23/opinion-for-the-future-of-texas-pause-data-centers"
-    },
-    {
-      "id": "news:gdelt-8ae01fd6db890281-tx",
-      "date": "2026-05-16",
-      "jurisdiction": "tomshardware.com",
-      "title": "Texas county passes data center ban for rural areas for a year , move comes in wake of AI data centers moving to remote areas to skirt regul",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://tomshardware.com/tech-industry/big-tech/texas-county-passes-data-center-moratorium-for-a-year-follows-other-local-governments-pausing-similar-projects-but-state-senator-says-counties-cannot-impose-these-bans"
     }
   ]
 }

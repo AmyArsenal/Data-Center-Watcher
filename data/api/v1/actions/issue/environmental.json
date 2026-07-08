@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-08T08:43:45Z",
+  "generated_at": "2026-07-08T10:48:51Z",
   "filter": {
     "issue_category": "environmental"
   },
-  "count": 76,
+  "count": 77,
   "items": [
     {
       "id": "social:reddit-8ed4d33171baa5d0-me",
@@ -3046,6 +3046,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-82d7d0c93ebbbafe-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"moratorium\"]",
+      "authority_level": null,
+      "date": "2026-07-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"environmental\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "SNP backs national data center moratorium in Scotland. Cites negative environmental impact",
+      "sources": "[\"https://datacenterdynamics.com/en/news/snp-backs-national-data-center-moratorium-in-scotland\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-08T10:48:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
