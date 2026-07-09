@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-07-09T12:19:31Z",
+  "generated_at": "2026-07-09T15:38:57Z",
   "risk_score": {
-    "score": 41.0,
-    "tier": 15.0,
-    "engagement": 10.1,
-    "recency": 4.9,
-    "multi_source": 6.1,
+    "score": 41.5,
+    "tier": 14.3,
+    "engagement": 9.9,
+    "recency": 6.4,
+    "multi_source": 5.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.0,
+    "score": 58.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 5,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 5,
     "lawsuits": 0,
     "blocked": 1,
@@ -26,19 +26,20 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 23,
+  "count": 24,
   "tier_counts": {
     "restrictive": 5,
     "unclear": 6,
-    "supportive": 6,
+    "supportive": 7,
     "null": 6
   },
   "outcome_counts": {
     "pending": 18,
-    "win": 5
+    "win": 5,
+    "loss": 1
   },
   "scope_counts": {
-    "local": 7,
+    "local": 8,
     "statewide": 16
   },
   "issue_top": {
@@ -71,8 +72,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2023-05-24",
-  "latest": "2026-05-21",
+  "latest": "2026-07-09",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-c7b19955cad2ad02-wi",
+      "date": "2026-07-09",
+      "jurisdiction": "DCD",
+      "title": "Plans for Milwaukee, Wisconsin, data center in former Walmart building shelved amid strong local opposition. The “computing research facilit",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/plans-for-milwaukee-wisconsin-data-center-in-former-walmart-building-shelved-amid-strong-local-opposition"
+    },
     {
       "id": "news:gdelt-4dfd5a6c52adf85c-wi",
       "date": "2026-05-21",
@@ -153,15 +163,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1061"
-    },
-    {
-      "id": "research:wi-wisconsin-senate-20260226-sb-1061-sen-habush-sinykin-sen-carpenter-woul",
-      "date": "2026-02-26",
-      "jurisdiction": "Wisconsin Senate",
-      "title": "SB 1061 (Sen. Habush Sinykin, Sen. Carpenter) would require 100% newly built renewable energy for data centers, restore PSC integrated resou",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb1061"
     }
   ]
 }

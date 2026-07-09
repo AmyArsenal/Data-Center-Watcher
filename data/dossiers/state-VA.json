@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-09T12:19:31Z",
+  "generated_at": "2026-07-09T15:38:57Z",
   "risk_score": {
-    "score": 49.0,
-    "tier": 20.1,
+    "score": 50.0,
+    "tier": 20.5,
     "engagement": 9.7,
-    "recency": 8.6,
-    "multi_source": 5.6,
+    "recency": 9.3,
+    "multi_source": 5.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.0,
+    "score": 50.0,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 43,
+  "count": 44,
   "tier_counts": {
-    "restrictive": 12,
+    "restrictive": 13,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,17 +36,17 @@
   },
   "outcome_counts": {
     "win": 16,
-    "pending": 22,
+    "pending": 23,
     "loss": 3,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 19,
+    "local": 20,
     "statewide": 24
   },
   "issue_top": {
+    "community_impact": 10,
     "zoning": 9,
-    "community_impact": 9,
     "water": 5,
     "environmental": 5,
     "grid_energy": 4,
@@ -80,6 +80,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/520-million-in-asset-backed-securities-issued-secured-by-virginia-data-center"
+    },
+    {
+      "id": "news:rss-dck-cb14c617a2c32896-va",
+      "date": "2026-07-09",
+      "jurisdiction": "datacenterknowledge",
+      "title": "Can Growing Community Backlash Quiet the AI Data Center Boom?. Local opposition groups surged to 430 from 76 since 2025, while recent Virgin",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterknowledge.com/data-center-site-selection/can-growing-community-backlash-quiet-the-ai-data-center-boom-"
     },
     {
       "id": "news:rss-dck-07d4b342f23e018d-va",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://arkansasonline.com/news/2026/apr/30/virginia-data-center-project-halted"
-    },
-    {
-      "id": "news:gdelt-0141b9feef0c1444-va",
-      "date": "2026-04-30",
-      "jurisdiction": "therealdeal.com",
-      "title": "Brookfield Affiliate Abandons Virginia Data Center",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://therealdeal.com/national/washington-dc/2026/04/30/brookfield-affiliate-abandons-virginia-data-center"
     }
   ]
 }

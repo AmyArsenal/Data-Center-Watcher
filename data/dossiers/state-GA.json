@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-07-09T12:19:31Z",
+  "generated_at": "2026-07-09T15:38:57Z",
   "risk_score": {
-    "score": 45.3,
-    "tier": 18.1,
-    "engagement": 8.8,
-    "recency": 9.3,
-    "multi_source": 4.1,
+    "score": 47.9,
+    "tier": 19.3,
+    "engagement": 8.7,
+    "recency": 11.0,
+    "multi_source": 3.9,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 54.7,
+    "score": 52.1,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 17,
+  "count": 18,
   "tier_counts": {
-    "restrictive": 5,
+    "restrictive": 6,
     "unclear": 4,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 12,
+    "pending": 13,
     "win": 2,
     "loss": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 7,
+    "local": 8,
     "statewide": 9,
     "federal": 1
   },
@@ -49,9 +49,9 @@
     "water": 4,
     "environmental": 3,
     "grid_energy": 3,
+    "zoning": 3,
     "tax_incentive": 2,
     "transparency": 2,
-    "zoning": 2,
     "ratepayer": 2
   },
   "companies": [
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
-  "latest": "2026-06-22",
+  "latest": "2026-07-09",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-f402698deb0ee4d7-ga",
+      "date": "2026-07-09",
+      "jurisdiction": "DCD",
+      "title": "County officials deny data center zoning request in Georgia. Douglas County commissioners deny EdgeConneX-linked affiliate",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/county-officials-deny-data-center-zoning-request-in-georgia"
+    },
     {
       "id": "news:rss-dcd-cb202539f0e393f0-ga",
       "date": "2026-06-22",
@@ -144,15 +153,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://trackbill.com/bill/georgia-house-bill-1059-data-center-impact-assessment-and-development-moratorium-act-of-2026-enact/2799873/"
-    },
-    {
-      "id": "openstates:ocd-bill-1915d2ce-9414-494a-bd62-075ca0a4f75f-ga",
-      "date": "2026-01-28",
-      "jurisdiction": "GA Legislature",
-      "title": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
     }
   ]
 }

@@ -1,8 +1,164 @@
 {
-  "generated_at": "2026-07-09T12:19:31Z",
+  "generated_at": "2026-07-09T15:38:56Z",
   "window_days": 90,
-  "count": 901,
+  "count": 905,
   "items": [
+    {
+      "id": "rss-dck-cb14c617a2c32896",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Can Growing Community Backlash Quiet the AI Data Center Boom?",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/data-center-site-selection/can-growing-community-backlash-quiet-the-ai-data-center-boom-",
+      "date": "2026-07-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-09 15:38:56",
+      "url_hash": "cb14c617a2c32896",
+      "content_hash": "34eb3d273ddefdd2",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
+      "last_seen": "2026-07-09T15:38:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/data-center-site-selection/can-growing-community-backlash-quiet-the-ai-data-center-boom-",
+        "rss_author": "Shane Snider",
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-f402698deb0ee4d7",
+      "state": "GA",
+      "city": null,
+      "category": "protested",
+      "headline": "County officials deny data center zoning request in Georgia",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/county-officials-deny-data-center-zoning-request-in-georgia",
+      "date": "2026-07-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-09 15:38:56",
+      "url_hash": "f402698deb0ee4d7",
+      "content_hash": "70cdd0f9ca5300e5",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Douglas County commissioners deny EdgeConneX-linked affiliate",
+      "last_seen": "2026-07-09T15:38:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/county-officials-deny-data-center-zoning-request-in-georgia/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-30b1fcc06ab72344",
+      "state": "MN",
+      "city": null,
+      "category": "banned",
+      "headline": "Officials in Elk River, Minnesota, deny data center application, consider moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/officials-in-elk-river-minnesota-deny-data-center-application-consider-moratorium",
+      "date": "2026-07-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-09 15:38:56",
+      "url_hash": "30b1fcc06ab72344",
+      "content_hash": "941d6de68fbb422e",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "City council denies Swervo/Irongate DC application to repurpose warehouse",
+      "last_seen": "2026-07-09T15:38:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/officials-in-elk-river-minnesota-deny-data-center-application-consider-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-c7b19955cad2ad02",
+      "state": "WI",
+      "city": null,
+      "category": "announced",
+      "headline": "Plans for Milwaukee, Wisconsin, data center in former Walmart building shelved amid strong local opposition",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/plans-for-milwaukee-wisconsin-data-center-in-former-walmart-building-shelved-amid-strong-local-opposition",
+      "date": "2026-07-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-09 15:38:56",
+      "url_hash": "c7b19955cad2ad02",
+      "content_hash": "443323943d75ecc8",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "The “computing research facility” would have been attached to a larger self-storage facility",
+      "last_seen": "2026-07-09T15:38:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/plans-for-milwaukee-wisconsin-data-center-in-former-walmart-building-shelved-amid-strong-local-opposition/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-9b5dc45477d5c574",
       "state": "VA",
@@ -30,7 +186,7 @@
         "rss-dcd"
       ],
       "snippet": "Site managed by data center operator and investment management firm, Cloud Capital",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -188,7 +344,7 @@
         "rss-rto-insider"
       ],
       "snippet": "FERC's annual software efficiency technical conference looked into the issues surrounding load forecasting, which has become much more uncertain with the advent of large loads. The post FERC Conference Probes Difficulties of Forecasting Data Center Load appeared first on RTO Insider .",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -227,7 +383,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The future of the artificial intelligence boom in California is in doubt thanks to growing public pushback to data centers that are needed to power the technology. The post California Residents Grow Wary of Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -307,7 +463,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1346,7 +1502,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1424,7 +1580,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1620,7 +1776,7 @@
         "rss-latitude"
       ],
       "snippet": "Two data center developers on powered land, community opposition, and finding energy. The post The new reality for data centers: No easy answers appeared first on Latitude Media .",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2212,7 +2368,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3044,7 +3200,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5350,7 +5506,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -7352,7 +7508,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -9634,7 +9790,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-09T12:19:30Z",
+      "last_seen": "2026-07-09T15:38:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35950,15 +36106,55 @@
   "by_state": {
     "VA": {
       "state": "VA",
-      "count": 11,
+      "count": 12,
       "total_engagement": 0,
       "categories": {
-        "protested": 8,
+        "protested": 9,
         "announced": 2,
         "banned": 1
       },
       "platforms": {
-        "news": 11
+        "news": 12
+      },
+      "latest_date": "2026-07-09"
+    },
+    "GA": {
+      "state": "GA",
+      "count": 6,
+      "total_engagement": 70,
+      "categories": {
+        "protested": 5,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-07-09"
+    },
+    "MN": {
+      "state": "MN",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 5,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-07-09"
+    },
+    "WI": {
+      "state": "WI",
+      "count": 4,
+      "total_engagement": 7,
+      "categories": {
+        "announced": 1,
+        "protested": 3
+      },
+      "platforms": {
+        "news": 3,
+        "reddit": 1
       },
       "latest_date": "2026-07-09"
     },
@@ -36103,19 +36299,6 @@
       },
       "latest_date": "2026-06-29"
     },
-    "MN": {
-      "state": "MN",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 4,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-06-29"
-    },
     "KY": {
       "state": "KY",
       "count": 3,
@@ -36210,19 +36393,6 @@
         "reddit": 1
       },
       "latest_date": "2026-06-24"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 5,
-      "total_engagement": 70,
-      "categories": {
-        "protested": 4,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-06-22"
     },
     "SC": {
       "state": "SC",
@@ -36407,19 +36577,6 @@
         "x": 1
       },
       "latest_date": "2026-05-30"
-    },
-    "WI": {
-      "state": "WI",
-      "count": 3,
-      "total_engagement": 7,
-      "categories": {
-        "protested": 3
-      },
-      "platforms": {
-        "news": 2,
-        "reddit": 1
-      },
-      "latest_date": "2026-05-21"
     },
     "NV": {
       "state": "NV",
