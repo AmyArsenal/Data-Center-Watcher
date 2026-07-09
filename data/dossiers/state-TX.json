@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-09T01:57:06Z",
+  "generated_at": "2026-07-09T05:56:51Z",
   "risk_score": {
-    "score": 55.7,
-    "tier": 28.2,
+    "score": 56.6,
+    "tier": 28.5,
     "engagement": 6.4,
-    "recency": 15.9,
-    "multi_source": 0.3,
+    "recency": 16.5,
+    "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.3,
+    "score": 43.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 3,
-    "denials": 12,
+    "denials": 13,
     "lawsuits": 2,
     "blocked": 2,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 39,
+  "count": 40,
   "tier_counts": {
-    "restrictive": 23,
+    "restrictive": 24,
     "null": 15,
     "supportive": 1
   },
@@ -36,17 +36,17 @@
     "pending": 21,
     "mixed": 3,
     "loss": 3,
-    "win": 12
+    "win": 13
   },
   "scope_counts": {
-    "local": 34,
+    "local": 35,
     "statewide": 5
   },
   "issue_top": {
     "community_impact": 9,
     "grid_energy": 9,
     "water": 9,
-    "farmland": 7,
+    "farmland": 8,
     "ratepayer": 4,
     "noise": 4,
     "transparency": 3,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-08",
+  "latest": "2026-07-09",
   "top_citations": [
+    {
+      "id": "news:gdelt-c034b0c383beae8f-tx",
+      "date": "2026-07-09",
+      "jurisdiction": "dailysignal.com",
+      "title": "Abbott Demands Ban on AI Data Centers in Rural Texas",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dailysignal.com/2026/07/08/abbott-calls-for-data-center-ban"
+    },
     {
       "id": "news:gdelt-651e8d7554620fc2-tx",
       "date": "2026-07-08",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers"
-    },
-    {
-      "id": "news:gdelt-298c14f02d0310dc-tx",
-      "date": "2026-05-29",
-      "jurisdiction": "lufkindailynews.com",
-      "title": "MILLER : For the future of Texas , pause data centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://lufkindailynews.com/opinion/columns/miller-for-the-future-of-texas-pause-data-centers/article_8c62936f-9b92-5db2-b100-140a325a2043.html"
     }
   ]
 }
