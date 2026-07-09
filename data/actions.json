@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T05:56:51Z",
-  "count": 1290,
+  "generated_at": "2026-07-09T09:26:05Z",
+  "count": 1291,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -111,6 +111,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-04e8dd00098a72df-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-09",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "DCD Studio: Eaton’s strategic priorities in 2026 and into 2027 with Steve Loeb, Eaton. Emma Strutton speaks with Steve Loeb of Eaton on AI-driven infrastructure, integrated power and cooling, modular building blocks, and delivering resilient, high-density data centers",
+      "sources": [
+        "https://datacenterdynamics.com/en/videos/httpsvimeocom1208103501sharecopyflsvfeci"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-09T09:26:04Z",
+      "first_seen": "2026-07-09T09:26:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-rto-insider-699f8a2fa34e1a77-us",
@@ -60051,21 +60096,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 676,
+      "count": 677,
       "outcome_counts": {
-        "pending": 389,
+        "pending": 390,
         "win": 269,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 658,
+        "restrictive": 659,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 665,
+        "local": 666,
         "statewide": 6,
         "federal": 5
       },
