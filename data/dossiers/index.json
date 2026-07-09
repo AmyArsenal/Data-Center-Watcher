@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-08T23:56:39Z",
+  "generated_at": "2026-07-09T01:57:06Z",
   "states": [
     {
       "state": "AK",
@@ -229,9 +229,9 @@
     {
       "state": "KY",
       "count": 7,
-      "risk_score": 51.8,
-      "grade": "D",
-      "grade_score": 48.2,
+      "risk_score": 48.0,
+      "grade": "C",
+      "grade_score": 52.0,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 3,
@@ -327,9 +327,9 @@
     {
       "state": "MO",
       "count": 23,
-      "risk_score": 54.1,
+      "risk_score": 53.7,
       "grade": "D",
-      "grade_score": 45.9,
+      "grade_score": 46.3,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 5,
@@ -467,9 +467,9 @@
     {
       "state": "NY",
       "count": 12,
-      "risk_score": 60.6,
+      "risk_score": 58.3,
       "grade": "D",
-      "grade_score": 39.4,
+      "grade_score": 41.7,
       "moratoriums": 8,
       "approvals": 0,
       "denials": 7,
@@ -607,9 +607,9 @@
     {
       "state": "UT",
       "count": 9,
-      "risk_score": 66.1,
-      "grade": "F",
-      "grade_score": 33.9,
+      "risk_score": 63.1,
+      "grade": "D",
+      "grade_score": 36.9,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 0,

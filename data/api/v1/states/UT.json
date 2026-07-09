@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-07-08T23:56:39Z",
+  "generated_at": "2026-07-09T01:57:06Z",
   "risk_score": {
-    "score": 66.1,
+    "score": 63.1,
     "tier": 36.9,
     "engagement": 6.2,
-    "recency": 17.9,
+    "recency": 15.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "F",
-    "score": 33.9,
-    "label": "Active moratoriums, high opposition success"
+    "letter": "D",
+    "score": 36.9,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 0,
