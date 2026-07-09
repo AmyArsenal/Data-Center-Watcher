@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-09T09:26:05Z",
+  "generated_at": "2026-07-09T12:19:31Z",
   "risk_score": {
-    "score": 48.0,
-    "tier": 19.6,
-    "engagement": 9.8,
-    "recency": 7.9,
-    "multi_source": 5.7,
+    "score": 49.0,
+    "tier": 20.1,
+    "engagement": 9.7,
+    "recency": 8.6,
+    "multi_source": 5.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 52.0,
+    "score": 51.0,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 42,
+  "count": 43,
   "tier_counts": {
-    "restrictive": 11,
+    "restrictive": 12,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 16,
-    "pending": 21,
+    "pending": 22,
     "loss": 3,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 18,
+    "local": 19,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-08",
+  "latest": "2026-07-09",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-9b5dc45477d5c574-va",
+      "date": "2026-07-09",
+      "jurisdiction": "DCD",
+      "title": "$520 million in asset-backed securities issued, secured by Virginia data center. Site managed by data center operator and investment managem",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/520-million-in-asset-backed-securities-issued-secured-by-virginia-data-center"
+    },
     {
       "id": "news:rss-dck-07d4b342f23e018d-va",
       "date": "2026-07-08",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://therealdeal.com/national/washington-dc/2026/04/30/brookfield-affiliate-abandons-virginia-data-center"
-    },
-    {
-      "id": "news:rss-canary-69572be3fea443e2-va",
-      "date": "2026-04-28",
-      "jurisdiction": "Canary Media",
-      "title": "Virginia’s new law blocks counties from banning solar. As data centers drive electricity demand to new heights and consumers struggle with r",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://canarymedia.com/articles/solar/virginia-blocks-counties-from-banning-solar"
     }
   ]
 }
