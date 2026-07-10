@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-07-10T11:30:45Z",
+  "generated_at": "2026-07-10T13:32:09Z",
   "risk_score": {
-    "score": 61.6,
-    "tier": 32.8,
+    "score": 62.6,
+    "tier": 33.1,
     "engagement": 6.2,
-    "recency": 17.6,
+    "recency": 18.3,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 38.4,
+    "score": 37.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,36 +26,45 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 29,
+  "count": 30,
   "tier_counts": {
-    "restrictive": 22,
+    "restrictive": 23,
     "null": 6,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 17,
+    "pending": 18,
     "win": 11,
     "loss": 1
   },
   "scope_counts": {
-    "local": 24,
+    "local": 25,
     "statewide": 5
   },
   "issue_top": {
-    "community_impact": 7,
+    "community_impact": 8,
     "ratepayer": 5,
     "grid_energy": 5,
     "tax_incentive": 4,
     "water": 3,
     "zoning": 2,
-    "environmental": 1,
-    "noise": 1
+    "transparency": 2,
+    "environmental": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-07-07",
+  "latest": "2026-07-09",
   "top_citations": [
+    {
+      "id": "news:rss-dck-70ed87371489d6cd-oh",
+      "date": "2026-07-09",
+      "jurisdiction": "datacenterknowledge",
+      "title": "Can Transparency Become an AI Data Center Advantage?. After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data c",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterknowledge.com/data-center-site-selection/can-transparency-become-an-ai-data-center-advantage-"
+    },
     {
       "id": "news:rss-rto-insider-65ea68f36cf43781-oh",
       "date": "2026-07-07",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wtol.com/article/news/local/ohio/dewine-pauses-ohio-data-center-tax-exemptions/512-49767f5b-e4a1-4e0e-a62e-fa4b15b41db0"
-    },
-    {
-      "id": "news:gdelt-299aa4e25a3ab696-oh",
-      "date": "2026-05-19",
-      "jurisdiction": "abc6onyourside.com",
-      "title": "Ohio group collects 25 , 000 signatures for a constitutional amendment banning data centers",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://abc6onyourside.com/news/local/this-ohio-group-wants-a-constitutional-amendment-banning-data-centers-on-november-ballot-politics-policy-tech-enviornment"
     }
   ]
 }
