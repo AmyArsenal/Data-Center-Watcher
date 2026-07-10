@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T23:33:55Z",
-  "count": 1296,
+  "generated_at": "2026-07-10T01:13:44Z",
+  "count": 1298,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-601f45e835502c02-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "localnews8.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Shoshone - Bannock Tribes Stand Against Proposed AI Data Center in Pocatello - LocalNews8 . com",
+      "sources": [
+        "https://localnews8.com/news/2026/07/09/shoshone-bannock-tribes-stand-against-proposed-ai-data-center-in-pocatello"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-10T01:13:43Z",
+      "first_seen": "2026-07-10T01:13:44Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-48b3a040f809e47e-us",
       "origin": "news",
@@ -107,6 +152,51 @@
       "data_source": "news",
       "last_updated": "2026-07-09T05:56:50Z",
       "first_seen": "2026-07-09T05:56:51Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-de5c9b9a06694ec4-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ksfr.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-09",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "State lawmakers plan data center moratorium bill for 2027 legislative session",
+      "sources": [
+        "https://ksfr.org/2026-07-09/state-lawmakers-plan-data-center-moratorium-bill-for-2027-legislative-session"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-10T01:13:43Z",
+      "first_seen": "2026-07-10T01:13:44Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -60325,21 +60415,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 677,
+      "count": 679,
       "outcome_counts": {
-        "pending": 390,
-        "win": 269,
+        "pending": 391,
+        "win": 270,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 659,
+        "restrictive": 661,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 666,
+        "local": 668,
         "statewide": 6,
         "federal": 5
       },
@@ -60348,7 +60438,7 @@
         "zoning": 48,
         "environmental": 15
       },
-      "latest_date": "2026-07-09",
+      "latest_date": "2026-07-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

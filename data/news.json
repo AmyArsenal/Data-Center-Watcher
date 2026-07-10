@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-07-09T23:33:55Z",
+  "generated_at": "2026-07-10T01:13:44Z",
   "window_days": 90,
-  "count": 905,
+  "count": 903,
   "items": [
+    {
+      "id": "gdelt-601f45e835502c02",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Shoshone - Bannock Tribes Stand Against Proposed AI Data Center in Pocatello - LocalNews8 . com",
+      "source_domain": "localnews8.com",
+      "source_name": "localnews8.com",
+      "url": "https://localnews8.com/news/2026/07/09/shoshone-bannock-tribes-stand-against-proposed-ai-data-center-in-pocatello",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 01:13:43",
+      "url_hash": "601f45e835502c02",
+      "content_hash": "37d6642e96a23782",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T01:13:43Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-de5c9b9a06694ec4",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "State lawmakers plan data center moratorium bill for 2027 legislative session",
+      "source_domain": "ksfr.org",
+      "source_name": "ksfr.org",
+      "url": "https://ksfr.org/2026-07-09/state-lawmakers-plan-data-center-moratorium-bill-for-2027-legislative-session",
+      "date": "2026-07-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 01:13:43",
+      "url_hash": "de5c9b9a06694ec4",
+      "content_hash": "2a3c67e55c6ba819",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T01:13:43Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dck-cb14c617a2c32896",
       "state": "VA",
@@ -30,7 +110,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -69,7 +149,7 @@
         "rss-dcd"
       ],
       "snippet": "Douglas County commissioners deny EdgeConneX-linked affiliate",
-      "last_seen": "2026-07-09T23:33:54Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -108,7 +188,7 @@
         "rss-dcd"
       ],
       "snippet": "City council denies Swervo/Irongate DC application to repurpose warehouse",
-      "last_seen": "2026-07-09T23:33:54Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -147,7 +227,7 @@
         "rss-dcd"
       ],
       "snippet": "The “computing research facility” would have been attached to a larger self-storage facility",
-      "last_seen": "2026-07-09T23:33:54Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -186,7 +266,7 @@
         "rss-dcd"
       ],
       "snippet": "Site managed by data center operator and investment management firm, Cloud Capital",
-      "last_seen": "2026-07-09T23:33:54Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -344,7 +424,7 @@
         "rss-rto-insider"
       ],
       "snippet": "FERC's annual software efficiency technical conference looked into the issues surrounding load forecasting, which has become much more uncertain with the advent of large loads. The post FERC Conference Probes Difficulties of Forecasting Data Center Load appeared first on RTO Insider .",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -463,7 +543,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1502,7 +1582,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1580,7 +1660,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-09T23:33:54Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1776,7 +1856,7 @@
         "rss-latitude"
       ],
       "snippet": "Two data center developers on powered land, community opposition, and finding energy. The post The new reality for data centers: No easy answers appeared first on Latitude Media .",
-      "last_seen": "2026-07-09T23:33:54Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2368,7 +2448,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3200,7 +3280,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5506,7 +5586,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -7508,7 +7588,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -9790,7 +9870,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-09T23:33:55Z",
+      "last_seen": "2026-07-10T01:13:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35950,157 +36030,6 @@
         "tiktok_fun": null,
         "tiktok_why": "Vague 'Data Centers in America'; weak details"
       }
-    },
-    {
-      "id": "x-c778319fc8",
-      "state": "ME",
-      "city": null,
-      "category": "banned",
-      "headline": "JUST IN: Maine is set to become the first state to pass a ban on data center construction.",
-      "source_domain": "x.com",
-      "source_name": "@Polymarket",
-      "url": "https://x.com/Polymarket/status/2042658358390382803",
-      "date": "2026-04-10",
-      "platform": "x",
-      "engagement_score": 28859,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": 26242,
-      "sentiment": "negative",
-      "companies": [],
-      "first_seen": "2026-04-21 23:04:15",
-      "url_hash": "7592aab185dad242",
-      "content_hash": "e3b2dfa23a642447",
-      "source": null,
-      "source_tier": "manual",
-      "sources_seen": [
-        "x"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-21 23:04:15",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 1.0,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": null
-    },
-    {
-      "id": "x-4643366107",
-      "state": "OK",
-      "city": "Claremore",
-      "category": "protested",
-      "headline": "People are being arrested for speaking out against Al data centers. Keep standing up for your community. Location: Claremore, Oklahoma",
-      "source_domain": "x.com",
-      "source_name": "@Kaos_Vs_Control",
-      "url": "https://x.com/Kaos_Vs_Control/status/2042694931181912373",
-      "date": "2026-04-10",
-      "platform": "x",
-      "engagement_score": 11923,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": 7999,
-      "sentiment": "negative",
-      "companies": [],
-      "first_seen": "2026-04-21 23:04:15",
-      "url_hash": "30575040665317b6",
-      "content_hash": "5f55db7e58f55ef7",
-      "source": null,
-      "source_tier": "manual",
-      "sources_seen": [
-        "x"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-21 23:04:15",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 1.0,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": null
-    },
-    {
-      "id": "instagram-5df866d6904c5c73",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Stand has been waging a #BigTech campaign for several years now, and this year we pivoted to addressing the massive growing threat of data c",
-      "source_domain": "instagram.com",
-      "source_name": "@stand.earth",
-      "url": "https://instagram.com/reel/DW77VrflfuV",
-      "date": "2026-04-10",
-      "platform": "instagram",
-      "engagement_score": 296,
-      "upvotes": null,
-      "comments": null,
-      "views": 9102,
-      "likes": 589,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-04-25 23:51:58",
-      "url_hash": "5df866d6904c5c73",
-      "content_hash": "df4a7909717401b9",
-      "source": "instagram",
-      "source_tier": "deep",
-      "sources_seen": [
-        "instagram"
-      ],
-      "snippet": "Stand has been waging a #BigTech campaign for several years now, and this year we pivoted to addressing the massive growing threat of data centers in communities across the U.S. 🤖 This story shows that we are not alone. Communities all across the U.S. and globe are standing up against harmful data centers in their backyards, and we are partnering with the...",
-      "last_seen": "2026-04-25T23:51:58Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": null,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "instagram_handle": "stand.earth",
-        "instagram_score": 64,
-        "instagram_fun": null,
-        "instagram_why": "Campaign partnering US communities vs data centers; organized opposition"
-      }
-    },
-    {
-      "id": "reddit-45940bf9b9e3b37b",
-      "state": "ME",
-      "city": null,
-      "category": "banned",
-      "headline": "Landmark data center moratorium passes Maine Legislature | Temporary ban on data center construction awaits funding after passing both chambers",
-      "source_domain": "reddit.com",
-      "source_name": "r/politics",
-      "url": "https://reddit.com/r/politics/comments/1shptyk/landmark_data_center_moratorium_passes_maine",
-      "date": "2026-04-10",
-      "platform": "reddit",
-      "engagement_score": 35,
-      "upvotes": 34,
-      "comments": 1,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-04-22 21:33:21",
-      "url_hash": "45940bf9b9e3b37b",
-      "content_hash": "678565048b0cd66e",
-      "source": "reddit",
-      "source_tier": "fast",
-      "sources_seen": [
-        "reddit"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-25T23:52:28Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "reddit_id": "1shptyk",
-        "reddit_subreddit": "politics",
-        "reddit_author": "SpaceElevatorMusic",
-        "reddit_over_18": false,
-        "reddit_link_url": "https://mainemorningstar.com/2026/04/09/landmark-data-center-moratorium-passes-maine-legislature/"
-      }
     }
   ],
   "by_state": {
@@ -36474,16 +36403,16 @@
     },
     "ME": {
       "state": "ME",
-      "count": 36,
-      "total_engagement": 29751,
+      "count": 34,
+      "total_engagement": 857,
       "categories": {
         "protested": 6,
-        "banned": 30
+        "banned": 28
       },
       "platforms": {
         "news": 18,
-        "reddit": 16,
-        "x": 2
+        "reddit": 15,
+        "x": 1
       },
       "latest_date": "2026-06-12"
     },
@@ -36564,17 +36493,16 @@
     },
     "OK": {
       "state": "OK",
-      "count": 5,
-      "total_engagement": 12236,
+      "count": 4,
+      "total_engagement": 313,
       "categories": {
-        "protested": 4,
+        "protested": 3,
         "banned": 1
       },
       "platforms": {
         "news": 2,
         "reddit": 1,
-        "tiktok": 1,
-        "x": 1
+        "tiktok": 1
       },
       "latest_date": "2026-05-30"
     },
