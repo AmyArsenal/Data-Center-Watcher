@@ -1,8 +1,328 @@
 {
-  "generated_at": "2026-07-10T05:06:41Z",
+  "generated_at": "2026-07-10T08:35:40Z",
   "window_days": 90,
-  "count": 903,
+  "count": 911,
   "items": [
+    {
+      "id": "gdelt-9a0003607e633bb6",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "A data center proposed at a quiet corner of East Texas leaves a community bracing for a boom",
+      "source_domain": "lufkindailynews.com",
+      "source_name": "lufkindailynews.com",
+      "url": "https://lufkindailynews.com/news/community/a-data-center-proposed-at-a-quiet-corner-of-east-texas-leaves-a-community-bracing/article_827d3713-c9a7-5ab5-9553-c373dded277e.html",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "9a0003607e633bb6",
+      "content_hash": "5b27482b0d7070a7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-523b19acf243ad63",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Map Shows Huge Surge In Data Center Opposition Groups Across 40 States",
+      "source_domain": "newsweek.com",
+      "source_name": "newsweek.com",
+      "url": "https://newsweek.com/map-shows-huge-surge-in-data-center-opposition-groups-across-40-states-12176693",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "523b19acf243ad63",
+      "content_hash": "951ecd3a72ae9df4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b303aab8f7f97927",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Community Voice : Who really benefits from data centers in Chattanooga ?",
+      "source_domain": "timesfreepress.com",
+      "source_name": "timesfreepress.com",
+      "url": "https://timesfreepress.com/news/2026/jul/09/community-voice-who-really-benefits-from-data",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "b303aab8f7f97927",
+      "content_hash": "085ebe5501178c0a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-339f3a537b4826f6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Chesapeake Planning Commission recommends zoning changes for data centers",
+      "source_domain": "pilotonline.com",
+      "source_name": "pilotonline.com",
+      "url": "https://pilotonline.com/2026/07/09/chesapeake-zoning-changes-for-data-centers",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "339f3a537b4826f6",
+      "content_hash": "eb040f48edebc865",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7936077b153f55ad",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Burgin city council hears first reading of annexation ordinance that could allow data center",
+      "source_domain": "wkyt.com",
+      "source_name": "wkyt.com",
+      "url": "https://wkyt.com/2026/07/10/burgin-city-council-hears-first-reading-annexation-ordinance-that-could-allow-data-center",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "7936077b153f55ad",
+      "content_hash": "8c309d3e271cbab1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-04c644639a1182a5",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Auburn council to weigh SRO deal , police grant and data center moratorium tonight",
+      "source_domain": "fingerlakes1.com",
+      "source_name": "fingerlakes1.com",
+      "url": "https://fingerlakes1.com/2026/07/09/auburn-council-to-weigh-sro-deal-police-grant-and-data-center-moratorium-tonight",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "04c644639a1182a5",
+      "content_hash": "ffb0456ef6191ae7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e0d3e17041c17355",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Salix city council considers data center moratorium",
+      "source_domain": "kscj.com",
+      "source_name": "kscj.com",
+      "url": "https://kscj.com/2026/07/09/salix-city-council-considers-data-center-moratorium",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "e0d3e17041c17355",
+      "content_hash": "c0b04ea4ebec88ae",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-82b937b150bd1d52",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Missoula County commissioners adopt zoning moratorium for AI data centers",
+      "source_domain": "kbzk.com",
+      "source_name": "kbzk.com",
+      "url": "https://kbzk.com/news/missoula-county-commissioners-adopt-zoning-moratorium-for-ai-data-centers",
+      "date": "2026-07-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-10 08:35:39",
+      "url_hash": "82b937b150bd1d52",
+      "content_hash": "eb6fc18cdc074ec5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-10T08:35:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.78,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-601f45e835502c02",
       "state": "US",
@@ -110,7 +430,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -149,7 +469,7 @@
         "rss-dcd"
       ],
       "snippet": "Douglas County commissioners deny EdgeConneX-linked affiliate",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -188,7 +508,7 @@
         "rss-dcd"
       ],
       "snippet": "City council denies Swervo/Irongate DC application to repurpose warehouse",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -227,7 +547,7 @@
         "rss-dcd"
       ],
       "snippet": "The “computing research facility” would have been attached to a larger self-storage facility",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -266,7 +586,7 @@
         "rss-dcd"
       ],
       "snippet": "Site managed by data center operator and investment management firm, Cloud Capital",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -424,7 +744,7 @@
         "rss-rto-insider"
       ],
       "snippet": "FERC's annual software efficiency technical conference looked into the issues surrounding load forecasting, which has become much more uncertain with the advent of large loads. The post FERC Conference Probes Difficulties of Forecasting Data Center Load appeared first on RTO Insider .",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -543,7 +863,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1582,7 +1902,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1660,7 +1980,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1856,7 +2176,7 @@
         "rss-latitude"
       ],
       "snippet": "Two data center developers on powered land, community opposition, and finding energy. The post The new reality for data centers: No easy answers appeared first on Latitude Media .",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2448,7 +2768,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3280,7 +3600,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5586,7 +5906,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -7588,7 +7908,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -9870,7 +10190,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-10T05:06:40Z",
+      "last_seen": "2026-07-10T08:35:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -36033,6 +36353,23 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 25,
+      "total_engagement": 584,
+      "categories": {
+        "protested": 14,
+        "banned": 10,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 21,
+        "legal": 1,
+        "tiktok": 2,
+        "youtube": 1
+      },
+      "latest_date": "2026-07-10"
+    },
     "VA": {
       "state": "VA",
       "count": 12,
@@ -36084,23 +36421,6 @@
       "platforms": {
         "news": 3,
         "reddit": 1
-      },
-      "latest_date": "2026-07-09"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 24,
-      "total_engagement": 584,
-      "categories": {
-        "banned": 10,
-        "protested": 13,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 20,
-        "legal": 1,
-        "tiktok": 2,
-        "youtube": 1
       },
       "latest_date": "2026-07-09"
     },

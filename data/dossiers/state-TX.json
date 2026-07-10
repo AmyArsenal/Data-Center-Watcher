@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-10T05:06:41Z",
+  "generated_at": "2026-07-10T08:35:40Z",
   "risk_score": {
-    "score": 56.0,
-    "tier": 28.5,
+    "score": 56.8,
+    "tier": 28.8,
     "engagement": 6.4,
-    "recency": 15.8,
+    "recency": 16.4,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.0,
+    "score": 43.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,24 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 40,
+  "count": 41,
   "tier_counts": {
-    "restrictive": 24,
+    "restrictive": 25,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 21,
+    "pending": 22,
     "mixed": 3,
     "loss": 3,
     "win": 13
   },
   "scope_counts": {
-    "local": 35,
+    "local": 36,
     "statewide": 5
   },
   "issue_top": {
-    "community_impact": 9,
+    "community_impact": 10,
     "grid_energy": 9,
     "water": 9,
     "farmland": 8,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-09",
+  "latest": "2026-07-10",
   "top_citations": [
+    {
+      "id": "news:gdelt-9a0003607e633bb6-tx",
+      "date": "2026-07-10",
+      "jurisdiction": "lufkindailynews.com",
+      "title": "A data center proposed at a quiet corner of East Texas leaves a community bracing for a boom",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://lufkindailynews.com/news/community/a-data-center-proposed-at-a-quiet-corner-of-east-texas-leaves-a-community-bracing/article_827d3713-c9a7-5ab5-9553-c373dded277e.html"
+    },
     {
       "id": "news:gdelt-c034b0c383beae8f-tx",
       "date": "2026-07-09",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://courtlistener.com/opinion/10876017/durrell-ware-v-the-state-of-texas"
-    },
-    {
-      "id": "news:gdelt-9d5ed76ddfdadadb-tx",
-      "date": "2026-06-05",
-      "jurisdiction": "texastribune.org",
-      "title": "Texas county rescinds data center moratorium after lawsuit",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers"
     }
   ]
 }
