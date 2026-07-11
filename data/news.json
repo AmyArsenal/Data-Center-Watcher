@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-07-11T16:08:10Z",
+  "generated_at": "2026-07-11T17:12:13Z",
   "window_days": 90,
-  "count": 913,
+  "count": 915,
   "items": [
+    {
+      "id": "gdelt-acfa1c514064758e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Clark County approves new zoning rules for data centers",
+      "source_domain": "springfieldnewssun.com",
+      "source_name": "springfieldnewssun.com",
+      "url": "https://springfieldnewssun.com/local/clark-county-approves-new-zoning-rules-for-data-centers/article_941ca03e-6407-53b8-85b4-e86901b4c0b4.html",
+      "date": "2026-07-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-11 17:12:13",
+      "url_hash": "acfa1c514064758e",
+      "content_hash": "f78245281a56caca",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-11T17:12:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e3c3c5949af62607",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Santa Rosa County residents say  no  to data centers | Santa Rosa Press Gazette",
+      "source_domain": "srpressgazette.com",
+      "source_name": "srpressgazette.com",
+      "url": "https://srpressgazette.com/santa-rosa-county-residents-say-no-to-data-centers",
+      "date": "2026-07-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-11 17:12:13",
+      "url_hash": "e3c3c5949af62607",
+      "content_hash": "42419fdeadd26d5f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-11T17:12:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-5a6f9d826bbdc61f",
       "state": "US",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-11T09:54:00Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -470,7 +550,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -549,7 +629,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -982,7 +1062,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2021,7 +2101,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2099,7 +2179,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2887,7 +2967,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3719,7 +3799,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6025,7 +6105,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -8027,7 +8107,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -10309,7 +10389,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-11T16:08:10Z",
+      "last_seen": "2026-07-11T17:12:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
