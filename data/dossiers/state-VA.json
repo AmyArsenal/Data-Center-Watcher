@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-12T12:10:12Z",
+  "generated_at": "2026-07-12T13:51:49Z",
   "risk_score": {
-    "score": 50.0,
-    "tier": 20.5,
-    "engagement": 9.7,
-    "recency": 9.3,
-    "multi_source": 5.5,
+    "score": 50.9,
+    "tier": 21.0,
+    "engagement": 9.6,
+    "recency": 10.0,
+    "multi_source": 5.3,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.0,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.1,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 3,
-    "denials": 16,
+    "denials": 17,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,22 +26,22 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 44,
+  "count": 45,
   "tier_counts": {
-    "restrictive": 13,
+    "restrictive": 14,
     "unclear": 15,
     "protective": 3,
     "null": 11,
     "supportive": 2
   },
   "outcome_counts": {
-    "win": 16,
+    "win": 17,
     "pending": 23,
     "loss": 3,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 20,
+    "local": 21,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-09",
+  "latest": "2026-07-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-83ba1d67bc88ebc4-va",
+      "date": "2026-07-12",
+      "jurisdiction": "wset.com",
+      "title": "Richmond protesters urge Virginia to halt new data center approvals statewide",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wset.com/news/local/richmond-protesters-urge-virginia-to-halt-new-data-center-approvals-statewide-botetourt-county-google-july-2026"
+    },
     {
       "id": "news:rss-dcd-9b5dc45477d5c574-va",
       "date": "2026-07-09",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://zerohedge.com/markets/here-come-cancellations-brookfield-backed-compass-pulls-out-major-northern-virginia-data"
-    },
-    {
-      "id": "news:gdelt-dc188322768caf7a-va",
-      "date": "2026-04-30",
-      "jurisdiction": "arkansasonline.com",
-      "title": "Virginia data center project halted | The Arkansas Democrat - Gazette - Arkansa Best News Source",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://arkansasonline.com/news/2026/apr/30/virginia-data-center-project-halted"
     }
   ]
 }

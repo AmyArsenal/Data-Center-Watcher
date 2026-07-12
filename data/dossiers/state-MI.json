@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-07-12T12:10:12Z",
+  "generated_at": "2026-07-12T13:51:49Z",
   "risk_score": {
-    "score": 52.5,
-    "tier": 33.0,
+    "score": 55.1,
+    "tier": 33.5,
     "engagement": 6.2,
-    "recency": 13.2,
+    "recency": 15.3,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.5,
+    "score": 44.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 0,
-    "denials": 7,
+    "denials": 8,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 2,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
-    "restrictive": 9,
+    "restrictive": 10,
     "null": 3
   },
   "outcome_counts": {
-    "win": 7,
+    "win": 8,
     "pending": 5
   },
   "scope_counts": {
-    "local": 11,
+    "local": 12,
     "statewide": 1
   },
   "issue_top": {
-    "community_impact": 3,
+    "community_impact": 4,
     "grid_energy": 1,
     "water": 1,
     "ratepayer": 1,
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-06-24",
+  "latest": "2026-07-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-6beb4ef7531607a2-mi",
+      "date": "2026-07-12",
+      "jurisdiction": "Lansing",
+      "title": "What Roth Watching : Lansing weighs data center freeze , small community library at risk & El - Sayed & Lawrence get boost from National pro",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wkar.org/election-2026/2026-07-12/what-roths-watching-lansing-weighs-data-center-freeze-small-communitys-library-at-risk-el-sayed-lawrence-get-boost-from-national-progressives"
+    },
     {
       "id": "news:gdelt-8278bb6b046d9c62-mi",
       "date": "2026-06-24",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/Michigan/comments/1svj3or/proposed_michigan_bills_aim_to_regulate_local"
-    },
-    {
-      "id": "research:mi-city-of-lansing-20260401-uk-based-deep-green-withdrew-its-application-for-a",
-      "date": "2026-04-01",
-      "jurisdiction": "City of Lansing",
-      "title": "UK-based Deep Green withdrew its application for a zoning amendment that would have enabled a downtown Lansing data center project, after co",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://planetdetroit.org/2026/04/ypsilanti-township-escalates-data-center-fight/"
     }
   ]
 }
