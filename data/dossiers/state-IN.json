@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-07-12T06:23:45Z",
+  "generated_at": "2026-07-12T08:34:54Z",
   "risk_score": {
-    "score": 51.5,
-    "tier": 27.3,
+    "score": 54.8,
+    "tier": 28.3,
     "engagement": 6.2,
-    "recency": 13.0,
+    "recency": 15.2,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.5,
+    "score": 45.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 0,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 3,
@@ -26,18 +26,18 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 11,
+  "count": 12,
   "tier_counts": {
-    "restrictive": 6,
+    "restrictive": 7,
     "null": 5
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 3,
+    "win": 4,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 2
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-01",
-  "latest": "2026-06-15",
+  "latest": "2026-07-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-69b9afde740dc05a-in",
+      "date": "2026-07-12",
+      "jurisdiction": "wishtv.com",
+      "title": "Indianapolis council president calls for pause on data center developments",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wishtv.com/news/politics/indianapolis-council-president-calls-for-pause-on-data-center-developments"
+    },
     {
       "id": "news:gdelt-a3c8a7e006cce6dc-in",
       "date": "2026-06-15",
@@ -148,15 +157,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.utilitydive.com/news/indiana-iurc-large-load-interconnection-data-center-aep-amazon-google/740452/"
-    },
-    {
-      "id": "research:in-indiana-general-assembly-20260227-house-bill-1210-passed-and-heads-to-gov-mike-brau",
-      "date": "2026-02-27",
-      "jurisdiction": "Indiana General Assembly",
-      "title": "House Bill 1210 passed and heads to Gov. Mike Braun, requiring data center companies to pay 1% of savings from total electricity bill to qua",
-      "tier": null,
-      "outcome": "mixed",
-      "url": "https://www.wfyi.org/news/articles/data-center-legislation-indiana-general-assembly-2026"
     }
   ]
 }

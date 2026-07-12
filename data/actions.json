@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:23:45Z",
-  "count": 1311,
+  "generated_at": "2026-07-12T08:34:54Z",
+  "count": 1313,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,98 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-4642c6162040bf9f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wbrc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Paws Against the Machine : Community backs humane society in fight against AI data center",
+      "sources": [
+        "https://wbrc.com/2026/07/12/paws-against-machine-community-backs-humane-society-fight-against-ai-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-12T08:34:54Z",
+      "first_seen": "2026-07-12T08:34:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-69b9afde740dc05a-in",
+      "origin": "news",
+      "state": "IN",
+      "county": null,
+      "jurisdiction": "wishtv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Indianapolis council president calls for pause on data center developments",
+      "sources": [
+        "https://wishtv.com/news/politics/indianapolis-council-president-calls-for-pause-on-data-center-developments"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-12T08:34:54Z",
+      "first_seen": "2026-07-12T08:34:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-5a6f9d826bbdc61f-us",
       "origin": "news",
@@ -61018,32 +61110,61 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 690,
+      "count": 691,
       "outcome_counts": {
-        "pending": 398,
+        "pending": 399,
         "win": 274,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 672,
+        "restrictive": 673,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 679,
+        "local": 680,
         "statewide": 6,
         "federal": 5
       },
       "issue_top": {
-        "community_impact": 137,
+        "community_impact": 138,
         "zoning": 52,
         "environmental": 15
       },
-      "latest_date": "2026-07-11",
+      "latest_date": "2026-07-12",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "IN": {
+      "state": "IN",
+      "count": 12,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 4,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 10,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "ratepayer": 2,
+        "zoning": 2
+      },
+      "latest_date": "2026-07-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "TX": {
       "state": "TX",
@@ -61793,35 +61914,6 @@
         "air_quality": 1,
         "community_impact": 1,
         "contract_guarantees": 1
-      },
-      "latest_date": "2026-06-15",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "IN": {
-      "state": "IN",
-      "count": 11,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 3,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 6,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 9,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "ratepayer": 2,
-        "zoning": 2
       },
       "latest_date": "2026-06-15",
       "map_color_tier": "restrictive",
