@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T09:57:14Z",
-  "count": 1320,
+  "generated_at": "2026-07-13T12:26:35Z",
+  "count": 1322,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,53 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-257d190afa085f1b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "lewistownsentinel.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Granville receives data center proposal Residents urge supervisors to oppose project | News , Sports , Jobs",
+      "sources": [
+        "https://lewistownsentinel.com/news/local-news/2026/07/granville-receives-data-center-proposal-residents-urge-supervisors-to-oppose-project"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-13T12:26:34Z",
+      "first_seen": "2026-07-13T12:26:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-8202e156a625aa37-us",
       "origin": "news",
@@ -64,6 +111,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-28656b9ea42c5985-id",
+      "origin": "news",
+      "state": "ID",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-13",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "environmental"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "First Nation opposes plan for AI data center in Pocatello, Idaho. Concerns raised over environmental impact and potential for rising energy bills",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/first-nation-opposes-plan-for-ai-data-center-in-pocatello-idaho"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-13T12:26:34Z",
+      "first_seen": "2026-07-13T12:26:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:gdelt-09a7601132df6788-us",
@@ -61429,31 +61523,60 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 696,
+      "count": 697,
       "outcome_counts": {
-        "pending": 400,
+        "pending": 401,
         "win": 278,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 678,
+        "restrictive": 679,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 685,
+        "local": 686,
         "statewide": 6,
         "federal": 5
       },
       "issue_top": {
-        "community_impact": 138,
+        "community_impact": 139,
         "zoning": 52,
         "environmental": 15
       },
       "latest_date": "2026-07-13",
       "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "ID": {
+      "state": "ID",
+      "count": 3,
+      "outcome_counts": {
+        "pending": 1,
+        "win": 1,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 0,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "environmental": 2,
+        "farmland": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-13",
+      "map_color_tier": "supportive",
       "map_color_outcome": "loss"
     },
     "IN": {
@@ -62671,35 +62794,6 @@
       },
       "latest_date": "2026-03-27",
       "map_color_tier": "unclear",
-      "map_color_outcome": "pending"
-    },
-    "ID": {
-      "state": "ID",
-      "count": 2,
-      "outcome_counts": {
-        "pending": 1,
-        "win": 1,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "environmental": 1,
-        "farmland": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-03-26",
-      "map_color_tier": null,
       "map_color_outcome": "pending"
     },
     "SD": {

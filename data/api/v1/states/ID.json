@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ID",
-  "generated_at": "2026-07-13T09:57:14Z",
+  "generated_at": "2026-07-13T12:26:35Z",
   "risk_score": {
-    "score": 22.2,
-    "tier": 12.0,
+    "score": 30.2,
+    "tier": 8.0,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 16.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
@@ -17,7 +17,7 @@
   },
   "quantified": {
     "moratoriums": 0,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 1,
     "lawsuits": 1,
     "blocked": 0,
@@ -26,21 +26,23 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
-    "null": 2
+    "null": 2,
+    "supportive": 1
   },
   "outcome_counts": {
     "win": 1,
-    "pending": 1
+    "pending": 1,
+    "loss": 1
   },
   "scope_counts": {
     "statewide": 1,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
+    "environmental": 2,
     "water": 1,
-    "environmental": 1,
     "zoning": 1,
     "farmland": 1,
     "traffic": 1,
@@ -55,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-03",
-  "latest": "2026-03-26",
+  "latest": "2026-07-13",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-28656b9ea42c5985-id",
+      "date": "2026-07-13",
+      "jurisdiction": "DCD",
+      "title": "First Nation opposes plan for AI data center in Pocatello, Idaho. Concerns raised over environmental impact and potential for rising energy ",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/first-nation-opposes-plan-for-ai-data-center-in-pocatello-idaho"
+    },
     {
       "id": "research:id-idaho-legislature-20260326-house-speaker-mike-moyle-s-hb-895-prohibits-new-da",
       "date": "2026-03-26",
