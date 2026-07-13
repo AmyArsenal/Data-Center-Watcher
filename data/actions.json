@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T12:26:35Z",
-  "count": 1322,
+  "generated_at": "2026-07-13T15:18:26Z",
+  "count": 1325,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -113,6 +113,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-c4d1a0c88172cd03-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "the-dispatch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "What Happening : Anti Duke Energy plant , data center rally set ; Lexington cafe rebuild progresses",
+      "sources": [
+        "https://the-dispatch.com/news/business/whats-happening-anti-duke-energy-plant-data-center-rally-set-lexington-cafe-rebuild-progresses/article_753022f2-65cd-56b0-be04-1d74d124b68a.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-13T15:18:25Z",
+      "first_seen": "2026-07-13T15:18:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:rss-dcd-28656b9ea42c5985-id",
       "origin": "news",
       "state": "ID",
@@ -158,6 +203,96 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dcd-e2a4de0872d0d5f7-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Plans for data center submitted in Mifflin County, Pennsylvania, just two days before local moratorium vote. Developer claims the site will create up to 230 construction jobs",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/plans-for-data-center-submitted-in-mifflin-county-pennsylvania-just-two-days-before-local-moratorium-vote"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-13T15:18:25Z",
+      "first_seen": "2026-07-13T15:18:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-f41816c383efd591-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Rising chip temperatures and the transformation of data center cooling. Navigate the future of AI cooling by matching heat rejection technologies to chip temperatures, climate, and long-term efficiency goals",
+      "sources": [
+        "https://datacenterdynamics.com/en/whitepapers/rising-chip-temperatures-and-the-transformation-of-data-center-cooling"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-13T15:18:25Z",
+      "first_seen": "2026-07-13T15:18:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-09a7601132df6788-us",
@@ -61523,21 +61658,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 697,
+      "count": 699,
       "outcome_counts": {
-        "pending": 401,
+        "pending": 403,
         "win": 278,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 679,
+        "restrictive": 681,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 686,
+        "local": 688,
         "statewide": 6,
         "federal": 5
       },
@@ -61577,6 +61712,35 @@
       },
       "latest_date": "2026-07-13",
       "map_color_tier": "supportive",
+      "map_color_outcome": "loss"
+    },
+    "PA": {
+      "state": "PA",
+      "count": 30,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 10,
+        "loss": 4,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 10,
+        "unclear": 10
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 23,
+        "federal": 1
+      },
+      "issue_top": {
+        "ratepayer": 6,
+        "tax_incentive": 6,
+        "community_impact": 5
+      },
+      "latest_date": "2026-07-13",
+      "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "IN": {
@@ -62186,35 +62350,6 @@
       "latest_date": "2026-06-26",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 29,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 9,
-        "loss": 4,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 10,
-        "unclear": 10
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 23,
-        "federal": 1
-      },
-      "issue_top": {
-        "ratepayer": 6,
-        "tax_incentive": 6,
-        "community_impact": 5
-      },
-      "latest_date": "2026-06-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "FL": {
       "state": "FL",

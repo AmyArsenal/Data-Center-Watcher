@@ -1,8 +1,126 @@
 {
-  "generated_at": "2026-07-13T12:26:35Z",
+  "generated_at": "2026-07-13T15:18:26Z",
   "window_days": 90,
-  "count": 923,
+  "count": 926,
   "items": [
+    {
+      "id": "gdelt-c4d1a0c88172cd03",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "What Happening : Anti Duke Energy plant , data center rally set ; Lexington cafe rebuild progresses",
+      "source_domain": "the-dispatch.com",
+      "source_name": "the-dispatch.com",
+      "url": "https://the-dispatch.com/news/business/whats-happening-anti-duke-energy-plant-data-center-rally-set-lexington-cafe-rebuild-progresses/article_753022f2-65cd-56b0-be04-1d74d124b68a.html",
+      "date": "2026-07-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-13 15:18:25",
+      "url_hash": "c4d1a0c88172cd03",
+      "content_hash": "b10bc6a1eaf19156",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-13T15:18:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-f41816c383efd591",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Rising chip temperatures and the transformation of data center cooling",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/whitepapers/rising-chip-temperatures-and-the-transformation-of-data-center-cooling",
+      "date": "2026-07-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-13 15:18:25",
+      "url_hash": "f41816c383efd591",
+      "content_hash": "d969c9919498960f",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Navigate the future of AI cooling by matching heat rejection technologies to chip temperatures, climate, and long-term efficiency goals",
+      "last_seen": "2026-07-13T15:18:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/whitepapers/rising-chip-temperatures-and-the-transformation-of-data-center-cooling/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-e2a4de0872d0d5f7",
+      "state": "PA",
+      "city": null,
+      "category": "banned",
+      "headline": "Plans for data center submitted in Mifflin County, Pennsylvania, just two days before local moratorium vote",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/plans-for-data-center-submitted-in-mifflin-county-pennsylvania-just-two-days-before-local-moratorium-vote",
+      "date": "2026-07-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-13 15:18:25",
+      "url_hash": "e2a4de0872d0d5f7",
+      "content_hash": "d7a0a49c29d6a5a7",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Developer claims the site will create up to 230 construction jobs",
+      "last_seen": "2026-07-13T15:18:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-submitted-in-mifflin-county-pennsylvania-just-two-days-before-local-moratorium-vote/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-257d190afa085f1b",
       "state": "US",
@@ -70,7 +188,7 @@
         "rss-dcd"
       ],
       "snippet": "Concerns raised over environmental impact and potential for rising energy bills",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -989,7 +1107,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1068,7 +1186,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1501,7 +1619,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -2540,7 +2658,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -2618,7 +2736,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3406,7 +3524,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4238,7 +4356,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6544,7 +6662,7 @@
         "rss-dck"
       ],
       "snippet": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -8546,7 +8664,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -10828,7 +10946,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-13T12:26:34Z",
+      "last_seen": "2026-07-13T15:18:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -36836,6 +36954,20 @@
     }
   ],
   "by_state": {
+    "PA": {
+      "state": "PA",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "announced": 4,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-07-13"
+    },
     "ID": {
       "state": "ID",
       "count": 1,
@@ -37135,19 +37267,6 @@
       },
       "platforms": {
         "news": 8
-      },
-      "latest_date": "2026-06-25"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "announced": 4,
-        "protested": 2
-      },
-      "platforms": {
-        "news": 6
       },
       "latest_date": "2026-06-25"
     },

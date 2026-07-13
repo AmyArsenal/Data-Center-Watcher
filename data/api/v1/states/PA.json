@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-07-13T12:26:36Z",
+  "generated_at": "2026-07-13T15:18:26Z",
   "risk_score": {
-    "score": 38.5,
-    "tier": 9.8,
-    "engagement": 9.7,
-    "recency": 8.5,
-    "multi_source": 5.5,
+    "score": 40.3,
+    "tier": 10.8,
+    "engagement": 9.6,
+    "recency": 9.6,
+    "multi_source": 5.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 61.5,
+    "score": 59.7,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 4,
-    "denials": 9,
+    "denials": 10,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 2,
@@ -26,22 +26,22 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 29,
+  "count": 30,
   "tier_counts": {
     "unclear": 10,
     "supportive": 10,
     "null": 7,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "pending": 16,
-    "win": 9,
+    "win": 10,
     "loss": 4
   },
   "scope_counts": {
     "statewide": 23,
     "federal": 1,
-    "local": 5
+    "local": 6
   },
   "issue_top": {
     "tax_incentive": 6,
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-06-25",
+  "latest": "2026-07-13",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-e2a4de0872d0d5f7-pa",
+      "date": "2026-07-13",
+      "jurisdiction": "DCD",
+      "title": "Plans for data center submitted in Mifflin County, Pennsylvania, just two days before local moratorium vote. Developer claims the site will ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/plans-for-data-center-submitted-in-mifflin-county-pennsylvania-just-two-days-before-local-moratorium-vote"
+    },
     {
       "id": "news:gdelt-52d6c31043994f37-pa",
       "date": "2026-06-25",
@@ -144,15 +153,6 @@
       "date": "2026-04-15",
       "jurisdiction": "Pennsylvania House",
       "title": "PA House passed HB 2150 (124-77, Rep. Kyle Donahue D), requiring data center operators to report energy and water consumption to DEP, with D",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
-    },
-    {
-      "id": "research:pa-pennsylvania-house-20260415-pa-house-passed-hb-2151-133-68-rep-kyle-donahue",
-      "date": "2026-04-15",
-      "jurisdiction": "Pennsylvania House",
-      "title": "PA House passed HB 2151 (133-68, Rep. Kyle Donahue D), directing DCED to produce model zoning ordinance for municipalities regulating data c",
       "tier": null,
       "outcome": "win",
       "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
