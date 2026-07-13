@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-07-12T23:13:04Z",
+  "generated_at": "2026-07-13T00:09:17Z",
   "risk_score": {
-    "score": 62.9,
+    "score": 62.6,
     "tier": 28.7,
     "engagement": 7.4,
-    "recency": 20.0,
+    "recency": 19.6,
     "multi_source": 1.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 37.1,
+    "score": 37.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
