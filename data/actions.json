@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T21:10:50Z",
-  "count": 1330,
+  "generated_at": "2026-07-13T22:06:20Z",
+  "count": 1331,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -107,6 +107,51 @@
       "data_source": "news",
       "last_updated": "2026-07-13T21:10:50Z",
       "first_seen": "2026-07-13T21:10:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-64008c10dda7d3b0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "whoradio.iheart.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ames City Council Considers Limits On Data Centers",
+      "sources": [
+        "https://whoradio.iheart.com/content/2026-07-13-ames-city-council-considers-limits-on-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-13T22:06:19Z",
+      "first_seen": "2026-07-13T22:06:20Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -61883,21 +61928,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 703,
+      "count": 704,
       "outcome_counts": {
-        "pending": 404,
+        "pending": 405,
         "win": 281,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 685,
+        "restrictive": 686,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 692,
+        "local": 693,
         "statewide": 6,
         "federal": 5
       },
