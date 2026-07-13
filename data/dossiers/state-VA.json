@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-13T20:04:49Z",
+  "generated_at": "2026-07-13T21:10:51Z",
   "risk_score": {
-    "score": 50.9,
-    "tier": 21.0,
-    "engagement": 9.6,
-    "recency": 10.0,
-    "multi_source": 5.3,
+    "score": 51.8,
+    "tier": 21.4,
+    "engagement": 9.5,
+    "recency": 10.7,
+    "multi_source": 5.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.1,
+    "score": 48.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 45,
+  "count": 46,
   "tier_counts": {
-    "restrictive": 14,
+    "restrictive": 15,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 17,
-    "pending": 23,
+    "pending": 24,
     "loss": 3,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 21,
+    "local": 22,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-12",
+  "latest": "2026-07-13",
   "top_citations": [
+    {
+      "id": "news:gdelt-58ce33869291aaf4-va",
+      "date": "2026-07-13",
+      "jurisdiction": "henricocitizen.com",
+      "title": "Henricoans among nearly 200 at Capitol Bell Tower rally demanding Virginia leaders rein in data center growth",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://henricocitizen.com/henricoans-among-nearly-200-at-capitol-bell-tower-rally-demanding-virginia-leaders-rein-in-data-center-growth"
+    },
     {
       "id": "news:gdelt-83ba1d67bc88ebc4-va",
       "date": "2026-07-12",
@@ -152,15 +161,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/developer-withdraws-plan-for-160-acre-data-center-in-prince-william-county-virginia"
-    },
-    {
-      "id": "news:gdelt-4e999ee3137c02c0-va",
-      "date": "2026-05-01",
-      "jurisdiction": "zerohedge.com",
-      "title": "Here Come The Cancellations : Brookfield - Backed Compass Pulls Out From Major Northern Virginia Data Center Project",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://zerohedge.com/markets/here-come-cancellations-brookfield-backed-compass-pulls-out-major-northern-virginia-data"
     }
   ]
 }
