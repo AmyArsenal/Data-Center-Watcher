@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-14T11:05:09Z",
+  "generated_at": "2026-07-14T12:21:27Z",
   "risk_score": {
-    "score": 56.0,
-    "tier": 33.0,
-    "engagement": 6.8,
-    "recency": 15.4,
+    "score": 58.4,
+    "tier": 33.5,
+    "engagement": 6.7,
+    "recency": 17.3,
     "multi_source": 0.8,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.0,
+    "score": 41.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 8,
+    "moratoriums": 9,
     "approvals": 0,
-    "denials": 7,
+    "denials": 8,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
     "null": 3,
-    "restrictive": 9
+    "restrictive": 10
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 7
+    "win": 8
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "grid_energy": 6,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-06-26",
+  "latest": "2026-07-14",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-b9975195aa6ffcce-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "DCD",
+      "title": "New York becomes first US state to impose data center moratorium. Imposes a one-year moratorium on data centers with a capacity of 50MW or m",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/new-york-becomes-first-us-state-to-enact-data-ce"
+    },
     {
       "id": "news:rss-dcd-266c89cf07b16676-ny",
       "date": "2026-06-26",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://utilitydive.com/spons/data-centers-onsite-generation-strategy-could-be-the-key-to-navigating-com/820075"
-    },
-    {
-      "id": "research:ny-holtec-nyiso-20260307-holtec-proposed-making-indian-point-campus-buchan",
-      "date": "2026-03-07",
-      "jurisdiction": "Holtec / NYISO",
-      "title": "Holtec proposed making Indian Point campus (Buchanan, Westchester) anchor for HI-CLOUD, 1M-sq-ft 200 MW data center, submitting NYISO reques",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.theexaminernews.com/holtecs-indian-point-proposal-draws-community-scrutiny/"
     }
   ]
 }

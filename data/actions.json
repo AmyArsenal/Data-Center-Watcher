@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T11:05:08Z",
-  "count": 1342,
+  "generated_at": "2026-07-14T12:21:27Z",
+  "count": 1346,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -518,6 +518,188 @@
       "data_source": "news",
       "last_updated": "2026-07-14T11:05:08Z",
       "first_seen": "2026-07-14T11:05:08Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-5b119b19c0c31b5c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Former bank data center to make way for warehouse in Leicestershire, UK. RBS/Natwest facility demolished, council to decide site’s fate this week",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/former-bank-data-center-to-make-way-for-warehouse-in-leicestershire-uk"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-14T12:21:26Z",
+      "first_seen": "2026-07-14T12:21:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-675002d279747774-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Former Lloyds data center in UK set to be used to manufacture prefabricated houses. Bank exited the legacy site last year",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/former-lloyds-data-center-in-uk-set-to-be-used-to-manufacture-prefabricated-houses"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-14T12:21:26Z",
+      "first_seen": "2026-07-14T12:21:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-9bd12a9ed802094b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hitachi Energy to deliver 110kV grid connection for Kauri CAB data center in Frankfurt, Germany. Grid connection designed specifically for an urban environment",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/hitachi-energy-to-deliver-110kv-grid-connection-for-kauri-cab-data-center-in-frankfurt-germany"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-14T12:21:26Z",
+      "first_seen": "2026-07-14T12:21:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-b9975195aa6ffcce-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-14",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New York becomes first US state to impose data center moratorium. Imposes a one-year moratorium on data centers with a capacity of 50MW or more",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/new-york-becomes-first-us-state-to-enact-data-ce"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-14T12:21:26Z",
+      "first_seen": "2026-07-14T12:21:27Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -62431,28 +62613,28 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 714,
+      "count": 717,
       "outcome_counts": {
-        "pending": 411,
+        "pending": 414,
         "win": 285,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 696,
+        "restrictive": 699,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 703,
+        "local": 706,
         "statewide": 6,
         "federal": 5
       },
       "issue_top": {
         "community_impact": 142,
         "zoning": 52,
-        "environmental": 15
+        "grid_energy": 16
       },
       "latest_date": "2026-07-14",
       "map_color_tier": "restrictive",
@@ -62482,6 +62664,35 @@
         "community_impact": 5,
         "ratepayer": 2,
         "zoning": 2
+      },
+      "latest_date": "2026-07-14",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "NY": {
+      "state": "NY",
+      "count": 13,
+      "outcome_counts": {
+        "pending": 5,
+        "win": 8,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 10,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 6,
+        "environmental": 3,
+        "community_impact": 2
       },
       "latest_date": "2026-07-14",
       "map_color_tier": "restrictive",
@@ -63094,35 +63305,6 @@
       "latest_date": "2026-06-26",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 12,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 7,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 9,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 7,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 6,
-        "environmental": 3,
-        "community_impact": 2
-      },
-      "latest_date": "2026-06-26",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "FL": {
       "state": "FL",
