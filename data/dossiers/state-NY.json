@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-14T15:53:01Z",
+  "generated_at": "2026-07-14T16:58:22Z",
   "risk_score": {
-    "score": 63.0,
-    "tier": 36.0,
+    "score": 63.2,
+    "tier": 36.2,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.5,
@@ -12,11 +12,11 @@
   },
   "grade": {
     "letter": "D",
-    "score": 37.0,
+    "score": 36.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 16,
+    "moratoriums": 17,
     "approvals": 0,
     "denials": 15,
     "lawsuits": 0,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
     "null": 3,
-    "restrictive": 18
+    "restrictive": 19
   },
   "outcome_counts": {
-    "pending": 6,
+    "pending": 7,
     "win": 15
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 16
+    "local": 17
   },
   "issue_top": {
     "grid_energy": 6,
@@ -141,13 +141,13 @@
       "url": "https://kfgo.com/2026/07/14/new-york-becomes-the-first-state-to-impose-a-data-center-moratorium"
     },
     {
-      "id": "news:rss-dcd-266c89cf07b16676-ny",
-      "date": "2026-06-26",
-      "jurisdiction": "DCD",
-      "title": "Three-year data center moratorium passed in town of East Fishkill, New York State, blocking planned campus. Effectively blocks 1 million sq ",
+      "id": "news:rss-arstechnica-1ce55dc5e2a4e771-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "Ars Technica - All content",
+      "title": "New York bans data center construction for a year, rattling AI industry. New York’s data center moratorium may become the blueprint for anti",
       "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/three-year-data-center-moratorium-passed-in-town-of-east-fishkill-new-york-state-blocking-planned-campus"
+      "outcome": "pending",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium"
     }
   ]
 }
