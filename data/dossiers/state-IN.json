@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-07-14T09:28:42Z",
+  "generated_at": "2026-07-14T11:05:09Z",
   "risk_score": {
-    "score": 54.8,
-    "tier": 28.3,
+    "score": 57.6,
+    "tier": 29.2,
     "engagement": 6.2,
-    "recency": 15.2,
+    "recency": 17.1,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 45.2,
+    "score": 42.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 0,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 3,
@@ -26,18 +26,18 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "null": 5
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 4,
+    "win": 5,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 10,
+    "local": 11,
     "statewide": 2
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-01",
-  "latest": "2026-07-12",
+  "latest": "2026-07-14",
   "top_citations": [
+    {
+      "id": "news:gdelt-019fdad675b23824-in",
+      "date": "2026-07-14",
+      "jurisdiction": "wfyi.org",
+      "title": "Data center moratorium advances for Indianapolis",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wfyi.org/wfyi-news/2026-07-13/data-center-moratorium-advances-for-indianapolis"
+    },
     {
       "id": "news:gdelt-69b9afde740dc05a-in",
       "date": "2026-07-12",
@@ -148,15 +157,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
-    },
-    {
-      "id": "research:in-iurc-20260302-iurc-approved-indiana-michigan-power-large-load-ta",
-      "date": "2026-03-02",
-      "jurisdiction": "IURC",
-      "title": "IURC approved Indiana Michigan Power large-load tariff settlement, applying to new or expanded facilities of >=70 MW (or >=150 MW aggregated",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.utilitydive.com/news/indiana-iurc-large-load-interconnection-data-center-aep-amazon-google/740452/"
     }
   ]
 }
