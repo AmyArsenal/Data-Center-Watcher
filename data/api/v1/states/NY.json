@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-14T14:19:41Z",
+  "generated_at": "2026-07-14T15:53:01Z",
   "risk_score": {
-    "score": 58.4,
-    "tier": 33.5,
-    "engagement": 6.7,
-    "recency": 17.3,
-    "multi_source": 0.8,
+    "score": 63.0,
+    "tier": 36.0,
+    "engagement": 6.5,
+    "recency": 20.0,
+    "multi_source": 0.5,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.6,
+    "score": 37.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 9,
+    "moratoriums": 16,
     "approvals": 0,
-    "denials": 8,
+    "denials": 15,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 13,
+  "count": 21,
   "tier_counts": {
     "null": 3,
-    "restrictive": 10
+    "restrictive": 18
   },
   "outcome_counts": {
-    "pending": 5,
-    "win": 8
+    "pending": 6,
+    "win": 15
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 8
+    "local": 16
   },
   "issue_top": {
     "grid_energy": 6,
@@ -69,6 +69,78 @@
       "url": "https://datacenterdynamics.com/en/news/new-york-becomes-first-us-state-to-enact-data-ce"
     },
     {
+      "id": "news:gdelt-9befbe4c4ab2c2ca-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "nbcnews.com",
+      "title": "New York to impose the country first statewide moratorium on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://nbcnews.com/news/us-news/new-york-impose-countrys-first-statewide-moratorium-data-centers-rcna587429"
+    },
+    {
+      "id": "news:gdelt-b1040ef6c86cc2a7-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "sun-sentinel.com",
+      "title": "New York to impose U first statewide moratorium on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://sun-sentinel.com/2026/07/14/new-york-data-center-moratorium"
+    },
+    {
+      "id": "news:gdelt-d238f8f54691158b-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "oneidadispatch.com",
+      "title": "New York to impose the country first statewide moratorium on data centers – Oneida Dispatch",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://oneidadispatch.com/2026/07/14/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers"
+    },
+    {
+      "id": "news:gdelt-9ee21079d27d2807-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "tomshardware.com",
+      "title": "New York enacts one - year data center ban on projects larger than 50 megawatts first US state to implement moratorium ; will also pursue re",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions"
+    },
+    {
+      "id": "news:gdelt-1716a5ae4194de84-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "gothamist.com",
+      "title": "New York to enact nation first statewide data center moratorium after Hochul order",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://gothamist.com/news/hochul-puts-hold-on-large-data-centers-in-new-york"
+    },
+    {
+      "id": "news:gdelt-3ed919711238b03d-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "forbes.com",
+      "title": "New York Bans New Data Centers Being Built For A Year",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://forbes.com/sites/siladityaray/2026/07/14/new-york-halts-large-data-centers-being-built-for-a-year"
+    },
+    {
+      "id": "news:gdelt-6dc909a92f08ceac-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "theverge.com",
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://theverge.com/policy/965110/new-york-ai-data-center-moratorium"
+    },
+    {
+      "id": "news:gdelt-2dea25a42deb8bc1-ny",
+      "date": "2026-07-14",
+      "jurisdiction": "kfgo.com",
+      "title": "New York becomes the first state to impose a data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kfgo.com/2026/07/14/new-york-becomes-the-first-state-to-impose-a-data-center-moratorium"
+    },
+    {
       "id": "news:rss-dcd-266c89cf07b16676-ny",
       "date": "2026-06-26",
       "jurisdiction": "DCD",
@@ -76,78 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/three-year-data-center-moratorium-passed-in-town-of-east-fishkill-new-york-state-blocking-planned-campus"
-    },
-    {
-      "id": "news:rss-dcd-1c2ac3022cb7d034-ny",
-      "date": "2026-06-18",
-      "jurisdiction": "DCD",
-      "title": "City's data center moratorium in New York impacts Digi Power X’s hopes to convert cryptomine to AI data center. North Tonawanda extends exis",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/citys-data-center-moratorium-in-new-york-impacts-digi-power-xs-hopes-to-convert-cryptomine-to-ai-data-center"
-    },
-    {
-      "id": "news:rss-dck-a34734cb7dc115de-ny",
-      "date": "2026-06-10",
-      "jurisdiction": "datacenterknowledge",
-      "title": "New York Confronts the Data Center Boom: Balancing Growth and Grid Reform. A potential legislative moratorium and landmark PSC proceeding ch",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterknowledge.com/regulations/new-york-confronts-the-data-center-boom-balancing-growth-and-grid-reform"
-    },
-    {
-      "id": "news:rss-dcd-57c02ca8d81ce25b-ny",
-      "date": "2026-06-08",
-      "jurisdiction": "DCD",
-      "title": "New York state legislature passes data center moratorium, awaits governor Hochul's approval. Would make New York the first in the US to impo",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/new-york-state-legislature-passes-data-center-moratorium-awaits-governor-hochuls-approval"
-    },
-    {
-      "id": "news:gdelt-d06bc2c8f5393e8d-ny",
-      "date": "2026-06-08",
-      "jurisdiction": "wcax.com",
-      "title": "New York State Legislature passes bill to put a one - year moratorium on data centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wcax.com/2026/06/05/new-york-state-legislature-passes-bill-put-one-year-moratorium-data-centers"
-    },
-    {
-      "id": "news:gdelt-35e2d6d500bf36e3-ny",
-      "date": "2026-06-08",
-      "jurisdiction": "bigfrog104.com",
-      "title": "New York Votes For Nation - First Pause On AI Data Centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://bigfrog104.com/ixp/854/p/ai-data-center-pause-new-york"
-    },
-    {
-      "id": "news:rss-rto-insider-a34a9f2b18480c54-ny",
-      "date": "2026-06-05",
-      "jurisdiction": "RTO Insider",
-      "title": "N.Y. Sets Stage for Nation’s First Statewide Data Center Moratorium. The New York Assembly and Senate approved a one-year pause on new envir",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://rtoinsider.com/133811-ny-legislature-sets-stage-nations-first-data-center-moratorium"
-    },
-    {
-      "id": "news:gdelt-8e4b155df3ba5b1a-ny",
-      "date": "2026-05-26",
-      "jurisdiction": "business2community.com",
-      "title": "Nearly 500 New York Small Businesses Back Moratorium Push on AI Data Centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://business2community.com/small-business/ny-small-businesses-ai-data-center-moratorium"
-    },
-    {
-      "id": "news:rss-utilitydive-1cc75557939d3d53-ny",
-      "date": "2026-05-18",
-      "jurisdiction": "Utility Dive - Latest News",
-      "title": "Data center’s onsite generation strategy could be the key to navigating community opposition. Community resistance to data centers is intens",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://utilitydive.com/spons/data-centers-onsite-generation-strategy-could-be-the-key-to-navigating-com/820075"
     }
   ]
 }
