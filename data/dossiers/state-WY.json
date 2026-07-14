@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WY",
-  "generated_at": "2026-07-13T23:09:19Z",
+  "generated_at": "2026-07-14T00:03:27Z",
   "risk_score": {
-    "score": 44.7,
+    "score": 43.2,
     "tier": 26.0,
     "engagement": 7.3,
-    "recency": 9.8,
+    "recency": 8.2,
     "multi_source": 1.7,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 55.3,
+    "score": 56.8,
     "label": "Significant activity in both directions"
   },
   "quantified": {
