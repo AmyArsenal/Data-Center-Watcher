@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-15T14:25:27Z",
+  "generated_at": "2026-07-15T15:56:44Z",
   "states": [
     {
       "state": "AK",
@@ -368,16 +368,16 @@
     },
     {
       "state": "NC",
-      "count": 9,
-      "risk_score": 57.0,
+      "count": 10,
+      "risk_score": 60.0,
       "grade": "D",
-      "grade_score": 43.0,
-      "moratoriums": 4,
+      "grade_score": 40.0,
+      "moratoriums": 5,
       "approvals": 0,
-      "denials": 4,
+      "denials": 5,
       "lawsuits": 1,
       "active_companies": 2,
-      "latest": "2026-07-06",
+      "latest": "2026-07-15",
       "url": "data/dossiers/state-NC.json"
     },
     {
