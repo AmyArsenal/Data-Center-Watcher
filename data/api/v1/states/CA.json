@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-07-15T07:45:11Z",
+  "generated_at": "2026-07-15T11:14:28Z",
   "risk_score": {
-    "score": 47.9,
-    "tier": 19.6,
-    "engagement": 9.4,
-    "recency": 8.9,
-    "multi_source": 5.0,
+    "score": 48.1,
+    "tier": 18.7,
+    "engagement": 9.2,
+    "recency": 10.4,
+    "multi_source": 4.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 52.1,
+    "score": 51.9,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
-    "approvals": 1,
+    "approvals": 2,
     "denials": 7,
     "lawsuits": 0,
     "blocked": 0,
@@ -26,22 +26,23 @@
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 20,
+  "count": 21,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
-    "restrictive": 5
+    "restrictive": 5,
+    "supportive": 1
   },
   "outcome_counts": {
     "pending": 11,
     "win": 7,
     "mixed": 1,
-    "loss": 1
+    "loss": 2
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 9
+    "local": 10
   },
   "issue_top": {
     "community_impact": 6,
@@ -69,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-07-08",
+  "latest": "2026-07-15",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-17fe2e871d04438f-ca",
+      "date": "2026-07-15",
+      "jurisdiction": "DCD",
+      "title": "Developer withdraws plan to replace hotel with data center in El Segundo, California. Eight Form backs out of project following public comme",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/developer-withdraws-plan-to-replace-hotel-with-data-center-in-el-segundo-california"
+    },
     {
       "id": "news:rss-rto-insider-ddb62fe3c576fd74-ca",
       "date": "2026-07-08",
@@ -151,15 +161,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.bloodinthemachine.com/p/monterey-park-becomes-the-first-city"
-    },
-    {
-      "id": "openstates:ocd-bill-9d2f7c2f-66d9-4b59-a5c8-5fb0f11342b9-ca",
-      "date": "2026-02-20",
-      "jurisdiction": "CA Legislature",
-      "title": "Water resources: data centers.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
     }
   ]
 }

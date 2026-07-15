@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-15T07:45:11Z",
+  "generated_at": "2026-07-15T11:14:28Z",
   "risk_score": {
-    "score": 63.4,
-    "tier": 36.5,
+    "score": 63.6,
+    "tier": 36.8,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.4,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 36.6,
+    "score": 36.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 19,
+    "moratoriums": 20,
     "approvals": 0,
-    "denials": 17,
+    "denials": 19,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 24,
+  "count": 26,
   "tier_counts": {
     "null": 3,
-    "restrictive": 21
+    "restrictive": 23
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 17
+    "win": 19
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 18
+    "local": 20
   },
   "issue_top": {
     "grid_energy": 7,
@@ -57,8 +57,26 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-07-14",
+  "latest": "2026-07-15",
   "top_citations": [
+    {
+      "id": "news:gdelt-afa8339292f69779-ny",
+      "date": "2026-07-15",
+      "jurisdiction": "itechpost.com",
+      "title": "New York Becomes First State to Enact AI Data Center Moratorium Under Kathy Hochul",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://itechpost.com/articles/236694/20260715/new-york-becomes-first-state-enact-ai-data-center-moratorium-under-kathy-hochul.htm"
+    },
+    {
+      "id": "news:gdelt-948048a614c8810c-ny",
+      "date": "2026-07-15",
+      "jurisdiction": "nbcnewyork.com",
+      "title": "New York puts a one - year pause on new hyperscale data centers – NBC New York",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://nbcnewyork.com/new-york/new-york-data-centers-year-energy-climate-risks/6525237"
+    },
     {
       "id": "news:rss-dcd-b9975195aa6ffcce-ny",
       "date": "2026-07-14",
@@ -130,24 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://theverge.com/policy/965110/new-york-ai-data-center-moratorium"
-    },
-    {
-      "id": "news:gdelt-2dea25a42deb8bc1-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "kfgo.com",
-      "title": "New York becomes the first state to impose a data center moratorium",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://kfgo.com/2026/07/14/new-york-becomes-the-first-state-to-impose-a-data-center-moratorium"
-    },
-    {
-      "id": "news:rss-arstechnica-1ce55dc5e2a4e771-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "Ars Technica - All content",
-      "title": "New York bans data center construction for a year, rattling AI industry. New York’s data center moratorium may become the blueprint for anti",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium"
     }
   ]
 }
