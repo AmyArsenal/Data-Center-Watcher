@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T12:42:08Z",
-  "count": 1376,
+  "generated_at": "2026-07-15T14:25:27Z",
+  "count": 1377,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -704,6 +704,53 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dcd-9880f85225d4ff64-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "zoning_restriction"
+      ],
+      "authority_level": null,
+      "date": "2026-07-15",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Approval for rezoning given to pair of proposed Equinix data centers in Cape Town, South Africa. But proposal faces mounting opposition",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/approval-for-rezoning-given-to-pair-of-proposed-equinix-data-centers-in-cape-town-south-africa"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-15T14:25:26Z",
+      "first_seen": "2026-07-15T14:25:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-019fdad675b23824-in",
@@ -64009,27 +64056,27 @@
     },
     "US": {
       "state": "US",
-      "count": 733,
+      "count": 734,
       "outcome_counts": {
-        "pending": 422,
+        "pending": 423,
         "win": 293,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 715,
+        "restrictive": 716,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 722,
+        "local": 723,
         "statewide": 6,
         "federal": 5
       },
       "issue_top": {
         "community_impact": 145,
-        "zoning": 54,
+        "zoning": 55,
         "grid_energy": 16
       },
       "latest_date": "2026-07-15",
