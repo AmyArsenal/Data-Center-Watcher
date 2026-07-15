@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T17:05:09Z",
-  "count": 1378,
+  "generated_at": "2026-07-15T18:18:36Z",
+  "count": 1379,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -521,6 +521,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d36e6a267aea13b9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "duluthnewstribune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-15",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Comedians lend support to Hermantown data center opposition",
+      "sources": [
+        "https://duluthnewstribune.com/news/local/comedians-lend-support-to-hermantown-data-center-opposition"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-15T18:18:35Z",
+      "first_seen": "2026-07-15T18:18:36Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-da4deea5fdca76b8-us",
@@ -64102,21 +64147,21 @@
     },
     "US": {
       "state": "US",
-      "count": 734,
+      "count": 735,
       "outcome_counts": {
-        "pending": 423,
+        "pending": 424,
         "win": 293,
         "loss": 18,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 716,
+        "restrictive": 717,
         "protective": 0,
         "supportive": 18,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 723,
+        "local": 724,
         "statewide": 6,
         "federal": 5
       },
