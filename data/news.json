@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-14T23:23:36Z",
+  "generated_at": "2026-07-15T00:10:56Z",
   "window_days": 90,
-  "count": 960,
+  "count": 957,
   "items": [
+    {
+      "id": "rss-rto-insider-cfad153d81338fa1",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "N.Y. Imposes Nation’s First Statewide Data Center Moratorium",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/136593-ny-imposes-first-statewide-data-center-moratorium",
+      "date": "2026-07-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-15 00:10:55",
+      "url_hash": "cfad153d81338fa1",
+      "content_hash": "bd7ad4bc0b77d547",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "New York governor's executive order halts approvals of facilities that would demand 50 MW or more. The post N.Y. Imposes Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider .",
+      "last_seen": "2026-07-15T00:10:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=136593",
+        "rss_author": "John Cropley",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dck-1f8e270ea8fe09b1",
       "state": "NY",
@@ -30,7 +69,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -69,7 +108,7 @@
         "rss-arstechnica"
       ],
       "snippet": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -548,7 +587,7 @@
         "rss-latitude"
       ],
       "snippet": "The Judgment Fund paid $2.7 billion to cancel those leases. The same tool could unwind the PORTS Technology Campus's lease next. The post How Trump&#8217;s attacks on offshore wind could put data centers at risk appeared first on Latitude Media .",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2502,7 +2541,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2581,7 +2620,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3014,7 +3053,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4053,7 +4092,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -4131,7 +4170,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4919,7 +4958,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5751,7 +5790,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10059,7 +10098,7 @@
         "rss-canary"
       ],
       "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -12341,7 +12380,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-14T23:23:36Z",
+      "last_seen": "2026-07-15T00:10:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38144,182 +38183,19 @@
         "rss_author": "Drew Robb",
         "rss_needs_dc_filter": false
       }
-    },
-    {
-      "id": "instagram-08a5a32157708c49",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "What’s with all the beef against data centers? Across the US, cities and towns are standing up against the construction of these data center",
-      "source_domain": "instagram.com",
-      "source_name": "@404mediaco",
-      "url": "https://instagram.com/reel/DXJ10TzsB3O",
-      "date": "2026-04-15",
-      "platform": "instagram",
-      "engagement_score": 310,
-      "upvotes": null,
-      "comments": 24,
-      "views": 13628,
-      "likes": 675,
-      "sentiment": null,
-      "companies": [
-        "Meta",
-        "Google"
-      ],
-      "first_seen": "2026-04-23 19:17:19",
-      "url_hash": "08a5a32157708c49",
-      "content_hash": "aa3babf4e75e027a",
-      "source": "instagram",
-      "source_tier": "deep",
-      "sources_seen": [
-        "instagram"
-      ],
-      "snippet": "You have Meta rolling out, data centers, various other companies as well. Do you think they factored in that, oh, holy shit, people might really not want this stuff in their backyard. And not only that, they might actually be effective at maybe pushing out leaders who are approving it. I think there's something else going on here. Like when Meta or Google...",
-      "last_seen": "2026-04-23T19:34:05Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": null,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "instagram_handle": "404mediaco",
-        "instagram_score": 64,
-        "instagram_fun": null,
-        "instagram_why": "Overview of US cities standing up against data centers; relevant but general"
-      }
-    },
-    {
-      "id": "instagram-63f0bb369d553b11",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "About one-third of U.S. residents think data centers will harm their community. Here is what voters are doing about it across the country. C",
-      "source_domain": "instagram.com",
-      "source_name": "@kare11",
-      "url": "https://instagram.com/reel/DXKM9H6jUy8",
-      "date": "2026-04-15",
-      "platform": "instagram",
-      "engagement_score": 277,
-      "upvotes": null,
-      "comments": 16,
-      "views": 4988,
-      "likes": 83,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-04-23 19:17:19",
-      "url_hash": "63f0bb369d553b11",
-      "content_hash": "b946e3096ffa1f4c",
-      "source": "instagram",
-      "source_tier": "deep",
-      "sources_seen": [
-        "instagram"
-      ],
-      "snippet": "About one-third of U.S. residents think data centers will harm their community. Here is what voters are doing about it across the country. Click Watch Live at the link in our bio for the latest live news and updates.",
-      "last_seen": "2026-04-23T19:34:05Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": null,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "instagram_handle": "kare11",
-        "instagram_score": 65,
-        "instagram_fun": null,
-        "instagram_why": "Voters acting on data center community harm concerns"
-      }
-    },
-    {
-      "id": "reddit-93f9356eda3c3faf",
-      "state": "ME",
-      "city": null,
-      "category": "banned",
-      "headline": "Maine Lawmakers Pass First-in-Nation Data Center Moratorium",
-      "source_domain": "reddit.com",
-      "source_name": "r/politics",
-      "url": "https://reddit.com/r/politics/comments/1smbrx9/maine_lawmakers_pass_firstinnation_data_center",
-      "date": "2026-04-15",
-      "platform": "reddit",
-      "engagement_score": 113,
-      "upvotes": 106,
-      "comments": 7,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-04-22 21:33:21",
-      "url_hash": "93f9356eda3c3faf",
-      "content_hash": "706a9dc60433bbd3",
-      "source": "reddit",
-      "source_tier": "fast",
-      "sources_seen": [
-        "reddit"
-      ],
-      "snippet": null,
-      "last_seen": "2026-04-25T23:52:28Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "reddit_id": "1smbrx9",
-        "reddit_subreddit": "politics",
-        "reddit_author": "bloomberglaw",
-        "reddit_over_18": false,
-        "reddit_link_url": "https://news.bloomberglaw.com/environment-and-energy/maine-lawmakers-pass-first-in-nation-data-center-moratorium"
-      }
-    },
-    {
-      "id": "rss-dck-434e9e7618221e82",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Why Data Centers Are Turning to Behind-the-Meter Power",
-      "source_domain": "datacenterknowledge.com",
-      "source_name": "datacenterknowledge",
-      "url": "https://datacenterknowledge.com/energy-power-supply/why-data-centers-produce-their-own-power",
-      "date": "2026-04-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-04-22 21:33:21",
-      "url_hash": "434e9e7618221e82",
-      "content_hash": "196606dec4ff8d53",
-      "source": "rss-dck",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dck"
-      ],
-      "snippet": "Grid queues, community pressures, and AI demand push operators toward behind-the-meter generation, microgrids, and flexible power.",
-      "last_seen": "2026-05-05T12:56:48Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterknowledge.com/energy-power-supply/why-data-centers-produce-their-own-power",
-        "rss_author": "Jack Vaughan",
-        "rss_needs_dc_filter": false
-      }
     }
   ],
   "by_state": {
     "NY": {
       "state": "NY",
-      "count": 20,
+      "count": 21,
       "total_engagement": 0,
       "categories": {
-        "banned": 16,
+        "banned": 17,
         "protested": 4
       },
       "platforms": {
-        "news": 20
+        "news": 21
       },
       "latest_date": "2026-07-14"
     },
@@ -38692,15 +38568,15 @@
     },
     "ME": {
       "state": "ME",
-      "count": 34,
-      "total_engagement": 857,
+      "count": 33,
+      "total_engagement": 744,
       "categories": {
         "protested": 6,
-        "banned": 28
+        "banned": 27
       },
       "platforms": {
         "news": 18,
-        "reddit": 15,
+        "reddit": 14,
         "x": 1
       },
       "latest_date": "2026-06-12"

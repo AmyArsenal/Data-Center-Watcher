@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T23:23:37Z",
-  "count": 1360,
+  "generated_at": "2026-07-15T00:10:56Z",
+  "count": 1361,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -1340,6 +1340,52 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-cfad153d81338fa1-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium",
+        "executive_order"
+      ],
+      "authority_level": "governor",
+      "date": "2026-07-14",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "N.Y. Imposes Nation’s First Statewide Data Center Moratorium. New York governor's executive order halts approvals of facilities that would demand 50 MW or more. The post N.Y. Imposes Nation’s First Statewide Data Center Moratorium appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/136593-ny-imposes-first-statewide-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-15T00:10:55Z",
+      "first_seen": "2026-07-15T00:10:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-257d190afa085f1b-us",
@@ -63307,22 +63353,22 @@
     },
     "NY": {
       "state": "NY",
-      "count": 23,
+      "count": 24,
       "outcome_counts": {
         "pending": 7,
-        "win": 16,
+        "win": 17,
         "loss": 0,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 20,
+        "restrictive": 21,
         "protective": 0,
         "supportive": 0,
         "unclear": 0
       },
       "scope_counts": {
         "local": 18,
-        "statewide": 5,
+        "statewide": 6,
         "federal": 0
       },
       "issue_top": {
