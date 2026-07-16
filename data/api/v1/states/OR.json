@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-07-16T08:59:13Z",
+  "generated_at": "2026-07-16T10:56:35Z",
   "risk_score": {
-    "score": 41.4,
-    "tier": 18.3,
-    "engagement": 8.0,
-    "recency": 7.2,
-    "multi_source": 2.9,
+    "score": 47.6,
+    "tier": 21.0,
+    "engagement": 7.8,
+    "recency": 11.3,
+    "multi_source": 2.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 58.6,
+    "score": 52.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,28 +26,28 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 2,
+    "restrictive": 3,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 3,
+    "pending": 4,
     "win": 3,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 4
+    "local": 5
   },
   "issue_top": {
+    "community_impact": 2,
     "tax_incentive": 1,
     "ratepayer": 1,
     "water": 1,
-    "environmental": 1,
-    "community_impact": 1
+    "environmental": 1
   },
   "companies": [
     [
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-06-10",
+  "latest": "2026-07-16",
   "top_citations": [
+    {
+      "id": "news:gdelt-246f0ce922d830db-or",
+      "date": "2026-07-16",
+      "jurisdiction": "13abc.com",
+      "title": "Oregon residents push charter amendment to limit data center size",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://13abc.com/2026/07/16/oregon-residents-push-charter-amendment-limit-data-center-size"
+    },
     {
       "id": "news:rss-rto-insider-c6804f1f813c9cc9-or",
       "date": "2026-06-10",

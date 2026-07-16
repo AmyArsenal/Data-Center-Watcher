@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-16T08:59:13Z",
+  "generated_at": "2026-07-16T10:56:35Z",
   "risk_score": {
-    "score": 63.6,
-    "tier": 36.8,
+    "score": 63.7,
+    "tier": 36.9,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.4,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 36.4,
+    "score": 36.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 20,
+    "moratoriums": 21,
     "approvals": 0,
-    "denials": 19,
+    "denials": 20,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 26,
+  "count": 27,
   "tier_counts": {
     "null": 3,
-    "restrictive": 23
+    "restrictive": 24
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 19
+    "win": 20
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 20
+    "local": 21
   },
   "issue_top": {
     "grid_energy": 7,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-07-15",
+  "latest": "2026-07-16",
   "top_citations": [
+    {
+      "id": "news:gdelt-82f080f8a2e354ab-ny",
+      "date": "2026-07-16",
+      "jurisdiction": "benzinga.com",
+      "title": "Trump Slams New York Data Center Moratorium as  Terrible Decision  While Bill Ackman Points to AI Race Wi",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://benzinga.com/markets/tech/26/07/60487909/trump-slams-new-york-data-center-moratorium-as-terrible-decision-while-bill-ackman-points-to-ai-race-with-china-and-says-democracy-at-risk"
+    },
     {
       "id": "news:gdelt-afa8339292f69779-ny",
       "date": "2026-07-15",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://forbes.com/sites/siladityaray/2026/07/14/new-york-halts-large-data-centers-being-built-for-a-year"
-    },
-    {
-      "id": "news:gdelt-6dc909a92f08ceac-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "theverge.com",
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://theverge.com/policy/965110/new-york-ai-data-center-moratorium"
     }
   ]
 }

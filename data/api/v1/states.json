@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-07-16T08:59:13Z",
+  "generated_at": "2026-07-16T10:56:35Z",
   "states": [
     {
       "state": "AK",
@@ -466,16 +466,16 @@
     },
     {
       "state": "NY",
-      "count": 26,
-      "risk_score": 63.6,
+      "count": 27,
+      "risk_score": 63.7,
       "grade": "D",
-      "grade_score": 36.4,
-      "moratoriums": 20,
+      "grade_score": 36.3,
+      "moratoriums": 21,
       "approvals": 0,
-      "denials": 19,
+      "denials": 20,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-07-15",
+      "latest": "2026-07-16",
       "url": "data/dossiers/state-NY.json"
     },
     {
@@ -508,16 +508,16 @@
     },
     {
       "state": "OR",
-      "count": 7,
-      "risk_score": 41.4,
+      "count": 8,
+      "risk_score": 47.6,
       "grade": "C",
-      "grade_score": 58.6,
+      "grade_score": 52.4,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 3,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-06-10",
+      "latest": "2026-07-16",
       "url": "data/dossiers/state-OR.json"
     },
     {

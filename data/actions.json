@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T08:59:13Z",
-  "count": 1383,
+  "generated_at": "2026-07-16T10:56:35Z",
+  "count": 1390,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,327 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-090347e6114c1783-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kesq.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Indio and Coachella continue to make progress on data center bans",
+      "sources": [
+        "https://kesq.com/news/2026/07/15/indio-and-coachella-continue-to-make-progress-on-data-center-bans"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T10:56:34Z",
+      "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-246f0ce922d830db-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "13abc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Oregon residents push charter amendment to limit data center size",
+      "sources": [
+        "https://13abc.com/2026/07/16/oregon-residents-push-charter-amendment-limit-data-center-size"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T10:56:34Z",
+      "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-275bf4a7a7f911ca-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "dentonrc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Denton community members invited to unite against AI data centers at political group town hall | Denton",
+      "sources": [
+        "https://dentonrc.com/news/denton/denton-community-members-invited-to-unite-against-ai-data-centers-at-political-groups-town-hall/article_042c9419-02e3-4916-bea6-9101d1d71abe.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T10:56:34Z",
+      "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-648668b016368736-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cleveland19.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "3 - month long moratorium put on data centers in Cleveland",
+      "sources": [
+        "https://cleveland19.com/2026/07/16/3-month-long-moratorium-put-data-centers-cleveland"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T10:56:34Z",
+      "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-82f080f8a2e354ab-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "benzinga.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Trump Slams New York Data Center Moratorium as  Terrible Decision  While Bill Ackman Points to AI Race Wi",
+      "sources": [
+        "https://benzinga.com/markets/tech/26/07/60487909/trump-slams-new-york-data-center-moratorium-as-terrible-decision-while-bill-ackman-points-to-ai-race-with-china-and-says-democracy-at-risk"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T10:56:34Z",
+      "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-83ee72164f9e1ade-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kcci.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ames weighs public hearings for future data centers",
+      "sources": [
+        "https://kcci.com/article/ames-public-hearings-data-centers/72254108"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T10:56:34Z",
+      "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-96a46d46e523cc80-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fox5atlanta.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Bartow County residents challenge data center plan",
+      "sources": [
+        "https://fox5atlanta.com/news/bartow-county-residents-challenge-data-center-plan"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T10:56:34Z",
+      "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
     {
       "id": "news:rss-canary-f00a9a4c04a9332e-nj",
       "origin": "news",
@@ -64360,32 +64681,90 @@
     },
     "US": {
       "state": "US",
-      "count": 737,
+      "count": 742,
       "outcome_counts": {
-        "pending": 426,
-        "win": 293,
-        "loss": 18,
+        "pending": 429,
+        "win": 294,
+        "loss": 19,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 719,
+        "restrictive": 723,
         "protective": 0,
-        "supportive": 18,
+        "supportive": 19,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 726,
+        "local": 731,
         "statewide": 6,
         "federal": 5
       },
       "issue_top": {
-        "community_impact": 146,
+        "community_impact": 148,
         "zoning": 55,
         "grid_energy": 16
       },
       "latest_date": "2026-07-16",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "OR": {
+      "state": "OR",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "environmental": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-07-16",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "NY": {
+      "state": "NY",
+      "count": 27,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 20,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 24,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 21,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 7,
+        "environmental": 3,
+        "water": 3
+      },
+      "latest_date": "2026-07-16",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "CA": {
       "state": "CA",
@@ -64415,35 +64794,6 @@
       "latest_date": "2026-07-15",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 26,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 19,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 23,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 20,
-        "statewide": 6,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 7,
-        "environmental": 3,
-        "water": 3
-      },
-      "latest_date": "2026-07-15",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "NC": {
       "state": "NC",
@@ -65284,35 +65634,6 @@
       "latest_date": "2026-06-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "mixed"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 1,
-        "environmental": 1,
-        "ratepayer": 1
-      },
-      "latest_date": "2026-06-10",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "NH": {
       "state": "NH",
