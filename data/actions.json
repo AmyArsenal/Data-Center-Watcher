@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T14:21:06Z",
-  "count": 1391,
+  "generated_at": "2026-07-16T15:52:12Z",
+  "count": 1392,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -428,6 +428,53 @@
       "data_source": "news",
       "last_updated": "2026-07-16T08:59:12Z",
       "first_seen": "2026-07-16T08:59:13Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-0dcc92dbdff12281-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sponsored: How data centers can be good neighbors to communities. Build community relationships the same way you build the infrastructure – early, deliberately, and to last",
+      "sources": [
+        "https://datacenterdynamics.com/en/opinions/how-data-centers-can-be-good-neighbors-to-communities"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T15:52:11Z",
+      "first_seen": "2026-07-16T15:52:12Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -64726,26 +64773,26 @@
     },
     "US": {
       "state": "US",
-      "count": 743,
+      "count": 744,
       "outcome_counts": {
-        "pending": 429,
+        "pending": 430,
         "win": 295,
         "loss": 19,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 724,
+        "restrictive": 725,
         "protective": 0,
         "supportive": 19,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 732,
+        "local": 733,
         "statewide": 6,
         "federal": 5
       },
       "issue_top": {
-        "community_impact": 148,
+        "community_impact": 149,
         "zoning": 55,
         "grid_energy": 16
       },
