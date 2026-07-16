@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-16T21:42:06Z",
+  "generated_at": "2026-07-16T22:36:15Z",
   "risk_score": {
-    "score": 63.7,
-    "tier": 36.9,
+    "score": 63.8,
+    "tier": 37.0,
     "engagement": 6.5,
     "recency": 20.0,
     "multi_source": 0.4,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 36.3,
+    "score": 36.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 27,
+  "count": 28,
   "tier_counts": {
     "null": 3,
-    "restrictive": 24
+    "restrictive": 25
   },
   "outcome_counts": {
-    "pending": 7,
+    "pending": 8,
     "win": 20
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 21
+    "local": 22
   },
   "issue_top": {
-    "grid_energy": 7,
+    "grid_energy": 8,
     "environmental": 3,
     "water": 3,
     "ratepayer": 2,
@@ -67,6 +67,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://benzinga.com/markets/tech/26/07/60487909/trump-slams-new-york-data-center-moratorium-as-terrible-decision-while-bill-ackman-points-to-ai-race-with-china-and-says-democracy-at-risk"
+    },
+    {
+      "id": "news:gdelt-3dcd0d5f450c711e-ny",
+      "date": "2026-07-16",
+      "jurisdiction": "wattsupwiththat.com",
+      "title": "New York State Bans New Data Centers to Rescue their Underpowered Green Energy Grid",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wattsupwiththat.com/2026/07/16/new-york-state-bans-new-data-centers-to-save-their-underpowered-green-energy-grid"
     },
     {
       "id": "news:gdelt-afa8339292f69779-ny",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://gothamist.com/news/hochul-puts-hold-on-large-data-centers-in-new-york"
-    },
-    {
-      "id": "news:gdelt-3ed919711238b03d-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "forbes.com",
-      "title": "New York Bans New Data Centers Being Built For A Year",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://forbes.com/sites/siladityaray/2026/07/14/new-york-halts-large-data-centers-being-built-for-a-year"
     }
   ]
 }
