@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T15:52:12Z",
-  "count": 1392,
+  "generated_at": "2026-07-16T16:59:00Z",
+  "count": 1393,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-01daa12ccec7ee4e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "businessinsider.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Palm Beach County Rejects Huge AI Data Center Near Trump Mar - a - Lago",
+      "sources": [
+        "https://businessinsider.com/palm-beach-florida-ai-data-center-trump-mar-a-lago-2026-7"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T16:59:00Z",
+      "first_seen": "2026-07-16T16:59:00Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-090347e6114c1783-us",
       "origin": "news",
@@ -64773,21 +64818,21 @@
     },
     "US": {
       "state": "US",
-      "count": 744,
+      "count": 745,
       "outcome_counts": {
-        "pending": 430,
+        "pending": 431,
         "win": 295,
         "loss": 19,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 725,
+        "restrictive": 726,
         "protective": 0,
         "supportive": 19,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 733,
+        "local": 734,
         "statewide": 6,
         "federal": 5
       },
