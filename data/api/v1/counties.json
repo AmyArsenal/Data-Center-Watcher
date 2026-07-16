@@ -1,13 +1,13 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-07-15T23:37:46Z",
+  "generated_at": "2026-07-16T01:04:59Z",
   "counties": [
     {
       "county_fips": "13215",
       "county_name": "Muscogee County",
       "state": "GA",
       "count": 1,
-      "risk_score": 59.6,
+      "risk_score": 50.2,
       "latest": "2026-04-16",
       "url": "data/dossiers/county-13215.json"
     },
@@ -52,7 +52,7 @@
       "county_name": "Cumberland County",
       "state": "NC",
       "count": 2,
-      "risk_score": 59.6,
+      "risk_score": 54.9,
       "latest": "2026-05-19",
       "url": "data/dossiers/county-37051.json"
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T23:37:46Z",
-  "count": 1380,
+  "generated_at": "2026-07-16T01:04:59Z",
+  "count": 1381,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-rto-insider-b4bd5c00ddb13cb7-ga",
+      "origin": "news",
+      "state": "GA",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Georgia PSC Probes Recovery of Data Center Fuel Costs. The Georgia PSC took its first step to investigate whether data centers and other large industrial customers are bearing their full share of expenses, as opposed to shifting costs to residential and commercial customers. The post Georgia PSC Probes Recovery of Data Center Fuel Costs appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/136674-georgia-psc-probes-recovery-of-data-center-fuel-costs"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-16T01:04:58Z",
+      "first_seen": "2026-07-16T01:04:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-108438c39451336f-us",
       "origin": "news",
@@ -64163,6 +64208,35 @@
     }
   ],
   "by_state": {
+    "GA": {
+      "state": "GA",
+      "count": 19,
+      "outcome_counts": {
+        "pending": 14,
+        "win": 2,
+        "loss": 2,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 3,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 9,
+        "federal": 1
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "water": 4,
+        "environmental": 3
+      },
+      "latest_date": "2026-07-16",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "CA": {
       "state": "CA",
       "count": 21,
@@ -64510,35 +64584,6 @@
       "latest_date": "2026-07-09",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 18,
-      "outcome_counts": {
-        "pending": 13,
-        "win": 2,
-        "loss": 2,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 6,
-        "protective": 0,
-        "supportive": 3,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 9,
-        "federal": 1
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "water": 4,
-        "environmental": 3
-      },
-      "latest_date": "2026-07-09",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "OH": {
       "state": "OH",

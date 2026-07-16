@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-07-15T23:37:46Z",
+  "generated_at": "2026-07-16T01:04:59Z",
   "risk_score": {
-    "score": 47.3,
-    "tier": 19.3,
-    "engagement": 8.7,
-    "recency": 10.4,
-    "multi_source": 3.9,
+    "score": 48.7,
+    "tier": 20.4,
+    "engagement": 8.6,
+    "recency": 11.0,
+    "multi_source": 3.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 52.7,
+    "score": 51.3,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 18,
+  "count": 19,
   "tier_counts": {
-    "restrictive": 6,
+    "restrictive": 7,
     "unclear": 4,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 13,
+    "pending": 14,
     "win": 2,
     "loss": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 8,
+    "local": 9,
     "statewide": 9,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
-  "latest": "2026-07-09",
+  "latest": "2026-07-16",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-b4bd5c00ddb13cb7-ga",
+      "date": "2026-07-16",
+      "jurisdiction": "RTO Insider",
+      "title": "Georgia PSC Probes Recovery of Data Center Fuel Costs. The Georgia PSC took its first step to investigate whether data centers and other lar",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/136674-georgia-psc-probes-recovery-of-data-center-fuel-costs"
+    },
     {
       "id": "news:rss-dcd-f402698deb0ee4d7-ga",
       "date": "2026-07-09",
@@ -144,15 +153,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
-    },
-    {
-      "id": "research:ga-georgia-general-assembly-20260201-rep-derrick-jackson-d-tyrone-introduced-the-dat",
-      "date": "2026-02-01",
-      "jurisdiction": "Georgia General Assembly",
-      "title": "Rep. Derrick Jackson (D-Tyrone) introduced the Data Center Impact Assessment and Development Moratorium Act of 2026, which would impose stat",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://trackbill.com/bill/georgia-house-bill-1059-data-center-impact-assessment-and-development-moratorium-act-of-2026-enact/2799873/"
     }
   ]
 }
