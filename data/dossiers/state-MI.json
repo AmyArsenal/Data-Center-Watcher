@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-07-17T01:08:48Z",
+  "generated_at": "2026-07-17T04:20:20Z",
   "risk_score": {
-    "score": 55.1,
-    "tier": 33.5,
+    "score": 57.3,
+    "tier": 34.0,
     "engagement": 6.2,
-    "recency": 15.3,
+    "recency": 17.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.9,
+    "score": 42.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 11,
     "null": 3
   },
   "outcome_counts": {
     "win": 8,
-    "pending": 5
+    "pending": 6
   },
   "scope_counts": {
     "local": 12,
-    "statewide": 1
+    "statewide": 2
   },
   "issue_top": {
-    "community_impact": 4,
+    "community_impact": 5,
     "grid_energy": 1,
     "water": 1,
     "ratepayer": 1,
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-07-12",
+  "latest": "2026-07-17",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-c28c00b8bc4694bc-mi",
+      "date": "2026-07-17",
+      "jurisdiction": "RTO Insider",
+      "title": "Michigan Gov. Seeks Pledge from Data Center Developers. Michigan’s governor is inviting developers to sign a protection pledge as she launch",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/136813-michigan-gov-seeks-pledge-from-data-center-developers"
+    },
     {
       "id": "news:gdelt-6beb4ef7531607a2-mi",
       "date": "2026-07-12",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://abc12.com/news/michigan-utility-oks-12-month-ban-on-supplying-water-for-data-centers/article_58cd0db1-f539-594c-9e01-0fbd7ea9cfcd.html"
-    },
-    {
-      "id": "social:reddit-5f5ab7783ee71192-mi",
-      "date": "2026-04-25",
-      "jurisdiction": "r/Michigan",
-      "title": "Proposed Michigan bills aim to regulate local government moratoriums on data centers",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://reddit.com/r/Michigan/comments/1svj3or/proposed_michigan_bills_aim_to_regulate_local"
     }
   ]
 }

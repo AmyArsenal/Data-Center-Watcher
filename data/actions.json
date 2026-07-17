@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T01:08:48Z",
-  "count": 1408,
+  "generated_at": "2026-07-17T04:20:20Z",
+  "count": 1409,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -156,6 +156,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-rto-insider-c28c00b8bc4694bc-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan Gov. Seeks Pledge from Data Center Developers. Michigan’s governor is inviting developers to sign a protection pledge as she launches a plan to protect the state and its residents from the effects of data centers while still welcoming their development. The post Michigan Gov. Seeks Pledge from Data Center Developers appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/136813-michigan-gov-seeks-pledge-from-data-center-developers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T04:20:20Z",
+      "first_seen": "2026-07-17T04:20:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-rto-insider-ead76f6b9638d3c4-nm",
@@ -65497,6 +65544,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "MI": {
+      "state": "MI",
+      "count": 14,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 8,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 11,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 12,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "GA": {
       "state": "GA",
       "count": 19,
@@ -65786,35 +65862,6 @@
       "latest_date": "2026-07-13",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 13,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 8,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 10,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 12,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 4,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-07-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "TX": {
       "state": "TX",

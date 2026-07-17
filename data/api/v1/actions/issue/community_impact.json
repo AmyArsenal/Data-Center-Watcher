@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-17T01:08:48Z",
+  "generated_at": "2026-07-17T04:20:20Z",
   "filter": {
     "issue_category": "community_impact"
   },
-  "count": 275,
+  "count": 276,
   "items": [
     {
       "id": "social:x-4643366107-ok",
@@ -11009,6 +11009,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:rss-rto-insider-c28c00b8bc4694bc-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": "governor",
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": "[\"community_impact\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan Gov. Seeks Pledge from Data Center Developers. Michigan’s governor is inviting developers to sign a protection pledge as she launches a plan to protect the state and its residents from the effects of data centers while still welcoming their development. The post Michigan Gov. Seeks Pledge from Data Center Developers appeared first on RTO Insider",
+      "sources": "[\"https://rtoinsider.com/136813-michigan-gov-seeks-pledge-from-data-center-developers\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-17T04:20:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     }
   ]
 }
