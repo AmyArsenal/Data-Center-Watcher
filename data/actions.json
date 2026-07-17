@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T06:33:07Z",
-  "count": 1421,
+  "generated_at": "2026-07-17T08:53:53Z",
+  "count": 1424,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -205,6 +205,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-3a4f5c6124d326b3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yankton.net",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "County Planning Board : We Can Handle Data Center Issue",
+      "sources": [
+        "https://yankton.net/community/article_6d97328a-f503-4902-8fab-a55fcda9cf22.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T08:53:53Z",
+      "first_seen": "2026-07-17T08:53:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-4d321ab20a6df333-us",
       "origin": "news",
       "state": "US",
@@ -248,6 +293,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-587f59ff8018f367-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "localnews8.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pocatello City Council Upholds Hearing Examiner Decision , says  no  to Proposed AI Data Center - LocalNews8 . com",
+      "sources": [
+        "https://localnews8.com/news/2026/07/16/pocatello-city-council-upholds-hearing-examiners-decision-says-no-to-proposed-ai-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T08:53:53Z",
+      "first_seen": "2026-07-17T08:53:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-62a5bb7853c63bcf-us",
@@ -475,6 +565,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d6593d0011aa49a2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "idahostatejournal.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-17",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Absolutely , 100 percent : Developer promises to sue after Pocatello City Council upholds data center denial",
+      "sources": [
+        "http://idahostatejournal.com/news/local/absolutely-100-percent-developer-promises-to-sue-after-pocatello-city-council-upholds-data-center-denial/article_ef6ef517-59a4-4124-ab6f-e797d287ff33.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T08:53:53Z",
+      "first_seen": "2026-07-17T08:53:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-e8f19f675e562f8a-us",
@@ -66069,21 +66204,21 @@
     },
     "US": {
       "state": "US",
-      "count": 764,
+      "count": 767,
       "outcome_counts": {
-        "pending": 439,
-        "win": 306,
+        "pending": 441,
+        "win": 307,
         "loss": 19,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 745,
+        "restrictive": 748,
         "protective": 0,
         "supportive": 19,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 753,
+        "local": 756,
         "statewide": 6,
         "federal": 5
       },
