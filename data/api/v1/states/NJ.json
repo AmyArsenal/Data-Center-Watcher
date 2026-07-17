@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-07-17T12:55:19Z",
+  "generated_at": "2026-07-17T14:22:27Z",
   "risk_score": {
-    "score": 48.1,
-    "tier": 20.8,
-    "engagement": 9.1,
-    "recency": 8.7,
-    "multi_source": 4.5,
+    "score": 49.5,
+    "tier": 21.5,
+    "engagement": 9.0,
+    "recency": 9.8,
+    "multi_source": 4.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.9,
+    "score": 50.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,25 +26,26 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 29,
+  "count": 30,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 11,
     "unclear": 9,
     "supportive": 3,
     "protective": 1,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 20,
+    "pending": 21,
     "win": 8,
     "loss": 1
   },
   "scope_counts": {
     "local": 14,
-    "statewide": 15
+    "statewide": 15,
+    "federal": 1
   },
   "issue_top": {
-    "grid_energy": 6,
+    "grid_energy": 7,
     "water": 4,
     "community_impact": 3,
     "ratepayer": 3,
@@ -61,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-07-16",
+  "latest": "2026-07-17",
   "top_citations": [
+    {
+      "id": "news:rss-utilitydive-6707e80d805e6a6a-nj",
+      "date": "2026-07-17",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "PJM capacity auction results compound ‘alarm bells’: FERC Chairman Swett. At its monthly meeting, FERC set data center reliability standard ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508"
+    },
     {
       "id": "news:rss-canary-f00a9a4c04a9332e-nj",
       "date": "2026-07-16",
@@ -143,15 +153,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://x.com/datacentersig/status/2047699105535680585"
-    },
-    {
-      "id": "research:nj-phillipsburg-town-council-20260414-phillipsburg-town-council-unanimously-gave-final-a",
-      "date": "2026-04-14",
-      "jurisdiction": "Phillipsburg Town Council",
-      "title": "Phillipsburg Town Council unanimously gave final approval to Ordinance 2026-08, banning data centers in all zoning districts. Officials cite",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://newjersey.news12.com/phillipsburg-council-approves-ordinance-banning-data-centers"
     }
   ]
 }
