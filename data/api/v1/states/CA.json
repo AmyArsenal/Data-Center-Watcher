@@ -1,51 +1,51 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-07-16T23:33:43Z",
+  "generated_at": "2026-07-17T01:08:48Z",
   "risk_score": {
-    "score": 48.1,
-    "tier": 18.7,
-    "engagement": 9.2,
-    "recency": 10.4,
-    "multi_source": 4.8,
+    "score": 50.0,
+    "tier": 19.6,
+    "engagement": 9.1,
+    "recency": 11.8,
+    "multi_source": 4.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.9,
+    "score": 50.0,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 2,
-    "denials": 7,
+    "denials": 8,
     "lawsuits": 0,
-    "blocked": 0,
+    "blocked": 1,
     "active_companies": 3,
     "bills_introduced": 0,
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
-    "restrictive": 5,
+    "restrictive": 6,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 11,
-    "win": 7,
+    "win": 8,
     "mixed": 1,
     "loss": 2
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 10
+    "local": 11
   },
   "issue_top": {
-    "community_impact": 6,
+    "community_impact": 7,
     "grid_energy": 5,
     "water": 4,
     "environmental": 2,
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-07-15",
+  "latest": "2026-07-16",
   "top_citations": [
+    {
+      "id": "news:gdelt-dbcf302ef9677ff3-ca",
+      "date": "2026-07-16",
+      "jurisdiction": "mercurynews.com",
+      "title": "Residents of one California town cause developer to withdraw local data center proposal",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://mercurynews.com/2026/07/16/el-segundo-residents-cause-developer-to-withdraw-local-data-center-proposal"
+    },
     {
       "id": "news:rss-dcd-17fe2e871d04438f-ca",
       "date": "2026-07-15",
@@ -152,15 +161,6 @@
       "tier": null,
       "outcome": "loss",
       "url": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
-    },
-    {
-      "id": "research:ca-monterey-park-city-council-20260304-monterey-park-city-council-unanimously-extended-it",
-      "date": "2026-03-04",
-      "jurisdiction": "Monterey Park City Council",
-      "title": "Monterey Park City Council unanimously extended its data center moratorium through January 21, 2027 and placed a measure on the June 2, 2026",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.bloodinthemachine.com/p/monterey-park-becomes-the-first-city"
     }
   ]
 }

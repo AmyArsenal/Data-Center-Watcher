@@ -1,43 +1,43 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-16T23:33:43Z",
+  "generated_at": "2026-07-17T01:08:48Z",
   "risk_score": {
-    "score": 63.8,
-    "tier": 37.0,
+    "score": 64.1,
+    "tier": 37.3,
     "engagement": 6.5,
     "recency": 20.0,
-    "multi_source": 0.4,
+    "multi_source": 0.3,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 36.2,
+    "score": 35.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 21,
+    "moratoriums": 22,
     "approvals": 0,
-    "denials": 20,
-    "lawsuits": 0,
-    "blocked": 0,
+    "denials": 23,
+    "lawsuits": 1,
+    "blocked": 1,
     "active_companies": 1,
     "bills_introduced": 1,
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 28,
+  "count": 31,
   "tier_counts": {
     "null": 3,
-    "restrictive": 25
+    "restrictive": 28
   },
   "outcome_counts": {
     "pending": 8,
-    "win": 20
+    "win": 23
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 22
+    "local": 25
   },
   "issue_top": {
     "grid_energy": 8,
@@ -76,6 +76,33 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://wattsupwiththat.com/2026/07/16/new-york-state-bans-new-data-centers-to-save-their-underpowered-green-energy-grid"
+    },
+    {
+      "id": "news:gdelt-596493d60f795b3f-ny",
+      "date": "2026-07-16",
+      "jurisdiction": "wired.com",
+      "title": "Why Apple Sued OpenAI , New York Takes on Data Centers , and What to Know about Cyclosporiasis",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak"
+    },
+    {
+      "id": "news:gdelt-6c069b4f77625436-ny",
+      "date": "2026-07-16",
+      "jurisdiction": "sgvtribune.com",
+      "title": "New York imposes the first statewide ban on large data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://sgvtribune.com/2026/07/14/new-york-data-center-moratorium"
+    },
+    {
+      "id": "news:gdelt-89d8907d2c200fda-ny",
+      "date": "2026-07-16",
+      "jurisdiction": "aei.org",
+      "title": "New York Data Center Moratorium Shows the Continuing Power of America Stagnationist Activist Groups | American Enterprise Institute",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://aei.org/economics/new-yorks-data-center-moratorium-shows-the-continuing-power-of-americas-stagnationist-activist-groups"
     },
     {
       "id": "news:gdelt-afa8339292f69779-ny",
@@ -121,33 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://sun-sentinel.com/2026/07/14/new-york-data-center-moratorium"
-    },
-    {
-      "id": "news:gdelt-d238f8f54691158b-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "oneidadispatch.com",
-      "title": "New York to impose the country first statewide moratorium on data centers – Oneida Dispatch",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://oneidadispatch.com/2026/07/14/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers"
-    },
-    {
-      "id": "news:gdelt-9ee21079d27d2807-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "tomshardware.com",
-      "title": "New York enacts one - year data center ban on projects larger than 50 megawatts first US state to implement moratorium ; will also pursue re",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://tomshardware.com/tech-industry/data-centers/new-york-enacts-one-year-data-center-ban-on-projects-larger-than-50-megawatts-first-us-state-to-implement-moratorium-will-also-pursue-repealing-tax-exemptions"
-    },
-    {
-      "id": "news:gdelt-1716a5ae4194de84-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "gothamist.com",
-      "title": "New York to enact nation first statewide data center moratorium after Hochul order",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://gothamist.com/news/hochul-puts-hold-on-large-data-centers-in-new-york"
     }
   ]
 }

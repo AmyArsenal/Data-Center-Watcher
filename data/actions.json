@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T23:33:43Z",
-  "count": 1395,
+  "generated_at": "2026-07-17T01:08:48Z",
+  "count": 1408,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,188 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-140b9e11da640c70-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wvik.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Clinton residents request steep restrictions in the face of QTS hyperscale data center",
+      "sources": [
+        "https://wvik.org/news-from-iowa/2026-07-16/clinton-qts-hyperscale-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-89d08ca41d438d18-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "mercurynews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Letters : A data center moratorium would benefit the environment",
+      "sources": [
+        "https://mercurynews.com/2026/07/16/letters-data-center-moratorium-benefit-environment"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-af08115c5bcb9b8d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wistv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Newberry County Council unanimously confirms year - long moratorium on data centers",
+      "sources": [
+        "https://wistv.com/2026/07/16/newberry-county-council-unanimously-confirms-year-long-moratorium-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-rto-insider-ead76f6b9638d3c4-nm",
+      "origin": "news",
+      "state": "NM",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New Mexico Could be Next State to Ban Data Centers. New Mexico Democrats plan to introduce a statewide moratorium on data centers as well as other bills cracking down on the facilities in the 2027 legislative session. The post New Mexico Could be Next State to Ban Data Centers appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/136795-n-m-dems-push-for-statewide-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-01daa12ccec7ee4e-us",
       "origin": "news",
@@ -297,6 +479,96 @@
       "tier_reason": "cancelled"
     },
     {
+      "id": "news:gdelt-5309e1bfc04c8146-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kyma.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Imperial County Superior Court dismisses data center lawsuit",
+      "sources": [
+        "https://kyma.com/dsw-living/data-centers/2026/07/16/imperial-county-superior-court-dismisses-data-center-lawsuit"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-596493d60f795b3f-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "wired.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Why Apple Sued OpenAI , New York Takes on Data Centers , and What to Know about Cyclosporiasis",
+      "sources": [
+        "https://wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
       "id": "news:gdelt-648668b016368736-us",
       "origin": "news",
       "state": "US",
@@ -336,6 +608,51 @@
       "data_source": "news",
       "last_updated": "2026-07-16T10:56:34Z",
       "first_seen": "2026-07-16T10:56:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-6c069b4f77625436-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "sgvtribune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New York imposes the first statewide ban on large data centers",
+      "sources": [
+        "https://sgvtribune.com/2026/07/14/new-york-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -477,6 +794,96 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-89d8907d2c200fda-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "aei.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New York Data Center Moratorium Shows the Continuing Power of America Stagnationist Activist Groups | American Enterprise Institute",
+      "sources": [
+        "https://aei.org/economics/new-yorks-data-center-moratorium-shows-the-continuing-power-of-americas-stagnationist-activist-groups"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-8d893c81e681cc81-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wxii12.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Davidson County considers six - month pause on data center development amid resident concerns",
+      "sources": [
+        "https://wxii12.com/article/davidson-county-considers-6-month-pause-on-data-center-development-amid-resident-concerns/72640496"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-96a46d46e523cc80-us",
       "origin": "news",
       "state": "US",
@@ -522,6 +929,188 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-9d0ff0c946c5d493-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wnypapers.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hochul : Statewide moratorium on new hyperscale data centers",
+      "sources": [
+        "http://wnypapers.com/news/article/current/2026/07/14/166543/hochul-statewide-moratorium-on-new-hyperscale-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9db73f7639085557-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cbs6albany.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hochul convenes statewide roundtable after moratorium on large - scale data centers",
+      "sources": [
+        "https://cbs6albany.com/news/local/hochul-convenes-statewide-roundtable-after-moratorium-on-large-scale-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-dbcf302ef9677ff3-ca",
+      "origin": "news",
+      "state": "CA",
+      "county": null,
+      "jurisdiction": "mercurynews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Residents of one California town cause developer to withdraw local data center proposal",
+      "sources": [
+        "https://mercurynews.com/2026/07/16/el-segundo-residents-cause-developer-to-withdraw-local-data-center-proposal"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-fcc5a57ef1109f42-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "knopnews2.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Recall organizer says Lincoln County data center debate crosses party lines",
+      "sources": [
+        "https://knopnews2.com/2026/07/16/recall-organizer-says-lincoln-county-data-center-debate-crosses-party-lines"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-17T01:08:47Z",
+      "first_seen": "2026-07-17T01:08:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-canary-f00a9a4c04a9332e-nj",
@@ -64850,6 +65439,64 @@
     }
   ],
   "by_state": {
+    "NM": {
+      "state": "NM",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 4,
+        "statewide": 1,
+        "federal": 1
+      },
+      "issue_top": {
+        "environmental": 2,
+        "water": 2,
+        "community_impact": 1
+      },
+      "latest_date": "2026-07-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "US": {
+      "state": "US",
+      "count": 754,
+      "outcome_counts": {
+        "pending": 434,
+        "win": 301,
+        "loss": 19,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 735,
+        "protective": 0,
+        "supportive": 19,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 743,
+        "statewide": 6,
+        "federal": 5
+      },
+      "issue_top": {
+        "community_impact": 150,
+        "zoning": 55,
+        "grid_energy": 16
+      },
+      "latest_date": "2026-07-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "GA": {
       "state": "GA",
       "count": 19,
@@ -64908,35 +65555,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "US": {
-      "state": "US",
-      "count": 746,
-      "outcome_counts": {
-        "pending": 432,
-        "win": 295,
-        "loss": 19,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 727,
-        "protective": 0,
-        "supportive": 19,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 735,
-        "statewide": 6,
-        "federal": 5
-      },
-      "issue_top": {
-        "community_impact": 149,
-        "zoning": 55,
-        "grid_energy": 16
-      },
-      "latest_date": "2026-07-16",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "OR": {
       "state": "OR",
       "count": 8,
@@ -64968,21 +65586,21 @@
     },
     "NY": {
       "state": "NY",
-      "count": 28,
+      "count": 31,
       "outcome_counts": {
         "pending": 8,
-        "win": 20,
+        "win": 23,
         "loss": 0,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 25,
+        "restrictive": 28,
         "protective": 0,
         "supportive": 0,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 22,
+        "local": 25,
         "statewide": 6,
         "federal": 0
       },
@@ -64997,30 +65615,30 @@
     },
     "CA": {
       "state": "CA",
-      "count": 21,
+      "count": 22,
       "outcome_counts": {
         "pending": 11,
-        "win": 7,
+        "win": 8,
         "loss": 2,
         "mixed": 1
       },
       "tier_counts": {
-        "restrictive": 5,
+        "restrictive": 6,
         "protective": 1,
         "supportive": 1,
         "unclear": 9
       },
       "scope_counts": {
-        "local": 10,
+        "local": 11,
         "statewide": 11,
         "federal": 0
       },
       "issue_top": {
-        "community_impact": 6,
+        "community_impact": 7,
         "grid_energy": 5,
         "water": 4
       },
-      "latest_date": "2026-07-15",
+      "latest_date": "2026-07-16",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -65340,35 +65958,6 @@
         "grid_energy": 2
       },
       "latest_date": "2026-07-08",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 2,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 3,
-        "statewide": 1,
-        "federal": 1
-      },
-      "issue_top": {
-        "environmental": 2,
-        "water": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-07-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
