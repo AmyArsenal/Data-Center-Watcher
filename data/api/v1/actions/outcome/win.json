@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-17T14:22:27Z",
+  "generated_at": "2026-07-17T15:50:58Z",
   "filter": {
     "community_outcome": "win"
   },
-  "count": 548,
+  "count": 549,
   "items": [
     {
       "id": "social:x-c778319fc8-me",
@@ -21934,6 +21934,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:rss-dcd-34e8a9a41992f8ce-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"environmental\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Coalition of environmental action groups petition FCC to halt orbital data center applications. Earthjustice set to take the issue to court if applications keep getting granted",
+      "sources": "[\"https://datacenterdynamics.com/en/news/coalition-of-environmental-action-groups-petition-fcc-to-halt-orbital-data-center-applications\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-17T15:50:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
