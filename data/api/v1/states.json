@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-07-17T04:20:20Z",
+  "generated_at": "2026-07-17T06:33:07Z",
   "states": [
     {
       "state": "AK",
@@ -466,30 +466,30 @@
     },
     {
       "state": "NY",
-      "count": 31,
+      "count": 32,
       "risk_score": 64.1,
       "grade": "D",
       "grade_score": 35.9,
       "moratoriums": 22,
       "approvals": 0,
-      "denials": 23,
+      "denials": 24,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-16",
+      "latest": "2026-07-17",
       "url": "data/dossiers/state-NY.json"
     },
     {
       "state": "OH",
-      "count": 30,
-      "risk_score": 59.9,
+      "count": 31,
+      "risk_score": 60.9,
       "grade": "D",
-      "grade_score": 40.1,
+      "grade_score": 39.1,
       "moratoriums": 7,
       "approvals": 1,
-      "denials": 11,
+      "denials": 12,
       "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-07-09",
+      "latest": "2026-07-17",
       "url": "data/dossiers/state-OH.json"
     },
     {

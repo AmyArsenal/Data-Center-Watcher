@@ -1,11 +1,11 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-17T04:20:20Z",
+  "generated_at": "2026-07-17T06:33:07Z",
   "risk_score": {
     "score": 64.1,
-    "tier": 37.3,
-    "engagement": 6.5,
+    "tier": 37.4,
+    "engagement": 6.4,
     "recency": 20.0,
     "multi_source": 0.3,
     "regulatory": 0.0
@@ -18,7 +18,7 @@
   "quantified": {
     "moratoriums": 22,
     "approvals": 0,
-    "denials": 23,
+    "denials": 24,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 31,
+  "count": 32,
   "tier_counts": {
     "null": 3,
-    "restrictive": 28
+    "restrictive": 29
   },
   "outcome_counts": {
     "pending": 8,
-    "win": 23
+    "win": 24
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 25
+    "local": 26
   },
   "issue_top": {
     "grid_energy": 8,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-07-16",
+  "latest": "2026-07-17",
   "top_citations": [
+    {
+      "id": "news:gdelt-298c893074f76759-ny",
+      "date": "2026-07-17",
+      "jurisdiction": "networkworld.com",
+      "title": "New York State just hit pause on the AI data center boom",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://networkworld.com/article/4198048/new-york-state-just-hit-pause-on-the-ai-data-center-boom.html"
+    },
     {
       "id": "news:gdelt-82f080f8a2e354ab-ny",
       "date": "2026-07-16",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://nbcnews.com/news/us-news/new-york-impose-countrys-first-statewide-moratorium-data-centers-rcna587429"
-    },
-    {
-      "id": "news:gdelt-b1040ef6c86cc2a7-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "sun-sentinel.com",
-      "title": "New York to impose U first statewide moratorium on data centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://sun-sentinel.com/2026/07/14/new-york-data-center-moratorium"
     }
   ]
 }

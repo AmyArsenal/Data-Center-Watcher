@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-07-17T04:20:20Z",
+  "generated_at": "2026-07-17T06:33:07Z",
   "risk_score": {
-    "score": 59.9,
-    "tier": 33.1,
+    "score": 60.9,
+    "tier": 33.3,
     "engagement": 6.2,
-    "recency": 15.6,
+    "recency": 16.4,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 40.1,
+    "score": 39.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 7,
     "approvals": 1,
-    "denials": 11,
+    "denials": 12,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 30,
+  "count": 31,
   "tier_counts": {
-    "restrictive": 23,
+    "restrictive": 24,
     "null": 6,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 18,
-    "win": 11,
+    "win": 12,
     "loss": 1
   },
   "scope_counts": {
-    "local": 25,
+    "local": 26,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-07-09",
+  "latest": "2026-07-17",
   "top_citations": [
+    {
+      "id": "news:gdelt-7fdfbf3b49ef64f5-oh",
+      "date": "2026-07-17",
+      "jurisdiction": "New Albany",
+      "title": "City council pauses data center development in New Albany for 1 year",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://newsandtribune.com/indiana/city-council-pauses-data-center-development-in-new-albany-for-1-year/article_dc3733a3-b9a5-4197-b780-9ffd5035aa89.html"
+    },
     {
       "id": "news:rss-dck-70ed87371489d6cd-oh",
       "date": "2026-07-09",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wlwt.com/article/wilmington-data-center-lawsuit-moves-to-federal-court/71419677"
-    },
-    {
-      "id": "news:gdelt-b9d81ae604e369ed-oh",
-      "date": "2026-05-27",
-      "jurisdiction": "wtol.com",
-      "title": "DeWine pauses new data center tax exemption requests in Ohio",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wtol.com/article/news/local/ohio/dewine-pauses-ohio-data-center-tax-exemptions/512-49767f5b-e4a1-4e0e-a62e-fa4b15b41db0"
     }
   ]
 }
