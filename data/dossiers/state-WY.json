@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WY",
-  "generated_at": "2026-07-18T19:20:57Z",
+  "generated_at": "2026-07-18T20:10:44Z",
   "risk_score": {
-    "score": 43.2,
-    "tier": 26.0,
-    "engagement": 7.3,
-    "recency": 8.2,
-    "multi_source": 1.7,
+    "score": 49.3,
+    "tier": 28.0,
+    "engagement": 7.1,
+    "recency": 12.8,
+    "multi_source": 1.4,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 56.8,
+    "score": 50.7,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "unclear": 1,
     "null": 2,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
-    "pending": 2,
+    "pending": 3,
     "mixed": 1,
     "win": 3
   },
   "scope_counts": {
     "statewide": 2,
-    "local": 4
+    "local": 5
   },
   "issue_top": {
     "grid_energy": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2021-02-05",
-  "latest": "2026-06-10",
+  "latest": "2026-07-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-e4463c14cd13782f-wy",
+      "date": "2026-07-18",
+      "jurisdiction": "proactiveinvestors.com",
+      "title": "Blockmate Ventures raises C$1M for Wyoming AI data center - ICYMI",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://proactiveinvestors.com/companies/news/1095663/blockmate-ventures-raises-c-1m-for-wyoming-ai-data-center-icymi-1095663.html"
+    },
     {
       "id": "news:rss-dcd-ae1c7d7442b61b85-wy",
       "date": "2026-06-10",
