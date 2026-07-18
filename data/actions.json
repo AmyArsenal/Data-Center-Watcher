@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T14:05:17Z",
-  "count": 1438,
+  "generated_at": "2026-07-18T15:10:35Z",
+  "count": 1444,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,278 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-16509015fa4b509c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "staradvertiser.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "U . S . data center protests go national as backlash grows | Honolulu Star - Advertiser",
+      "sources": [
+        "https://staradvertiser.com/2026/07/18/breaking-news/u-s-data-center-protests-go-national-as-backlash-grows"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T15:10:34Z",
+      "first_seen": "2026-07-18T15:10:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-2dc1ee3054eb5c1c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "courant.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers , urban heat , and AI growth : CT experts weigh in , including pushback",
+      "sources": [
+        "https://courant.com/2026/07/18/data-centers-urban-heat-and-ai-growth-ct-experts-weigh-in-including-pushback"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T15:10:34Z",
+      "first_seen": "2026-07-18T15:10:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-8f0cf8c4821abd39-ma",
+      "origin": "news",
+      "state": "MA",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Challenge to Massachusetts data center moratorium fizzles as developer agrees to dismiss case",
+      "sources": [
+        "https://yahoo.com/news/us/articles/challenge-massachusetts-data-center-moratorium-091600687.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T15:10:34Z",
+      "first_seen": "2026-07-18T15:10:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-95aee68001170e14-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "chicagotribune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Merrillville council extends data center moratorium by 6 months",
+      "sources": [
+        "https://chicagotribune.com/2026/07/18/merrillville-extends-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T15:10:34Z",
+      "first_seen": "2026-07-18T15:10:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f0a6610a72ccf051-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "Lansing",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hochul Signs Moratorium on Data Center Permitting , Putting Lansing Data Center Plans in Question",
+      "sources": [
+        "https://cornellsun.com/article/2026/07/k9fstjzcajbc"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T15:10:34Z",
+      "first_seen": "2026-07-18T15:10:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-201e159abf8b3c6b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sponsored: How AI demand is redefining risk for US data center developers. Rapid AI-driven data center growth is colliding with US power system constraints and community push-back amidst a fragmented policy landscape, raising risks for developers across the full project lifecycle",
+      "sources": [
+        "https://datacenterdynamics.com/en/opinions/how-ai-demand-is-redefining-risk-for-us-data-center-developers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T15:10:34Z",
+      "first_seen": "2026-07-18T15:10:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-0ea494c87286116e-us",
       "origin": "news",
@@ -66811,6 +67083,93 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 780,
+      "outcome_counts": {
+        "pending": 448,
+        "win": 312,
+        "loss": 20,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 760,
+        "protective": 0,
+        "supportive": 20,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 769,
+        "statewide": 6,
+        "federal": 5
+      },
+      "issue_top": {
+        "community_impact": 156,
+        "zoning": 57,
+        "environmental": 16
+      },
+      "latest_date": "2026-07-18",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "MA": {
+      "state": "MA",
+      "count": 3,
+      "outcome_counts": {
+        "pending": 0,
+        "win": 3,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 0,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "environmental": 2,
+        "zoning": 2
+      },
+      "latest_date": "2026-07-18",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "win"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 15,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 9,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 12,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 13,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-18",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "NM": {
       "state": "NM",
       "count": 6,
@@ -66839,64 +67198,6 @@
       "latest_date": "2026-07-17",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 776,
-      "outcome_counts": {
-        "pending": 445,
-        "win": 311,
-        "loss": 20,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 756,
-        "protective": 0,
-        "supportive": 20,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 765,
-        "statewide": 6,
-        "federal": 5
-      },
-      "issue_top": {
-        "community_impact": 155,
-        "zoning": 57,
-        "environmental": 16
-      },
-      "latest_date": "2026-07-17",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 14,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 8,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 11,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 12,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-07-17",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "NY": {
       "state": "NY",
@@ -68056,35 +68357,6 @@
       "latest_date": "2026-04-13",
       "map_color_tier": "supportive",
       "map_color_outcome": "pending"
-    },
-    "MA": {
-      "state": "MA",
-      "count": 2,
-      "outcome_counts": {
-        "pending": 0,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 0,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "environmental": 2,
-        "zoning": 2
-      },
-      "latest_date": "2026-04-06",
-      "map_color_tier": null,
-      "map_color_outcome": "win"
     },
     "AK": {
       "state": "AK",

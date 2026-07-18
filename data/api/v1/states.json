@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-07-18T14:05:17Z",
+  "generated_at": "2026-07-18T15:10:35Z",
   "states": [
     {
       "state": "AK",
@@ -256,16 +256,16 @@
     },
     {
       "state": "MA",
-      "count": 2,
-      "risk_score": 27.2,
+      "count": 3,
+      "risk_score": 48.6,
       "grade": "N/A",
       "grade_score": null,
-      "moratoriums": 1,
+      "moratoriums": 2,
       "approvals": 0,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-04-06",
+      "latest": "2026-07-18",
       "url": "data/dossiers/state-MA.json"
     },
     {
@@ -298,16 +298,16 @@
     },
     {
       "state": "MI",
-      "count": 14,
-      "risk_score": 57.3,
+      "count": 15,
+      "risk_score": 59.2,
       "grade": "D",
-      "grade_score": 42.7,
-      "moratoriums": 5,
+      "grade_score": 40.8,
+      "moratoriums": 6,
       "approvals": 0,
-      "denials": 8,
+      "denials": 9,
       "lawsuits": 0,
       "active_companies": 2,
-      "latest": "2026-07-17",
+      "latest": "2026-07-18",
       "url": "data/dossiers/state-MI.json"
     },
     {

@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MA",
-  "generated_at": "2026-07-18T14:05:17Z",
+  "generated_at": "2026-07-18T15:10:35Z",
   "risk_score": {
-    "score": 27.2,
-    "tier": 12.0,
+    "score": 48.6,
+    "tier": 21.3,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 16.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
@@ -16,9 +16,9 @@
     "label": "Insufficient data"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,15 +26,16 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
-    "null": 2
+    "null": 2,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "win": 2
+    "win": 3
   },
   "scope_counts": {
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "community_impact": 2,
@@ -51,8 +52,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-04-06",
+  "latest": "2026-07-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-8f0cf8c4821abd39-ma",
+      "date": "2026-07-18",
+      "jurisdiction": "yahoo.com",
+      "title": "Challenge to Massachusetts data center moratorium fizzles as developer agrees to dismiss case",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://yahoo.com/news/us/articles/challenge-massachusetts-data-center-moratorium-091600687.html"
+    },
     {
       "id": "research:ma-everett-planning-board-20260406-everett-planning-board-voted-unanimously-to-endors",
       "date": "2026-04-06",
