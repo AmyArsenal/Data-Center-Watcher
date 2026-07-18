@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T21:02:27Z",
-  "count": 1448,
+  "generated_at": "2026-07-18T22:03:44Z",
+  "count": 1450,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-09a491ee1473f514-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "capitalgazette.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Baltimore County Democrats call for data center moratorium extension",
+      "sources": [
+        "https://capitalgazette.com/2026/07/18/baltimore-county-democrats-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T22:03:43Z",
+      "first_seen": "2026-07-18T22:03:44Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-16509015fa4b509c-us",
       "origin": "news",
@@ -336,6 +381,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d2b4388589122f97-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "businessinsider.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Photos : Nationwide Protests Target AI Data Centers",
+      "sources": [
+        "https://businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T22:03:43Z",
+      "first_seen": "2026-07-18T22:03:44Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-e4463c14cd13782f-wy",
@@ -67267,21 +67357,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 782,
+      "count": 784,
       "outcome_counts": {
-        "pending": 450,
-        "win": 312,
+        "pending": 451,
+        "win": 313,
         "loss": 20,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 762,
+        "restrictive": 764,
         "protective": 0,
         "supportive": 20,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 771,
+        "local": 773,
         "statewide": 6,
         "federal": 5
       },
