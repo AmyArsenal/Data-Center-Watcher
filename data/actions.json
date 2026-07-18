@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T23:07:05Z",
-  "count": 1431,
+  "generated_at": "2026-07-18T00:05:55Z",
+  "count": 1438,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -477,6 +477,96 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-73c7759298232f10-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wild941.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pinellas Park Halts New AI Data Centers for One Year To Study Impact and Frame Regulations",
+      "sources": [
+        "https://wild941.com/2026/07/17/pinellas-park-halts-new-ai-data-centers-for-one-year-to-study-impact-and-frame-regulations"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T00:05:54Z",
+      "first_seen": "2026-07-18T00:05:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-7e32a82a6ce0300c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kshb.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Edgerton City Council overrides data center development denial",
+      "sources": [
+        "https://kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T00:05:54Z",
+      "first_seen": "2026-07-18T00:05:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-7fdfbf3b49ef64f5-oh",
       "origin": "news",
       "state": "OH",
@@ -565,6 +655,143 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9055716a41ffc340-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "dailysignal.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "NY Moratorium Cant Fix Data Centers , but Innovation Can",
+      "sources": [
+        "https://dailysignal.com/2026/07/17/data-centers-cleaner"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T00:05:54Z",
+      "first_seen": "2026-07-18T00:05:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-a65a577d339f2f24-ky",
+      "origin": "news",
+      "state": "KY",
+      "county": null,
+      "jurisdiction": "wkyufm.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "As data centers spring up in Kentucky , local organizers rally citizens for national day of protest",
+      "sources": [
+        "https://wkyufm.org/news/2026-07-17/as-data-centers-spring-up-in-kentucky-local-organizers-rally-citizens-for-national-day-of-protest"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T00:05:54Z",
+      "first_seen": "2026-07-18T00:05:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a9046b042a6d1847-mt",
+      "origin": "news",
+      "state": "MT",
+      "county": null,
+      "jurisdiction": "kxlf.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers coming to Montana ? Great Falls community weighs in",
+      "sources": [
+        "https://kxlf.com/news/data-centers-coming-to-montana-great-falls-community-weighs-in"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T00:05:54Z",
+      "first_seen": "2026-07-18T00:05:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-af08115c5bcb9b8d-us",
@@ -659,6 +886,51 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-d03c4a0cb0c4c3cb-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "govtech.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Small Texas Town Joins Group Considering Data Center Ban",
+      "sources": [
+        "https://govtech.com/artificial-intelligence/small-texas-town-joins-group-considering-data-center-ban"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T00:05:54Z",
+      "first_seen": "2026-07-18T00:05:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-d6593d0011aa49a2-us",
       "origin": "news",
       "state": "US",
@@ -702,6 +974,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-e5795ce476a0cf69-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "investorplace.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New York Bans New Data Centers | InvestorPlace",
+      "sources": [
+        "https://investorplace.com/2026/07/new-york-bans-new-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-18T00:05:54Z",
+      "first_seen": "2026-07-18T00:05:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-e8f19f675e562f8a-us",
@@ -66525,21 +66842,21 @@
     },
     "US": {
       "state": "US",
-      "count": 773,
+      "count": 776,
       "outcome_counts": {
-        "pending": 443,
-        "win": 310,
+        "pending": 445,
+        "win": 311,
         "loss": 20,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 753,
+        "restrictive": 756,
         "protective": 0,
         "supportive": 20,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 762,
+        "local": 765,
         "statewide": 6,
         "federal": 5
       },
@@ -66583,21 +66900,21 @@
     },
     "NY": {
       "state": "NY",
-      "count": 32,
+      "count": 33,
       "outcome_counts": {
-        "pending": 8,
+        "pending": 9,
         "win": 24,
         "loss": 0,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 29,
+        "restrictive": 30,
         "protective": 0,
         "supportive": 0,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 26,
+        "local": 27,
         "statewide": 6,
         "federal": 0
       },
@@ -66663,6 +66980,93 @@
         "grid_energy": 7,
         "water": 4,
         "community_impact": 3
+      },
+      "latest_date": "2026-07-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "MT": {
+      "state": "MT",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 5,
+        "win": 2,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 6
+      },
+      "scope_counts": {
+        "local": 1,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "anti_ai": 1,
+        "community_impact": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 42,
+      "outcome_counts": {
+        "pending": 22,
+        "win": 14,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 26,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 37,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "grid_energy": 9,
+        "water": 9
+      },
+      "latest_date": "2026-07-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "KY": {
+      "state": "KY",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 3,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "contract_guarantees": 1,
+        "grid_energy": 1,
+        "ratepayer": 1
       },
       "latest_date": "2026-07-17",
       "map_color_tier": "restrictive",
@@ -66900,35 +67304,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "TX": {
-      "state": "TX",
-      "count": 41,
-      "outcome_counts": {
-        "pending": 22,
-        "win": 13,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 25,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 36,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "grid_energy": 9,
-        "water": 9
-      },
-      "latest_date": "2026-07-10",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "WI": {
       "state": "WI",
       "count": 24,
@@ -67072,35 +67447,6 @@
       },
       "latest_date": "2026-06-30",
       "map_color_tier": null,
-      "map_color_outcome": "loss"
-    },
-    "KY": {
-      "state": "KY",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "contract_guarantees": 1,
-        "grid_energy": 1,
-        "ratepayer": 1
-      },
-      "latest_date": "2026-06-29",
-      "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "IA": {
@@ -67942,34 +68288,6 @@
       "latest_date": "2025-09-02",
       "map_color_tier": null,
       "map_color_outcome": "loss"
-    },
-    "MT": {
-      "state": "MT",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 2,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 6
-      },
-      "scope_counts": {
-        "local": 0,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "anti_ai": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2025-04-16",
-      "map_color_tier": "unclear",
-      "map_color_outcome": "pending"
     }
   }
 }

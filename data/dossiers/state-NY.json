@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-17T23:07:05Z",
+  "generated_at": "2026-07-18T00:05:55Z",
   "risk_score": {
-    "score": 64.1,
-    "tier": 37.4,
+    "score": 64.2,
+    "tier": 37.5,
     "engagement": 6.4,
     "recency": 20.0,
     "multi_source": 0.3,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 35.9,
+    "score": 35.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 32,
+  "count": 33,
   "tier_counts": {
     "null": 3,
-    "restrictive": 29
+    "restrictive": 30
   },
   "outcome_counts": {
-    "pending": 8,
+    "pending": 9,
     "win": 24
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 26
+    "local": 27
   },
   "issue_top": {
     "grid_energy": 8,
@@ -67,6 +67,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://networkworld.com/article/4198048/new-york-state-just-hit-pause-on-the-ai-data-center-boom.html"
+    },
+    {
+      "id": "news:gdelt-e5795ce476a0cf69-ny",
+      "date": "2026-07-17",
+      "jurisdiction": "investorplace.com",
+      "title": "New York Bans New Data Centers | InvestorPlace",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://investorplace.com/2026/07/new-york-bans-new-data-centers"
     },
     {
       "id": "news:gdelt-82f080f8a2e354ab-ny",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/new-york-becomes-first-us-state-to-enact-data-ce"
-    },
-    {
-      "id": "news:gdelt-9befbe4c4ab2c2ca-ny",
-      "date": "2026-07-14",
-      "jurisdiction": "nbcnews.com",
-      "title": "New York to impose the country first statewide moratorium on data centers",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://nbcnews.com/news/us-news/new-york-impose-countrys-first-statewide-moratorium-data-centers-rcna587429"
     }
   ]
 }

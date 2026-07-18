@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KY",
-  "generated_at": "2026-07-17T23:07:05Z",
+  "generated_at": "2026-07-18T00:05:55Z",
   "risk_score": {
-    "score": 46.7,
-    "tier": 24.0,
-    "engagement": 8.0,
-    "recency": 11.8,
-    "multi_source": 2.9,
+    "score": 51.6,
+    "tier": 26.0,
+    "engagement": 7.8,
+    "recency": 15.3,
+    "multi_source": 2.5,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 53.3,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.4,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "win": 3,
-    "pending": 3,
+    "pending": 4,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 4
+    "local": 5
   },
   "issue_top": {
     "ratepayer": 1,
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-06-29",
+  "latest": "2026-07-17",
   "top_citations": [
+    {
+      "id": "news:gdelt-a65a577d339f2f24-ky",
+      "date": "2026-07-17",
+      "jurisdiction": "wkyufm.org",
+      "title": "As data centers spring up in Kentucky , local organizers rally citizens for national day of protest",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wkyufm.org/news/2026-07-17/as-data-centers-spring-up-in-kentucky-local-organizers-rally-citizens-for-national-day-of-protest"
+    },
     {
       "id": "news:rss-dcd-a76d27ae0972e8ef-ky",
       "date": "2026-06-29",

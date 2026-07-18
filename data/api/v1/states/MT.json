@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MT",
-  "generated_at": "2026-07-17T23:07:05Z",
+  "generated_at": "2026-07-18T00:05:55Z",
   "risk_score": {
-    "score": 38.5,
-    "tier": 12.0,
-    "engagement": 11.6,
-    "recency": 1.3,
-    "multi_source": 8.6,
+    "score": 45.1,
+    "tier": 15.5,
+    "engagement": 10.9,
+    "recency": 6.2,
+    "multi_source": 7.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 61.5,
+    "score": 54.9,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,28 +26,40 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "unclear": 6,
-    "null": 1
+    "null": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "pending": 4,
+    "pending": 5,
     "win": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "statewide": 7
+    "statewide": 7,
+    "local": 1
   },
   "issue_top": {
     "grid_energy": 1,
-    "anti_ai": 1
+    "anti_ai": 1,
+    "community_impact": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-10-30",
-  "latest": "2025-04-16",
+  "latest": "2026-07-17",
   "top_citations": [
+    {
+      "id": "news:gdelt-a9046b042a6d1847-mt",
+      "date": "2026-07-17",
+      "jurisdiction": "kxlf.com",
+      "title": "Data centers coming to Montana ? Great Falls community weighs in",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://kxlf.com/news/data-centers-coming-to-montana-great-falls-community-weighs-in"
+    },
     {
       "id": "research:mt-montana-legislature-20250416-gov-gianforte-signed-sb-212-the-right-to-comput",
       "date": "2025-04-16",

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-17T23:07:05Z",
+  "generated_at": "2026-07-18T00:05:55Z",
   "risk_score": {
-    "score": 55.7,
-    "tier": 28.8,
+    "score": 56.6,
+    "tier": 29.0,
     "engagement": 6.4,
-    "recency": 15.3,
+    "recency": 15.9,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.3,
+    "score": 43.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 3,
-    "denials": 13,
+    "denials": 14,
     "lawsuits": 2,
     "blocked": 2,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 41,
+  "count": 42,
   "tier_counts": {
-    "restrictive": 25,
+    "restrictive": 26,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 22,
     "mixed": 3,
     "loss": 3,
-    "win": 13
+    "win": 14
   },
   "scope_counts": {
-    "local": 36,
+    "local": 37,
     "statewide": 5
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-10",
+  "latest": "2026-07-17",
   "top_citations": [
+    {
+      "id": "news:gdelt-d03c4a0cb0c4c3cb-tx",
+      "date": "2026-07-17",
+      "jurisdiction": "govtech.com",
+      "title": "Small Texas Town Joins Group Considering Data Center Ban",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://govtech.com/artificial-intelligence/small-texas-town-joins-group-considering-data-center-ban"
+    },
     {
       "id": "news:gdelt-9a0003607e633bb6-tx",
       "date": "2026-07-10",
@@ -170,15 +179,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out"
-    },
-    {
-      "id": "court:rss-court-dc-fe8d749b04622f5a-tx",
-      "date": "2026-06-09",
-      "jurisdiction": "CourtListener.com Custom Search Feed",
-      "title": "Durrell Ware v. the State of Texas. at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] ",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://courtlistener.com/opinion/10876017/durrell-ware-v-the-state-of-texas"
     }
   ]
 }

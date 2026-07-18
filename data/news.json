@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-07-17T23:07:05Z",
+  "generated_at": "2026-07-18T00:05:55Z",
   "window_days": 90,
-  "count": 1021,
+  "count": 1028,
   "items": [
+    {
+      "id": "gdelt-7e32a82a6ce0300c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Edgerton City Council overrides data center development denial",
+      "source_domain": "kshb.com",
+      "source_name": "kshb.com",
+      "url": "https://kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward",
+      "date": "2026-07-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-18 00:05:54",
+      "url_hash": "7e32a82a6ce0300c",
+      "content_hash": "5a096d0eda206a4a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-18T00:05:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9055716a41ffc340",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "NY Moratorium Cant Fix Data Centers , but Innovation Can",
+      "source_domain": "dailysignal.com",
+      "source_name": "dailysignal.com",
+      "url": "https://dailysignal.com/2026/07/17/data-centers-cleaner",
+      "date": "2026-07-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-18 00:05:54",
+      "url_hash": "9055716a41ffc340",
+      "content_hash": "664b9e7b8ac9ca3a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-18T00:05:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e5795ce476a0cf69",
+      "state": "NY",
+      "city": null,
+      "category": "protested",
+      "headline": "New York Bans New Data Centers | InvestorPlace",
+      "source_domain": "investorplace.com",
+      "source_name": "investorplace.com",
+      "url": "https://investorplace.com/2026/07/new-york-bans-new-data-centers",
+      "date": "2026-07-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-18 00:05:54",
+      "url_hash": "e5795ce476a0cf69",
+      "content_hash": "4199130fa034b5ed",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-18T00:05:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a65a577d339f2f24",
+      "state": "KY",
+      "city": null,
+      "category": "protested",
+      "headline": "As data centers spring up in Kentucky , local organizers rally citizens for national day of protest",
+      "source_domain": "wkyufm.org",
+      "source_name": "wkyufm.org",
+      "url": "https://wkyufm.org/news/2026-07-17/as-data-centers-spring-up-in-kentucky-local-organizers-rally-citizens-for-national-day-of-protest",
+      "date": "2026-07-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-18 00:05:54",
+      "url_hash": "a65a577d339f2f24",
+      "content_hash": "2e292c798a193399",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-18T00:05:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d03c4a0cb0c4c3cb",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Small Texas Town Joins Group Considering Data Center Ban",
+      "source_domain": "govtech.com",
+      "source_name": "govtech.com",
+      "url": "https://govtech.com/artificial-intelligence/small-texas-town-joins-group-considering-data-center-ban",
+      "date": "2026-07-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-18 00:05:54",
+      "url_hash": "d03c4a0cb0c4c3cb",
+      "content_hash": "1012b37eea1ed4e4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-18T00:05:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-73c7759298232f10",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Pinellas Park Halts New AI Data Centers for One Year To Study Impact and Frame Regulations",
+      "source_domain": "wild941.com",
+      "source_name": "wild941.com",
+      "url": "https://wild941.com/2026/07/17/pinellas-park-halts-new-ai-data-centers-for-one-year-to-study-impact-and-frame-regulations",
+      "date": "2026-07-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-18 00:05:54",
+      "url_hash": "73c7759298232f10",
+      "content_hash": "7916c066a3e9a928",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-18T00:05:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a9046b042a6d1847",
+      "state": "MT",
+      "city": null,
+      "category": "protested",
+      "headline": "Data centers coming to Montana ? Great Falls community weighs in",
+      "source_domain": "kxlf.com",
+      "source_name": "kxlf.com",
+      "url": "https://kxlf.com/news/data-centers-coming-to-montana-great-falls-community-weighs-in",
+      "date": "2026-07-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-18 00:05:54",
+      "url_hash": "a9046b042a6d1847",
+      "content_hash": "0dfe1738c7a77a81",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-18T00:05:54Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-6058fb32d15c9abf",
       "state": "US",
@@ -70,7 +350,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-17T18:47:27Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +390,7 @@
         "rss-dcd"
       ],
       "snippet": "Earthjustice set to take the issue to court if applications keep getting granted",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -149,7 +429,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -188,7 +468,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -229,7 +509,7 @@
         "rss-dcd"
       ],
       "snippet": "Investor Stack Infrastructure has withdrawn from the project in Babenhausen",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -268,7 +548,7 @@
         "rss-utilitydive"
       ],
       "snippet": "At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on &ldquo;seams&rdquo; issues and advanced a complaint over cost recovery for a New Jersey power line.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -907,7 +1187,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Michigan’s governor is inviting developers to sign a protection pledge as she launches a plan to protect the state and its residents from the effects of data centers while still welcoming their development. The post Michigan Gov. Seeks Pledge from Data Center Developers appeared first on RTO Insider .",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1068,7 +1348,7 @@
         "rss-rto-insider"
       ],
       "snippet": "New Mexico Democrats plan to introduce a statewide moratorium on data centers as well as other bills cracking down on the facilities in the 2027 legislative session. The post New Mexico Could be Next State to Ban Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1949,7 +2229,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1988,7 +2268,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2066,7 +2346,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2863,7 +3143,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -5335,7 +5615,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5414,7 +5694,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5847,7 +6127,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -6886,7 +7166,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6964,7 +7244,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7752,7 +8032,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8584,7 +8864,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -15174,7 +15454,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-17T23:07:04Z",
+      "last_seen": "2026-07-18T00:05:54Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40759,6 +41039,62 @@
     }
   ],
   "by_state": {
+    "NY": {
+      "state": "NY",
+      "count": 30,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 6,
+        "banned": 23,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 30
+      },
+      "latest_date": "2026-07-17"
+    },
+    "KY": {
+      "state": "KY",
+      "count": 4,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 2
+      },
+      "platforms": {
+        "news": 4
+      },
+      "latest_date": "2026-07-17"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 26,
+      "total_engagement": 584,
+      "categories": {
+        "banned": 11,
+        "protested": 14,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 22,
+        "legal": 1,
+        "tiktok": 2,
+        "youtube": 1
+      },
+      "latest_date": "2026-07-17"
+    },
+    "MT": {
+      "state": "MT",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-07-17"
+    },
     "NJ": {
       "state": "NJ",
       "count": 10,
@@ -40788,20 +41124,6 @@
         "news": 18,
         "reddit": 3,
         "tiktok": 2
-      },
-      "latest_date": "2026-07-17"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 29,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 23,
-        "cancelled": 1,
-        "protested": 5
-      },
-      "platforms": {
-        "news": 29
       },
       "latest_date": "2026-07-17"
     },
@@ -40942,23 +41264,6 @@
       },
       "latest_date": "2026-07-13"
     },
-    "TX": {
-      "state": "TX",
-      "count": 25,
-      "total_engagement": 584,
-      "categories": {
-        "protested": 14,
-        "banned": 10,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 21,
-        "legal": 1,
-        "tiktok": 2,
-        "youtube": 1
-      },
-      "latest_date": "2026-07-10"
-    },
     "MN": {
       "state": "MN",
       "count": 6,
@@ -41048,19 +41353,6 @@
       },
       "platforms": {
         "news": 2
-      },
-      "latest_date": "2026-06-29"
-    },
-    "KY": {
-      "state": "KY",
-      "count": 3,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 3
       },
       "latest_date": "2026-06-29"
     },
