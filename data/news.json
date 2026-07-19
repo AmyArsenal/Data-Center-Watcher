@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-07-19T03:48:03Z",
+  "generated_at": "2026-07-19T06:19:47Z",
   "window_days": 90,
-  "count": 1047,
+  "count": 1050,
   "items": [
+    {
+      "id": "gdelt-a4feee58bc5e2bec",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "This is our town . Protesters rally against Rapides Parish data center",
+      "source_domain": "kalb.com",
+      "source_name": "kalb.com",
+      "url": "https://kalb.com/2026/07/19/this-is-our-town-protesters-rally-against-rapides-parish-data-center",
+      "date": "2026-07-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-19 06:19:46",
+      "url_hash": "a4feee58bc5e2bec",
+      "content_hash": "afabbc0bd46e8b63",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-19T06:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-da2bb0865ff03b59",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Texas Ag Commissioner Sid Miller speaks at Lubbock data center protest",
+      "source_domain": "fox34.com",
+      "source_name": "fox34.com",
+      "url": "https://fox34.com/2026/07/19/texas-ag-commissioner-sid-miller-speaks-lubbock-data-center-protest",
+      "date": "2026-07-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-19 06:19:46",
+      "url_hash": "da2bb0865ff03b59",
+      "content_hash": "11f7fdef1c09b546",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-19T06:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-96279214a2d9a886",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "It feels like a betrayal of trust : Data center protests held across America",
+      "source_domain": "ktxs.com",
+      "source_name": "ktxs.com",
+      "url": "https://ktxs.com/news/local/it-feels-like-a-betrayal-of-trust-data-center-protests-held-across-america",
+      "date": "2026-07-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-19 06:19:46",
+      "url_hash": "96279214a2d9a886",
+      "content_hash": "549cffe4982d3206",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-19T06:19:46Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-d3ca9813bb102552",
       "state": "WY",
@@ -30,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -110,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -190,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -790,7 +910,7 @@
         "rss-dcd"
       ],
       "snippet": "Rapid AI-driven data center growth is colliding with US power system constraints and community push-back amidst a fragmented policy landscape, raising risks for developers across the full project lifecycle",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1189,7 +1309,7 @@
         "rss-dcd"
       ],
       "snippet": "Earthjustice set to take the issue to court if applications keep getting granted",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1228,7 +1348,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1267,7 +1387,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1308,7 +1428,7 @@
         "rss-dcd"
       ],
       "snippet": "Investor Stack Infrastructure has withdrawn from the project in Babenhausen",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1347,7 +1467,7 @@
         "rss-utilitydive"
       ],
       "snippet": "At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on &ldquo;seams&rdquo; issues and advanced a complaint over cost recovery for a New Jersey power line.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -1986,7 +2106,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Michigan’s governor is inviting developers to sign a protection pledge as she launches a plan to protect the state and its residents from the effects of data centers while still welcoming their development. The post Michigan Gov. Seeks Pledge from Data Center Developers appeared first on RTO Insider .",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2147,7 +2267,7 @@
         "rss-rto-insider"
       ],
       "snippet": "New Mexico Democrats plan to introduce a statewide moratorium on data centers as well as other bills cracking down on the facilities in the 2027 legislative session. The post New Mexico Could be Next State to Ban Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3028,7 +3148,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3067,7 +3187,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3145,7 +3265,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3942,7 +4062,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6414,7 +6534,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6493,7 +6613,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6926,7 +7046,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -7965,7 +8085,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8043,7 +8163,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8831,7 +8951,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9663,7 +9783,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -16253,7 +16373,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-19T03:48:02Z",
+      "last_seen": "2026-07-19T06:19:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41803,6 +41923,23 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 27,
+      "total_engagement": 584,
+      "categories": {
+        "protested": 15,
+        "banned": 11,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 23,
+        "legal": 1,
+        "tiktok": 2,
+        "youtube": 1
+      },
+      "latest_date": "2026-07-19"
+    },
     "WY": {
       "state": "WY",
       "count": 5,
@@ -41879,23 +42016,6 @@
       },
       "platforms": {
         "news": 4
-      },
-      "latest_date": "2026-07-17"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 26,
-      "total_engagement": 584,
-      "categories": {
-        "banned": 11,
-        "protested": 14,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 22,
-        "legal": 1,
-        "tiktok": 2,
-        "youtube": 1
       },
       "latest_date": "2026-07-17"
     },

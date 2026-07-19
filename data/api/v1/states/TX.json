@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-19T03:48:03Z",
+  "generated_at": "2026-07-19T06:19:47Z",
   "risk_score": {
-    "score": 56.6,
-    "tier": 29.0,
+    "score": 57.4,
+    "tier": 29.3,
     "engagement": 6.4,
-    "recency": 15.9,
+    "recency": 16.4,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.4,
+    "score": 42.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 42,
+  "count": 43,
   "tier_counts": {
-    "restrictive": 26,
+    "restrictive": 27,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 22,
+    "pending": 23,
     "mixed": 3,
     "loss": 3,
     "win": 14
   },
   "scope_counts": {
-    "local": 37,
+    "local": 38,
     "statewide": 5
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-17",
+  "latest": "2026-07-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-da2bb0865ff03b59-tx",
+      "date": "2026-07-19",
+      "jurisdiction": "fox34.com",
+      "title": "Texas Ag Commissioner Sid Miller speaks at Lubbock data center protest",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://fox34.com/2026/07/19/texas-ag-commissioner-sid-miller-speaks-lubbock-data-center-protest"
+    },
     {
       "id": "news:gdelt-d03c4a0cb0c4c3cb-tx",
       "date": "2026-07-17",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://lufkindailynews.com/news/community/hundreds-of-data-centers-are-coming-to-texas-here-s-what-you-need-to-know/article_b647962f-99d1-5000-b4e6-95e88ec43ad1.html"
-    },
-    {
-      "id": "news:rss-dcd-28f2f34855810dfc-tx",
-      "date": "2026-06-16",
-      "jurisdiction": "DCD",
-      "title": "DataBank secures $1.45bn for data center build-out. Part of financing to fuel construction of Red Oak campus in Texas",
-      "tier": "supportive",
-      "outcome": "loss",
-      "url": "https://datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out"
     }
   ]
 }

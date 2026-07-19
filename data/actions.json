@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T03:48:03Z",
-  "count": 1458,
+  "generated_at": "2026-07-19T06:19:47Z",
+  "count": 1461,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -158,6 +158,96 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-96279214a2d9a886-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ktxs.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "It feels like a betrayal of trust : Data center protests held across America",
+      "sources": [
+        "https://ktxs.com/news/local/it-feels-like-a-betrayal-of-trust-data-center-protests-held-across-america"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T06:19:46Z",
+      "first_seen": "2026-07-19T06:19:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a4feee58bc5e2bec-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kalb.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "This is our town . Protesters rally against Rapides Parish data center",
+      "sources": [
+        "https://kalb.com/2026/07/19/this-is-our-town-protesters-rally-against-rapides-parish-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T06:19:46Z",
+      "first_seen": "2026-07-19T06:19:46Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-d3ca9813bb102552-wy",
       "origin": "news",
       "state": "WY",
@@ -197,6 +287,51 @@
       "data_source": "news",
       "last_updated": "2026-07-19T03:48:02Z",
       "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-da2bb0865ff03b59-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "fox34.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas Ag Commissioner Sid Miller speaks at Lubbock data center protest",
+      "sources": [
+        "https://fox34.com/2026/07/19/texas-ag-commissioner-sid-miller-speaks-lubbock-data-center-protest"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T06:19:46Z",
+      "first_seen": "2026-07-19T06:19:46Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -67719,21 +67854,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 790,
+      "count": 792,
       "outcome_counts": {
-        "pending": 456,
+        "pending": 458,
         "win": 313,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 769,
+        "restrictive": 771,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 779,
+        "local": 781,
         "statewide": 6,
         "federal": 5
       },
@@ -67803,6 +67938,35 @@
       "latest_date": "2026-07-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 43,
+      "outcome_counts": {
+        "pending": 23,
+        "win": 14,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 27,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 38,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "grid_energy": 9,
+        "water": 9
+      },
+      "latest_date": "2026-07-19",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
     },
     "MA": {
       "state": "MA",
@@ -68006,35 +68170,6 @@
       "latest_date": "2026-07-17",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 42,
-      "outcome_counts": {
-        "pending": 22,
-        "win": 14,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 26,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 37,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "grid_energy": 9,
-        "water": 9
-      },
-      "latest_date": "2026-07-17",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "KY": {
       "state": "KY",
