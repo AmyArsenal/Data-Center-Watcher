@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T23:06:27Z",
-  "count": 1450,
+  "generated_at": "2026-07-19T00:05:24Z",
+  "count": 1451,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -246,6 +246,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-928006287cea1af3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "timesleader.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center protest held Saturday on Wilkes - Barre Public Square",
+      "sources": [
+        "https://timesleader.com/news/1749380/data-center-protest-held-saturday-on-wilkes-barre-public-square"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T00:05:23Z",
+      "first_seen": "2026-07-19T00:05:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-95aee68001170e14-us",
@@ -67357,21 +67402,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 784,
+      "count": 785,
       "outcome_counts": {
-        "pending": 451,
+        "pending": 452,
         "win": 313,
         "loss": 20,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 764,
+        "restrictive": 765,
         "protective": 0,
         "supportive": 20,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 773,
+        "local": 774,
         "statewide": 6,
         "federal": 5
       },
