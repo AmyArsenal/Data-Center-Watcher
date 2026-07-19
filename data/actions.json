@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T00:05:24Z",
-  "count": 1451,
+  "generated_at": "2026-07-19T03:48:03Z",
+  "count": 1458,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,233 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-094f430ae55d94c3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wvtm13.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Birmingham residents protest Birmingham AI data center as part of nationwide protest",
+      "sources": [
+        "https://wvtm13.com/article/alabama-birmingham-oxmoor-valley-residents-protest-artificial-intelligence-data-center/73176954"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T03:48:02Z",
+      "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-7381621fc2528c18-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "spokesman.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center opponents stage 142 protests across 42 U . S . states",
+      "sources": [
+        "https://spokesman.com/stories/2026/jul/18/data-center-opponents-stage-142-protests-across-42"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T03:48:02Z",
+      "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-8d66f920e973c1ca-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "econotimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Nationwide Data Center Protests Highlight Growing Backlash Against AI Expansion",
+      "sources": [
+        "http://econotimes.com/Nationwide-Data-Center-Protests-Highlight-Growing-Backlash-Against-AI-Expansion-1747109"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T03:48:02Z",
+      "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d3ca9813bb102552-wy",
+      "origin": "news",
+      "state": "WY",
+      "county": null,
+      "jurisdiction": "kowb1290.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Wyoming Capitol Protest Targets Data Centers",
+      "sources": [
+        "https://kowb1290.com/ixp/99/p/wyoming-data-center-protest"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T03:48:02Z",
+      "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-f9dc3015b017983b-ut",
+      "origin": "news",
+      "state": "UT",
+      "county": null,
+      "jurisdiction": "finance.yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-07-19",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Kevin OLeary is being sued after claiming the opposition to his Utah data center was funded by Chinese money",
+      "sources": [
+        "https://finance.yahoo.com/small-business/articles/kevin-oleary-being-sued-claiming-190000390.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T03:48:02Z",
+      "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
     {
       "id": "news:gdelt-09a491ee1473f514-us",
       "origin": "news",
@@ -201,6 +428,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-8c4fec8ff8d251df-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "news3lv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Protesters line Highway 160 in Pahrump over planned data center project",
+      "sources": [
+        "https://news3lv.com/news/local/protesters-line-highway-160-in-pahrump-over-planned-data-center-project"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T03:48:02Z",
+      "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:gdelt-8f0cf8c4821abd39-ma",
@@ -561,6 +833,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f41984e8ee96c88e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "standardspeaker.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Protesters voice concerns over data centers at Wilkes - Barre rally",
+      "sources": [
+        "https://standardspeaker.com/2026/07/18/protesters-voice-concerns-over-data-centers-at-wilkes-barre-rally"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-19T03:48:02Z",
+      "first_seen": "2026-07-19T03:48:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-201e159abf8b3c6b-us",
@@ -67402,32 +67719,90 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 785,
+      "count": 790,
       "outcome_counts": {
-        "pending": 452,
+        "pending": 456,
         "win": 313,
-        "loss": 20,
+        "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 765,
+        "restrictive": 769,
         "protective": 0,
-        "supportive": 20,
+        "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 774,
+        "local": 779,
         "statewide": 6,
         "federal": 5
       },
       "issue_top": {
-        "community_impact": 157,
+        "community_impact": 158,
         "zoning": 57,
         "environmental": 16
       },
-      "latest_date": "2026-07-18",
+      "latest_date": "2026-07-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "UT": {
+      "state": "UT",
+      "count": 10,
+      "outcome_counts": {
+        "pending": 8,
+        "win": 1,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 9,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "contract_guarantees": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-19",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "WY": {
+      "state": "WY",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 3,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "grid_energy": 2,
+        "ratepayer": 2
+      },
+      "latest_date": "2026-07-19",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "MA": {
       "state": "MA",
@@ -67511,35 +67886,6 @@
         "grid_energy": 8,
         "environmental": 3,
         "water": 3
-      },
-      "latest_date": "2026-07-18",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "WY": {
-      "state": "WY",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 3,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "grid_energy": 2,
-        "ratepayer": 2
       },
       "latest_date": "2026-07-18",
       "map_color_tier": "restrictive",
@@ -68411,35 +68757,6 @@
         "community_impact": 1
       },
       "latest_date": "2026-06-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 9,
-      "outcome_counts": {
-        "pending": 8,
-        "win": 0,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 8,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "contract_guarantees": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-06-11",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

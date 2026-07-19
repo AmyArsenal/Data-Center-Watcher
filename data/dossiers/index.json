@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-19T00:05:24Z",
+  "generated_at": "2026-07-19T03:48:03Z",
   "states": [
     {
       "state": "AK",
@@ -606,16 +606,16 @@
     },
     {
       "state": "UT",
-      "count": 9,
-      "risk_score": 60.1,
+      "count": 10,
+      "risk_score": 63.2,
       "grade": "D",
-      "grade_score": 39.9,
+      "grade_score": 36.8,
       "moratoriums": 0,
       "approvals": 0,
-      "denials": 0,
-      "lawsuits": 0,
+      "denials": 1,
+      "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-06-11",
+      "latest": "2026-07-19",
       "url": "data/dossiers/state-UT.json"
     },
     {
@@ -690,16 +690,16 @@
     },
     {
       "state": "WY",
-      "count": 7,
-      "risk_score": 49.3,
-      "grade": "C",
-      "grade_score": 50.7,
+      "count": 8,
+      "risk_score": 53.9,
+      "grade": "D",
+      "grade_score": 46.1,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 3,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-07-18",
+      "latest": "2026-07-19",
       "url": "data/dossiers/state-WY.json"
     }
   ],

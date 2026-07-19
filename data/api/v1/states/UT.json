@@ -1,43 +1,44 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-07-19T00:05:24Z",
+  "generated_at": "2026-07-19T03:48:03Z",
   "risk_score": {
-    "score": 60.1,
-    "tier": 36.9,
+    "score": 63.2,
+    "tier": 37.2,
     "engagement": 6.2,
-    "recency": 12.0,
+    "recency": 14.8,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 39.9,
+    "score": 36.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 0,
     "approvals": 0,
-    "denials": 0,
-    "lawsuits": 0,
-    "blocked": 1,
+    "denials": 1,
+    "lawsuits": 1,
+    "blocked": 2,
     "active_companies": 1,
     "bills_introduced": 0,
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 9,
+  "count": 10,
   "tier_counts": {
     "null": 1,
-    "restrictive": 8
+    "restrictive": 9
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 8
+    "pending": 8,
+    "win": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 6
+    "local": 7
   },
   "issue_top": {
     "community_impact": 5,
@@ -53,8 +54,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2026-06-11",
+  "latest": "2026-07-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-f9dc3015b017983b-ut",
+      "date": "2026-07-19",
+      "jurisdiction": "finance.yahoo.com",
+      "title": "Kevin OLeary is being sued after claiming the opposition to his Utah data center was funded by Chinese money",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://finance.yahoo.com/small-business/articles/kevin-oleary-being-sued-claiming-190000390.html"
+    },
     {
       "id": "news:rss-rto-insider-6937d4e78be1b28d-ut",
       "date": "2026-06-11",
