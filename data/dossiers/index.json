@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-19T23:36:22Z",
+  "generated_at": "2026-07-20T01:10:42Z",
   "states": [
     {
       "state": "AK",
@@ -243,9 +243,9 @@
     {
       "state": "LA",
       "count": 5,
-      "risk_score": 37.8,
+      "risk_score": 35.9,
       "grade": "C",
-      "grade_score": 62.2,
+      "grade_score": 64.1,
       "moratoriums": 0,
       "approvals": 2,
       "denials": 2,
@@ -327,9 +327,9 @@
     {
       "state": "MO",
       "count": 23,
-      "risk_score": 50.3,
-      "grade": "D",
-      "grade_score": 49.7,
+      "risk_score": 49.9,
+      "grade": "C",
+      "grade_score": 50.1,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 5,
@@ -481,9 +481,9 @@
     {
       "state": "OH",
       "count": 31,
-      "risk_score": 60.9,
+      "risk_score": 60.6,
       "grade": "D",
-      "grade_score": 39.1,
+      "grade_score": 39.4,
       "moratoriums": 7,
       "approvals": 1,
       "denials": 12,
@@ -593,9 +593,9 @@
     {
       "state": "TX",
       "count": 43,
-      "risk_score": 57.4,
+      "risk_score": 57.1,
       "grade": "D",
-      "grade_score": 42.6,
+      "grade_score": 42.9,
       "moratoriums": 3,
       "approvals": 3,
       "denials": 14,
