@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T01:10:42Z",
-  "count": 1464,
+  "generated_at": "2026-07-20T04:48:45Z",
+  "count": 1466,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,96 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-27486a0dd4483649-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "finance.yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-20",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "BlackRock CEO Larry Fink Warned of an AI Power Crunch New York Just Halted Large Data Centers : CEG , VST , NEE in Focus",
+      "sources": [
+        "https://finance.yahoo.com/technology/ai/articles/blackrock-ceo-larry-fink-warned-143036756.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-20T04:48:45Z",
+      "first_seen": "2026-07-20T04:48:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-cc6c83a8ba426425-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nbcrightnow.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-20",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "City of Pasco to weigh six - month pause on new data center permits",
+      "sources": [
+        "https://nbcrightnow.com/news/city-of-pasco-to-weigh-six-month-pause-on-new-data-center-permits/article_dbedf30c-1aad-427f-9cdc-36ca8c015073.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-20T04:48:45Z",
+      "first_seen": "2026-07-20T04:48:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-094f430ae55d94c3-us",
       "origin": "news",
@@ -67991,23 +68081,52 @@
     }
   ],
   "by_state": {
+    "NY": {
+      "state": "NY",
+      "count": 35,
+      "outcome_counts": {
+        "pending": 9,
+        "win": 26,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 32,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 28,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 8,
+        "environmental": 3,
+        "water": 3
+      },
+      "latest_date": "2026-07-20",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
-      "count": 795,
+      "count": 796,
       "outcome_counts": {
         "pending": 461,
-        "win": 313,
+        "win": 314,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 774,
+        "restrictive": 775,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 784,
+        "local": 785,
         "statewide": 6,
         "federal": 5
       },
@@ -68016,7 +68135,7 @@
         "zoning": 58,
         "environmental": 16
       },
-      "latest_date": "2026-07-19",
+      "latest_date": "2026-07-20",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -68160,35 +68279,6 @@
         "community_impact": 5,
         "environmental": 1,
         "grid_energy": 1
-      },
-      "latest_date": "2026-07-18",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 34,
-      "outcome_counts": {
-        "pending": 9,
-        "win": 25,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 31,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 27,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 8,
-        "environmental": 3,
-        "water": 3
       },
       "latest_date": "2026-07-18",
       "map_color_tier": "restrictive",
