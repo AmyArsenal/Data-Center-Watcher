@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-07-20T22:27:24Z",
+  "generated_at": "2026-07-20T23:28:34Z",
   "risk_score": {
-    "score": 49.5,
-    "tier": 21.5,
-    "engagement": 9.0,
-    "recency": 9.8,
-    "multi_source": 4.3,
+    "score": 50.9,
+    "tier": 22.1,
+    "engagement": 8.9,
+    "recency": 10.8,
+    "multi_source": 4.2,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.5,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.1,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 1,
-    "denials": 8,
+    "denials": 9,
     "lawsuits": 0,
     "blocked": 2,
     "active_companies": 1,
@@ -26,9 +26,9 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 30,
+  "count": 31,
   "tier_counts": {
-    "restrictive": 11,
+    "restrictive": 12,
     "unclear": 9,
     "supportive": 3,
     "protective": 1,
@@ -36,11 +36,11 @@
   },
   "outcome_counts": {
     "pending": 21,
-    "win": 8,
+    "win": 9,
     "loss": 1
   },
   "scope_counts": {
-    "local": 14,
+    "local": 15,
     "statewide": 15,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-07-17",
+  "latest": "2026-07-20",
   "top_citations": [
+    {
+      "id": "news:gdelt-9f779426f4d6d3bb-nj",
+      "date": "2026-07-20",
+      "jurisdiction": "nj1015.com",
+      "title": "Why New Jersey needs an AI data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://nj1015.com/new-jersey-ai-data-center-ban"
+    },
     {
       "id": "news:rss-utilitydive-6707e80d805e6a6a-nj",
       "date": "2026-07-17",
@@ -144,15 +153,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://govtech.com/artificial-intelligence/poll-majority-of-new-jersey-voters-support-ai-data-center-bans"
-    },
-    {
-      "id": "social:x-3aa2fcda6f-nj",
-      "date": "2026-04-24",
-      "jurisdiction": "@datacentersig",
-      "title": "A data center project in New Brunswick, New Jersey, was rejected following local citizen protests. Public opposition to data centers is grow",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://x.com/datacentersig/status/2047699105535680585"
     }
   ]
 }

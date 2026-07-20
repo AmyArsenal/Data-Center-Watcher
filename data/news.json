@@ -1,8 +1,328 @@
 {
-  "generated_at": "2026-07-20T22:27:24Z",
+  "generated_at": "2026-07-20T23:28:34Z",
   "window_days": 90,
-  "count": 1055,
+  "count": 1063,
   "items": [
+    {
+      "id": "gdelt-f4cf3f1616b553ed",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Pott County planning commission reschedules data center public hearing – B104 . 7 Manhattan Hometown Country Station",
+      "source_domain": "b1047.com",
+      "source_name": "b1047.com",
+      "url": "https://b1047.com/pott-county-planning-commission-reschedules-data-center-public-hearing",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "f4cf3f1616b553ed",
+      "content_hash": "8e92e8d08306b024",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-d109d56e606435ad",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "El Paso City Council unanimously approves guide to review future data center proposals",
+      "source_domain": "cbs4local.com",
+      "source_name": "cbs4local.com",
+      "url": "https://cbs4local.com/newsletter-daily/el-paso-city-council-unanimously-approves-guide-to-review-future-data-center-proposals",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "d109d56e606435ad",
+      "content_hash": "5b56879c803d3a34",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1cf2dc4f15a0cef9",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "McCormick County residents to discuss proposed data center",
+      "source_domain": "wrdw.com",
+      "source_name": "wrdw.com",
+      "url": "https://wrdw.com/2026/07/20/mccormick-county-residents-discuss-proposed-data-center",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "1cf2dc4f15a0cef9",
+      "content_hash": "c1eb021b0da2248a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c37104b1763cc342",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Francesca Hong Policy on Data Centers Is Unique » Urban Milwaukee",
+      "source_domain": "urbanmilwaukee.com",
+      "source_name": "urbanmilwaukee.com",
+      "url": "https://urbanmilwaukee.com/2026/07/20/francesca-hongs-policy-on-data-centers-is-unique",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "c37104b1763cc342",
+      "content_hash": "11180aee8ac57e0c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9f779426f4d6d3bb",
+      "state": "NJ",
+      "city": null,
+      "category": "banned",
+      "headline": "Why New Jersey needs an AI data center moratorium",
+      "source_domain": "nj1015.com",
+      "source_name": "nj1015.com",
+      "url": "https://nj1015.com/new-jersey-ai-data-center-ban",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "9f779426f4d6d3bb",
+      "content_hash": "f21539255543f38d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6c7e87618be2557c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Lincoln County commissioners vote to close data center zoning loophole amid debate",
+      "source_domain": "nebraska.tv",
+      "source_name": "nebraska.tv",
+      "url": "https://nebraska.tv/news/local/lincoln-county-commissioners-vote-to-close-data-center-zoning-loophole-amid-debate",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "6c7e87618be2557c",
+      "content_hash": "640ae22bdbba3c42",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-aba442a07dc7c5a9",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Dalton residents push for moratorium against future development of data centers",
+      "source_domain": "newschannel9.com",
+      "source_name": "newschannel9.com",
+      "url": "https://newschannel9.com/news/local/dalton-residents-push-for-moratorium-against-future-development-of-data-centers",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "aba442a07dc7c5a9",
+      "content_hash": "2f803b9a23815be7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5cbea86576a5293f",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Pahrump residents protest proposed AI data center , citing water and utility concerns",
+      "source_domain": "kolotv.com",
+      "source_name": "kolotv.com",
+      "url": "https://kolotv.com/2026/07/20/pahrump-residents-protest-proposed-ai-data-center-citing-water-utility-concerns",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 23:28:33",
+      "url_hash": "5cbea86576a5293f",
+      "content_hash": "147242be492cd2f5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-20T23:28:33Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-effbdfc74898c398",
       "state": "NM",
@@ -32,7 +352,7 @@
         "rss-dcd"
       ],
       "snippet": "Pipeline was expected to feed fuel cells on the site",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -71,7 +391,7 @@
         "rss-dcd"
       ],
       "snippet": "Wixom officials refuse request as developer eyes three-building campus",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -312,7 +632,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-19T08:39:06Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1630,7 +1950,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1669,7 +1989,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1749,7 +2069,7 @@
         "rss-utilitydive"
       ],
       "snippet": "At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on &ldquo;seams&rdquo; issues and advanced a complaint over cost recovery for a New Jersey power line.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -2388,7 +2708,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Michigan’s governor is inviting developers to sign a protection pledge as she launches a plan to protect the state and its residents from the effects of data centers while still welcoming their development. The post Michigan Gov. Seeks Pledge from Data Center Developers appeared first on RTO Insider .",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3430,7 +3750,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3469,7 +3789,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3547,7 +3867,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4344,7 +4664,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6816,7 +7136,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6895,7 +7215,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7328,7 +7648,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -8367,7 +8687,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8445,7 +8765,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9233,7 +9553,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10065,7 +10385,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -16655,7 +16975,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-20T22:27:23Z",
+      "last_seen": "2026-07-20T23:28:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42130,6 +42450,21 @@
     }
   ],
   "by_state": {
+    "NJ": {
+      "state": "NJ",
+      "count": 11,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 4,
+        "protested": 6,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 10,
+        "x": 1
+      },
+      "latest_date": "2026-07-20"
+    },
     "NM": {
       "state": "NM",
       "count": 5,
@@ -42249,21 +42584,6 @@
       },
       "platforms": {
         "news": 1
-      },
-      "latest_date": "2026-07-17"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 10,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 6,
-        "announced": 1,
-        "banned": 3
-      },
-      "platforms": {
-        "news": 9,
-        "x": 1
       },
       "latest_date": "2026-07-17"
     },
