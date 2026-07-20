@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-07-20T12:38:00Z",
+  "generated_at": "2026-07-20T14:53:18Z",
   "window_days": 90,
-  "count": 1053,
+  "count": 1055,
   "items": [
+    {
+      "id": "rss-dcd-effbdfc74898c398",
+      "state": "NM",
+      "city": null,
+      "category": "cancelled",
+      "headline": "New Mexico regulators reject natural gas pipeline for Oracle's 2.5GW Project Jupiter data center",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/new-mexico-regulators-reject-natural-gas-pipeline-for-oracles-25gw-project-jupiter-data-center",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Oracle"
+      ],
+      "first_seen": "2026-07-20 14:53:17",
+      "url_hash": "effbdfc74898c398",
+      "content_hash": "161cfffa04c27536",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Pipeline was expected to feed fuel cells on the site",
+      "last_seen": "2026-07-20T14:53:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/new-mexico-regulators-reject-natural-gas-pipeline-for-oracles-25gw-project-jupiter-data-center/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-c1651aef39036942",
+      "state": "MI",
+      "city": null,
+      "category": "banned",
+      "headline": "City officials in Michigan deny request to lift data center moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/city-officials-in-michigan-denied-request-to-lift-data-center-moratorium",
+      "date": "2026-07-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-20 14:53:17",
+      "url_hash": "c1651aef39036942",
+      "content_hash": "4a1176254ba19308",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Wixom officials refuse request as developer eyes three-building campus",
+      "last_seen": "2026-07-20T14:53:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/city-officials-in-michigan-denied-request-to-lift-data-center-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-cc6c83a8ba426425",
       "state": "US",
@@ -1550,7 +1630,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1589,7 +1669,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1669,7 +1749,7 @@
         "rss-utilitydive"
       ],
       "snippet": "At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on &ldquo;seams&rdquo; issues and advanced a complaint over cost recovery for a New Jersey power line.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -2308,7 +2388,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Michigan’s governor is inviting developers to sign a protection pledge as she launches a plan to protect the state and its residents from the effects of data centers while still welcoming their development. The post Michigan Gov. Seeks Pledge from Data Center Developers appeared first on RTO Insider .",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3350,7 +3430,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3389,7 +3469,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3467,7 +3547,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4264,7 +4344,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -6736,7 +6816,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6815,7 +6895,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7248,7 +7328,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -8287,7 +8367,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8365,7 +8445,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9153,7 +9233,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9985,7 +10065,7 @@
         "rss-dck"
       ],
       "snippet": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -16575,7 +16655,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-20T12:37:59Z",
+      "last_seen": "2026-07-20T14:53:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42050,6 +42130,34 @@
     }
   ],
   "by_state": {
+    "NM": {
+      "state": "NM",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "cancelled": 2,
+        "banned": 2,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-07-20"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 13,
+      "total_engagement": 104,
+      "categories": {
+        "banned": 9,
+        "protested": 4
+      },
+      "platforms": {
+        "news": 12,
+        "reddit": 1
+      },
+      "latest_date": "2026-07-20"
+    },
     "NY": {
       "state": "NY",
       "count": 32,
@@ -42106,20 +42214,6 @@
         "news": 9
       },
       "latest_date": "2026-07-19"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 12,
-      "total_engagement": 104,
-      "categories": {
-        "banned": 8,
-        "protested": 4
-      },
-      "platforms": {
-        "news": 11,
-        "reddit": 1
-      },
-      "latest_date": "2026-07-18"
     },
     "MA": {
       "state": "MA",
@@ -42187,20 +42281,6 @@
         "news": 18,
         "reddit": 3,
         "tiktok": 1
-      },
-      "latest_date": "2026-07-17"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 4
       },
       "latest_date": "2026-07-17"
     },

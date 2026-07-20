@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T12:38:00Z",
-  "count": 1466,
+  "generated_at": "2026-07-20T14:53:18Z",
+  "count": 1468,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -109,6 +109,96 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-c1651aef39036942-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-20",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "City officials in Michigan deny request to lift data center moratorium. Wixom officials refuse request as developer eyes three-building campus",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/city-officials-in-michigan-denied-request-to-lift-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-20T14:53:17Z",
+      "first_seen": "2026-07-20T14:53:18Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-effbdfc74898c398-nm",
+      "origin": "news",
+      "state": "NM",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-20",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New Mexico regulators reject natural gas pipeline for Oracle's 2.5GW Project Jupiter data center. Pipeline was expected to feed fuel cells on the site",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/new-mexico-regulators-reject-natural-gas-pipeline-for-oracles-25gw-project-jupiter-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-20T14:53:17Z",
+      "first_seen": "2026-07-20T14:53:18Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-094f430ae55d94c3-us",
@@ -68139,6 +68229,64 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "MI": {
+      "state": "MI",
+      "count": 16,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 10,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 13,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 14,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-20",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "NM": {
+      "state": "NM",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 4,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 1,
+        "federal": 1
+      },
+      "issue_top": {
+        "environmental": 2,
+        "water": 2,
+        "community_impact": 1
+      },
+      "latest_date": "2026-07-20",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "UT": {
       "state": "UT",
       "count": 10,
@@ -68254,64 +68402,6 @@
       "latest_date": "2026-07-18",
       "map_color_tier": "restrictive",
       "map_color_outcome": "win"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 15,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 9,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 12,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 13,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-07-18",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 1,
-        "federal": 1
-      },
-      "issue_top": {
-        "environmental": 2,
-        "water": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-07-17",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "OH": {
       "state": "OH",

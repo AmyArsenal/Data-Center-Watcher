@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-07-20T12:38:01Z",
+  "generated_at": "2026-07-20T14:53:18Z",
   "states": [
     {
       "state": "AK",
@@ -298,16 +298,16 @@
     },
     {
       "state": "MI",
-      "count": 15,
-      "risk_score": 59.2,
+      "count": 16,
+      "risk_score": 60.9,
       "grade": "D",
-      "grade_score": 40.8,
-      "moratoriums": 6,
+      "grade_score": 39.1,
+      "moratoriums": 7,
       "approvals": 0,
-      "denials": 9,
+      "denials": 10,
       "lawsuits": 0,
       "active_companies": 2,
-      "latest": "2026-07-18",
+      "latest": "2026-07-20",
       "url": "data/dossiers/state-MI.json"
     },
     {
@@ -438,16 +438,16 @@
     },
     {
       "state": "NM",
-      "count": 6,
-      "risk_score": 50.2,
+      "count": 7,
+      "risk_score": 52.5,
       "grade": "D",
-      "grade_score": 49.8,
+      "grade_score": 47.5,
       "moratoriums": 2,
       "approvals": 1,
-      "denials": 3,
+      "denials": 4,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-17",
+      "latest": "2026-07-20",
       "url": "data/dossiers/state-NM.json"
     },
     {
