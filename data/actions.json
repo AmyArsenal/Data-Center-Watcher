@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T21:30:51Z",
-  "count": 1495,
+  "generated_at": "2026-07-21T22:32:56Z",
+  "count": 1496,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -154,6 +154,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-46251c4fbfb74203-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "abc3340.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Rep . Terri Sewell backs bill to pause AI data center construction pending safeguards",
+      "sources": [
+        "https://abc3340.com/news/local/rep-terri-sewell-backs-bill-to-pause-ai-data-center-construction-pending-safeguards"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-21T22:32:55Z",
+      "first_seen": "2026-07-21T22:32:55Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-65740c3382b5abb8-us",
@@ -69405,21 +69450,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 819,
+      "count": 820,
       "outcome_counts": {
         "pending": 474,
-        "win": 324,
+        "win": 325,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 798,
+        "restrictive": 799,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 808,
+        "local": 809,
         "statewide": 6,
         "federal": 5
       },
