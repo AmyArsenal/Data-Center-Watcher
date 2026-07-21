@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T14:52:03Z",
-  "count": 1488,
+  "generated_at": "2026-07-21T16:11:45Z",
+  "count": 1492,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-1d855bea0388cc1e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wvtm13.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Fairfield City Council postpones data center town hall after pausing future projects",
+      "sources": [
+        "https://wvtm13.com/article/alabama-data-center-development-fairfield-city-council-town-hall-postponed-moratorium/73197768"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-21T16:11:44Z",
+      "first_seen": "2026-07-21T16:11:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-42f384af4ccb013a-us",
@@ -338,6 +383,96 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-b7b79d8014d4ed53-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "mynews13.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Edgewater city leaders move to ban data centers",
+      "sources": [
+        "https://mynews13.com/fl/orlando/news/2026/07/21/edgewater-mayor-warns-of-water-power-strains-as-city-discusses-blocking-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-21T16:11:44Z",
+      "first_seen": "2026-07-21T16:11:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d2fb8ae6aff67432-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "postandcourier.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lexington County weighs data centers as neighbors ban them",
+      "sources": [
+        "https://postandcourier.com/columbia/news/lexington-county-sc-data-centers-restrictions/article_320face0-e51f-49f5-a379-3d51bd68d5d0.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-21T16:11:44Z",
+      "first_seen": "2026-07-21T16:11:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-e041ba274b2971b1-us",
       "origin": "news",
       "state": "US",
@@ -557,6 +692,55 @@
       "data_source": "news",
       "last_updated": "2026-07-21T14:52:03Z",
       "first_seen": "2026-07-21T14:52:03Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-84c408e3f02cba39-ks",
+      "origin": "news",
+      "state": "KS",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "environmental",
+        "water"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "US data center electricity use could more than double by 2030, water use could quadruple by 2028: report. Policy responses &ldquo;reflect a tension between furthering state-level economic development interests and balancing local community health and environmental concerns,&rdquo; the Kansas Health Institute report states",
+      "sources": [
+        "https://utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-21T16:11:44Z",
+      "first_seen": "2026-07-21T16:11:45Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -69084,21 +69268,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 813,
+      "count": 816,
       "outcome_counts": {
-        "pending": 471,
-        "win": 321,
+        "pending": 472,
+        "win": 323,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 792,
+        "restrictive": 795,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 802,
+        "local": 805,
         "statewide": 6,
         "federal": 5
       },
@@ -69164,6 +69348,35 @@
         "tax_incentive": 3,
         "community_impact": 2,
         "transparency": 2
+      },
+      "latest_date": "2026-07-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "KS": {
+      "state": "KS",
+      "count": 14,
+      "outcome_counts": {
+        "pending": 9,
+        "win": 3,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 4,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "tax_incentive": 4,
+        "zoning": 3
       },
       "latest_date": "2026-07-21",
       "map_color_tier": "restrictive",
@@ -70269,35 +70482,6 @@
       "latest_date": "2026-05-15",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "KS": {
-      "state": "KS",
-      "count": 13,
-      "outcome_counts": {
-        "pending": 8,
-        "win": 3,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 4,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "tax_incentive": 4,
-        "zoning": 3
-      },
-      "latest_date": "2026-05-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "LA": {
       "state": "LA",

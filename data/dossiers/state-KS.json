@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KS",
-  "generated_at": "2026-07-21T14:52:03Z",
+  "generated_at": "2026-07-21T16:11:45Z",
   "risk_score": {
-    "score": 36.7,
-    "tier": 12.6,
-    "engagement": 9.1,
-    "recency": 5.3,
-    "multi_source": 4.6,
+    "score": 40.6,
+    "tier": 14.6,
+    "engagement": 8.9,
+    "recency": 7.8,
+    "multi_source": 4.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 63.3,
+    "score": 59.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,34 +26,44 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
     "unclear": 3,
     "supportive": 4,
     "null": 4,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
-    "pending": 8,
+    "pending": 9,
     "win": 3,
     "loss": 2
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 6
+    "local": 7
   },
   "issue_top": {
-    "community_impact": 5,
+    "community_impact": 6,
     "tax_incentive": 4,
     "zoning": 3,
-    "water": 1,
-    "grid_energy": 1
+    "water": 2,
+    "grid_energy": 1,
+    "environmental": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2023-03-08",
-  "latest": "2026-05-12",
+  "latest": "2026-07-21",
   "top_citations": [
+    {
+      "id": "news:rss-utilitydive-84c408e3f02cba39-ks",
+      "date": "2026-07-21",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "US data center electricity use could more than double by 2030, water use could quadruple by 2028: report. Policy responses &ldquo;reflect a ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774"
+    },
     {
       "id": "news:gdelt-f804914d6167b359-ks",
       "date": "2026-05-12",
@@ -134,15 +144,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.harveycounty.gov/commission-implements-moratorium-on-data-center-developments"
-    },
-    {
-      "id": "research:ks-kansas-legislature-20250415-kansas-enacted-sb-98-a-20-year-sales-and-use-tax",
-      "date": "2025-04-15",
-      "jurisdiction": "Kansas Legislature",
-      "title": "Kansas enacted SB 98, a 20-year sales and use tax exemption for qualified data centers investing at least $250M, covering construction, equi",
-      "tier": null,
-      "outcome": "loss",
-      "url": "https://www.kansascommerce.gov/program/business-incentives-and-services/sb-98-data-center-sales-tax-exemption/"
     }
   ]
 }
