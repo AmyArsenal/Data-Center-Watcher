@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MD",
-  "generated_at": "2026-07-21T11:18:17Z",
+  "generated_at": "2026-07-21T12:48:53Z",
   "risk_score": {
-    "score": 43.1,
-    "tier": 16.5,
-    "engagement": 10.3,
-    "recency": 4.7,
-    "multi_source": 6.5,
+    "score": 44.8,
+    "tier": 17.3,
+    "engagement": 10.2,
+    "recency": 6.0,
+    "multi_source": 6.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 56.9,
+    "score": 55.2,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 1,
-    "denials": 8,
+    "denials": 9,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 4,
     "bills_enacted": 3
   },
-  "count": 26,
+  "count": 27,
   "tier_counts": {
-    "restrictive": 5,
+    "restrictive": 6,
     "unclear": 14,
     "supportive": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 8,
+    "win": 9,
     "pending": 17,
     "loss": 1
   },
   "scope_counts": {
-    "local": 4,
+    "local": 5,
     "statewide": 20,
     "federal": 2
   },
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2020-02-07",
-  "latest": "2026-06-18",
+  "latest": "2026-07-21",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-39c2b82d68476cca-md",
+      "date": "2026-07-21",
+      "jurisdiction": "DCD",
+      "title": "Atmosphere Data Centers challenges six-month data center moratorium in Montgomery, Maryland. Developer's 360MW proposal thwarted",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/atmosphere-data-centers-challenges-six-month-data-center-moratorium-in-montgomery-maryland"
+    },
     {
       "id": "news:rss-utilitydive-f2f90203f2048c90-md",
       "date": "2026-06-18",
@@ -143,15 +152,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1595?ys=2026RS"
-    },
-    {
-      "id": "openstates:ocd-bill-59ff46f1-4b6a-42da-8097-b3fc098afab1-md",
-      "date": "2026-02-13",
-      "jurisdiction": "MD Legislature",
-      "title": "Data Centers - Standards for Operation and Siting",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1534?ys=2026RS"
     }
   ]
 }
