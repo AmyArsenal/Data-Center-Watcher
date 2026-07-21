@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-07-21T12:48:53Z",
+  "generated_at": "2026-07-21T14:52:03Z",
   "window_days": 90,
-  "count": 1065,
+  "count": 1067,
   "items": [
+    {
+      "id": "rss-dck-2ed13c74fe2ca88d",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Spain’s $3.4B AI Campus Bets on On-Site Power",
+      "source_domain": "datacenterknowledge.com",
+      "source_name": "datacenterknowledge",
+      "url": "https://datacenterknowledge.com/data-center-construction/spain-s-3-4b-ai-campus-bets-on-on-site-power",
+      "date": "2026-07-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-21 14:52:03",
+      "url_hash": "2ed13c74fe2ca88d",
+      "content_hash": "8668f9b16d55d23c",
+      "source": "rss-dck",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dck"
+      ],
+      "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
+      "last_seen": "2026-07-21T14:52:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterknowledge.com/data-center-construction/spain-s-3-4b-ai-campus-bets-on-on-site-power",
+        "rss_author": "Shane Snider",
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-83aa941463a89ca5",
+      "state": "WA",
+      "city": null,
+      "category": "banned",
+      "headline": "Council in Pasco, Washington, unanimously approves six-month data center moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/council-in-pasco-washington-unanimously-approves-six-month-data-center-moratorium",
+      "date": "2026-07-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-21 14:52:02",
+      "url_hash": "83aa941463a89ca5",
+      "content_hash": "546e158db6af42eb",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Follows increasing concerns around data center energy, land, and cooling infrastructure requirements",
+      "last_seen": "2026-07-21T14:52:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/council-in-pasco-washington-unanimously-approves-six-month-data-center-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-9bb07edb9a9182a9",
       "state": "US",
@@ -350,7 +428,7 @@
         "rss-dcd"
       ],
       "snippet": "Developer's 360MW proposal thwarted",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -391,7 +469,7 @@
         "rss-dcd"
       ],
       "snippet": "Issues lasted for almost 15 hours",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2350,7 +2428,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2389,7 +2467,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2469,7 +2547,7 @@
         "rss-utilitydive"
       ],
       "snippet": "At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on &ldquo;seams&rdquo; issues and advanced a complaint over cost recovery for a New Jersey power line.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -4150,7 +4228,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4189,7 +4267,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4267,7 +4345,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5064,7 +5142,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7536,7 +7614,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7615,7 +7693,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8048,7 +8126,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -9087,7 +9165,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -9165,7 +9243,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9953,7 +10031,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -17375,7 +17453,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-21T12:48:52Z",
+      "last_seen": "2026-07-21T14:52:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42540,6 +42618,20 @@
     }
   ],
   "by_state": {
+    "WA": {
+      "state": "WA",
+      "count": 8,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 5,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 8
+      },
+      "latest_date": "2026-07-21"
+    },
     "MD": {
       "state": "MD",
       "count": 5,
@@ -42908,20 +43000,6 @@
         "news": 2
       },
       "latest_date": "2026-06-29"
-    },
-    "WA": {
-      "state": "WA",
-      "count": 7,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 5,
-        "cancelled": 1,
-        "banned": 1
-      },
-      "platforms": {
-        "news": 7
-      },
-      "latest_date": "2026-06-26"
     },
     "FL": {
       "state": "FL",

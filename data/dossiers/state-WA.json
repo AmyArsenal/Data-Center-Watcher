@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-07-21T12:48:53Z",
+  "generated_at": "2026-07-21T14:52:03Z",
   "risk_score": {
-    "score": 62.6,
-    "tier": 28.7,
-    "engagement": 7.4,
-    "recency": 19.6,
-    "multi_source": 1.8,
+    "score": 63.6,
+    "tier": 29.7,
+    "engagement": 7.3,
+    "recency": 20.0,
+    "multi_source": 1.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 37.4,
+    "score": 36.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 1,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 11,
+  "count": 12,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 7
+    "restrictive": 8
   },
   "outcome_counts": {
-    "win": 4,
+    "win": 5,
     "pending": 6,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "tax_incentive": 3,
@@ -53,8 +53,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-06-26",
+  "latest": "2026-07-21",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-83aa941463a89ca5-wa",
+      "date": "2026-07-21",
+      "jurisdiction": "DCD",
+      "title": "Council in Pasco, Washington, unanimously approves six-month data center moratorium. Follows increasing concerns around data center energy, ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/council-in-pasco-washington-unanimously-approves-six-month-data-center-moratorium"
+    },
     {
       "id": "news:gdelt-0ed4117df5be7b2e-wa",
       "date": "2026-06-26",
@@ -135,15 +144,6 @@
       "tier": null,
       "outcome": "loss",
       "url": "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/03/washington-legislature-delays-data-center-bill"
-    },
-    {
-      "id": "openstates:ocd-bill-b65cdf84-d331-419f-b291-9cf70ef50a04-wa",
-      "date": "2026-01-26",
-      "jurisdiction": "WA Legislature",
-      "title": "Providing a retail sales and use tax exemption for the construction and equipping of new data centers located in a county east of the Cascad",
-      "tier": "supportive",
-      "outcome": "pending",
-      "url": "https://app.leg.wa.gov/billsummary/?BillNumber=2655&Year=2025&Initiative=false"
     }
   ]
 }
