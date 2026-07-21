@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T09:14:31Z",
-  "count": 1476,
+  "generated_at": "2026-07-21T11:18:17Z",
+  "count": 1477,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-cc01af6548fe71a8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Google Cloud experiences outage after power and cooling failure in Netherlands data center. Issues lasted for almost 15 hours",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/google-cloud-experiences-outage-after-power-and-cooling-failure-in-netherlands-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-21T11:18:16Z",
+      "first_seen": "2026-07-21T11:18:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-1cf2dc4f15a0cef9-us",
       "origin": "news",
@@ -68540,6 +68585,35 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 804,
+      "outcome_counts": {
+        "pending": 468,
+        "win": 315,
+        "loss": 21,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 783,
+        "protective": 0,
+        "supportive": 21,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 793,
+        "statewide": 6,
+        "federal": 5
+      },
+      "issue_top": {
+        "community_impact": 162,
+        "zoning": 59,
+        "environmental": 16
+      },
+      "latest_date": "2026-07-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "NY": {
       "state": "NY",
       "count": 35,
@@ -68568,35 +68642,6 @@
       "latest_date": "2026-07-20",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 803,
-      "outcome_counts": {
-        "pending": 467,
-        "win": 315,
-        "loss": 21,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 782,
-        "protective": 0,
-        "supportive": 21,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 792,
-        "statewide": 6,
-        "federal": 5
-      },
-      "issue_top": {
-        "community_impact": 162,
-        "zoning": 59,
-        "environmental": 16
-      },
-      "latest_date": "2026-07-20",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "MI": {
       "state": "MI",
