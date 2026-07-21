@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-07-21T16:11:45Z",
+  "generated_at": "2026-07-21T17:42:07Z",
   "window_days": 90,
-  "count": 1071,
+  "count": 1072,
   "items": [
+    {
+      "id": "gdelt-d34bc989e360486f",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Commissioners hear data center moratorium request",
+      "source_domain": "greensburgdailynews.com",
+      "source_name": "greensburgdailynews.com",
+      "url": "https://greensburgdailynews.com/news/local_news/commissioners-hear-data-center-moratorium-request/article_9b77c9b7-6539-401a-ab6e-074b9d4d9ed6.html",
+      "date": "2026-07-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-21 17:42:06",
+      "url_hash": "d34bc989e360486f",
+      "content_hash": "1aa236b4481c5ba7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-21T17:42:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-d2fb8ae6aff67432",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -110,7 +150,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +190,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Policy responses &ldquo;reflect a tension between furthering state-level economic development interests and balancing local community health and environmental concerns,&rdquo; the Kansas Health Institute report states.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +229,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -228,7 +268,7 @@
         "rss-dcd"
       ],
       "snippet": "Follows increasing concerns around data center energy, land, and cooling infrastructure requirements",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -547,7 +587,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -587,7 +627,7 @@
         "rss-dcd"
       ],
       "snippet": "Developer's 360MW proposal thwarted",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2587,7 +2627,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2626,7 +2666,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2706,7 +2746,7 @@
         "rss-utilitydive"
       ],
       "snippet": "At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on &ldquo;seams&rdquo; issues and advanced a complaint over cost recovery for a New Jersey power line.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -4387,7 +4427,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4426,7 +4466,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4504,7 +4544,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5301,7 +5341,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -7773,7 +7813,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7852,7 +7892,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8285,7 +8325,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -9324,7 +9364,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -9402,7 +9442,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10190,7 +10230,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -17612,7 +17652,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-21T16:11:44Z",
+      "last_seen": "2026-07-21T17:42:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

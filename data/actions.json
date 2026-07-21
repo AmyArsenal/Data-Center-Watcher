@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T16:11:45Z",
-  "count": 1492,
+  "generated_at": "2026-07-21T17:42:07Z",
+  "count": 1493,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -467,6 +467,51 @@
       "data_source": "news",
       "last_updated": "2026-07-21T16:11:44Z",
       "first_seen": "2026-07-21T16:11:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d34bc989e360486f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "greensburgdailynews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Commissioners hear data center moratorium request",
+      "sources": [
+        "https://greensburgdailynews.com/news/local_news/commissioners-hear-data-center-moratorium-request/article_9b77c9b7-6539-401a-ab6e-074b9d4d9ed6.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-21T17:42:06Z",
+      "first_seen": "2026-07-21T17:42:07Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -69268,21 +69313,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 816,
+      "count": 817,
       "outcome_counts": {
         "pending": 472,
-        "win": 323,
+        "win": 324,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 795,
+        "restrictive": 796,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 805,
+        "local": 806,
         "statewide": 6,
         "federal": 5
       },
