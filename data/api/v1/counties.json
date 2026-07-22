@@ -1,14 +1,14 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-07-22T01:03:51Z",
+  "generated_at": "2026-07-22T04:30:42Z",
   "counties": [
     {
       "county_fips": "13215",
       "county_name": "Muscogee County",
       "state": "GA",
-      "count": 1,
-      "risk_score": 50.2,
-      "latest": "2026-04-16",
+      "count": 2,
+      "risk_score": 66.2,
+      "latest": "2026-07-22",
       "url": "data/dossiers/county-13215.json"
     },
     {

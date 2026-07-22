@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-07-22T01:03:51Z",
+  "generated_at": "2026-07-22T04:30:42Z",
   "risk_score": {
-    "score": 60.9,
-    "tier": 34.8,
+    "score": 61.3,
+    "tier": 35.1,
     "engagement": 6.2,
-    "recency": 19.9,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 39.1,
+    "score": 38.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 16,
+  "count": 17,
   "tier_counts": {
-    "restrictive": 13,
+    "restrictive": 14,
     "null": 3
   },
   "outcome_counts": {
     "win": 10,
-    "pending": 6
+    "pending": 7
   },
   "scope_counts": {
-    "local": 14,
+    "local": 15,
     "statewide": 2
   },
   "issue_top": {
-    "community_impact": 5,
+    "community_impact": 6,
     "grid_energy": 1,
     "water": 1,
     "ratepayer": 1,
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-07-20",
+  "latest": "2026-07-22",
   "top_citations": [
+    {
+      "id": "news:gdelt-aeab2fedd0a40c4a-mi",
+      "date": "2026-07-22",
+      "jurisdiction": "wnem.com",
+      "title": "Data centers and property rights : What Michigan residents need to know",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wnem.com/2026/07/21/data-centers-property-rights-what-michigan-residents-need-know"
+    },
     {
       "id": "news:rss-dcd-c1651aef39036942-mi",
       "date": "2026-07-20",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/utility-in-ypsilanti-michigan-imposes-one-year-moratorium-on-supplying-new-data-centers"
-    },
-    {
-      "id": "news:gdelt-b57c99aff65c0d0d-mi",
-      "date": "2026-04-30",
-      "jurisdiction": "pymnts.com",
-      "title": "Michigan Townships Move to Pause Data Centers Amid Community Backlash",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://pymnts.com/cpi-posts/michigan-townships-move-to-pause-data-centers-amid-community-backlash"
     }
   ]
 }

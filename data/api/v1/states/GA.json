@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-07-22T01:03:51Z",
+  "generated_at": "2026-07-22T04:30:42Z",
   "risk_score": {
-    "score": 48.7,
-    "tier": 20.4,
-    "engagement": 8.6,
-    "recency": 11.0,
-    "multi_source": 3.7,
+    "score": 50.8,
+    "tier": 21.4,
+    "engagement": 8.4,
+    "recency": 12.5,
+    "multi_source": 3.5,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 51.3,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.2,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 19,
+  "count": 20,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "unclear": 4,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
-    "pending": 14,
+    "pending": 15,
     "win": 2,
     "loss": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 9,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
-  "latest": "2026-07-16",
+  "latest": "2026-07-22",
   "top_citations": [
+    {
+      "id": "news:gdelt-b6a60daf15dbace5-ga",
+      "date": "2026-07-22",
+      "jurisdiction": "Columbus",
+      "title": "Columbus City Council considers data center regulations , including water usage requirements",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wyso.org/2026-07-21/columbus-city-council-considers-data-center-regulations-including-water-usage-requirements"
+    },
     {
       "id": "news:rss-rto-insider-b4bd5c00ddb13cb7-ga",
       "date": "2026-07-16",
@@ -144,15 +153,6 @@
       "tier": null,
       "outcome": "loss",
       "url": "https://www.datacenterdynamics.com/en/news/prologis-900mw-project-sail-gets-the-go-ahead-in-coweta-county-georgia/"
-    },
-    {
-      "id": "openstates:ocd-bill-9b76ffb5-275d-456f-b376-7ac90f8b533d-ga",
-      "date": "2026-02-19",
-      "jurisdiction": "GA Legislature",
-      "title": "Ad valorem tax; state-wide homestead exemption in an amount as determined from proceeds generated from collection of certain ad valorem prop",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T01:03:51Z",
-  "count": 1496,
+  "generated_at": "2026-07-22T04:30:41Z",
+  "count": 1511,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,467 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-2ccbf2c41d7d5730-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "news3lv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Nye County residents push back on proposed Pahrump data center at meeting",
+      "sources": [
+        "https://news3lv.com/news/local/nye-county-residents-push-back-on-proposed-pahrump-data-center-at-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-5eef666d56202bcf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "foxcarolina.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Greenwood Co . Council approves final reading of one - year moratorium on data centers",
+      "sources": [
+        "https://foxcarolina.com/2026/07/21/greenwood-co-council-approves-final-reading-one-year-moratorium-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-6fd72eebdd973013-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wtxl.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lowndes County residents continue to push for data center moratorium",
+      "sources": [
+        "https://wtxl.com/news/local-news/in-your-neighborhood/lowndes-county/lowndes-county-residents-continue-to-push-for-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-826bbaf71e0a8605-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wlky.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Bullitt County moves to pause data center applications",
+      "sources": [
+        "https://wlky.com/article/bullitt-county-pause-data-center-applications/73220817"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-91eadb15e623159d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "eastbaytimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pittsburg residents voice opposition to approved data center",
+      "sources": [
+        "https://eastbaytimes.com/2026/07/21/pittsburg-residents-voice-opposition-to-approved-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a15fdfb8ddbc1a96-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wibw.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Report : Emporia citizen petition to ban high - impact data centers validated",
+      "sources": [
+        "https://wibw.com/2026/07/21/report-emporia-citizen-petition-ban-high-impact-data-centers-validated"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-aeab2fedd0a40c4a-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "wnem.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers and property rights : What Michigan residents need to know",
+      "sources": [
+        "https://wnem.com/2026/07/21/data-centers-property-rights-what-michigan-residents-need-know"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-afd0badf2b10765a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "bartlesvilleradio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium",
+        "study_or_report"
+      ],
+      "authority_level": "county_commission",
+      "date": "2026-07-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Bartlesville Radio » News » Montgomery County Commission Defeats Data Center Moratorium",
+      "sources": [
+        "https://bartlesvilleradio.com/pages/news/502792026/montgomery-county-commission-defeats-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-b6a60daf15dbace5-ga",
+      "origin": "news",
+      "state": "GA",
+      "county": null,
+      "jurisdiction": "Columbus",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Columbus City Council considers data center regulations , including water usage requirements",
+      "sources": [
+        "https://wyso.org/2026-07-21/columbus-city-council-considers-data-center-regulations-including-water-usage-requirements"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b94304b63b184d09-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wgal.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hummelstown officials oppose AI data center zoning in neighboring township",
+      "sources": [
+        "https://wgal.com/article/hummelstown-officials-oppose-ai-data-center-zoning-neighboring-township/73221139"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-08c1107e8909199c-us",
       "origin": "news",
@@ -105,6 +566,96 @@
       "data_source": "news",
       "last_updated": "2026-07-21T16:11:44Z",
       "first_seen": "2026-07-21T16:11:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-21b3eeaf00ac38ef-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "newsweek.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-07-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Map Shows States Where Governor Candidates Support Data Center Moratoriums",
+      "sources": [
+        "https://newsweek.com/map-shows-states-where-governor-candidates-support-data-center-moratoriums-12225115"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-22f6f392a92583e9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ironcountytoday.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Wayne County Halts Data Center Development for 180 Days",
+      "sources": [
+        "https://ironcountytoday.com/2026/07/21/industrial-developers-target-rural-utah-as-wayne-county-enacts-temporary-freeze-community-urged-to-stay-vigilant"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -199,6 +750,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-4ebca62b2ae5a705-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "cbs2iowa.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "County considers EU - 2 zoning path for data centers tied to nuclear plants",
+      "sources": [
+        "https://cbs2iowa.com/news/local/county-considers-eu-2-zoning-path-for-data-centers-tied-to-nuclear-plants"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-65740c3382b5abb8-us",
@@ -608,6 +1206,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-da854f37c2e43ee4-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "breitbart.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Report : Marxist Activist Campaigns Against Virginia AI Data Center Raise Foreign Influence Concerns",
+      "sources": [
+        "https://breitbart.com/pre-viral/2026/07/21/report-marxist-activist-campaigns-against-virginia-ai-data-center-raise-foreign-influence-concerns"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-e041ba274b2971b1-us",
       "origin": "news",
       "state": "US",
@@ -647,6 +1290,51 @@
       "data_source": "news",
       "last_updated": "2026-07-21T12:48:52Z",
       "first_seen": "2026-07-21T12:48:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-ef1d36e90b1aa715-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fetchyournews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Walker County Approves Temporary Moratorium on Data Centers - FetchYourNewsFetchYourNews",
+      "sources": [
+        "https://fetchyournews.com/featured-stories/walker-county-approves-temporary-moratorium-on-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T04:30:41Z",
+      "first_seen": "2026-07-22T04:30:41Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -69448,34 +70136,92 @@
     }
   ],
   "by_state": {
+    "GA": {
+      "state": "GA",
+      "count": 20,
+      "outcome_counts": {
+        "pending": 15,
+        "win": 2,
+        "loss": 2,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 8,
+        "protective": 0,
+        "supportive": 3,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 10,
+        "statewide": 9,
+        "federal": 1
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "water": 4,
+        "environmental": 3
+      },
+      "latest_date": "2026-07-22",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
-      "count": 820,
+      "count": 832,
       "outcome_counts": {
-        "pending": 474,
-        "win": 325,
+        "pending": 480,
+        "win": 331,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 799,
+        "restrictive": 811,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 809,
-        "statewide": 6,
+        "local": 820,
+        "statewide": 7,
         "federal": 5
       },
       "issue_top": {
-        "community_impact": 163,
-        "zoning": 59,
+        "community_impact": 166,
+        "zoning": 61,
         "grid_energy": 17
       },
-      "latest_date": "2026-07-21",
+      "latest_date": "2026-07-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 17,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 10,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 14,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 15,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-22",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "MD": {
       "state": "MD",
@@ -69564,6 +70310,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "VA": {
+      "state": "VA",
+      "count": 47,
+      "outcome_counts": {
+        "pending": 25,
+        "win": 17,
+        "loss": 3,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 16,
+        "protective": 3,
+        "supportive": 2,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 23,
+        "statewide": 24,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "zoning": 9,
+        "environmental": 5
+      },
+      "latest_date": "2026-07-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "NY": {
       "state": "NY",
       "count": 35,
@@ -69588,35 +70363,6 @@
         "grid_energy": 8,
         "environmental": 3,
         "water": 3
-      },
-      "latest_date": "2026-07-20",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 16,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 10,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 13,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 14,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "environmental": 1,
-        "grid_energy": 1
       },
       "latest_date": "2026-07-20",
       "map_color_tier": "restrictive",
@@ -69883,35 +70629,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "GA": {
-      "state": "GA",
-      "count": 19,
-      "outcome_counts": {
-        "pending": 14,
-        "win": 2,
-        "loss": 2,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 7,
-        "protective": 0,
-        "supportive": 3,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 9,
-        "statewide": 9,
-        "federal": 1
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "water": 4,
-        "environmental": 3
-      },
-      "latest_date": "2026-07-16",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "OR": {
       "state": "OR",
       "count": 8,
@@ -70081,35 +70798,6 @@
         "ratepayer": 6,
         "tax_incentive": 6,
         "community_impact": 5
-      },
-      "latest_date": "2026-07-13",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 46,
-      "outcome_counts": {
-        "pending": 24,
-        "win": 17,
-        "loss": 3,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 15,
-        "protective": 3,
-        "supportive": 2,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 22,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "zoning": 9,
-        "environmental": 5
       },
       "latest_date": "2026-07-13",
       "map_color_tier": "restrictive",

@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-22T01:03:51Z",
+  "generated_at": "2026-07-22T04:30:42Z",
   "risk_score": {
-    "score": 51.6,
-    "tier": 21.4,
-    "engagement": 9.5,
-    "recency": 10.5,
-    "multi_source": 5.2,
+    "score": 52.4,
+    "tier": 21.8,
+    "engagement": 9.4,
+    "recency": 11.1,
+    "multi_source": 5.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.4,
+    "score": 47.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 46,
+  "count": 47,
   "tier_counts": {
-    "restrictive": 15,
+    "restrictive": 16,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 17,
-    "pending": 24,
+    "pending": 25,
     "loss": 3,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 22,
+    "local": 23,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-13",
+  "latest": "2026-07-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-da854f37c2e43ee4-va",
+      "date": "2026-07-21",
+      "jurisdiction": "breitbart.com",
+      "title": "Report : Marxist Activist Campaigns Against Virginia AI Data Center Raise Foreign Influence Concerns",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://breitbart.com/pre-viral/2026/07/21/report-marxist-activist-campaigns-against-virginia-ai-data-center-raise-foreign-influence-concerns"
+    },
     {
       "id": "news:gdelt-58ce33869291aaf4-va",
       "date": "2026-07-13",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds"
-    },
-    {
-      "id": "news:rss-dcd-ec20f81ca2807d6a-va",
-      "date": "2026-05-13",
-      "jurisdiction": "Prince William County",
-      "title": "Developer withdraws plan for 160-acre data center in Prince William County, Virginia. Reason for withdrawal not provided",
-      "tier": "supportive",
-      "outcome": "loss",
-      "url": "https://datacenterdynamics.com/en/news/developer-withdraws-plan-for-160-acre-data-center-in-prince-william-county-virginia"
     }
   ]
 }
