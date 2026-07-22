@@ -1,48 +1,48 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-07-22T12:55:01Z",
+  "generated_at": "2026-07-22T14:51:14Z",
   "risk_score": {
-    "score": 49.6,
-    "tier": 19.6,
-    "engagement": 9.1,
-    "recency": 11.3,
-    "multi_source": 4.5,
+    "score": 51.4,
+    "tier": 20.5,
+    "engagement": 9.0,
+    "recency": 12.6,
+    "multi_source": 4.3,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.4,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.6,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 2,
-    "denials": 8,
-    "lawsuits": 0,
-    "blocked": 1,
+    "denials": 9,
+    "lawsuits": 1,
+    "blocked": 2,
     "active_companies": 3,
     "bills_introduced": 0,
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 22,
+  "count": 23,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
-    "restrictive": 6,
+    "restrictive": 7,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 11,
-    "win": 8,
+    "win": 9,
     "mixed": 1,
     "loss": 2
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 11
+    "local": 12
   },
   "issue_top": {
     "community_impact": 7,
@@ -50,9 +50,9 @@
     "water": 4,
     "environmental": 2,
     "transparency": 2,
+    "farmland": 2,
     "zoning": 2,
-    "ratepayer": 1,
-    "farmland": 1
+    "ratepayer": 1
   },
   "companies": [
     [
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-07-16",
+  "latest": "2026-07-22",
   "top_citations": [
+    {
+      "id": "news:rss-dck-1746d0bee7984c3d-ca",
+      "date": "2026-07-22",
+      "jurisdiction": "datacenterknowledge",
+      "title": "Lawsuit Tests Water Strategy Behind California’s Lithium Valley. The case serves as a critical early test for Imperial County’s Lithium Vall",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterknowledge.com/regulations/lawsuit-tests-water-strategy-behind-california-s-lithium-valley"
+    },
     {
       "id": "news:gdelt-dbcf302ef9677ff3-ca",
       "date": "2026-07-16",
@@ -152,15 +161,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.thepress.net/news/oakley-city-council-passes-45-day-a-i-data-center-moratorium/article_ce030f9f-d19b-49c8-a1f0-20c9b68da205.html"
-    },
-    {
-      "id": "research:ca-imperial-county-board-of-supervisors-20260407-imperial-county-supervisors-voted-4-1-to-approve-l",
-      "date": "2026-04-07",
-      "jurisdiction": "Imperial County Board of Supervisors",
-      "title": "Imperial County supervisors voted 4-1 to approve lot merger advancing 950,000-sq-ft AI data center next to city of Imperial. Project could u",
-      "tier": null,
-      "outcome": "loss",
-      "url": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
     }
   ]
 }

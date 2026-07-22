@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-22T12:55:01Z",
+  "generated_at": "2026-07-22T14:51:15Z",
   "filter": {
     "issue_category": "farmland"
   },
-  "count": 25,
+  "count": 26,
   "items": [
     {
       "id": "social:tiktok-d1bc0b5181e3fb3d-us",
@@ -1005,6 +1005,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dck-1746d0bee7984c3d-ca",
+      "origin": "news",
+      "state": "CA",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"lawsuit\"]",
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": "[\"farmland\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lawsuit Tests Water Strategy Behind California’s Lithium Valley. The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers",
+      "sources": "[\"https://datacenterknowledge.com/regulations/lawsuit-tests-water-strategy-behind-california-s-lithium-valley\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-22T14:51:13Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     }
   ]
 }
