@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-07-21T23:37:21Z",
+  "generated_at": "2026-07-22T01:03:51Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -34,7 +34,7 @@
       "county_name": "Jefferson County",
       "state": "MO",
       "count": 6,
-      "risk_score": 59.4,
+      "risk_score": 57.8,
       "latest": "2026-07-08",
       "url": "data/dossiers/county-29099.json"
     },
@@ -79,7 +79,7 @@
       "county_name": "Oklahoma County",
       "state": "OK",
       "count": 8,
-      "risk_score": 42.0,
+      "risk_score": 40.9,
       "latest": "2026-04-22",
       "url": "data/dossiers/county-40109.json"
     },
