@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T14:51:14Z",
-  "count": 1515,
+  "generated_at": "2026-07-22T16:11:02Z",
+  "count": 1516,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -570,6 +570,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-6be7706d93346e77-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "zoning_restriction"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Details of four data centers planned for Petersburg, Virginia, revealed. Sites did not have to go through the rezoning process",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/details-of-four-data-centers-planned-for-petersburg-virginia-revealed"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T16:11:01Z",
+      "first_seen": "2026-07-22T16:11:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-dck-1746d0bee7984c3d-ca",
@@ -70465,6 +70512,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "VA": {
+      "state": "VA",
+      "count": 48,
+      "outcome_counts": {
+        "pending": 25,
+        "win": 17,
+        "loss": 4,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 16,
+        "protective": 3,
+        "supportive": 3,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 24,
+        "statewide": 24,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "zoning": 10,
+        "environmental": 5
+      },
+      "latest_date": "2026-07-22",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "MD": {
       "state": "MD",
       "count": 27,
@@ -70547,35 +70623,6 @@
         "community_impact": 6,
         "tax_incentive": 4,
         "zoning": 3
-      },
-      "latest_date": "2026-07-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 47,
-      "outcome_counts": {
-        "pending": 25,
-        "win": 17,
-        "loss": 3,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 16,
-        "protective": 3,
-        "supportive": 2,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 23,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "zoning": 9,
-        "environmental": 5
       },
       "latest_date": "2026-07-21",
       "map_color_tier": "restrictive",

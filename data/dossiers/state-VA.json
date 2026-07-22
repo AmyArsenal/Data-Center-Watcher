@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-22T14:51:15Z",
+  "generated_at": "2026-07-22T16:11:02Z",
   "risk_score": {
     "score": 52.4,
-    "tier": 21.8,
+    "tier": 21.3,
     "engagement": 9.4,
-    "recency": 11.1,
-    "multi_source": 5.1,
+    "recency": 11.7,
+    "multi_source": 5.0,
     "regulatory": 5.0
   },
   "grade": {
@@ -17,7 +17,7 @@
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 3,
+    "approvals": 4,
     "denials": 17,
     "lawsuits": 3,
     "blocked": 2,
@@ -26,27 +26,27 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 47,
+  "count": 48,
   "tier_counts": {
     "restrictive": 16,
     "unclear": 15,
     "protective": 3,
     "null": 11,
-    "supportive": 2
+    "supportive": 3
   },
   "outcome_counts": {
     "win": 17,
     "pending": 25,
-    "loss": 3,
+    "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 23,
+    "local": 24,
     "statewide": 24
   },
   "issue_top": {
+    "zoning": 10,
     "community_impact": 10,
-    "zoning": 9,
     "water": 5,
     "environmental": 5,
     "grid_energy": 4,
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-21",
+  "latest": "2026-07-22",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-6be7706d93346e77-va",
+      "date": "2026-07-22",
+      "jurisdiction": "DCD",
+      "title": "Details of four data centers planned for Petersburg, Virginia, revealed. Sites did not have to go through the rezoning process",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/details-of-four-data-centers-planned-for-petersburg-virginia-revealed"
+    },
     {
       "id": "news:gdelt-da854f37c2e43ee4-va",
       "date": "2026-07-21",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://cavalierdaily.com/article/2026/05/taylor-ai-data-centers-increase-the-urban-rural-divide"
-    },
-    {
-      "id": "news:rss-dck-fbe9ee434ad68e60-va",
-      "date": "2026-05-19",
-      "jurisdiction": "datacenterknowledge",
-      "title": "Virginia Tightens Data Center Generator Permitting as Community Scrutiny Grows. Virginia’s revised guidance reflects growing concern that hy",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds"
     }
   ]
 }

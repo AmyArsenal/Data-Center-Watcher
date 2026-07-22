@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-22T14:51:15Z",
+  "generated_at": "2026-07-22T16:11:02Z",
   "filter": {
     "issue_category": "zoning"
   },
-  "count": 117,
+  "count": 118,
   "items": [
     {
       "id": "social:reddit-98ec6b26ba63a616-ok",
@@ -4688,6 +4688,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-6be7706d93346e77-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"zoning_restriction\"]",
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": "[\"zoning\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Details of four data centers planned for Petersburg, Virginia, revealed. Sites did not have to go through the rezoning process",
+      "sources": "[\"https://datacenterdynamics.com/en/news/details-of-four-data-centers-planned-for-petersburg-virginia-revealed\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-22T16:11:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     }
   ]
 }
