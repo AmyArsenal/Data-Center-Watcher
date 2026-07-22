@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-07-22T09:36:13Z",
+  "generated_at": "2026-07-22T11:28:20Z",
   "window_days": 90,
-  "count": 1059,
+  "count": 1061,
   "items": [
+    {
+      "id": "gdelt-c79832d6c47c2228",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Caroline County commissioners approve a one - year moratorium on new data centers",
+      "source_domain": "wboc.com",
+      "source_name": "wboc.com",
+      "url": "https://wboc.com/news/caroline-county-commissioners-approve-a-one-year-moratorium-on-new-data-centers/article_e2b4c188-c810-4704-a33a-d95e0e029f28.html",
+      "date": "2026-07-22",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-22 11:28:20",
+      "url_hash": "c79832d6c47c2228",
+      "content_hash": "24b273c6bf717944",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-22T11:28:20Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-01acbc2520abd55e",
+      "state": "SD",
+      "city": null,
+      "category": "banned",
+      "headline": "Yankton County , South Dakota county commissioners pass data center moratorium",
+      "source_domain": "ktiv.com",
+      "source_name": "ktiv.com",
+      "url": "https://ktiv.com/2026/07/22/data-center-moratorium-passes-yankton-county-south-dakota",
+      "date": "2026-07-22",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-22 11:28:20",
+      "url_hash": "01acbc2520abd55e",
+      "content_hash": "d2da7ff7173320a0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-22T11:28:20Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-b94304b63b184d09",
       "state": "US",
@@ -710,7 +790,7 @@
         "rss-latitude"
       ],
       "snippet": "The 2035 outlook marks an 83% jump since December, despite development risks like local opposition. The post BNEF nearly doubled its forecast for US data center power demand appeared first on Latitude Media .",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -909,7 +989,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Policy responses &ldquo;reflect a tension between furthering state-level economic development interests and balancing local community health and environmental concerns,&rdquo; the Kansas Health Institute report states.",
-      "last_seen": "2026-07-22T09:36:12Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -948,7 +1028,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3346,7 +3426,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3385,7 +3465,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5146,7 +5226,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5185,7 +5265,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5263,7 +5343,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6060,7 +6140,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -8532,7 +8612,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8611,7 +8691,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9044,7 +9124,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -10083,7 +10163,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -10161,7 +10241,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10949,7 +11029,7 @@
         "rss-dck"
       ],
       "snippet": "The initiative's success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -18371,7 +18451,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-22T09:36:13Z",
+      "last_seen": "2026-07-22T11:28:20Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42277,6 +42357,18 @@
     }
   ],
   "by_state": {
+    "SD": {
+      "state": "SD",
+      "count": 1,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1
+      },
+      "platforms": {
+        "news": 1
+      },
+      "latest_date": "2026-07-22"
+    },
     "MI": {
       "state": "MI",
       "count": 14,

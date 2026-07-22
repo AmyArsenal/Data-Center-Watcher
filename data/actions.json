@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T09:36:13Z",
-  "count": 1511,
+  "generated_at": "2026-07-22T11:28:20Z",
+  "count": 1513,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-01acbc2520abd55e-sd",
+      "origin": "news",
+      "state": "SD",
+      "county": null,
+      "jurisdiction": "ktiv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Yankton County , South Dakota county commissioners pass data center moratorium",
+      "sources": [
+        "https://ktiv.com/2026/07/22/data-center-moratorium-passes-yankton-county-south-dakota"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T11:28:20Z",
+      "first_seen": "2026-07-22T11:28:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-2ccbf2c41d7d5730-us",
       "origin": "news",
@@ -480,6 +525,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-c79832d6c47c2228-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wboc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Caroline County commissioners approve a one - year moratorium on new data centers",
+      "sources": [
+        "https://wboc.com/news/caroline-county-commissioners-approve-a-one-year-moratorium-on-new-data-centers/article_e2b4c188-c810-4704-a33a-d95e0e029f28.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-22T11:28:20Z",
+      "first_seen": "2026-07-22T11:28:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-08c1107e8909199c-us",
@@ -70167,21 +70257,21 @@
     },
     "US": {
       "state": "US",
-      "count": 832,
+      "count": 833,
       "outcome_counts": {
         "pending": 480,
-        "win": 331,
+        "win": 332,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 811,
+        "restrictive": 812,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 820,
+        "local": 821,
         "statewide": 7,
         "federal": 5
       },
@@ -70222,6 +70312,35 @@
       "latest_date": "2026-07-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
+    },
+    "SD": {
+      "state": "SD",
+      "count": 2,
+      "outcome_counts": {
+        "pending": 0,
+        "win": 2,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 1,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "contract_guarantees": 1,
+        "grid_energy": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-07-22",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "win"
     },
     "MD": {
       "state": "MD",
@@ -71439,35 +71558,6 @@
       "latest_date": "2026-03-27",
       "map_color_tier": "unclear",
       "map_color_outcome": "pending"
-    },
-    "SD": {
-      "state": "SD",
-      "count": 1,
-      "outcome_counts": {
-        "pending": 0,
-        "win": 1,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 0,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 0,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "contract_guarantees": 1,
-        "grid_energy": 1,
-        "ratepayer": 1
-      },
-      "latest_date": "2026-03-24",
-      "map_color_tier": null,
-      "map_color_outcome": "win"
     },
     "VT": {
       "state": "VT",

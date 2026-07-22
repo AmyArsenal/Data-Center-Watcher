@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "SD",
-  "generated_at": "2026-07-22T09:36:13Z",
+  "generated_at": "2026-07-22T11:28:21Z",
   "risk_score": {
-    "score": 27.2,
-    "tier": 12.0,
+    "score": 57.2,
+    "tier": 26.0,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
@@ -16,9 +16,9 @@
     "label": "Insufficient data"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 0,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,15 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 1,
+  "count": 2,
   "tier_counts": {
-    "null": 1
+    "null": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "win": 1
+    "win": 2
   },
   "scope_counts": {
-    "statewide": 1
+    "statewide": 1,
+    "local": 1
   },
   "issue_top": {
     "ratepayer": 1,
@@ -46,8 +48,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-24",
-  "latest": "2026-03-24",
+  "latest": "2026-07-22",
   "top_citations": [
+    {
+      "id": "news:gdelt-01acbc2520abd55e-sd",
+      "date": "2026-07-22",
+      "jurisdiction": "ktiv.com",
+      "title": "Yankton County , South Dakota county commissioners pass data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://ktiv.com/2026/07/22/data-center-moratorium-passes-yankton-county-south-dakota"
+    },
     {
       "id": "research:sd-south-dakota-legislature-20260324-gov-larry-rhoden-signed-sb-135-the-data-center",
       "date": "2026-03-24",
