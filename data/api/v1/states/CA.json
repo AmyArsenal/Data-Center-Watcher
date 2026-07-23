@@ -1,13 +1,13 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-07-23T22:28:15Z",
+  "generated_at": "2026-07-23T23:26:12Z",
   "risk_score": {
     "score": 51.4,
-    "tier": 20.5,
-    "engagement": 9.0,
-    "recency": 12.6,
-    "multi_source": 4.3,
+    "tier": 19.7,
+    "engagement": 8.9,
+    "recency": 13.7,
+    "multi_source": 4.2,
     "regulatory": 5.0
   },
   "grade": {
@@ -17,7 +17,7 @@
   },
   "quantified": {
     "moratoriums": 2,
-    "approvals": 2,
+    "approvals": 3,
     "denials": 9,
     "lawsuits": 1,
     "blocked": 2,
@@ -26,23 +26,23 @@
     "bills_passed": 2,
     "bills_enacted": 2
   },
-  "count": 23,
+  "count": 24,
   "tier_counts": {
     "unclear": 9,
     "protective": 1,
     "null": 5,
     "restrictive": 7,
-    "supportive": 1
+    "supportive": 2
   },
   "outcome_counts": {
     "pending": 11,
     "win": 9,
     "mixed": 1,
-    "loss": 2
+    "loss": 3
   },
   "scope_counts": {
     "statewide": 11,
-    "local": 12
+    "local": 13
   },
   "issue_top": {
     "community_impact": 7,
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-07",
-  "latest": "2026-07-22",
+  "latest": "2026-07-23",
   "top_citations": [
+    {
+      "id": "news:gdelt-49b8c7c026e2c9d0-ca",
+      "date": "2026-07-23",
+      "jurisdiction": "tmz.com",
+      "title": "California High School Student Rails Against Planned Data Center In City Council Rant",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://tmz.com/2026/07/23/california-teen-rants-about-ai-data-centers-city-council"
+    },
     {
       "id": "news:rss-dck-1746d0bee7984c3d-ca",
       "date": "2026-07-22",
@@ -152,15 +161,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://kesq.com/news/2026/04/22/more-than-100-residents-protest-proposed-data-center-at-coachella-city-council-meeting/"
-    },
-    {
-      "id": "research:ca-oakley-city-council-20260412-oakley-city-council-unanimously-passed-a-45-day-ur",
-      "date": "2026-04-12",
-      "jurisdiction": "Oakley City Council",
-      "title": "Oakley City Council unanimously passed a 45-day urgency-ordinance moratorium blocking new data center land-use applications, becoming the fi",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.thepress.net/news/oakley-city-council-passes-45-day-a-i-data-center-moratorium/article_ce030f9f-d19b-49c8-a1f0-20c9b68da205.html"
     }
   ]
 }
