@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MD",
-  "generated_at": "2026-07-23T00:12:59Z",
+  "generated_at": "2026-07-23T03:42:34Z",
   "risk_score": {
-    "score": 44.1,
-    "tier": 17.3,
-    "engagement": 10.2,
-    "recency": 5.3,
-    "multi_source": 6.3,
+    "score": 45.8,
+    "tier": 18.1,
+    "engagement": 10.0,
+    "recency": 6.6,
+    "multi_source": 6.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 55.9,
+    "score": 54.2,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 5,
+    "moratoriums": 6,
     "approvals": 1,
-    "denials": 9,
+    "denials": 10,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 4,
     "bills_enacted": 3
   },
-  "count": 27,
+  "count": 28,
   "tier_counts": {
-    "restrictive": 6,
+    "restrictive": 7,
     "unclear": 14,
     "supportive": 2,
     "null": 5
   },
   "outcome_counts": {
-    "win": 9,
+    "win": 10,
     "pending": 17,
     "loss": 1
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 20,
     "federal": 2
   },
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2020-02-07",
-  "latest": "2026-07-21",
+  "latest": "2026-07-23",
   "top_citations": [
+    {
+      "id": "news:gdelt-84baa45fe8022334-md",
+      "date": "2026-07-23",
+      "jurisdiction": "capitalgazette.com",
+      "title": "Data centers spark moratorium rush on Maryland Eastern Shore",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://capitalgazette.com/2026/07/22/eastern-shore-data-center-moratoriums"
+    },
     {
       "id": "news:rss-dcd-39c2b82d68476cca-md",
       "date": "2026-07-21",
@@ -143,15 +152,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb1000?ys=2026RS"
-    },
-    {
-      "id": "openstates:ocd-bill-44ca75fe-ca3c-4914-97dd-f92d55af1b2a-md",
-      "date": "2026-02-15",
-      "jurisdiction": "MD Legislature",
-      "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1595?ys=2026RS"
     }
   ]
 }
