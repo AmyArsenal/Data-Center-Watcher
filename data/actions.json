@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T06:17:59Z",
-  "count": 1536,
+  "generated_at": "2026-07-23T09:04:00Z",
+  "count": 1541,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -203,6 +203,146 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-53f32eba0ba5fd38-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kfyrtv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment",
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Public hearing for Morton County planning and zoning commission about data centers",
+      "sources": [
+        "https://kfyrtv.com/2026/07/23/public-hearing-morton-county-planning-zoning-commission-about-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-23T09:03:59Z",
+      "first_seen": "2026-07-23T09:03:59Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-5b1711bae7a94c24-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "13wham.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-23",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Henrietta seeks public input on data center zoning as statewide moratorium begins",
+      "sources": [
+        "https://13wham.com/news/local/henrietta-seeks-public-input-on-data-center-zoning-as-statewide-moratorium-begins"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-23T09:03:59Z",
+      "first_seen": "2026-07-23T09:03:59Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-5d9a9a9ccbbe74b2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wfmj.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-23",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Warren City Council tables data center ban , proposes temporary data center committee",
+      "sources": [
+        "https://wfmj.com/news/local-news/warren/warren-city-council-tables-data-center-ban-proposes-temporary-data-center-committee/article_7dc4db39-a340-48e5-8aa3-a3a5c38cf78e.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-23T09:03:59Z",
+      "first_seen": "2026-07-23T09:03:59Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-84baa45fe8022334-md",
       "origin": "news",
       "state": "MD",
@@ -287,6 +427,51 @@
       "data_source": "news",
       "last_updated": "2026-07-23T03:42:33Z",
       "first_seen": "2026-07-23T03:42:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9992a48776ea8a8f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "post-journal.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-23",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "State data center moratorium is reasonable – for now",
+      "sources": [
+        "https://post-journal.com/opinion/in-our-opinion/2026/07/states-data-center-moratorium-is-reasonable-for-now"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-23T09:03:59Z",
+      "first_seen": "2026-07-23T09:03:59Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -379,6 +564,51 @@
       "data_source": "news",
       "last_updated": "2026-07-23T03:42:33Z",
       "first_seen": "2026-07-23T03:42:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-eb332dc9a636a021-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "abc57.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": "county_commission",
+      "date": "2026-07-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan Republican Primary candidates take on data centers at Cass County Commission meeting",
+      "sources": [
+        "https://abc57.com/news/michigan-republican-primary-candidates-take-on-data-centers-at-cass-county-commission-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-23T09:03:59Z",
+      "first_seen": "2026-07-23T09:03:59Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -71283,27 +71513,27 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 852,
+      "count": 856,
       "outcome_counts": {
-        "pending": 491,
-        "win": 340,
+        "pending": 492,
+        "win": 343,
         "loss": 21,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 831,
+        "restrictive": 835,
         "protective": 0,
         "supportive": 21,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 840,
+        "local": 844,
         "statewide": 7,
         "federal": 5
       },
       "issue_top": {
         "community_impact": 171,
-        "zoning": 64,
+        "zoning": 66,
         "grid_energy": 17
       },
       "latest_date": "2026-07-23",
@@ -71368,6 +71598,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "MI": {
+      "state": "MI",
+      "count": 18,
+      "outcome_counts": {
+        "pending": 8,
+        "win": 10,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 15,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 16,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "environmental": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-07-23",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "GA": {
       "state": "GA",
       "count": 20,
@@ -71396,35 +71655,6 @@
       "latest_date": "2026-07-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 17,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 10,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 14,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 15,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 6,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-07-22",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "SD": {
       "state": "SD",

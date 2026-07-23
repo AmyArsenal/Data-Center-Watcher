@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-07-23T06:17:59Z",
+  "generated_at": "2026-07-23T09:04:00Z",
   "risk_score": {
-    "score": 61.3,
-    "tier": 35.1,
+    "score": 61.6,
+    "tier": 35.3,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 38.7,
+    "score": 38.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 17,
+  "count": 18,
   "tier_counts": {
-    "restrictive": 14,
+    "restrictive": 15,
     "null": 3
   },
   "outcome_counts": {
     "win": 10,
-    "pending": 7
+    "pending": 8
   },
   "scope_counts": {
-    "local": 15,
+    "local": 16,
     "statewide": 2
   },
   "issue_top": {
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-07-22",
+  "latest": "2026-07-23",
   "top_citations": [
+    {
+      "id": "news:gdelt-eb332dc9a636a021-mi",
+      "date": "2026-07-23",
+      "jurisdiction": "abc57.com",
+      "title": "Michigan Republican Primary candidates take on data centers at Cass County Commission meeting",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://abc57.com/news/michigan-republican-primary-candidates-take-on-data-centers-at-cass-county-commission-meeting"
+    },
     {
       "id": "news:gdelt-aeab2fedd0a40c4a-mi",
       "date": "2026-07-22",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wwmt.com/news/state/penn-township-michigan-board-considers-data-center-moratorium-in-cass-county"
-    },
-    {
-      "id": "news:rss-dcd-35267d10a476be1d-mi",
-      "date": "2026-05-11",
-      "jurisdiction": "DCD",
-      "title": "Utility in Ypsilanti, Michigan, imposes one-year moratorium on supplying new data centers. Effectively halts two potential projects in the a",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/utility-in-ypsilanti-michigan-imposes-one-year-moratorium-on-supplying-new-data-centers"
     }
   ]
 }
