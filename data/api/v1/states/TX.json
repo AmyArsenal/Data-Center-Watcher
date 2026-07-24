@@ -1,34 +1,34 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-24T12:05:48Z",
+  "generated_at": "2026-07-24T14:08:07Z",
   "risk_score": {
-    "score": 56.9,
-    "tier": 29.5,
+    "score": 57.6,
+    "tier": 29.8,
     "engagement": 6.4,
-    "recency": 15.7,
+    "recency": 16.2,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.1,
+    "score": 42.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 3,
-    "denials": 14,
-    "lawsuits": 2,
-    "blocked": 2,
+    "denials": 15,
+    "lawsuits": 3,
+    "blocked": 3,
     "active_companies": 8,
     "bills_introduced": 0,
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 44,
+  "count": 45,
   "tier_counts": {
-    "restrictive": 28,
+    "restrictive": 29,
     "null": 15,
     "supportive": 1
   },
@@ -36,21 +36,21 @@
     "pending": 24,
     "mixed": 3,
     "loss": 3,
-    "win": 14
+    "win": 15
   },
   "scope_counts": {
-    "local": 39,
+    "local": 40,
     "statewide": 5
   },
   "issue_top": {
     "community_impact": 10,
-    "grid_energy": 9,
+    "grid_energy": 10,
     "water": 9,
     "farmland": 8,
     "ratepayer": 4,
     "noise": 4,
-    "transparency": 3,
-    "environmental": 3
+    "environmental": 4,
+    "transparency": 3
   },
   "companies": [
     [
@@ -98,6 +98,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://wbap.com/2026/07/23/data-center-developer-withdraws-east-texas-project-after-failing-to-meet-abbotts-standards"
+    },
+    {
+      "id": "news:rss-dcd-65324532f88de996-tx",
+      "date": "2026-07-24",
+      "jurisdiction": "DCD",
+      "title": "Vantage, VoltaGrid face lawsuit concerning natural gas powered off-grid data centers in San Antonio, Texas. Environmental Integrity Project,",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/vantage-voltagrid-face-lawsuit-concerning-natural-gas-powered-off-grid-data-centers-in-san-antonio-texas"
     },
     {
       "id": "news:gdelt-da2bb0865ff03b59-tx",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/texas-governor-abbott-calls-for-data-centers-to-be-banned-in-rural-areas"
-    },
-    {
-      "id": "news:gdelt-70d0a308f303f27d-tx",
-      "date": "2026-06-30",
-      "jurisdiction": "news4sanantonio.com",
-      "title": "San Marcos becomes the first Texas city to ban data centers , testing its local control",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://news4sanantonio.com/news/local/san-marcos-becomes-the-first-texas-city-to-ban-data-centers-testing-its-local-control-hays-county-residents-protest-electricity-water-utilities"
     }
   ]
 }
