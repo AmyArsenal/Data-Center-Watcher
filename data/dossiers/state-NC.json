@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NC",
-  "generated_at": "2026-07-23T23:26:12Z",
+  "generated_at": "2026-07-24T00:15:30Z",
   "risk_score": {
-    "score": 55.0,
+    "score": 54.0,
     "tier": 28.8,
     "engagement": 6.2,
-    "recency": 14.9,
+    "recency": 14.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 45.0,
+    "score": 46.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {

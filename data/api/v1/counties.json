@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-07-23T23:26:12Z",
+  "generated_at": "2026-07-24T00:15:30Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -16,7 +16,7 @@
       "county_name": "Dakota County",
       "state": "MN",
       "count": 1,
-      "risk_score": 59.6,
+      "risk_score": 50.2,
       "latest": "2026-04-24",
       "url": "data/dossiers/county-27037.json"
     },

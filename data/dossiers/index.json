@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-23T23:26:12Z",
+  "generated_at": "2026-07-24T00:15:30Z",
   "states": [
     {
       "state": "AK",
@@ -103,9 +103,9 @@
     {
       "state": "DC",
       "count": 13,
-      "risk_score": 25.0,
+      "risk_score": 24.8,
       "grade": "B",
-      "grade_score": 75.0,
+      "grade_score": 75.2,
       "moratoriums": 1,
       "approvals": 2,
       "denials": 0,
@@ -187,9 +187,9 @@
     {
       "state": "IL",
       "count": 7,
-      "risk_score": 48.7,
+      "risk_score": 47.4,
       "grade": "C",
-      "grade_score": 51.3,
+      "grade_score": 52.6,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 4,
@@ -285,9 +285,9 @@
     {
       "state": "ME",
       "count": 47,
-      "risk_score": 58.5,
+      "risk_score": 57.2,
       "grade": "D",
-      "grade_score": 41.5,
+      "grade_score": 42.8,
       "moratoriums": 28,
       "approvals": 1,
       "denials": 38,
@@ -313,9 +313,9 @@
     {
       "state": "MN",
       "count": 9,
-      "risk_score": 53.1,
+      "risk_score": 51.0,
       "grade": "D",
-      "grade_score": 46.9,
+      "grade_score": 49.0,
       "moratoriums": 7,
       "approvals": 0,
       "denials": 6,
@@ -369,9 +369,9 @@
     {
       "state": "NC",
       "count": 10,
-      "risk_score": 55.0,
+      "risk_score": 54.0,
       "grade": "D",
-      "grade_score": 45.0,
+      "grade_score": 46.0,
       "moratoriums": 5,
       "approvals": 0,
       "denials": 5,
@@ -425,9 +425,9 @@
     {
       "state": "NJ",
       "count": 31,
-      "risk_score": 50.9,
+      "risk_score": 50.6,
       "grade": "D",
-      "grade_score": 49.1,
+      "grade_score": 49.4,
       "moratoriums": 2,
       "approvals": 1,
       "denials": 9,
@@ -481,9 +481,9 @@
     {
       "state": "OH",
       "count": 31,
-      "risk_score": 58.3,
+      "risk_score": 57.4,
       "grade": "D",
-      "grade_score": 41.7,
+      "grade_score": 42.6,
       "moratoriums": 7,
       "approvals": 1,
       "denials": 12,
@@ -718,7 +718,7 @@
       "county_name": "Dakota County",
       "state": "MN",
       "count": 1,
-      "risk_score": 59.6,
+      "risk_score": 50.2,
       "latest": "2026-04-24",
       "url": "data/dossiers/county-27037.json"
     },
