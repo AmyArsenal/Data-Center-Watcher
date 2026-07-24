@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-07-24T00:15:30Z",
+  "generated_at": "2026-07-24T03:44:10Z",
   "risk_score": {
-    "score": 64.3,
-    "tier": 37.6,
+    "score": 64.4,
+    "tier": 37.7,
     "engagement": 6.4,
     "recency": 20.0,
     "multi_source": 0.3,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 35.7,
+    "score": 35.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 23,
+    "moratoriums": 24,
     "approvals": 0,
-    "denials": 26,
+    "denials": 27,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 35,
+  "count": 36,
   "tier_counts": {
     "null": 3,
-    "restrictive": 32
+    "restrictive": 33
   },
   "outcome_counts": {
     "pending": 9,
-    "win": 26
+    "win": 27
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 28
+    "local": 29
   },
   "issue_top": {
     "grid_energy": 8,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-06",
-  "latest": "2026-07-20",
+  "latest": "2026-07-23",
   "top_citations": [
+    {
+      "id": "news:gdelt-82b66cb7ddd2c0a7-ny",
+      "date": "2026-07-23",
+      "jurisdiction": "nbcnews.com",
+      "title": "New York Gov . Kathy Hochul explains why she signed the first statewide moratorium on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://nbcnews.com/politics/politics-news/new-york-gov-kathy-hochul-explains-signed-first-statewide-moratorium-d-rcna588832"
+    },
     {
       "id": "news:gdelt-27486a0dd4483649-ny",
       "date": "2026-07-20",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://aei.org/economics/new-yorks-data-center-moratorium-shows-the-continuing-power-of-americas-stagnationist-activist-groups"
-    },
-    {
-      "id": "news:gdelt-afa8339292f69779-ny",
-      "date": "2026-07-15",
-      "jurisdiction": "itechpost.com",
-      "title": "New York Becomes First State to Enact AI Data Center Moratorium Under Kathy Hochul",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://itechpost.com/articles/236694/20260715/new-york-becomes-first-state-enact-ai-data-center-moratorium-under-kathy-hochul.htm"
     }
   ]
 }

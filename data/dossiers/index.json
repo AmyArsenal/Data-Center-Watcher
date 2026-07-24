@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-24T00:15:30Z",
+  "generated_at": "2026-07-24T03:44:10Z",
   "states": [
     {
       "state": "AK",
@@ -466,16 +466,16 @@
     },
     {
       "state": "NY",
-      "count": 35,
-      "risk_score": 64.3,
+      "count": 36,
+      "risk_score": 64.4,
       "grade": "D",
-      "grade_score": 35.7,
-      "moratoriums": 23,
+      "grade_score": 35.6,
+      "moratoriums": 24,
       "approvals": 0,
-      "denials": 26,
+      "denials": 27,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-20",
+      "latest": "2026-07-23",
       "url": "data/dossiers/state-NY.json"
     },
     {
@@ -592,16 +592,16 @@
     },
     {
       "state": "TX",
-      "count": 43,
-      "risk_score": 56.1,
+      "count": 44,
+      "risk_score": 56.9,
       "grade": "D",
-      "grade_score": 43.9,
+      "grade_score": 43.1,
       "moratoriums": 3,
       "approvals": 3,
       "denials": 14,
       "lawsuits": 2,
       "active_companies": 8,
-      "latest": "2026-07-19",
+      "latest": "2026-07-24",
       "url": "data/dossiers/state-TX.json"
     },
     {

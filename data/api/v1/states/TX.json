@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-24T00:15:30Z",
+  "generated_at": "2026-07-24T03:44:10Z",
   "risk_score": {
-    "score": 56.1,
-    "tier": 29.3,
+    "score": 56.9,
+    "tier": 29.5,
     "engagement": 6.4,
-    "recency": 15.1,
+    "recency": 15.7,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.9,
+    "score": 43.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 43,
+  "count": 44,
   "tier_counts": {
-    "restrictive": 27,
+    "restrictive": 28,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 23,
+    "pending": 24,
     "mixed": 3,
     "loss": 3,
     "win": 14
   },
   "scope_counts": {
-    "local": 38,
+    "local": 39,
     "statewide": 5
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-19",
+  "latest": "2026-07-24",
   "top_citations": [
+    {
+      "id": "news:gdelt-9a432d936816aa0f-tx",
+      "date": "2026-07-24",
+      "jurisdiction": "wbap.com",
+      "title": "Data Center Developer Withdraws East Texas Project After Failing To Meet Abbott Standards",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wbap.com/2026/07/23/data-center-developer-withdraws-east-texas-project-after-failing-to-meet-abbotts-standards"
+    },
     {
       "id": "news:gdelt-da2bb0865ff03b59-tx",
       "date": "2026-07-19",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://news4sanantonio.com/news/local/san-marcos-becomes-the-first-texas-city-to-ban-data-centers-testing-its-local-control-hays-county-residents-protest-electricity-water-utilities"
-    },
-    {
-      "id": "news:gdelt-cde28d1526bd7cf9-tx",
-      "date": "2026-06-28",
-      "jurisdiction": "lufkindailynews.com",
-      "title": "Hundreds of data centers are coming to Texas . Here what you need to know . | Community",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://lufkindailynews.com/news/community/hundreds-of-data-centers-are-coming-to-texas-here-s-what-you-need-to-know/article_b647962f-99d1-5000-b4e6-95e88ec43ad1.html"
     }
   ]
 }

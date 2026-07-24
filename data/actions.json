@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T00:15:30Z",
-  "count": 1548,
+  "generated_at": "2026-07-24T03:44:10Z",
+  "count": 1554,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,141 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-918a6a8a5e828c28-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "emporiagazette.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "County approves temporary moratoriums on data centers , battery storage and solar projects",
+      "sources": [
+        "https://emporiagazette.com/free/article_6a9583e6-0fba-4bb8-a30e-e0bbb928a316.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-24T03:44:09Z",
+      "first_seen": "2026-07-24T03:44:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-98eb143507cb43f5-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nbclosangeles.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Why Kathy Hochul signed 1st statewide moratorium on data centers – NBC Los Angeles",
+      "sources": [
+        "https://nbclosangeles.com/news/national-international/kathy-hochul-new-york-moratorium-data-centers/3921144"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-24T03:44:09Z",
+      "first_seen": "2026-07-24T03:44:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9a432d936816aa0f-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "wbap.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Developer Withdraws East Texas Project After Failing To Meet Abbott Standards",
+      "sources": [
+        "https://wbap.com/2026/07/23/data-center-developer-withdraws-east-texas-project-after-failing-to-meet-abbotts-standards"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-24T03:44:09Z",
+      "first_seen": "2026-07-24T03:44:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-0011936018d6279d-us",
       "origin": "news",
@@ -68,6 +203,51 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-17882aca60aaa863-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "clevelandbanner.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-23",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Charleston planners propose data center moratorium",
+      "sources": [
+        "https://clevelandbanner.com/news/charleston-planners-propose-data-center-moratorium/article_59eb0899-22c1-51bc-b80f-b90408218bbb.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-24T03:44:09Z",
+      "first_seen": "2026-07-24T03:44:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-1bf0e18857e8025d-us",
       "origin": "news",
       "state": "US",
@@ -107,6 +287,51 @@
       "data_source": "news",
       "last_updated": "2026-07-23T03:42:33Z",
       "first_seen": "2026-07-23T03:42:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-1e5e4e3c2b796899-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "abc13.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Polling shows Texans opposition towards data centers , as politicians reverse course",
+      "sources": [
+        "https://abc13.com/post/polling-shows-texans-opposition-towards-data-centers-politicians-reverse-course/19564844"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-24T03:44:09Z",
+      "first_seen": "2026-07-24T03:44:10Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -427,6 +652,51 @@
       "data_source": "news",
       "last_updated": "2026-07-23T23:26:11Z",
       "first_seen": "2026-07-23T23:26:12Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-82b66cb7ddd2c0a7-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "nbcnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-23",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New York Gov . Kathy Hochul explains why she signed the first statewide moratorium on data centers",
+      "sources": [
+        "https://nbcnews.com/politics/politics-news/new-york-gov-kathy-hochul-explains-signed-first-statewide-moratorium-d-rcna588832"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-24T03:44:09Z",
+      "first_seen": "2026-07-24T03:44:10Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -71832,21 +72102,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 862,
+      "count": 866,
       "outcome_counts": {
-        "pending": 495,
-        "win": 345,
+        "pending": 497,
+        "win": 347,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 840,
+        "restrictive": 844,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 850,
+        "local": 854,
         "statewide": 7,
         "federal": 5
       },
@@ -71855,7 +72125,36 @@
         "zoning": 67,
         "grid_energy": 17
       },
-      "latest_date": "2026-07-23",
+      "latest_date": "2026-07-24",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 44,
+      "outcome_counts": {
+        "pending": 24,
+        "win": 14,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 28,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 39,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "grid_energy": 9,
+        "water": 9
+      },
+      "latest_date": "2026-07-24",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -71974,6 +72273,35 @@
       "latest_date": "2026-07-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "NY": {
+      "state": "NY",
+      "count": 36,
+      "outcome_counts": {
+        "pending": 9,
+        "win": 27,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 33,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 29,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 8,
+        "environmental": 3,
+        "water": 3
+      },
+      "latest_date": "2026-07-23",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "GA": {
       "state": "GA",
@@ -72120,35 +72448,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "NY": {
-      "state": "NY",
-      "count": 35,
-      "outcome_counts": {
-        "pending": 9,
-        "win": 26,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 32,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 28,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 8,
-        "environmental": 3,
-        "water": 3
-      },
-      "latest_date": "2026-07-20",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
     "NM": {
       "state": "NM",
       "count": 7,
@@ -72264,35 +72563,6 @@
       "latest_date": "2026-07-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 43,
-      "outcome_counts": {
-        "pending": 23,
-        "win": 14,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 27,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 38,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "grid_energy": 9,
-        "water": 9
-      },
-      "latest_date": "2026-07-19",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "MA": {
       "state": "MA",
