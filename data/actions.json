@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T14:16:14Z",
-  "count": 1563,
+  "generated_at": "2026-07-25T15:33:51Z",
+  "count": 1564,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -107,6 +107,51 @@
       "data_source": "news",
       "last_updated": "2026-07-25T08:35:35Z",
       "first_seen": "2026-07-25T08:35:36Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-eb6d42023836901a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "romesentinel.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Frankfort celebrates local author ; eyes pause on AI data centers",
+      "sources": [
+        "https://romesentinel.com/news/frankfort-celebrates-local-author-eyes-pause-on-ai-data-centers/article_96afd49f-89ab-4d10-8de0-20d9724794e2.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-25T15:33:50Z",
+      "first_seen": "2026-07-25T15:33:51Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -72547,21 +72592,21 @@
     },
     "US": {
       "state": "US",
-      "count": 873,
+      "count": 874,
       "outcome_counts": {
         "pending": 501,
-        "win": 350,
+        "win": 351,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 851,
+        "restrictive": 852,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 861,
+        "local": 862,
         "statewide": 7,
         "federal": 5
       },
