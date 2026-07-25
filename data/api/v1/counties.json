@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-07-24T23:40:29Z",
+  "generated_at": "2026-07-25T01:07:37Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -70,7 +70,7 @@
       "county_name": "Portage County",
       "state": "OH",
       "count": 3,
-      "risk_score": 44.0,
+      "risk_score": 40.9,
       "latest": "2026-04-25",
       "url": "data/dossiers/county-39133.json"
     },
@@ -124,7 +124,7 @@
       "county_name": "King County",
       "state": "WA",
       "count": 1,
-      "risk_score": 66.2,
+      "risk_score": 59.6,
       "latest": "2026-06-24",
       "url": "data/dossiers/county-53033.json"
     }
