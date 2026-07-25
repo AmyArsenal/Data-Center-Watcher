@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AL",
-  "generated_at": "2026-07-25T06:34:09Z",
+  "generated_at": "2026-07-25T08:35:36Z",
   "risk_score": {
-    "score": 51.4,
-    "tier": 19.0,
-    "engagement": 9.4,
-    "recency": 13.0,
-    "multi_source": 5.0,
+    "score": 59.4,
+    "tier": 23.2,
+    "engagement": 8.8,
+    "recency": 18.4,
+    "multi_source": 4.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "N/A",
-    "score": null,
-    "label": "Insufficient data"
+    "letter": "D",
+    "score": 40.6,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,18 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 1
   },
-  "count": 4,
+  "count": 5,
   "tier_counts": {
     "unclear": 2,
     "null": 1,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
-    "win": 4
+    "win": 4,
+    "pending": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "tax_incentive": 1,
@@ -46,8 +47,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-17",
-  "latest": "2026-06-29",
+  "latest": "2026-07-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-97aca10ba19e89a4-al",
+      "date": "2026-07-25",
+      "jurisdiction": "wvtm13.com",
+      "title": "Alabama gubernatorial candidates weigh in on data center issue",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wvtm13.com/article/alabama-gubernatorial-candidates-weigh-in-on-data-center-issue/73260217"
+    },
     {
       "id": "news:rss-dcd-c49f1f3a917b9ba7-al",
       "date": "2026-06-29",

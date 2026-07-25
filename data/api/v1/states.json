@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-07-25T06:34:09Z",
+  "generated_at": "2026-07-25T08:35:36Z",
   "states": [
     {
       "state": "AK",
@@ -18,16 +18,16 @@
     },
     {
       "state": "AL",
-      "count": 4,
-      "risk_score": 51.4,
-      "grade": "N/A",
-      "grade_score": null,
+      "count": 5,
+      "risk_score": 59.4,
+      "grade": "D",
+      "grade_score": 40.6,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 4,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-06-29",
+      "latest": "2026-07-25",
       "url": "data/dossiers/state-AL.json"
     },
     {
