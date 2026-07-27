@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-07-27T14:04:09Z",
+  "generated_at": "2026-07-27T16:32:32Z",
   "risk_score": {
-    "score": 56.2,
-    "tier": 33.3,
+    "score": 56.1,
+    "tier": 32.2,
     "engagement": 6.2,
-    "recency": 11.7,
+    "recency": 12.6,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.8,
+    "score": 43.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 7,
-    "approvals": 1,
+    "approvals": 2,
     "denials": 12,
     "lawsuits": 1,
     "blocked": 1,
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 31,
+  "count": 32,
   "tier_counts": {
     "restrictive": 24,
     "null": 6,
-    "supportive": 1
+    "supportive": 2
   },
   "outcome_counts": {
     "pending": 18,
     "win": 12,
-    "loss": 1
+    "loss": 2
   },
   "scope_counts": {
-    "local": 26,
+    "local": 27,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-07-17",
+  "latest": "2026-07-27",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-6a70df12676ea2a1-oh",
+      "date": "2026-07-27",
+      "jurisdiction": "DCD",
+      "title": "Nvidia considers $250bn backstop for OpenAI's planned 10GW Ohio data center - report. SoftBank facility is planned on Department of Energy l",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/nvidia-considers-250bn-backstop-for-openais-planned-10gw-ohio-data-center-report"
+    },
     {
       "id": "news:gdelt-7fdfbf3b49ef64f5-oh",
       "date": "2026-07-17",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wyht.iheart.com/content/2026-05-28-ohio-governor-dewine-announces-pause-of-data-center-tax-exemption"
-    },
-    {
-      "id": "news:gdelt-db539392a45337fe-oh",
-      "date": "2026-05-27",
-      "jurisdiction": "wlwt.com",
-      "title": "Residents suing to block proposed $4 billion data center in Ohio",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wlwt.com/article/wilmington-data-center-lawsuit-moves-to-federal-court/71419677"
     }
   ]
 }
