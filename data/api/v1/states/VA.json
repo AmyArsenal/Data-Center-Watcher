@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-27T11:46:47Z",
+  "generated_at": "2026-07-27T14:04:09Z",
   "risk_score": {
-    "score": 51.7,
-    "tier": 21.3,
-    "engagement": 9.4,
-    "recency": 10.9,
-    "multi_source": 5.0,
+    "score": 52.5,
+    "tier": 21.7,
+    "engagement": 9.3,
+    "recency": 11.5,
+    "multi_source": 4.9,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.3,
+    "score": 47.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 4,
-    "denials": 17,
+    "denials": 18,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,22 +26,22 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 48,
+  "count": 49,
   "tier_counts": {
-    "restrictive": 16,
+    "restrictive": 17,
     "unclear": 15,
     "protective": 3,
     "null": 11,
     "supportive": 3
   },
   "outcome_counts": {
-    "win": 17,
+    "win": 18,
     "pending": 25,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 24,
+    "local": 25,
     "statewide": 24
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-22",
+  "latest": "2026-07-27",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-ab4bd45682ad3c30-va",
+      "date": "2026-07-27",
+      "jurisdiction": "Loudoun County",
+      "title": "Loudoun County considering moratorium on new data center applications, rejects 3.25 million sq ft campus. Trouble in data center paradise",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/loudoun-county-considering-moratorium-on-new-data-center-applications-rejects-325-million-sq-ft-campus"
+    },
     {
       "id": "news:rss-dcd-6be7706d93346e77-va",
       "date": "2026-07-22",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/tracts-430-acre-data-center-rejected-by-local-officials-in-hanover-county-virginia"
-    },
-    {
-      "id": "news:gdelt-f72afeae8f871477-va",
-      "date": "2026-05-26",
-      "jurisdiction": "cavalierdaily.com",
-      "title": "TAYLOR : AI data centers increase Virginia urban - rural divide - The Cavalier Daily - University of Virginia Student Newspaper",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://cavalierdaily.com/article/2026/05/taylor-ai-data-centers-increase-the-urban-rural-divide"
     }
   ]
 }

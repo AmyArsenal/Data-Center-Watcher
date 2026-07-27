@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T11:46:47Z",
-  "count": 1567,
+  "generated_at": "2026-07-27T14:04:08Z",
+  "count": 1569,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-c1a236ade5cd69c2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "foxnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-27",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center bans across the US could give China the edge in AI war",
+      "sources": [
+        "https://foxnews.com/opinion/war-data-centers-jeopardizes-economy-national-security"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-27T14:04:08Z",
+      "first_seen": "2026-07-27T14:04:08Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-dcd-28cc73f5806bf61c-us",
       "origin": "news",
@@ -60,6 +105,51 @@
       "data_source": "news",
       "last_updated": "2026-07-27T11:46:46Z",
       "first_seen": "2026-07-27T11:46:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-ab4bd45682ad3c30-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "Loudoun County",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Loudoun County considering moratorium on new data center applications, rejects 3.25 million sq ft campus. Trouble in data center paradise",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/loudoun-county-considering-moratorium-on-new-data-center-applications-rejects-325-million-sq-ft-campus"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-27T14:04:08Z",
+      "first_seen": "2026-07-27T14:04:08Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -72701,21 +72791,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 876,
+      "count": 877,
       "outcome_counts": {
-        "pending": 502,
+        "pending": 503,
         "win": 352,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 854,
+        "restrictive": 855,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 864,
+        "local": 865,
         "statewide": 7,
         "federal": 5
       },
@@ -72723,6 +72813,35 @@
         "community_impact": 173,
         "zoning": 68,
         "grid_energy": 18
+      },
+      "latest_date": "2026-07-27",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "VA": {
+      "state": "VA",
+      "count": 49,
+      "outcome_counts": {
+        "pending": 25,
+        "win": 18,
+        "loss": 4,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 17,
+        "protective": 3,
+        "supportive": 3,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 25,
+        "statewide": 24,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "zoning": 10,
+        "environmental": 5
       },
       "latest_date": "2026-07-27",
       "map_color_tier": "restrictive",
@@ -72987,35 +73106,6 @@
       "latest_date": "2026-07-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "win"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 48,
-      "outcome_counts": {
-        "pending": 25,
-        "win": 17,
-        "loss": 4,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 16,
-        "protective": 3,
-        "supportive": 3,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 24,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "zoning": 10,
-        "environmental": 5
-      },
-      "latest_date": "2026-07-22",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "WA": {
       "state": "WA",
