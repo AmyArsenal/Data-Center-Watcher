@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T08:19:14Z",
-  "count": 1566,
+  "generated_at": "2026-07-27T11:46:47Z",
+  "count": 1567,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-28cc73f5806bf61c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-27",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New Zealand's Green Party calls for one-year moratorium on new AI data centers. Leader argues that rules need to be written before the concrete is poured",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/httpswwwdatacenterdynamicscomennewsnew-york-becomes-first-us-state-to-enact-data-ce"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-27T11:46:46Z",
+      "first_seen": "2026-07-27T11:46:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-24cf8321f73df757-tx",
       "origin": "news",
@@ -72654,6 +72699,35 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 876,
+      "outcome_counts": {
+        "pending": 502,
+        "win": 352,
+        "loss": 22,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 854,
+        "protective": 0,
+        "supportive": 22,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 864,
+        "statewide": 7,
+        "federal": 5
+      },
+      "issue_top": {
+        "community_impact": 173,
+        "zoning": 68,
+        "grid_energy": 18
+      },
+      "latest_date": "2026-07-27",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "TX": {
       "state": "TX",
       "count": 46,
@@ -72710,35 +72784,6 @@
       "latest_date": "2026-07-25",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 875,
-      "outcome_counts": {
-        "pending": 502,
-        "win": 351,
-        "loss": 22,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 853,
-        "protective": 0,
-        "supportive": 22,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 863,
-        "statewide": 7,
-        "federal": 5
-      },
-      "issue_top": {
-        "community_impact": 173,
-        "zoning": 68,
-        "grid_energy": 18
-      },
-      "latest_date": "2026-07-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "AZ": {
       "state": "AZ",
