@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T13:00:02Z",
-  "count": 1578,
+  "generated_at": "2026-07-28T15:19:53Z",
+  "count": 1579,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -110,6 +110,53 @@
       "data_source": "news",
       "last_updated": "2026-07-28T13:00:01Z",
       "first_seen": "2026-07-28T13:00:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-84f23a2151937b8c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "water"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sponsored: Water consumption by data centers: A wrong issue?. Measuring water consumption at the facility level is no longer sufficient. A comprehensive approach must consider the full lifecycle, integrating energy production, geography, and climate",
+      "sources": [
+        "https://datacenterdynamics.com/en/opinions/water-consumption-by-data-centers-a-wrong-issue"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T15:19:52Z",
+      "first_seen": "2026-07-28T15:19:52Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -73205,21 +73252,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 883,
+      "count": 884,
       "outcome_counts": {
-        "pending": 507,
+        "pending": 508,
         "win": 354,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 861,
+        "restrictive": 862,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 871,
+        "local": 872,
         "statewide": 7,
         "federal": 5
       },
