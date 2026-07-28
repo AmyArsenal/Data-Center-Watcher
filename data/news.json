@@ -1,8 +1,166 @@
 {
-  "generated_at": "2026-07-28T11:06:52Z",
+  "generated_at": "2026-07-28T13:00:02Z",
   "window_days": 90,
-  "count": 1029,
+  "count": 1033,
   "items": [
+    {
+      "id": "gdelt-26c0522688f04504",
+      "state": "MI",
+      "city": null,
+      "category": "protested",
+      "headline": "Michigan Data Center Noise Complaints Grow as Residents Say Constant Hum Is Disrupting Lives",
+      "source_domain": "wowo.com",
+      "source_name": "wowo.com",
+      "url": "https://wowo.com/michigan-data-center-noise-complaints-grow-as-residents-say-constant-hum-is-disrupting-lives",
+      "date": "2026-07-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-28 13:00:01",
+      "url_hash": "26c0522688f04504",
+      "content_hash": "b1757d1e0ca7a7eb",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-28T13:00:01Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a9de018df1133101",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Wont back down : Salem residents fill City Council chambers for data center testimony",
+      "source_domain": "kptv.com",
+      "source_name": "kptv.com",
+      "url": "https://kptv.com/2026/07/28/wont-back-down-salem-residents-fill-city-council-chambers-data-center-testimony",
+      "date": "2026-07-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-28 13:00:01",
+      "url_hash": "a9de018df1133101",
+      "content_hash": "71a3396211a7adc6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-28T13:00:01Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-a9442d2104fa5674",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "50MW 'monstrosity' data center proposed on green belt land in Bromley, UK",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/50mw-monstrosity-data-center-proposed-on-green-belt-land-in-bromley-uk",
+      "date": "2026-07-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-28 13:00:01",
+      "url_hash": "a9442d2104fa5674",
+      "content_hash": "2db1490a143eb692",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Residents already fuming before planning application is submitted",
+      "last_seen": "2026-07-28T13:00:01Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/50mw-monstrosity-data-center-proposed-on-green-belt-land-in-bromley-uk/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-9cb90f3353ac8464",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Diode Ventures withdraws proposal for data center in Henderson County, Texas",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/diode-ventures-withdraws-proposal-for-data-center-in-henderson-county-texas",
+      "date": "2026-07-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-28 13:00:01",
+      "url_hash": "9cb90f3353ac8464",
+      "content_hash": "2cd32c16595a032e",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Texas Governor Greg Abbott says \"Diode did the right thing\"",
+      "last_seen": "2026-07-28T13:00:01Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/diode-ventures-withdraws-proposal-for-data-center-in-henderson-county-texas/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-974958fa6e489642",
       "state": "US",
@@ -30,7 +188,7 @@
         "rss-dcd"
       ],
       "snippet": "Companies are already evaluating land at military sites",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -192,7 +350,7 @@
         "rss-dcd"
       ],
       "snippet": "SoftBank facility is planned on Department of Energy land",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2389,7 +2547,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2428,7 +2586,7 @@
         "rss-latitude"
       ],
       "snippet": "While power availability remains the top challenge, 28% cite local opposition as a worsening barrier. The post Survey: As community scrutiny grows, data center developers turn to on-site power appeared first on Latitude Media .",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3227,7 +3385,7 @@
         "rss-latitude"
       ],
       "snippet": "The 2035 outlook marks an 83% jump since December, despite development risks like local opposition. The post BNEF nearly doubled its forecast for US data center power demand appeared first on Latitude Media .",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3465,7 +3623,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5902,7 +6060,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7663,7 +7821,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7702,7 +7860,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7780,7 +7938,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8577,7 +8735,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -11049,7 +11207,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11128,7 +11286,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11561,7 +11719,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -12600,7 +12758,7 @@
         "rss-dck"
       ],
       "snippet": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -12678,7 +12836,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -20888,7 +21046,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-28T11:06:52Z",
+      "last_seen": "2026-07-28T13:00:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41048,6 +41206,35 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 13,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 5,
+        "banned": 8
+      },
+      "platforms": {
+        "news": 13
+      },
+      "latest_date": "2026-07-28"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 27,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 14,
+        "cancelled": 1,
+        "banned": 11,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 26,
+        "legal": 1
+      },
+      "latest_date": "2026-07-28"
+    },
     "OH": {
       "state": "OH",
       "count": 17,
@@ -41076,22 +41263,6 @@
         "news": 16
       },
       "latest_date": "2026-07-27"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 26,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 13,
-        "cancelled": 1,
-        "banned": 11,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 25,
-        "legal": 1
-      },
-      "latest_date": "2026-07-26"
     },
     "AL": {
       "state": "AL",
@@ -41132,19 +41303,6 @@
       },
       "platforms": {
         "news": 9
-      },
-      "latest_date": "2026-07-23"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 12,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 4,
-        "banned": 8
-      },
-      "platforms": {
-        "news": 12
       },
       "latest_date": "2026-07-23"
     },

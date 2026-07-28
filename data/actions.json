@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T11:06:53Z",
-  "count": 1574,
+  "generated_at": "2026-07-28T13:00:02Z",
+  "count": 1578,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,101 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-26c0522688f04504-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "wowo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "noise"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan Data Center Noise Complaints Grow as Residents Say Constant Hum Is Disrupting Lives",
+      "sources": [
+        "https://wowo.com/michigan-data-center-noise-complaints-grow-as-residents-say-constant-hum-is-disrupting-lives"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T13:00:01Z",
+      "first_seen": "2026-07-28T13:00:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a9de018df1133101-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kptv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Wont back down : Salem residents fill City Council chambers for data center testimony",
+      "sources": [
+        "https://kptv.com/2026/07/28/wont-back-down-salem-residents-fill-city-council-chambers-data-center-testimony"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T13:00:01Z",
+      "first_seen": "2026-07-28T13:00:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-dcd-974958fa6e489642-us",
       "origin": "news",
@@ -64,6 +159,98 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-9cb90f3353ac8464-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Diode Ventures withdraws proposal for data center in Henderson County, Texas. Texas Governor Greg Abbott says \"Diode did the right thing\"",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/diode-ventures-withdraws-proposal-for-data-center-in-henderson-county-texas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T13:00:01Z",
+      "first_seen": "2026-07-28T13:00:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-a9442d2104fa5674-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "50MW 'monstrosity' data center proposed on green belt land in Bromley, UK. Residents already fuming before planning application is submitted",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/50mw-monstrosity-data-center-proposed-on-green-belt-land-in-bromley-uk"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T13:00:01Z",
+      "first_seen": "2026-07-28T13:00:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-8e6a9730fca48191-us",
@@ -73018,32 +73205,90 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 881,
+      "count": 883,
       "outcome_counts": {
-        "pending": 505,
+        "pending": 507,
         "win": 354,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 859,
+        "restrictive": 861,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 869,
+        "local": 871,
         "statewide": 7,
         "federal": 5
       },
       "issue_top": {
-        "community_impact": 174,
+        "community_impact": 176,
         "zoning": 68,
         "grid_energy": 18
       },
       "latest_date": "2026-07-28",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 47,
+      "outcome_counts": {
+        "pending": 26,
+        "win": 15,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 31,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 41,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 11,
+        "grid_energy": 10,
+        "water": 9
+      },
+      "latest_date": "2026-07-28",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "MI": {
+      "state": "MI",
+      "count": 19,
+      "outcome_counts": {
+        "pending": 9,
+        "win": 10,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 16,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 17,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "noise": 2,
+        "environmental": 1
+      },
+      "latest_date": "2026-07-28",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "VA": {
       "state": "VA",
@@ -73100,35 +73345,6 @@
         "ratepayer": 5
       },
       "latest_date": "2026-07-27",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 46,
-      "outcome_counts": {
-        "pending": 25,
-        "win": 15,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 30,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 41,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 11,
-        "grid_energy": 10,
-        "water": 9
-      },
-      "latest_date": "2026-07-26",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -73217,35 +73433,6 @@
       "latest_date": "2026-07-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 18,
-      "outcome_counts": {
-        "pending": 8,
-        "win": 10,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 15,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 16,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 6,
-        "environmental": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-07-23",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "CA": {
       "state": "CA",

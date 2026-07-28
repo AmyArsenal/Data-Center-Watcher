@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-28T11:06:53Z",
+  "generated_at": "2026-07-28T13:00:02Z",
   "risk_score": {
-    "score": 58.4,
-    "tier": 30.0,
+    "score": 59.1,
+    "tier": 30.2,
     "engagement": 6.4,
-    "recency": 16.8,
+    "recency": 17.2,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.6,
+    "score": 40.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 46,
+  "count": 47,
   "tier_counts": {
-    "restrictive": 30,
+    "restrictive": 31,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 25,
+    "pending": 26,
     "mixed": 3,
     "loss": 3,
     "win": 15
   },
   "scope_counts": {
     "local": 41,
-    "statewide": 5
+    "statewide": 6
   },
   "issue_top": {
     "community_impact": 11,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-26",
+  "latest": "2026-07-28",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-9cb90f3353ac8464-tx",
+      "date": "2026-07-28",
+      "jurisdiction": "DCD",
+      "title": "Diode Ventures withdraws proposal for data center in Henderson County, Texas. Texas Governor Greg Abbott says \"Diode did the right thing\"",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/diode-ventures-withdraws-proposal-for-data-center-in-henderson-county-texas"
+    },
     {
       "id": "news:gdelt-24cf8321f73df757-tx",
       "date": "2026-07-26",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/aws-files-for-12bn-data-center-campus-outside-houston-texas"
-    },
-    {
-      "id": "news:rss-dcd-15b409e730bd9c03-tx",
-      "date": "2026-07-08",
-      "jurisdiction": "DCD",
-      "title": "Tyler, Texas, rejects Bitcoin mining data center. Opponents win out",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/tyler-texas-rejects-bitcoin-mining-data-center"
     }
   ]
 }
