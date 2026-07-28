@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-07-28T18:05:53Z",
+  "generated_at": "2026-07-28T19:49:19Z",
   "states": [
     {
       "state": "AK",
@@ -508,30 +508,30 @@
     },
     {
       "state": "OR",
-      "count": 8,
-      "risk_score": 47.6,
-      "grade": "C",
-      "grade_score": 52.4,
+      "count": 9,
+      "risk_score": 52.5,
+      "grade": "D",
+      "grade_score": 47.5,
       "moratoriums": 1,
       "approvals": 1,
-      "denials": 3,
+      "denials": 4,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-16",
+      "latest": "2026-07-28",
       "url": "data/dossiers/state-OR.json"
     },
     {
       "state": "PA",
-      "count": 30,
-      "risk_score": 37.2,
+      "count": 31,
+      "risk_score": 38.9,
       "grade": "C",
-      "grade_score": 62.8,
+      "grade_score": 61.1,
       "moratoriums": 2,
       "approvals": 4,
       "denials": 10,
       "lawsuits": 0,
       "active_companies": 2,
-      "latest": "2026-07-13",
+      "latest": "2026-07-28",
       "url": "data/dossiers/state-PA.json"
     },
     {

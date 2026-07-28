@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-07-28T18:05:53Z",
+  "generated_at": "2026-07-28T19:49:19Z",
   "risk_score": {
-    "score": 47.6,
-    "tier": 21.0,
-    "engagement": 7.8,
-    "recency": 11.3,
-    "multi_source": 2.5,
+    "score": 52.5,
+    "tier": 23.1,
+    "engagement": 7.6,
+    "recency": 14.5,
+    "multi_source": 2.2,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.4,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.5,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 1,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 1,
     "blocked": 0,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 3,
+    "restrictive": 4,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 4,
-    "win": 3,
+    "win": 4,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 5
+    "local": 6
   },
   "issue_top": {
     "community_impact": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-07-16",
+  "latest": "2026-07-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-6fd4dcd4f12805e3-or",
+      "date": "2026-07-28",
+      "jurisdiction": "portlandmercury.com",
+      "title": "Good Morning , News : Oregon ( and the World ) is on Fire , A Pause on Data Centers in Hillsboro , and Mitch McConnell Still Trying to Comba",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://portlandmercury.com/good-morning-news/good-morning-news-oregon-and-the-world-is-on-fire-a-pause-on-data-centers-in-hillsboro-and-mitch-mcconnell-still-trying-to-combat-dead-allegations"
+    },
     {
       "id": "news:gdelt-246f0ce922d830db-or",
       "date": "2026-07-16",

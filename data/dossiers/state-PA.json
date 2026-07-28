@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-07-28T18:05:53Z",
+  "generated_at": "2026-07-28T19:49:19Z",
   "risk_score": {
-    "score": 37.2,
-    "tier": 10.8,
-    "engagement": 9.6,
-    "recency": 6.4,
-    "multi_source": 5.3,
+    "score": 38.9,
+    "tier": 11.7,
+    "engagement": 9.5,
+    "recency": 7.5,
+    "multi_source": 5.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 62.8,
+    "score": 61.1,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,22 +26,22 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 30,
+  "count": 31,
   "tier_counts": {
     "unclear": 10,
     "supportive": 10,
     "null": 7,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
-    "pending": 16,
+    "pending": 17,
     "win": 10,
     "loss": 4
   },
   "scope_counts": {
     "statewide": 23,
     "federal": 1,
-    "local": 6
+    "local": 7
   },
   "issue_top": {
     "tax_incentive": 6,
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-07-13",
+  "latest": "2026-07-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-43806bb2c40b0e02-pa",
+      "date": "2026-07-28",
+      "jurisdiction": "radio.wpsu.org",
+      "title": "Democrat TV ad targets data centers in drive to oust Republican from swing Pennsylvania House seat",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://radio.wpsu.org/2026-07-28/democrats-tv-ad-targets-data-centers-in-drive-to-oust-republican-from-swing-pennsylvania-house-seat"
+    },
     {
       "id": "news:rss-dcd-e2a4de0872d0d5f7-pa",
       "date": "2026-07-13",
@@ -147,15 +156,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.fox43.com/article/news/politics/rally-at-pa-capitol-calls-data-center-moratorium/521-d509b4d5-294c-4d97-aa67-0310f62f245e"
-    },
-    {
-      "id": "research:pa-pennsylvania-house-20260415-pa-house-passed-hb-2150-124-77-rep-kyle-donahue",
-      "date": "2026-04-15",
-      "jurisdiction": "Pennsylvania House",
-      "title": "PA House passed HB 2150 (124-77, Rep. Kyle Donahue D), requiring data center operators to report energy and water consumption to DEP, with D",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T18:05:53Z",
-  "count": 1581,
+  "generated_at": "2026-07-28T19:49:19Z",
+  "count": 1586,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,96 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-03a244247682b1e9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "pasadenastarnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Alhambra approves November ballot measure that would ban data centers . Will other cities follow ?",
+      "sources": [
+        "https://pasadenastarnews.com/2026/07/28/alhambra-approves-november-ballot-measure-that-would-ban-data-centers-will-other-cities-follow"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T19:49:18Z",
+      "first_seen": "2026-07-28T19:49:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-2320a23608017017-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ideastream.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Acton calls for conditional moratorium on new data centers",
+      "sources": [
+        "https://ideastream.org/2026-07-27/democrat-running-for-ohio-governor-calls-for-conditional-moratorium-on-new-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T19:49:18Z",
+      "first_seen": "2026-07-28T19:49:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-26c0522688f04504-mi",
       "origin": "news",
@@ -69,6 +159,96 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-43806bb2c40b0e02-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "radio.wpsu.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Democrat TV ad targets data centers in drive to oust Republican from swing Pennsylvania House seat",
+      "sources": [
+        "https://radio.wpsu.org/2026-07-28/democrats-tv-ad-targets-data-centers-in-drive-to-oust-republican-from-swing-pennsylvania-house-seat"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T19:49:18Z",
+      "first_seen": "2026-07-28T19:49:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-6fd4dcd4f12805e3-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "portlandmercury.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Good Morning , News : Oregon ( and the World ) is on Fire , A Pause on Data Centers in Hillsboro , and Mitch McConnell Still Trying to Combat  Dead  Allegations",
+      "sources": [
+        "https://portlandmercury.com/good-morning-news/good-morning-news-oregon-and-the-world-is-on-fire-a-pause-on-data-centers-in-hillsboro-and-mitch-mcconnell-still-trying-to-combat-dead-allegations"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T19:49:18Z",
+      "first_seen": "2026-07-28T19:49:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-a9de018df1133101-us",
       "origin": "news",
       "state": "US",
@@ -110,6 +290,54 @@
       "data_source": "news",
       "last_updated": "2026-07-28T13:00:01Z",
       "first_seen": "2026-07-28T13:00:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-df91de5853258e03-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "potomaclocal.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "transparency"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Community Forum Recap : Residents Raise Taxes , Water , Transparency Concerns Over Data Centers",
+      "sources": [
+        "https://potomaclocal.com/2026/07/28/community-forum-recap-residents-raise-taxes-water-transparency-concerns-over-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T19:49:18Z",
+      "first_seen": "2026-07-28T19:49:19Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -73344,26 +73572,26 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 885,
+      "count": 888,
       "outcome_counts": {
-        "pending": 508,
-        "win": 355,
+        "pending": 509,
+        "win": 357,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 863,
+        "restrictive": 866,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 872,
+        "local": 875,
         "statewide": 7,
         "federal": 6
       },
       "issue_top": {
-        "community_impact": 176,
+        "community_impact": 177,
         "zoning": 68,
         "grid_energy": 18
       },
@@ -73457,6 +73685,64 @@
       "latest_date": "2026-07-28",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
+    },
+    "PA": {
+      "state": "PA",
+      "count": 31,
+      "outcome_counts": {
+        "pending": 17,
+        "win": 10,
+        "loss": 4,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 10,
+        "unclear": 10
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 23,
+        "federal": 1
+      },
+      "issue_top": {
+        "ratepayer": 6,
+        "tax_incentive": 6,
+        "community_impact": 5
+      },
+      "latest_date": "2026-07-28",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "OR": {
+      "state": "OR",
+      "count": 9,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 4,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "environmental": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-07-28",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
     },
     "VA": {
       "state": "VA",
@@ -73950,35 +74236,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "OR": {
-      "state": "OR",
-      "count": 8,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 3,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 5,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "environmental": 1,
-        "ratepayer": 1
-      },
-      "latest_date": "2026-07-16",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "NC": {
       "state": "NC",
       "count": 10,
@@ -74064,35 +74321,6 @@
       },
       "latest_date": "2026-07-13",
       "map_color_tier": "supportive",
-      "map_color_outcome": "loss"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 30,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 10,
-        "loss": 4,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 10,
-        "unclear": 10
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 23,
-        "federal": 1
-      },
-      "issue_top": {
-        "ratepayer": 6,
-        "tax_incentive": 6,
-        "community_impact": 5
-      },
-      "latest_date": "2026-07-13",
-      "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "WI": {
