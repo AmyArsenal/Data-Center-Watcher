@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T06:08:53Z",
-  "count": 1573,
+  "generated_at": "2026-07-28T08:48:43Z",
+  "count": 1574,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-974958fa6e489642-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Defense authorization bill provision could ban private data centers on US DoD land from using Chinese equipment. Companies are already evaluating land at military sites",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/defense-authorization-bill-provision-could-ban-private-data-centers-on-us-dod-land-from-using-chinese-equipment"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T08:48:42Z",
+      "first_seen": "2026-07-28T08:48:43Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-8e6a9730fca48191-us",
       "origin": "news",
@@ -72973,21 +73018,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 880,
+      "count": 881,
       "outcome_counts": {
         "pending": 505,
-        "win": 353,
+        "win": 354,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 858,
+        "restrictive": 859,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 868,
+        "local": 869,
         "statewide": 7,
         "federal": 5
       },
@@ -72996,7 +73041,7 @@
         "zoning": 68,
         "grid_energy": 18
       },
-      "latest_date": "2026-07-27",
+      "latest_date": "2026-07-28",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
