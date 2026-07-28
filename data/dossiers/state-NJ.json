@@ -1,34 +1,34 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-07-28T21:52:56Z",
+  "generated_at": "2026-07-28T22:46:54Z",
   "risk_score": {
-    "score": 50.6,
-    "tier": 22.1,
-    "engagement": 8.9,
-    "recency": 10.5,
-    "multi_source": 4.2,
+    "score": 51.9,
+    "tier": 22.6,
+    "engagement": 8.8,
+    "recency": 11.4,
+    "multi_source": 4.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.4,
+    "score": 48.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 1,
-    "denials": 9,
-    "lawsuits": 0,
+    "denials": 10,
+    "lawsuits": 1,
     "blocked": 2,
     "active_companies": 1,
     "bills_introduced": 12,
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 31,
+  "count": 32,
   "tier_counts": {
-    "restrictive": 12,
+    "restrictive": 13,
     "unclear": 9,
     "supportive": 3,
     "protective": 1,
@@ -36,11 +36,11 @@
   },
   "outcome_counts": {
     "pending": 21,
-    "win": 9,
+    "win": 10,
     "loss": 1
   },
   "scope_counts": {
-    "local": 15,
+    "local": 16,
     "statewide": 15,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-07-20",
+  "latest": "2026-07-28",
   "top_citations": [
+    {
+      "id": "news:gdelt-92929b062db09aec-nj",
+      "date": "2026-07-28",
+      "jurisdiction": "govtech.com",
+      "title": "New Jersey Town Hit With Lawsuit Over Data Center Ban",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://govtech.com/artificial-intelligence/new-jersey-town-hit-with-lawsuit-over-data-center-ban"
+    },
     {
       "id": "news:gdelt-9f779426f4d6d3bb-nj",
       "date": "2026-07-20",
@@ -144,15 +153,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://utilitydive.com/news/pseg-nuclear-new-jersey-earnings/819444"
-    },
-    {
-      "id": "news:gdelt-d76fda5f95d83a2e-nj",
-      "date": "2026-05-06",
-      "jurisdiction": "govtech.com",
-      "title": "Poll : Majority of New Jersey Voters Support AI Data Center Bans",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://govtech.com/artificial-intelligence/poll-majority-of-new-jersey-voters-support-ai-data-center-bans"
     }
   ]
 }

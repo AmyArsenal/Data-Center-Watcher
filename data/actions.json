@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T21:52:56Z",
-  "count": 1586,
+  "generated_at": "2026-07-28T22:46:53Z",
+  "count": 1591,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-03741bdb601b9c70-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "sanmarcosrecord.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": "court",
+      "date": "2026-07-28",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Guadalupe County sued over data center agreements ; plaintiffs allege judge conflict of interest",
+      "sources": [
+        "https://sanmarcosrecord.com/news/article_1e543d19-d3a3-41d3-89cb-fb8ae20c8d5b.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T22:46:53Z",
+      "first_seen": "2026-07-28T22:46:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
     {
       "id": "news:gdelt-03a244247682b1e9-us",
       "origin": "news",
@@ -249,6 +294,98 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-8bcaf090c05f3c93-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "whopam.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Citizens , utility leaders discuss data center zoning recommendations | NewsRadio 1230 AM / 99 . 3 FM | Hopkinsville News Leader",
+      "sources": [
+        "https://whopam.com/2026/07/28/citizens-utility-leaders-discuss-data-center-zoning-recommendations"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T22:46:53Z",
+      "first_seen": "2026-07-28T22:46:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-92929b062db09aec-nj",
+      "origin": "news",
+      "state": "NJ",
+      "county": null,
+      "jurisdiction": "govtech.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New Jersey Town Hit With Lawsuit Over Data Center Ban",
+      "sources": [
+        "https://govtech.com/artificial-intelligence/new-jersey-town-hit-with-lawsuit-over-data-center-ban"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T22:46:53Z",
+      "first_seen": "2026-07-28T22:46:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-a9de018df1133101-us",
       "origin": "news",
       "state": "US",
@@ -338,6 +475,98 @@
       "data_source": "news",
       "last_updated": "2026-07-28T19:49:18Z",
       "first_seen": "2026-07-28T19:49:19Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-e94e377eebd87e24-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wfdd.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Proposed Rural Hall data center up for public hearing Thursday",
+      "sources": [
+        "https://wfdd.org/politics-government/2026-07-28/proposed-rural-hall-data-center-up-for-public-hearing-thursday"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T22:46:52Z",
+      "first_seen": "2026-07-28T22:46:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-f043b834c9d8acd8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "chicagotribune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-28",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Amazon files for  frustrating  Hobart data center air permit , activists say",
+      "sources": [
+        "https://chicagotribune.com/2026/07/28/amazon-files-for-frustrating-hobart-data-center-air-permit-activists-say"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-28T22:46:52Z",
+      "first_seen": "2026-07-28T22:46:53Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -73572,27 +73801,27 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 888,
+      "count": 892,
       "outcome_counts": {
-        "pending": 509,
-        "win": 357,
+        "pending": 512,
+        "win": 358,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 866,
+        "restrictive": 870,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 875,
+        "local": 879,
         "statewide": 7,
         "federal": 6
       },
       "issue_top": {
         "community_impact": 177,
-        "zoning": 68,
+        "zoning": 69,
         "grid_energy": 18
       },
       "latest_date": "2026-07-28",
@@ -73739,6 +73968,35 @@
         "community_impact": 2,
         "environmental": 1,
         "ratepayer": 1
+      },
+      "latest_date": "2026-07-28",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "NJ": {
+      "state": "NJ",
+      "count": 32,
+      "outcome_counts": {
+        "pending": 21,
+        "win": 10,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 13,
+        "protective": 1,
+        "supportive": 3,
+        "unclear": 9
+      },
+      "scope_counts": {
+        "local": 16,
+        "statewide": 15,
+        "federal": 1
+      },
+      "issue_top": {
+        "grid_energy": 7,
+        "water": 4,
+        "community_impact": 3
       },
       "latest_date": "2026-07-28",
       "map_color_tier": "restrictive",
@@ -74057,35 +74315,6 @@
         "environmental": 2,
         "water": 2,
         "community_impact": 1
-      },
-      "latest_date": "2026-07-20",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "NJ": {
-      "state": "NJ",
-      "count": 31,
-      "outcome_counts": {
-        "pending": 21,
-        "win": 9,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 12,
-        "protective": 1,
-        "supportive": 3,
-        "unclear": 9
-      },
-      "scope_counts": {
-        "local": 15,
-        "statewide": 15,
-        "federal": 1
-      },
-      "issue_top": {
-        "grid_energy": 7,
-        "water": 4,
-        "community_impact": 3
       },
       "latest_date": "2026-07-20",
       "map_color_tier": "restrictive",
