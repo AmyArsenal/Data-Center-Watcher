@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-07-29T20:43:04Z",
+  "generated_at": "2026-07-29T21:35:04Z",
   "risk_score": {
-    "score": 50.7,
-    "tier": 22.0,
-    "engagement": 9.4,
-    "recency": 9.3,
-    "multi_source": 5.0,
+    "score": 54.4,
+    "tier": 23.6,
+    "engagement": 9.1,
+    "recency": 12.1,
+    "multi_source": 4.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.3,
+    "score": 45.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 1,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
     "unclear": 4,
     "supportive": 1,
     "null": 1,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 4,
+    "win": 5,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 4
+    "local": 5
   },
   "issue_top": {
     "tax_incentive": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-12-13",
-  "latest": "2026-06-29",
+  "latest": "2026-07-29",
   "top_citations": [
+    {
+      "id": "news:gdelt-c3922657c7dac7ec-ar",
+      "date": "2026-07-29",
+      "jurisdiction": "arkansasonline.com",
+      "title": "Pulaski County Quorum Court rejects data center moratorium containing AVAIO project exemption | The Arkansas Democrat - Gazette",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://arkansasonline.com/news/2026/jul/28/pulaski-county-quorum-court-rejects-data-center"
+    },
     {
       "id": "news:gdelt-e8236c31dd6a09e7-ar",
       "date": "2026-06-29",
@@ -130,15 +139,6 @@
       "date": "2024-12-13",
       "jurisdiction": "AR Legislature",
       "title": "TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023; AND TO REGULATE THE IMPACT ON WATER USAGE AND THE ELECTRIC GRID BY BLOCKCHAIN NETWORKS AND D",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
-    },
-    {
-      "id": "openstates:ocd-bill-f4590be2-41dc-43cb-8962-3173d21b442d-ar",
-      "date": "2024-12-13",
-      "jurisdiction": "AR Legislature",
-      "title": "TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023; AND TO AMEND THE UNIFORM MONEY SERVICES ACT.",
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"

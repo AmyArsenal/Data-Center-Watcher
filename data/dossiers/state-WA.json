@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-07-29T20:43:04Z",
+  "generated_at": "2026-07-29T21:35:04Z",
   "risk_score": {
-    "score": 56.1,
-    "tier": 29.7,
-    "engagement": 7.3,
-    "recency": 12.4,
-    "multi_source": 1.7,
+    "score": 58.8,
+    "tier": 30.5,
+    "engagement": 7.2,
+    "recency": 14.6,
+    "multi_source": 1.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.9,
+    "score": 41.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,26 +26,26 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 8
+    "restrictive": 9
   },
   "outcome_counts": {
     "win": 5,
-    "pending": 6,
+    "pending": 7,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 8
+    "local": 9
   },
   "issue_top": {
     "tax_incentive": 3,
+    "community_impact": 3,
     "transparency": 2,
-    "community_impact": 2,
     "grid_energy": 1,
     "ratepayer": 1,
     "environmental": 1
@@ -53,8 +53,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-07-21",
+  "latest": "2026-07-29",
   "top_citations": [
+    {
+      "id": "news:gdelt-82272d009103eec4-wa",
+      "date": "2026-07-29",
+      "jurisdiction": "nbcwashington.com",
+      "title": "Residents displeased over Fairfax County data center proposal – NBC4 Washington",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://nbcwashington.com/news/local/residents-grill-dominion-energy-over-fairfax-county-data-center-proposal/4135715"
+    },
     {
       "id": "news:rss-dcd-83aa941463a89ca5-wa",
       "date": "2026-07-21",
@@ -135,15 +144,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://washingtonstatestandard.com/2026/03/07/data-center-tax-break-close-to-getting-zapped-by-wa-legislature/"
-    },
-    {
-      "id": "research:wa-washington-state-legislature-20260302-hb-2515-a-sweeping-bill-that-would-have-imposed-a",
-      "date": "2026-03-02",
-      "jurisdiction": "Washington State Legislature",
-      "title": "HB 2515, a sweeping bill that would have imposed additional utility charges on data centers, required clean-energy compliance, and mandated ",
-      "tier": null,
-      "outcome": "loss",
-      "url": "https://www.dwt.com/blogs/energy--environmental-law-blog/2026/03/washington-legislature-delays-data-center-bill"
     }
   ]
 }

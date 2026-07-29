@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-29T20:43:04Z",
+  "generated_at": "2026-07-29T21:35:04Z",
   "states": [
     {
       "state": "AK",
@@ -32,16 +32,16 @@
     },
     {
       "state": "AR",
-      "count": 10,
-      "risk_score": 50.7,
+      "count": 11,
+      "risk_score": 54.4,
       "grade": "D",
-      "grade_score": 49.3,
-      "moratoriums": 2,
+      "grade_score": 45.6,
+      "moratoriums": 3,
       "approvals": 1,
-      "denials": 4,
+      "denials": 5,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-06-29",
+      "latest": "2026-07-29",
       "url": "data/dossiers/state-AR.json"
     },
     {
@@ -648,16 +648,16 @@
     },
     {
       "state": "WA",
-      "count": 12,
-      "risk_score": 56.1,
+      "count": 13,
+      "risk_score": 58.8,
       "grade": "D",
-      "grade_score": 43.9,
+      "grade_score": 41.2,
       "moratoriums": 3,
       "approvals": 1,
       "denials": 5,
       "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-07-21",
+      "latest": "2026-07-29",
       "url": "data/dossiers/state-WA.json"
     },
     {

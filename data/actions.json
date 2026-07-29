@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T20:43:04Z",
-  "count": 1593,
+  "generated_at": "2026-07-29T21:35:04Z",
+  "count": 1600,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,143 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-3282493cf8ce4a22-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "athensmessenger.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": "county_commission",
+      "date": "2026-07-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Athens County Commission : Commissioners support resolution opposing data centers",
+      "sources": [
+        "http://athensmessenger.com/news/athens-county-commission-commissioners-support-resolution-opposing-data-centers/article_0b4673d4-678c-42ba-b540-bb081b36e84c.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T21:35:03Z",
+      "first_seen": "2026-07-29T21:35:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-52e60a00a117bdab-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "mcall.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Upper Mount Bethel Township faces zoning challenge from data center developers",
+      "sources": [
+        "https://mcall.com/2026/07/29/upper-mount-bethel-township-faces-zoning-challenge-from-data-center-developers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T21:35:03Z",
+      "first_seen": "2026-07-29T21:35:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-5a2ab0702f0b47a5-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wgcu.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "DeSoto approves data center moratorium , but controversial project can advance",
+      "sources": [
+        "https://wgcu.org/top-story/2026-07-29/desoto-approves-data-center-moratorium-but-controversial-project-can-advance"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T21:35:03Z",
+      "first_seen": "2026-07-29T21:35:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-6642fd2a6179d827-us",
       "origin": "news",
@@ -64,6 +201,190 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-82272d009103eec4-wa",
+      "origin": "news",
+      "state": "WA",
+      "county": null,
+      "jurisdiction": "nbcwashington.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Residents displeased over Fairfax County data center proposal – NBC4 Washington",
+      "sources": [
+        "https://nbcwashington.com/news/local/residents-grill-dominion-energy-over-fairfax-county-data-center-proposal/4135715"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T21:35:03Z",
+      "first_seen": "2026-07-29T21:35:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-953fa8a5bd25dd46-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "walb.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center developments paused for 12 months in Albany following commission vote",
+      "sources": [
+        "https://walb.com/2026/07/29/data-center-developments-paused-12-months-albany-following-commission-vote"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T21:35:03Z",
+      "first_seen": "2026-07-29T21:35:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9909bfbb2933b70d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "standardspeaker.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "zoning_restriction"
+      ],
+      "authority_level": null,
+      "date": "2026-07-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Salem Twp . pauses new data center projects pending zoning amendment",
+      "sources": [
+        "https://standardspeaker.com/2026/07/29/salem-twp-pauses-new-data-center-projects-pending-zoning-amendment"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T21:35:03Z",
+      "first_seen": "2026-07-29T21:35:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-c3922657c7dac7ec-ar",
+      "origin": "news",
+      "state": "AR",
+      "county": null,
+      "jurisdiction": "arkansasonline.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-29",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pulaski County Quorum Court rejects data center moratorium containing AVAIO project exemption | The Arkansas Democrat - Gazette",
+      "sources": [
+        "https://arkansasonline.com/news/2026/jul/28/pulaski-county-quorum-court-rejects-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T21:35:03Z",
+      "first_seen": "2026-07-29T21:35:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-latitude-ee50b124b1a05cd4-us",
@@ -73893,28 +74214,86 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 894,
+      "count": 899,
       "outcome_counts": {
-        "pending": 514,
-        "win": 358,
+        "pending": 516,
+        "win": 361,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 872,
+        "restrictive": 877,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 881,
+        "local": 886,
         "statewide": 7,
         "federal": 6
       },
       "issue_top": {
         "community_impact": 178,
-        "zoning": 69,
+        "zoning": 71,
         "grid_energy": 18
+      },
+      "latest_date": "2026-07-29",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "AR": {
+      "state": "AR",
+      "count": 11,
+      "outcome_counts": {
+        "pending": 5,
+        "win": 5,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 5,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 2,
+        "community_impact": 1,
+        "environmental": 1
+      },
+      "latest_date": "2026-07-29",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "WA": {
+      "state": "WA",
+      "count": 13,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 5,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 9,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 3,
+        "tax_incentive": 3,
+        "transparency": 2
       },
       "latest_date": "2026-07-29",
       "map_color_tier": "restrictive",
@@ -74324,35 +74703,6 @@
       "latest_date": "2026-07-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "win"
-    },
-    "WA": {
-      "state": "WA",
-      "count": 12,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 5,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 8,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 3,
-        "community_impact": 2,
-        "transparency": 2
-      },
-      "latest_date": "2026-07-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "KS": {
       "state": "KS",
@@ -74817,35 +75167,6 @@
       "latest_date": "2026-06-29",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "AR": {
-      "state": "AR",
-      "count": 10,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 4,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 4,
-        "statewide": 6,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 2,
-        "community_impact": 1,
-        "environmental": 1
-      },
-      "latest_date": "2026-06-29",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "FL": {
       "state": "FL",

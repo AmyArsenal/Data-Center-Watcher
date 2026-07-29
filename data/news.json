@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-07-29T20:43:04Z",
+  "generated_at": "2026-07-29T21:35:04Z",
   "window_days": 90,
-  "count": 1025,
+  "count": 1032,
   "items": [
+    {
+      "id": "gdelt-52e60a00a117bdab",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Upper Mount Bethel Township faces zoning challenge from data center developers",
+      "source_domain": "mcall.com",
+      "source_name": "mcall.com",
+      "url": "https://mcall.com/2026/07/29/upper-mount-bethel-township-faces-zoning-challenge-from-data-center-developers",
+      "date": "2026-07-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-29 21:35:03",
+      "url_hash": "52e60a00a117bdab",
+      "content_hash": "2d32d1a19abb30be",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-29T21:35:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-82272d009103eec4",
+      "state": "WA",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents displeased over Fairfax County data center proposal – NBC4 Washington",
+      "source_domain": "nbcwashington.com",
+      "source_name": "nbcwashington.com",
+      "url": "https://nbcwashington.com/news/local/residents-grill-dominion-energy-over-fairfax-county-data-center-proposal/4135715",
+      "date": "2026-07-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-29 21:35:03",
+      "url_hash": "82272d009103eec4",
+      "content_hash": "0c2b342cb044190f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-29T21:35:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3282493cf8ce4a22",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Athens County Commission : Commissioners support resolution opposing data centers",
+      "source_domain": "athensmessenger.com",
+      "source_name": "athensmessenger.com",
+      "url": "http://athensmessenger.com/news/athens-county-commission-commissioners-support-resolution-opposing-data-centers/article_0b4673d4-678c-42ba-b540-bb081b36e84c.html",
+      "date": "2026-07-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-29 21:35:03",
+      "url_hash": "3282493cf8ce4a22",
+      "content_hash": "68bffa892c3c155c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-29T21:35:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c3922657c7dac7ec",
+      "state": "AR",
+      "city": null,
+      "category": "banned",
+      "headline": "Pulaski County Quorum Court rejects data center moratorium containing AVAIO project exemption | The Arkansas Democrat - Gazette",
+      "source_domain": "arkansasonline.com",
+      "source_name": "arkansasonline.com",
+      "url": "https://arkansasonline.com/news/2026/jul/28/pulaski-county-quorum-court-rejects-data-center",
+      "date": "2026-07-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-29 21:35:03",
+      "url_hash": "c3922657c7dac7ec",
+      "content_hash": "029ac3c5cc156966",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-29T21:35:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-953fa8a5bd25dd46",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center developments paused for 12 months in Albany following commission vote",
+      "source_domain": "walb.com",
+      "source_name": "walb.com",
+      "url": "https://walb.com/2026/07/29/data-center-developments-paused-12-months-albany-following-commission-vote",
+      "date": "2026-07-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-29 21:35:03",
+      "url_hash": "953fa8a5bd25dd46",
+      "content_hash": "64da1208ce822d55",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-29T21:35:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9909bfbb2933b70d",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Salem Twp . pauses new data center projects pending zoning amendment",
+      "source_domain": "standardspeaker.com",
+      "source_name": "standardspeaker.com",
+      "url": "https://standardspeaker.com/2026/07/29/salem-twp-pauses-new-data-center-projects-pending-zoning-amendment",
+      "date": "2026-07-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-29 21:35:03",
+      "url_hash": "9909bfbb2933b70d",
+      "content_hash": "e58d1589c555cd0b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-29T21:35:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5a2ab0702f0b47a5",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "DeSoto approves data center moratorium , but controversial project can advance",
+      "source_domain": "wgcu.org",
+      "source_name": "wgcu.org",
+      "url": "https://wgcu.org/top-story/2026-07-29/desoto-approves-data-center-moratorium-but-controversial-project-can-advance",
+      "date": "2026-07-29",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-29 21:35:03",
+      "url_hash": "5a2ab0702f0b47a5",
+      "content_hash": "9bd98c44f5e4b710",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-07-29T21:35:03Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-6642fd2a6179d827",
       "state": "US",
@@ -70,7 +350,7 @@
         "rss-latitude"
       ],
       "snippet": "Local priorities increasingly shape how both data centers and the energy needed to power them are designed and built. The post Community concerns are becoming design requirements for AI infrastructure appeared first on Latitude Media .",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -511,7 +791,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Legislation that&rsquo;s been put on the back burner while the moratorium is in effect would require large data centers to procure at least a third of their electricity from renewable sources by 2030 and might impact those with water-intensive cooling, analyses show.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -3145,7 +3425,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4221,7 +4501,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6658,7 +6938,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8419,7 +8699,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8458,7 +8738,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8536,7 +8816,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9333,7 +9613,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -11805,7 +12085,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11884,7 +12164,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12317,7 +12597,7 @@
         "rss-dck"
       ],
       "snippet": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -13434,7 +13714,7 @@
         "rss-canary"
       ],
       "snippet": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such rules were unnecessary, rejecting claims that the power-hungry facilities could overwhelm the grid…",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -21644,7 +21924,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-29T20:43:03Z",
+      "last_seen": "2026-07-29T21:35:03Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40889,6 +41169,33 @@
     }
   ],
   "by_state": {
+    "WA": {
+      "state": "WA",
+      "count": 9,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 6,
+        "banned": 2,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 9
+      },
+      "latest_date": "2026-07-29"
+    },
+    "AR": {
+      "state": "AR",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 4,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-07-29"
+    },
     "NJ": {
       "state": "NJ",
       "count": 11,
@@ -41095,20 +41402,6 @@
       },
       "latest_date": "2026-07-21"
     },
-    "WA": {
-      "state": "WA",
-      "count": 8,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2,
-        "protested": 5,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 8
-      },
-      "latest_date": "2026-07-21"
-    },
     "NM": {
       "state": "NM",
       "count": 5,
@@ -41275,19 +41568,6 @@
         "news": 4
       },
       "latest_date": "2026-07-02"
-    },
-    "AR": {
-      "state": "AR",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 3,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 4
-      },
-      "latest_date": "2026-06-29"
     },
     "IA": {
       "state": "IA",
