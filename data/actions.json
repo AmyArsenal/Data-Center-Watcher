@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T12:16:03Z",
-  "count": 1591,
+  "generated_at": "2026-07-29T14:36:08Z",
+  "count": 1592,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,53 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-latitude-ee50b124b1a05cd4-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Latitude Media",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-29",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Community concerns are becoming design requirements for AI infrastructure. Local priorities increasingly shape how both data centers and the energy needed to power them are designed and built. The post Community concerns are becoming design requirements for AI infrastructure appeared first on Latitude Media",
+      "sources": [
+        "https://latitudemedia.com/news/community-concerns-are-becoming-design-requirements-for-ai-infrastructure"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-29T14:36:07Z",
+      "first_seen": "2026-07-29T14:36:08Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-03741bdb601b9c70-us",
       "origin": "news",
@@ -73801,30 +73848,30 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 892,
+      "count": 893,
       "outcome_counts": {
-        "pending": 512,
+        "pending": 513,
         "win": 358,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 870,
+        "restrictive": 871,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 879,
+        "local": 880,
         "statewide": 7,
         "federal": 6
       },
       "issue_top": {
-        "community_impact": 177,
+        "community_impact": 178,
         "zoning": 69,
         "grid_energy": 18
       },
-      "latest_date": "2026-07-28",
+      "latest_date": "2026-07-29",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
