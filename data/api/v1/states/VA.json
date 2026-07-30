@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-07-30T15:09:23Z",
+  "generated_at": "2026-07-30T16:44:51Z",
   "risk_score": {
-    "score": 51.9,
-    "tier": 21.7,
-    "engagement": 9.3,
-    "recency": 11.0,
-    "multi_source": 4.9,
+    "score": 52.7,
+    "tier": 22.1,
+    "engagement": 9.2,
+    "recency": 11.5,
+    "multi_source": 4.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.1,
+    "score": 47.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 49,
+  "count": 50,
   "tier_counts": {
-    "restrictive": 17,
+    "restrictive": 18,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,18 +36,18 @@
   },
   "outcome_counts": {
     "win": 18,
-    "pending": 25,
+    "pending": 26,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 25,
+    "local": 26,
     "statewide": 24
   },
   "issue_top": {
     "zoning": 10,
     "community_impact": 10,
-    "water": 5,
+    "water": 6,
     "environmental": 5,
     "grid_energy": 4,
     "noise": 4,
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-27",
+  "latest": "2026-07-30",
   "top_citations": [
+    {
+      "id": "news:rss-dck-03d67acb8e56dc1b-va",
+      "date": "2026-07-30",
+      "jurisdiction": "datacenterknowledge",
+      "title": "Virginia Report Finds Groundwater Running Dry for New Data Centers. No locations east of I-95 can support major new groundwater withdrawals ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterknowledge.com/data-center-site-selection/virginia-report-finds-groundwater-running-dry-for-new-data-centers"
+    },
     {
       "id": "news:rss-dcd-ab4bd45682ad3c30-va",
       "date": "2026-07-27",
@@ -152,15 +161,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/yondr-jk-land-holdings-issue-715m-in-notes-for-build-out-of-virginia-data-center"
-    },
-    {
-      "id": "news:rss-dcd-5c934942ac91b0c5-va",
-      "date": "2026-06-02",
-      "jurisdiction": "DCD",
-      "title": "Tract's 430-acre data center rejected by local officials in Hanover County, Virginia. A win for local opposition groups",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/tracts-430-acre-data-center-rejected-by-local-officials-in-hanover-county-virginia"
     }
   ]
 }
