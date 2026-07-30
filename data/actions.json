@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T16:44:51Z",
-  "count": 1609,
+  "generated_at": "2026-07-30T18:02:53Z",
+  "count": 1612,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,145 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-a64ed4e83355eaae-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "hngnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Milton among Rock County townships considering data center moratoriums",
+      "sources": [
+        "http://hngnews.com/milton_courier/milton-among-rock-county-townships-considering-data-center-moratoriums/article_e7d26e46-3441-5e0a-9083-06f7eaeb308e.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-30T18:02:52Z",
+      "first_seen": "2026-07-30T18:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-eb6fcb7ddeffb7ff-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wypr.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Frederick County Executive requests pause on data center land use vote",
+      "sources": [
+        "https://wypr.org/wypr-news/2026-07-30/frederick-county-executive-requests-pause-on-data-center-land-use-vote"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-30T18:02:52Z",
+      "first_seen": "2026-07-30T18:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-f02917e3539a03fe-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "timesrepublican.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Online petition asks residents to  Say no to data centers",
+      "sources": [
+        "https://timesrepublican.com/news/todays-news/2026/07/online-petition-asks-residents-to-say-no-to-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-30T18:02:52Z",
+      "first_seen": "2026-07-30T18:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-e746c12effa6a0ac-nj",
@@ -74625,27 +74764,27 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 906,
+      "count": 909,
       "outcome_counts": {
-        "pending": 520,
-        "win": 364,
+        "pending": 522,
+        "win": 365,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 884,
+        "restrictive": 887,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 893,
+        "local": 896,
         "statewide": 7,
         "federal": 6
       },
       "issue_top": {
-        "community_impact": 178,
-        "zoning": 73,
+        "community_impact": 179,
+        "zoning": 74,
         "grid_energy": 18
       },
       "latest_date": "2026-07-30",
