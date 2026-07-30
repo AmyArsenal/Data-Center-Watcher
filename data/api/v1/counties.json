@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-07-29T23:39:01Z",
+  "generated_at": "2026-07-30T01:00:21Z",
   "counties": [
     {
       "county_fips": "13215",
@@ -25,7 +25,7 @@
       "county_name": "Jackson County",
       "state": "MO",
       "count": 2,
-      "risk_score": 66.2,
+      "risk_score": 54.9,
       "latest": "2026-06-29",
       "url": "data/dossiers/county-29095.json"
     },
