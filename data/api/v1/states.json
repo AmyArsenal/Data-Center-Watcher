@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-07-30T23:49:26Z",
+  "generated_at": "2026-07-31T01:22:58Z",
   "states": [
     {
       "state": "AK",
@@ -18,16 +18,16 @@
     },
     {
       "state": "AL",
-      "count": 5,
-      "risk_score": 54.0,
+      "count": 6,
+      "risk_score": 60.2,
       "grade": "D",
-      "grade_score": 46.0,
-      "moratoriums": 1,
+      "grade_score": 39.8,
+      "moratoriums": 2,
       "approvals": 0,
       "denials": 4,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-07-25",
+      "latest": "2026-07-31",
       "url": "data/dossiers/state-AL.json"
     },
     {
@@ -103,9 +103,9 @@
     {
       "state": "DC",
       "count": 13,
-      "risk_score": 24.6,
+      "risk_score": 22.6,
       "grade": "B",
-      "grade_score": 75.4,
+      "grade_score": 77.4,
       "moratoriums": 1,
       "approvals": 2,
       "denials": 0,
@@ -201,9 +201,9 @@
     {
       "state": "IN",
       "count": 13,
-      "risk_score": 52.7,
+      "risk_score": 52.0,
       "grade": "D",
-      "grade_score": 47.3,
+      "grade_score": 48.0,
       "moratoriums": 2,
       "approvals": 0,
       "denials": 5,
@@ -327,9 +327,9 @@
     {
       "state": "MO",
       "count": 23,
-      "risk_score": 47.5,
+      "risk_score": 46.3,
       "grade": "C",
-      "grade_score": 52.5,
+      "grade_score": 53.7,
       "moratoriums": 1,
       "approvals": 1,
       "denials": 5,
@@ -466,16 +466,16 @@
     },
     {
       "state": "NY",
-      "count": 37,
-      "risk_score": 64.4,
+      "count": 38,
+      "risk_score": 64.5,
       "grade": "D",
-      "grade_score": 35.6,
+      "grade_score": 35.5,
       "moratoriums": 25,
       "approvals": 0,
       "denials": 28,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-28",
+      "latest": "2026-07-30",
       "url": "data/dossiers/state-NY.json"
     },
     {
@@ -508,16 +508,16 @@
     },
     {
       "state": "OR",
-      "count": 9,
-      "risk_score": 52.5,
+      "count": 10,
+      "risk_score": 56.4,
       "grade": "D",
-      "grade_score": 47.5,
+      "grade_score": 43.6,
       "moratoriums": 1,
       "approvals": 1,
-      "denials": 4,
+      "denials": 5,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-28",
+      "latest": "2026-07-30",
       "url": "data/dossiers/state-OR.json"
     },
     {
@@ -593,9 +593,9 @@
     {
       "state": "TX",
       "count": 47,
-      "risk_score": 58.3,
+      "risk_score": 57.7,
       "grade": "D",
-      "grade_score": 41.7,
+      "grade_score": 42.3,
       "moratoriums": 3,
       "approvals": 3,
       "denials": 15,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 50,
-      "risk_score": 52.7,
+      "risk_score": 52.5,
       "grade": "D",
-      "grade_score": 47.3,
+      "grade_score": 47.5,
       "moratoriums": 2,
       "approvals": 4,
       "denials": 18,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T23:49:26Z",
-  "count": 1612,
+  "generated_at": "2026-07-31T01:22:58Z",
+  "count": 1626,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,282 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-rto-insider-256cab1373c1f879-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "federal",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "federal_agency",
+      "date": "2026-07-31",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Tx Cost Allocation Complaint Gets Mixed Feedback at FERC. Transmission owners and data centers oppose a complaint seeking to change how transmission costs are allocated in PJM, but it won support from states and other parties. The post Data Center Tx Cost Allocation Complaint Gets Mixed Feedback at FERC appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/137918-data-center-tx-cost-allocation-complaint-mixed-feedback-ferc"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-30b06bd7096fee01-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-31",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "By Imperiling Grid Reliability, Data Centers Risk Social License to Operate. Gigawatts of data center load in Dominion’s service territory tripped offline recently, yet again. Regulators are racing to deal with the threat that the resulting over-frequency and voltage issues could take the grid down. The post By Imperiling Grid Reliability, Data Centers Risk Social License to Operate appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/137859-by-imperiling-grid-reliability-data-centers-increasingly-risk-social-license-to-operate"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-bf88c4a864083edc-al",
+      "origin": "news",
+      "state": "AL",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-07-31",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Controversy at Heart of Alabama Governor’s Race. Data centers are becoming a pivotal issue in the Alabama governor's race. Sen. Tommy Tuberville, the GOP front-runner, is all in on data center development; his Democratic opponent, former Sen. Doug Jones, is calling for a moratorium. The post Data Center Controversy at Heart of Alabama Governor&#8217;s Race appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/137828-data-center-controversy-heart-of-alabama-governor-race"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-19f3f170f4ed8247-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "lex18.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lexington planners recommend approval of new data center zoning rules",
+      "sources": [
+        "https://lex18.com/news/covering-kentucky/lexington-planners-recommend-approval-of-new-data-center-zoning-rules-for-fayette-county"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-4b51778c035286ad-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "khq.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Spokane mayor forms data center group during permit pause",
+      "sources": [
+        "https://khq.com/news/spokane-mayor-forms-data-center-group-during-permit-pause/article_04306bfb-9131-4981-894d-29041d6dcec7.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-5132ec6cee0185ef-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "beloitdailynews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Turtle board rejects cost agreement with data center developer , passes moratorium resolution",
+      "sources": [
+        "http://beloitdailynews.com/news/local-news/turtle-board-rejects-cost-agreement-with-data-center-developer-passes-moratorium-resolution/article_f5febb86-6142-4ad0-bf23-c89c30752c81.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-757feeef0da14df5-us",
       "origin": "news",
@@ -60,6 +336,188 @@
       "data_source": "news",
       "last_updated": "2026-07-30T11:18:30Z",
       "first_seen": "2026-07-30T11:18:30Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-79927360ea52b3fe-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kuow.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Controversial Central WA gas power plant for data centers canceled amid activist backlash",
+      "sources": [
+        "https://kuow.org/climate/2026-07-30/controversial-central-wa-gas-power-plant-for-data-centers-canceled-amid-activist-backlash"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-7d8780c9f4ac19db-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wjrz.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Hexa Files $300M Lawsuit Against Monroe Township Over Data Center Prohibition",
+      "sources": [
+        "https://wjrz.com/2026/07/30/hexa-files-300m-lawsuit-against-monroe-township-over-data-center-prohibition"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-84a4ff3dda6dd4b2-ny",
+      "origin": "news",
+      "state": "NY",
+      "county": null,
+      "jurisdiction": "kjzz.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Chandler high schooler letter protesting AI data center among New York Times contest winners",
+      "sources": [
+        "https://kjzz.org/the-show/2026-07-30/chandler-high-schoolers-letter-protesting-ai-data-center-among-new-york-times-contest-winners"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a1ef773aeb46f53d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wpxi.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Organizations look to discuss impacts of data centers with residents , request pause on developments",
+      "sources": [
+        "https://wpxi.com/news/local/organizations-look-discuss-impacts-data-centers-with-residents-request-pause-developments/EOQJVMCFORBSHO4DZVTAEQNZ5E"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -109,6 +567,142 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a8c6e0afe22dc1e2-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "kpic.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Gov . Tina Kotek orders Oregon to withdraw land sale for Salem - area data center",
+      "sources": [
+        "https://kpic.com/news/local/gov-tina-kotek-orders-oregon-to-withdraw-land-sale-for-salem-area-data-center-local-environment-community-business-water-energy-"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-bdd80ce5e038957d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "hometownstations.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Acton , Pepper propose conditional moratorium on new data center construction",
+      "sources": [
+        "https://hometownstations.com/news/allen_county/acton-pepper-propose-conditional-moratorium-on-new-data-center-construction/article_c80f59c1-5d79-4c21-b3be-f67a35a8ab7e.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-c93880b72d0d80b8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "elynews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium",
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "County enacts 180 - day data center moratorium ; golf course and recreation take center stage at commission meeting",
+      "sources": [
+        "https://elynews.com/2026/07/30/joint-white-pine-county-commission-road-commission-and-liquor-board-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-eb6fcb7ddeffb7ff-us",
@@ -199,6 +793,53 @@
       "data_source": "news",
       "last_updated": "2026-07-30T18:02:52Z",
       "first_seen": "2026-07-30T18:02:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-fe4ac549ea2ee181-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "noise"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Public hearing scheduled over Richmond County data center noise concerns",
+      "sources": [
+        "https://yahoo.com/news/us/articles/public-hearing-scheduled-over-richmond-200759687.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "first_seen": "2026-07-31T01:22:58Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -74764,32 +75405,60 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 909,
+      "count": 920,
       "outcome_counts": {
-        "pending": 522,
-        "win": 365,
+        "pending": 526,
+        "win": 372,
         "loss": 22,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 887,
+        "restrictive": 898,
         "protective": 0,
         "supportive": 22,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 896,
+        "local": 906,
         "statewide": 7,
-        "federal": 6
+        "federal": 7
       },
       "issue_top": {
-        "community_impact": 179,
-        "zoning": 74,
-        "grid_energy": 18
+        "community_impact": 180,
+        "zoning": 75,
+        "grid_energy": 20
       },
-      "latest_date": "2026-07-30",
+      "latest_date": "2026-07-31",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "AL": {
+      "state": "AL",
+      "count": 6,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 4,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "ratepayer": 1,
+        "tax_incentive": 1
+      },
+      "latest_date": "2026-07-31",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "NJ": {
       "state": "NJ",
@@ -74848,6 +75517,64 @@
       "latest_date": "2026-07-30",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "OR": {
+      "state": "OR",
+      "count": 10,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 5,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "environmental": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-07-30",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "NY": {
+      "state": "NY",
+      "count": 38,
+      "outcome_counts": {
+        "pending": 10,
+        "win": 28,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 35,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 31,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 8,
+        "environmental": 3,
+        "water": 3
+      },
+      "latest_date": "2026-07-30",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "AR": {
       "state": "AR",
@@ -74965,35 +75692,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
-    "NY": {
-      "state": "NY",
-      "count": 37,
-      "outcome_counts": {
-        "pending": 9,
-        "win": 28,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 34,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 30,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 8,
-        "environmental": 3,
-        "water": 3
-      },
-      "latest_date": "2026-07-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
     "PA": {
       "state": "PA",
       "count": 31,
@@ -75018,35 +75716,6 @@
         "ratepayer": 6,
         "tax_incentive": 6,
         "community_impact": 5
-      },
-      "latest_date": "2026-07-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 9,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 4,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "environmental": 1,
-        "ratepayer": 1
       },
       "latest_date": "2026-07-28",
       "map_color_tier": "restrictive",
@@ -75080,34 +75749,6 @@
       "latest_date": "2026-07-27",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "AL": {
-      "state": "AL",
-      "count": 5,
-      "outcome_counts": {
-        "pending": 1,
-        "win": 4,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "ratepayer": 1,
-        "tax_incentive": 1
-      },
-      "latest_date": "2026-07-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "AZ": {
       "state": "AZ",

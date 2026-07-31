@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-07-30T23:49:26Z",
+  "generated_at": "2026-07-31T01:22:58Z",
   "filter": {
     "issue_category": "community_impact"
   },
-  "count": 311,
+  "count": 312,
   "items": [
     {
       "id": "social:x-4643366107-ok",
@@ -12449,6 +12449,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a1ef773aeb46f53d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wpxi.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-07-30",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"community_impact\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Organizations look to discuss impacts of data centers with residents , request pause on developments",
+      "sources": "[\"https://wpxi.com/news/local/organizations-look-discuss-impacts-data-centers-with-residents-request-pause-developments/EOQJVMCFORBSHO4DZVTAEQNZ5E\"]",
+      "data_source": "news",
+      "last_updated": "2026-07-31T01:22:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }

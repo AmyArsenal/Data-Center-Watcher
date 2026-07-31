@@ -1,22 +1,22 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AL",
-  "generated_at": "2026-07-30T23:49:26Z",
+  "generated_at": "2026-07-31T01:22:58Z",
   "risk_score": {
-    "score": 54.0,
-    "tier": 23.2,
-    "engagement": 8.8,
-    "recency": 13.1,
-    "multi_source": 4.0,
+    "score": 60.2,
+    "tier": 26.0,
+    "engagement": 8.3,
+    "recency": 17.6,
+    "multi_source": 3.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.0,
+    "score": 39.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 0,
     "denials": 4,
     "lawsuits": 0,
@@ -26,18 +26,18 @@
     "bills_passed": 2,
     "bills_enacted": 1
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "unclear": 2,
     "null": 1,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "win": 4,
-    "pending": 1
+    "pending": 2
   },
   "scope_counts": {
-    "statewide": 3,
+    "statewide": 4,
     "local": 2
   },
   "issue_top": {
@@ -47,8 +47,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-17",
-  "latest": "2026-07-25",
+  "latest": "2026-07-31",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-bf88c4a864083edc-al",
+      "date": "2026-07-31",
+      "jurisdiction": "RTO Insider",
+      "title": "Data Center Controversy at Heart of Alabama Governor’s Race. Data centers are becoming a pivotal issue in the Alabama governor's race. Sen. ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/137828-data-center-controversy-heart-of-alabama-governor-race"
+    },
     {
       "id": "news:gdelt-97aca10ba19e89a4-al",
       "date": "2026-07-25",
