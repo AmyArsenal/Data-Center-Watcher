@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-07-31T10:13:53Z",
+  "generated_at": "2026-07-31T12:15:29Z",
   "states": [
     {
       "state": "AK",
@@ -312,16 +312,16 @@
     },
     {
       "state": "MN",
-      "count": 9,
-      "risk_score": 48.0,
-      "grade": "C",
-      "grade_score": 52.0,
-      "moratoriums": 7,
+      "count": 10,
+      "risk_score": 51.9,
+      "grade": "D",
+      "grade_score": 48.1,
+      "moratoriums": 8,
       "approvals": 0,
       "denials": 6,
       "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-07-09",
+      "latest": "2026-07-31",
       "url": "data/dossiers/state-MN.json"
     },
     {
@@ -592,16 +592,16 @@
     },
     {
       "state": "TX",
-      "count": 47,
-      "risk_score": 57.7,
+      "count": 48,
+      "risk_score": 58.4,
       "grade": "D",
-      "grade_score": 42.3,
+      "grade_score": 41.6,
       "moratoriums": 3,
       "approvals": 3,
       "denials": 15,
       "lawsuits": 3,
       "active_companies": 8,
-      "latest": "2026-07-28",
+      "latest": "2026-07-31",
       "url": "data/dossiers/state-TX.json"
     },
     {

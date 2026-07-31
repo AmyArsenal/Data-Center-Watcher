@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-07-31T10:13:53Z",
+  "generated_at": "2026-07-31T12:15:29Z",
   "window_days": 90,
-  "count": 1048,
+  "count": 1050,
   "items": [
+    {
+      "id": "rss-dcd-1969bc55821a7c7a",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Poolin files for bankruptcy, seeks sale of Texas cryptomining assets",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/poolin-files-for-bankruptcy-seeks-sale-of-texas-cryptomining-assets",
+      "date": "2026-07-31",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-31 12:15:28",
+      "url_hash": "1969bc55821a7c7a",
+      "content_hash": "8b381bf55b7aef4b",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Cryptomining at data centers ceased earlier this month",
+      "last_seen": "2026-07-31T12:15:28Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/poolin-files-for-bankruptcy-seeks-sale-of-texas-cryptomining-assets/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-70033b444bd267ea",
+      "state": "MN",
+      "city": null,
+      "category": "protested",
+      "headline": "Legacy Investing buys printing press in Minneapolis, Minnesota, for data center development",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/legacy-investing-buys-printing-press-in-minneapolis-minnesota-for-data-center-development",
+      "date": "2026-07-31",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-07-31 12:15:28",
+      "url_hash": "70033b444bd267ea",
+      "content_hash": "98ba84789066c75c",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Company planning 20MW facility despite ongoing moratorium on data centers in city",
+      "last_seen": "2026-07-31T12:15:28Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/legacy-investing-buys-printing-press-in-minneapolis-minnesota-for-data-center-development/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-8c388b89c8389478",
       "state": "US",
@@ -312,7 +390,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Data centers are becoming a pivotal issue in the Alabama governor's race. Sen. Tommy Tuberville, the GOP front-runner, is all in on data center development; his Democratic opponent, former Sen. Doug Jones, is calling for a moratorium. The post Data Center Controversy at Heart of Alabama Governor&#8217;s Race appeared first on RTO Insider .",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -351,7 +429,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Gigawatts of data center load in Dominion’s service territory tripped offline recently, yet again. Regulators are racing to deal with the threat that the resulting over-frequency and voltage issues could take the grid down. The post By Imperiling Grid Reliability, Data Centers Risk Social License to Operate appeared first on RTO Insider .",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -390,7 +468,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Transmission owners and data centers oppose a complaint seeking to change how transmission costs are allocated in PJM, but it won support from states and other parties. The post Data Center Tx Cost Allocation Complaint Gets Mixed Feedback at FERC appeared first on RTO Insider .",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -989,7 +1067,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1028,7 +1106,7 @@
         "rss-dcd"
       ],
       "snippet": "Says town unfairly rejected its proposal",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -1667,7 +1745,7 @@
         "rss-latitude"
       ],
       "snippet": "Local priorities increasingly shape how both data centers and the energy needed to power them are designed and built. The post Community concerns are becoming design requirements for AI infrastructure appeared first on Latitude Media .",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2108,7 +2186,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Legislation that&rsquo;s been put on the back burner while the moratorium is in effect would require large data centers to procure at least a third of their electricity from renewable sources by 2030 and might impact those with water-intensive cooling, analyses show.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -4742,7 +4820,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5818,7 +5896,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8255,7 +8333,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10016,7 +10094,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -10055,7 +10133,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10133,7 +10211,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10930,7 +11008,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -13402,7 +13480,7 @@
         "rss-dck"
       ],
       "snippet": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13481,7 +13559,7 @@
         "rss-dck"
       ],
       "snippet": "Local opposition groups surged to 430 from 76 since 2025, while recent Virginia project failures suggest community acceptance is emerging as a new site-selection variable for AI infrastructure.",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -23241,7 +23319,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-07-31T10:13:52Z",
+      "last_seen": "2026-07-31T12:15:28Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41808,6 +41886,35 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 27,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 14,
+        "cancelled": 1,
+        "banned": 11,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 26,
+        "legal": 1
+      },
+      "latest_date": "2026-07-31"
+    },
+    "MN": {
+      "state": "MN",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1,
+        "banned": 4
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-07-31"
+    },
     "AL": {
       "state": "AL",
       "count": 3,
@@ -41930,22 +42037,6 @@
       },
       "platforms": {
         "news": 12
-      },
-      "latest_date": "2026-07-28"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 26,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 13,
-        "cancelled": 1,
-        "banned": 11,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 25,
-        "legal": 1
       },
       "latest_date": "2026-07-28"
     },
@@ -42157,18 +42248,6 @@
         "news": 1
       },
       "latest_date": "2026-07-13"
-    },
-    "MN": {
-      "state": "MN",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 4
-      },
-      "platforms": {
-        "news": 4
-      },
-      "latest_date": "2026-07-09"
     },
     "WI": {
       "state": "WI",

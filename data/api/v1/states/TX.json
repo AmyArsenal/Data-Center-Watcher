@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-07-31T10:13:53Z",
+  "generated_at": "2026-07-31T12:15:29Z",
   "risk_score": {
-    "score": 57.7,
-    "tier": 30.2,
+    "score": 58.4,
+    "tier": 30.4,
     "engagement": 6.4,
-    "recency": 15.9,
+    "recency": 16.4,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 42.3,
+    "score": 41.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 47,
+  "count": 48,
   "tier_counts": {
-    "restrictive": 31,
+    "restrictive": 32,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 26,
+    "pending": 27,
     "mixed": 3,
     "loss": 3,
     "win": 15
   },
   "scope_counts": {
-    "local": 41,
+    "local": 42,
     "statewide": 6
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-28",
+  "latest": "2026-07-31",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-1969bc55821a7c7a-tx",
+      "date": "2026-07-31",
+      "jurisdiction": "DCD",
+      "title": "Poolin files for bankruptcy, seeks sale of Texas cryptomining assets. Cryptomining at data centers ceased earlier this month",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/poolin-files-for-bankruptcy-seeks-sale-of-texas-cryptomining-assets"
+    },
     {
       "id": "news:rss-dcd-9cb90f3353ac8464-tx",
       "date": "2026-07-28",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://ktxs.com/news/local/gov-greg-abbott-calls-for-data-center-ban-across-rural-texas"
-    },
-    {
-      "id": "news:rss-dcd-4c6b7a638a8c7a56-tx",
-      "date": "2026-07-08",
-      "jurisdiction": "DCD",
-      "title": "AWS files for $1.2bn data center campus outside Houston, Texas. Will have four data center buildings",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/aws-files-for-12bn-data-center-campus-outside-houston-texas"
     }
   ]
 }

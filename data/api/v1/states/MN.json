@@ -1,22 +1,22 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MN",
-  "generated_at": "2026-07-31T10:13:53Z",
+  "generated_at": "2026-07-31T12:15:29Z",
   "risk_score": {
-    "score": 48.0,
-    "tier": 30.7,
+    "score": 51.9,
+    "tier": 31.6,
     "engagement": 6.2,
-    "recency": 11.1,
+    "recency": 14.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.0,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.1,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 7,
+    "moratoriums": 8,
     "approvals": 0,
     "denials": 6,
     "lawsuits": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 9,
+  "count": 10,
   "tier_counts": {
-    "restrictive": 6,
+    "restrictive": 7,
     "null": 3
   },
   "outcome_counts": {
-    "pending": 2,
+    "pending": 3,
     "win": 6,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 8,
+    "local": 9,
     "statewide": 1
   },
   "issue_top": {
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-15",
-  "latest": "2026-07-09",
+  "latest": "2026-07-31",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-70033b444bd267ea-mn",
+      "date": "2026-07-31",
+      "jurisdiction": "DCD",
+      "title": "Legacy Investing buys printing press in Minneapolis, Minnesota, for data center development. Company planning 20MW facility despite ongoing ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/legacy-investing-buys-printing-press-in-minneapolis-minnesota-for-data-center-development"
+    },
     {
       "id": "news:rss-dcd-30b1fcc06ab72344-mn",
       "date": "2026-07-09",
