@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T12:15:29Z",
-  "count": 1635,
+  "generated_at": "2026-07-31T14:35:01Z",
+  "count": 1636,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -427,6 +427,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-959b52e90d3e280e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-07-31",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "CenterPoint Energy raises investment plan by $1.2bn as data center load pipeline grows. Expects to energize up to 8GW of data center load in the Greater Houston area by 2029",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/centerpoint-energy-raises-investment-plan-by-12bn-as-data-center-load-pipeline-grows"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-07-31T14:35:00Z",
+      "first_seen": "2026-07-31T14:35:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-rto-insider-256cab1373c1f879-us",
@@ -75813,21 +75858,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 927,
+      "count": 928,
       "outcome_counts": {
         "pending": 531,
         "win": 374,
-        "loss": 22,
+        "loss": 23,
         "mixed": 0
       },
       "tier_counts": {
         "restrictive": 905,
         "protective": 0,
-        "supportive": 22,
+        "supportive": 23,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 913,
+        "local": 914,
         "statewide": 7,
         "federal": 7
       },
