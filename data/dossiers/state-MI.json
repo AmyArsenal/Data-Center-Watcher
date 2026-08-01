@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-08-01T04:31:50Z",
+  "generated_at": "2026-08-01T07:11:20Z",
   "risk_score": {
-    "score": 61.5,
-    "tier": 35.6,
+    "score": 62.0,
+    "tier": 35.8,
     "engagement": 6.2,
-    "recency": 19.7,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 38.5,
+    "score": 38.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 19,
+  "count": 20,
   "tier_counts": {
-    "restrictive": 16,
+    "restrictive": 17,
     "null": 3
   },
   "outcome_counts": {
     "win": 10,
-    "pending": 9
+    "pending": 10
   },
   "scope_counts": {
-    "local": 17,
+    "local": 18,
     "statewide": 2
   },
   "issue_top": {
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-07-28",
+  "latest": "2026-08-01",
   "top_citations": [
+    {
+      "id": "news:gdelt-fe68787ea2a04eb4-mi",
+      "date": "2026-08-01",
+      "jurisdiction": "shorelinemedia.net",
+      "title": "When Mason County pursued Michigan state data center",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://shorelinemedia.net/ludington_daily_news/news/when-mason-county-pursued-michigans-state-data-center/article_917b22ae-d539-4238-aa6e-928fc4a6d8aa.html"
+    },
     {
       "id": "news:gdelt-26c0522688f04504-mi",
       "date": "2026-07-28",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/michigan-senator-proposes-one-year-state-wide-moratorium-on-data-centers"
-    },
-    {
-      "id": "news:gdelt-66e34bdb76e39519-mi",
-      "date": "2026-05-21",
-      "jurisdiction": "wkar.org",
-      "title": "Why one Michigan township just rejected data centers , while another stays open to them",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://wkar.org/wkar-news/2026-05-20/why-one-michigan-township-just-rejected-data-centers-while-another-stays-open-to-them"
     }
   ]
 }
