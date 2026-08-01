@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T19:50:13Z",
+  "generated_at": "2026-08-01T20:22:40Z",
   "tier_timestamps": {
     "fast": "2026-08-01T19:50:13Z",
-    "bills": "2026-08-01T18:17:32Z"
+    "bills": "2026-08-01T20:22:40Z"
   },
   "counts_by_source": {
     "gdelt": 821,
@@ -33,6 +33,13 @@
       "rss-court-dc": 1,
       "rss-dck": 8,
       "rss-rto-insider": 3
-    }
+    },
+    "bills_last_run_seconds": 525.8,
+    "bills_raw_fetched": 0,
+    "bills_inserted": 0,
+    "bills_updated": 0,
+    "bills_noop": 0,
+    "bills_total_in_json": 193,
+    "bills_states_with_bills": 16
   }
 }
