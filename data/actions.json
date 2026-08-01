@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T14:18:38Z",
-  "count": 1639,
+  "generated_at": "2026-08-01T15:32:38Z",
+  "count": 1640,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,52 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-5d5ca54895c68d49-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "lebanondemocrat.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium",
+        "study_or_report"
+      ],
+      "authority_level": "planning_commission",
+      "date": "2026-08-01",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Planning Commission recommends one - year moratorium ON data centers",
+      "sources": [
+        "https://lebanondemocrat.com/hartsville/hartsville/planning-commission-recommends-one-year-moratorium-on-data-centers/article_48bcf0fe-7a0e-52a3-84b8-14ca5000ede6.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-01T15:32:37Z",
+      "first_seen": "2026-08-01T15:32:38Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-b19e93f62d3e4cad-us",
       "origin": "news",
@@ -75997,21 +76043,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 930,
+      "count": 931,
       "outcome_counts": {
         "pending": 532,
-        "win": 375,
+        "win": 376,
         "loss": 23,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 907,
+        "restrictive": 908,
         "protective": 0,
         "supportive": 23,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 916,
+        "local": 917,
         "statewide": 7,
         "federal": 7
       },
