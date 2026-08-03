@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T08:02:55Z",
-  "count": 1640,
+  "generated_at": "2026-08-03T11:40:06Z",
+  "count": 1641,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-3c4bdf46700a97aa-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-03",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Oregon governor blocks data center development, stops land sale. Governor Tina Kotek stops land sale in Salem to Verrus",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/oregon-governor-blocks-data-center-development-stops-land-sale"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-03T11:40:05Z",
+      "first_seen": "2026-08-03T11:40:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-5d5ca54895c68d49-us",
       "origin": "news",
@@ -76041,6 +76086,35 @@
     }
   ],
   "by_state": {
+    "OR": {
+      "state": "OR",
+      "count": 11,
+      "outcome_counts": {
+        "pending": 5,
+        "win": 5,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 6,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "environmental": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-08-03",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
       "count": 931,
@@ -76238,35 +76312,6 @@
         "community_impact": 10,
         "zoning": 10,
         "water": 6
-      },
-      "latest_date": "2026-07-30",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 10,
-      "outcome_counts": {
-        "pending": 4,
-        "win": 5,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 5,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 7,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "environmental": 1,
-        "ratepayer": 1
       },
       "latest_date": "2026-07-30",
       "map_color_tier": "restrictive",

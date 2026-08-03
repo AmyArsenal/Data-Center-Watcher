@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-08-03T08:02:55Z",
+  "generated_at": "2026-08-03T11:40:06Z",
   "risk_score": {
-    "score": 56.4,
-    "tier": 24.8,
-    "engagement": 7.5,
-    "recency": 17.1,
-    "multi_source": 2.0,
+    "score": 59.5,
+    "tier": 26.2,
+    "engagement": 7.4,
+    "recency": 19.2,
+    "multi_source": 1.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.6,
+    "score": 40.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 5,
+    "restrictive": 6,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 4,
+    "pending": 5,
     "win": 5,
     "loss": 1
   },
   "scope_counts": {
-    "statewide": 3,
+    "statewide": 4,
     "local": 7
   },
   "issue_top": {
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-07-30",
+  "latest": "2026-08-03",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-3c4bdf46700a97aa-or",
+      "date": "2026-08-03",
+      "jurisdiction": "DCD",
+      "title": "Oregon governor blocks data center development, stops land sale. Governor Tina Kotek stops land sale in Salem to Verrus",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/oregon-governor-blocks-data-center-development-stops-land-sale"
+    },
     {
       "id": "news:gdelt-a8c6e0afe22dc1e2-or",
       "date": "2026-07-30",
@@ -139,15 +148,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3698"
-    },
-    {
-      "id": "openstates:ocd-bill-7eb16185-618f-42e4-aa19-bf464b01083a-or",
-      "date": "2025-01-13",
-      "jurisdiction": "OR Legislature",
-      "title": "Relating to data center power usage.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB553"
     }
   ]
 }
