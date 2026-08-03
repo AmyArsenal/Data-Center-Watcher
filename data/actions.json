@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T18:13:30Z",
-  "count": 1642,
+  "generated_at": "2026-08-03T19:55:58Z",
+  "count": 1644,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-d42ceda0fbb764e7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wpr.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-03",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "GOP primary candidate for 25th Senate District Angie Sapik calls for tighter data center controls , rejects regional tax proposals",
+      "sources": [
+        "https://wpr.org/news/gop-primary-candidate-for-25th-senate-district-angie-sapik-calls-for-tighter-data-center-controls-rejects-regional-tax-proposals"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-03T19:55:57Z",
+      "first_seen": "2026-08-03T19:55:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-dcd-3c4bdf46700a97aa-or",
       "origin": "news",
@@ -111,6 +156,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dck-9954028edcab9fbf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-03",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Building Data Center Infrastructure Requires Trust, Not Just Permits. Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah",
+      "sources": [
+        "https://datacenterknowledge.com/data-center-site-selection/building-data-center-infrastructure-requires-trust-not-just-permits"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-03T19:55:57Z",
+      "first_seen": "2026-08-03T19:55:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-5d5ca54895c68d49-us",
@@ -76193,21 +76283,21 @@
     },
     "US": {
       "state": "US",
-      "count": 931,
+      "count": 933,
       "outcome_counts": {
-        "pending": 532,
+        "pending": 534,
         "win": 376,
         "loss": 23,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 908,
+        "restrictive": 910,
         "protective": 0,
         "supportive": 23,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 917,
+        "local": 919,
         "statewide": 7,
         "federal": 7
       },
@@ -76216,7 +76306,7 @@
         "zoning": 78,
         "grid_energy": 20
       },
-      "latest_date": "2026-08-01",
+      "latest_date": "2026-08-03",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
