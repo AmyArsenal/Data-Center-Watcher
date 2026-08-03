@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-08-03T11:40:06Z",
+  "generated_at": "2026-08-03T14:00:22Z",
   "risk_score": {
-    "score": 52.5,
-    "tier": 22.1,
+    "score": 53.2,
+    "tier": 22.4,
     "engagement": 9.2,
-    "recency": 11.4,
-    "multi_source": 4.8,
+    "recency": 11.9,
+    "multi_source": 4.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.5,
+    "score": 46.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 4,
-    "denials": 18,
+    "denials": 19,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,28 +26,28 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 50,
+  "count": 51,
   "tier_counts": {
-    "restrictive": 18,
+    "restrictive": 19,
     "unclear": 15,
     "protective": 3,
     "null": 11,
     "supportive": 3
   },
   "outcome_counts": {
-    "win": 18,
+    "win": 19,
     "pending": 26,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
     "local": 26,
-    "statewide": 24
+    "statewide": 25
   },
   "issue_top": {
     "zoning": 10,
     "community_impact": 10,
-    "water": 6,
+    "water": 7,
     "environmental": 5,
     "grid_energy": 4,
     "noise": 4,
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-07-30",
+  "latest": "2026-08-03",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-7f44642f12d1c417-va",
+      "date": "2026-08-03",
+      "jurisdiction": "DCD",
+      "title": "Virginia state senators call for review into data center groundwater strain and potential state-wide moratorium. Bipartisan movement calls o",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/virginia-state-senators-call-for-review-into-data-center-groundwater-strain-and-potential-state-wide-moratorium"
+    },
     {
       "id": "news:rss-dck-03d67acb8e56dc1b-va",
       "date": "2026-07-30",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterknowledge.com/data-center-site-selection/second-major-virginia-data-center-project-dies-raising-ai-site-selection-stakes"
-    },
-    {
-      "id": "news:rss-dcd-a6bcd1a5d5174746-va",
-      "date": "2026-06-25",
-      "jurisdiction": "Loudoun County",
-      "title": "Yondr & JK Land Holdings issue $715m in notes for build-out of Virginia data center. Funds to fuel development of 28MW building in Loudoun C",
-      "tier": "supportive",
-      "outcome": "loss",
-      "url": "https://datacenterdynamics.com/en/news/yondr-jk-land-holdings-issue-715m-in-notes-for-build-out-of-virginia-data-center"
     }
   ]
 }

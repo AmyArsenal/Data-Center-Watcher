@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-03T11:40:06Z",
+  "generated_at": "2026-08-03T14:00:22Z",
   "states": [
     {
       "state": "AK",
@@ -620,16 +620,16 @@
     },
     {
       "state": "VA",
-      "count": 50,
-      "risk_score": 52.5,
+      "count": 51,
+      "risk_score": 53.2,
       "grade": "D",
-      "grade_score": 47.5,
-      "moratoriums": 2,
+      "grade_score": 46.8,
+      "moratoriums": 3,
       "approvals": 4,
-      "denials": 18,
+      "denials": 19,
       "lawsuits": 3,
       "active_companies": 3,
-      "latest": "2026-07-30",
+      "latest": "2026-08-03",
       "url": "data/dossiers/state-VA.json"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T11:40:06Z",
-  "count": 1641,
+  "generated_at": "2026-08-03T14:00:22Z",
+  "count": 1642,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-7f44642f12d1c417-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-03",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "water"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Virginia state senators call for review into data center groundwater strain and potential state-wide moratorium. Bipartisan movement calls on state governor to act immediately",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/virginia-state-senators-call-for-review-into-data-center-groundwater-strain-and-potential-state-wide-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-03T14:00:21Z",
+      "first_seen": "2026-08-03T14:00:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-5d5ca54895c68d49-us",
@@ -76115,6 +76162,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "VA": {
+      "state": "VA",
+      "count": 51,
+      "outcome_counts": {
+        "pending": 26,
+        "win": 19,
+        "loss": 4,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 19,
+        "protective": 3,
+        "supportive": 3,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 26,
+        "statewide": 25,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "zoning": 10,
+        "water": 7
+      },
+      "latest_date": "2026-08-03",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
       "count": 931,
@@ -76283,35 +76359,6 @@
         "grid_energy": 7,
         "water": 4,
         "community_impact": 3
-      },
-      "latest_date": "2026-07-30",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 50,
-      "outcome_counts": {
-        "pending": 26,
-        "win": 18,
-        "loss": 4,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 18,
-        "protective": 3,
-        "supportive": 3,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 26,
-        "statewide": 24,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "zoning": 10,
-        "water": 6
       },
       "latest_date": "2026-07-30",
       "map_color_tier": "restrictive",
