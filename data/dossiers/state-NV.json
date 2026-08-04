@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NV",
-  "generated_at": "2026-08-04T10:05:39Z",
+  "generated_at": "2026-08-04T12:16:23Z",
   "risk_score": {
-    "score": 44.0,
-    "tier": 30.7,
+    "score": 44.6,
+    "tier": 23.0,
     "engagement": 6.2,
-    "recency": 7.1,
+    "recency": 15.3,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
@@ -17,7 +17,7 @@
   },
   "quantified": {
     "moratoriums": 1,
-    "approvals": 0,
+    "approvals": 1,
     "denials": 1,
     "lawsuits": 0,
     "blocked": 0,
@@ -26,17 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
     "restrictive": 2,
-    "null": 1
+    "null": 1,
+    "supportive": 1
   },
   "outcome_counts": {
     "pending": 2,
-    "win": 1
+    "win": 1,
+    "loss": 1
   },
   "scope_counts": {
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "environmental": 1,
@@ -48,8 +50,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-04-22",
-  "latest": "2026-05-15",
+  "latest": "2026-08-04",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-0e7187d6a800c7b6-nv",
+      "date": "2026-08-04",
+      "jurisdiction": "DCD",
+      "title": "Clearway cancels plans for gas powered data center in Nevada - report. Had requested the US Bureau of Land Management to swap a solar plant ",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/clearway-cancels-plans-for-gas-powered-data-center-in-nevada-report"
+    },
     {
       "id": "news:gdelt-69009dca327d5e60-nv",
       "date": "2026-05-15",

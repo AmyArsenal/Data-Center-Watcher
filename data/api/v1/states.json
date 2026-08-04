@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-04T10:05:39Z",
+  "generated_at": "2026-08-04T12:16:23Z",
   "states": [
     {
       "state": "AK",
@@ -452,16 +452,16 @@
     },
     {
       "state": "NV",
-      "count": 3,
-      "risk_score": 44.0,
+      "count": 4,
+      "risk_score": 44.6,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
-      "approvals": 0,
+      "approvals": 1,
       "denials": 1,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-05-15",
+      "latest": "2026-08-04",
       "url": "data/dossiers/state-NV.json"
     },
     {
