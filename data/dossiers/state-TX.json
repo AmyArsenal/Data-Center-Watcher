@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-04T20:04:38Z",
+  "generated_at": "2026-08-04T21:32:56Z",
   "risk_score": {
-    "score": 57.7,
-    "tier": 30.4,
+    "score": 61.4,
+    "tier": 31.5,
     "engagement": 6.4,
-    "recency": 15.7,
+    "recency": 18.4,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 42.3,
+    "score": 38.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 3,
-    "denials": 15,
+    "denials": 19,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,25 +26,25 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 48,
+  "count": 54,
   "tier_counts": {
-    "restrictive": 32,
+    "restrictive": 38,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 27,
+    "pending": 29,
     "mixed": 3,
     "loss": 3,
-    "win": 15
+    "win": 19
   },
   "scope_counts": {
-    "local": 42,
-    "statewide": 6
+    "local": 46,
+    "statewide": 8
   },
   "issue_top": {
+    "grid_energy": 13,
     "community_impact": 11,
-    "grid_energy": 10,
     "water": 9,
     "farmland": 8,
     "ratepayer": 4,
@@ -88,8 +88,62 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-07-31",
+  "latest": "2026-08-04",
   "top_citations": [
+    {
+      "id": "news:rss-arstechnica-8fad3a447869e492-tx",
+      "date": "2026-08-04",
+      "jurisdiction": "Ars Technica - All content",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand. Governor who touted Texas as AI “epicenter” pauses data center g",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand"
+    },
+    {
+      "id": "news:gdelt-aff83e00672842ce-tx",
+      "date": "2026-08-04",
+      "jurisdiction": "keranews.org",
+      "title": "Data center approvals in Texas halted until audits completed , Gov . Greg Abbott says",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://keranews.org/news/2026-08-04/data-center-approvals-in-texas-halted-until-audits-completed-gov-greg-abbott-says"
+    },
+    {
+      "id": "news:gdelt-759ba1f97ea4646f-tx",
+      "date": "2026-08-04",
+      "jurisdiction": "victoriaadvocate.com",
+      "title": "Data center approvals in Texas halted until audits completed , Abbott says",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://victoriaadvocate.com/2026/08/04/data-center-approvals-in-texas-halted-until-audits-completed-abbott-says"
+    },
+    {
+      "id": "news:gdelt-54f691ff81815d08-tx",
+      "date": "2026-08-04",
+      "jurisdiction": "gizmodo.com",
+      "title": "Texas Pauses New Data Center Projects Looking to Connect to the State Grid",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://gizmodo.com/texas-pauses-new-data-center-projects-looking-to-connect-to-the-states-grid-2000794539"
+    },
+    {
+      "id": "news:gdelt-769669d08c142b11-tx",
+      "date": "2026-08-04",
+      "jurisdiction": "tomshardware.com",
+      "title": "Texas slams on the breaks for 1 , 800 data centers , power grid requirements are five times higher than peak record demand 474 gigawatts of ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium"
+    },
+    {
+      "id": "news:gdelt-ef7bfb0519ac40e3-tx",
+      "date": "2026-08-04",
+      "jurisdiction": "techcrunch.com",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits"
+    },
     {
       "id": "news:rss-dcd-1969bc55821a7c7a-tx",
       "date": "2026-07-31",
@@ -125,60 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://wbap.com/2026/07/23/data-center-developer-withdraws-east-texas-project-after-failing-to-meet-abbotts-standards"
-    },
-    {
-      "id": "news:rss-dcd-65324532f88de996-tx",
-      "date": "2026-07-24",
-      "jurisdiction": "DCD",
-      "title": "Vantage, VoltaGrid face lawsuit concerning natural gas powered off-grid data centers in San Antonio, Texas. Environmental Integrity Project,",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/vantage-voltagrid-face-lawsuit-concerning-natural-gas-powered-off-grid-data-centers-in-san-antonio-texas"
-    },
-    {
-      "id": "news:gdelt-da2bb0865ff03b59-tx",
-      "date": "2026-07-19",
-      "jurisdiction": "fox34.com",
-      "title": "Texas Ag Commissioner Sid Miller speaks at Lubbock data center protest",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://fox34.com/2026/07/19/texas-ag-commissioner-sid-miller-speaks-lubbock-data-center-protest"
-    },
-    {
-      "id": "news:gdelt-d03c4a0cb0c4c3cb-tx",
-      "date": "2026-07-17",
-      "jurisdiction": "govtech.com",
-      "title": "Small Texas Town Joins Group Considering Data Center Ban",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://govtech.com/artificial-intelligence/small-texas-town-joins-group-considering-data-center-ban"
-    },
-    {
-      "id": "news:gdelt-9a0003607e633bb6-tx",
-      "date": "2026-07-10",
-      "jurisdiction": "lufkindailynews.com",
-      "title": "A data center proposed at a quiet corner of East Texas leaves a community bracing for a boom",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://lufkindailynews.com/news/community/a-data-center-proposed-at-a-quiet-corner-of-east-texas-leaves-a-community-bracing/article_827d3713-c9a7-5ab5-9553-c373dded277e.html"
-    },
-    {
-      "id": "news:gdelt-c034b0c383beae8f-tx",
-      "date": "2026-07-09",
-      "jurisdiction": "dailysignal.com",
-      "title": "Abbott Demands Ban on AI Data Centers in Rural Texas",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://dailysignal.com/2026/07/08/abbott-calls-for-data-center-ban"
-    },
-    {
-      "id": "news:gdelt-651e8d7554620fc2-tx",
-      "date": "2026-07-08",
-      "jurisdiction": "ktxs.com",
-      "title": "Gov . Greg Abbott calls for data center ban across rural Texas",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://ktxs.com/news/local/gov-greg-abbott-calls-for-data-center-ban-across-rural-texas"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-08-04T20:04:38Z",
+  "generated_at": "2026-08-04T21:32:56Z",
   "risk_score": {
-    "score": 61.3,
-    "tier": 27.3,
-    "engagement": 7.3,
+    "score": 62.1,
+    "tier": 28.3,
+    "engagement": 7.2,
     "recency": 20.0,
-    "multi_source": 1.7,
+    "multi_source": 1.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 38.7,
+    "score": 37.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 1,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 7,
+    "restrictive": 8,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 6,
-    "win": 5,
+    "win": 6,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "community_impact": 2,
@@ -67,6 +67,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/verrus-attempts-to-push-on-with-data-center-campus-in-salem-oregon"
+    },
+    {
+      "id": "news:gdelt-318bca9e75727e5e-or",
+      "date": "2026-08-04",
+      "jurisdiction": "bendbulletin.com",
+      "title": "Democratic lawmakers propose three - year moratorium on new large data centers in Oregon",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://bendbulletin.com/2026/08/04/democratic-lawmakers-propose-three-year-moratorium-on-new-large-data-centers-in-oregon"
     },
     {
       "id": "news:rss-dcd-3c4bdf46700a97aa-or",
@@ -139,15 +148,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.nbcrightnow.com/news/amazon-settles-oregon-data-center-pollution-lawsuit-for-20-5m/article_aa1e0c52-c6be-42c8-bf90-091b3670b75b.html"
-    },
-    {
-      "id": "research:or-oregon-state-legislature-20260302-oregon-lawmakers-amended-hb-4084-gov-kotek-s-ent",
-      "date": "2026-03-02",
-      "jurisdiction": "Oregon State Legislature",
-      "title": "Oregon lawmakers amended HB 4084 (Gov. Kotek's enterprise-zone bill) to impose one-year moratorium barring data centers from receiving new o",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.opb.org/article/2026/03/02/data-centers-cut-bill-expanding-oregon-tax-breaks/"
     }
   ]
 }
