@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-04T07:20:59Z",
+  "generated_at": "2026-08-04T10:05:39Z",
   "states": [
     {
       "state": "AK",
@@ -662,16 +662,16 @@
     },
     {
       "state": "WI",
-      "count": 24,
-      "risk_score": 40.7,
+      "count": 25,
+      "risk_score": 42.7,
       "grade": "C",
-      "grade_score": 59.3,
+      "grade_score": 57.3,
       "moratoriums": 5,
       "approvals": 1,
       "denials": 5,
       "lawsuits": 0,
       "active_companies": 4,
-      "latest": "2026-07-09",
+      "latest": "2026-08-04",
       "url": "data/dossiers/state-WI.json"
     },
     {

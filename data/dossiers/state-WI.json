@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-08-04T07:20:59Z",
+  "generated_at": "2026-08-04T10:05:39Z",
   "risk_score": {
-    "score": 40.7,
-    "tier": 14.3,
-    "engagement": 9.9,
-    "recency": 5.6,
-    "multi_source": 5.8,
+    "score": 42.7,
+    "tier": 15.4,
+    "engagement": 9.8,
+    "recency": 7.0,
+    "multi_source": 5.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.3,
+    "score": 57.3,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,26 +26,26 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 24,
+  "count": 25,
   "tier_counts": {
-    "restrictive": 5,
+    "restrictive": 6,
     "unclear": 6,
     "supportive": 7,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 18,
+    "pending": 19,
     "win": 5,
     "loss": 1
   },
   "scope_counts": {
     "local": 8,
-    "statewide": 16
+    "statewide": 17
   },
   "issue_top": {
     "tax_incentive": 5,
+    "community_impact": 5,
     "transparency": 4,
-    "community_impact": 4,
     "grid_energy": 3,
     "water": 3,
     "environmental": 2,
@@ -72,8 +72,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2023-05-24",
-  "latest": "2026-07-09",
+  "latest": "2026-08-04",
   "top_citations": [
+    {
+      "id": "news:rss-canary-d0c67440b1ad3a6a-wi",
+      "date": "2026-08-04",
+      "jurisdiction": "Canary Media",
+      "title": "Data centers take center stage in Wisconsin governor’s race. A year ago, most Wisconsin residents thought little about data centers, accordi",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://canarymedia.com/articles/data-centers/wisconsin-governors-race"
+    },
     {
       "id": "news:rss-dcd-c7b19955cad2ad02-wi",
       "date": "2026-07-09",
@@ -154,15 +163,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://legiscan.com/WI/bill/AB1099/2025"
-    },
-    {
-      "id": "openstates:ocd-bill-53f7eca5-cb82-40da-bbf5-61bff801bbb5-wi",
-      "date": "2026-02-26",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: moratorium on data centers.",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1061"
     }
   ]
 }

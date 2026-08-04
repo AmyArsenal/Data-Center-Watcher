@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T07:20:58Z",
-  "count": 1645,
+  "generated_at": "2026-08-04T10:05:38Z",
+  "count": 1646,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,53 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-canary-d0c67440b1ad3a6a-wi",
+      "origin": "news",
+      "state": "WI",
+      "county": null,
+      "jurisdiction": "Canary Media",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers take center stage in Wisconsin governor’s race. A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
+      "sources": [
+        "https://canarymedia.com/articles/data-centers/wisconsin-governors-race"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-04T10:05:37Z",
+      "first_seen": "2026-08-04T10:05:38Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-rto-insider-612e6ddd6144a282-va",
       "origin": "news",
@@ -76299,6 +76346,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "WI": {
+      "state": "WI",
+      "count": 25,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 5,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 6,
+        "protective": 0,
+        "supportive": 7,
+        "unclear": 6
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 17,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "tax_incentive": 5,
+        "transparency": 4
+      },
+      "latest_date": "2026-08-04",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OR": {
       "state": "OR",
       "count": 11,
@@ -77079,35 +77155,6 @@
       },
       "latest_date": "2026-07-13",
       "map_color_tier": "supportive",
-      "map_color_outcome": "loss"
-    },
-    "WI": {
-      "state": "WI",
-      "count": 24,
-      "outcome_counts": {
-        "pending": 18,
-        "win": 5,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 5,
-        "protective": 0,
-        "supportive": 7,
-        "unclear": 6
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 16,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 5,
-        "community_impact": 4,
-        "transparency": 4
-      },
-      "latest_date": "2026-07-09",
-      "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "MO": {
