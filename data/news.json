@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-04T22:41:21Z",
+  "generated_at": "2026-08-04T23:40:35Z",
   "window_days": 90,
-  "count": 1045,
+  "count": 1047,
   "items": [
+    {
+      "id": "gdelt-c7d11eda4b645be6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Gov . Greg Abbott halts new data centers as electricity demand skyrockets",
+      "source_domain": "nypost.com",
+      "source_name": "nypost.com",
+      "url": "https://nypost.com/2026/08/04/us-news/gov-greg-abbott-halts-new-data-centers-as-electricity-demand-skyrockets",
+      "date": "2026-08-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-04 23:40:35",
+      "url_hash": "c7d11eda4b645be6",
+      "content_hash": "7903a4afd815eb61",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-04T23:40:35Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1e77172e5e80acd2",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Critics blast Texas Gov . Greg Abbott pause on data centers as  political theater",
+      "source_domain": "sacurrent.com",
+      "source_name": "sacurrent.com",
+      "url": "https://sacurrent.com/news/texas-news/critics-blast-texas-gov-greg-abbotts-pause-on-data-centers-as-political-theater",
+      "date": "2026-08-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-04 23:40:35",
+      "url_hash": "1e77172e5e80acd2",
+      "content_hash": "83893d828b0b661c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-04T23:40:35Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "(hyperscaler OR \"AI campus\") (opposition OR protest OR pause) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-ef7bfb0519ac40e3",
       "state": "TX",
@@ -230,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-04T21:32:55Z",
+      "last_seen": "2026-08-04T23:40:35Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -390,7 +470,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -429,7 +509,7 @@
         "rss-dcd"
       ],
       "snippet": "Despite Governor's intervention and city eyeing moratorium",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -546,7 +626,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -585,7 +665,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Virginia SCC ordered immediate changes to Dominion's transmission cost allocation that cut the impact on residential ratepayers by two-thirds and set additional issues around directly assigning costs to large loads for future proceedings. The post Virginia SCC Orders Changes to Tx Cost Allocation for Data Centers appeared first on RTO Insider .",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -664,7 +744,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2017,7 +2097,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5770,7 +5850,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6846,7 +6926,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9283,7 +9363,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11044,7 +11124,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11083,7 +11163,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11161,7 +11241,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11958,7 +12038,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -24269,7 +24349,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-04T22:41:20Z",
+      "last_seen": "2026-08-04T23:40:34Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41681,16 +41761,16 @@
   "by_state": {
     "TX": {
       "state": "TX",
-      "count": 32,
+      "count": 33,
       "total_engagement": 0,
       "categories": {
+        "banned": 16,
         "protested": 15,
-        "banned": 15,
         "cancelled": 1,
         "announced": 1
       },
       "platforms": {
-        "news": 31,
+        "news": 32,
         "legal": 1
       },
       "latest_date": "2026-08-04"

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-04T22:41:21Z",
+  "generated_at": "2026-08-04T23:40:36Z",
   "risk_score": {
-    "score": 61.4,
-    "tier": 31.5,
+    "score": 61.9,
+    "tier": 31.6,
     "engagement": 6.4,
-    "recency": 18.4,
+    "recency": 18.8,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 38.6,
+    "score": 38.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 4,
     "approvals": 3,
-    "denials": 19,
+    "denials": 20,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 54,
+  "count": 55,
   "tier_counts": {
-    "restrictive": 38,
+    "restrictive": 39,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 29,
     "mixed": 3,
     "loss": 3,
-    "win": 19
+    "win": 20
   },
   "scope_counts": {
-    "local": 46,
+    "local": 47,
     "statewide": 8
   },
   "issue_top": {
@@ -145,6 +145,15 @@
       "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits"
     },
     {
+      "id": "news:gdelt-1e77172e5e80acd2-tx",
+      "date": "2026-08-04",
+      "jurisdiction": "sacurrent.com",
+      "title": "Critics blast Texas Gov . Greg Abbott pause on data centers as  political theater",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://sacurrent.com/news/texas-news/critics-blast-texas-gov-greg-abbotts-pause-on-data-centers-as-political-theater"
+    },
+    {
       "id": "news:rss-dcd-1969bc55821a7c7a-tx",
       "date": "2026-07-31",
       "jurisdiction": "DCD",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://lufkindailynews.com/news/community/east-texas-data-center-project-pulled-after-facing-community-backlash/article_295db738-8edc-595c-8bff-415d9d5b7e16.html"
-    },
-    {
-      "id": "news:gdelt-9a432d936816aa0f-tx",
-      "date": "2026-07-24",
-      "jurisdiction": "wbap.com",
-      "title": "Data Center Developer Withdraws East Texas Project After Failing To Meet Abbott Standards",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://wbap.com/2026/07/23/data-center-developer-withdraws-east-texas-project-after-failing-to-meet-abbotts-standards"
     }
   ]
 }
