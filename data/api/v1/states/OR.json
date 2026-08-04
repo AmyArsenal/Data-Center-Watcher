@@ -1,22 +1,22 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-08-04T12:16:23Z",
+  "generated_at": "2026-08-04T14:55:45Z",
   "risk_score": {
-    "score": 59.5,
-    "tier": 26.2,
-    "engagement": 7.4,
-    "recency": 19.2,
-    "multi_source": 1.8,
+    "score": 61.3,
+    "tier": 27.3,
+    "engagement": 7.3,
+    "recency": 20.0,
+    "multi_source": 1.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 40.5,
+    "score": 38.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 1,
     "denials": 5,
     "lawsuits": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 11,
+  "count": 12,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 6,
+    "restrictive": 7,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 5,
+    "pending": 6,
     "win": 5,
     "loss": 1
   },
   "scope_counts": {
-    "statewide": 4,
+    "statewide": 5,
     "local": 7
   },
   "issue_top": {
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-08-03",
+  "latest": "2026-08-04",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-b7eb72e129730661-or",
+      "date": "2026-08-04",
+      "jurisdiction": "DCD",
+      "title": "Verrus attempts to push on with data center campus in Salem, Oregon. Despite Governor's intervention and city eyeing moratorium",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/verrus-attempts-to-push-on-with-data-center-campus-in-salem-oregon"
+    },
     {
       "id": "news:rss-dcd-3c4bdf46700a97aa-or",
       "date": "2026-08-03",
@@ -139,15 +148,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.opb.org/article/2026/03/02/data-centers-cut-bill-expanding-oregon-tax-breaks/"
-    },
-    {
-      "id": "openstates:ocd-bill-1ed673bf-e51c-4256-ac3d-87a46097d576-or",
-      "date": "2025-02-25",
-      "jurisdiction": "OR Legislature",
-      "title": "Relating to data centers.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3698"
     }
   ]
 }

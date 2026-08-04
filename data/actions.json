@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T12:16:23Z",
-  "count": 1648,
+  "generated_at": "2026-08-04T14:55:45Z",
+  "count": 1649,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -111,6 +111,51 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:rss-dcd-b7eb72e129730661-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Verrus attempts to push on with data center campus in Salem, Oregon. Despite Governor's intervention and city eyeing moratorium",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/verrus-attempts-to-push-on-with-data-center-campus-in-salem-oregon"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-04T14:55:44Z",
+      "first_seen": "2026-08-04T14:55:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-dde1b720d216c559-us",
@@ -76525,22 +76570,22 @@
     },
     "OR": {
       "state": "OR",
-      "count": 11,
+      "count": 12,
       "outcome_counts": {
-        "pending": 5,
+        "pending": 6,
         "win": 5,
         "loss": 1,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 6,
+        "restrictive": 7,
         "protective": 0,
         "supportive": 1,
         "unclear": 2
       },
       "scope_counts": {
         "local": 7,
-        "statewide": 4,
+        "statewide": 5,
         "federal": 0
       },
       "issue_top": {
@@ -76548,7 +76593,7 @@
         "environmental": 1,
         "ratepayer": 1
       },
-      "latest_date": "2026-08-03",
+      "latest_date": "2026-08-04",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
