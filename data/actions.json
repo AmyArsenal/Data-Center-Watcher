@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T23:56:35Z",
-  "count": 1644,
+  "generated_at": "2026-08-04T01:24:11Z",
+  "count": 1645,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,53 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-rto-insider-612e6ddd6144a282-va",
+      "origin": "news",
+      "state": "VA",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Virginia SCC Orders Changes to Tx Cost Allocation for Data Centers. The Virginia SCC ordered immediate changes to Dominion's transmission cost allocation that cut the impact on residential ratepayers by two-thirds and set additional issues around directly assigning costs to large loads for future proceedings. The post Virginia SCC Orders Changes to Tx Cost Allocation for Data Centers appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/138209-virginia-scc-order-on-tx-cost-allocation"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-04T01:24:10Z",
+      "first_seen": "2026-08-04T01:24:11Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-d42ceda0fbb764e7-us",
       "origin": "news",
@@ -76223,6 +76270,35 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 52,
+      "outcome_counts": {
+        "pending": 27,
+        "win": 19,
+        "loss": 4,
+        "mixed": 2
+      },
+      "tier_counts": {
+        "restrictive": 20,
+        "protective": 3,
+        "supportive": 3,
+        "unclear": 15
+      },
+      "scope_counts": {
+        "local": 27,
+        "statewide": 25,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 10,
+        "zoning": 10,
+        "water": 7
+      },
+      "latest_date": "2026-08-04",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OR": {
       "state": "OR",
       "count": 11,
@@ -76247,35 +76323,6 @@
         "community_impact": 2,
         "environmental": 1,
         "ratepayer": 1
-      },
-      "latest_date": "2026-08-03",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 51,
-      "outcome_counts": {
-        "pending": 26,
-        "win": 19,
-        "loss": 4,
-        "mixed": 2
-      },
-      "tier_counts": {
-        "restrictive": 19,
-        "protective": 3,
-        "supportive": 3,
-        "unclear": 15
-      },
-      "scope_counts": {
-        "local": 26,
-        "statewide": 25,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 10,
-        "zoning": 10,
-        "water": 7
       },
       "latest_date": "2026-08-03",
       "map_color_tier": "restrictive",

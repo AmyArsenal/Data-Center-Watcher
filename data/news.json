@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-03T23:56:35Z",
+  "generated_at": "2026-08-04T01:24:11Z",
   "window_days": 90,
-  "count": 1041,
+  "count": 1031,
   "items": [
+    {
+      "id": "rss-rto-insider-612e6ddd6144a282",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Virginia SCC Orders Changes to Tx Cost Allocation for Data Centers",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/138209-virginia-scc-order-on-tx-cost-allocation",
+      "date": "2026-08-04",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-04 01:24:10",
+      "url_hash": "612e6ddd6144a282",
+      "content_hash": "8573cc3947e6da2e",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "The Virginia SCC ordered immediate changes to Dominion's transmission cost allocation that cut the impact on residential ratepayers by two-thirds and set additional issues around directly assigning costs to large loads for future proceedings. The post Virginia SCC Orders Changes to Tx Cost Allocation for Data Centers appeared first on RTO Insider .",
+      "last_seen": "2026-08-04T01:24:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=138209",
+        "rss_author": "James Downing",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-d42ceda0fbb764e7",
       "state": "US",
@@ -70,7 +109,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +148,7 @@
         "rss-dcd"
       ],
       "snippet": "Bipartisan movement calls on state governor to act immediately",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -148,7 +187,7 @@
         "rss-dcd"
       ],
       "snippet": "Governor Tina Kotek stops land sale in Salem to Verrus",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1423,7 +1462,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2101,7 +2140,7 @@
         "rss-latitude"
       ],
       "snippet": "Local priorities increasingly shape how both data centers and the energy needed to power them are designed and built. The post Community concerns are becoming design requirements for AI infrastructure appeared first on Latitude Media .",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5176,7 +5215,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6252,7 +6291,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8689,7 +8728,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10450,7 +10489,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -10489,7 +10528,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10567,7 +10606,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11364,7 +11403,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -23675,7 +23714,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-03T23:56:34Z",
+      "last_seen": "2026-08-04T01:24:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41082,460 +41121,22 @@
         "rss_author": "Elaine Goodman",
         "rss_needs_dc_filter": true
       }
-    },
-    {
-      "id": "gdelt-097131b9ce53a1be",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Charlotte City Council considering data center moratorium",
-      "source_domain": "wsoctv.com",
-      "source_name": "wsoctv.com",
-      "url": "https://wsoctv.com/news/local/possible-impacts-data-center-restrictions/CGS3KNCRBFHTLDCGIL5SHEKPXM",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-06 04:44:20",
-      "url_hash": "097131b9ce53a1be",
-      "content_hash": "7e7b5b3fa6b8e999",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-06T04:44:20Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-a66daa0da3deba68",
-      "state": "WY",
-      "city": null,
-      "category": "banned",
-      "headline": "Cheyenne , Wyoming Residents Demand Pause on 70 Planned Data Centers",
-      "source_domain": "matr.net",
-      "source_name": "matr.net",
-      "url": "https://matr.net/news/cheyenne-wyoming-residents-demand-pause-on-70-planned-data-centers",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 20:49:54",
-      "url_hash": "a66daa0da3deba68",
-      "content_hash": "d49c4c7dc68551db",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-05T20:49:54Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dcd-4c1c6457607d9bf7",
-      "state": "TX",
-      "city": null,
-      "category": "protested",
-      "headline": "$30m data center near Austin, Texas, fails to get recommendation for approval from P&Z Commission",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/30m-data-center-near-austin-texas-fails-to-get-recommendation-for-approval-from-pz-commission",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 19:50:38",
-      "url_hash": "4c1c6457607d9bf7",
-      "content_hash": "11d6f2cb7c1f310d",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "But its fate lies in the hands of the City Council",
-      "last_seen": "2026-05-06T11:27:48Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/30m-data-center-near-austin-texas-fails-to-get-recommendation-for-approval-from-pz-commission/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "gdelt-577524a824f036dd",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Waite Park City Council Passes One - Year Data Center Moratorium",
-      "source_domain": "knsiradio.com",
-      "source_name": "knsiradio.com",
-      "url": "https://knsiradio.com/2026/05/05/waite-park-city-council-passes-one-year-data-center-moratorium",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 16:53:03",
-      "url_hash": "577524a824f036dd",
-      "content_hash": "a4a6e0f9bdef0fe7",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-05T16:53:03Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-utilitydive-ae65d52687711c8c",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "NERC issues Level 3 alert, mandates action to address data center load losses",
-      "source_domain": "utilitydive.com",
-      "source_name": "Utility Dive - Latest News",
-      "url": "https://utilitydive.com/news/nerc-issues-rare-level-3-alert-over-data-center-load-losses/819295",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 16:53:03",
-      "url_hash": "ae65d52687711c8c",
-      "content_hash": "27c08c9eff018310",
-      "source": "rss-utilitydive",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-utilitydive"
-      ],
-      "snippet": "Computational loads pose &ldquo;immediate risks,&rdquo; the grid watchdog said. Certain grid participants must take seven actions by Aug. 3 in response.&nbsp;",
-      "last_seen": "2026-05-07T13:12:06Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.utilitydive.com/news/nerc-issues-rare-level-3-alert-over-data-center-load-losses/819295/",
-        "rss_author": "Robert Walton",
-        "rss_needs_dc_filter": true
-      }
-    },
-    {
-      "id": "rss-dcd-985bac60e032d78b",
-      "state": "GA",
-      "city": null,
-      "category": "announced",
-      "headline": "Microsoft confirms plans for data center in Tyrone, Georgia",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/microsoft-confirms-plans-for-data-center-in-tyrone-georgia",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [
-        "Microsoft"
-      ],
-      "first_seen": "2026-05-05 16:53:03",
-      "url_hash": "985bac60e032d78b",
-      "content_hash": "688d7aba9a958414",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Will hold a community information session later this month",
-      "last_seen": "2026-05-06T07:20:55Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/microsoft-confirms-plans-for-data-center-in-tyrone-georgia/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "gdelt-b1e81138a88b03e6",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Lordstown officials plan to re - up 180 - day moratorium on data centers | News , Sports , Jobs",
-      "source_domain": "vindy.com",
-      "source_name": "vindy.com",
-      "url": "https://vindy.com/news/local-news/2026/05/lordstown-officials-plan-to-re-up-180-day-moratorium-on-data-centers",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 12:56:48",
-      "url_hash": "b1e81138a88b03e6",
-      "content_hash": "682c36a2ee603f77",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-05T12:56:48Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-2b00548f98d2946d",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Harnett Commissioners approve one - year data center moratorium",
-      "source_domain": "sanfordherald.com",
-      "source_name": "sanfordherald.com",
-      "url": "https://sanfordherald.com/archives/harnett-commissioners-approve-one-year-data-center-moratorium/article_17ded063-c0fe-548e-bab0-20cd6df6c922.html",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 12:56:48",
-      "url_hash": "2b00548f98d2946d",
-      "content_hash": "ce454cd4d4e297de",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-05T12:56:48Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-f3ef1ed1fb7ef947",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Rezoning requests to allow for data center in Kingsland withdrawn",
-      "source_domain": "firstcoastnews.com",
-      "source_name": "firstcoastnews.com",
-      "url": "https://firstcoastnews.com/article/news/local/rezoning-data-center-allowance-kingsland-camden-withdrawn/77-019e9615-174c-4542-8dcb-74fea44eab7b",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 04:31:51",
-      "url_hash": "f3ef1ed1fb7ef947",
-      "content_hash": "bd20212ed0a6bdc8",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-05T04:31:51Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-98034725cf8a66f6",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "It Just An Inquiry , Blue Island Mayor Reassures Residents Nervous About Data Center",
-      "source_domain": "patch.com",
-      "source_name": "patch.com",
-      "url": "https://patch.com/illinois/alsip-crestwood/it-s-just-inquiry-blue-island-mayor-reassures-residents-nervous-data-center",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 04:31:51",
-      "url_hash": "98034725cf8a66f6",
-      "content_hash": "23f532c6b667e04e",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-05T04:31:51Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-rto-insider-645edd43e0cbfb1d",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Large Loads Add Difficulties to an Already Tough Subject: Cost Allocation",
-      "source_domain": "rtoinsider.com",
-      "source_name": "RTO Insider",
-      "url": "https://rtoinsider.com/131480-large-loads-add-difficulties-an-already-tough-subject-cost-allocation",
-      "date": "2026-05-05",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-05 04:31:51",
-      "url_hash": "645edd43e0cbfb1d",
-      "content_hash": "5383aa64dd382e01",
-      "source": "rss-rto-insider",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-rto-insider"
-      ],
-      "snippet": "Exclusive interviews and examinations of relevant dockets look into the issue of making sure data centers pay for their share of needed grid expansions. The post Large Loads Add Difficulties to an Already Tough Subject: Cost Allocation appeared first on RTO Insider .",
-      "last_seen": "2026-05-05T23:31:23Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "//www.rtoinsider.com/?p=131480",
-        "rss_author": "James Downing",
-        "rss_needs_dc_filter": true
-      }
     }
   ],
   "by_state": {
     "VA": {
       "state": "VA",
-      "count": 15,
+      "count": 16,
       "total_engagement": 0,
       "categories": {
+        "protested": 10,
         "banned": 3,
-        "protested": 9,
         "announced": 3
       },
       "platforms": {
-        "news": 15
+        "news": 16
       },
-      "latest_date": "2026-08-03"
+      "latest_date": "2026-08-04"
     },
     "OR": {
       "state": "OR",
@@ -41567,16 +41168,16 @@
     },
     "TX": {
       "state": "TX",
-      "count": 27,
+      "count": 26,
       "total_engagement": 0,
       "categories": {
-        "protested": 14,
+        "protested": 13,
         "cancelled": 1,
         "banned": 11,
         "announced": 1
       },
       "platforms": {
-        "news": 26,
+        "news": 25,
         "legal": 1
       },
       "latest_date": "2026-07-31"
@@ -41747,14 +41348,13 @@
     },
     "GA": {
       "state": "GA",
-      "count": 7,
+      "count": 6,
       "total_engagement": 0,
       "categories": {
-        "protested": 6,
-        "announced": 1
+        "protested": 6
       },
       "platforms": {
-        "news": 7
+        "news": 6
       },
       "latest_date": "2026-07-22"
     },
@@ -41787,14 +41387,14 @@
     },
     "WY": {
       "state": "WY",
-      "count": 5,
+      "count": 4,
       "total_engagement": 0,
       "categories": {
         "protested": 2,
-        "banned": 3
+        "banned": 2
       },
       "platforms": {
-        "news": 5
+        "news": 4
       },
       "latest_date": "2026-07-19"
     },

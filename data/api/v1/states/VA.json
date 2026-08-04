@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-08-03T23:56:35Z",
+  "generated_at": "2026-08-04T01:24:11Z",
   "risk_score": {
-    "score": 53.2,
-    "tier": 22.4,
-    "engagement": 9.2,
-    "recency": 11.9,
-    "multi_source": 4.7,
+    "score": 54.0,
+    "tier": 22.8,
+    "engagement": 9.1,
+    "recency": 12.5,
+    "multi_source": 4.6,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.8,
+    "score": 46.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 51,
+  "count": 52,
   "tier_counts": {
-    "restrictive": 19,
+    "restrictive": 20,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 19,
-    "pending": 26,
+    "pending": 27,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 26,
+    "local": 27,
     "statewide": 25
   },
   "issue_top": {
@@ -49,7 +49,7 @@
     "community_impact": 10,
     "water": 7,
     "environmental": 5,
-    "grid_energy": 4,
+    "grid_energy": 5,
     "noise": 4,
     "ratepayer": 3,
     "design_standards": 2
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-08-03",
+  "latest": "2026-08-04",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-612e6ddd6144a282-va",
+      "date": "2026-08-04",
+      "jurisdiction": "RTO Insider",
+      "title": "Virginia SCC Orders Changes to Tx Cost Allocation for Data Centers. The Virginia SCC ordered immediate changes to Dominion's transmission co",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/138209-virginia-scc-order-on-tx-cost-allocation"
+    },
     {
       "id": "news:rss-dcd-7f44642f12d1c417-va",
       "date": "2026-08-03",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterknowledge.com/data-center-site-selection/can-growing-community-backlash-quiet-the-ai-data-center-boom-"
-    },
-    {
-      "id": "news:rss-dck-07d4b342f23e018d-va",
-      "date": "2026-07-08",
-      "jurisdiction": "datacenterknowledge",
-      "title": "Second Major Virginia Data Center Project Dies, Raising AI Site Selection Stakes. Days after QTS abandoned its $30 billion Digital Gateway p",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterknowledge.com/data-center-site-selection/second-major-virginia-data-center-project-dies-raising-ai-site-selection-stakes"
     }
   ]
 }
