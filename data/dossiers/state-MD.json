@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MD",
-  "generated_at": "2026-08-05T11:45:22Z",
+  "generated_at": "2026-08-05T13:21:27Z",
   "risk_score": {
-    "score": 45.8,
-    "tier": 18.1,
-    "engagement": 10.0,
-    "recency": 6.6,
-    "multi_source": 6.1,
+    "score": 46.0,
+    "tier": 17.5,
+    "engagement": 9.9,
+    "recency": 7.7,
+    "multi_source": 5.9,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 54.2,
+    "score": 54.0,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 6,
-    "approvals": 1,
+    "approvals": 2,
     "denials": 10,
     "lawsuits": 0,
     "blocked": 0,
@@ -26,20 +26,20 @@
     "bills_passed": 4,
     "bills_enacted": 3
   },
-  "count": 28,
+  "count": 29,
   "tier_counts": {
     "restrictive": 7,
     "unclear": 14,
-    "supportive": 2,
+    "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
     "win": 10,
     "pending": 17,
-    "loss": 1
+    "loss": 2
   },
   "scope_counts": {
-    "local": 6,
+    "local": 7,
     "statewide": 20,
     "federal": 2
   },
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2020-02-07",
-  "latest": "2026-07-23",
+  "latest": "2026-08-05",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-02eb669b5ab0b13e-md",
+      "date": "2026-08-05",
+      "jurisdiction": "DCD",
+      "title": "AWS pulls out of planned data center campus next to Maryland nuclear plant. Company withdraws plans for Calvert Technology Center",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/aws-pulls-out-of-planned-data-center-campus-next-to-maryland-nuclear-plant"
+    },
     {
       "id": "news:gdelt-84baa45fe8022334-md",
       "date": "2026-07-23",
@@ -143,15 +152,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.wypr.org/wypr-news/2026-03-12/frederick-county-group-wants-voters-to-decide-data-center-limits"
-    },
-    {
-      "id": "openstates:ocd-bill-05fd82ab-2e04-42cd-b605-802b500455bf-md",
-      "date": "2026-02-23",
-      "jurisdiction": "MD Legislature",
-      "title": "Certificates of Public Convenience and Necessity and Construction of Data Centers",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb1000?ys=2026RS"
     }
   ]
 }

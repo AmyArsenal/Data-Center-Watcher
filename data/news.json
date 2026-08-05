@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-05T11:45:22Z",
+  "generated_at": "2026-08-05T13:21:26Z",
   "window_days": 90,
-  "count": 1026,
+  "count": 1028,
   "items": [
+    {
+      "id": "rss-dcd-02eb669b5ab0b13e",
+      "state": "MD",
+      "city": null,
+      "category": "announced",
+      "headline": "AWS pulls out of planned data center campus next to Maryland nuclear plant",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/aws-pulls-out-of-planned-data-center-campus-next-to-maryland-nuclear-plant",
+      "date": "2026-08-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "AWS"
+      ],
+      "first_seen": "2026-08-05 13:21:25",
+      "url_hash": "02eb669b5ab0b13e",
+      "content_hash": "0ab114c4c4f0aa97",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Company withdraws plans for Calvert Technology Center",
+      "last_seen": "2026-08-05T13:21:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/aws-pulls-out-of-planned-data-center-campus-next-to-maryland-nuclear-plant/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-7e47572c41990e85",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Meeza secures loan facility from Dukhan Bank to fund 44MW build-out",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/meeza-secures-loan-facility-from-dukhan-bank-to-fund-44mw-build-out",
+      "date": "2026-08-05",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-05 13:21:25",
+      "url_hash": "7e47572c41990e85",
+      "content_hash": "7c7eead0075f4f1c",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "The credit facility is the second such deal struck between the Qatari data center developer and bank",
+      "last_seen": "2026-08-05T13:21:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/meeza-secures-loan-facility-from-dukhan-bank-to-fund-44mw-build-out/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-0320f60a89a965e8",
       "state": "US",
@@ -110,7 +190,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Texas Gov. Greg Abbott has directed ERCOT and the Public Utility Commission to conduct a “comprehensive verification and audit” of all data centers advancing through the grid operator’s large load interconnection process, known as the batch process. The post Texas Gov. Abbott Halts ERCOT Batch Studies Process appeared first on RTO Insider .",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -589,7 +669,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -745,7 +825,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -863,7 +943,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2216,7 +2296,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5969,7 +6049,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7045,7 +7125,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9482,7 +9562,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11243,7 +11323,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11282,7 +11362,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11360,7 +11440,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12157,7 +12237,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -24468,7 +24548,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-05T11:45:21Z",
+      "last_seen": "2026-08-05T13:21:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40921,6 +41001,20 @@
     }
   ],
   "by_state": {
+    "MD": {
+      "state": "MD",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "announced": 1,
+        "banned": 2,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-08-05"
+    },
     "TX": {
       "state": "TX",
       "count": 34,
@@ -41128,19 +41222,6 @@
       },
       "platforms": {
         "news": 9
-      },
-      "latest_date": "2026-07-23"
-    },
-    "MD": {
-      "state": "MD",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2,
-        "protested": 2
-      },
-      "platforms": {
-        "news": 4
       },
       "latest_date": "2026-07-23"
     },
