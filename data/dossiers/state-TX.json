@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-05T13:21:27Z",
+  "generated_at": "2026-08-05T17:08:11Z",
   "risk_score": {
-    "score": 62.5,
-    "tier": 31.8,
+    "score": 63.0,
+    "tier": 31.9,
     "engagement": 6.4,
-    "recency": 19.1,
+    "recency": 19.5,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 37.5,
+    "score": 37.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 4,
     "approvals": 3,
-    "denials": 20,
+    "denials": 21,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 56,
+  "count": 57,
   "tier_counts": {
-    "restrictive": 40,
+    "restrictive": 41,
     "null": 15,
     "supportive": 1
   },
@@ -36,14 +36,14 @@
     "pending": 30,
     "mixed": 3,
     "loss": 3,
-    "win": 20
+    "win": 21
   },
   "scope_counts": {
-    "local": 48,
+    "local": 49,
     "statewide": 8
   },
   "issue_top": {
-    "grid_energy": 14,
+    "grid_energy": 15,
     "community_impact": 11,
     "water": 9,
     "farmland": 8,
@@ -98,6 +98,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/138282-texas-gov-abbott-pauses-ercot-batch-process"
+    },
+    {
+      "id": "news:rss-utilitydive-c82bc80d5f59a48d-tx",
+      "date": "2026-08-05",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers. Texas Gov. Greg Abbott has called for an audit of ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046"
     },
     {
       "id": "news:rss-arstechnica-8fad3a447869e492-tx",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/poolin-files-for-bankruptcy-seeks-sale-of-texas-cryptomining-assets"
-    },
-    {
-      "id": "news:rss-dcd-9cb90f3353ac8464-tx",
-      "date": "2026-07-28",
-      "jurisdiction": "DCD",
-      "title": "Diode Ventures withdraws proposal for data center in Henderson County, Texas. Texas Governor Greg Abbott says \"Diode did the right thing\"",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/diode-ventures-withdraws-proposal-for-data-center-in-henderson-county-texas"
     }
   ]
 }
