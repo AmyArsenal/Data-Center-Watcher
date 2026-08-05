@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T21:39:19Z",
-  "count": 1668,
+  "generated_at": "2026-08-05T22:39:52Z",
+  "count": 1670,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -290,6 +290,97 @@
       "data_source": "news",
       "last_updated": "2026-08-05T01:02:01Z",
       "first_seen": "2026-08-05T01:02:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-b8ecfd6e92b919fc-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report",
+        "utility_regulation"
+      ],
+      "authority_level": null,
+      "date": "2026-08-05",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "PUCO OKs Changes to AEP Retail Rules to Prevent Data Center Cost Shifts. The Public Utilities Commission of Ohio issued an order directing AEP Ohio to implement measures to protect retail customers from the effects of data centers on wholesale energy prices. The post PUCO OKs Changes to AEP Retail Rules to Prevent Data Center Cost Shifts appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/138431-puco-oks-changes-to-aep-retail-rules-to-prevent-data-center-cost-shifts"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-05T22:39:51Z",
+      "first_seen": "2026-08-05T22:39:52Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-ee73e59ad55250db-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-05",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "3 Grids Asking the Same Question; No One Holds the Entire Answer. Texas stopped data center projects from advancing through ERCOT's interconnection process until regulators audit them. This is the latest development in a nationwide examination of the issue. The post 3 Grids Asking the Same Question; No One Holds the Entire Answer appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/138276-3-grids-asking-the-same-question-no-one-holds-the-entire-answer"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-05T22:39:51Z",
+      "first_seen": "2026-08-05T22:39:52Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -77322,21 +77413,21 @@
   "by_state": {
     "TX": {
       "state": "TX",
-      "count": 57,
+      "count": 58,
       "outcome_counts": {
-        "pending": 30,
+        "pending": 31,
         "win": 21,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 41,
+        "restrictive": 42,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 49,
+        "local": 50,
         "statewide": 8,
         "federal": 0
       },
@@ -77402,6 +77493,35 @@
         "grid_energy": 6,
         "community_impact": 3,
         "transparency": 3
+      },
+      "latest_date": "2026-08-05",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 33,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 12,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 25,
+        "protective": 0,
+        "supportive": 2,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 28,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 8,
+        "grid_energy": 5,
+        "ratepayer": 5
       },
       "latest_date": "2026-08-05",
       "map_color_tier": "restrictive",
@@ -77751,35 +77871,6 @@
         "community_impact": 5
       },
       "latest_date": "2026-07-28",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 32,
-      "outcome_counts": {
-        "pending": 18,
-        "win": 12,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 24,
-        "protective": 0,
-        "supportive": 2,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 27,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 8,
-        "grid_energy": 5,
-        "ratepayer": 5
-      },
-      "latest_date": "2026-07-27",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

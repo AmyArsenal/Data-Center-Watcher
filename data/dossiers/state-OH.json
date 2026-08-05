@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-05T21:39:19Z",
+  "generated_at": "2026-08-05T22:39:52Z",
   "risk_score": {
-    "score": 55.8,
-    "tier": 32.2,
+    "score": 56.9,
+    "tier": 32.5,
     "engagement": 6.2,
-    "recency": 12.3,
+    "recency": 13.1,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.2,
+    "score": 43.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 32,
+  "count": 33,
   "tier_counts": {
-    "restrictive": 24,
+    "restrictive": 25,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
-    "pending": 18,
+    "pending": 19,
     "win": 12,
     "loss": 2
   },
   "scope_counts": {
-    "local": 27,
+    "local": 28,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-07-27",
+  "latest": "2026-08-05",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-b8ecfd6e92b919fc-oh",
+      "date": "2026-08-05",
+      "jurisdiction": "RTO Insider",
+      "title": "PUCO OKs Changes to AEP Retail Rules to Prevent Data Center Cost Shifts. The Public Utilities Commission of Ohio issued an order directing A",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/138431-puco-oks-changes-to-aep-retail-rules-to-prevent-data-center-cost-shifts"
+    },
     {
       "id": "news:rss-dcd-6a70df12676ea2a1-oh",
       "date": "2026-07-27",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wdrb.com/news/new-albany-mayor-considers-1-year-pause-on-data-center-development/article_19a32a42-27ae-4b94-8e7c-20f04eef85cc.html"
-    },
-    {
-      "id": "news:gdelt-3505402f0041c63c-oh",
-      "date": "2026-05-28",
-      "jurisdiction": "wyht.iheart.com",
-      "title": "Ohio Governor DeWine Announces Pause of Data Center Tax Exemption",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wyht.iheart.com/content/2026-05-28-ohio-governor-dewine-announces-pause-of-data-center-tax-exemption"
     }
   ]
 }

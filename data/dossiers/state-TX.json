@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-05T21:39:19Z",
+  "generated_at": "2026-08-05T22:39:52Z",
   "risk_score": {
-    "score": 63.0,
-    "tier": 31.9,
+    "score": 63.5,
+    "tier": 32.1,
     "engagement": 6.4,
-    "recency": 19.5,
+    "recency": 19.9,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 37.0,
+    "score": 36.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 57,
+  "count": 58,
   "tier_counts": {
-    "restrictive": 41,
+    "restrictive": 42,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 30,
+    "pending": 31,
     "mixed": 3,
     "loss": 3,
     "win": 21
   },
   "scope_counts": {
-    "local": 49,
+    "local": 50,
     "statewide": 8
   },
   "issue_top": {
@@ -109,6 +109,15 @@
       "url": "https://utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046"
     },
     {
+      "id": "news:rss-rto-insider-ee73e59ad55250db-tx",
+      "date": "2026-08-05",
+      "jurisdiction": "RTO Insider",
+      "title": "3 Grids Asking the Same Question; No One Holds the Entire Answer. Texas stopped data center projects from advancing through ERCOT's intercon",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/138276-3-grids-asking-the-same-question-no-one-holds-the-entire-answer"
+    },
+    {
       "id": "news:rss-arstechnica-8fad3a447869e492-tx",
       "date": "2026-08-04",
       "jurisdiction": "Ars Technica - All content",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://sacurrent.com/news/texas-news/critics-blast-texas-gov-greg-abbotts-pause-on-data-centers-as-political-theater"
-    },
-    {
-      "id": "news:rss-dcd-1969bc55821a7c7a-tx",
-      "date": "2026-07-31",
-      "jurisdiction": "DCD",
-      "title": "Poolin files for bankruptcy, seeks sale of Texas cryptomining assets. Cryptomining at data centers ceased earlier this month",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/poolin-files-for-bankruptcy-seeks-sale-of-texas-cryptomining-assets"
     }
   ]
 }
