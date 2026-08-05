@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-04T23:40:36Z",
+  "generated_at": "2026-08-05T01:02:02Z",
   "risk_score": {
-    "score": 61.9,
-    "tier": 31.6,
+    "score": 62.5,
+    "tier": 31.8,
     "engagement": 6.4,
-    "recency": 18.8,
+    "recency": 19.1,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 38.1,
+    "score": 37.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,24 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 55,
+  "count": 56,
   "tier_counts": {
-    "restrictive": 39,
+    "restrictive": 40,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 29,
+    "pending": 30,
     "mixed": 3,
     "loss": 3,
     "win": 20
   },
   "scope_counts": {
-    "local": 47,
+    "local": 48,
     "statewide": 8
   },
   "issue_top": {
-    "grid_energy": 13,
+    "grid_energy": 14,
     "community_impact": 11,
     "water": 9,
     "farmland": 8,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-04",
+  "latest": "2026-08-05",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-3bb26619e0495e8f-tx",
+      "date": "2026-08-05",
+      "jurisdiction": "RTO Insider",
+      "title": "Texas Gov. Abbott Halts ERCOT Batch Studies Process. Texas Gov. Greg Abbott has directed ERCOT and the Public Utility Commission to conduct ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/138282-texas-gov-abbott-pauses-ercot-batch-process"
+    },
     {
       "id": "news:rss-arstechnica-8fad3a447869e492-tx",
       "date": "2026-08-04",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/diode-ventures-withdraws-proposal-for-data-center-in-henderson-county-texas"
-    },
-    {
-      "id": "news:gdelt-24cf8321f73df757-tx",
-      "date": "2026-07-26",
-      "jurisdiction": "lufkindailynews.com",
-      "title": "East Texas data center project pulled after facing community backlash",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://lufkindailynews.com/news/community/east-texas-data-center-project-pulled-after-facing-community-backlash/article_295db738-8edc-595c-8bff-415d9d5b7e16.html"
     }
   ]
 }
