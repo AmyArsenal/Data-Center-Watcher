@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-08-06T07:10:51Z",
+  "generated_at": "2026-08-06T09:48:53Z",
   "window_days": 90,
-  "count": 1022,
+  "count": 1024,
   "items": [
+    {
+      "id": "gdelt-4f1b2c8688ba5f85",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Athens City Council passes data center moratorium",
+      "source_domain": "athensmessenger.com",
+      "source_name": "athensmessenger.com",
+      "url": "https://athensmessenger.com/anewsarchive/connect/athens-city-council-passes-data-center-moratorium/article_755e5aca-8f96-41f9-8f5d-8c126d1d0e97.html",
+      "date": "2026-08-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-06 09:48:52",
+      "url_hash": "4f1b2c8688ba5f85",
+      "content_hash": "5c1ec439b2917af4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-06T09:48:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-2b0aca9e3d8708f4",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Unnamed developer withdraws data center in Brownsville, Texas",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas",
+      "date": "2026-08-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-06 09:48:52",
+      "url_hash": "2b0aca9e3d8708f4",
+      "content_hash": "504f9d6e5e159c66",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "But details about project are sparse",
+      "last_seen": "2026-08-06T09:48:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-rto-insider-ee73e59ad55250db",
       "state": "TX",
@@ -30,7 +109,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Texas stopped data center projects from advancing through ERCOT's interconnection process until regulators audit them. This is the latest development in a nationwide examination of the issue. The post 3 Grids Asking the Same Question; No One Holds the Entire Answer appeared first on RTO Insider .",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +148,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Public Utilities Commission of Ohio issued an order directing AEP Ohio to implement measures to protect retail customers from the effects of data centers on wholesale energy prices. The post PUCO OKs Changes to AEP Retail Rules to Prevent Data Center Cost Shifts appeared first on RTO Insider .",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -148,7 +227,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -826,7 +905,7 @@
         "rss-arstechnica"
       ],
       "snippet": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -982,7 +1061,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1100,7 +1179,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2453,7 +2532,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6206,7 +6285,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7282,7 +7361,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9719,7 +9798,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11480,7 +11559,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11519,7 +11598,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11597,7 +11676,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12394,7 +12473,7 @@
         "rss-dck"
       ],
       "snippet": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -24705,7 +24784,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-06T07:10:50Z",
+      "last_seen": "2026-08-06T09:48:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40762,19 +40841,19 @@
   "by_state": {
     "TX": {
       "state": "TX",
-      "count": 36,
+      "count": 37,
       "total_engagement": 0,
       "categories": {
-        "protested": 17,
+        "protested": 18,
         "banned": 17,
         "cancelled": 1,
         "announced": 1
       },
       "platforms": {
-        "news": 35,
+        "news": 36,
         "legal": 1
       },
-      "latest_date": "2026-08-05"
+      "latest_date": "2026-08-06"
     },
     "OH": {
       "state": "OH",

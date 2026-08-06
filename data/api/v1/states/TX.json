@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-06T07:10:51Z",
+  "generated_at": "2026-08-06T09:48:53Z",
   "risk_score": {
-    "score": 63.5,
-    "tier": 32.1,
+    "score": 63.7,
+    "tier": 32.2,
     "engagement": 6.4,
-    "recency": 19.9,
+    "recency": 20.0,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 36.5,
+    "score": 36.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 58,
+  "count": 59,
   "tier_counts": {
-    "restrictive": 42,
+    "restrictive": 43,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 31,
+    "pending": 32,
     "mixed": 3,
     "loss": 3,
     "win": 21
   },
   "scope_counts": {
-    "local": 50,
+    "local": 51,
     "statewide": 8
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-05",
+  "latest": "2026-08-06",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-2b0aca9e3d8708f4-tx",
+      "date": "2026-08-06",
+      "jurisdiction": "DCD",
+      "title": "Unnamed developer withdraws data center in Brownsville, Texas. But details about project are sparse",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas"
+    },
     {
       "id": "news:rss-rto-insider-3bb26619e0495e8f-tx",
       "date": "2026-08-05",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits"
-    },
-    {
-      "id": "news:gdelt-1e77172e5e80acd2-tx",
-      "date": "2026-08-04",
-      "jurisdiction": "sacurrent.com",
-      "title": "Critics blast Texas Gov . Greg Abbott pause on data centers as  political theater",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://sacurrent.com/news/texas-news/critics-blast-texas-gov-greg-abbotts-pause-on-data-centers-as-political-theater"
     }
   ]
 }

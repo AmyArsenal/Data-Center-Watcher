@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T07:10:51Z",
-  "count": 1670,
+  "generated_at": "2026-08-06T09:48:53Z",
+  "count": 1672,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,96 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-4f1b2c8688ba5f85-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "athensmessenger.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Athens City Council passes data center moratorium",
+      "sources": [
+        "https://athensmessenger.com/anewsarchive/connect/athens-city-council-passes-data-center-moratorium/article_755e5aca-8f96-41f9-8f5d-8c126d1d0e97.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-06T09:48:52Z",
+      "first_seen": "2026-08-06T09:48:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-2b0aca9e3d8708f4-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Unnamed developer withdraws data center in Brownsville, Texas. But details about project are sparse",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-06T09:48:52Z",
+      "first_seen": "2026-08-06T09:48:53Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-0320f60a89a965e8-us",
       "origin": "news",
@@ -77413,21 +77503,21 @@
   "by_state": {
     "TX": {
       "state": "TX",
-      "count": 58,
+      "count": 59,
       "outcome_counts": {
-        "pending": 31,
+        "pending": 32,
         "win": 21,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 42,
+        "restrictive": 43,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 50,
+        "local": 51,
         "statewide": 8,
         "federal": 0
       },
@@ -77436,27 +77526,27 @@
         "community_impact": 11,
         "water": 9
       },
-      "latest_date": "2026-08-05",
+      "latest_date": "2026-08-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "US": {
       "state": "US",
-      "count": 942,
+      "count": 943,
       "outcome_counts": {
         "pending": 537,
-        "win": 380,
+        "win": 381,
         "loss": 25,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 917,
+        "restrictive": 918,
         "protective": 0,
         "supportive": 25,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 928,
+        "local": 929,
         "statewide": 7,
         "federal": 7
       },
@@ -77465,7 +77555,7 @@
         "zoning": 78,
         "grid_energy": 20
       },
-      "latest_date": "2026-08-05",
+      "latest_date": "2026-08-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
