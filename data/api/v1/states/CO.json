@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CO",
-  "generated_at": "2026-08-06T11:54:02Z",
+  "generated_at": "2026-08-06T13:26:47Z",
   "risk_score": {
-    "score": 42.0,
-    "tier": 22.5,
-    "engagement": 8.6,
-    "recency": 7.2,
-    "multi_source": 3.8,
+    "score": 46.9,
+    "tier": 24.4,
+    "engagement": 8.3,
+    "recency": 10.8,
+    "multi_source": 3.3,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 58.0,
+    "score": 53.1,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 0,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "unclear": 3,
     "null": 2,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 1
+    "win": 2
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 3
+    "local": 4
   },
   "issue_top": {
     "grid_energy": 3,
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-04-04",
-  "latest": "2026-06-15",
+  "latest": "2026-08-06",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-50d4916706774411-co",
+      "date": "2026-08-06",
+      "jurisdiction": "DCD",
+      "title": "Town of Lochbuie, Colorado, passes five-year data center moratorium. Mayor says measure was proactive, no existing data center applications ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/town-of-lochbuie-colorado-passes-five-year-data-center-moratorium"
+    },
     {
       "id": "news:rss-dcd-ddef057efb1fdb57-co",
       "date": "2026-06-15",

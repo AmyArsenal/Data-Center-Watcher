@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-06T11:54:02Z",
+  "generated_at": "2026-08-06T13:26:47Z",
   "states": [
     {
       "state": "AK",
@@ -74,16 +74,16 @@
     },
     {
       "state": "CO",
-      "count": 8,
-      "risk_score": 42.0,
+      "count": 9,
+      "risk_score": 46.9,
       "grade": "C",
-      "grade_score": 58.0,
-      "moratoriums": 0,
+      "grade_score": 53.1,
+      "moratoriums": 1,
       "approvals": 0,
-      "denials": 1,
+      "denials": 2,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-06-15",
+      "latest": "2026-08-06",
       "url": "data/dossiers/state-CO.json"
     },
     {
