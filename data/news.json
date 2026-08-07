@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-07T03:36:23Z",
+  "generated_at": "2026-08-07T05:20:43Z",
   "window_days": 90,
-  "count": 1010,
+  "count": 1011,
   "items": [
+    {
+      "id": "gdelt-2a67a7c9d7f54a00",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Developer Brian ONeill defends Montgomery County data center proposals amid growing opposition",
+      "source_domain": "6abc.com",
+      "source_name": "6abc.com",
+      "url": "https://6abc.com/post/developer-brian-oneill-defends-montgomery-county-data-center-proposals-amid-growing-opposition/19637634",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 05:20:43",
+      "url_hash": "2a67a7c9d7f54a00",
+      "content_hash": "13180c334020764d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T05:20:43Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-rto-insider-b8cca56ea81f5f0e",
       "state": "KS",
@@ -30,7 +70,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The rapid proliferation of data centers needed to power the booming artificial intelligence industry has become a defining statewide political issue in Kansas amid public blowback over recent tax incentives helping drive data centers to the state. The post Data Centers are Election Year Flashpoint in Kansas appeared first on RTO Insider .",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +109,7 @@
         "rss-dcd"
       ],
       "snippet": "FLAPD markets reach a live capacity of 3.8GW in 1H 2026",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -108,7 +148,7 @@
         "rss-dcd"
       ],
       "snippet": "Community and social impact management is not simply a risk to be mitigated, but an opportunity to build the durable trust and maturity the sector will need",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -147,7 +187,7 @@
         "rss-dcd"
       ],
       "snippet": "Unclear if moratorium will apply to Blue Fern's development, however",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -186,7 +226,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -225,7 +265,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -264,7 +304,7 @@
         "rss-dcd"
       ],
       "snippet": "Mayor says measure was proactive, no existing data center applications in the town",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -500,7 +540,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1334,7 +1374,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-07T03:36:22Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1452,7 +1492,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2805,7 +2845,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6558,7 +6598,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7634,7 +7674,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10071,7 +10111,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11832,7 +11872,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11871,7 +11911,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11949,7 +11989,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25057,7 +25097,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-07T03:36:23Z",
+      "last_seen": "2026-08-07T05:20:43Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
