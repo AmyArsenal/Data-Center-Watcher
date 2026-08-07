@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WA",
-  "generated_at": "2026-08-06T13:26:47Z",
+  "generated_at": "2026-08-07T00:31:17Z",
   "risk_score": {
-    "score": 58.8,
-    "tier": 30.5,
-    "engagement": 7.2,
-    "recency": 14.6,
-    "multi_source": 1.5,
+    "score": 61.1,
+    "tier": 31.1,
+    "engagement": 7.1,
+    "recency": 16.4,
+    "multi_source": 1.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.2,
+    "score": 38.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 1,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
     "unclear": 1,
     "supportive": 1,
     "null": 2,
-    "restrictive": 9
+    "restrictive": 10
   },
   "outcome_counts": {
-    "win": 5,
+    "win": 6,
     "pending": 7,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 9
+    "local": 10
   },
   "issue_top": {
     "tax_incentive": 3,
@@ -53,8 +53,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-20",
-  "latest": "2026-07-29",
+  "latest": "2026-08-06",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-7df2191ef2e2b454-wa",
+      "date": "2026-08-06",
+      "jurisdiction": "DCD",
+      "title": "Officials in Washington city introduce data center moratorium to try and block 20MW project. Unclear if moratorium will apply to Blue Fern's",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/officials-in-washington-city-introduce-data-center-moratorium-to-try-and-block-20mw-project"
+    },
     {
       "id": "news:gdelt-82272d009103eec4-wa",
       "date": "2026-07-29",
@@ -135,15 +144,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://washtimesherald.com/news/local_news/washington-city-council-says-no-to-data-center/article_9e635735-d823-46b1-9c83-3c89b04934e5.html"
-    },
-    {
-      "id": "research:wa-washington-state-legislature-20260307-washington-s-legislature-passed-sb-6231-eliminati",
-      "date": "2026-03-07",
-      "jurisdiction": "Washington State Legislature",
-      "title": "Washington's Legislature passed SB 6231, eliminating sales-tax break on equipment and labor used to refurbish existing data centers. Departm",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://washingtonstatestandard.com/2026/03/07/data-center-tax-break-close-to-getting-zapped-by-wa-legislature/"
     }
   ]
 }

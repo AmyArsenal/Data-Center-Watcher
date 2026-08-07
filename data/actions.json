@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T13:26:47Z",
-  "count": 1673,
+  "generated_at": "2026-08-07T00:31:17Z",
+  "count": 1679,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -111,6 +111,98 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:rss-dcd-374643ba877c508b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "JLL: FLAPD on track for record data center growth year, while Middle East pipeline is paused. FLAPD markets reach a live capacity of 3.8GW in 1H 2026",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/jll-flapd-on-track-for-record-data-center-growth-year-while-middle-east-pipeline-is-paused"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T00:31:16Z",
+      "first_seen": "2026-08-07T00:31:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-43f7ab2bc6c02e1f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-06",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sponsored: Data centers and the social license to build. Community and social impact management is not simply a risk to be mitigated, but an opportunity to build the durable trust and maturity the sector will need",
+      "sources": [
+        "https://datacenterdynamics.com/en/opinions/data-centers-and-the-social-license-to-build"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T00:31:16Z",
+      "first_seen": "2026-08-07T00:31:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
       "id": "news:rss-dcd-50d4916706774411-co",
       "origin": "news",
       "state": "CO",
@@ -150,6 +242,186 @@
       "data_source": "news",
       "last_updated": "2026-08-06T13:26:46Z",
       "first_seen": "2026-08-06T13:26:47Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-7df2191ef2e2b454-wa",
+      "origin": "news",
+      "state": "WA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Officials in Washington city introduce data center moratorium to try and block 20MW project. Unclear if moratorium will apply to Blue Fern's development, however",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/officials-in-washington-city-introduce-data-center-moratorium-to-try-and-block-20mw-project"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T00:31:16Z",
+      "first_seen": "2026-08-07T00:31:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-rto-insider-b8cca56ea81f5f0e-ks",
+      "origin": "news",
+      "state": "KS",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-06",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Centers are Election Year Flashpoint in Kansas. The rapid proliferation of data centers needed to power the booming artificial intelligence industry has become a defining statewide political issue in Kansas amid public blowback over recent tax incentives helping drive data centers to the state. The post Data Centers are Election Year Flashpoint in Kansas appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/138454-data-centers-are-election-year-flashpoint-kansas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T00:31:16Z",
+      "first_seen": "2026-08-07T00:31:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-43321bd1783e51f5-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "NRG nears 1.2-GW hyperscaler deal amid Texas data center pause. President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
+      "sources": [
+        "https://utilitydive.com/news/nrg-nears-12-gw-hyperscaler-deal-amid-texas-data-center-pause/827212"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T00:31:16Z",
+      "first_seen": "2026-08-07T00:31:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-utilitydive-db5bdab8a1bd8678-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas data center pause puts 20% of US pipeline at risk of delay: BNEF. The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said",
+      "sources": [
+        "https://utilitydive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827185"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T00:31:16Z",
+      "first_seen": "2026-08-07T00:31:16Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -77548,21 +77820,21 @@
   "by_state": {
     "TX": {
       "state": "TX",
-      "count": 59,
+      "count": 61,
       "outcome_counts": {
         "pending": 32,
-        "win": 21,
+        "win": 23,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 43,
+        "restrictive": 45,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 51,
+        "local": 53,
         "statewide": 8,
         "federal": 0
       },
@@ -77577,26 +77849,26 @@
     },
     "US": {
       "state": "US",
-      "count": 943,
+      "count": 945,
       "outcome_counts": {
         "pending": 537,
-        "win": 381,
-        "loss": 25,
+        "win": 382,
+        "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 918,
+        "restrictive": 919,
         "protective": 0,
-        "supportive": 25,
+        "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 929,
+        "local": 931,
         "statewide": 7,
         "federal": 7
       },
       "issue_top": {
-        "community_impact": 182,
+        "community_impact": 183,
         "zoning": 78,
         "grid_energy": 20
       },
@@ -77632,6 +77904,64 @@
       "latest_date": "2026-08-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
+    },
+    "WA": {
+      "state": "WA",
+      "count": 14,
+      "outcome_counts": {
+        "pending": 7,
+        "win": 6,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 10,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 1
+      },
+      "scope_counts": {
+        "local": 10,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 3,
+        "tax_incentive": 3,
+        "transparency": 2
+      },
+      "latest_date": "2026-08-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "KS": {
+      "state": "KS",
+      "count": 15,
+      "outcome_counts": {
+        "pending": 10,
+        "win": 3,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 4,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "tax_incentive": 4,
+        "zoning": 3
+      },
+      "latest_date": "2026-08-06",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
     },
     "MD": {
       "state": "MD",
@@ -77980,35 +78310,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "WA": {
-      "state": "WA",
-      "count": 13,
-      "outcome_counts": {
-        "pending": 7,
-        "win": 5,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 9,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 1
-      },
-      "scope_counts": {
-        "local": 9,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 3,
-        "tax_incentive": 3,
-        "transparency": 2
-      },
-      "latest_date": "2026-07-29",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
     "PA": {
       "state": "PA",
       "count": 31,
@@ -78153,35 +78454,6 @@
       "latest_date": "2026-07-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "win"
-    },
-    "KS": {
-      "state": "KS",
-      "count": 14,
-      "outcome_counts": {
-        "pending": 9,
-        "win": 3,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 4,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 7,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 6,
-        "tax_incentive": 4,
-        "zoning": 3
-      },
-      "latest_date": "2026-07-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "NM": {
       "state": "NM",

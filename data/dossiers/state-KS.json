@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KS",
-  "generated_at": "2026-08-06T13:26:47Z",
+  "generated_at": "2026-08-07T00:31:17Z",
   "risk_score": {
-    "score": 39.9,
-    "tier": 14.6,
-    "engagement": 8.9,
-    "recency": 7.1,
-    "multi_source": 4.3,
+    "score": 42.7,
+    "tier": 16.3,
+    "engagement": 8.8,
+    "recency": 8.7,
+    "multi_source": 4.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 60.1,
+    "score": 57.3,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 14,
+  "count": 15,
   "tier_counts": {
     "unclear": 3,
     "supportive": 4,
     "null": 4,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
-    "pending": 9,
+    "pending": 10,
     "win": 3,
     "loss": 2
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "community_impact": 6,
@@ -53,8 +53,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2023-03-08",
-  "latest": "2026-07-21",
+  "latest": "2026-08-06",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-b8cca56ea81f5f0e-ks",
+      "date": "2026-08-06",
+      "jurisdiction": "RTO Insider",
+      "title": "Data Centers are Election Year Flashpoint in Kansas. The rapid proliferation of data centers needed to power the booming artificial intellig",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/138454-data-centers-are-election-year-flashpoint-kansas"
+    },
     {
       "id": "news:rss-utilitydive-84c408e3f02cba39-ks",
       "date": "2026-07-21",
@@ -135,15 +144,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB400/"
-    },
-    {
-      "id": "research:ks-harvey-county-commission-20260113-harvey-county-commission-unanimously-approved-reso",
-      "date": "2026-01-13",
-      "jurisdiction": "Harvey County Commission",
-      "title": "Harvey County Commission unanimously approved resolution placing moratorium on data center construction in unincorporated areas through end ",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.harveycounty.gov/commission-implements-moratorium-on-data-center-developments"
     }
   ]
 }

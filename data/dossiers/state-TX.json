@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-06T13:26:47Z",
+  "generated_at": "2026-08-07T00:31:17Z",
   "risk_score": {
-    "score": 63.7,
-    "tier": 32.2,
+    "score": 64.0,
+    "tier": 32.5,
     "engagement": 6.4,
     "recency": 20.0,
     "multi_source": 0.2,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 36.3,
+    "score": 36.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 3,
-    "denials": 21,
+    "denials": 23,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 59,
+  "count": 61,
   "tier_counts": {
-    "restrictive": 43,
+    "restrictive": 45,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 32,
     "mixed": 3,
     "loss": 3,
-    "win": 21
+    "win": 23
   },
   "scope_counts": {
-    "local": 51,
+    "local": 53,
     "statewide": 8
   },
   "issue_top": {
@@ -98,6 +98,24 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas"
+    },
+    {
+      "id": "news:rss-utilitydive-43321bd1783e51f5-tx",
+      "date": "2026-08-06",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "NRG nears 1.2-GW hyperscaler deal amid Texas data center pause. President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering cu",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://utilitydive.com/news/nrg-nears-12-gw-hyperscaler-deal-amid-texas-data-center-pause/827212"
+    },
+    {
+      "id": "news:rss-utilitydive-db5bdab8a1bd8678-tx",
+      "date": "2026-08-06",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "Texas data center pause puts 20% of US pipeline at risk of delay: BNEF. The longer the moratorium stays in place, the greater the risk to Te",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://utilitydive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827185"
     },
     {
       "id": "news:rss-rto-insider-3bb26619e0495e8f-tx",
@@ -161,24 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://gizmodo.com/texas-pauses-new-data-center-projects-looking-to-connect-to-the-states-grid-2000794539"
-    },
-    {
-      "id": "news:gdelt-769669d08c142b11-tx",
-      "date": "2026-08-04",
-      "jurisdiction": "tomshardware.com",
-      "title": "Texas slams on the breaks for 1 , 800 data centers , power grid requirements are five times higher than peak record demand 474 gigawatts of ",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium"
-    },
-    {
-      "id": "news:gdelt-ef7bfb0519ac40e3-tx",
-      "date": "2026-08-04",
-      "jurisdiction": "techcrunch.com",
-      "title": "Texas halts new data centers as governor calls for audits",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits"
     }
   ]
 }
