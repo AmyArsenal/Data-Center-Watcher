@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-08-07T07:55:38Z",
+  "generated_at": "2026-08-07T08:42:52Z",
   "risk_score": {
-    "score": 52.0,
-    "tier": 23.6,
-    "engagement": 9.1,
-    "recency": 9.7,
-    "multi_source": 4.5,
+    "score": 55.2,
+    "tier": 25.0,
+    "engagement": 8.9,
+    "recency": 12.2,
+    "multi_source": 4.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.0,
+    "score": 44.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 1,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 11,
+  "count": 12,
   "tier_counts": {
     "unclear": 4,
     "supportive": 1,
     "null": 1,
-    "restrictive": 5
+    "restrictive": 6
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 5,
+    "win": 6,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 5
+    "local": 6
   },
   "issue_top": {
     "tax_incentive": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-12-13",
-  "latest": "2026-07-29",
+  "latest": "2026-08-07",
   "top_citations": [
+    {
+      "id": "news:gdelt-8be32d763c0a6ad3-ar",
+      "date": "2026-08-07",
+      "jurisdiction": "nwaonline.com",
+      "title": "Little Rock city director defends her vote against moratorium on data center permits | Northwest Arkansas Democrat - Gazette",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://nwaonline.com/news/2026/aug/06/little-rock-city-director-defends-her-vote"
+    },
     {
       "id": "news:gdelt-c3922657c7dac7ec-ar",
       "date": "2026-07-29",
@@ -132,15 +141,6 @@
       "title": "TO AMEND THE SALES AND USE TAX EXEMPTION FOR DATA CENTERS.",
       "tier": "supportive",
       "outcome": "win",
-      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
-    },
-    {
-      "id": "openstates:ocd-bill-44b32627-87ef-45de-aaae-d35428969788-ar",
-      "date": "2024-12-13",
-      "jurisdiction": "AR Legislature",
-      "title": "TO AMEND THE ARKANSAS DATA CENTERS ACT OF 2023; AND TO REGULATE THE IMPACT ON WATER USAGE AND THE ELECTRIC GRID BY BLOCKCHAIN NETWORKS AND D",
-      "tier": "unclear",
-      "outcome": "pending",
       "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
     }
   ]

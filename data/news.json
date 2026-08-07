@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-08-07T07:55:37Z",
+  "generated_at": "2026-08-07T08:42:51Z",
   "window_days": 90,
-  "count": 1011,
+  "count": 1015,
   "items": [
+    {
+      "id": "gdelt-8be32d763c0a6ad3",
+      "state": "AR",
+      "city": null,
+      "category": "banned",
+      "headline": "Little Rock city director defends her vote against moratorium on data center permits | Northwest Arkansas Democrat - Gazette",
+      "source_domain": "nwaonline.com",
+      "source_name": "nwaonline.com",
+      "url": "https://nwaonline.com/news/2026/aug/06/little-rock-city-director-defends-her-vote",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 08:42:50",
+      "url_hash": "8be32d763c0a6ad3",
+      "content_hash": "c096dc020a54c07e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T08:42:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-00a3ab2ed273f89d",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents gather to discuss changes to proposed data center ordinance for Mandan",
+      "source_domain": "kfyrtv.com",
+      "source_name": "kfyrtv.com",
+      "url": "https://kfyrtv.com/2026/08/07/residents-gather-discuss-changes-proposed-data-center-ordinance-mandan",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 08:42:50",
+      "url_hash": "00a3ab2ed273f89d",
+      "content_hash": "05a6115641ee5a56",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T08:42:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3c55873c98124b17",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Escambia Commission Approves Ordinance Banning Data Centers , Starts Process For Moratorium : NorthEscambia . com",
+      "source_domain": "northescambia.com",
+      "source_name": "northescambia.com",
+      "url": "http://northescambia.com/2026/08/escambia-commission-approves-ordinance-banning-data-centers-starts-process-for-moratorium",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 08:42:50",
+      "url_hash": "3c55873c98124b17",
+      "content_hash": "1283aa347b6da659",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T08:42:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5630a0cda65675bd",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "St . Joseph Council to visit Altoona as research continues on data centers during moratorium",
+      "source_domain": "newspressnow.com",
+      "source_name": "newspressnow.com",
+      "url": "https://newspressnow.com/news/local_news/government/st-joseph-council-to-visit-altoona-as-research-continues-on-data-centers-during-moratorium/article_f3fc3b99-c194-4ce6-bf3f-9459b24576c1.html",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 08:42:50",
+      "url_hash": "5630a0cda65675bd",
+      "content_hash": "9a22ff92a4f72944",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T08:42:50Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-2a67a7c9d7f54a00",
       "state": "US",
@@ -70,7 +230,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The rapid proliferation of data centers needed to power the booming artificial intelligence industry has become a defining statewide political issue in Kansas amid public blowback over recent tax incentives helping drive data centers to the state. The post Data Centers are Election Year Flashpoint in Kansas appeared first on RTO Insider .",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +269,7 @@
         "rss-dcd"
       ],
       "snippet": "FLAPD markets reach a live capacity of 3.8GW in 1H 2026",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -148,7 +308,7 @@
         "rss-dcd"
       ],
       "snippet": "Community and social impact management is not simply a risk to be mitigated, but an opportunity to build the durable trust and maturity the sector will need",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -187,7 +347,7 @@
         "rss-dcd"
       ],
       "snippet": "Unclear if moratorium will apply to Blue Fern's development, however",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -226,7 +386,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -265,7 +425,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -304,7 +464,7 @@
         "rss-dcd"
       ],
       "snippet": "Mayor says measure was proactive, no existing data center applications in the town",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -540,7 +700,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1374,7 +1534,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1492,7 +1652,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2845,7 +3005,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6598,7 +6758,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7674,7 +7834,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10111,7 +10271,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11872,7 +12032,7 @@
         "rss-dck"
       ],
       "snippet": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11911,7 +12071,7 @@
         "rss-canary"
       ],
       "snippet": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to incentivize data centers to secure clean capacity by reducing demand elsewhere on the grid. Data…",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11989,7 +12149,7 @@
         "rss-dck"
       ],
       "snippet": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25097,7 +25257,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-07T07:55:36Z",
+      "last_seen": "2026-08-07T08:42:50Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40312,6 +40472,19 @@
     }
   ],
   "by_state": {
+    "AR": {
+      "state": "AR",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 5,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-08-07"
+    },
     "KS": {
       "state": "KS",
       "count": 3,
@@ -40519,19 +40692,6 @@
         "news": 10
       },
       "latest_date": "2026-07-30"
-    },
-    "AR": {
-      "state": "AR",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 4,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-07-29"
     },
     "PA": {
       "state": "PA",
