@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-07T20:30:55Z",
+  "generated_at": "2026-08-07T21:20:17Z",
   "risk_score": {
-    "score": 64.1,
-    "tier": 32.6,
-    "engagement": 6.4,
+    "score": 64.2,
+    "tier": 32.7,
+    "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 35.9,
+    "score": 35.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 3,
-    "denials": 23,
+    "denials": 24,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 62,
+  "count": 63,
   "tier_counts": {
-    "restrictive": 46,
+    "restrictive": 47,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 33,
     "mixed": 3,
     "loss": 3,
-    "win": 23
+    "win": 24
   },
   "scope_counts": {
-    "local": 54,
+    "local": 55,
     "statewide": 8
   },
   "issue_top": {
@@ -98,6 +98,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://latitudemedia.com/news/open-circuit-data-centers-have-a-texas-sized-energy-problem"
+    },
+    {
+      "id": "news:gdelt-9e7a4e24e9c6aca1-tx",
+      "date": "2026-08-07",
+      "jurisdiction": "constructiondive.com",
+      "title": "Texas data center pause puts 20 % of US pipeline at risk of delay : BNEF",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://constructiondive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827255"
     },
     {
       "id": "news:rss-dcd-2b0aca9e3d8708f4-tx",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://keranews.org/news/2026-08-04/data-center-approvals-in-texas-halted-until-audits-completed-gov-greg-abbott-says"
-    },
-    {
-      "id": "news:gdelt-759ba1f97ea4646f-tx",
-      "date": "2026-08-04",
-      "jurisdiction": "victoriaadvocate.com",
-      "title": "Data center approvals in Texas halted until audits completed , Abbott says",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://victoriaadvocate.com/2026/08/04/data-center-approvals-in-texas-halted-until-audits-completed-abbott-says"
     }
   ]
 }

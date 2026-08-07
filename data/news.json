@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-08-07T20:30:55Z",
+  "generated_at": "2026-08-07T21:20:17Z",
   "window_days": 90,
-  "count": 1019,
+  "count": 1023,
   "items": [
+    {
+      "id": "gdelt-9e7a4e24e9c6aca1",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Texas data center pause puts 20 % of US pipeline at risk of delay : BNEF",
+      "source_domain": "constructiondive.com",
+      "source_name": "constructiondive.com",
+      "url": "https://constructiondive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827255",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 21:20:16",
+      "url_hash": "9e7a4e24e9c6aca1",
+      "content_hash": "584a28463e898197",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T21:20:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a32a44dd20766ad1",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Trump calls Texa data center opposition a  mistake",
+      "source_domain": "click2houston.com",
+      "source_name": "click2houston.com",
+      "url": "https://click2houston.com/news/texas/2026/08/07/trump-calls-texas-data-center-opposition-a-mistake",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 21:20:16",
+      "url_hash": "a32a44dd20766ad1",
+      "content_hash": "8ef8d5b5c1aae8bb",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T21:20:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-8360c70384b3ccb5",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Data Center Reps Face the Guillotine , Flee Public Hearing",
+      "source_domain": "gizmodo.com",
+      "source_name": "gizmodo.com",
+      "url": "https://gizmodo.com/data-center-reps-face-the-guillotine-flee-public-hearing-2000795939",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 21:20:16",
+      "url_hash": "8360c70384b3ccb5",
+      "content_hash": "3031428eb23c1190",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T21:20:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-37de0c786a0285e1",
+      "state": "WI",
+      "city": null,
+      "category": "protested",
+      "headline": "Wisconsin Rapids Becomes Flashpoint In State Data Center Backlash » Urban Milwaukee",
+      "source_domain": "urbanmilwaukee.com",
+      "source_name": "urbanmilwaukee.com",
+      "url": "https://urbanmilwaukee.com/2026/08/07/wisconsin-rapids-becomes-flashpoint-in-states-data-center-backlash",
+      "date": "2026-08-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-07 21:20:16",
+      "url_hash": "37de0c786a0285e1",
+      "content_hash": "f9921f21dd965e1b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-07T21:20:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-45ae3f166d2a247e",
       "state": "OH",
@@ -70,7 +230,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +269,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege scheme to reduce equity",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -544,7 +704,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -583,7 +743,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -858,7 +1018,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-07T19:57:10Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1692,7 +1852,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1810,7 +1970,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3163,7 +3323,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6916,7 +7076,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7992,7 +8152,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10429,7 +10589,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25415,7 +25575,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-07T20:30:54Z",
+      "last_seen": "2026-08-07T21:20:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40630,6 +40790,35 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 41,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 20,
+        "protested": 19,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 40,
+        "legal": 1
+      },
+      "latest_date": "2026-08-07"
+    },
+    "WI": {
+      "state": "WI",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 4,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-08-07"
+    },
     "OH": {
       "state": "OH",
       "count": 18,
@@ -40642,22 +40831,6 @@
       },
       "platforms": {
         "news": 18
-      },
-      "latest_date": "2026-08-07"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 40,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 19,
-        "banned": 19,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 39,
-        "legal": 1
       },
       "latest_date": "2026-08-07"
     },
@@ -40766,19 +40939,6 @@
       },
       "platforms": {
         "news": 2
-      },
-      "latest_date": "2026-08-04"
-    },
-    "WI": {
-      "state": "WI",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 3,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 4
       },
       "latest_date": "2026-08-04"
     },

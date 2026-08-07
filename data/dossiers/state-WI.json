@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-08-07T20:30:55Z",
+  "generated_at": "2026-08-07T21:20:17Z",
   "risk_score": {
-    "score": 42.7,
-    "tier": 15.4,
-    "engagement": 9.8,
-    "recency": 7.0,
-    "multi_source": 5.6,
+    "score": 44.6,
+    "tier": 16.3,
+    "engagement": 9.6,
+    "recency": 8.3,
+    "multi_source": 5.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 57.3,
+    "score": 55.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 25,
+  "count": 26,
   "tier_counts": {
-    "restrictive": 6,
+    "restrictive": 7,
     "unclear": 6,
     "supportive": 7,
     "null": 6
   },
   "outcome_counts": {
-    "pending": 19,
+    "pending": 20,
     "win": 5,
     "loss": 1
   },
   "scope_counts": {
-    "local": 8,
+    "local": 9,
     "statewide": 17
   },
   "issue_top": {
@@ -72,8 +72,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2023-05-24",
-  "latest": "2026-08-04",
+  "latest": "2026-08-07",
   "top_citations": [
+    {
+      "id": "news:gdelt-37de0c786a0285e1-wi",
+      "date": "2026-08-07",
+      "jurisdiction": "urbanmilwaukee.com",
+      "title": "Wisconsin Rapids Becomes Flashpoint In State Data Center Backlash » Urban Milwaukee",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://urbanmilwaukee.com/2026/08/07/wisconsin-rapids-becomes-flashpoint-in-states-data-center-backlash"
+    },
     {
       "id": "news:rss-canary-d0c67440b1ad3a6a-wi",
       "date": "2026-08-04",
@@ -154,15 +163,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1099"
-    },
-    {
-      "id": "research:wi-wisconsin-assembly-20260313-ab-1099-pause-to-protect-rep-madison-would-pr",
-      "date": "2026-03-13",
-      "jurisdiction": "Wisconsin Assembly",
-      "title": "AB 1099 'Pause to Protect' (Rep. Madison) would prohibit operating a data center in Wisconsin until the Legislature enacts a comprehensive s",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://legiscan.com/WI/bill/AB1099/2025"
     }
   ]
 }

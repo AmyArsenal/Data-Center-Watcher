@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-08-07T20:30:55Z",
+  "generated_at": "2026-08-07T21:20:17Z",
   "filter": {
     "community_outcome": "win"
   },
-  "count": 663,
+  "count": 664,
   "items": [
     {
       "id": "social:x-c778319fc8-me",
@@ -26535,6 +26535,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-9e7a4e24e9c6aca1-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "constructiondive.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-08-07",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": null,
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas data center pause puts 20 % of US pipeline at risk of delay : BNEF",
+      "sources": "[\"https://constructiondive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827255\"]",
+      "data_source": "news",
+      "last_updated": "2026-08-07T21:20:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
