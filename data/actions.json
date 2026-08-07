@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T16:30:41Z",
-  "count": 1685,
+  "generated_at": "2026-08-07T17:23:57Z",
+  "count": 1688,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -160,6 +160,53 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-45ae3f166d2a247e-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-07",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ohio Supreme Court sides with Ashville residents who oppose data center",
+      "sources": [
+        "https://yahoo.com/news/politics/articles/ohio-supreme-court-sides-ashville-142413032.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T17:23:56Z",
+      "first_seen": "2026-08-07T17:23:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
       "id": "news:gdelt-5630a0cda65675bd-us",
       "origin": "news",
       "state": "US",
@@ -291,6 +338,96 @@
       "data_source": "news",
       "last_updated": "2026-08-07T14:36:53Z",
       "first_seen": "2026-08-07T14:36:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-1945a378dbad671f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-07",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Former employees sue Prime Data Centers for $400m, claim compensation fraud. Allege scheme to reduce equity",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T17:23:56Z",
+      "first_seen": "2026-08-07T17:23:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:rss-latitude-9ce3f15c0ffab765-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "Latitude Media",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-07",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers have a Texas-sized energy problem. As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media",
+      "sources": [
+        "https://latitudemedia.com/news/open-circuit-data-centers-have-a-texas-sized-energy-problem"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-07T17:23:56Z",
+      "first_seen": "2026-08-07T17:23:57Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -78096,21 +78233,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 949,
+      "count": 950,
       "outcome_counts": {
         "pending": 539,
-        "win": 384,
+        "win": 385,
         "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 923,
+        "restrictive": 924,
         "protective": 0,
         "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 935,
+        "local": 936,
         "statewide": 7,
         "federal": 7
       },
@@ -78183,21 +78320,21 @@
     },
     "TX": {
       "state": "TX",
-      "count": 61,
+      "count": 62,
       "outcome_counts": {
-        "pending": 32,
+        "pending": 33,
         "win": 23,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 45,
+        "restrictive": 46,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 53,
+        "local": 54,
         "statewide": 8,
         "federal": 0
       },
@@ -78206,7 +78343,36 @@
         "community_impact": 11,
         "water": 9
       },
-      "latest_date": "2026-08-06",
+      "latest_date": "2026-08-07",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 34,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 13,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 26,
+        "protective": 0,
+        "supportive": 2,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 29,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "grid_energy": 5,
+        "ratepayer": 5
+      },
+      "latest_date": "2026-08-07",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -78321,35 +78487,6 @@
         "grid_energy": 6,
         "community_impact": 3,
         "transparency": 3
-      },
-      "latest_date": "2026-08-05",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 33,
-      "outcome_counts": {
-        "pending": 19,
-        "win": 12,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 25,
-        "protective": 0,
-        "supportive": 2,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 28,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 8,
-        "grid_energy": 5,
-        "ratepayer": 5
       },
       "latest_date": "2026-08-05",
       "map_color_tier": "restrictive",

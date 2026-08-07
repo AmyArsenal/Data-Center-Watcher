@@ -1,48 +1,48 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-07T16:30:41Z",
+  "generated_at": "2026-08-07T17:23:57Z",
   "risk_score": {
-    "score": 55.8,
-    "tier": 32.5,
+    "score": 56.8,
+    "tier": 32.7,
     "engagement": 6.2,
-    "recency": 12.0,
+    "recency": 12.9,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.2,
+    "score": 43.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 7,
     "approvals": 2,
-    "denials": 12,
+    "denials": 13,
     "lawsuits": 1,
-    "blocked": 1,
+    "blocked": 2,
     "active_companies": 0,
     "bills_introduced": 1,
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 33,
+  "count": 34,
   "tier_counts": {
-    "restrictive": 25,
+    "restrictive": 26,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
     "pending": 19,
-    "win": 12,
+    "win": 13,
     "loss": 2
   },
   "scope_counts": {
-    "local": 28,
+    "local": 29,
     "statewide": 5
   },
   "issue_top": {
-    "community_impact": 8,
+    "community_impact": 9,
     "ratepayer": 5,
     "grid_energy": 5,
     "tax_incentive": 4,
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-08-05",
+  "latest": "2026-08-07",
   "top_citations": [
+    {
+      "id": "news:gdelt-45ae3f166d2a247e-oh",
+      "date": "2026-08-07",
+      "jurisdiction": "yahoo.com",
+      "title": "Ohio Supreme Court sides with Ashville residents who oppose data center",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://yahoo.com/news/politics/articles/ohio-supreme-court-sides-ashville-142413032.html"
+    },
     {
       "id": "news:rss-rto-insider-b8ecfd6e92b919fc-oh",
       "date": "2026-08-05",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/bitdeer-looks-to-develop-750mw-data-center-campus-in-ohio"
-    },
-    {
-      "id": "news:gdelt-e5df1f150d06fcc6-oh",
-      "date": "2026-06-10",
-      "jurisdiction": "New Albany",
-      "title": "New Albany mayor considers 1 - year pause on data center development",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wdrb.com/news/new-albany-mayor-considers-1-year-pause-on-data-center-development/article_19a32a42-27ae-4b94-8e7c-20f04eef85cc.html"
     }
   ]
 }

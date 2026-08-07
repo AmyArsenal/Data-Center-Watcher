@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-07T16:30:41Z",
+  "generated_at": "2026-08-07T17:23:58Z",
   "risk_score": {
-    "score": 64.0,
-    "tier": 32.5,
+    "score": 64.1,
+    "tier": 32.6,
     "engagement": 6.4,
     "recency": 20.0,
     "multi_source": 0.2,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 36.0,
+    "score": 35.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 61,
+  "count": 62,
   "tier_counts": {
-    "restrictive": 45,
+    "restrictive": 46,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 32,
+    "pending": 33,
     "mixed": 3,
     "loss": 3,
     "win": 23
   },
   "scope_counts": {
-    "local": 53,
+    "local": 54,
     "statewide": 8
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-06",
+  "latest": "2026-08-07",
   "top_citations": [
+    {
+      "id": "news:rss-latitude-9ce3f15c0ffab765-tx",
+      "date": "2026-08-07",
+      "jurisdiction": "Latitude Media",
+      "title": "Data centers have a Texas-sized energy problem. As more states pause data centers, how will they use the opportunity to pass energy policy? ",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://latitudemedia.com/news/open-circuit-data-centers-have-a-texas-sized-energy-problem"
+    },
     {
       "id": "news:rss-dcd-2b0aca9e3d8708f4-tx",
       "date": "2026-08-06",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://victoriaadvocate.com/2026/08/04/data-center-approvals-in-texas-halted-until-audits-completed-abbott-says"
-    },
-    {
-      "id": "news:gdelt-54f691ff81815d08-tx",
-      "date": "2026-08-04",
-      "jurisdiction": "gizmodo.com",
-      "title": "Texas Pauses New Data Center Projects Looking to Connect to the State Grid",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://gizmodo.com/texas-pauses-new-data-center-projects-looking-to-connect-to-the-states-grid-2000794539"
     }
   ]
 }
