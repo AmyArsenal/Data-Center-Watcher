@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T00:38:33Z",
-  "count": 1692,
+  "generated_at": "2026-08-08T02:33:05Z",
+  "count": 1693,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -612,6 +612,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-0ad0d131f42d762e-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-07",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline. Executives at parent company Sempra said they support the governor's pause on new data center interconnection approvals, citing a need for durable long-term outcomes amid growing public opposition",
+      "sources": [
+        "https://utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-08T02:33:04Z",
+      "first_seen": "2026-08-08T02:33:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-4f1b2c8688ba5f85-us",
@@ -78500,22 +78545,22 @@
     },
     "TX": {
       "state": "TX",
-      "count": 63,
+      "count": 64,
       "outcome_counts": {
         "pending": 33,
-        "win": 24,
+        "win": 25,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 47,
+        "restrictive": 48,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
         "local": 55,
-        "statewide": 8,
+        "statewide": 9,
         "federal": 0
       },
       "issue_top": {
