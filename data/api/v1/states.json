@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-08T11:19:55Z",
+  "generated_at": "2026-08-08T11:49:37Z",
   "states": [
     {
       "state": "AK",
@@ -480,16 +480,16 @@
     },
     {
       "state": "OH",
-      "count": 34,
-      "risk_score": 56.5,
+      "count": 35,
+      "risk_score": 57.5,
       "grade": "D",
-      "grade_score": 43.5,
+      "grade_score": 42.5,
       "moratoriums": 7,
       "approvals": 2,
-      "denials": 13,
+      "denials": 14,
       "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-08-07",
+      "latest": "2026-08-08",
       "url": "data/dossiers/state-OH.json"
     },
     {

@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-08T11:19:55Z",
+  "generated_at": "2026-08-08T11:49:37Z",
   "window_days": 90,
-  "count": 1021,
+  "count": 1023,
   "items": [
+    {
+      "id": "gdelt-7fd2bb4a404fd39a",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Elk River adopts one - year data center moratorium",
+      "source_domain": "hometownsource.com",
+      "source_name": "hometownsource.com",
+      "url": "https://hometownsource.com/elk_river_star_news/elk_river_star_news/elk-river-adopts-one-year-data-center-moratorium/article_92249969-44d2-486d-b0bc-4f5bd4f710df.html",
+      "date": "2026-08-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-08 11:49:36",
+      "url_hash": "7fd2bb4a404fd39a",
+      "content_hash": "111151ccdeb6de2d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-08T11:49:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7b1857b54832f6d8",
+      "state": "OH",
+      "city": null,
+      "category": "banned",
+      "headline": "Tri - state vote on data center ban depends on Ohio Supreme Court decision",
+      "source_domain": "wcpo.com",
+      "source_name": "wcpo.com",
+      "url": "https://wcpo.com/news/local-news/they-are-afraid-tri-state-vote-on-data-center-ban-depends-on-ohio-supreme-court-decision",
+      "date": "2026-08-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-08 11:49:36",
+      "url_hash": "7b1857b54832f6d8",
+      "content_hash": "0e84d7aa7f30abf7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-08T11:49:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-7ebef1017280cf24",
       "state": "US",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T10:18:13Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -429,7 +509,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -468,7 +548,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege scheme to reduce equity",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -903,7 +983,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -942,7 +1022,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1217,7 +1297,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-08T10:56:42Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1775,7 +1855,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-04T21:32:55Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2051,7 +2131,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2169,7 +2249,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3522,7 +3602,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7275,7 +7355,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8351,7 +8431,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10788,7 +10868,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25774,7 +25854,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T11:49:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40709,6 +40789,21 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 18,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 7,
+        "cancelled": 2,
+        "protested": 7,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 18
+      },
+      "latest_date": "2026-08-08"
+    },
     "TX": {
       "state": "TX",
       "count": 43,
@@ -40735,21 +40830,6 @@
       },
       "platforms": {
         "news": 5
-      },
-      "latest_date": "2026-08-07"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 17,
-      "total_engagement": 0,
-      "categories": {
-        "cancelled": 2,
-        "protested": 7,
-        "announced": 2,
-        "banned": 6
-      },
-      "platforms": {
-        "news": 17
       },
       "latest_date": "2026-08-07"
     },

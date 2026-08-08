@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-08T11:19:55Z",
+  "generated_at": "2026-08-08T11:49:37Z",
   "risk_score": {
-    "score": 56.5,
-    "tier": 32.7,
+    "score": 57.5,
+    "tier": 32.9,
     "engagement": 6.2,
-    "recency": 12.6,
+    "recency": 13.4,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.5,
+    "score": 42.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 7,
     "approvals": 2,
-    "denials": 13,
+    "denials": 14,
     "lawsuits": 1,
     "blocked": 2,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 34,
+  "count": 35,
   "tier_counts": {
-    "restrictive": 26,
+    "restrictive": 27,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
     "pending": 19,
-    "win": 13,
+    "win": 14,
     "loss": 2
   },
   "scope_counts": {
-    "local": 29,
+    "local": 30,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-08-07",
+  "latest": "2026-08-08",
   "top_citations": [
+    {
+      "id": "news:gdelt-7b1857b54832f6d8-oh",
+      "date": "2026-08-08",
+      "jurisdiction": "wcpo.com",
+      "title": "Tri - state vote on data center ban depends on Ohio Supreme Court decision",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wcpo.com/news/local-news/they-are-afraid-tri-state-vote-on-data-center-ban-depends-on-ohio-supreme-court-decision"
+    },
     {
       "id": "news:gdelt-45ae3f166d2a247e-oh",
       "date": "2026-08-07",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://vindy.com/news/local-news/2026/06/mcdonald-officials-visit-data-centers-in-new-albany"
-    },
-    {
-      "id": "news:rss-dcd-d1a0440c1be04bf1-oh",
-      "date": "2026-06-16",
-      "jurisdiction": "DCD",
-      "title": "Bitdeer looks to develop 750MW data center campus in Ohio. Cryptomine and AI firm eyes major Ohio data center campus amid local moratorium",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/bitdeer-looks-to-develop-750mw-data-center-campus-in-ohio"
     }
   ]
 }
