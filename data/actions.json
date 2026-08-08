@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T09:51:01Z",
-  "count": 1696,
+  "generated_at": "2026-08-08T10:18:14Z",
+  "count": 1697,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -109,6 +109,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-7ebef1017280cf24-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wgcu.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "voters",
+      "date": "2026-08-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers are a political issue crossing party lines , driving voters to candidates",
+      "sources": [
+        "https://wgcu.org/2026-08-08/data-centers-are-a-political-issue-crossing-party-lines-driving-voters-to-candidates"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-08T10:18:13Z",
+      "first_seen": "2026-08-08T10:18:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-b4d4018d1df81d0f-us",
@@ -78624,21 +78669,21 @@
     },
     "US": {
       "state": "US",
-      "count": 954,
+      "count": 955,
       "outcome_counts": {
-        "pending": 542,
+        "pending": 543,
         "win": 386,
         "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 928,
+        "restrictive": 929,
         "protective": 0,
         "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 940,
+        "local": 941,
         "statewide": 7,
         "federal": 7
       },

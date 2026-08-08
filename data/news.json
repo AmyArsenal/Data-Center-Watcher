@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-08T09:51:01Z",
+  "generated_at": "2026-08-08T10:18:14Z",
   "window_days": 90,
-  "count": 1020,
+  "count": 1021,
   "items": [
+    {
+      "id": "gdelt-7ebef1017280cf24",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Data centers are a political issue crossing party lines , driving voters to candidates",
+      "source_domain": "wgcu.org",
+      "source_name": "wgcu.org",
+      "url": "https://wgcu.org/2026-08-08/data-centers-are-a-political-issue-crossing-party-lines-driving-voters-to-candidates",
+      "date": "2026-08-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-08 10:18:13",
+      "url_hash": "7ebef1017280cf24",
+      "content_hash": "805dc2035d2faf43",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-08T10:18:13Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-b4d4018d1df81d0f",
       "state": "US",
@@ -389,7 +429,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -428,7 +468,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege scheme to reduce equity",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -863,7 +903,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -902,7 +942,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1177,7 +1217,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-08T08:28:26Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2011,7 +2051,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2129,7 +2169,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3482,7 +3522,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7235,7 +7275,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8311,7 +8351,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10748,7 +10788,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25734,7 +25774,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-08T09:51:00Z",
+      "last_seen": "2026-08-08T10:18:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
