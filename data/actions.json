@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T16:16:20Z",
-  "count": 1703,
+  "generated_at": "2026-08-08T17:23:00Z",
+  "count": 1704,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -473,6 +473,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-f1aecc72d642c3c3-or",
+      "origin": "news",
+      "state": "OR",
+      "county": null,
+      "jurisdiction": "dailytidings.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-08",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Oregon Governor Backs Local Data Center Pauses as Statewide Ban Question Remains Open",
+      "sources": [
+        "https://dailytidings.com/oregon-governor-backs-local-data-center-pauses-as-statewide-ban-question-remains-open"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-08T17:23:00Z",
+      "first_seen": "2026-08-08T17:23:00Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-00a3ab2ed273f89d-us",
@@ -78997,6 +79042,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "OR": {
+      "state": "OR",
+      "count": 14,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 7,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 9,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "environmental": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-08-08",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "AR": {
       "state": "AR",
       "count": 12,
@@ -79253,35 +79327,6 @@
         "community_impact": 1,
         "environmental": 1,
         "grid_energy": 1
-      },
-      "latest_date": "2026-08-04",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 13,
-      "outcome_counts": {
-        "pending": 6,
-        "win": 6,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 8,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "environmental": 1,
-        "ratepayer": 1
       },
       "latest_date": "2026-08-04",
       "map_color_tier": "restrictive",

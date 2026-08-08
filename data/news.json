@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-08T16:16:20Z",
+  "generated_at": "2026-08-08T17:23:00Z",
   "window_days": 90,
-  "count": 1027,
+  "count": 1028,
   "items": [
+    {
+      "id": "gdelt-f1aecc72d642c3c3",
+      "state": "OR",
+      "city": null,
+      "category": "banned",
+      "headline": "Oregon Governor Backs Local Data Center Pauses as Statewide Ban Question Remains Open",
+      "source_domain": "dailytidings.com",
+      "source_name": "dailytidings.com",
+      "url": "https://dailytidings.com/oregon-governor-backs-local-data-center-pauses-as-statewide-ban-question-remains-open",
+      "date": "2026-08-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-08 17:23:00",
+      "url_hash": "f1aecc72d642c3c3",
+      "content_hash": "ec8d832bccc5e3f0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-08T17:23:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-3d777778a542f6cf",
       "state": "OH",
@@ -32,7 +72,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T15:16:06Z",
+      "last_seen": "2026-08-08T17:23:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -72,7 +112,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T15:16:06Z",
+      "last_seen": "2026-08-08T17:23:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -114,7 +154,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T15:16:06Z",
+      "last_seen": "2026-08-08T17:23:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -154,7 +194,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:23:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -274,7 +314,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:23:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -673,7 +713,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -712,7 +752,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege scheme to reduce equity",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1147,7 +1187,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1186,7 +1226,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1461,7 +1501,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-08T14:02:54Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2295,7 +2335,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2413,7 +2453,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3766,7 +3806,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7519,7 +7559,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8595,7 +8635,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11032,7 +11072,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:22:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -26018,7 +26058,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-08T16:16:19Z",
+      "last_seen": "2026-08-08T17:23:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40953,6 +40993,21 @@
     }
   ],
   "by_state": {
+    "OR": {
+      "state": "OR",
+      "count": 9,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 4,
+        "protested": 3,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 9
+      },
+      "latest_date": "2026-08-08"
+    },
     "OH": {
       "state": "OH",
       "count": 19,
@@ -41076,21 +41131,6 @@
         "news": 4
       },
       "latest_date": "2026-08-05"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 8,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 3,
-        "protested": 3,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 8
-      },
-      "latest_date": "2026-08-04"
     },
     "NV": {
       "state": "NV",

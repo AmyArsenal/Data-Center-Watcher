@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-08-08T16:16:20Z",
+  "generated_at": "2026-08-08T17:23:01Z",
   "risk_score": {
-    "score": 62.1,
-    "tier": 28.3,
-    "engagement": 7.2,
+    "score": 62.7,
+    "tier": 29.1,
+    "engagement": 7.1,
     "recency": 20.0,
-    "multi_source": 1.5,
+    "multi_source": 1.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 37.9,
+    "score": 37.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 1,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 8,
+    "restrictive": 9,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 6,
-    "win": 6,
+    "win": 7,
     "loss": 1
   },
   "scope_counts": {
-    "statewide": 5,
+    "statewide": 6,
     "local": 8
   },
   "issue_top": {
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-08-04",
+  "latest": "2026-08-08",
   "top_citations": [
+    {
+      "id": "news:gdelt-f1aecc72d642c3c3-or",
+      "date": "2026-08-08",
+      "jurisdiction": "dailytidings.com",
+      "title": "Oregon Governor Backs Local Data Center Pauses as Statewide Ban Question Remains Open",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dailytidings.com/oregon-governor-backs-local-data-center-pauses-as-statewide-ban-question-remains-open"
+    },
     {
       "id": "news:rss-dcd-b7eb72e129730661-or",
       "date": "2026-08-04",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/131735-oregon-puc-approves-data-center-rate-class-pge"
-    },
-    {
-      "id": "research:or-federal-court-amazon-settlement--20260415-amazon-data-services-agreed-to-pay-20-5m-to-settl",
-      "date": "2026-04-15",
-      "jurisdiction": "Federal Court (Amazon settlement)",
-      "title": "Amazon Data Services agreed to pay $20.5M to settle lawsuit over nitrate pollution tied to its eastern Oregon data center operations.",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.nbcrightnow.com/news/amazon-settles-oregon-data-center-pollution-lawsuit-for-20-5m/article_aa1e0c52-c6be-42c8-bf90-091b3670b75b.html"
     }
   ]
 }
