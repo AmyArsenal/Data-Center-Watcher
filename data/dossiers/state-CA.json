@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "CA",
-  "generated_at": "2026-08-07T23:53:27Z",
+  "generated_at": "2026-08-08T00:38:34Z",
   "risk_score": {
-    "score": 50.3,
+    "score": 49.2,
     "tier": 19.7,
     "engagement": 8.9,
-    "recency": 12.6,
+    "recency": 11.5,
     "multi_source": 4.2,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "D",
-    "score": 49.7,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 50.8,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
