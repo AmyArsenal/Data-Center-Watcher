@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-08T14:46:28Z",
+  "generated_at": "2026-08-08T15:16:07Z",
   "states": [
     {
       "state": "AK",
@@ -480,10 +480,10 @@
     },
     {
       "state": "OH",
-      "count": 35,
-      "risk_score": 57.5,
+      "count": 36,
+      "risk_score": 58.5,
       "grade": "D",
-      "grade_score": 42.5,
+      "grade_score": 41.5,
       "moratoriums": 7,
       "approvals": 2,
       "denials": 14,

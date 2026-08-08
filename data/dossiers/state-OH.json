@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-08T14:46:28Z",
+  "generated_at": "2026-08-08T15:16:07Z",
   "risk_score": {
-    "score": 57.5,
-    "tier": 32.9,
+    "score": 58.5,
+    "tier": 33.1,
     "engagement": 6.2,
-    "recency": 13.4,
+    "recency": 14.1,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 42.5,
+    "score": 41.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 35,
+  "count": 36,
   "tier_counts": {
-    "restrictive": 27,
+    "restrictive": 28,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
-    "pending": 19,
+    "pending": 20,
     "win": 14,
     "loss": 2
   },
   "scope_counts": {
-    "local": 30,
+    "local": 31,
     "statewide": 5
   },
   "issue_top": {
@@ -64,6 +64,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wcpo.com/news/local-news/they-are-afraid-tri-state-vote-on-data-center-ban-depends-on-ohio-supreme-court-decision"
+    },
+    {
+      "id": "news:gdelt-3d777778a542f6cf-oh",
+      "date": "2026-08-08",
+      "jurisdiction": "foxnews.com",
+      "title": "Sherrod Brown once praised Amazon datacenter he now opposes in Ohio",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://foxnews.com/politics/brown-embraced-amazon-data-centers-blaming-higher-utility-costs-high-stakes-senate-race"
     },
     {
       "id": "news:gdelt-45ae3f166d2a247e-oh",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/thor-equities-files-lawsuit-against-ohios-urbana-after-data-center-moratorium-disrupts-project"
-    },
-    {
-      "id": "news:gdelt-a6e91106a06026ea-oh",
-      "date": "2026-06-20",
-      "jurisdiction": "New Albany",
-      "title": "McDonald officials visit data centers in New Albany | News , Sports , Jobs",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://vindy.com/news/local-news/2026/06/mcdonald-officials-visit-data-centers-in-new-albany"
     }
   ]
 }

@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-08-08T14:46:28Z",
+  "generated_at": "2026-08-08T15:16:07Z",
   "window_days": 90,
-  "count": 1024,
+  "count": 1027,
   "items": [
+    {
+      "id": "gdelt-3d777778a542f6cf",
+      "state": "OH",
+      "city": null,
+      "category": "protested",
+      "headline": "Sherrod Brown once praised Amazon datacenter he now opposes in Ohio",
+      "source_domain": "foxnews.com",
+      "source_name": "foxnews.com",
+      "url": "https://foxnews.com/politics/brown-embraced-amazon-data-centers-blaming-higher-utility-costs-high-stakes-senate-race",
+      "date": "2026-08-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Amazon"
+      ],
+      "first_seen": "2026-08-08 15:16:06",
+      "url_hash": "3d777778a542f6cf",
+      "content_hash": "ebd86855cc176155",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-08T15:16:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4d7a5a0397762f90",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Kittitas County commissioners to look at data center ban",
+      "source_domain": "dailyrecordnews.com",
+      "source_name": "dailyrecordnews.com",
+      "url": "http://dailyrecordnews.com/news/kittitas-county-commissioners-to-look-at-data-center-ban/article_e455846e-e6d5-462e-91bb-03856c76cec9.html",
+      "date": "2026-08-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-08 15:16:06",
+      "url_hash": "4d7a5a0397762f90",
+      "content_hash": "5af02a8b6025b31e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-08T15:16:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7c40eb3cae60a3f0",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Amazon secretly circumvents community vote for massive AI data center using 45 - year - old rules Gilroy residents locked out of public comment window",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+      "date": "2026-08-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Amazon"
+      ],
+      "first_seen": "2026-08-08 15:16:06",
+      "url_hash": "7c40eb3cae60a3f0",
+      "content_hash": "7e002cf5328a4521",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-08T15:16:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-209007f655a0db21",
       "state": "US",
@@ -30,7 +154,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T13:23:24Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +274,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-08T13:23:24Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +434,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Executives at parent company Sempra said they support the governor's pause on new data center interconnection approvals, citing a need for durable long-term outcomes amid growing public opposition.",
-      "last_seen": "2026-08-08T11:19:54Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -549,7 +673,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -588,7 +712,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege scheme to reduce equity",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1023,7 +1147,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1062,7 +1186,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2171,7 +2295,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2289,7 +2413,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3642,7 +3766,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7395,7 +7519,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8471,7 +8595,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10908,7 +11032,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -25894,7 +26018,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-08T14:46:27Z",
+      "last_seen": "2026-08-08T15:16:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40831,16 +40955,16 @@
   "by_state": {
     "OH": {
       "state": "OH",
-      "count": 18,
+      "count": 19,
       "total_engagement": 0,
       "categories": {
+        "protested": 8,
         "banned": 7,
         "cancelled": 2,
-        "protested": 7,
         "announced": 2
       },
       "platforms": {
-        "news": 18
+        "news": 19
       },
       "latest_date": "2026-08-08"
     },
