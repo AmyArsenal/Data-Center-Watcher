@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:19:34Z",
-  "count": 1699,
+  "generated_at": "2026-08-08T13:23:25Z",
+  "count": 1700,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-209007f655a0db21-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "npr.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "voters",
+      "date": "2026-08-08",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers are a top issue in midterms for voters , candidates : NPR",
+      "sources": [
+        "https://npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-08T13:23:24Z",
+      "first_seen": "2026-08-08T13:23:25Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-5940d9707e33eb70-us",
@@ -78759,21 +78804,21 @@
     },
     "US": {
       "state": "US",
-      "count": 956,
+      "count": 957,
       "outcome_counts": {
-        "pending": 543,
+        "pending": 544,
         "win": 387,
         "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 930,
+        "restrictive": 931,
         "protective": 0,
         "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 942,
+        "local": 943,
         "statewide": 7,
         "federal": 7
       },
