@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-08T06:02:02Z",
+  "generated_at": "2026-08-08T07:11:16Z",
   "risk_score": {
-    "score": 64.3,
-    "tier": 32.8,
+    "score": 64.4,
+    "tier": 32.9,
     "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.2,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 35.7,
+    "score": 35.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 3,
-    "denials": 25,
+    "denials": 26,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 64,
+  "count": 65,
   "tier_counts": {
-    "restrictive": 48,
+    "restrictive": 49,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 33,
     "mixed": 3,
     "loss": 3,
-    "win": 25
+    "win": 26
   },
   "scope_counts": {
-    "local": 55,
+    "local": 56,
     "statewide": 9
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-07",
+  "latest": "2026-08-08",
   "top_citations": [
+    {
+      "id": "news:gdelt-08b391625946e9ec-tx",
+      "date": "2026-08-08",
+      "jurisdiction": "fox26houston.com",
+      "title": "Texas Gov . Abbott defends data center pause after Trump calls policy a  mistake",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://fox26houston.com/news/texas-gov-abbott-defends-data-center-pause-after-trump-calls-policy-mistake"
+    },
     {
       "id": "news:rss-latitude-9ce3f15c0ffab765-tx",
       "date": "2026-08-07",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/138276-3-grids-asking-the-same-question-no-one-holds-the-entire-answer"
-    },
-    {
-      "id": "news:rss-arstechnica-8fad3a447869e492-tx",
-      "date": "2026-08-04",
-      "jurisdiction": "Ars Technica - All content",
-      "title": "Texas halts data center connections to power grid amid overwhelming demand. Governor who touted Texas as AI “epicenter” pauses data center g",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand"
     }
   ]
 }
