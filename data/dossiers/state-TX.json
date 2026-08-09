@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-09T18:04:24Z",
+  "generated_at": "2026-08-09T18:57:30Z",
   "risk_score": {
-    "score": 64.4,
-    "tier": 32.9,
+    "score": 64.5,
+    "tier": 33.0,
     "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.2,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 35.6,
+    "score": 35.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,24 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 65,
+  "count": 66,
   "tier_counts": {
-    "restrictive": 49,
+    "restrictive": 50,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 33,
+    "pending": 34,
     "mixed": 3,
     "loss": 3,
     "win": 26
   },
   "scope_counts": {
-    "local": 56,
+    "local": 57,
     "statewide": 9
   },
   "issue_top": {
-    "grid_energy": 15,
+    "grid_energy": 16,
     "community_impact": 11,
     "water": 9,
     "farmland": 8,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-08",
+  "latest": "2026-08-09",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-c505163a7b1e2734-tx",
+      "date": "2026-08-09",
+      "jurisdiction": "RTO Insider",
+      "title": "Texas PUC Special Session Tackles 765-kV, Data Center Issues. The Texas Public Utility Commission has scheduled a special open meeting to di",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/138601-texas-puc-special-session-tackles-765-kv-data-center-issues"
+    },
     {
       "id": "news:gdelt-08b391625946e9ec-tx",
       "date": "2026-08-08",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046"
-    },
-    {
-      "id": "news:rss-rto-insider-ee73e59ad55250db-tx",
-      "date": "2026-08-05",
-      "jurisdiction": "RTO Insider",
-      "title": "3 Grids Asking the Same Question; No One Holds the Entire Answer. Texas stopped data center projects from advancing through ERCOT's intercon",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://rtoinsider.com/138276-3-grids-asking-the-same-question-no-one-holds-the-entire-answer"
     }
   ]
 }

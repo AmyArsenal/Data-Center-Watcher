@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T18:04:24Z",
-  "count": 1708,
+  "generated_at": "2026-08-09T18:57:30Z",
+  "count": 1709,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -202,6 +202,54 @@
       "data_source": "news",
       "last_updated": "2026-08-09T13:27:31Z",
       "first_seen": "2026-08-09T13:27:32Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-c505163a7b1e2734-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report",
+        "utility_regulation"
+      ],
+      "authority_level": "utility_commission",
+      "date": "2026-08-09",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Texas PUC Special Session Tackles 765-kV, Data Center Issues. The Texas Public Utility Commission has scheduled a special open meeting to discuss 765-kV transmission lines and data centers, both of which have faced increasing public opposition. The post Texas PUC Special Session Tackles 765-kV, Data Center Issues appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/138601-texas-puc-special-session-tackles-765-kv-data-center-issues"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-09T18:57:29Z",
+      "first_seen": "2026-08-09T18:57:29Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -79173,30 +79221,30 @@
     },
     "TX": {
       "state": "TX",
-      "count": 65,
+      "count": 66,
       "outcome_counts": {
-        "pending": 33,
+        "pending": 34,
         "win": 26,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 49,
+        "restrictive": 50,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 56,
+        "local": 57,
         "statewide": 9,
         "federal": 0
       },
       "issue_top": {
-        "grid_energy": 15,
+        "grid_energy": 16,
         "community_impact": 11,
         "water": 9
       },
-      "latest_date": "2026-08-08",
+      "latest_date": "2026-08-09",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
