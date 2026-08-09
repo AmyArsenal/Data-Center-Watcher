@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:53:20Z",
-  "count": 1709,
+  "generated_at": "2026-08-09T20:16:36Z",
+  "count": 1710,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -66,6 +66,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-410470615ffe0c71-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "thegazette.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-09",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Rob Sand is wrong about data center moratorium | Opinion",
+      "sources": [
+        "http://thegazette.com/opinion/rob-sand-is-wrong-about-iowa-data-center-moratorium/article_41c0a9bf-7336-4367-8368-dcf7fd3da36f.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-09T20:16:35Z",
+      "first_seen": "2026-08-09T20:16:36Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-7a4dcf3a99fb43e7-us",
@@ -79192,21 +79237,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 963,
+      "count": 964,
       "outcome_counts": {
         "pending": 549,
-        "win": 388,
+        "win": 389,
         "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 937,
+        "restrictive": 938,
         "protective": 0,
         "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 949,
+        "local": 950,
         "statewide": 7,
         "federal": 7
       },
