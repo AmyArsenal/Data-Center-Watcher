@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:26:43Z",
-  "count": 1704,
+  "generated_at": "2026-08-09T07:29:38Z",
+  "count": 1706,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,101 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-1fdf23de95312e2f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kshb.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-09",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Eastern Jackson County city , residents take proactive steps on data centers",
+      "sources": [
+        "https://kshb.com/news/local-news/data-centers/just-to-give-us-a-say-eastern-jackson-county-city-residents-take-proactive-steps-on-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-09T07:29:37Z",
+      "first_seen": "2026-08-09T07:29:38Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-7a4dcf3a99fb43e7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wtoc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "zoning_restriction"
+      ],
+      "authority_level": null,
+      "date": "2026-08-09",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact",
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Statesboro residents protest proposed data center rezoning",
+      "sources": [
+        "https://wtoc.com/2026/08/08/statesboro-residents-protest-proposed-data-center-rezoning"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-09T07:29:37Z",
+      "first_seen": "2026-08-09T07:29:38Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-08b391625946e9ec-tx",
       "origin": "news",
@@ -78955,6 +79050,35 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 961,
+      "outcome_counts": {
+        "pending": 547,
+        "win": 388,
+        "loss": 26,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 935,
+        "protective": 0,
+        "supportive": 26,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 947,
+        "statewide": 7,
+        "federal": 7
+      },
+      "issue_top": {
+        "community_impact": 188,
+        "zoning": 79,
+        "grid_energy": 20
+      },
+      "latest_date": "2026-08-09",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "TX": {
       "state": "TX",
       "count": 65,
@@ -78979,35 +79103,6 @@
         "grid_energy": 15,
         "community_impact": 11,
         "water": 9
-      },
-      "latest_date": "2026-08-08",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 959,
-      "outcome_counts": {
-        "pending": 545,
-        "win": 388,
-        "loss": 26,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 933,
-        "protective": 0,
-        "supportive": 26,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 945,
-        "statewide": 7,
-        "federal": 7
-      },
-      "issue_top": {
-        "community_impact": 186,
-        "zoning": 78,
-        "grid_energy": 20
       },
       "latest_date": "2026-08-08",
       "map_color_tier": "restrictive",

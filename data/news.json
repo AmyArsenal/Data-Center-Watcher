@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-09T06:26:43Z",
+  "generated_at": "2026-08-09T07:29:38Z",
   "window_days": 90,
-  "count": 1024,
+  "count": 1026,
   "items": [
+    {
+      "id": "gdelt-1fdf23de95312e2f",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Eastern Jackson County city , residents take proactive steps on data centers",
+      "source_domain": "kshb.com",
+      "source_name": "kshb.com",
+      "url": "https://kshb.com/news/local-news/data-centers/just-to-give-us-a-say-eastern-jackson-county-city-residents-take-proactive-steps-on-data-centers",
+      "date": "2026-08-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-09 07:29:37",
+      "url_hash": "1fdf23de95312e2f",
+      "content_hash": "c88458ad178927ae",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-09T07:29:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7a4dcf3a99fb43e7",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Statesboro residents protest proposed data center rezoning",
+      "source_domain": "wtoc.com",
+      "source_name": "wtoc.com",
+      "url": "https://wtoc.com/2026/08/08/statesboro-residents-protest-proposed-data-center-rezoning",
+      "date": "2026-08-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-09 07:29:37",
+      "url_hash": "7a4dcf3a99fb43e7",
+      "content_hash": "192c1c5da52784e1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-09T07:29:37Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-f1aecc72d642c3c3",
       "state": "OR",
@@ -713,7 +793,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -752,7 +832,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege scheme to reduce equity",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1187,7 +1267,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1226,7 +1306,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1501,7 +1581,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-09T02:25:33Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2335,7 +2415,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2453,7 +2533,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3806,7 +3886,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7559,7 +7639,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8635,7 +8715,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11072,7 +11152,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -26058,7 +26138,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-09T06:26:42Z",
+      "last_seen": "2026-08-09T07:29:37Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
