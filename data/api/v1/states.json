@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-10T12:05:09Z",
+  "generated_at": "2026-08-10T13:39:29Z",
   "states": [
     {
       "state": "AK",
@@ -144,16 +144,16 @@
     },
     {
       "state": "GA",
-      "count": 20,
-      "risk_score": 47.2,
+      "count": 21,
+      "risk_score": 49.3,
       "grade": "C",
-      "grade_score": 52.8,
+      "grade_score": 50.7,
       "moratoriums": 3,
       "approvals": 2,
       "denials": 2,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-07-22",
+      "latest": "2026-08-10",
       "url": "data/dossiers/state-GA.json"
     },
     {
@@ -326,16 +326,16 @@
     },
     {
       "state": "MO",
-      "count": 23,
-      "risk_score": 45.2,
+      "count": 24,
+      "risk_score": 46.9,
       "grade": "C",
-      "grade_score": 54.8,
+      "grade_score": 53.1,
       "moratoriums": 1,
       "approvals": 1,
-      "denials": 5,
+      "denials": 6,
       "lawsuits": 1,
       "active_companies": 3,
-      "latest": "2026-07-08",
+      "latest": "2026-08-10",
       "url": "data/dossiers/state-MO.json"
     },
     {
