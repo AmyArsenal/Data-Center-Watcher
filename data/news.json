@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-10T02:58:11Z",
+  "generated_at": "2026-08-10T04:25:02Z",
   "window_days": 90,
-  "count": 1020,
+  "count": 1022,
   "items": [
+    {
+      "id": "gdelt-1c110dfc5984d634",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Councilmember Galvan calls for moratorium on San Antonio data centers",
+      "source_domain": "tpr.org",
+      "source_name": "tpr.org",
+      "url": "https://tpr.org/podcast/the-source/2026-08-09/councilmember-galvan-calls-for-moratorium-on-san-antonio-data-centers",
+      "date": "2026-08-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-10 04:25:02",
+      "url_hash": "1c110dfc5984d634",
+      "content_hash": "efc14e0bf7a025dc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-10T04:25:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-76068293d86c3422",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "A call for honesty : An open letter to the residents of Moffat County about data center discussions",
+      "source_domain": "craigdailypress.com",
+      "source_name": "craigdailypress.com",
+      "url": "https://craigdailypress.com/news/a-call-for-honesty-an-open-letter-to-the-residents-of-moffat-county-about-data-center-discussions",
+      "date": "2026-08-09",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-10 04:25:02",
+      "url_hash": "76068293d86c3422",
+      "content_hash": "0afd10d264eeee1c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-10T04:25:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-410470615ffe0c71",
       "state": "US",
@@ -70,7 +150,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Texas Public Utility Commission has scheduled a special open meeting to discuss 765-kV transmission lines and data centers, both of which have faced increasing public opposition. The post Texas PUC Special Session Tackles 765-kV, Data Center Issues appeared first on RTO Insider .",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -149,7 +229,7 @@
         "rss-dcd"
       ],
       "snippet": "The roadmap to being a good neighbor",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -951,7 +1031,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -990,7 +1070,7 @@
         "rss-dcd"
       ],
       "snippet": "Allege scheme to reduce equity",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1425,7 +1505,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The longer the moratorium stays in place, the greater the risk to Texas&rsquo; data center boom, analysts at Bloomberg NEF said.",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1464,7 +1544,7 @@
         "rss-utilitydive"
       ],
       "snippet": "President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering customer-backed capacity would thrive in a more restrictive environment for data center development.&nbsp;",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1739,7 +1819,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Texas Gov. Greg Abbott has called for an audit of all data centers in the Electric Reliability Council of Texas interconnection queue, leading the grid operator to delay its Batch Zero review process.",
-      "last_seen": "2026-08-10T00:42:43Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2573,7 +2653,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2691,7 +2771,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4044,7 +4124,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7797,7 +7877,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8873,7 +8953,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11310,7 +11390,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -26296,7 +26376,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-10T02:58:10Z",
+      "last_seen": "2026-08-10T04:25:01Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
