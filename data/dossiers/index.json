@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-10T19:59:37Z",
+  "generated_at": "2026-08-10T20:38:45Z",
   "states": [
     {
       "state": "AK",
@@ -480,16 +480,16 @@
     },
     {
       "state": "OH",
-      "count": 36,
-      "risk_score": 57.7,
+      "count": 37,
+      "risk_score": 58.6,
       "grade": "D",
-      "grade_score": 42.3,
+      "grade_score": 41.4,
       "moratoriums": 7,
       "approvals": 2,
-      "denials": 14,
+      "denials": 15,
       "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-08-08",
+      "latest": "2026-08-10",
       "url": "data/dossiers/state-OH.json"
     },
     {
@@ -592,13 +592,13 @@
     },
     {
       "state": "TX",
-      "count": 67,
-      "risk_score": 64.6,
+      "count": 69,
+      "risk_score": 64.8,
       "grade": "D",
-      "grade_score": 35.4,
-      "moratoriums": 5,
+      "grade_score": 35.2,
+      "moratoriums": 6,
       "approvals": 3,
-      "denials": 27,
+      "denials": 28,
       "lawsuits": 3,
       "active_companies": 8,
       "latest": "2026-08-10",
@@ -789,9 +789,9 @@
       "county_fips": "48309",
       "county_name": "Bell County",
       "state": "TX",
-      "count": 1,
-      "risk_score": 50.2,
-      "latest": "2026-04-21",
+      "count": 2,
+      "risk_score": 66.2,
+      "latest": "2026-08-10",
       "url": "data/dossiers/county-48309.json"
     },
     {

@@ -1,8 +1,208 @@
 {
-  "generated_at": "2026-08-10T19:59:37Z",
+  "generated_at": "2026-08-10T20:38:45Z",
   "window_days": 90,
-  "count": 1027,
+  "count": 1032,
   "items": [
+    {
+      "id": "gdelt-61d57726a0a56752",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Commissioners will take up data center moratorium",
+      "source_domain": "thetimesnews.com",
+      "source_name": "thetimesnews.com",
+      "url": "https://thetimesnews.com/news/local/commissioners-will-take-up-data-center-moratorium/article_07e0db5c-781e-5db2-8acd-5f2997d12fa1.html",
+      "date": "2026-08-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-10 20:38:44",
+      "url_hash": "61d57726a0a56752",
+      "content_hash": "c261e16eea6367b3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-10T20:38:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7e36741b51640e41",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Trump criticizes Abbott moratorium on Texas data centers connecting to power grid",
+      "source_domain": "kcby.com",
+      "source_name": "kcby.com",
+      "url": "https://kcby.com/news/nation-world/trump-criticizes-abbott-moratorium-on-texas-data-centers-connecting-to-power-grid",
+      "date": "2026-08-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-10 20:38:44",
+      "url_hash": "7e36741b51640e41",
+      "content_hash": "eae8e4371d2b5e61",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-10T20:38:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-51d3016df21b6954",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Charlestown Considers Banning Data Centers , Battery Storage Facilities",
+      "source_domain": "ecori.org",
+      "source_name": "ecori.org",
+      "url": "https://ecori.org/charlestown-considers-banning-data-centers-battery-storage-facilities",
+      "date": "2026-08-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-10 20:38:44",
+      "url_hash": "51d3016df21b6954",
+      "content_hash": "24dd61eb1d4fc044",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-10T20:38:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7225f307b4f23799",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "Temple , Texas Data Center Project Heads To Planning And Zoning In August",
+      "source_domain": "us105fm.com",
+      "source_name": "us105fm.com",
+      "url": "https://us105fm.com/temple-texas-data-center-plans",
+      "date": "2026-08-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-10 20:38:44",
+      "url_hash": "7225f307b4f23799",
+      "content_hash": "3041a7c8825e2cb0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-10T20:38:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-2e5617fc12fd3562",
+      "state": "OH",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Trenton data center fight heads to Ohio Supreme Court after ballot measure rejected",
+      "source_domain": "journal-news.com",
+      "source_name": "journal-news.com",
+      "url": "https://journal-news.com/local/trenton-data-center-fight-heads-to-ohio-supreme-court-after-ballot-measure-rejected/article_c076c156-df90-5ab2-83aa-eb4eeb126514.html",
+      "date": "2026-08-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-10 20:38:44",
+      "url_hash": "2e5617fc12fd3562",
+      "content_hash": "56be681c23cf157e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-10T20:38:44Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-7f38d6d08e64b948",
       "state": "US",
@@ -30,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-10T19:12:23Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +270,7 @@
         "rss-dcd"
       ],
       "snippet": "Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -111,7 +311,7 @@
         "rss-utilitydive"
       ],
       "snippet": "&ldquo;I'd like to see the queues culled, at the end of the day,&rdquo; said Vistra CEO Jim Burke in a second quarter earnings call.",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -150,7 +350,7 @@
         "rss-dcd"
       ],
       "snippet": "Revitalization Unlimited has hoped to demolish former newspaper building",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +389,7 @@
         "rss-dcd"
       ],
       "snippet": "Developer will instead pursue residential development",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -348,7 +548,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Texas Public Utility Commission has scheduled a special open meeting to discuss 765-kV transmission lines and data centers, both of which have faced increasing public opposition. The post Texas PUC Special Session Tackles 765-kV, Data Center Issues appeared first on RTO Insider .",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -830,7 +1030,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-10T19:12:23Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -990,7 +1190,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Executives at parent company Sempra said they support the governor's pause on new data center interconnection approvals, citing a need for durable long-term outcomes amid growing public opposition.",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1069,7 +1269,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-07T23:21:43Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1229,7 +1429,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2851,7 +3051,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2969,7 +3169,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4322,7 +4522,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8075,7 +8275,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9151,7 +9351,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11588,7 +11788,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -26574,7 +26774,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-10T19:59:36Z",
+      "last_seen": "2026-08-10T20:38:44Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40952,6 +41152,37 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 46,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 24,
+        "protested": 20,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 45,
+        "legal": 1
+      },
+      "latest_date": "2026-08-10"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 20,
+      "total_engagement": 0,
+      "categories": {
+        "cancelled": 3,
+        "protested": 8,
+        "banned": 7,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 20
+      },
+      "latest_date": "2026-08-10"
+    },
     "AL": {
       "state": "AL",
       "count": 4,
@@ -40962,22 +41193,6 @@
       },
       "platforms": {
         "news": 4
-      },
-      "latest_date": "2026-08-10"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 44,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 23,
-        "protested": 19,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 43,
-        "legal": 1
       },
       "latest_date": "2026-08-10"
     },
@@ -41020,21 +41235,6 @@
       },
       "platforms": {
         "news": 9
-      },
-      "latest_date": "2026-08-08"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 19,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 8,
-        "banned": 7,
-        "cancelled": 2,
-        "announced": 2
-      },
-      "platforms": {
-        "news": 19
       },
       "latest_date": "2026-08-08"
     },

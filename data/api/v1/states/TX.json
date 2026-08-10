@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-10T19:59:37Z",
+  "generated_at": "2026-08-10T20:38:45Z",
   "risk_score": {
-    "score": 64.6,
-    "tier": 33.1,
+    "score": 64.8,
+    "tier": 33.3,
     "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.1,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 35.4,
+    "score": 35.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 5,
+    "moratoriums": 6,
     "approvals": 3,
-    "denials": 27,
+    "denials": 28,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,24 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 67,
+  "count": 69,
   "tier_counts": {
-    "restrictive": 51,
+    "restrictive": 53,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 34,
+    "pending": 35,
     "mixed": 3,
     "loss": 3,
-    "win": 27
+    "win": 28
   },
   "scope_counts": {
-    "local": 58,
+    "local": 60,
     "statewide": 9
   },
   "issue_top": {
-    "grid_energy": 16,
+    "grid_energy": 17,
     "community_impact": 11,
     "water": 9,
     "farmland": 8,
@@ -98,6 +98,24 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://utilitydive.com/news/vistra-texas-data-center-pause-comanche-amazon-earnings/827434"
+    },
+    {
+      "id": "news:gdelt-7225f307b4f23799-tx",
+      "date": "2026-08-10",
+      "jurisdiction": "us105fm.com",
+      "title": "Temple , Texas Data Center Project Heads To Planning And Zoning In August",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://us105fm.com/temple-texas-data-center-plans"
+    },
+    {
+      "id": "news:gdelt-7e36741b51640e41-tx",
+      "date": "2026-08-10",
+      "jurisdiction": "kcby.com",
+      "title": "Trump criticizes Abbott moratorium on Texas data centers connecting to power grid",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kcby.com/news/nation-world/trump-criticizes-abbott-moratorium-on-texas-data-centers-connecting-to-power-grid"
     },
     {
       "id": "news:rss-rto-insider-c505163a7b1e2734-tx",
@@ -161,24 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://utilitydive.com/news/nrg-nears-12-gw-hyperscaler-deal-amid-texas-data-center-pause/827212"
-    },
-    {
-      "id": "news:rss-utilitydive-db5bdab8a1bd8678-tx",
-      "date": "2026-08-06",
-      "jurisdiction": "Utility Dive - Latest News",
-      "title": "Texas data center pause puts 20% of US pipeline at risk of delay: BNEF. The longer the moratorium stays in place, the greater the risk to Te",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://utilitydive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827185"
-    },
-    {
-      "id": "news:rss-rto-insider-3bb26619e0495e8f-tx",
-      "date": "2026-08-05",
-      "jurisdiction": "RTO Insider",
-      "title": "Texas Gov. Abbott Halts ERCOT Batch Studies Process. Texas Gov. Greg Abbott has directed ERCOT and the Public Utility Commission to conduct ",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://rtoinsider.com/138282-texas-gov-abbott-pauses-ercot-batch-process"
     }
   ]
 }

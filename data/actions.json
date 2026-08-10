@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T19:59:37Z",
-  "count": 1717,
+  "generated_at": "2026-08-10T20:38:45Z",
+  "count": 1722,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -60,6 +60,235 @@
       "data_source": "news",
       "last_updated": "2026-08-10T04:25:02Z",
       "first_seen": "2026-08-10T04:25:02Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-2e5617fc12fd3562-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "journal-news.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Trenton data center fight heads to Ohio Supreme Court after ballot measure rejected",
+      "sources": [
+        "https://journal-news.com/local/trenton-data-center-fight-heads-to-ohio-supreme-court-after-ballot-measure-rejected/article_c076c156-df90-5ab2-83aa-eb4eeb126514.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T20:38:44Z",
+      "first_seen": "2026-08-10T20:38:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-51d3016df21b6954-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ecori.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Charlestown Considers Banning Data Centers , Battery Storage Facilities",
+      "sources": [
+        "https://ecori.org/charlestown-considers-banning-data-centers-battery-storage-facilities"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T20:38:44Z",
+      "first_seen": "2026-08-10T20:38:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-61d57726a0a56752-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "thetimesnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Commissioners will take up data center moratorium",
+      "sources": [
+        "https://thetimesnews.com/news/local/commissioners-will-take-up-data-center-moratorium/article_07e0db5c-781e-5db2-8acd-5f2997d12fa1.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T20:38:44Z",
+      "first_seen": "2026-08-10T20:38:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-7225f307b4f23799-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "us105fm.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Temple , Texas Data Center Project Heads To Planning And Zoning In August",
+      "sources": [
+        "https://us105fm.com/temple-texas-data-center-plans"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T20:38:44Z",
+      "first_seen": "2026-08-10T20:38:45Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-7e36741b51640e41-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "kcby.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Trump criticizes Abbott moratorium on Texas data centers connecting to power grid",
+      "sources": [
+        "https://kcby.com/news/nation-world/trump-criticizes-abbott-moratorium-on-texas-data-centers-connecting-to-power-grid"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T20:38:44Z",
+      "first_seen": "2026-08-10T20:38:45Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -79554,21 +79783,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 967,
+      "count": 969,
       "outcome_counts": {
-        "pending": 551,
-        "win": 390,
+        "pending": 552,
+        "win": 391,
         "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 941,
+        "restrictive": 943,
         "protective": 0,
         "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 953,
+        "local": 955,
         "statewide": 7,
         "federal": 7
       },
@@ -79641,26 +79870,26 @@
     },
     "TX": {
       "state": "TX",
-      "count": 67,
+      "count": 69,
       "outcome_counts": {
-        "pending": 34,
-        "win": 27,
+        "pending": 35,
+        "win": 28,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 51,
+        "restrictive": 53,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 58,
+        "local": 60,
         "statewide": 9,
         "federal": 0
       },
       "issue_top": {
-        "grid_energy": 16,
+        "grid_energy": 17,
         "community_impact": 11,
         "water": 9
       },
@@ -79698,21 +79927,21 @@
     },
     "OH": {
       "state": "OH",
-      "count": 36,
+      "count": 37,
       "outcome_counts": {
         "pending": 20,
-        "win": 14,
+        "win": 15,
         "loss": 2,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 28,
+        "restrictive": 29,
         "protective": 0,
         "supportive": 2,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 31,
+        "local": 32,
         "statewide": 5,
         "federal": 0
       },
@@ -79721,7 +79950,7 @@
         "grid_energy": 5,
         "ratepayer": 5
       },
-      "latest_date": "2026-08-08",
+      "latest_date": "2026-08-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

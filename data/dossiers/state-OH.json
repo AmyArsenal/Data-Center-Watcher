@@ -1,44 +1,44 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-10T19:59:37Z",
+  "generated_at": "2026-08-10T20:38:45Z",
   "risk_score": {
-    "score": 57.7,
-    "tier": 33.1,
+    "score": 58.6,
+    "tier": 33.3,
     "engagement": 6.2,
-    "recency": 13.4,
+    "recency": 14.1,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 42.3,
+    "score": 41.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 7,
     "approvals": 2,
-    "denials": 14,
+    "denials": 15,
     "lawsuits": 1,
-    "blocked": 2,
+    "blocked": 3,
     "active_companies": 0,
     "bills_introduced": 1,
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 36,
+  "count": 37,
   "tier_counts": {
-    "restrictive": 28,
+    "restrictive": 29,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
     "pending": 20,
-    "win": 14,
+    "win": 15,
     "loss": 2
   },
   "scope_counts": {
-    "local": 31,
+    "local": 32,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-08-08",
+  "latest": "2026-08-10",
   "top_citations": [
+    {
+      "id": "news:gdelt-2e5617fc12fd3562-oh",
+      "date": "2026-08-10",
+      "jurisdiction": "journal-news.com",
+      "title": "Trenton data center fight heads to Ohio Supreme Court after ballot measure rejected",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://journal-news.com/local/trenton-data-center-fight-heads-to-ohio-supreme-court-after-ballot-measure-rejected/article_c076c156-df90-5ab2-83aa-eb4eeb126514.html"
+    },
     {
       "id": "news:gdelt-7b1857b54832f6d8-oh",
       "date": "2026-08-08",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition"
-    },
-    {
-      "id": "news:rss-dcd-8aa294c5cae2b934-oh",
-      "date": "2026-06-23",
-      "jurisdiction": "DCD",
-      "title": "Thor Equities files lawsuit against Ohio's Urbana after data center moratorium disrupts project. Company was set to build a $1 billion data ",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/thor-equities-files-lawsuit-against-ohios-urbana-after-data-center-moratorium-disrupts-project"
     }
   ]
 }
