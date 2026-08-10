@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-10T15:35:02Z",
+  "generated_at": "2026-08-10T16:28:23Z",
   "risk_score": {
-    "score": 64.5,
-    "tier": 33.0,
+    "score": 64.6,
+    "tier": 33.1,
     "engagement": 6.3,
     "recency": 20.0,
-    "multi_source": 0.2,
+    "multi_source": 0.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 35.5,
+    "score": 35.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 3,
-    "denials": 26,
+    "denials": 27,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 66,
+  "count": 67,
   "tier_counts": {
-    "restrictive": 50,
+    "restrictive": 51,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 34,
     "mixed": 3,
     "loss": 3,
-    "win": 26
+    "win": 27
   },
   "scope_counts": {
-    "local": 57,
+    "local": 58,
     "statewide": 9
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-09",
+  "latest": "2026-08-10",
   "top_citations": [
+    {
+      "id": "news:rss-utilitydive-1d440895056bca42-tx",
+      "date": "2026-08-10",
+      "jurisdiction": "Utility Dive - Latest News",
+      "title": "Vistra supports Texas data center pause, execs say. &ldquo;I'd like to see the queues culled, at the end of the day,&rdquo; said Vistra CEO ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://utilitydive.com/news/vistra-texas-data-center-pause-comanche-amazon-earnings/827434"
+    },
     {
       "id": "news:rss-rto-insider-c505163a7b1e2734-tx",
       "date": "2026-08-09",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/138282-texas-gov-abbott-pauses-ercot-batch-process"
-    },
-    {
-      "id": "news:rss-utilitydive-c82bc80d5f59a48d-tx",
-      "date": "2026-08-05",
-      "jurisdiction": "Utility Dive - Latest News",
-      "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers. Texas Gov. Greg Abbott has called for an audit of ",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046"
     }
   ]
 }

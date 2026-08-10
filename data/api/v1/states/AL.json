@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AL",
-  "generated_at": "2026-08-10T15:35:02Z",
+  "generated_at": "2026-08-10T16:28:23Z",
   "risk_score": {
-    "score": 60.2,
-    "tier": 26.0,
-    "engagement": 8.3,
-    "recency": 17.6,
-    "multi_source": 3.3,
+    "score": 63.9,
+    "tier": 28.0,
+    "engagement": 8.0,
+    "recency": 20.0,
+    "multi_source": 2.9,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 39.8,
+    "score": 36.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 0,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 1
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "unclear": 2,
     "null": 1,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
-    "win": 4,
+    "win": 5,
     "pending": 2
   },
   "scope_counts": {
     "statewide": 4,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "tax_incentive": 1,
@@ -47,8 +47,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-17",
-  "latest": "2026-07-31",
+  "latest": "2026-08-10",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-681c298b6b48b71c-al",
+      "date": "2026-08-10",
+      "jurisdiction": "DCD",
+      "title": "Alabama city considers data center moratorium, could kill Edged project. Edged aiming to build 8MW facility at site of former 911 data cente",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project"
+    },
     {
       "id": "news:rss-rto-insider-bf88c4a864083edc-al",
       "date": "2026-07-31",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T15:35:02Z",
-  "count": 1714,
+  "generated_at": "2026-08-10T16:28:23Z",
+  "count": 1716,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -111,6 +111,51 @@
       "tier_reason": "cancelled"
     },
     {
+      "id": "news:rss-dcd-681c298b6b48b71c-al",
+      "origin": "news",
+      "state": "AL",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Alabama city considers data center moratorium, could kill Edged project. Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T16:28:22Z",
+      "first_seen": "2026-08-10T16:28:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:rss-dcd-f87ab45dc51aee75-ga",
       "origin": "news",
       "state": "GA",
@@ -154,6 +199,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-1d440895056bca42-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Vistra supports Texas data center pause, execs say. &ldquo;I'd like to see the queues culled, at the end of the day,&rdquo; said Vistra CEO Jim Burke in a second quarter earnings call",
+      "sources": [
+        "https://utilitydive.com/news/vistra-texas-data-center-pause-comanche-amazon-earnings/827434"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T16:28:22Z",
+      "first_seen": "2026-08-10T16:28:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-1fdf23de95312e2f-us",
@@ -79506,21 +79596,21 @@
     },
     "TX": {
       "state": "TX",
-      "count": 66,
+      "count": 67,
       "outcome_counts": {
         "pending": 34,
-        "win": 26,
+        "win": 27,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 50,
+        "restrictive": 51,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 57,
+        "local": 58,
         "statewide": 9,
         "federal": 0
       },
@@ -79529,9 +79619,37 @@
         "community_impact": 11,
         "water": 9
       },
-      "latest_date": "2026-08-09",
+      "latest_date": "2026-08-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "AL": {
+      "state": "AL",
+      "count": 7,
+      "outcome_counts": {
+        "pending": 2,
+        "win": 5,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 4,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 2
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 4,
+        "federal": 0
+      },
+      "issue_top": {
+        "ratepayer": 1,
+        "tax_incentive": 1
+      },
+      "latest_date": "2026-08-10",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "OH": {
       "state": "OH",
@@ -79878,34 +79996,6 @@
         "environmental": 1
       },
       "latest_date": "2026-08-01",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "AL": {
-      "state": "AL",
-      "count": 6,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 4,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 3,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 2
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 4,
-        "federal": 0
-      },
-      "issue_top": {
-        "ratepayer": 1,
-        "tax_incentive": 1
-      },
-      "latest_date": "2026-07-31",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
