@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-08-10T21:24:04Z",
+  "generated_at": "2026-08-10T22:03:12Z",
   "risk_score": {
-    "score": 62.7,
-    "tier": 29.1,
+    "score": 63.3,
+    "tier": 29.9,
     "engagement": 7.1,
     "recency": 20.0,
-    "multi_source": 1.4,
+    "multi_source": 1.3,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 37.3,
+    "score": 36.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 1,
-    "denials": 7,
+    "denials": 8,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 14,
+  "count": 15,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 9,
+    "restrictive": 10,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 6,
-    "win": 7,
+    "win": 8,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 8
+    "local": 9
   },
   "issue_top": {
     "community_impact": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-08-08",
+  "latest": "2026-08-10",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-2f0c6e63271a46db-or",
+      "date": "2026-08-10",
+      "jurisdiction": "RTO Insider",
+      "title": "Kotek Supports Local Pauses on Data Center Development in Oregon. Oregon Gov. Tina Kotek (D) is backing efforts by local governments to halt",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://rtoinsider.com/138786-oregon-gov-kotek-supports-local-pauses-data-center-development"
+    },
     {
       "id": "news:gdelt-f1aecc72d642c3c3-or",
       "date": "2026-08-08",
@@ -139,15 +148,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/boxminer-plans-20mw-crypto-data-center-in-la-pine-oregon"
-    },
-    {
-      "id": "news:rss-rto-insider-c8d6d02ffc503815-or",
-      "date": "2026-05-08",
-      "jurisdiction": "RTO Insider",
-      "title": "Oregon PUC Approves New Data Center Rate Class for PGE Customers. The Oregon Public Utility Commission issued an order requiring Portland Ge",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://rtoinsider.com/131735-oregon-puc-approves-data-center-rate-class-pge"
     }
   ]
 }
