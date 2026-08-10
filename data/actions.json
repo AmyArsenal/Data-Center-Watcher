@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T18:09:22Z",
-  "count": 1716,
+  "generated_at": "2026-08-10T19:12:24Z",
+  "count": 1717,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-7f38d6d08e64b948-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "techtimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Banks Hit Concentration Limits , Sending Data Center Debt to Pension Funds",
+      "sources": [
+        "https://techtimes.com/articles/323718/20260810/banks-hit-concentration-limits-sending-data-center-debt-pension-funds.htm"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-10T19:12:23Z",
+      "first_seen": "2026-08-10T19:12:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:rss-dcd-2f310ed92e36fa37-mo",
@@ -79509,21 +79554,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 966,
+      "count": 967,
       "outcome_counts": {
-        "pending": 550,
+        "pending": 551,
         "win": 390,
         "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 940,
+        "restrictive": 941,
         "protective": 0,
         "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 952,
+        "local": 953,
         "statewide": 7,
         "federal": 7
       },
