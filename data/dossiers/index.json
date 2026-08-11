@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-11T00:45:52Z",
+  "generated_at": "2026-08-11T02:56:31Z",
   "states": [
     {
       "state": "AK",
@@ -508,16 +508,16 @@
     },
     {
       "state": "OR",
-      "count": 15,
-      "risk_score": 63.3,
+      "count": 16,
+      "risk_score": 63.8,
       "grade": "D",
-      "grade_score": 36.7,
-      "moratoriums": 3,
+      "grade_score": 36.2,
+      "moratoriums": 4,
       "approvals": 1,
-      "denials": 8,
+      "denials": 9,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-08-10",
+      "latest": "2026-08-11",
       "url": "data/dossiers/state-OR.json"
     },
     {

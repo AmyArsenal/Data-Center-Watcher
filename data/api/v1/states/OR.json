@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-08-11T00:45:52Z",
+  "generated_at": "2026-08-11T02:56:31Z",
   "risk_score": {
-    "score": 63.3,
-    "tier": 29.9,
-    "engagement": 7.1,
+    "score": 63.8,
+    "tier": 30.5,
+    "engagement": 7.0,
     "recency": 20.0,
-    "multi_source": 1.3,
+    "multi_source": 1.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 36.7,
+    "score": 36.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 1,
-    "denials": 8,
+    "denials": 9,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 15,
+  "count": 16,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 10,
+    "restrictive": 11,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 6,
-    "win": 8,
+    "win": 9,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 9
+    "local": 10
   },
   "issue_top": {
     "community_impact": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-08-10",
+  "latest": "2026-08-11",
   "top_citations": [
+    {
+      "id": "news:gdelt-38b95e2906d54853-or",
+      "date": "2026-08-11",
+      "jurisdiction": "dmnews.com",
+      "title": "Clackamas County weighs data center moratorium after Oregon hikes large - user rates 29 . 7 % and cuts residential bills 1 . 3 %",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dmnews.com/dmn-r-clackamas-county-weighs-data-center-moratorium-after-oregon-hikes-large-user-rates-29-7-and-cuts-residential-bills-1-3"
+    },
     {
       "id": "news:rss-rto-insider-2f0c6e63271a46db-or",
       "date": "2026-08-10",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://rtoinsider.com/134135-oregon-puc-pauses-pge-data-center-rate-hikes"
-    },
-    {
-      "id": "news:rss-dcd-693e970181f8c143-or",
-      "date": "2026-05-25",
-      "jurisdiction": "DCD",
-      "title": "Boxminer plans 20MW crypto data center in La Pine, Oregon. Residents up in arms about proposal",
-      "tier": "supportive",
-      "outcome": "loss",
-      "url": "https://datacenterdynamics.com/en/news/boxminer-plans-20mw-crypto-data-center-in-la-pine-oregon"
     }
   ]
 }
