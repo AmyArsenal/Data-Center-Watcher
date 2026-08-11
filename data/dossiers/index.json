@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-11T21:47:17Z",
+  "generated_at": "2026-08-11T22:28:30Z",
   "states": [
     {
       "state": "AK",
@@ -200,13 +200,13 @@
     },
     {
       "state": "IN",
-      "count": 15,
-      "risk_score": 53.9,
+      "count": 16,
+      "risk_score": 56.2,
       "grade": "D",
-      "grade_score": 46.1,
-      "moratoriums": 3,
+      "grade_score": 43.8,
+      "moratoriums": 4,
       "approvals": 1,
-      "denials": 6,
+      "denials": 7,
       "lawsuits": 1,
       "active_companies": 3,
       "latest": "2026-08-11",
@@ -382,16 +382,16 @@
     },
     {
       "state": "ND",
-      "count": 1,
-      "risk_score": 27.2,
+      "count": 2,
+      "risk_score": 57.2,
       "grade": "N/A",
       "grade_score": null,
-      "moratoriums": 0,
+      "moratoriums": 1,
       "approvals": 1,
-      "denials": 0,
+      "denials": 1,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2025-09-02",
+      "latest": "2026-08-11",
       "url": "data/dossiers/state-ND.json"
     },
     {

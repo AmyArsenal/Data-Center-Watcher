@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ND",
-  "generated_at": "2026-08-11T21:47:17Z",
+  "generated_at": "2026-08-11T22:28:30Z",
   "risk_score": {
-    "score": 27.2,
-    "tier": 12.0,
+    "score": 57.2,
+    "tier": 26.0,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
@@ -16,9 +16,9 @@
     "label": "Insufficient data"
   },
   "quantified": {
-    "moratoriums": 0,
+    "moratoriums": 1,
     "approvals": 1,
-    "denials": 0,
+    "denials": 1,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,21 +26,24 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 1,
+  "count": 2,
   "tier_counts": {
-    "null": 1
+    "null": 1,
+    "restrictive": 1
   },
   "outcome_counts": {
-    "loss": 1
+    "loss": 1,
+    "win": 1
   },
   "scope_counts": {
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "water": 1,
     "grid_energy": 1,
     "noise": 1,
-    "community_impact": 1
+    "community_impact": 1,
+    "transparency": 1
   },
   "companies": [
     [
@@ -50,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-09-02",
-  "latest": "2025-09-02",
+  "latest": "2026-08-11",
   "top_citations": [
+    {
+      "id": "news:gdelt-c6fb9340bc86fe06-nd",
+      "date": "2026-08-11",
+      "jurisdiction": "grandforksherald.com",
+      "title": "North Dakota lawmaker eyes data center transparency , temporary moratorium for special session",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://grandforksherald.com/news/north-dakota/north-dakota-lawmaker-eyes-data-center-transparency-temporary-moratorium-for-special-session"
+    },
     {
       "id": "research:nd-harwood-city-council-20250902-harwood-planning-and-zoning-board-recommended-and",
       "date": "2025-09-02",
