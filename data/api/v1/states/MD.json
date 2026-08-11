@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MD",
-  "generated_at": "2026-08-11T18:13:26Z",
+  "generated_at": "2026-08-11T19:18:22Z",
   "risk_score": {
-    "score": 45.7,
-    "tier": 17.5,
-    "engagement": 9.9,
-    "recency": 7.4,
-    "multi_source": 5.9,
+    "score": 47.2,
+    "tier": 18.3,
+    "engagement": 9.8,
+    "recency": 8.5,
+    "multi_source": 5.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 54.3,
+    "score": 52.8,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,26 +26,26 @@
     "bills_passed": 4,
     "bills_enacted": 3
   },
-  "count": 29,
+  "count": 30,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "unclear": 14,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
     "win": 10,
-    "pending": 17,
+    "pending": 18,
     "loss": 2
   },
   "scope_counts": {
-    "local": 7,
+    "local": 8,
     "statewide": 20,
     "federal": 2
   },
   "issue_top": {
     "grid_energy": 6,
-    "community_impact": 3,
+    "community_impact": 4,
     "transparency": 3,
     "zoning": 2,
     "environmental": 2,
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2020-02-07",
-  "latest": "2026-08-05",
+  "latest": "2026-08-11",
   "top_citations": [
+    {
+      "id": "news:rss-dck-cc507a04d0604936-md",
+      "date": "2026-08-11",
+      "jurisdiction": "datacenterknowledge",
+      "title": "AWS Data Center Withdrawal Signals Growing Political, Community Challenges. AWS cites infrastructure priorities for its Maryland data center",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+    },
     {
       "id": "news:rss-dcd-02eb669b5ab0b13e-md",
       "date": "2026-08-05",
@@ -143,15 +152,6 @@
       "tier": null,
       "outcome": "loss",
       "url": "https://thebaynet.com/calvert-county-strikes-down-data-center-moratorium-in-2-3-vote/"
-    },
-    {
-      "id": "research:md-frederick-county-data-center-referendum-committee-20260312-grassroots-frederick-county-data-center-referendum",
-      "date": "2026-03-12",
-      "jurisdiction": "Frederick County Data Center Referendum Committee",
-      "title": "Grassroots Frederick County Data Center Referendum Committee submitted more than 22,000 signatures to put the county council's 2,600-acre Cr",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.wypr.org/wypr-news/2026-03-12/frederick-county-group-wants-voters-to-decide-data-center-limits"
     }
   ]
 }

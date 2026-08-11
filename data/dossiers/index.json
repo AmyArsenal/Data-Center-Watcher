@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-11T18:13:26Z",
+  "generated_at": "2026-08-11T19:18:22Z",
   "states": [
     {
       "state": "AK",
@@ -270,16 +270,16 @@
     },
     {
       "state": "MD",
-      "count": 29,
-      "risk_score": 45.7,
+      "count": 30,
+      "risk_score": 47.2,
       "grade": "C",
-      "grade_score": 54.3,
+      "grade_score": 52.8,
       "moratoriums": 6,
       "approvals": 2,
       "denials": 10,
       "lawsuits": 0,
       "active_companies": 1,
-      "latest": "2026-08-05",
+      "latest": "2026-08-11",
       "url": "data/dossiers/state-MD.json"
     },
     {
