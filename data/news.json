@@ -1,8 +1,450 @@
 {
-  "generated_at": "2026-08-11T04:10:46Z",
+  "generated_at": "2026-08-11T05:19:47Z",
   "window_days": 90,
-  "count": 1013,
+  "count": 1024,
   "items": [
+    {
+      "id": "gdelt-b04f34e02cefaba5",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "City sued its own newspaper to hide Google data center drinking 29 % of the town water",
+      "source_domain": "investmentwatchblog.com",
+      "source_name": "investmentwatchblog.com",
+      "url": "https://investmentwatchblog.com/city-sued-its-own-newspaper-to-hide-google-data-center-drinking-29-of-the-towns-water",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Google"
+      ],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "b04f34e02cefaba5",
+      "content_hash": "172d6b9a24113ed6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6a8931c3b103f3c0",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Speaker offers Bowie County commissioners advice on stopping data centers",
+      "source_domain": "texarkanagazette.com",
+      "source_name": "texarkanagazette.com",
+      "url": "https://texarkanagazette.com/news/2026/aug/10/speaker-offers-bowie-county-commissioners-advice",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "6a8931c3b103f3c0",
+      "content_hash": "dd4cd944cd760b9a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1c86026ecec07511",
+      "state": "WI",
+      "city": null,
+      "category": "banned",
+      "headline": "Wisconsin Rapids planning commission votes to create moratorium on data centers",
+      "source_domain": "wsaw.com",
+      "source_name": "wsaw.com",
+      "url": "https://wsaw.com/2026/08/10/wisconsin-rapids-planning-commission-votes-create-moratorium-data-centers",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "1c86026ecec07511",
+      "content_hash": "c1f23c4c202a8a77",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-60b91f60a085ab81",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Loudoun , Spotsylvania counties consider data center bans",
+      "source_domain": "wjla.com",
+      "source_name": "wjla.com",
+      "url": "https://wjla.com/news/local/loudoun-spotsylvania-counties-consider-data-center-bans-virginia-glen-sturtevant-abigail-spanberger",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "60b91f60a085ab81",
+      "content_hash": "80c834a3f137fa64",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a3000570522681af",
+      "state": "IA",
+      "city": null,
+      "category": "protested",
+      "headline": "City Council visits data center site , talks to city officials in Altoona , Iowa",
+      "source_domain": "newspressnow.com",
+      "source_name": "newspressnow.com",
+      "url": "https://newspressnow.com/news/local_news/government/city-council-visits-data-center-site-talks-to-city-officials-in-altoona-iowa/article_1abf6fdc-0110-4932-896d-fbcc9f2296d5.html",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "a3000570522681af",
+      "content_hash": "114302e429e1e099",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-40f46d7fb183f089",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "$30M lawsuit claims DeKalb leaders approved building data center , then issued moratorium",
+      "source_domain": "wsbtv.com",
+      "source_name": "wsbtv.com",
+      "url": "https://wsbtv.com/news/local/dekalb-county/30m-lawsuit-claims-dekalb-leaders-approved-building-data-center-then-issued-moratorium/WWDME5LD65E7JOK5MSBJLHFR7M",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "40f46d7fb183f089",
+      "content_hash": "40810b5c9c3048cb",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.8999999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-abb98a129d41cbb3",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Prichard weighs blocking $93M Edged data center as residents demand answers on power and water",
+      "source_domain": "dmnews.com",
+      "source_name": "dmnews.com",
+      "url": "https://dmnews.com/dmn-r-prichard-weighs-blocking-93m-edged-data-center-as-residents-demand-answers-on-power-and-water",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "abb98a129d41cbb3",
+      "content_hash": "584d1d7ae24d291f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-2589ecab5c197e6a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Effingham residents , officials visit data centers - Statesboro Herald",
+      "source_domain": "statesboroherald.com",
+      "source_name": "statesboroherald.com",
+      "url": "https://statesboroherald.com/local/effingham-residents-officials-visit-data-centers",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "2589ecab5c197e6a",
+      "content_hash": "a85cb072aef05d38",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1e002905ee7740de",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Marshall data center moratorium delays development by at least one year",
+      "source_domain": "wwmt.com",
+      "source_name": "wwmt.com",
+      "url": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "1e002905ee7740de",
+      "content_hash": "ce25165f4f3c78c0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-83434c3cf3e5b9c6",
+      "state": "IN",
+      "city": null,
+      "category": "banned",
+      "headline": "Indianapolis data center moratorium put on hold",
+      "source_domain": "wishtv.com",
+      "source_name": "wishtv.com",
+      "url": "https://wishtv.com/news/politics/indianapolis-data-center-moratorium-put-on-hold-aug-10-2026",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "83434c3cf3e5b9c6",
+      "content_hash": "f46f60b4d9e8c263",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-875daf7dd02def21",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Brookwood data center proposal continues to raise transparency concerns among residents",
+      "source_domain": "wbrc.com",
+      "source_name": "wbrc.com",
+      "url": "https://wbrc.com/2026/08/11/brookwood-data-center-proposal-continues-raise-transparency-concerns-among-residents",
+      "date": "2026-08-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-11 05:19:47",
+      "url_hash": "875daf7dd02def21",
+      "content_hash": "45dc1dd7bdef8979",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-11T05:19:47Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-38b95e2906d54853",
       "state": "OR",
@@ -30,7 +472,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-11T02:56:30Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -70,7 +512,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-11T00:45:51Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -110,7 +552,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-11T00:45:51Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +752,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -349,7 +791,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Oregon Gov. Tina Kotek (D) is backing efforts by local governments to halt data center development, saying more needs to be done to prevent Oregonians from footing the bill. The post Kotek Supports Local Pauses on Data Center Development in Oregon appeared first on RTO Insider .",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -628,7 +1070,7 @@
         "rss-dcd"
       ],
       "snippet": "Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -669,7 +1111,7 @@
         "rss-utilitydive"
       ],
       "snippet": "&ldquo;I'd like to see the queues culled, at the end of the day,&rdquo; said Vistra CEO Jim Burke in a second quarter earnings call.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -708,7 +1150,7 @@
         "rss-dcd"
       ],
       "snippet": "Revitalization Unlimited has hoped to demolish former newspaper building",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -747,7 +1189,7 @@
         "rss-dcd"
       ],
       "snippet": "Developer will instead pursue residential development",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -906,7 +1348,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Texas Public Utility Commission has scheduled a special open meeting to discuss 765-kV transmission lines and data centers, both of which have faced increasing public opposition. The post Texas PUC Special Session Tackles 765-kV, Data Center Issues appeared first on RTO Insider .",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1548,7 +1990,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Executives at parent company Sempra said they support the governor's pause on new data center interconnection approvals, citing a need for durable long-term outcomes amid growing public opposition.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1787,7 +2229,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3409,7 +3851,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3527,7 +3969,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4880,7 +5322,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8633,7 +9075,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9709,7 +10151,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12146,7 +12588,7 @@
         "rss-dck"
       ],
       "snippet": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -27132,7 +27574,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-11T04:10:45Z",
+      "last_seen": "2026-08-11T05:19:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40393,6 +40835,45 @@
     }
   ],
   "by_state": {
+    "WI": {
+      "state": "WI",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 4,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-08-11"
+    },
+    "IA": {
+      "state": "IA",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 3
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-08-11"
+    },
+    "IN": {
+      "state": "IN",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 4,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-08-11"
+    },
     "OR": {
       "state": "OR",
       "count": 11,
@@ -40478,19 +40959,6 @@
         "news": 6
       },
       "latest_date": "2026-08-10"
-    },
-    "WI": {
-      "state": "WI",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 4,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-08-07"
     },
     "KY": {
       "state": "KY",
@@ -40784,19 +41252,6 @@
       },
       "latest_date": "2026-07-15"
     },
-    "IN": {
-      "state": "IN",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 3,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 4
-      },
-      "latest_date": "2026-07-14"
-    },
     "ID": {
       "state": "ID",
       "count": 1,
@@ -40821,18 +41276,6 @@
         "news": 4
       },
       "latest_date": "2026-07-02"
-    },
-    "IA": {
-      "state": "IA",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 2
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-06-29"
     },
     "FL": {
       "state": "FL",

@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-11T04:10:46Z",
+  "generated_at": "2026-08-11T05:19:48Z",
   "states": [
     {
       "state": "AK",
@@ -158,16 +158,16 @@
     },
     {
       "state": "IA",
-      "count": 4,
-      "risk_score": 40.9,
-      "grade": "N/A",
-      "grade_score": null,
+      "count": 5,
+      "risk_score": 50.0,
+      "grade": "C",
+      "grade_score": 50.0,
       "moratoriums": 1,
       "approvals": 0,
       "denials": 0,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-06-29",
+      "latest": "2026-08-11",
       "url": "data/dossiers/state-IA.json"
     },
     {
@@ -200,16 +200,16 @@
     },
     {
       "state": "IN",
-      "count": 13,
-      "risk_score": 51.2,
+      "count": 14,
+      "risk_score": 54.1,
       "grade": "D",
-      "grade_score": 48.8,
-      "moratoriums": 2,
+      "grade_score": 45.9,
+      "moratoriums": 3,
       "approvals": 0,
-      "denials": 5,
+      "denials": 6,
       "lawsuits": 1,
       "active_companies": 3,
-      "latest": "2026-07-14",
+      "latest": "2026-08-11",
       "url": "data/dossiers/state-IN.json"
     },
     {
@@ -662,16 +662,16 @@
     },
     {
       "state": "WI",
-      "count": 26,
-      "risk_score": 43.5,
+      "count": 27,
+      "risk_score": 45.3,
       "grade": "C",
-      "grade_score": 56.5,
-      "moratoriums": 5,
+      "grade_score": 54.7,
+      "moratoriums": 6,
       "approvals": 1,
-      "denials": 5,
+      "denials": 6,
       "lawsuits": 0,
       "active_companies": 4,
-      "latest": "2026-08-07",
+      "latest": "2026-08-11",
       "url": "data/dossiers/state-WI.json"
     },
     {

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "WI",
-  "generated_at": "2026-08-11T04:10:46Z",
+  "generated_at": "2026-08-11T05:19:48Z",
   "risk_score": {
-    "score": 43.5,
-    "tier": 16.3,
-    "engagement": 9.6,
-    "recency": 7.2,
-    "multi_source": 5.4,
+    "score": 45.3,
+    "tier": 17.2,
+    "engagement": 9.5,
+    "recency": 8.4,
+    "multi_source": 5.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 56.5,
+    "score": 54.7,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 5,
+    "moratoriums": 6,
     "approvals": 1,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 4,
@@ -26,20 +26,20 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 26,
+  "count": 27,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "unclear": 6,
     "supportive": 7,
     "null": 6
   },
   "outcome_counts": {
     "pending": 20,
-    "win": 5,
+    "win": 6,
     "loss": 1
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 17
   },
   "issue_top": {
@@ -72,8 +72,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2023-05-24",
-  "latest": "2026-08-07",
+  "latest": "2026-08-11",
   "top_citations": [
+    {
+      "id": "news:gdelt-1c86026ecec07511-wi",
+      "date": "2026-08-11",
+      "jurisdiction": "wsaw.com",
+      "title": "Wisconsin Rapids planning commission votes to create moratorium on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wsaw.com/2026/08/10/wisconsin-rapids-planning-commission-votes-create-moratorium-data-centers"
+    },
     {
       "id": "news:gdelt-37de0c786a0285e1-wi",
       "date": "2026-08-07",
@@ -154,15 +163,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.wpr.org/news/manitowoc-county-committee-recommends-moratorium-data-center-permitting"
-    },
-    {
-      "id": "openstates:ocd-bill-d0f21623-70d2-4cc1-86b1-4b1f0f05d530-wi",
-      "date": "2026-03-13",
-      "jurisdiction": "WI Legislature",
-      "title": "Relating to: moratorium on data centers.",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1099"
     }
   ]
 }

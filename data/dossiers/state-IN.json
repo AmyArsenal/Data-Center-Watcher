@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-08-11T04:10:46Z",
+  "generated_at": "2026-08-11T05:19:48Z",
   "risk_score": {
-    "score": 51.2,
-    "tier": 29.2,
+    "score": 54.1,
+    "tier": 30.0,
     "engagement": 6.2,
-    "recency": 10.8,
+    "recency": 12.9,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.8,
+    "score": 45.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 0,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 3,
@@ -26,18 +26,18 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
-    "restrictive": 8,
+    "restrictive": 9,
     "null": 5
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 5,
+    "win": 6,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 11,
+    "local": 12,
     "statewide": 2
   },
   "issue_top": {
@@ -66,8 +66,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-01",
-  "latest": "2026-07-14",
+  "latest": "2026-08-11",
   "top_citations": [
+    {
+      "id": "news:gdelt-83434c3cf3e5b9c6-in",
+      "date": "2026-08-11",
+      "jurisdiction": "wishtv.com",
+      "title": "Indianapolis data center moratorium put on hold",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wishtv.com/news/politics/indianapolis-data-center-moratorium-put-on-hold-aug-10-2026"
+    },
     {
       "id": "news:gdelt-019fdad675b23824-in",
       "date": "2026-07-14",
@@ -148,15 +157,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://reddit.com/r/Indiana/comments/1ssys9h/im_an_indystar_business_reporter_digging_in_on"
-    },
-    {
-      "id": "research:in-marion-superior-court-5-20260417-seven-decatur-township-residents-filed-petition-fo",
-      "date": "2026-04-17",
-      "jurisdiction": "Marion Superior Court 5",
-      "title": "Seven Decatur Township residents filed petition for judicial review of Indianapolis Metropolitan Development Commission's March 18 decision ",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
     }
   ]
 }
