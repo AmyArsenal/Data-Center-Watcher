@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T10:30:29Z",
-  "count": 1743,
+  "generated_at": "2026-08-11T11:18:25Z",
+  "count": 1744,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -431,6 +431,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a04724d7ba42407d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "newstribune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-08-11",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center hearing canceled ; Rally at Capitol takes its place | Jefferson City News Tribune",
+      "sources": [
+        "https://newstribune.com/news/2026/aug/11/data-center-hearing-canceled-rally-at-capitol"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-11T11:18:24Z",
+      "first_seen": "2026-08-11T11:18:24Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-a3000570522681af-ia",
@@ -80739,21 +80784,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 984,
+      "count": 985,
       "outcome_counts": {
         "pending": 558,
-        "win": 400,
+        "win": 401,
         "loss": 26,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 958,
+        "restrictive": 959,
         "protective": 0,
         "supportive": 26,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 970,
+        "local": 971,
         "statewide": 7,
         "federal": 7
       },
