@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-12T22:36:20Z",
+  "generated_at": "2026-08-12T23:21:16Z",
   "states": [
     {
       "state": "AK",
@@ -620,10 +620,10 @@
     },
     {
       "state": "VA",
-      "count": 53,
-      "risk_score": 52.5,
+      "count": 54,
+      "risk_score": 53.2,
       "grade": "D",
-      "grade_score": 47.5,
+      "grade_score": 46.8,
       "moratoriums": 4,
       "approvals": 4,
       "denials": 20,

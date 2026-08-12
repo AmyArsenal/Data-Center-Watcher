@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-08-12T22:36:20Z",
+  "generated_at": "2026-08-12T23:21:16Z",
   "risk_score": {
-    "score": 52.5,
-    "tier": 23.1,
-    "engagement": 9.1,
-    "recency": 10.8,
-    "multi_source": 4.5,
+    "score": 53.2,
+    "tier": 23.4,
+    "engagement": 9.0,
+    "recency": 11.3,
+    "multi_source": 4.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.5,
+    "score": 46.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 53,
+  "count": 54,
   "tier_counts": {
-    "restrictive": 21,
+    "restrictive": 22,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 20,
-    "pending": 27,
+    "pending": 28,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 28,
+    "local": 29,
     "statewide": 25
   },
   "issue_top": {
@@ -80,6 +80,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wvtf.org/news/2026-08-12/does-virginia-need-a-moratorium-on-data-center-construction-and-development"
+    },
+    {
+      "id": "news:rss-rto-insider-ac4096443efb39d7-va",
+      "date": "2026-08-12",
+      "jurisdiction": "RTO Insider",
+      "title": "Va. Data Center Ride-through Performance Faulted for July Voltage Disturbance. PJM is considering stronger requirements around when large lo",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/138974-va-data-center-ride-through-performance-faulted-july-voltage-disturbance"
     },
     {
       "id": "news:rss-rto-insider-612e6ddd6144a282-va",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wset.com/news/local/richmond-protesters-urge-virginia-to-halt-new-data-center-approvals-statewide-botetourt-county-google-july-2026"
-    },
-    {
-      "id": "news:rss-dcd-9b5dc45477d5c574-va",
-      "date": "2026-07-09",
-      "jurisdiction": "DCD",
-      "title": "$520 million in asset-backed securities issued, secured by Virginia data center. Site managed by data center operator and investment managem",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/520-million-in-asset-backed-securities-issued-secured-by-virginia-data-center"
     }
   ]
 }
