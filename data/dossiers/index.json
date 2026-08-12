@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-12T15:34:06Z",
+  "generated_at": "2026-08-12T16:32:16Z",
   "states": [
     {
       "state": "AK",
@@ -438,16 +438,16 @@
     },
     {
       "state": "NM",
-      "count": 7,
-      "risk_score": 50.8,
+      "count": 8,
+      "risk_score": 54.2,
       "grade": "D",
-      "grade_score": 49.2,
-      "moratoriums": 2,
+      "grade_score": 45.8,
+      "moratoriums": 3,
       "approvals": 1,
-      "denials": 4,
+      "denials": 5,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-20",
+      "latest": "2026-08-12",
       "url": "data/dossiers/state-NM.json"
     },
     {
@@ -620,16 +620,16 @@
     },
     {
       "state": "VA",
-      "count": 52,
-      "risk_score": 51.7,
+      "count": 53,
+      "risk_score": 52.5,
       "grade": "D",
-      "grade_score": 48.3,
-      "moratoriums": 3,
+      "grade_score": 47.5,
+      "moratoriums": 4,
       "approvals": 4,
-      "denials": 19,
+      "denials": 20,
       "lawsuits": 3,
       "active_companies": 3,
-      "latest": "2026-08-04",
+      "latest": "2026-08-12",
       "url": "data/dossiers/state-VA.json"
     },
     {

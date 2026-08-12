@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NM",
-  "generated_at": "2026-08-12T15:34:06Z",
+  "generated_at": "2026-08-12T16:32:16Z",
   "risk_score": {
-    "score": 50.8,
-    "tier": 26.3,
+    "score": 54.2,
+    "tier": 28.0,
     "engagement": 6.2,
-    "recency": 18.3,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.2,
+    "score": 45.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 2,
+    "moratoriums": 3,
     "approvals": 1,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 1,
     "blocked": 2,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "null": 2,
     "supportive": 1,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
     "pending": 2,
     "loss": 1,
-    "win": 4
+    "win": 5
   },
   "scope_counts": {
     "statewide": 1,
     "federal": 1,
-    "local": 5
+    "local": 6
   },
   "issue_top": {
     "environmental": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-14",
-  "latest": "2026-07-20",
+  "latest": "2026-08-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-642e4da85d58d5b8-nm",
+      "date": "2026-08-12",
+      "jurisdiction": "kunm.org",
+      "title": "WED : New Mexico Democratic lawmakers discuss possibilities for proposed statewide data center moratorium , + More",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kunm.org/kunm-news-update/2026-08-12/wed-new-mexico-democratic-lawmakers-discuss-possibilities-for-proposed-statewide-data-center-moratorium-more"
+    },
     {
       "id": "news:rss-dcd-effbdfc74898c398-nm",
       "date": "2026-07-20",

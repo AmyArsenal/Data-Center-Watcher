@@ -1,8 +1,167 @@
 {
-  "generated_at": "2026-08-12T15:34:06Z",
+  "generated_at": "2026-08-12T16:32:16Z",
   "window_days": 90,
-  "count": 1009,
+  "count": 1013,
   "items": [
+    {
+      "id": "gdelt-892e011841aeb6e5",
+      "state": "VA",
+      "city": null,
+      "category": "banned",
+      "headline": "Does Virginia need a moratorium on data center construction and development ?",
+      "source_domain": "wvtf.org",
+      "source_name": "wvtf.org",
+      "url": "https://wvtf.org/news/2026-08-12/does-virginia-need-a-moratorium-on-data-center-construction-and-development",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 16:32:15",
+      "url_hash": "892e011841aeb6e5",
+      "content_hash": "a89e5c62cf560d90",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T16:32:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-642e4da85d58d5b8",
+      "state": "NM",
+      "city": null,
+      "category": "banned",
+      "headline": "WED : New Mexico Democratic lawmakers discuss possibilities for proposed statewide data center moratorium , + More",
+      "source_domain": "kunm.org",
+      "source_name": "kunm.org",
+      "url": "https://kunm.org/kunm-news-update/2026-08-12/wed-new-mexico-democratic-lawmakers-discuss-possibilities-for-proposed-statewide-data-center-moratorium-more",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 16:32:15",
+      "url_hash": "642e4da85d58d5b8",
+      "content_hash": "b0d9259bfd9e6917",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T16:32:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-1fd1d958fd8f6190",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Wixom city council takes steps to regulate data centers",
+      "source_domain": "wxyz.com",
+      "source_name": "wxyz.com",
+      "url": "https://wxyz.com/news/data-centers/wixom-city-council-takes-steps-to-regulate-data-centers-as-6-month-moratorium-nears-end",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 16:32:15",
+      "url_hash": "1fd1d958fd8f6190",
+      "content_hash": "e74f0819e02970bf",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T16:32:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-dcf2e478f4721385",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 16:32:15",
+      "url_hash": "dcf2e478f4721385",
+      "content_hash": "9a157d49e69a0426",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "24 illegal workers arrested at the site in the Ban Chang District",
+      "last_seen": "2026-08-12T16:32:15Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-9a8ac2ef0558bafe",
       "state": "TX",
@@ -30,7 +189,7 @@
         "rss-dcd"
       ],
       "snippet": "Governor initiated a pause in interconnections earlier this month",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +228,7 @@
         "rss-dcd"
       ],
       "snippet": "Proposal called for rezoning of a 500-acre property",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -108,7 +267,7 @@
         "rss-dcd"
       ],
       "snippet": "120-day moratorium aims to give the city time to re-evaluate its data center stance",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -669,7 +828,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1548,7 +1707,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1907,7 +2066,7 @@
         "rss-utilitydive"
       ],
       "snippet": "&ldquo;I'd like to see the queues culled, at the end of the day,&rdquo; said Vistra CEO Jim Burke in a second quarter earnings call.",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3025,7 +3184,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4647,7 +4806,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4765,7 +4924,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6118,7 +6277,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9871,7 +10030,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10947,7 +11106,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -28370,7 +28529,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-12T15:34:05Z",
+      "last_seen": "2026-08-12T16:32:15Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40235,6 +40394,34 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 16,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 4,
+        "protested": 10,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 16
+      },
+      "latest_date": "2026-08-12"
+    },
+    "NM": {
+      "state": "NM",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 3,
+        "cancelled": 2,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-08-12"
+    },
     "TX": {
       "state": "TX",
       "count": 44,
@@ -40465,20 +40652,6 @@
       },
       "latest_date": "2026-08-04"
     },
-    "VA": {
-      "state": "VA",
-      "count": 15,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 10,
-        "banned": 3,
-        "announced": 2
-      },
-      "platforms": {
-        "news": 15
-      },
-      "latest_date": "2026-08-04"
-    },
     "MI": {
       "state": "MI",
       "count": 11,
@@ -40587,20 +40760,6 @@
         "news": 1
       },
       "latest_date": "2026-07-22"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "cancelled": 2,
-        "banned": 2,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-07-20"
     },
     "WY": {
       "state": "WY",

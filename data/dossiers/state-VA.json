@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-08-12T15:34:06Z",
+  "generated_at": "2026-08-12T16:32:16Z",
   "risk_score": {
-    "score": 51.7,
-    "tier": 22.8,
+    "score": 52.5,
+    "tier": 23.1,
     "engagement": 9.1,
-    "recency": 10.2,
-    "multi_source": 4.6,
+    "recency": 10.8,
+    "multi_source": 4.5,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.3,
+    "score": 47.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 4,
-    "denials": 19,
+    "denials": 20,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,22 +26,22 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 52,
+  "count": 53,
   "tier_counts": {
-    "restrictive": 20,
+    "restrictive": 21,
     "unclear": 15,
     "protective": 3,
     "null": 11,
     "supportive": 3
   },
   "outcome_counts": {
-    "win": 19,
+    "win": 20,
     "pending": 27,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 27,
+    "local": 28,
     "statewide": 25
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-08-04",
+  "latest": "2026-08-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-892e011841aeb6e5-va",
+      "date": "2026-08-12",
+      "jurisdiction": "wvtf.org",
+      "title": "Does Virginia need a moratorium on data center construction and development ?",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wvtf.org/news/2026-08-12/does-virginia-need-a-moratorium-on-data-center-construction-and-development"
+    },
     {
       "id": "news:rss-rto-insider-612e6ddd6144a282-va",
       "date": "2026-08-04",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/520-million-in-asset-backed-securities-issued-secured-by-virginia-data-center"
-    },
-    {
-      "id": "news:rss-dck-cb14c617a2c32896-va",
-      "date": "2026-07-09",
-      "jurisdiction": "datacenterknowledge",
-      "title": "Can Growing Community Backlash Quiet the AI Data Center Boom?. Local opposition groups surged to 430 from 76 since 2025, while recent Virgin",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterknowledge.com/data-center-site-selection/can-growing-community-backlash-quiet-the-ai-data-center-boom-"
     }
   ]
 }
