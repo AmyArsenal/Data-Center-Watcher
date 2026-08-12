@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-12T11:27:28Z",
+  "generated_at": "2026-08-12T12:06:01Z",
   "risk_score": {
-    "score": 64.8,
-    "tier": 33.3,
+    "score": 64.9,
+    "tier": 33.4,
     "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.1,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 35.2,
+    "score": 35.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 6,
     "approvals": 3,
-    "denials": 28,
+    "denials": 29,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 69,
+  "count": 70,
   "tier_counts": {
-    "restrictive": 53,
+    "restrictive": 54,
     "null": 15,
     "supportive": 1
   },
@@ -36,14 +36,14 @@
     "pending": 35,
     "mixed": 3,
     "loss": 3,
-    "win": 28
+    "win": 29
   },
   "scope_counts": {
     "local": 60,
-    "statewide": 9
+    "statewide": 10
   },
   "issue_top": {
-    "grid_energy": 17,
+    "grid_energy": 18,
     "community_impact": 11,
     "water": 9,
     "farmland": 8,
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-10",
+  "latest": "2026-08-12",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-9a8ac2ef0558bafe-tx",
+      "date": "2026-08-12",
+      "jurisdiction": "DCD",
+      "title": "Bloomberg NEF: Texas grid pause puts 20 percent of US data center pipeline at risk. Governor initiated a pause in interconnections earlier t",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk"
+    },
     {
       "id": "news:rss-utilitydive-1d440895056bca42-tx",
       "date": "2026-08-10",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas"
-    },
-    {
-      "id": "news:rss-utilitydive-43321bd1783e51f5-tx",
-      "date": "2026-08-06",
-      "jurisdiction": "Utility Dive - Latest News",
-      "title": "NRG nears 1.2-GW hyperscaler deal amid Texas data center pause. President and CEO Robert Gaudette said NRG&rsquo;s approach to delivering cu",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://utilitydive.com/news/nrg-nears-12-gw-hyperscaler-deal-amid-texas-data-center-pause/827212"
     }
   ]
 }

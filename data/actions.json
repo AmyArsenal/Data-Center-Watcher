@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T11:27:28Z",
-  "count": 1761,
+  "generated_at": "2026-08-12T12:06:01Z",
+  "count": 1762,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -66,6 +66,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-9a8ac2ef0558bafe-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Bloomberg NEF: Texas grid pause puts 20 percent of US data center pipeline at risk. Governor initiated a pause in interconnections earlier this month",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-12T12:06:00Z",
+      "first_seen": "2026-08-12T12:06:00Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-dcd-f9700ae1a98bb18f-or",
@@ -81611,6 +81658,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "TX": {
+      "state": "TX",
+      "count": 70,
+      "outcome_counts": {
+        "pending": 35,
+        "win": 29,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 54,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 60,
+        "statewide": 10,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 18,
+        "community_impact": 11,
+        "water": 9
+      },
+      "latest_date": "2026-08-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
       "count": 997,
@@ -81809,35 +81885,6 @@
         "community_impact": 7,
         "water": 4,
         "environmental": 3
-      },
-      "latest_date": "2026-08-10",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 69,
-      "outcome_counts": {
-        "pending": 35,
-        "win": 28,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 53,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 60,
-        "statewide": 9,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 17,
-        "community_impact": 11,
-        "water": 9
       },
       "latest_date": "2026-08-10",
       "map_color_tier": "restrictive",
