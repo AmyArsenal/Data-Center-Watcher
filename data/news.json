@@ -1,8 +1,208 @@
 {
-  "generated_at": "2026-08-12T20:22:32Z",
+  "generated_at": "2026-08-12T21:09:37Z",
   "window_days": 90,
-  "count": 1013,
+  "count": 1018,
   "items": [
+    {
+      "id": "gdelt-4abb14eaef465eac",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Tazewell County land use panel eyes strict industrial zoning for future data centers",
+      "source_domain": "933thedrive.com",
+      "source_name": "933thedrive.com",
+      "url": "https://933thedrive.com/2026/08/12/tazewell-county-land-use-panel-eyes-strict-industrial-zoning-for-future-data-centers",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 21:09:36",
+      "url_hash": "4abb14eaef465eac",
+      "content_hash": "0a9d7b5004136cd7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T21:09:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0baeff386bd80f7b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Clinton City Council to begin its public deliberations on data center ordinance on Sept . 1",
+      "source_domain": "clintonherald.com",
+      "source_name": "clintonherald.com",
+      "url": "https://clintonherald.com/news/local_news/clinton-city-council-to-begin-its-public-deliberations-on-data-center-ordinance-on-sept-1/article_646d44bd-3cee-4631-ace2-e1dd24b1e39d.html",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 21:09:36",
+      "url_hash": "0baeff386bd80f7b",
+      "content_hash": "4ffb718f66d2d68c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T21:09:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-51595ea7e378b1fb",
+      "state": "AR",
+      "city": null,
+      "category": "protested",
+      "headline": "Outside of Little Rock , Arkansas counties and cities move ahead on data center moratoriums",
+      "source_domain": "ualrpublicradio.org",
+      "source_name": "ualrpublicradio.org",
+      "url": "https://ualrpublicradio.org/local-regional-news/2026-08-12/outside-of-little-rock-arkansas-counties-and-cities-move-ahead-on-data-center-moratoriums",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 21:09:36",
+      "url_hash": "51595ea7e378b1fb",
+      "content_hash": "cb151fd06cadd9d8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T21:09:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-79242da0fedf6550",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Coachella City Council to consider permanent ban on data centers",
+      "source_domain": "kesq.com",
+      "source_name": "kesq.com",
+      "url": "https://kesq.com/news/2026/08/12/coachella-city-council-to-consider-permanent-ban-on-data-centers",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 21:09:36",
+      "url_hash": "79242da0fedf6550",
+      "content_hash": "b84f5fdffff50b81",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T21:09:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a78ba3aa53cbd32c",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Commissioners approve ban on data centers",
+      "source_domain": "dailyrecordnews.com",
+      "source_name": "dailyrecordnews.com",
+      "url": "http://dailyrecordnews.com/news/commissioners-approve-ban-on-data-centers/article_f748f50c-8759-4b25-9c2b-d87aa04a5942.html",
+      "date": "2026-08-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-12 21:09:36",
+      "url_hash": "a78ba3aa53cbd32c",
+      "content_hash": "58ead08ce6dea2ba",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-12T21:09:36Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-892e011841aeb6e5",
       "state": "VA",
@@ -150,7 +350,7 @@
         "rss-dcd"
       ],
       "snippet": "24 illegal workers arrested at the site in the Ban Chang District",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +389,7 @@
         "rss-dcd"
       ],
       "snippet": "Governor initiated a pause in interconnections earlier this month",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -228,7 +428,7 @@
         "rss-dcd"
       ],
       "snippet": "Proposal called for rezoning of a 500-acre property",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -267,7 +467,7 @@
         "rss-dcd"
       ],
       "snippet": "120-day moratorium aims to give the city time to re-evaluate its data center stance",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -828,7 +1028,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1707,7 +1907,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3184,7 +3384,7 @@
         "rss-latitude"
       ],
       "snippet": "As more states pause data centers, how will they use the opportunity to pass energy policy? The post Data centers have a Texas-sized energy problem appeared first on Latitude Media .",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4806,7 +5006,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4924,7 +5124,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6277,7 +6477,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10030,7 +10230,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11106,7 +11306,7 @@
         "rss-dck"
       ],
       "snippet": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -28529,7 +28729,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-12T20:22:31Z",
+      "last_seen": "2026-08-12T21:09:36Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40394,6 +40594,19 @@
     }
   ],
   "by_state": {
+    "AR": {
+      "state": "AR",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 5
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-08-12"
+    },
     "VA": {
       "state": "VA",
       "count": 16,
@@ -40584,19 +40797,6 @@
       },
       "platforms": {
         "news": 5
-      },
-      "latest_date": "2026-08-07"
-    },
-    "AR": {
-      "state": "AR",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 5,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 6
       },
       "latest_date": "2026-08-07"
     },

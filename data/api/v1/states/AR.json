@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AR",
-  "generated_at": "2026-08-12T20:22:32Z",
+  "generated_at": "2026-08-12T21:09:37Z",
   "risk_score": {
-    "score": 55.2,
-    "tier": 25.0,
-    "engagement": 8.9,
-    "recency": 12.2,
-    "multi_source": 4.2,
+    "score": 58.0,
+    "tier": 26.2,
+    "engagement": 8.7,
+    "recency": 14.4,
+    "multi_source": 3.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.8,
+    "score": 42.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
     "unclear": 4,
     "supportive": 1,
     "null": 1,
-    "restrictive": 6
+    "restrictive": 7
   },
   "outcome_counts": {
-    "pending": 5,
+    "pending": 6,
     "win": 6,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 6
+    "local": 7
   },
   "issue_top": {
     "tax_incentive": 2,
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-12-13",
-  "latest": "2026-08-07",
+  "latest": "2026-08-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-51595ea7e378b1fb-ar",
+      "date": "2026-08-12",
+      "jurisdiction": "ualrpublicradio.org",
+      "title": "Outside of Little Rock , Arkansas counties and cities move ahead on data center moratoriums",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://ualrpublicradio.org/local-regional-news/2026-08-12/outside-of-little-rock-arkansas-counties-and-cities-move-ahead-on-data-center-moratoriums"
+    },
     {
       "id": "news:gdelt-8be32d763c0a6ad3-ar",
       "date": "2026-08-07",
@@ -133,15 +142,6 @@
       "tier": null,
       "outcome": "loss",
       "url": "https://www.salestaxinstitute.com/resources/arkansas-data-center-tax-exemption-expansion-2025"
-    },
-    {
-      "id": "openstates:ocd-bill-272a4d6a-c291-47d9-982e-e335d0589403-ar",
-      "date": "2025-02-10",
-      "jurisdiction": "AR Legislature",
-      "title": "TO AMEND THE SALES AND USE TAX EXEMPTION FOR DATA CENTERS.",
-      "tier": "supportive",
-      "outcome": "win",
-      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt"
     }
   ]
 }

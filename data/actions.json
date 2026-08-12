@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T20:22:32Z",
-  "count": 1766,
+  "generated_at": "2026-08-12T21:09:37Z",
+  "count": 1771,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-0baeff386bd80f7b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "clintonherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Clinton City Council to begin its public deliberations on data center ordinance on Sept . 1",
+      "sources": [
+        "https://clintonherald.com/news/local_news/clinton-city-council-to-begin-its-public-deliberations-on-data-center-ordinance-on-sept-1/article_646d44bd-3cee-4631-ace2-e1dd24b1e39d.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-12T21:09:36Z",
+      "first_seen": "2026-08-12T21:09:36Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-1fd1d958fd8f6190-us",
       "origin": "news",
@@ -60,6 +105,98 @@
       "data_source": "news",
       "last_updated": "2026-08-12T16:32:15Z",
       "first_seen": "2026-08-12T16:32:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-4abb14eaef465eac-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "933thedrive.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Tazewell County land use panel eyes strict industrial zoning for future data centers",
+      "sources": [
+        "https://933thedrive.com/2026/08/12/tazewell-county-land-use-panel-eyes-strict-industrial-zoning-for-future-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-12T21:09:36Z",
+      "first_seen": "2026-08-12T21:09:36Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-51595ea7e378b1fb-ar",
+      "origin": "news",
+      "state": "AR",
+      "county": null,
+      "jurisdiction": "ualrpublicradio.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-12",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Outside of Little Rock , Arkansas counties and cities move ahead on data center moratoriums",
+      "sources": [
+        "https://ualrpublicradio.org/local-regional-news/2026-08-12/outside-of-little-rock-arkansas-counties-and-cities-move-ahead-on-data-center-moratoriums"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-12T21:09:36Z",
+      "first_seen": "2026-08-12T21:09:36Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -111,6 +248,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-79242da0fedf6550-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kesq.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Coachella City Council to consider permanent ban on data centers",
+      "sources": [
+        "https://kesq.com/news/2026/08/12/coachella-city-council-to-consider-permanent-ban-on-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-12T21:09:36Z",
+      "first_seen": "2026-08-12T21:09:36Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-892e011841aeb6e5-va",
       "origin": "news",
       "state": "VA",
@@ -150,6 +332,51 @@
       "data_source": "news",
       "last_updated": "2026-08-12T16:32:15Z",
       "first_seen": "2026-08-12T16:32:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-a78ba3aa53cbd32c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "dailyrecordnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-12",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Commissioners approve ban on data centers",
+      "sources": [
+        "http://dailyrecordnews.com/news/commissioners-approve-ban-on-data-centers/article_f748f50c-8759-4b25-9c2b-d87aa04a5942.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-12T21:09:36Z",
+      "first_seen": "2026-08-12T21:09:36Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -81869,27 +82096,27 @@
     },
     "US": {
       "state": "US",
-      "count": 999,
+      "count": 1003,
       "outcome_counts": {
-        "pending": 564,
-        "win": 408,
+        "pending": 566,
+        "win": 410,
         "loss": 27,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 972,
+        "restrictive": 976,
         "protective": 0,
         "supportive": 27,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 985,
+        "local": 989,
         "statewide": 7,
         "federal": 7
       },
       "issue_top": {
         "community_impact": 193,
-        "zoning": 79,
+        "zoning": 80,
         "grid_energy": 20
       },
       "latest_date": "2026-08-12",
@@ -81949,6 +82176,35 @@
         "community_impact": 10,
         "zoning": 10,
         "water": 7
+      },
+      "latest_date": "2026-08-12",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "AR": {
+      "state": "AR",
+      "count": 13,
+      "outcome_counts": {
+        "pending": 6,
+        "win": 6,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "tax_incentive": 2,
+        "community_impact": 1,
+        "environmental": 1
       },
       "latest_date": "2026-08-12",
       "map_color_tier": "restrictive",
@@ -82182,35 +82438,6 @@
         "ratepayer": 5
       },
       "latest_date": "2026-08-10",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "AR": {
-      "state": "AR",
-      "count": 12,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 6,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 6,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 6,
-        "federal": 0
-      },
-      "issue_top": {
-        "tax_incentive": 2,
-        "community_impact": 1,
-        "environmental": 1
-      },
-      "latest_date": "2026-08-07",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
