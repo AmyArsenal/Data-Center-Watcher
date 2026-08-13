@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-13T13:41:10Z",
+  "generated_at": "2026-08-13T15:35:39Z",
   "risk_score": {
-    "score": 64.9,
-    "tier": 33.4,
+    "score": 65.0,
+    "tier": 33.5,
     "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.1,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "D",
-    "score": 35.1,
+    "score": 35.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 6,
+    "moratoriums": 7,
     "approvals": 3,
-    "denials": 29,
+    "denials": 30,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 70,
+  "count": 71,
   "tier_counts": {
-    "restrictive": 54,
+    "restrictive": 55,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 35,
     "mixed": 3,
     "loss": 3,
-    "win": 29
+    "win": 30
   },
   "scope_counts": {
-    "local": 60,
+    "local": 61,
     "statewide": 10
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-12",
+  "latest": "2026-08-13",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-11f8e767c86e8e6e-tx",
+      "date": "2026-08-13",
+      "jurisdiction": "DCD",
+      "title": "City council in Fort Worth, Texas, issues temporary data center moratorium. During which time new regulations may be developed, though won’t",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/city-council-in-fort-worth-texas-issues-temporary-data-center-moratorium"
+    },
     {
       "id": "news:rss-dcd-9a8ac2ef0558bafe-tx",
       "date": "2026-08-12",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303"
-    },
-    {
-      "id": "news:rss-dcd-2b0aca9e3d8708f4-tx",
-      "date": "2026-08-06",
-      "jurisdiction": "DCD",
-      "title": "Unnamed developer withdraws data center in Brownsville, Texas. But details about project are sparse",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas"
     }
   ]
 }

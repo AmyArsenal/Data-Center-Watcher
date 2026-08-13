@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T13:41:10Z",
-  "count": 1786,
+  "generated_at": "2026-08-13T15:35:38Z",
+  "count": 1787,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -380,6 +380,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:rss-dcd-11f8e767c86e8e6e-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-13",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "City council in Fort Worth, Texas, issues temporary data center moratorium. During which time new regulations may be developed, though won’t come into force until next year",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/city-council-in-fort-worth-texas-issues-temporary-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-13T15:35:37Z",
+      "first_seen": "2026-08-13T15:35:38Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:rss-dcd-ac8eff8ee2e63dfe-us",
@@ -82716,6 +82761,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "TX": {
+      "state": "TX",
+      "count": 71,
+      "outcome_counts": {
+        "pending": 35,
+        "win": 30,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 55,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 61,
+        "statewide": 10,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 18,
+        "community_impact": 11,
+        "water": 9
+      },
+      "latest_date": "2026-08-13",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OR": {
       "state": "OR",
       "count": 17,
@@ -82769,35 +82843,6 @@
         "community_impact": 6,
         "transparency": 3,
         "zoning": 3
-      },
-      "latest_date": "2026-08-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 70,
-      "outcome_counts": {
-        "pending": 35,
-        "win": 29,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 54,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 60,
-        "statewide": 10,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 18,
-        "community_impact": 11,
-        "water": 9
       },
       "latest_date": "2026-08-12",
       "map_color_tier": "restrictive",
