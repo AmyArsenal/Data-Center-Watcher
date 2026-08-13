@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T10:44:08Z",
-  "count": 1785,
+  "generated_at": "2026-08-13T11:27:23Z",
+  "count": 1786,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -380,6 +380,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:rss-dcd-ac8eff8ee2e63dfe-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-13",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Centuria Capital Group and ResetData sign 7MW capacity agreement with CDC Data Centres, secures $165m bridge facility with Macquarie Bank. GPUs for initial CDC deployment have been ordered, companies said",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/centuria-capital-group-and-resetdata-sign-7mw-capacity-agreement-with-cdc-data-centres-secures-165m-bridge-facility-with-macquarie-bank"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-13T11:27:22Z",
+      "first_seen": "2026-08-13T11:27:23Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-0baeff386bd80f7b-us",
@@ -82644,21 +82689,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1016,
+      "count": 1017,
       "outcome_counts": {
-        "pending": 571,
+        "pending": 572,
         "win": 418,
         "loss": 27,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 989,
+        "restrictive": 990,
         "protective": 0,
         "supportive": 27,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1002,
+        "local": 1003,
         "statewide": 7,
         "federal": 7
       },
