@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T14:35:31Z",
-  "count": 1793,
+  "generated_at": "2026-08-14T15:27:09Z",
+  "count": 1794,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -65,6 +65,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-0a10ea6f797ec5b6-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center-related threats made against local authorities in Marshall, Michigan. Death threat comes two weeks after city votes to approve one-year moratorium",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/data-center-related-threats-made-against-local-authorities-in-marshall-michigan"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-14T15:27:08Z",
+      "first_seen": "2026-08-14T15:27:09Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-33a59c30b8ad300c-us",
@@ -83035,6 +83080,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },
+    "MI": {
+      "state": "MI",
+      "count": 21,
+      "outcome_counts": {
+        "pending": 11,
+        "win": 10,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 18,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 19,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "noise": 2,
+        "environmental": 1
+      },
+      "latest_date": "2026-08-14",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
       "count": 1021,
@@ -83613,35 +83687,6 @@
       "latest_date": "2026-08-04",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 20,
-      "outcome_counts": {
-        "pending": 10,
-        "win": 10,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 17,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 18,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "noise": 2,
-        "environmental": 1
-      },
-      "latest_date": "2026-08-01",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "MN": {
       "state": "MN",
