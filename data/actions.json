@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T12:03:05Z",
-  "count": 1792,
+  "generated_at": "2026-08-14T13:36:17Z",
+  "count": 1793,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,52 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-f5c43ac2455f6b5f-fl",
+      "origin": "news",
+      "state": "FL",
+      "county": null,
+      "jurisdiction": "dmnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium",
+        "study_or_report"
+      ],
+      "authority_level": "voters",
+      "date": "2026-08-14",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Volusia County , Florida just directed staff to draft a six - month moratorium on AI data centers while Edgewater inside the same county moved a permanent voter ban to the November ballot , splitting one county between a proposed study pause and a po...",
+      "sources": [
+        "https://dmnews.com/dmn-r-volusia-county-florida-just-directed-staff-to-draft-a-six-month-moratorium-on-ai-data-centers-while-edgewater-inside-the-same-county-moved-a-permanent-voter-ban-to-the-november-ballot-splittin"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-14T13:36:16Z",
+      "first_seen": "2026-08-14T13:36:17Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-33a59c30b8ad300c-us",
       "origin": "news",
@@ -82960,6 +83006,35 @@
     }
   ],
   "by_state": {
+    "FL": {
+      "state": "FL",
+      "count": 15,
+      "outcome_counts": {
+        "pending": 8,
+        "win": 7,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 9,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 10,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "water": 3,
+        "grid_energy": 2,
+        "ratepayer": 2
+      },
+      "latest_date": "2026-08-14",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "US": {
       "state": "US",
       "count": 1021,
@@ -84002,35 +84077,6 @@
       "latest_date": "2026-06-30",
       "map_color_tier": null,
       "map_color_outcome": "loss"
-    },
-    "FL": {
-      "state": "FL",
-      "count": 14,
-      "outcome_counts": {
-        "pending": 8,
-        "win": 6,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 8,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 9,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "water": 3,
-        "grid_energy": 2,
-        "ratepayer": 2
-      },
-      "latest_date": "2026-06-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "SC": {
       "state": "SC",

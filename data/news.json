@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-14T12:03:05Z",
+  "generated_at": "2026-08-14T13:36:17Z",
   "window_days": 90,
-  "count": 1008,
+  "count": 1009,
   "items": [
+    {
+      "id": "gdelt-f5c43ac2455f6b5f",
+      "state": "FL",
+      "city": null,
+      "category": "banned",
+      "headline": "Volusia County , Florida just directed staff to draft a six - month moratorium on AI data centers while Edgewater inside the same county moved a permanent voter ban to the November ballot , splitting one county between a proposed study pause and a po...",
+      "source_domain": "dmnews.com",
+      "source_name": "dmnews.com",
+      "url": "https://dmnews.com/dmn-r-volusia-county-florida-just-directed-staff-to-draft-a-six-month-moratorium-on-ai-data-centers-while-edgewater-inside-the-same-county-moved-a-permanent-voter-ban-to-the-november-ballot-splittin",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 13:36:16",
+      "url_hash": "f5c43ac2455f6b5f",
+      "content_hash": "e68f91137d8df5b1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T13:36:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.78,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-rto-insider-07e85b2f1ebb36a3",
       "state": "NM",
@@ -30,7 +70,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Growing nationwide public opposition to the proliferation of hyperscale data centers is forcing Big Tech companies to look at unconventional areas to site the computational facilities needed to power the booming artificial intelligence industry. The post Permian Basin in Texas, New Mexico Could be Next Data Center Hot Spot appeared first on RTO Insider .",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1864,7 +1904,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2743,7 +2783,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5842,7 +5882,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5960,7 +6000,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7313,7 +7353,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11066,7 +11106,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29565,7 +29605,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-14T12:03:04Z",
+      "last_seen": "2026-08-14T13:36:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40196,6 +40236,19 @@
     }
   ],
   "by_state": {
+    "FL": {
+      "state": "FL",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 5,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-08-14"
+    },
     "NM": {
       "state": "NM",
       "count": 7,
@@ -40649,19 +40702,6 @@
         "news": 3
       },
       "latest_date": "2026-07-02"
-    },
-    "FL": {
-      "state": "FL",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 2,
-        "banned": 4
-      },
-      "platforms": {
-        "news": 6
-      },
-      "latest_date": "2026-06-25"
     },
     "SC": {
       "state": "SC",

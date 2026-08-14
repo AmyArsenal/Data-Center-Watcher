@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "FL",
-  "generated_at": "2026-08-14T12:03:05Z",
+  "generated_at": "2026-08-14T13:36:17Z",
   "risk_score": {
-    "score": 46.9,
-    "tier": 28.0,
-    "engagement": 8.0,
-    "recency": 8.0,
-    "multi_source": 2.9,
+    "score": 49.5,
+    "tier": 28.8,
+    "engagement": 7.9,
+    "recency": 10.1,
+    "multi_source": 2.7,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 53.1,
+    "score": 50.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 0,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 14,
+  "count": 15,
   "tier_counts": {
     "unclear": 4,
     "null": 2,
-    "restrictive": 8
+    "restrictive": 9
   },
   "outcome_counts": {
     "pending": 8,
-    "win": 6
+    "win": 7
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 9
+    "local": 10
   },
   "issue_top": {
     "water": 3,
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-05",
-  "latest": "2026-06-25",
+  "latest": "2026-08-14",
   "top_citations": [
+    {
+      "id": "news:gdelt-f5c43ac2455f6b5f-fl",
+      "date": "2026-08-14",
+      "jurisdiction": "dmnews.com",
+      "title": "Volusia County , Florida just directed staff to draft a six - month moratorium on AI data centers while Edgewater inside the same county mov",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dmnews.com/dmn-r-volusia-county-florida-just-directed-staff-to-draft-a-six-month-moratorium-on-ai-data-centers-while-edgewater-inside-the-same-county-moved-a-permanent-voter-ban-to-the-november-ballot-splittin"
+    },
     {
       "id": "news:rss-dcd-fb56dc24afbf0871-fl",
       "date": "2026-06-25",
@@ -134,15 +143,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.fernandinaobserver.org/stories/next-60-days-critical-as-nassau-county-considers-data-center-moratorium,103276"
-    },
-    {
-      "id": "research:fl-florida-legislature-gov-desantis-20260201-florida-senate-passed-legislation-regulating-ai-da",
-      "date": "2026-02-01",
-      "jurisdiction": "Florida Legislature / Gov. DeSantis",
-      "title": "Florida Senate passed legislation regulating AI data centers' energy and water usage, taking effect July 1, 2026. Requires public utilities ",
-      "tier": null,
-      "outcome": "win",
-      "url": "https://www.flsenate.gov/Session/Bill/2026/1007"
     }
   ]
 }
