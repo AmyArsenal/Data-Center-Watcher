@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-08-14T22:56:38Z",
+  "generated_at": "2026-08-14T23:12:10Z",
   "risk_score": {
-    "score": 52.7,
-    "tier": 23.4,
+    "score": 53.4,
+    "tier": 23.7,
     "engagement": 9.0,
-    "recency": 10.8,
+    "recency": 11.4,
     "multi_source": 4.4,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.3,
+    "score": 46.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 4,
-    "denials": 20,
+    "denials": 21,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,22 +26,22 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 54,
+  "count": 55,
   "tier_counts": {
-    "restrictive": 22,
+    "restrictive": 23,
     "unclear": 15,
     "protective": 3,
     "null": 11,
     "supportive": 3
   },
   "outcome_counts": {
-    "win": 20,
+    "win": 21,
     "pending": 28,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 29,
+    "local": 30,
     "statewide": 25
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-08-12",
+  "latest": "2026-08-14",
   "top_citations": [
+    {
+      "id": "news:gdelt-e793626b8b51acfc-va",
+      "date": "2026-08-14",
+      "jurisdiction": "pilotonline.com",
+      "title": "Virginia Beach weighs a 1 - year moratorium on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://pilotonline.com/2026/08/14/virginia-beach-weighing-data-center-moratorium"
+    },
     {
       "id": "news:gdelt-892e011841aeb6e5-va",
       "date": "2026-08-12",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://henricocitizen.com/henricoans-among-nearly-200-at-capitol-bell-tower-rally-demanding-virginia-leaders-rein-in-data-center-growth"
-    },
-    {
-      "id": "news:gdelt-83ba1d67bc88ebc4-va",
-      "date": "2026-07-12",
-      "jurisdiction": "wset.com",
-      "title": "Richmond protesters urge Virginia to halt new data center approvals statewide",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wset.com/news/local/richmond-protesters-urge-virginia-to-halt-new-data-center-approvals-statewide-botetourt-county-google-july-2026"
     }
   ]
 }
