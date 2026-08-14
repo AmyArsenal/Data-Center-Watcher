@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-14T16:12:22Z",
+  "generated_at": "2026-08-14T17:08:56Z",
   "risk_score": {
-    "score": 65.0,
-    "tier": 33.5,
+    "score": 65.1,
+    "tier": 33.6,
     "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.1,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "D",
-    "score": 35.0,
-    "label": "Opposition frequently succeeds"
+    "letter": "F",
+    "score": 34.9,
+    "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
-    "moratoriums": 7,
+    "moratoriums": 8,
     "approvals": 3,
-    "denials": 30,
+    "denials": 31,
     "lawsuits": 3,
     "blocked": 3,
     "active_companies": 8,
@@ -26,9 +26,9 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 71,
+  "count": 72,
   "tier_counts": {
-    "restrictive": 55,
+    "restrictive": 56,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 35,
     "mixed": 3,
     "loss": 3,
-    "win": 30
+    "win": 31
   },
   "scope_counts": {
-    "local": 61,
+    "local": 62,
     "statewide": 10
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-13",
+  "latest": "2026-08-14",
   "top_citations": [
+    {
+      "id": "news:gdelt-039f875b5c837cdd-tx",
+      "date": "2026-08-14",
+      "jurisdiction": "investors.com",
+      "title": "Texas Data Center Moratorium : Key Meeting Friday ; Watch These S & P 500 Stocks",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://investors.com/news/texas-data-center-moratorium-puc-meeting-sp-500-stocks"
+    },
     {
       "id": "news:rss-dcd-11f8e767c86e8e6e-tx",
       "date": "2026-08-13",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://constructiondive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827255"
-    },
-    {
-      "id": "news:rss-utilitydive-0ad0d131f42d762e-tx",
-      "date": "2026-08-07",
-      "jurisdiction": "Utility Dive - Latest News",
-      "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline. Executives at parent company Sempra said they support the go",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303"
     }
   ]
 }

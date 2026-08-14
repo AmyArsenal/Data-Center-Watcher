@@ -1,7 +1,16 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-08-14T16:12:22Z",
+  "generated_at": "2026-08-14T17:08:56Z",
   "counties": [
+    {
+      "county_fips": "04013",
+      "county_name": "Maricopa County",
+      "state": "AZ",
+      "count": 1,
+      "risk_score": 66.2,
+      "latest": "2026-08-14",
+      "url": "data/dossiers/county-04013.json"
+    },
     {
       "county_fips": "13215",
       "county_name": "Muscogee County",

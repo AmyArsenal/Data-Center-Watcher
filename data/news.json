@@ -1,8 +1,368 @@
 {
-  "generated_at": "2026-08-14T16:12:22Z",
+  "generated_at": "2026-08-14T17:08:56Z",
   "window_days": 90,
-  "count": 1011,
+  "count": 1020,
   "items": [
+    {
+      "id": "gdelt-83cb53420c663183",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Buffalo Township implements 180 - day data center moratorium",
+      "source_domain": "butlereagle.com",
+      "source_name": "butlereagle.com",
+      "url": "https://butlereagle.com/20260814/buffalo-township-implements-180-day-data-center-moratorium",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "83cb53420c663183",
+      "content_hash": "f0e85c68cf0cbd98",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-039f875b5c837cdd",
+      "state": "TX",
+      "city": null,
+      "category": "banned",
+      "headline": "Texas Data Center Moratorium : Key Meeting Friday ; Watch These S & P 500 Stocks",
+      "source_domain": "investors.com",
+      "source_name": "investors.com",
+      "url": "https://investors.com/news/texas-data-center-moratorium-puc-meeting-sp-500-stocks",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "039f875b5c837cdd",
+      "content_hash": "069a2c36391c9244",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-35bc5b11be79358f",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Waxhaw passes data center moratorium",
+      "source_domain": "wsoctv.com",
+      "source_name": "wsoctv.com",
+      "url": "https://wsoctv.com/news/local/waxhaw-passes-data-center-moratorium/QQNLJ4Z4PZBRXDXTKNACPSDVRQ",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "35bc5b11be79358f",
+      "content_hash": "a5dee6a1ed92254b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-bfa624f66fb8bdbc",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Data centers rise as key issue in race for governor",
+      "source_domain": "vindy.com",
+      "source_name": "vindy.com",
+      "url": "https://vindy.com/opinion/david-skolnick/2026/08/data-centers-rise-as-key-issue-in-race-for-governor",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "bfa624f66fb8bdbc",
+      "content_hash": "2738ad656790e4a8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-afb0f614740a9bfa",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Public hearing set for Southport data center moratorium",
+      "source_domain": "wect.com",
+      "source_name": "wect.com",
+      "url": "https://wect.com/2026/08/14/public-hearing-set-southport-data-center-moratorium",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "afb0f614740a9bfa",
+      "content_hash": "00f344ee388e8a5b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9bc5202f85c1d747",
+      "state": "AZ",
+      "city": "Chandler",
+      "category": "protested",
+      "headline": "Chandler Texas Bans New Data Centers",
+      "source_domain": "lonestar995fm.com",
+      "source_name": "lonestar995fm.com",
+      "url": "https://lonestar995fm.com/ixp/156/p/chandler-texas-data-center-ban",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "9bc5202f85c1d747",
+      "content_hash": "94cf61d53fa1c41a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ac8e7c4fed91002e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Death threats to Marshall city council members over data centers determined to be credible",
+      "source_domain": "wtvbam.com",
+      "source_name": "wtvbam.com",
+      "url": "https://wtvbam.com/2026/08/14/970389",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "ac8e7c4fed91002e",
+      "content_hash": "bc7a2805244cb963",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-46d233222584fd41",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "LaGrange Council calls for data center public hearing , insis ...",
+      "source_domain": "lagrangenews.com",
+      "source_name": "lagrangenews.com",
+      "url": "https://lagrangenews.com/news/lagrange-council-calls-for-data-center-public-hearing-insisting-call-doesnt-indicate-support-6da06ff2",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "46d233222584fd41",
+      "content_hash": "53d03e3f0a622b6a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6f379e4e5a52b6fa",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Litigation halts Upper Merion planning commission data center opinion",
+      "source_domain": "thereporteronline.com",
+      "source_name": "thereporteronline.com",
+      "url": "https://thereporteronline.com/2026/08/14/litigation-halts-upper-merion-planning-commission-data-center-opinion",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 17:08:55",
+      "url_hash": "6f379e4e5a52b6fa",
+      "content_hash": "0e24c4a5115fde99",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T17:08:55Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-9cbc24c6c7b4ba07",
       "state": "US",
@@ -30,7 +390,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents fear the facility on the border of towns of Piaseczno and Józefosław will spark water shortages",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -69,7 +429,7 @@
         "rss-dcd"
       ],
       "snippet": "Death threat comes two weeks after city votes to approve one-year moratorium",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -148,7 +508,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Growing nationwide public opposition to the proliferation of hyperscale data centers is forcing Big Tech companies to look at unconventional areas to site the computational facilities needed to power the booming artificial intelligence industry. The post Permian Basin in Texas, New Mexico Could be Next Data Center Hot Spot appeared first on RTO Insider .",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1982,7 +2342,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2861,7 +3221,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5960,7 +6320,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6078,7 +6438,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7431,7 +7791,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29683,7 +30043,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-14T16:12:21Z",
+      "last_seen": "2026-08-14T17:08:55Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40314,6 +40674,35 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 46,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 26,
+        "protested": 18,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 45,
+        "legal": 1
+      },
+      "latest_date": "2026-08-14"
+    },
+    "AZ": {
+      "state": "AZ",
+      "count": 4,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 2
+      },
+      "platforms": {
+        "news": 4
+      },
+      "latest_date": "2026-08-14"
+    },
     "MI": {
       "state": "MI",
       "count": 12,
@@ -40352,22 +40741,6 @@
       },
       "platforms": {
         "news": 7
-      },
-      "latest_date": "2026-08-13"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 45,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 25,
-        "protested": 18,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 44,
-        "legal": 1
       },
       "latest_date": "2026-08-13"
     },
@@ -40665,19 +41038,6 @@
       },
       "platforms": {
         "news": 8
-      },
-      "latest_date": "2026-07-23"
-    },
-    "AZ": {
-      "state": "AZ",
-      "count": 3,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 3
       },
       "latest_date": "2026-07-23"
     },
