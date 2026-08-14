@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-08-14T15:27:09Z",
+  "generated_at": "2026-08-14T16:12:22Z",
   "filter": {
     "issue_category": "community_impact"
   },
-  "count": 331,
+  "count": 332,
   "items": [
     {
       "id": "social:x-4643366107-ok",
@@ -13249,6 +13249,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-9cbc24c6c7b4ba07-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-08-14",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": "[\"community_impact\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center planned for suburb in Warsaw, Poland, sparks protests. Residents fear the facility on the border of towns of Piaseczno and Józefosław will spark water shortages",
+      "sources": "[\"https://datacenterdynamics.com/en/news/data-center-planned-for-suburb-in-warsaw-poland-sparks-protests\"]",
+      "data_source": "news",
+      "last_updated": "2026-08-14T16:12:21Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     }
   ]
 }
