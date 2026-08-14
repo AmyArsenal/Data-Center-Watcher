@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-08-14T19:10:06Z",
+  "generated_at": "2026-08-14T19:53:08Z",
   "window_days": 90,
-  "count": 1021,
+  "count": 1025,
   "items": [
+    {
+      "id": "gdelt-2acaa224e2a1a05e",
+      "state": "NY",
+      "city": null,
+      "category": "banned",
+      "headline": "How New York data center framework , post - moratorium , would impact development",
+      "source_domain": "cnycentral.com",
+      "source_name": "cnycentral.com",
+      "url": "https://cnycentral.com/news/new-york-news/how-new-yorks-data-center-framework-post-moratorium-would-impact-development",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 19:53:07",
+      "url_hash": "2acaa224e2a1a05e",
+      "content_hash": "14fc0daae6d4164b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T19:53:07Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-00c412281147553c",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Louisville Metro Council approves 6 - month moratorium on data centers",
+      "source_domain": "wbko.com",
+      "source_name": "wbko.com",
+      "url": "https://wbko.com/2026/08/14/louisville-metro-council-approves-6-month-moratorium-data-centers",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 19:53:07",
+      "url_hash": "00c412281147553c",
+      "content_hash": "2784c9ce63cc89a0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T19:53:07Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-2de87035c499fa93",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Greensboro , Alamance and Yadkin to consider data center moratoriums",
+      "source_domain": "wfdd.org",
+      "source_name": "wfdd.org",
+      "url": "https://wfdd.org/politics-government/2026-08-14/greensboro-alamance-and-yadkin-to-consider-data-center-moratoriums",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 19:53:07",
+      "url_hash": "2de87035c499fa93",
+      "content_hash": "b44837c2b9146cca",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T19:53:07Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c06ee68af309791b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Butte group sues county over data center vote",
+      "source_domain": "kpax.com",
+      "source_name": "kpax.com",
+      "url": "https://kpax.com/news/butte-activist-group-sues-county-seeks-right-to-vote-on-proposed-data-centers",
+      "date": "2026-08-14",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 19:53:07",
+      "url_hash": "c06ee68af309791b",
+      "content_hash": "e8dc5750048fa1b3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-14T19:53:07Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dck-70ea2c979ef91a54",
       "state": "US",
@@ -30,7 +190,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +349,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-14T17:08:55Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -229,7 +389,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-14T17:08:55Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -349,7 +509,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-14T18:02:30Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -389,7 +549,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-14T18:02:30Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -429,7 +589,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents fear the facility on the border of towns of Piaseczno and Józefosław will spark water shortages",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -468,7 +628,7 @@
         "rss-dcd"
       ],
       "snippet": "Death threat comes two weeks after city votes to approve one-year moratorium",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -547,7 +707,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Growing nationwide public opposition to the proliferation of hyperscale data centers is forcing Big Tech companies to look at unconventional areas to site the computational facilities needed to power the booming artificial intelligence industry. The post Permian Basin in Texas, New Mexico Could be Next Data Center Hot Spot appeared first on RTO Insider .",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2381,7 +2541,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3260,7 +3420,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6359,7 +6519,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6477,7 +6637,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7830,7 +7990,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -30082,7 +30242,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-14T19:10:05Z",
+      "last_seen": "2026-08-14T19:53:07Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40713,6 +40873,20 @@
     }
   ],
   "by_state": {
+    "NY": {
+      "state": "NY",
+      "count": 36,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 28,
+        "protested": 7,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 36
+      },
+      "latest_date": "2026-08-14"
+    },
     "TX": {
       "state": "TX",
       "count": 46,
@@ -41021,20 +41195,6 @@
         "news": 5
       },
       "latest_date": "2026-07-31"
-    },
-    "NY": {
-      "state": "NY",
-      "count": 35,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 7,
-        "banned": 27,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 35
-      },
-      "latest_date": "2026-07-30"
     },
     "NJ": {
       "state": "NJ",
