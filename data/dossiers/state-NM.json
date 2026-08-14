@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NM",
-  "generated_at": "2026-08-13T23:22:39Z",
+  "generated_at": "2026-08-14T00:03:27Z",
   "risk_score": {
-    "score": 54.2,
-    "tier": 28.0,
+    "score": 55.6,
+    "tier": 29.3,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "D",
-    "score": 45.8,
+    "score": 44.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "null": 2,
     "supportive": 1,
-    "restrictive": 5
+    "restrictive": 6
   },
   "outcome_counts": {
-    "pending": 2,
+    "pending": 3,
     "loss": 1,
     "win": 5
   },
   "scope_counts": {
     "statewide": 1,
     "federal": 1,
-    "local": 6
+    "local": 7
   },
   "issue_top": {
     "environmental": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-14",
-  "latest": "2026-08-12",
+  "latest": "2026-08-13",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-07e85b2f1ebb36a3-nm",
+      "date": "2026-08-13",
+      "jurisdiction": "RTO Insider",
+      "title": "Permian Basin in Texas, New Mexico Could be Next Data Center Hot Spot. Growing nationwide public opposition to the proliferation of hypersca",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/139128-permian-basin-could-be-next-data-center-hot-spot"
+    },
     {
       "id": "news:gdelt-642e4da85d58d5b8-nm",
       "date": "2026-08-12",

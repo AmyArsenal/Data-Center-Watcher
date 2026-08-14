@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-13T23:22:39Z",
+  "generated_at": "2026-08-14T00:03:27Z",
   "states": [
     {
       "state": "AK",
@@ -33,9 +33,9 @@
     {
       "state": "AR",
       "count": 13,
-      "risk_score": 58.0,
+      "risk_score": 57.3,
       "grade": "D",
-      "grade_score": 42.0,
+      "grade_score": 42.7,
       "moratoriums": 4,
       "approvals": 1,
       "denials": 6,
@@ -201,9 +201,9 @@
     {
       "state": "IN",
       "count": 16,
-      "risk_score": 54.0,
+      "risk_score": 52.3,
       "grade": "D",
-      "grade_score": 46.0,
+      "grade_score": 47.7,
       "moratoriums": 4,
       "approvals": 1,
       "denials": 7,
@@ -438,22 +438,22 @@
     },
     {
       "state": "NM",
-      "count": 8,
-      "risk_score": 54.2,
+      "count": 9,
+      "risk_score": 55.6,
       "grade": "D",
-      "grade_score": 45.8,
+      "grade_score": 44.4,
       "moratoriums": 3,
       "approvals": 1,
       "denials": 5,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-08-12",
+      "latest": "2026-08-13",
       "url": "data/dossiers/state-NM.json"
     },
     {
       "state": "NV",
       "count": 4,
-      "risk_score": 44.6,
+      "risk_score": 42.2,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
@@ -523,9 +523,9 @@
     {
       "state": "PA",
       "count": 31,
-      "risk_score": 37.1,
+      "risk_score": 36.8,
       "grade": "C",
-      "grade_score": 62.9,
+      "grade_score": 63.2,
       "moratoriums": 2,
       "approvals": 4,
       "denials": 10,

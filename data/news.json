@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-13T23:22:39Z",
+  "generated_at": "2026-08-14T00:03:27Z",
   "window_days": 90,
-  "count": 1019,
+  "count": 1008,
   "items": [
+    {
+      "id": "rss-rto-insider-07e85b2f1ebb36a3",
+      "state": "NM",
+      "city": null,
+      "category": "protested",
+      "headline": "Permian Basin in Texas, New Mexico Could be Next Data Center Hot Spot",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/139128-permian-basin-could-be-next-data-center-hot-spot",
+      "date": "2026-08-13",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-14 00:03:26",
+      "url_hash": "07e85b2f1ebb36a3",
+      "content_hash": "f78df1a38e4ae686",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "Growing nationwide public opposition to the proliferation of hyperscale data centers is forcing Big Tech companies to look at unconventional areas to site the computational facilities needed to power the booming artificial intelligence industry. The post Permian Basin in Texas, New Mexico Could be Next Data Center Hot Spot appeared first on RTO Insider .",
+      "last_seen": "2026-08-14T00:03:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=139128",
+        "rss_author": "Scott Streater",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-75d73dd5b2bcec43",
       "state": "US",
@@ -190,7 +229,7 @@
         "rss-dcd"
       ],
       "snippet": "During which time new regulations may be developed, though won’t come into force until next year",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -229,7 +268,7 @@
         "rss-dcd"
       ],
       "snippet": "GPUs for initial CDC deployment have been ordered, companies said",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1825,7 +1864,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2704,7 +2743,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5803,7 +5842,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5921,7 +5960,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7274,7 +7313,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11027,7 +11066,7 @@
         "rss-dck"
       ],
       "snippet": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -29526,7 +29565,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-13T23:22:38Z",
+      "last_seen": "2026-08-14T00:03:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40154,487 +40193,24 @@
         "gdelt_sourcecountry": "United States",
         "gdelt_tone": null
       }
-    },
-    {
-      "id": "rss-utilitydive-062449304293d113",
-      "state": "US",
-      "city": null,
-      "category": "cancelled",
-      "headline": "DOJ may intervene in NAACP lawsuit over xAI’s data center gas turbines",
-      "source_domain": "utilitydive.com",
-      "source_name": "Utility Dive - Latest News",
-      "url": "https://utilitydive.com/news/doj-may-intervene-in-naacp-lawsuit-over-xais-data-center-gas-turbines/820363",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [
-        "xAI"
-      ],
-      "first_seen": "2026-05-15 17:57:03",
-      "url_hash": "062449304293d113",
-      "content_hash": "15f54d9ec1f01c5a",
-      "source": "rss-utilitydive",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-utilitydive"
-      ],
-      "snippet": "It is &ldquo;the policy of the United States to sustain and enhance America&rsquo;s global AI dominance,&rdquo; a deputy assistant attorney general at the Department of Justice wrote in a court notice suggesting it might intervene.",
-      "last_seen": "2026-05-19T14:27:21Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.utilitydive.com/news/doj-may-intervene-in-naacp-lawsuit-over-xais-data-center-gas-turbines/820363/",
-        "rss_author": "Diana DiGangi",
-        "rss_needs_dc_filter": true
-      }
-    },
-    {
-      "id": "gdelt-373290c548f2e05b",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "At data center panel , residents are encouraged to get involved in the process",
-      "source_domain": "mcall.com",
-      "source_name": "mcall.com",
-      "url": "https://mcall.com/2026/05/15/at-data-center-panel-residents-are-encouraged-to-get-involved-in-the-process",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 16:25:13",
-      "url_hash": "373290c548f2e05b",
-      "content_hash": "44e5e87e35de366d",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T20:37:22Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-d2f5ce861ed89020",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Tensions Rise at Public Hearing for Pocatello AI Data Center Proposal - LocalNews8 . com",
-      "source_domain": "localnews8.com",
-      "source_name": "localnews8.com",
-      "url": "https://localnews8.com/news/2026/05/14/tensions-rise-at-public-hearing-for-pocatello-ai-data-center-proposal",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 14:43:16",
-      "url_hash": "d2f5ce861ed89020",
-      "content_hash": "82af565e2eae2008",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T14:43:16Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-arstechnica-177eb7eca036b96b",
-      "state": "PA",
-      "city": null,
-      "category": "protested",
-      "headline": "Pennsylvanians use town hall meeting to rail against data center boom",
-      "source_domain": "arstechnica.com",
-      "source_name": "Ars Technica - All content",
-      "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 14:43:16",
-      "url_hash": "177eb7eca036b96b",
-      "content_hash": "d07b95967c162443",
-      "source": "rss-arstechnica",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-arstechnica"
-      ],
-      "snippet": "“This is a public trust and transparency issue.”",
-      "last_seen": "2026-05-18T09:33:50Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
-        "rss_author": "Inside Climate News",
-        "rss_needs_dc_filter": true
-      }
-    },
-    {
-      "id": "gdelt-a521c63f61277e33",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Reno City Council adopts pending moratorium on new data centers",
-      "source_domain": "mynews4.com",
-      "source_name": "mynews4.com",
-      "url": "https://mynews4.com/news/local/reno-city-council-adopts-pending-moratorium-on-new-data-centers",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 10:41:44",
-      "url_hash": "a521c63f61277e33",
-      "content_hash": "97c699c2c84583e7",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T10:41:44Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dcd-796fad987aa6d575",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "One-year data center moratorium approved in city near Minneapolis",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/one-year-data-center-moratorium-approved-in-city-near-minneapolis",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 10:41:44",
-      "url_hash": "796fad987aa6d575",
-      "content_hash": "5b8c6ec958c50269",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Puts T5 Data Center proposal on hold",
-      "last_seen": "2026-05-15T16:25:13Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/one-year-data-center-moratorium-approved-in-city-near-minneapolis/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "gdelt-69009dca327d5e60",
-      "state": "NV",
-      "city": null,
-      "category": "banned",
-      "headline": "Reno City Council pauses AI data centers , first government in Nevada to do so | Environment",
-      "source_domain": "reviewjournal.com",
-      "source_name": "reviewjournal.com",
-      "url": "https://reviewjournal.com/news/environment/this-nevada-city-is-the-first-to-pause-new-data-centers-3824360",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 08:15:54",
-      "url_hash": "69009dca327d5e60",
-      "content_hash": "b4d9f9297444fd28",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T10:41:44Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-423f1474cfd0d62c",
-      "state": "AR",
-      "city": null,
-      "category": "protested",
-      "headline": "Arkansas residents voice concerns over proposed data centers amid environmental and economic issues",
-      "source_domain": "thv11.com",
-      "source_name": "thv11.com",
-      "url": "https://thv11.com/article/news/local/arkansas-residents-voice-concerns-over-proposed-data-centers-amid-environmental-and-economic-issues/91-a3214bcf-8b34-49ee-91b3-c924a4284053",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 08:15:54",
-      "url_hash": "423f1474cfd0d62c",
-      "content_hash": "d2b3ab5d1b5136d7",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T16:25:13Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-2c763d901a7f03dc",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Reno moratorium freezes new data center permits , slowing expansion within city limits",
-      "source_domain": "foxreno.com",
-      "source_name": "foxreno.com",
-      "url": "https://foxreno.com/news/local/reno-moratorium-freezes-new-data-center-permits-slowing-expansion-within-city-limits",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 08:15:54",
-      "url_hash": "2c763d901a7f03dc",
-      "content_hash": "2f7e0522fe083ddf",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T08:15:54Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-726e3710404d29be",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Fiscal Court holds first reading of data center moratorium",
-      "source_domain": "messenger-inquirer.com",
-      "source_name": "messenger-inquirer.com",
-      "url": "https://messenger-inquirer.com/news/local/fiscal-court-holds-first-reading-of-data-center-moratorium/article_a5ee44d8-c09d-5b62-b10b-bd6ca71adc41.html",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 08:15:54",
-      "url_hash": "726e3710404d29be",
-      "content_hash": "6497eaa445f15aea",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T08:15:54Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-591877ca02be65e6",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Reno City Council approves a pending moratorium on data centers",
-      "source_domain": "kolotv.com",
-      "source_name": "kolotv.com",
-      "url": "https://kolotv.com/2026/05/15/reno-city-council-approves-pending-moratorium-data-centers",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 08:15:54",
-      "url_hash": "591877ca02be65e6",
-      "content_hash": "62557a2a5aa62f1a",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-15T10:41:44Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dcd-90eb37efe8a29e64",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Sponsored: The AI factory: A data center with a view",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/marketwatch/the-ai-factory-a-data-center-with-a-view",
-      "date": "2026-05-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-15 08:15:53",
-      "url_hash": "90eb37efe8a29e64",
-      "content_hash": "905d931bd71e6ed9",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Real-time visibility offers a broader view, turning passive data into actionable insight, uncovering inefficiencies, and safeguarding uptime before issues emerge",
-      "last_seen": "2026-05-15T14:43:16Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/marketwatch/the-ai-factory-a-data-center-with-a-view/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
     }
   ],
   "by_state": {
+    "NM": {
+      "state": "NM",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1,
+        "banned": 3,
+        "cancelled": 2,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-08-13"
+    },
     "TX": {
       "state": "TX",
       "count": 45,
@@ -40667,25 +40243,11 @@
     },
     "AR": {
       "state": "AR",
-      "count": 7,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 2,
-        "banned": 5
-      },
-      "platforms": {
-        "news": 7
-      },
-      "latest_date": "2026-08-12"
-    },
-    "NM": {
-      "state": "NM",
       "count": 6,
       "total_engagement": 0,
       "categories": {
-        "banned": 3,
-        "cancelled": 2,
-        "announced": 1
+        "protested": 1,
+        "banned": 5
       },
       "platforms": {
         "news": 6
@@ -40881,14 +40443,13 @@
     },
     "NV": {
       "state": "NV",
-      "count": 2,
+      "count": 1,
       "total_engagement": 0,
       "categories": {
-        "announced": 1,
-        "banned": 1
+        "announced": 1
       },
       "platforms": {
-        "news": 2
+        "news": 1
       },
       "latest_date": "2026-08-04"
     },
@@ -40949,15 +40510,15 @@
     },
     "PA": {
       "state": "PA",
-      "count": 5,
+      "count": 4,
       "total_engagement": 0,
       "categories": {
-        "protested": 2,
+        "protested": 1,
         "banned": 1,
         "announced": 2
       },
       "platforms": {
-        "news": 5
+        "news": 4
       },
       "latest_date": "2026-07-28"
     },
