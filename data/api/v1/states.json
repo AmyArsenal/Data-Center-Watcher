@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-14T23:57:03Z",
+  "generated_at": "2026-08-15T00:40:55Z",
   "states": [
     {
       "state": "AK",
@@ -61,9 +61,9 @@
     {
       "state": "CA",
       "count": 24,
-      "risk_score": 48.8,
+      "risk_score": 47.7,
       "grade": "C",
-      "grade_score": 51.2,
+      "grade_score": 52.3,
       "moratoriums": 2,
       "approvals": 3,
       "denials": 9,
@@ -369,9 +369,9 @@
     {
       "state": "NC",
       "count": 10,
-      "risk_score": 50.4,
-      "grade": "D",
-      "grade_score": 49.6,
+      "risk_score": 47.8,
+      "grade": "C",
+      "grade_score": 52.2,
       "moratoriums": 5,
       "approvals": 0,
       "denials": 5,
