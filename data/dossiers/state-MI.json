@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-08-16T10:13:12Z",
+  "generated_at": "2026-08-16T10:37:35Z",
   "risk_score": {
-    "score": 61.7,
-    "tier": 36.0,
+    "score": 62.4,
+    "tier": 36.2,
     "engagement": 6.2,
-    "recency": 19.5,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 38.3,
+    "score": 37.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 8,
+    "moratoriums": 9,
     "approvals": 0,
-    "denials": 10,
+    "denials": 11,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 2,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
-    "restrictive": 18,
+    "restrictive": 19,
     "null": 3
   },
   "outcome_counts": {
-    "win": 10,
+    "win": 11,
     "pending": 11
   },
   "scope_counts": {
-    "local": 19,
+    "local": 20,
     "statewide": 2
   },
   "issue_top": {
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-08-14",
+  "latest": "2026-08-16",
   "top_citations": [
+    {
+      "id": "news:gdelt-42aae70304557800-mi",
+      "date": "2026-08-16",
+      "jurisdiction": "dmnews.com",
+      "title": "East Lansing , Michigan just extended its data center moratorium with no project on the table , becoming one of the first US cities to pause",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dmnews.com/dmn-r-east-lansing-michigan-just-extended-its-data-center-moratorium-with-no-project-on-the-table-becoming-one-of-the-first-us-cities-to-pause-hyperscale-development-preemptively-rather-than-waiting-f"
+    },
     {
       "id": "news:rss-dcd-0a10ea6f797ec5b6-mi",
       "date": "2026-08-14",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://wkar.org/election-2026/2026-07-12/what-roths-watching-lansing-weighs-data-center-freeze-small-communitys-library-at-risk-el-sayed-lawrence-get-boost-from-national-progressives"
-    },
-    {
-      "id": "news:gdelt-8278bb6b046d9c62-mi",
-      "date": "2026-06-24",
-      "jurisdiction": "wmuk.org",
-      "title": "Michigan lawmakers continue call for data center moratorium",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wmuk.org/2026-06-23/michigan-lawmakers-continue-call-for-data-center-moratorium"
     }
   ]
 }

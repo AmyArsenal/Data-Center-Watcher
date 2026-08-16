@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T10:13:11Z",
-  "count": 1827,
+  "generated_at": "2026-08-16T10:37:35Z",
+  "count": 1828,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,51 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-42aae70304557800-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "dmnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "East Lansing , Michigan just extended its data center moratorium with no project on the table , becoming one of the first US cities to pause hyperscale development preemptively rather than waiting for a developer to file",
+      "sources": [
+        "https://dmnews.com/dmn-r-east-lansing-michigan-just-extended-its-data-center-moratorium-with-no-project-on-the-table-becoming-one-of-the-first-us-cities-to-pause-hyperscale-development-preemptively-rather-than-waiting-f"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-16T10:37:34Z",
+      "first_seen": "2026-08-16T10:37:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-6cddcd04235c6225-us",
@@ -84610,6 +84655,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "MI": {
+      "state": "MI",
+      "count": 22,
+      "outcome_counts": {
+        "pending": 11,
+        "win": 11,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 19,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 20,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "noise": 2,
+        "environmental": 1
+      },
+      "latest_date": "2026-08-16",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "CO": {
       "state": "CO",
       "count": 10,
@@ -84663,35 +84737,6 @@
         "water": 3,
         "grid_energy": 2,
         "ratepayer": 2
-      },
-      "latest_date": "2026-08-14",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 21,
-      "outcome_counts": {
-        "pending": 11,
-        "win": 10,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 18,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 19,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "noise": 2,
-        "environmental": 1
       },
       "latest_date": "2026-08-14",
       "map_color_tier": "restrictive",
