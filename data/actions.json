@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T13:26:49Z",
-  "count": 1828,
+  "generated_at": "2026-08-16T13:50:11Z",
+  "count": 1830,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -64,6 +64,51 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-3b0edb268d44022d-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "progressive-charlestown.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-16",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Progressive Charlestown : Charlestown Bans Data Centers , Battery Storage Facilities",
+      "sources": [
+        "https://progressive-charlestown.com/2026/08/charlestown-bans-data-centers-battery.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-16T13:50:10Z",
+      "first_seen": "2026-08-16T13:50:10Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-42aae70304557800-mi",
@@ -150,6 +195,53 @@
       "data_source": "news",
       "last_updated": "2026-08-16T00:29:00Z",
       "first_seen": "2026-08-16T00:29:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-fb9477034efb66d5-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "tomshardware.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "farmland"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ex - farm bureau chief invites AI data center developers to buy his land argues blocked $6 . 3B project will just move to willing neighbors , defies 500 - jurisdiction moratorium wave and 70 % public opposition",
+      "sources": [
+        "https://tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-16T13:50:10Z",
+      "first_seen": "2026-08-16T13:50:10Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -84599,21 +84691,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1048,
+      "count": 1050,
       "outcome_counts": {
-        "pending": 590,
-        "win": 430,
+        "pending": 591,
+        "win": 431,
         "loss": 28,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1019,
+        "restrictive": 1021,
         "protective": 1,
         "supportive": 28,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1032,
+        "local": 1034,
         "statewide": 9,
         "federal": 7
       },
