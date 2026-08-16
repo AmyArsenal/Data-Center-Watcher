@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-16T15:33:30Z",
+  "generated_at": "2026-08-16T15:54:45Z",
   "states": [
     {
       "state": "AK",
@@ -368,10 +368,10 @@
     },
     {
       "state": "NC",
-      "count": 11,
-      "risk_score": 48.1,
-      "grade": "C",
-      "grade_score": 51.9,
+      "count": 12,
+      "risk_score": 51.7,
+      "grade": "D",
+      "grade_score": 48.3,
       "moratoriums": 5,
       "approvals": 1,
       "denials": 5,
