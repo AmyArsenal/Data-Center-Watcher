@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-16T00:29:01Z",
+  "generated_at": "2026-08-16T02:05:30Z",
   "window_days": 90,
-  "count": 1032,
+  "count": 1033,
   "items": [
+    {
+      "id": "gdelt-2e8fd9f2180ed914",
+      "state": "NC",
+      "city": "Raleigh",
+      "category": "announced",
+      "headline": "Developer withdraws plans for data center in southeast Raleigh , mayor says",
+      "source_domain": "wral.com",
+      "source_name": "wral.com",
+      "url": "https://wral.com/news/local/developer-withdraws-plans-data-center-southeast-raleigh-mayor-says-august-2026",
+      "date": "2026-08-16",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-16 02:05:29",
+      "url_hash": "2e8fd9f2180ed914",
+      "content_hash": "b451e826fb0adc20",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-16T02:05:29Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-6cddcd04235c6225",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -870,7 +910,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1269,7 +1309,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents fear the facility on the border of towns of Piaseczno and Józefosław will spark water shortages",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1308,7 +1348,7 @@
         "rss-dcd"
       ],
       "snippet": "Death threat comes two weeks after city votes to approve one-year moratorium",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1387,7 +1427,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Growing nationwide public opposition to the proliferation of hyperscale data centers is forcing Big Tech companies to look at unconventional areas to site the computational facilities needed to power the booming artificial intelligence industry. The post Permian Basin in Texas, New Mexico Could be Next Data Center Hot Spot appeared first on RTO Insider .",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3221,7 +3261,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4100,7 +4140,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7199,7 +7239,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7317,7 +7357,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8670,7 +8710,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -30922,7 +30962,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-16T00:29:00Z",
+      "last_seen": "2026-08-16T02:05:29Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41151,6 +41191,20 @@
     }
   ],
   "by_state": {
+    "NC": {
+      "state": "NC",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "announced": 1,
+        "banned": 2,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-08-16"
+    },
     "CO": {
       "state": "CO",
       "count": 3,
@@ -41579,19 +41633,6 @@
         "news": 1
       },
       "latest_date": "2026-07-17"
-    },
-    "NC": {
-      "state": "NC",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 2,
-        "protested": 2
-      },
-      "platforms": {
-        "news": 4
-      },
-      "latest_date": "2026-07-15"
     },
     "ID": {
       "state": "ID",
