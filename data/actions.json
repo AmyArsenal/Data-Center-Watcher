@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T13:51:30Z",
-  "count": 1834,
+  "generated_at": "2026-08-17T14:15:14Z",
+  "count": 1835,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -154,6 +154,51 @@
       "data_source": "news",
       "last_updated": "2026-08-17T07:28:49Z",
       "first_seen": "2026-08-17T07:28:50Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-aa60c769522556a2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "New South Wales to require new data centers run 40% on wind energy under new framework. Data centers that fail to meet the standards could see their projects rejected",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/new-south-wales-to-require-new-data-centers-run-40-on-wind-energy-under-new-framework"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-17T14:15:13Z",
+      "first_seen": "2026-08-17T14:15:14Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -84877,21 +84922,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1051,
+      "count": 1052,
       "outcome_counts": {
-        "pending": 592,
+        "pending": 593,
         "win": 431,
         "loss": 28,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1022,
+        "restrictive": 1023,
         "protective": 1,
         "supportive": 28,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1035,
+        "local": 1036,
         "statewide": 9,
         "federal": 7
       },
