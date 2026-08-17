@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-17T20:16:35Z",
+  "generated_at": "2026-08-17T20:49:01Z",
   "window_days": 90,
-  "count": 1037,
+  "count": 1039,
   "items": [
+    {
+      "id": "gdelt-e049bc9e481a4a25",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Stokes Planning Board denies data center zoning , but with conditions",
+      "source_domain": "yadkinripple.com",
+      "source_name": "yadkinripple.com",
+      "url": "https://yadkinripple.com/apg_sister_paper/stokes/stokes-planning-board-denies-data-center-zoning-but-with-conditions/article_431115e4-ee55-577e-89ad-3e60e8d5f00d.html",
+      "date": "2026-08-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-17 20:49:00",
+      "url_hash": "e049bc9e481a4a25",
+      "content_hash": "316621bf023b97c9",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-17T20:49:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b837d8e28db18b86",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Pinellas Park Halts Data Center Projects With Year - Long Moratorium",
+      "source_domain": "995qyk.com",
+      "source_name": "995qyk.com",
+      "url": "https://995qyk.com/2026/08/17/pinellas-park-halts-data-center-projects-with-year-long-moratorium",
+      "date": "2026-08-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-17 20:49:00",
+      "url_hash": "b837d8e28db18b86",
+      "content_hash": "dcbd916e6dd4b98a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-17T20:49:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-0eb8f71c3a2784cd",
       "state": "IL",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -110,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-17T18:39:02Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -152,7 +232,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-17T18:39:02Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -192,7 +272,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -234,7 +314,7 @@
         "rss-dcd"
       ],
       "snippet": "Iron Mountain dragged into dispute between broadcaster and its cloud provider",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -273,7 +353,7 @@
         "rss-dcd"
       ],
       "snippet": "Proactive community engagement strategies for data center developers",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -312,7 +392,7 @@
         "rss-dcd"
       ],
       "snippet": "Data centers that fail to meet the standards could see their projects rejected",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -351,7 +431,7 @@
         "rss-dcd"
       ],
       "snippet": "Plans for 100,000 sq ft development withdrawn",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1509,7 +1589,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3860,7 +3940,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4739,7 +4819,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7838,7 +7918,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7956,7 +8036,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9309,7 +9389,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -31561,7 +31641,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-17T20:16:34Z",
+      "last_seen": "2026-08-17T20:49:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-08-17T20:16:35Z",
+  "generated_at": "2026-08-17T20:49:01Z",
   "filter": {
     "community_outcome": "win"
   },
-  "count": 736,
+  "count": 737,
   "items": [
     {
       "id": "social:x-c778319fc8-me",
@@ -29456,6 +29456,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-b837d8e28db18b86-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "995qyk.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"moratorium\"]",
+      "authority_level": null,
+      "date": "2026-08-17",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": null,
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pinellas Park Halts Data Center Projects With Year - Long Moratorium",
+      "sources": "[\"https://995qyk.com/2026/08/17/pinellas-park-halts-data-center-projects-with-year-long-moratorium\"]",
+      "data_source": "news",
+      "last_updated": "2026-08-17T20:49:00Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
