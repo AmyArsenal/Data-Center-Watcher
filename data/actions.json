@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T19:57:16Z",
-  "count": 1841,
+  "generated_at": "2026-08-17T20:16:35Z",
+  "count": 1842,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-0eb8f71c3a2784cd-il",
+      "origin": "news",
+      "state": "IL",
+      "county": null,
+      "jurisdiction": "thexradio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Centers Emerging as Key Issue in Illinois Governor Race - Effingham News and Sports Leader , 979XFM and KJ Country 102 . 3",
+      "sources": [
+        "https://thexradio.com/news/local-news/44445-data-centers-emerging-as-key-issue-in-illinois-governors-race"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-17T20:16:34Z",
+      "first_seen": "2026-08-17T20:16:35Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-44d4a70cb077463c-or",
       "origin": "news",
@@ -85310,6 +85355,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "IL": {
+      "state": "IL",
+      "count": 8,
+      "outcome_counts": {
+        "pending": 3,
+        "win": 4,
+        "loss": 1,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 6,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "zoning": 3,
+        "farmland": 2,
+        "grid_energy": 2
+      },
+      "latest_date": "2026-08-17",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "MI": {
       "state": "MI",
       "count": 22,
@@ -86206,35 +86280,6 @@
       },
       "latest_date": "2026-07-13",
       "map_color_tier": "supportive",
-      "map_color_outcome": "loss"
-    },
-    "IL": {
-      "state": "IL",
-      "count": 7,
-      "outcome_counts": {
-        "pending": 2,
-        "win": 4,
-        "loss": 1,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "zoning": 3,
-        "farmland": 2,
-        "grid_energy": 2
-      },
-      "latest_date": "2026-07-02",
-      "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "DC": {

@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IL",
-  "generated_at": "2026-08-17T19:57:16Z",
+  "generated_at": "2026-08-17T20:16:35Z",
   "risk_score": {
-    "score": 42.2,
-    "tier": 28.0,
+    "score": 47.8,
+    "tier": 29.5,
     "engagement": 6.2,
-    "recency": 8.0,
+    "recency": 12.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 57.8,
+    "score": 52.2,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 7,
+  "count": 8,
   "tier_counts": {
     "null": 3,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
     "win": 4,
     "loss": 1,
-    "pending": 2
+    "pending": 3
   },
   "scope_counts": {
     "local": 6,
-    "statewide": 1
+    "statewide": 2
   },
   "issue_top": {
     "zoning": 3,
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-16",
-  "latest": "2026-07-02",
+  "latest": "2026-08-17",
   "top_citations": [
+    {
+      "id": "news:gdelt-0eb8f71c3a2784cd-il",
+      "date": "2026-08-17",
+      "jurisdiction": "thexradio.com",
+      "title": "Data Centers Emerging as Key Issue in Illinois Governor Race - Effingham News and Sports Leader , 979XFM and KJ Country 102 . 3",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://thexradio.com/news/local-news/44445-data-centers-emerging-as-key-issue-in-illinois-governors-race"
+    },
     {
       "id": "news:rss-dcd-32fa1d8909a94ed2-il",
       "date": "2026-07-02",
