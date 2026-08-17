@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IL",
-  "generated_at": "2026-08-17T21:56:46Z",
+  "generated_at": "2026-08-17T22:13:54Z",
   "risk_score": {
-    "score": 47.8,
-    "tier": 29.5,
+    "score": 52.0,
+    "tier": 30.7,
     "engagement": 6.2,
-    "recency": 12.0,
+    "recency": 15.1,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.2,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.0,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 1,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "null": 3,
-    "restrictive": 5
+    "restrictive": 6
   },
   "outcome_counts": {
     "win": 4,
     "loss": 1,
-    "pending": 3
+    "pending": 4
   },
   "scope_counts": {
     "local": 6,
-    "statewide": 2
+    "statewide": 3
   },
   "issue_top": {
     "zoning": 3,
@@ -65,6 +65,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://thexradio.com/news/local-news/44445-data-centers-emerging-as-key-issue-in-illinois-governors-race"
+    },
+    {
+      "id": "news:gdelt-b9fde2931e0d05f0-il",
+      "date": "2026-08-17",
+      "jurisdiction": "northernpublicradio.org",
+      "title": "Data centers emerging as key issue in Illinois governor race | Northern Public Radio : WNIJ and WNIU",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://northernpublicradio.org/illinois/2026-08-17/data-centers-emerging-as-key-issue-in-illinois-governors-race"
     },
     {
       "id": "news:rss-dcd-32fa1d8909a94ed2-il",
