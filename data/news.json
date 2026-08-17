@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-17T07:28:50Z",
+  "generated_at": "2026-08-17T08:06:17Z",
   "window_days": 90,
-  "count": 1027,
+  "count": 1028,
   "items": [
+    {
+      "id": "gdelt-44d4a70cb077463c",
+      "state": "OR",
+      "city": null,
+      "category": "protested",
+      "headline": "Oregon community members ask where the revenue is if not a data center",
+      "source_domain": "presspublications.com",
+      "source_name": "presspublications.com",
+      "url": "http://presspublications.com/stories/oregon-community-members-ask-if-not-a-data-center-where-is-the-revenue-at,114219",
+      "date": "2026-08-17",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-17 08:06:16",
+      "url_hash": "44d4a70cb077463c",
+      "content_hash": "d2a056a5cb5dc6a7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-17T08:06:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-42c425cc0429a0aa",
       "state": "US",
@@ -30,7 +70,7 @@
         "rss-dcd"
       ],
       "snippet": "The rapid expansion of data centers is bringing them out of the shadows and firmly into public view. Building community trust is just as critical as constructing the facilities themselves",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1109,7 +1149,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1508,7 +1548,7 @@
         "rss-dcd"
       ],
       "snippet": "Residents fear the facility on the border of towns of Piaseczno and Józefosław will spark water shortages",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1547,7 +1587,7 @@
         "rss-dcd"
       ],
       "snippet": "Death threat comes two weeks after city votes to approve one-year moratorium",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3460,7 +3500,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -4339,7 +4379,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7438,7 +7478,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7556,7 +7596,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8909,7 +8949,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -31161,7 +31201,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-17T07:28:49Z",
+      "last_seen": "2026-08-17T08:06:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40953,6 +40993,21 @@
     }
   ],
   "by_state": {
+    "OR": {
+      "state": "OR",
+      "count": 13,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 4,
+        "banned": 7,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 13
+      },
+      "latest_date": "2026-08-17"
+    },
     "NC": {
       "state": "NC",
       "count": 6,
@@ -41103,21 +41158,6 @@
       },
       "platforms": {
         "news": 9
-      },
-      "latest_date": "2026-08-12"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 12,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 7,
-        "protested": 3,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 12
       },
       "latest_date": "2026-08-12"
     },
