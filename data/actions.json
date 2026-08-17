@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T23:34:59Z",
-  "count": 1845,
+  "generated_at": "2026-08-17T23:56:07Z",
+  "count": 1846,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -332,6 +332,51 @@
       "data_source": "news",
       "last_updated": "2026-08-17T22:13:53Z",
       "first_seen": "2026-08-17T22:13:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-bd1ef48006ad30dd-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "evanstonnow.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data centers hot issue in governor race",
+      "sources": [
+        "https://evanstonnow.com/data-centers-hot-issue-in-governors-race"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-17T23:56:06Z",
+      "first_seen": "2026-08-17T23:56:07Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -85378,22 +85423,22 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1059,
+      "count": 1060,
       "outcome_counts": {
-        "pending": 599,
+        "pending": 600,
         "win": 432,
         "loss": 28,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1030,
+        "restrictive": 1031,
         "protective": 1,
         "supportive": 28,
         "unclear": 0
       },
       "scope_counts": {
         "local": 1043,
-        "statewide": 9,
+        "statewide": 10,
         "federal": 7
       },
       "issue_top": {
