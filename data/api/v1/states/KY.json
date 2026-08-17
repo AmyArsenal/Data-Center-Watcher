@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KY",
-  "generated_at": "2026-08-16T23:53:15Z",
+  "generated_at": "2026-08-17T00:27:38Z",
   "risk_score": {
-    "score": 52.5,
+    "score": 49.6,
     "tier": 27.6,
     "engagement": 7.6,
-    "recency": 15.1,
+    "recency": 12.1,
     "multi_source": 2.2,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "D",
-    "score": 47.5,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 50.4,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 1,
