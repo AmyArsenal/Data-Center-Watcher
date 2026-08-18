@@ -1,8 +1,170 @@
 {
-  "generated_at": "2026-08-18T21:55:22Z",
+  "generated_at": "2026-08-18T22:09:07Z",
   "window_days": 90,
-  "count": 1062,
+  "count": 1066,
   "items": [
+    {
+      "id": "gdelt-eba4ac4c3560dd8a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "The Get Down : City Council President JP Morrell on AI data centers , surveillance and STRs",
+      "source_domain": "nola.com",
+      "source_name": "nola.com",
+      "url": "https://nola.com/gambit/gambit/news/the_get_down/the-get-down-city-council-president-jp-morrell-on-ai-data-centers-surveillance-and-strs/article_0ae971b4-328c-4a4e-8c78-a9a10dd66927.html",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 22:09:06",
+      "url_hash": "eba4ac4c3560dd8a",
+      "content_hash": "f760cb32f8c66dc1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T22:09:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-fb676552111e0cb3",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Upper Mount Bethel data center agreement discussion moved to Monday following cancellation due to overcapacity crowd",
+      "source_domain": "mcall.com",
+      "source_name": "mcall.com",
+      "url": "https://mcall.com/2026/08/18/lehigh-valley-community-reschedules-data-center-agreement-discussion-after-overflow-crowd-forces-cancelation",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 22:09:06",
+      "url_hash": "fb676552111e0cb3",
+      "content_hash": "e38d75f685917cc3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T22:09:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-469ef70b1d9b13ef",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Gilroy residents raise concerns over Amazon data center proposal",
+      "source_domain": "ksbw.com",
+      "source_name": "ksbw.com",
+      "url": "https://ksbw.com/article/gilroy-concerns-over-amazon-data-center-proposal/73465457",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Amazon"
+      ],
+      "first_seen": "2026-08-18 22:09:06",
+      "url_hash": "469ef70b1d9b13ef",
+      "content_hash": "90d9d9347d2f2074",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T22:09:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-bd4353764cc3eebe",
+      "state": "PA",
+      "city": null,
+      "category": "protested",
+      "headline": "Gov . Josh Shapiro issues a new executive order on data centers in Pennsylvania",
+      "source_domain": "nbcnews.com",
+      "source_name": "nbcnews.com",
+      "url": "https://nbcnews.com/politics/2028-election/gov-josh-shapiro-executive-order-data-centers-pennsylvania-rcna593177",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 22:09:06",
+      "url_hash": "bd4353764cc3eebe",
+      "content_hash": "d55bdf41d81deb32",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T22:09:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-latitude-1601002b4d05bba9",
       "state": "TX",
@@ -30,7 +192,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +231,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +271,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -149,7 +311,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +351,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -229,7 +391,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -271,7 +433,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -311,7 +473,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -353,7 +515,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -393,7 +555,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -433,7 +595,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -473,7 +635,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -513,7 +675,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -553,7 +715,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -593,7 +755,7 @@
         "rss-dcd"
       ],
       "snippet": "As Virginia Beach officials look to bring in data center moratorium",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -794,7 +956,7 @@
         "rss-dcd"
       ],
       "snippet": "Nation also releases report on data centers",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3474,7 +3636,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5825,7 +5987,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6704,7 +6866,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9803,7 +9965,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9921,7 +10083,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11274,7 +11436,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -33526,7 +33688,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-18T21:55:21Z",
+      "last_seen": "2026-08-18T22:09:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42357,6 +42519,20 @@
     }
   ],
   "by_state": {
+    "PA": {
+      "state": "PA",
+      "count": 5,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 1,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 5
+      },
+      "latest_date": "2026-08-18"
+    },
     "TX": {
       "state": "TX",
       "count": 47,
@@ -42735,20 +42911,6 @@
         "news": 8
       },
       "latest_date": "2026-07-30"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 4,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1,
-        "banned": 1,
-        "announced": 2
-      },
-      "platforms": {
-        "news": 4
-      },
-      "latest_date": "2026-07-28"
     },
     "CA": {
       "state": "CA",

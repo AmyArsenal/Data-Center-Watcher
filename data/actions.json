@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T21:55:22Z",
-  "count": 1891,
+  "generated_at": "2026-08-18T22:09:07Z",
+  "count": 1895,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -567,6 +567,53 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-469ef70b1d9b13ef-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ksbw.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Gilroy residents raise concerns over Amazon data center proposal",
+      "sources": [
+        "https://ksbw.com/article/gilroy-concerns-over-amazon-data-center-proposal/73465457"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T22:09:06Z",
+      "first_seen": "2026-08-18T22:09:07Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-4b97d66439a92eef-us",
       "origin": "news",
       "state": "US",
@@ -1113,6 +1160,51 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-bd4353764cc3eebe-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "nbcnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "executive_order"
+      ],
+      "authority_level": null,
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Gov . Josh Shapiro issues a new executive order on data centers in Pennsylvania",
+      "sources": [
+        "https://nbcnews.com/politics/2028-election/gov-josh-shapiro-executive-order-data-centers-pennsylvania-rcna593177"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T22:09:06Z",
+      "first_seen": "2026-08-18T22:09:07Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-ca5f3c166a7124dd-nd",
       "origin": "news",
       "state": "ND",
@@ -1565,6 +1657,51 @@
       "tier_reason": "project advancing"
     },
     {
+      "id": "news:gdelt-eba4ac4c3560dd8a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nola.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "The Get Down : City Council President JP Morrell on AI data centers , surveillance and STRs",
+      "sources": [
+        "https://nola.com/gambit/gambit/news/the_get_down/the-get-down-city-council-president-jp-morrell-on-ai-data-centers-surveillance-and-strs/article_0ae971b4-328c-4a4e-8c78-a9a10dd66927.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T22:09:06Z",
+      "first_seen": "2026-08-18T22:09:07Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-ebe1afffe6bf58fd-us",
       "origin": "news",
       "state": "US",
@@ -1698,6 +1835,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-fb676552111e0cb3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "mcall.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Upper Mount Bethel data center agreement discussion moved to Monday following cancellation due to overcapacity crowd",
+      "sources": [
+        "https://mcall.com/2026/08/18/lehigh-valley-community-reschedules-data-center-agreement-discussion-after-overflow-crowd-forces-cancelation"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T22:09:06Z",
+      "first_seen": "2026-08-18T22:09:07Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-fe5e92661543b465-us",
@@ -87474,26 +87656,26 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1096,
+      "count": 1099,
       "outcome_counts": {
-        "pending": 614,
+        "pending": 617,
         "win": 452,
         "loss": 30,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1065,
+        "restrictive": 1068,
         "protective": 1,
         "supportive": 30,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1078,
+        "local": 1081,
         "statewide": 11,
         "federal": 7
       },
       "issue_top": {
-        "community_impact": 209,
+        "community_impact": 210,
         "zoning": 87,
         "grid_energy": 21
       },
@@ -87699,6 +87881,35 @@
         "community_impact": 10,
         "zoning": 10,
         "water": 7
+      },
+      "latest_date": "2026-08-18",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "PA": {
+      "state": "PA",
+      "count": 32,
+      "outcome_counts": {
+        "pending": 18,
+        "win": 10,
+        "loss": 4,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 10,
+        "unclear": 10
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 23,
+        "federal": 1
+      },
+      "issue_top": {
+        "ratepayer": 6,
+        "tax_incentive": 6,
+        "community_impact": 5
       },
       "latest_date": "2026-08-18",
       "map_color_tier": "restrictive",
@@ -88309,35 +88520,6 @@
         "community_impact": 3
       },
       "latest_date": "2026-07-30",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 31,
-      "outcome_counts": {
-        "pending": 17,
-        "win": 10,
-        "loss": 4,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 10,
-        "unclear": 10
-      },
-      "scope_counts": {
-        "local": 7,
-        "statewide": 23,
-        "federal": 1
-      },
-      "issue_top": {
-        "ratepayer": 6,
-        "tax_incentive": 6,
-        "community_impact": 5
-      },
-      "latest_date": "2026-07-28",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

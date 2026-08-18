@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-08-18T21:55:22Z",
+  "generated_at": "2026-08-18T22:09:07Z",
   "risk_score": {
-    "score": 36.8,
-    "tier": 11.7,
-    "engagement": 9.5,
-    "recency": 5.5,
-    "multi_source": 5.2,
+    "score": 38.5,
+    "tier": 12.6,
+    "engagement": 9.4,
+    "recency": 6.5,
+    "multi_source": 5.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 63.2,
+    "score": 61.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,22 +26,22 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 31,
+  "count": 32,
   "tier_counts": {
     "unclear": 10,
     "supportive": 10,
     "null": 7,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
-    "pending": 17,
+    "pending": 18,
     "win": 10,
     "loss": 4
   },
   "scope_counts": {
     "statewide": 23,
     "federal": 1,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "tax_incentive": 6,
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-07-28",
+  "latest": "2026-08-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-bd4353764cc3eebe-pa",
+      "date": "2026-08-18",
+      "jurisdiction": "nbcnews.com",
+      "title": "Gov . Josh Shapiro issues a new executive order on data centers in Pennsylvania",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://nbcnews.com/politics/2028-election/gov-josh-shapiro-executive-order-data-centers-pennsylvania-rcna593177"
+    },
     {
       "id": "news:gdelt-43806bb2c40b0e02-pa",
       "date": "2026-07-28",
@@ -147,15 +156,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.palegis.us/senate/co-sponsorship/memo?memoID=48102"
-    },
-    {
-      "id": "research:pa-pa-state-capitol-rotunda-20260422--150-pennsylvanians-representing-roughly-15-advoca",
-      "date": "2026-04-22",
-      "jurisdiction": "PA State Capitol Rotunda",
-      "title": "~150 Pennsylvanians representing roughly 15 advocacy groups, labor unions and community organizations rallied in Capitol Rotunda Harrisburg ",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.fox43.com/article/news/politics/rally-at-pa-capitol-calls-data-center-moratorium/521-d509b4d5-294c-4d97-aa67-0310f62f245e"
     }
   ]
 }
