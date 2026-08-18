@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T05:51:30Z",
-  "count": 1865,
+  "generated_at": "2026-08-18T06:19:38Z",
+  "count": 1870,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -520,6 +520,53 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-928d8709aeebea48-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nbcdfw.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": "court",
+      "date": "2026-08-18",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Judge blocks Westlake data center amid Keller residents lawsuit – NBC 5 Dallas - Fort Worth",
+      "sources": [
+        "https://nbcdfw.com/news/local/judge-blocks-westlake-data-center-amid-lawsuit-from-keller-residents/4063764"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T06:19:37Z",
+      "first_seen": "2026-08-18T06:19:37Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
       "id": "news:gdelt-a9f76905a27179bc-us",
       "origin": "news",
       "state": "US",
@@ -559,6 +606,53 @@
       "data_source": "news",
       "last_updated": "2026-08-18T02:04:01Z",
       "first_seen": "2026-08-18T02:04:01Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b7bcef27f3b60c90-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "study_or_report"
+      ],
+      "authority_level": "planning_commission",
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "zoning"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Topeka Planning Commission discuss zoning changes for data center development",
+      "sources": [
+        "https://yahoo.com/news/articles/topeka-planning-commission-discuss-zoning-041218185.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T06:19:37Z",
+      "first_seen": "2026-08-18T06:19:37Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -610,6 +704,51 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-db719612416e0227-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "hubcityradio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Aberdeen City Council heard experts dealing with data centers",
+      "sources": [
+        "https://hubcityradio.com/aberdeen-city-council-heard-experts-dealing-with-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T06:19:37Z",
+      "first_seen": "2026-08-18T06:19:37Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-df2a6b34a0707230-us",
       "origin": "news",
       "state": "US",
@@ -655,6 +794,53 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-e1a09aa1f0369ff2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "bridgemi.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ypsilanti Township eyes moratorium on power transmission to slow U - M data center",
+      "sources": [
+        "https://bridgemi.com/business-watch/ypsilanti-township-eyes-moratorium-on-power-transmission-to-slow-u-m-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T06:19:37Z",
+      "first_seen": "2026-08-18T06:19:37Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
       "id": "news:gdelt-ebe1afffe6bf58fd-us",
       "origin": "news",
       "state": "US",
@@ -698,6 +884,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-faddeb2898820c5a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wftv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-18",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Volusia County votes to ban large - scale data centers",
+      "sources": [
+        "https://wftv.com/news/local/new-volusia-county-ordinance-aims-block-large-scale-data-centers/ZCT2TLNRENDLJNMKGTGUDYG3EE"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T06:19:37Z",
+      "first_seen": "2026-08-18T06:19:37Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-0eb8f71c3a2784cd-il",
@@ -86290,28 +86521,28 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1076,
+      "count": 1081,
       "outcome_counts": {
-        "pending": 607,
-        "win": 440,
+        "pending": 609,
+        "win": 443,
         "loss": 29,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1046,
+        "restrictive": 1051,
         "protective": 1,
         "supportive": 29,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1059,
+        "local": 1064,
         "statewide": 10,
         "federal": 7
       },
       "issue_top": {
-        "community_impact": 206,
-        "zoning": 86,
-        "grid_energy": 20
+        "community_impact": 207,
+        "zoning": 87,
+        "grid_energy": 21
       },
       "latest_date": "2026-08-18",
       "map_color_tier": "restrictive",
