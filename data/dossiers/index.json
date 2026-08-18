@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-18T20:36:54Z",
+  "generated_at": "2026-08-18T20:56:53Z",
   "states": [
     {
       "state": "AK",
@@ -382,13 +382,13 @@
     },
     {
       "state": "ND",
-      "count": 3,
-      "risk_score": 61.9,
+      "count": 4,
+      "risk_score": 64.2,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
       "approvals": 1,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 0,
       "active_companies": 1,
       "latest": "2026-08-18",
