@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-18T21:14:07Z",
+  "generated_at": "2026-08-18T21:36:42Z",
   "states": [
     {
       "state": "AK",
@@ -592,10 +592,10 @@
     },
     {
       "state": "TX",
-      "count": 73,
-      "risk_score": 65.2,
+      "count": 74,
+      "risk_score": 65.3,
       "grade": "F",
-      "grade_score": 34.8,
+      "grade_score": 34.7,
       "moratoriums": 8,
       "approvals": 3,
       "denials": 32,

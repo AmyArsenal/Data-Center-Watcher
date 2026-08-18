@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-18T21:14:06Z",
+  "generated_at": "2026-08-18T21:36:42Z",
   "window_days": 90,
-  "count": 1061,
+  "count": 1062,
   "items": [
+    {
+      "id": "rss-latitude-1601002b4d05bba9",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "The grid’s woes just got bigger in Texas",
+      "source_domain": "latitudemedia.com",
+      "source_name": "Latitude Media",
+      "url": "https://latitudemedia.com/news/the-grids-woes-just-got-bigger-in-texas",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 21:36:41",
+      "url_hash": "1601002b4d05bba9",
+      "content_hash": "a97e438e841da9ba",
+      "source": "rss-latitude",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-latitude"
+      ],
+      "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
+      "last_seen": "2026-08-18T21:36:41Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.latitudemedia.com/?p=15823",
+        "rss_author": "Elizabeth K. Whitney",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-e7582a6c5dfeffac",
       "state": "US",
@@ -554,7 +593,7 @@
         "rss-dcd"
       ],
       "snippet": "As Virginia Beach officials look to bring in data center moratorium",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -755,7 +794,7 @@
         "rss-dcd"
       ],
       "snippet": "Nation also releases report on data centers",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3435,7 +3474,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5786,7 +5825,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6665,7 +6704,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9764,7 +9803,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9882,7 +9921,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11235,7 +11274,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -33487,7 +33526,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-18T21:14:06Z",
+      "last_seen": "2026-08-18T21:36:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42318,6 +42357,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 47,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 19,
+        "banned": 26,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 46,
+        "legal": 1
+      },
+      "latest_date": "2026-08-18"
+    },
     "ND": {
       "state": "ND",
       "count": 3,
@@ -42354,22 +42409,6 @@
       },
       "platforms": {
         "news": 8
-      },
-      "latest_date": "2026-08-18"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 46,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 26,
-        "protested": 18,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 45,
-        "legal": 1
       },
       "latest_date": "2026-08-18"
     },

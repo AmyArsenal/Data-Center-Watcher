@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T21:14:06Z",
-  "count": 1890,
+  "generated_at": "2026-08-18T21:36:42Z",
+  "count": 1891,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -1831,6 +1831,53 @@
       "data_source": "news",
       "last_updated": "2026-08-18T11:13:17Z",
       "first_seen": "2026-08-18T11:13:18Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-latitude-1601002b4d05bba9-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "Latitude Media",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "The grid’s woes just got bigger in Texas. Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media",
+      "sources": [
+        "https://latitudemedia.com/news/the-grids-woes-just-got-bigger-in-texas"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T21:36:41Z",
+      "first_seen": "2026-08-18T21:36:42Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -87572,26 +87619,26 @@
     },
     "TX": {
       "state": "TX",
-      "count": 73,
+      "count": 74,
       "outcome_counts": {
-        "pending": 35,
+        "pending": 36,
         "win": 32,
         "loss": 3,
         "mixed": 3
       },
       "tier_counts": {
-        "restrictive": 57,
+        "restrictive": 58,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 63,
+        "local": 64,
         "statewide": 10,
         "federal": 0
       },
       "issue_top": {
-        "grid_energy": 18,
+        "grid_energy": 19,
         "community_impact": 11,
         "water": 9
       },
