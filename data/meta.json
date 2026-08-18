@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T14:02:01Z",
+  "generated_at": "2026-08-18T14:48:55Z",
   "tier_timestamps": {
-    "fast": "2026-08-18T14:02:01Z",
+    "fast": "2026-08-18T14:48:55Z",
     "bills": "2026-08-18T13:14:28Z"
   },
   "counts_by_source": {
@@ -16,12 +16,12 @@
     "rss-court-dc": 1
   },
   "run_stats": {
-    "last_run_seconds": 33.89,
+    "last_run_seconds": 24.99,
     "raw_fetched": {
       "youtube": 0,
+      "rss": 190,
       "reddit": 0,
-      "gdelt": 0,
-      "rss": 190
+      "gdelt": 0
     },
     "inserted": 0,
     "updated": 9,
