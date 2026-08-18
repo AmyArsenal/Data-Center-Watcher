@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "SD",
-  "generated_at": "2026-08-18T12:29:54Z",
+  "generated_at": "2026-08-18T13:23:27Z",
   "risk_score": {
-    "score": 57.2,
-    "tier": 26.0,
+    "score": 61.9,
+    "tier": 30.7,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -26,17 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
     "null": 1,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
-    "win": 2
+    "win": 2,
+    "pending": 1
   },
   "scope_counts": {
     "statewide": 1,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "ratepayer": 1,
@@ -48,8 +49,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-24",
-  "latest": "2026-07-22",
+  "latest": "2026-08-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-12fd1cdd711f39cc-sd",
+      "date": "2026-08-18",
+      "jurisdiction": "dakotawarcollege.com",
+      "title": "Independent US Senate Candidate Brian Bengs claims he against Data Centers while he and his spouse bank on them in their investment portfoli",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://dakotawarcollege.com/independent-us-senate-candidate-brian-bengs-claims-hes-against-data-centers-while-he-and-his-spouse-bank-on-them-in-their-investment-portfolio"
+    },
     {
       "id": "news:gdelt-01acbc2520abd55e-sd",
       "date": "2026-07-22",

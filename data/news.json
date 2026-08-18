@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-18T12:29:53Z",
+  "generated_at": "2026-08-18T13:23:27Z",
   "window_days": 90,
-  "count": 1043,
+  "count": 1044,
   "items": [
+    {
+      "id": "gdelt-12fd1cdd711f39cc",
+      "state": "SD",
+      "city": null,
+      "category": "protested",
+      "headline": "Independent US Senate Candidate Brian Bengs claims he against Data Centers while he and his spouse bank on them in their investment portfolio . – South Dakota War College",
+      "source_domain": "dakotawarcollege.com",
+      "source_name": "dakotawarcollege.com",
+      "url": "https://dakotawarcollege.com/independent-us-senate-candidate-brian-bengs-claims-hes-against-data-centers-while-he-and-his-spouse-bank-on-them-in-their-investment-portfolio",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 13:23:26",
+      "url_hash": "12fd1cdd711f39cc",
+      "content_hash": "e17f60a6ea8c4396",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T13:23:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-d64467bfe73798b5",
       "state": "US",
@@ -30,7 +70,7 @@
         "rss-dcd"
       ],
       "snippet": "Nation also releases report on data centers",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1435,7 +1475,7 @@
         "rss-dcd"
       ],
       "snippet": "Iron Mountain dragged into dispute between broadcaster and its cloud provider",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2710,7 +2750,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5061,7 +5101,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5940,7 +5980,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9039,7 +9079,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9157,7 +9197,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10510,7 +10550,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -32762,7 +32802,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-18T12:29:52Z",
+      "last_seen": "2026-08-18T13:23:26Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41593,6 +41633,19 @@
     }
   ],
   "by_state": {
+    "SD": {
+      "state": "SD",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 1,
+        "banned": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-08-18"
+    },
     "ND": {
       "state": "ND",
       "count": 2,
@@ -41987,18 +42040,6 @@
         "news": 8
       },
       "latest_date": "2026-07-23"
-    },
-    "SD": {
-      "state": "SD",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-07-22"
     },
     "WY": {
       "state": "WY",

@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-18T12:29:54Z",
+  "generated_at": "2026-08-18T13:23:27Z",
   "states": [
     {
       "state": "AK",
@@ -564,8 +564,8 @@
     },
     {
       "state": "SD",
-      "count": 2,
-      "risk_score": 57.2,
+      "count": 3,
+      "risk_score": 61.9,
       "grade": "N/A",
       "grade_score": null,
       "moratoriums": 1,
@@ -573,7 +573,7 @@
       "denials": 2,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-07-22",
+      "latest": "2026-08-18",
       "url": "data/dossiers/state-SD.json"
     },
     {

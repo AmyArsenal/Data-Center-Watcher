@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T12:29:53Z",
-  "count": 1872,
+  "generated_at": "2026-08-18T13:23:27Z",
+  "count": 1873,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -199,6 +199,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-12fd1cdd711f39cc-sd",
+      "origin": "news",
+      "state": "SD",
+      "county": null,
+      "jurisdiction": "dakotawarcollege.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-18",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Independent US Senate Candidate Brian Bengs claims he against Data Centers while he and his spouse bank on them in their investment portfolio . – South Dakota War College",
+      "sources": [
+        "https://dakotawarcollege.com/independent-us-senate-candidate-brian-bengs-claims-hes-against-data-centers-while-he-and-his-spouse-bank-on-them-in-their-investment-portfolio"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T13:23:26Z",
+      "first_seen": "2026-08-18T13:23:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-169e70eef7d2968a-us",
@@ -86727,6 +86772,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "SD": {
+      "state": "SD",
+      "count": 3,
+      "outcome_counts": {
+        "pending": 1,
+        "win": 2,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "contract_guarantees": 1,
+        "grid_energy": 1,
+        "ratepayer": 1
+      },
+      "latest_date": "2026-08-18",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
     "OR": {
       "state": "OR",
       "count": 18,
@@ -87479,35 +87553,6 @@
       "latest_date": "2026-07-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "SD": {
-      "state": "SD",
-      "count": 2,
-      "outcome_counts": {
-        "pending": 0,
-        "win": 2,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "contract_guarantees": 1,
-        "grid_energy": 1,
-        "ratepayer": 1
-      },
-      "latest_date": "2026-07-22",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "win"
     },
     "UT": {
       "state": "UT",
