@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-18T16:15:48Z",
+  "generated_at": "2026-08-18T16:53:53Z",
   "window_days": 90,
-  "count": 1047,
+  "count": 1048,
   "items": [
+    {
+      "id": "rss-dcd-21336841a43b02ac",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Globalinx buys land in Virginia Beach to expand CLS campus",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 16:53:52",
+      "url_hash": "21336841a43b02ac",
+      "content_hash": "016957da747f2852",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "As Virginia Beach officials look to bring in data center moratorium",
+      "last_seen": "2026-08-18T16:53:52Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-5e9913589cb949f2",
       "state": "FL",
@@ -152,7 +191,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T15:53:04Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -192,7 +231,7 @@
         "rss-dcd"
       ],
       "snippet": "Nation also releases report on data centers",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2872,7 +2911,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5223,7 +5262,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6102,7 +6141,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9201,7 +9240,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9319,7 +9358,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10672,7 +10711,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -32924,7 +32963,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-18T16:15:47Z",
+      "last_seen": "2026-08-18T16:53:52Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41755,6 +41794,20 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 18,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 11,
+        "banned": 5,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 18
+      },
+      "latest_date": "2026-08-18"
+    },
     "FL": {
       "state": "FL",
       "count": 8,
@@ -41906,20 +41959,6 @@
         "news": 3
       },
       "latest_date": "2026-08-15"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 17,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 5,
-        "protested": 10,
-        "announced": 2
-      },
-      "platforms": {
-        "news": 17
-      },
-      "latest_date": "2026-08-14"
     },
     "NY": {
       "state": "NY",
