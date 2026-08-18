@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T20:56:53Z",
-  "count": 1889,
+  "generated_at": "2026-08-18T21:14:06Z",
+  "count": 1890,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -1518,6 +1518,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e7582a6c5dfeffac-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "dakotabroadcasting.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-18",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Aberdeen City Council holds first of three planned hearings regarding potential data center ordinance",
+      "sources": [
+        "https://dakotabroadcasting.com/aberdeen-city-council-holds-first-of-three-planned-hearings-regarding-potential-data-center-ordinance"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-18T21:14:06Z",
+      "first_seen": "2026-08-18T21:14:06Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:gdelt-ebe1afffe6bf58fd-us",
@@ -87382,21 +87427,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1095,
+      "count": 1096,
       "outcome_counts": {
         "pending": 614,
         "win": 452,
-        "loss": 29,
+        "loss": 30,
         "mixed": 0
       },
       "tier_counts": {
         "restrictive": 1065,
         "protective": 1,
-        "supportive": 29,
+        "supportive": 30,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1077,
+        "local": 1078,
         "statewide": 11,
         "federal": 7
       },
