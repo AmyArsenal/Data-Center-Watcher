@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-08-18T22:57:34Z",
+  "generated_at": "2026-08-18T23:14:39Z",
   "window_days": 90,
-  "count": 1066,
+  "count": 1067,
   "items": [
+    {
+      "id": "rss-rto-insider-4526f8ba16d92067",
+      "state": "WI",
+      "city": null,
+      "category": "protested",
+      "headline": "Oracle Drops Suit Against Wisconsin PSC over Financial Requirements",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/139566-oracle-drops-suit-against-wisconsin-psc-over-financial-requirements",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Oracle"
+      ],
+      "first_seen": "2026-08-18 23:14:38",
+      "url_hash": "4526f8ba16d92067",
+      "content_hash": "d56b022077c69d94",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "Tech firm Oracle has voluntarily dismissed its lawsuit against the Public Service Commission of Wisconsin, leaving strict financial safeguards intact on giant data center development. The post Oracle Drops Suit Against Wisconsin PSC over Financial Requirements appeared first on RTO Insider .",
+      "last_seen": "2026-08-18T23:14:38Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=139566",
+        "rss_author": "Amanda Durish Cook",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-eba4ac4c3560dd8a",
       "state": "US",
@@ -30,7 +71,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +111,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -112,7 +153,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -192,7 +233,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -231,7 +272,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -351,7 +392,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -391,7 +432,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -555,7 +596,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -595,7 +636,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T22:09:06Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -755,7 +796,7 @@
         "rss-dcd"
       ],
       "snippet": "As Virginia Beach officials look to bring in data center moratorium",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -956,7 +997,7 @@
         "rss-dcd"
       ],
       "snippet": "Nation also releases report on data centers",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3636,7 +3677,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5987,7 +6028,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6866,7 +6907,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9965,7 +10006,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -10083,7 +10124,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11436,7 +11477,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -33688,7 +33729,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-18T22:57:33Z",
+      "last_seen": "2026-08-18T23:14:38Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42519,6 +42560,21 @@
     }
   ],
   "by_state": {
+    "WI": {
+      "state": "WI",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 4,
+        "cancelled": 1,
+        "banned": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-08-18"
+    },
     "PA": {
       "state": "PA",
       "count": 5,
@@ -42628,21 +42684,6 @@
         "news": 18
       },
       "latest_date": "2026-08-18"
-    },
-    "WI": {
-      "state": "WI",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "cancelled": 1,
-        "banned": 1,
-        "protested": 3,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 6
-      },
-      "latest_date": "2026-08-17"
     },
     "NC": {
       "state": "NC",
