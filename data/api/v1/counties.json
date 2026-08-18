@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-08-17T23:56:07Z",
+  "generated_at": "2026-08-18T00:31:20Z",
   "counties": [
     {
       "county_fips": "04013",
@@ -61,7 +61,7 @@
       "county_name": "Cumberland County",
       "state": "NC",
       "count": 2,
-      "risk_score": 54.9,
+      "risk_score": 50.2,
       "latest": "2026-05-19",
       "url": "data/dossiers/county-37051.json"
     },
