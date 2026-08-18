@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-18T17:15:26Z",
+  "generated_at": "2026-08-18T17:43:05Z",
   "window_days": 90,
-  "count": 1048,
+  "count": 1050,
   "items": [
+    {
+      "id": "gdelt-7f597d8222692e56",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Data Centers a Hot Issue As Governor Race Takes Off » Urban Milwaukee",
+      "source_domain": "urbanmilwaukee.com",
+      "source_name": "urbanmilwaukee.com",
+      "url": "https://urbanmilwaukee.com/2026/08/18/data-centers-a-hot-issue-as-governors-race-takes-off",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 17:43:04",
+      "url_hash": "7f597d8222692e56",
+      "content_hash": "36cedfcf2fb3542b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T17:43:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-8e66fb1639ed7610",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "WHMI 93 . 5 Local News : Genoa Township Board Extends Data Center Moratorium",
+      "source_domain": "whmi.com",
+      "source_name": "whmi.com",
+      "url": "https://whmi.com/news/article/genoa-data-center-crypto-currency-mining-moratorium-extended",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 17:43:04",
+      "url_hash": "8e66fb1639ed7610",
+      "content_hash": "673757fcd9938b48",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T17:43:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-21336841a43b02ac",
       "state": "VA",
@@ -30,7 +110,7 @@
         "rss-dcd"
       ],
       "snippet": "As Virginia Beach officials look to bring in data center moratorium",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -69,7 +149,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T15:53:04Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -111,7 +191,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T15:53:04Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -151,7 +231,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T15:53:04Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -191,7 +271,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T16:53:52Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -231,7 +311,7 @@
         "rss-dcd"
       ],
       "snippet": "Nation also releases report on data centers",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2911,7 +2991,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5262,7 +5342,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -6141,7 +6221,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9240,7 +9320,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9358,7 +9438,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10711,7 +10791,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -32963,7 +33043,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-18T17:15:25Z",
+      "last_seen": "2026-08-18T17:43:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
