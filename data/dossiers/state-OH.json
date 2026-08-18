@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-18T00:31:20Z",
+  "generated_at": "2026-08-18T02:04:02Z",
   "risk_score": {
-    "score": 57.2,
-    "tier": 33.3,
+    "score": 58.1,
+    "tier": 33.5,
     "engagement": 6.2,
-    "recency": 12.6,
+    "recency": 13.3,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 42.8,
+    "score": 41.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 7,
+    "moratoriums": 8,
     "approvals": 2,
-    "denials": 15,
+    "denials": 16,
     "lawsuits": 1,
     "blocked": 3,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 37,
+  "count": 38,
   "tier_counts": {
-    "restrictive": 29,
+    "restrictive": 30,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
     "pending": 20,
-    "win": 15,
+    "win": 16,
     "loss": 2
   },
   "scope_counts": {
-    "local": 32,
+    "local": 33,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-08-10",
+  "latest": "2026-08-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-115f98b6118b3749-oh",
+      "date": "2026-08-18",
+      "jurisdiction": "journal-news.com",
+      "title": "Trenton proposed data center moratorium hangs in balance as Ohio Supreme Court fight moves forward | Ohio News",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://journal-news.com/local/ohio/trenton-s-proposed-data-center-moratorium-hangs-in-balance-as-ohio-supreme-court-fight-moves/article_5cdf4662-b926-5da4-a6d1-3d03aa6f9cc5.html"
+    },
     {
       "id": "news:gdelt-2e5617fc12fd3562-oh",
       "date": "2026-08-10",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/135914-ferc-sets-hearings-grid-growth-ohio-tx-project"
-    },
-    {
-      "id": "news:rss-dcd-23efcad36a525332-oh",
-      "date": "2026-06-25",
-      "jurisdiction": "DCD",
-      "title": "Proposed data center in Guernsey County, Ohio, could go ahead despite local government opposition. Project proposed by Smart Energy Partners",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition"
     }
   ]
 }

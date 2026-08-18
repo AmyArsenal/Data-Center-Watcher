@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IL",
-  "generated_at": "2026-08-18T00:31:20Z",
+  "generated_at": "2026-08-18T02:04:02Z",
   "risk_score": {
-    "score": 52.0,
-    "tier": 30.7,
+    "score": 55.5,
+    "tier": 31.6,
     "engagement": 6.2,
-    "recency": 15.1,
+    "recency": 17.6,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.0,
+    "score": 44.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 9,
+  "count": 10,
   "tier_counts": {
     "null": 3,
-    "restrictive": 6
+    "restrictive": 7
   },
   "outcome_counts": {
     "win": 4,
     "loss": 1,
-    "pending": 4
+    "pending": 5
   },
   "scope_counts": {
     "local": 6,
-    "statewide": 3
+    "statewide": 4
   },
   "issue_top": {
     "zoning": 3,
@@ -55,8 +55,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-16",
-  "latest": "2026-08-17",
+  "latest": "2026-08-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-1ae8d3e991353c53-il",
+      "date": "2026-08-18",
+      "jurisdiction": "wvik.org",
+      "title": "Data centers emerging as key issue in Illinois governor race",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://wvik.org/illinois/2026-08-17/data-centers-emerging-as-key-issue-in-illinois-governors-race"
+    },
     {
       "id": "news:gdelt-0eb8f71c3a2784cd-il",
       "date": "2026-08-17",
