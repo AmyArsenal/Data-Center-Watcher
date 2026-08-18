@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-18T14:48:54Z",
+  "generated_at": "2026-08-18T15:18:56Z",
   "risk_score": {
-    "score": 65.1,
-    "tier": 33.6,
+    "score": 65.2,
+    "tier": 33.7,
     "engagement": 6.3,
     "recency": 20.0,
     "multi_source": 0.1,
@@ -12,23 +12,23 @@
   },
   "grade": {
     "letter": "F",
-    "score": 34.9,
+    "score": 34.8,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
     "moratoriums": 8,
     "approvals": 3,
-    "denials": 31,
-    "lawsuits": 3,
+    "denials": 32,
+    "lawsuits": 4,
     "blocked": 3,
     "active_companies": 8,
     "bills_introduced": 0,
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 72,
+  "count": 73,
   "tier_counts": {
-    "restrictive": 56,
+    "restrictive": 57,
     "null": 15,
     "supportive": 1
   },
@@ -36,10 +36,10 @@
     "pending": 35,
     "mixed": 3,
     "loss": 3,
-    "win": 31
+    "win": 32
   },
   "scope_counts": {
-    "local": 62,
+    "local": 63,
     "statewide": 10
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-14",
+  "latest": "2026-08-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-e3e8b797f4528759-tx",
+      "date": "2026-08-18",
+      "jurisdiction": "dmnews.com",
+      "title": "Hill County just became the first Texas county to ban data centers , and 23 days later a $100 million developer lawsuit collapsed the ban an",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dmnews.com/dmn-r-hill-county-just-became-the-first-texas-county-to-ban-data-centers-and-23-days-later-a-100-million-developer-lawsuit-collapsed-the-ban-and-left-the-county-paying-100000-in-legal-fees"
+    },
     {
       "id": "news:gdelt-039f875b5c837cdd-tx",
       "date": "2026-08-14",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://latitudemedia.com/news/open-circuit-data-centers-have-a-texas-sized-energy-problem"
-    },
-    {
-      "id": "news:gdelt-9e7a4e24e9c6aca1-tx",
-      "date": "2026-08-07",
-      "jurisdiction": "constructiondive.com",
-      "title": "Texas data center pause puts 20 % of US pipeline at risk of delay : BNEF",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://constructiondive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827255"
     }
   ]
 }

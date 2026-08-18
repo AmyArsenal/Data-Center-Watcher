@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "FL",
-  "generated_at": "2026-08-18T14:48:54Z",
+  "generated_at": "2026-08-18T15:18:56Z",
   "risk_score": {
-    "score": 49.5,
-    "tier": 28.8,
-    "engagement": 7.9,
-    "recency": 10.1,
-    "multi_source": 2.7,
+    "score": 51.8,
+    "tier": 29.5,
+    "engagement": 7.8,
+    "recency": 12.0,
+    "multi_source": 2.5,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.5,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.2,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
@@ -26,19 +26,19 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 15,
+  "count": 16,
   "tier_counts": {
     "unclear": 4,
     "null": 2,
-    "restrictive": 9
+    "restrictive": 10
   },
   "outcome_counts": {
-    "pending": 8,
+    "pending": 9,
     "win": 7
   },
   "scope_counts": {
     "statewide": 5,
-    "local": 10
+    "local": 11
   },
   "issue_top": {
     "water": 3,
@@ -52,8 +52,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-05",
-  "latest": "2026-08-14",
+  "latest": "2026-08-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-5e9913589cb949f2-fl",
+      "date": "2026-08-18",
+      "jurisdiction": "eenews.net",
+      "title": "Data center opposition faces newest test in Florida primary elections",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://eenews.net/articles/data-center-opposition-faces-newest-test-in-floridas-primary-elections"
+    },
     {
       "id": "news:gdelt-f5c43ac2455f6b5f-fl",
       "date": "2026-08-14",
@@ -134,15 +143,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://wlrn.org/government-politics/2026-04-29/scrapped-data-center-in-okeechobee-county-mirrors-rising-opposition-to-data-centers-in-south-florida"
-    },
-    {
-      "id": "research:fl-nassau-county-board-20260414-nassau-county-board-of-county-commissioners-direct",
-      "date": "2026-04-14",
-      "jurisdiction": "Nassau County Board",
-      "title": "Nassau County Board of County Commissioners directed County Attorney to draft ordinance establishing 12-month moratorium on data center deve",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.fernandinaobserver.org/stories/next-60-days-critical-as-nassau-county-considers-data-center-moratorium,103276"
     }
   ]
 }
