@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-08-18T04:21:55Z",
+  "generated_at": "2026-08-18T04:57:40Z",
   "window_days": 90,
-  "count": 1029,
+  "count": 1036,
   "items": [
+    {
+      "id": "gdelt-27a6ce11aba8d223",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Harrington City Council rejects data center ordinance after heated community meeting",
+      "source_domain": "wboc.com",
+      "source_name": "wboc.com",
+      "url": "https://wboc.com/news/harrington-city-council-rejects-data-center-ordinance-after-heated-community-meeting/article_360166e6-ffde-4dd3-b229-a4c0e3d5438a.html",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 04:57:40",
+      "url_hash": "27a6ce11aba8d223",
+      "content_hash": "3b4735e41f1aa114",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T04:57:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5733d2c61bae65a3",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center moratorium petition heads to Lubbock City Council",
+      "source_domain": "fox34.com",
+      "source_name": "fox34.com",
+      "url": "https://fox34.com/2026/08/18/data-center-moratorium-petition-heads-lubbock-city-council",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 04:57:40",
+      "url_hash": "5733d2c61bae65a3",
+      "content_hash": "4f7da8c4b1a57148",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T04:57:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4b97d66439a92eef",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Mason City Council approves data center communication plan",
+      "source_domain": "wilx.com",
+      "source_name": "wilx.com",
+      "url": "https://wilx.com/2026/08/18/mason-city-council-approves-data-center-communication-plan",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 04:57:40",
+      "url_hash": "4b97d66439a92eef",
+      "content_hash": "269e380ac3575d7d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T04:57:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-169e70eef7d2968a",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "The City of Hanford opposes data centers , statement says",
+      "source_domain": "hanfordsentinel.com",
+      "source_name": "hanfordsentinel.com",
+      "url": "https://hanfordsentinel.com/business/the-city-of-hanford-opposes-data-centers-statement-says/article_f33e1d03-a348-46ba-a807-4cf9ba81d14f.html",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 04:57:40",
+      "url_hash": "169e70eef7d2968a",
+      "content_hash": "13ec086ea9b9f203",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T04:57:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-03ff5bf5641a10a6",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Moratorium proposal for Caddo Parish data center tax incentives hits legal roadblock",
+      "source_domain": "ksla.com",
+      "source_name": "ksla.com",
+      "url": "https://ksla.com/2026/08/18/caddo-parish-commissioner-seeks-moratorium-data-center-tax-incentives",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 04:57:40",
+      "url_hash": "03ff5bf5641a10a6",
+      "content_hash": "3c1a655fd8847766",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T04:57:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-cce5faf1a29d2e9b",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Spartanburg County Council delays vote on data center pause",
+      "source_domain": "postandcourier.com",
+      "source_name": "postandcourier.com",
+      "url": "https://postandcourier.com/spartanburg/news/spartanburg-county-data-center-moratorium/article_9d34893a-8dea-457e-9e5f-2a04755be399.html",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 04:57:40",
+      "url_hash": "cce5faf1a29d2e9b",
+      "content_hash": "ce69acccdb94136f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T04:57:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7a3585f090bfee0a",
+      "state": "ND",
+      "city": null,
+      "category": "banned",
+      "headline": "No pause on data centers but North Dakota special session to debate non - disclosure deals",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/politics/articles/no-pause-data-centers-north-014105648.html",
+      "date": "2026-08-18",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-18 04:57:40",
+      "url_hash": "7a3585f090bfee0a",
+      "content_hash": "9d93cf11a34d41b8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-18T04:57:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-1ae8d3e991353c53",
       "state": "IL",
@@ -192,7 +472,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -232,7 +512,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T02:04:01Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -272,7 +552,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T02:04:01Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -312,7 +592,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-18T02:04:01Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -876,7 +1156,7 @@
         "rss-dcd"
       ],
       "snippet": "Iron Mountain dragged into dispute between broadcaster and its cloud provider",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -915,7 +1195,7 @@
         "rss-dcd"
       ],
       "snippet": "Proactive community engagement strategies for data center developers",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -954,7 +1234,7 @@
         "rss-dcd"
       ],
       "snippet": "Data centers that fail to meet the standards could see their projects rejected",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -993,7 +1273,7 @@
         "rss-dcd"
       ],
       "snippet": "Plans for 100,000 sq ft development withdrawn",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2151,7 +2431,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4502,7 +4782,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -5381,7 +5661,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8480,7 +8760,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8598,7 +8878,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9951,7 +10231,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -32203,7 +32483,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-18T04:21:54Z",
+      "last_seen": "2026-08-18T04:57:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41034,6 +41314,18 @@
     }
   ],
   "by_state": {
+    "ND": {
+      "state": "ND",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-08-18"
+    },
     "IL": {
       "state": "IL",
       "count": 6,
@@ -41244,18 +41536,6 @@
         "news": 9
       },
       "latest_date": "2026-08-12"
-    },
-    "ND": {
-      "state": "ND",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-08-11"
     },
     "IN": {
       "state": "IN",

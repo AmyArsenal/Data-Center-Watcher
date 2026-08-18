@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ND",
-  "generated_at": "2026-08-18T04:21:56Z",
+  "generated_at": "2026-08-18T04:57:41Z",
   "risk_score": {
-    "score": 57.2,
-    "tier": 26.0,
+    "score": 61.9,
+    "tier": 30.7,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -18,7 +18,7 @@
   "quantified": {
     "moratoriums": 1,
     "approvals": 1,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
     "null": 1,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
     "loss": 1,
-    "win": 1
+    "win": 2
   },
   "scope_counts": {
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "water": 1,
@@ -53,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-09-02",
-  "latest": "2026-08-11",
+  "latest": "2026-08-18",
   "top_citations": [
+    {
+      "id": "news:gdelt-7a3585f090bfee0a-nd",
+      "date": "2026-08-18",
+      "jurisdiction": "yahoo.com",
+      "title": "No pause on data centers but North Dakota special session to debate non - disclosure deals",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://yahoo.com/news/politics/articles/no-pause-data-centers-north-014105648.html"
+    },
     {
       "id": "news:gdelt-c6fb9340bc86fe06-nd",
       "date": "2026-08-11",
