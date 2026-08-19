@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T18:18:02Z",
-  "count": 1920,
+  "generated_at": "2026-08-19T18:58:43Z",
+  "count": 1921,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -470,6 +470,51 @@
       "data_source": "news",
       "last_updated": "2026-08-19T07:51:32Z",
       "first_seen": "2026-08-19T07:51:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-97c04d32b1fd68c9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "techtimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-19",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Darline Graham Backs Chinese AI Data Center Ban ; Says National Security Not Her Thing",
+      "sources": [
+        "https://techtimes.com/articles/324993/20260819/darline-graham-backs-chinese-ai-data-center-ban-says-national-security-not-her-thing.htm"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-19T18:58:42Z",
+      "first_seen": "2026-08-19T18:58:43Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -88823,21 +88868,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1119,
+      "count": 1120,
       "outcome_counts": {
         "pending": 623,
-        "win": 465,
+        "win": 466,
         "loss": 31,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1086,
+        "restrictive": 1087,
         "protective": 2,
         "supportive": 31,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1100,
+        "local": 1101,
         "statewide": 11,
         "federal": 8
       },

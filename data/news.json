@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-19T18:18:02Z",
+  "generated_at": "2026-08-19T18:58:43Z",
   "window_days": 90,
-  "count": 1076,
+  "count": 1077,
   "items": [
+    {
+      "id": "gdelt-97c04d32b1fd68c9",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Darline Graham Backs Chinese AI Data Center Ban ; Says National Security Not Her Thing",
+      "source_domain": "techtimes.com",
+      "source_name": "techtimes.com",
+      "url": "https://techtimes.com/articles/324993/20260819/darline-graham-backs-chinese-ai-data-center-ban-says-national-security-not-her-thing.htm",
+      "date": "2026-08-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-19 18:58:42",
+      "url_hash": "97c04d32b1fd68c9",
+      "content_hash": "0e92dbb098d4cd63",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-19T18:58:42Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-e11725796afaa066",
       "state": "US",
@@ -230,7 +270,7 @@
         "rss-dcd"
       ],
       "snippet": "Mandates that data center projects receive all required local approvals before permits are issued",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -389,7 +429,7 @@
         "rss-dcd"
       ],
       "snippet": "Facility to be located close to BESS and substation",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -993,7 +1033,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Tech firm Oracle has voluntarily dismissed its lawsuit against the Public Service Commission of Wisconsin, leaving strict financial safeguards intact on giant data center development. The post Oracle Drops Suit Against Wisconsin PSC over Financial Requirements appeared first on RTO Insider .",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1194,7 +1234,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4638,7 +4678,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6989,7 +7029,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -7868,7 +7908,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10967,7 +11007,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11085,7 +11125,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12438,7 +12478,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -34690,7 +34730,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-19T18:18:01Z",
+      "last_seen": "2026-08-19T18:58:42Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
