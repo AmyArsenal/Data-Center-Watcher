@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-19T15:52:46Z",
+  "generated_at": "2026-08-19T16:15:55Z",
   "states": [
     {
       "state": "AK",
@@ -522,16 +522,16 @@
     },
     {
       "state": "PA",
-      "count": 32,
-      "risk_score": 38.5,
+      "count": 33,
+      "risk_score": 40.1,
       "grade": "C",
-      "grade_score": 61.5,
+      "grade_score": 59.9,
       "moratoriums": 2,
       "approvals": 4,
       "denials": 10,
       "lawsuits": 0,
       "active_companies": 2,
-      "latest": "2026-08-18",
+      "latest": "2026-08-19",
       "url": "data/dossiers/state-PA.json"
     },
     {

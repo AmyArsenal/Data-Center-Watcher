@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-08-19T15:52:46Z",
+  "generated_at": "2026-08-19T16:15:55Z",
   "risk_score": {
-    "score": 38.5,
-    "tier": 12.6,
-    "engagement": 9.4,
-    "recency": 6.5,
-    "multi_source": 5.0,
+    "score": 40.1,
+    "tier": 13.5,
+    "engagement": 9.3,
+    "recency": 7.6,
+    "multi_source": 4.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 61.5,
+    "score": 59.9,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 32,
+  "count": 33,
   "tier_counts": {
     "unclear": 10,
     "supportive": 10,
     "null": 7,
-    "restrictive": 5
+    "restrictive": 6
   },
   "outcome_counts": {
-    "pending": 18,
+    "pending": 19,
     "win": 10,
     "loss": 4
   },
   "scope_counts": {
-    "statewide": 23,
+    "statewide": 24,
     "federal": 1,
     "local": 8
   },
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-08-18",
+  "latest": "2026-08-19",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-68688bfbd8a94aa4-pa",
+      "date": "2026-08-19",
+      "jurisdiction": "DCD",
+      "title": "Pennsylvania Governor signs executive order imposing strict requirements on data center developments. Mandates that data center projects rec",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/pennsylvania-governor-signs-executive-order-imposing-strict-requirements-on-data-center-developments"
+    },
     {
       "id": "news:gdelt-bd4353764cc3eebe-pa",
       "date": "2026-08-18",
@@ -147,15 +156,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://utilitydive.com/news/firstenergy-earnings-pjm-auction-affordability-data/818929"
-    },
-    {
-      "id": "research:pa-pennsylvania-senate-20260422-state-sens-katie-muth-d-and-rosemary-brown-r",
-      "date": "2026-04-22",
-      "jurisdiction": "Pennsylvania Senate",
-      "title": "State Sens. Katie Muth (D) and Rosemary Brown (R) announced plans to introduce a bipartisan three-year statewide moratorium on hyperscale da",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.palegis.us/senate/co-sponsorship/memo?memoID=48102"
     }
   ]
 }
