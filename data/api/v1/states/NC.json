@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NC",
-  "generated_at": "2026-08-19T07:11:45Z",
+  "generated_at": "2026-08-19T07:51:33Z",
   "risk_score": {
-    "score": 54.0,
-    "tier": 28.3,
+    "score": 56.7,
+    "tier": 29.1,
     "engagement": 6.2,
-    "recency": 14.5,
+    "recency": 16.3,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.0,
+    "score": 43.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 5,
+    "moratoriums": 6,
     "approvals": 1,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 1,
     "blocked": 3,
     "active_companies": 2,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 13,
+  "count": 14,
   "tier_counts": {
-    "restrictive": 8,
+    "restrictive": 9,
     "null": 4,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 5,
+    "win": 6,
     "loss": 1
   },
   "scope_counts": {
-    "local": 13
+    "local": 14
   },
   "issue_top": {
     "grid_energy": 4,
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-13",
-  "latest": "2026-08-17",
+  "latest": "2026-08-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-8cb43c79b7d48977-nc",
+      "date": "2026-08-19",
+      "jurisdiction": "Raleigh",
+      "title": "Raleigh is the largest city in the state without a data center moratorium . Why ?",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://wral.com/news/local/raleigh-largest-nc-city-no-data-center-moratorium-august-2026"
+    },
     {
       "id": "news:rss-dcd-1d8b7ed6f46cf2d9-nc",
       "date": "2026-08-17",
@@ -144,15 +153,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://www.wfae.org/energy-environment/2026-04-24/charlotte-council-member-calls-for-a-pause-on-new-data-centers-near-neighborhoods"
-    },
-    {
-      "id": "research:nc-cumberland-county-board-20260423-cumberland-county-board-of-commissioners-voted-6-0",
-      "date": "2026-04-23",
-      "jurisdiction": "Cumberland County Board",
-      "title": "Cumberland County Board of Commissioners voted 6-0 to schedule public hearing on May 18 to consider 1-3 year data center moratorium. At leas",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.cityviewnc.com/stories/cumberland-commissioners-schedule-hearing-on-data-center-moratorium/"
     }
   ]
 }
