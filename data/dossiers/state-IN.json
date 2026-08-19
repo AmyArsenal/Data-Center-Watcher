@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IN",
-  "generated_at": "2026-08-19T22:51:43Z",
+  "generated_at": "2026-08-19T23:11:15Z",
   "risk_score": {
-    "score": 52.3,
-    "tier": 28.8,
+    "score": 56.7,
+    "tier": 30.0,
     "engagement": 6.2,
-    "recency": 12.3,
+    "recency": 15.4,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.7,
+    "score": 43.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 6,
     "approvals": 1,
-    "denials": 7,
+    "denials": 9,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 3,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 16,
+  "count": 18,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 12,
     "null": 5,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 7,
+    "win": 9,
     "mixed": 1,
     "loss": 1
   },
   "scope_counts": {
-    "local": 14,
+    "local": 16,
     "statewide": 2
   },
   "issue_top": {
@@ -68,8 +68,26 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-01",
-  "latest": "2026-08-11",
+  "latest": "2026-08-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-e8d055110a3ccfdb-in",
+      "date": "2026-08-19",
+      "jurisdiction": "insideindianabusiness.com",
+      "title": "Indianapolis data center moratorium receives final approval – Inside INdiana Business",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://insideindianabusiness.com/articles/indianapolis-data-center-moratorium-receives-final-approval"
+    },
+    {
+      "id": "news:gdelt-e9be3e277cd86c93-in",
+      "date": "2026-08-19",
+      "jurisdiction": "ibj.com",
+      "title": "Indianapolis data center moratorium receives final approval – Indianapolis Business Journal",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://ibj.com/articles/indianapolis-data-center-moratorium-receives-final-approval"
+    },
     {
       "id": "news:gdelt-83434c3cf3e5b9c6-in",
       "date": "2026-08-11",
@@ -141,24 +159,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://chicagotribune.com/2026/05/09/indiana-public-interest-groups-call-for-data-center-moratoriums"
-    },
-    {
-      "id": "news:rss-latitude-b7298049ca437f36-in",
-      "date": "2026-05-01",
-      "jurisdiction": "Latitude Media",
-      "title": "In Indiana, an anatomy of data center opposition. High electricity rates, labor challenges, and black-box deals are colliding with longstand",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://latitudemedia.com/news/in-indiana-an-anatomy-of-data-center-opposition"
-    },
-    {
-      "id": "social:reddit-78dc109a58ec9dbf-in",
-      "date": "2026-04-23",
-      "jurisdiction": "r/indianapolis",
-      "title": "Powering central Indiana’s future. I got an email from AES about Google’s power center filing in Monrovia, IN, and I wanted to put out some ",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://reddit.com/r/indianapolis/comments/1stm4wn/powering_central_indianas_future"
     }
   ]
 }

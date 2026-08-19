@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "DE",
-  "generated_at": "2026-08-19T22:51:43Z",
+  "generated_at": "2026-08-19T23:11:15Z",
   "risk_score": {
-    "score": 27.2,
-    "tier": 12.0,
+    "score": 43.2,
+    "tier": 19.0,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 13.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
@@ -26,21 +26,22 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 3,
+  "count": 4,
   "tier_counts": {
-    "null": 3
+    "null": 3,
+    "restrictive": 1
   },
   "outcome_counts": {
     "mixed": 1,
     "win": 1,
-    "pending": 1
+    "pending": 2
   },
   "scope_counts": {
-    "local": 2,
+    "local": 3,
     "statewide": 1
   },
   "issue_top": {
-    "zoning": 1,
+    "zoning": 2,
     "noise": 1,
     "design_standards": 1,
     "environmental": 1,
@@ -56,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-02",
-  "latest": "2026-03-11",
+  "latest": "2026-08-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-c5264401e01b854c-de",
+      "date": "2026-08-19",
+      "jurisdiction": "delcotimes.com",
+      "title": "More Delaware County communities address data center zoning",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://delcotimes.com/2026/08/19/more-delaware-county-communities-address-data-center-zoning"
+    },
     {
       "id": "research:de-new-castle-county-council-20260311-after-months-of-debate-new-castle-county-council",
       "date": "2026-03-11",
