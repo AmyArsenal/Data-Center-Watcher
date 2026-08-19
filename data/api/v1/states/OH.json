@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-19T05:52:10Z",
+  "generated_at": "2026-08-19T06:20:33Z",
   "risk_score": {
-    "score": 58.1,
-    "tier": 33.5,
+    "score": 58.9,
+    "tier": 33.6,
     "engagement": 6.2,
-    "recency": 13.3,
+    "recency": 14.0,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.9,
+    "score": 41.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 38,
+  "count": 39,
   "tier_counts": {
-    "restrictive": 30,
+    "restrictive": 31,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
-    "pending": 20,
+    "pending": 21,
     "win": 16,
     "loss": 2
   },
   "scope_counts": {
-    "local": 33,
+    "local": 34,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-08-18",
+  "latest": "2026-08-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-631bf96bb407c708-oh",
+      "date": "2026-08-19",
+      "jurisdiction": "newswatchman.com",
+      "title": "NVIDIA ponying up $105B for OpenAI , Softbank mega data center in Ohio",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "http://newswatchman.com/community/nvidia-ponying-up-105b-for-openai-softbank-mega-data-center-in-ohio/article_4fab9380-0ed8-44e3-83af-62de33082233.html"
+    },
     {
       "id": "news:gdelt-115f98b6118b3749-oh",
       "date": "2026-08-18",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterknowledge.com/data-center-site-selection/can-transparency-become-an-ai-data-center-advantage-"
-    },
-    {
-      "id": "news:rss-rto-insider-65ea68f36cf43781-oh",
-      "date": "2026-07-07",
-      "jurisdiction": "RTO Insider",
-      "title": "FERC Sets Grid Growth Ohio Project for Hearings on ROE, Other Issues. FERC instituted settlement judge proceedings for some aspects of a req",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://rtoinsider.com/135914-ferc-sets-hearings-grid-growth-ohio-tx-project"
     }
   ]
 }
