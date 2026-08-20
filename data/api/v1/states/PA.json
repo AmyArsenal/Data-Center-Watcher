@@ -1,47 +1,47 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "PA",
-  "generated_at": "2026-08-20T08:21:39Z",
+  "generated_at": "2026-08-20T09:47:45Z",
   "risk_score": {
-    "score": 40.1,
-    "tier": 13.5,
-    "engagement": 9.3,
-    "recency": 7.6,
-    "multi_source": 4.8,
+    "score": 41.6,
+    "tier": 14.2,
+    "engagement": 9.2,
+    "recency": 8.5,
+    "multi_source": 4.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.9,
+    "score": 58.4,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 4,
-    "denials": 10,
+    "denials": 11,
     "lawsuits": 0,
-    "blocked": 1,
+    "blocked": 2,
     "active_companies": 2,
     "bills_introduced": 9,
     "bills_passed": 6,
     "bills_enacted": 2
   },
-  "count": 33,
+  "count": 34,
   "tier_counts": {
     "unclear": 10,
     "supportive": 10,
     "null": 7,
-    "restrictive": 6
+    "restrictive": 7
   },
   "outcome_counts": {
     "pending": 19,
-    "win": 10,
+    "win": 11,
     "loss": 4
   },
   "scope_counts": {
     "statewide": 24,
     "federal": 1,
-    "local": 8
+    "local": 9
   },
   "issue_top": {
     "tax_incentive": 6,
@@ -65,8 +65,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2021-03-17",
-  "latest": "2026-08-19",
+  "latest": "2026-08-20",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-8e5f6dbb490a037c-pa",
+      "date": "2026-08-20",
+      "jurisdiction": "DCD",
+      "title": "Plans for five data centers in King of Prussia, Pennsylvania, blocked. Developer intends to launch appeal",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/plans-for-five-data-centers-in-king-of-prussia-pennsylvania-blocked"
+    },
     {
       "id": "news:rss-dcd-68688bfbd8a94aa4-pa",
       "date": "2026-08-19",
@@ -147,15 +156,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/plan-for-17bn-data-center-in-lebanon-county-pennsylvania-withdrawn-by-developer"
-    },
-    {
-      "id": "news:rss-utilitydive-c07863110c1895f3-pa",
-      "date": "2026-04-30",
-      "jurisdiction": "Utility Dive - Latest News",
-      "title": "FirstEnergy opposes key part of PJM data center backstop procurement plan. The PJM Interconnection&rsquo;s planned backstop auction is flawe",
-      "tier": "supportive",
-      "outcome": "loss",
-      "url": "https://utilitydive.com/news/firstenergy-earnings-pjm-auction-affordability-data/818929"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T08:21:39Z",
-  "count": 1939,
+  "generated_at": "2026-08-20T09:47:45Z",
+  "count": 1940,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -336,6 +336,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-8e5f6dbb490a037c-pa",
+      "origin": "news",
+      "state": "PA",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-20",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Plans for five data centers in King of Prussia, Pennsylvania, blocked. Developer intends to launch appeal",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/plans-for-five-data-centers-in-king-of-prussia-pennsylvania-blocked"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-20T09:47:44Z",
+      "first_seen": "2026-08-20T09:47:44Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-00f082704eeae253-us",
@@ -89741,6 +89786,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "PA": {
+      "state": "PA",
+      "count": 34,
+      "outcome_counts": {
+        "pending": 19,
+        "win": 11,
+        "loss": 4,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 7,
+        "protective": 0,
+        "supportive": 10,
+        "unclear": 10
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 24,
+        "federal": 1
+      },
+      "issue_top": {
+        "ratepayer": 6,
+        "tax_incentive": 6,
+        "community_impact": 5
+      },
+      "latest_date": "2026-08-20",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 39,
@@ -89827,35 +89901,6 @@
       "latest_date": "2026-08-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "PA": {
-      "state": "PA",
-      "count": 33,
-      "outcome_counts": {
-        "pending": 19,
-        "win": 10,
-        "loss": 4,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 6,
-        "protective": 0,
-        "supportive": 10,
-        "unclear": 10
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 24,
-        "federal": 1
-      },
-      "issue_top": {
-        "ratepayer": 6,
-        "tax_incentive": 6,
-        "community_impact": 5
-      },
-      "latest_date": "2026-08-19",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "IN": {
       "state": "IN",
