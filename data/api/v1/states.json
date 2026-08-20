@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-20T04:59:41Z",
+  "generated_at": "2026-08-20T05:28:01Z",
   "states": [
     {
       "state": "AK",
@@ -326,16 +326,16 @@
     },
     {
       "state": "MO",
-      "count": 25,
-      "risk_score": 48.1,
+      "count": 26,
+      "risk_score": 49.5,
       "grade": "C",
-      "grade_score": 51.9,
-      "moratoriums": 1,
+      "grade_score": 50.5,
+      "moratoriums": 2,
       "approvals": 1,
-      "denials": 6,
+      "denials": 7,
       "lawsuits": 1,
       "active_companies": 3,
-      "latest": "2026-08-12",
+      "latest": "2026-08-20",
       "url": "data/dossiers/state-MO.json"
     },
     {
@@ -452,16 +452,16 @@
     },
     {
       "state": "NV",
-      "count": 4,
-      "risk_score": 42.2,
-      "grade": "N/A",
-      "grade_score": null,
+      "count": 5,
+      "risk_score": 51.0,
+      "grade": "D",
+      "grade_score": 49.0,
       "moratoriums": 1,
       "approvals": 1,
-      "denials": 1,
+      "denials": 2,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-08-04",
+      "latest": "2026-08-20",
       "url": "data/dossiers/state-NV.json"
     },
     {
@@ -620,16 +620,16 @@
     },
     {
       "state": "VA",
-      "count": 56,
-      "risk_score": 53.9,
+      "count": 57,
+      "risk_score": 54.6,
       "grade": "D",
-      "grade_score": 46.1,
-      "moratoriums": 6,
+      "grade_score": 45.4,
+      "moratoriums": 7,
       "approvals": 4,
-      "denials": 21,
+      "denials": 22,
       "lawsuits": 3,
       "active_companies": 3,
-      "latest": "2026-08-18",
+      "latest": "2026-08-19",
       "url": "data/dossiers/state-VA.json"
     },
     {

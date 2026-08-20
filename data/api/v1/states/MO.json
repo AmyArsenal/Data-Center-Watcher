@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-08-20T04:59:41Z",
+  "generated_at": "2026-08-20T05:28:01Z",
   "risk_score": {
-    "score": 48.1,
-    "tier": 31.7,
+    "score": 49.5,
+    "tier": 32.0,
     "engagement": 6.5,
-    "recency": 9.5,
+    "recency": 10.7,
     "multi_source": 0.4,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.9,
+    "score": 50.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 1,
-    "denials": 6,
+    "denials": 7,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 3,
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 25,
+  "count": 26,
   "tier_counts": {
-    "restrictive": 18,
+    "restrictive": 19,
     "unclear": 1,
     "null": 5,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 18,
-    "win": 6,
+    "win": 7,
     "loss": 1
   },
   "scope_counts": {
-    "local": 24,
+    "local": 25,
     "statewide": 1
   },
   "issue_top": {
@@ -68,8 +68,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-24",
-  "latest": "2026-08-12",
+  "latest": "2026-08-20",
   "top_citations": [
+    {
+      "id": "news:gdelt-78fbf35ec7b9b4bb-mo",
+      "date": "2026-08-20",
+      "jurisdiction": "Festus",
+      "title": "Festus data center moratorium proposal still under research | Local News",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://myleaderpaper.com/news/festus-city-council-seat-remains-open/article_9bb33573-78f4-455f-8437-c6b5020f93aa.html"
+    },
     {
       "id": "news:rss-dcd-91f446de850517db-mo",
       "date": "2026-08-12",
@@ -150,15 +159,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://ksdk.com/article/news/local/festus-mayor-recall-councilmembers-data-center-pushback-missouri/63-eb7b92be-3313-4f4b-970f-c85a493501e0"
-    },
-    {
-      "id": "news:rss-dcd-06dac22233c9181a-mo",
-      "date": "2026-05-18",
-      "jurisdiction": "DCD",
-      "title": "Developer Lumon Solutions backing data center project in Marshfield, Missouri. Project faces steep opposition",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterdynamics.com/en/news/developer-lumon-solutions-backing-data-center-project-in-marshfield-missouri"
     }
   ]
 }

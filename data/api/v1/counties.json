@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-08-20T04:59:41Z",
+  "generated_at": "2026-08-20T05:28:01Z",
   "counties": [
     {
       "county_fips": "04013",
@@ -42,9 +42,9 @@
       "county_fips": "29099",
       "county_name": "Jefferson County",
       "state": "MO",
-      "count": 6,
-      "risk_score": 53.4,
-      "latest": "2026-07-08",
+      "count": 7,
+      "risk_score": 58.1,
+      "latest": "2026-08-20",
       "url": "data/dossiers/county-29099.json"
     },
     {

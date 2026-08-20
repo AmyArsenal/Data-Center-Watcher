@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-08-20T04:59:41Z",
+  "generated_at": "2026-08-20T05:28:01Z",
   "risk_score": {
-    "score": 53.9,
-    "tier": 24.0,
+    "score": 54.6,
+    "tier": 24.3,
     "engagement": 8.9,
-    "recency": 11.7,
-    "multi_source": 4.3,
+    "recency": 12.2,
+    "multi_source": 4.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 46.1,
+    "score": 45.4,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 6,
+    "moratoriums": 7,
     "approvals": 4,
-    "denials": 21,
+    "denials": 22,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,22 +26,22 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 56,
+  "count": 57,
   "tier_counts": {
-    "restrictive": 24,
+    "restrictive": 25,
     "unclear": 15,
     "protective": 3,
     "null": 11,
     "supportive": 3
   },
   "outcome_counts": {
-    "win": 21,
+    "win": 22,
     "pending": 29,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 31,
+    "local": 32,
     "statewide": 25
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-08-18",
+  "latest": "2026-08-19",
   "top_citations": [
+    {
+      "id": "news:gdelt-49416e7e6273a5ba-va",
+      "date": "2026-08-19",
+      "jurisdiction": "pilotonline.com",
+      "title": "Virginia Beach approves 1 - year data center moratorium",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://pilotonline.com/2026/08/19/virginia-beach-approves-data-center-moratorium"
+    },
     {
       "id": "news:rss-dcd-21336841a43b02ac-va",
       "date": "2026-08-18",
@@ -152,15 +161,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/details-of-four-data-centers-planned-for-petersburg-virginia-revealed"
-    },
-    {
-      "id": "news:gdelt-da854f37c2e43ee4-va",
-      "date": "2026-07-21",
-      "jurisdiction": "breitbart.com",
-      "title": "Report : Marxist Activist Campaigns Against Virginia AI Data Center Raise Foreign Influence Concerns",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://breitbart.com/pre-viral/2026/07/21/report-marxist-activist-campaigns-against-virginia-ai-data-center-raise-foreign-influence-concerns"
     }
   ]
 }

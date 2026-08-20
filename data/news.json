@@ -1,8 +1,328 @@
 {
-  "generated_at": "2026-08-20T04:59:41Z",
+  "generated_at": "2026-08-20T05:28:01Z",
   "window_days": 90,
-  "count": 1076,
+  "count": 1084,
   "items": [
+    {
+      "id": "gdelt-53a3a8288736468e",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "County board OKs one - year data center moratorium - Northwoods Star Journal",
+      "source_domain": "starjournalnow.com",
+      "source_name": "starjournalnow.com",
+      "url": "http://starjournalnow.com/stories/county-board-oks-one-year-data-center-moratorium,350494",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "53a3a8288736468e",
+      "content_hash": "02147e7cac015e87",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-62a90bd569380463",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Greensboro data center moratorium raises questions about Dream Center project",
+      "source_domain": "publicradioeast.org",
+      "source_name": "publicradioeast.org",
+      "url": "https://publicradioeast.org/2026-08-19/greensboro-data-center-moratorium-raises-questions-about-dream-center-project",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "62a90bd569380463",
+      "content_hash": "e31b9928ae39c23e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-766b526dee292b1e",
+      "state": "NV",
+      "city": null,
+      "category": "banned",
+      "headline": "Pahrump data center ban passes unanimously | Nevada | News",
+      "source_domain": "reviewjournal.com",
+      "source_name": "reviewjournal.com",
+      "url": "https://reviewjournal.com/news/politics-and-government/nevada/data-centers-banned-in-pahrump-3866399",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "766b526dee292b1e",
+      "content_hash": "0826d2280d97ee86",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-78fbf35ec7b9b4bb",
+      "state": "MO",
+      "city": "Festus",
+      "category": "banned",
+      "headline": "Festus data center moratorium proposal still under research | Local News",
+      "source_domain": "myleaderpaper.com",
+      "source_name": "myleaderpaper.com",
+      "url": "https://myleaderpaper.com/news/festus-city-council-seat-remains-open/article_9bb33573-78f4-455f-8437-c6b5020f93aa.html",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "78fbf35ec7b9b4bb",
+      "content_hash": "7c846991d24334c3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ef0cf5d5d31e5e1b",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Piedmont residents working to get proposed data center to public vote",
+      "source_domain": "koco.com",
+      "source_name": "koco.com",
+      "url": "https://koco.com/article/piedmont-residents-push-back-against-data-center-project/73479666",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "ef0cf5d5d31e5e1b",
+      "content_hash": "0c0c07d864dd47c8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ba84c5055e1ec190",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Topeka City Council presses Compass Data Centers , Evergy during special meeting",
+      "source_domain": "wibw.com",
+      "source_name": "wibw.com",
+      "url": "https://wibw.com/2026/08/20/topeka-city-council-presses-compass-data-centers-evergy-during-special-meeting",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "ba84c5055e1ec190",
+      "content_hash": "c851cb2814804c3d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-49416e7e6273a5ba",
+      "state": "VA",
+      "city": null,
+      "category": "banned",
+      "headline": "Virginia Beach approves 1 - year data center moratorium",
+      "source_domain": "pilotonline.com",
+      "source_name": "pilotonline.com",
+      "url": "https://pilotonline.com/2026/08/19/virginia-beach-approves-data-center-moratorium",
+      "date": "2026-08-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "49416e7e6273a5ba",
+      "content_hash": "55ab3d0a2bcbac28",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-12253b4362dd4128",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center moratorium ordinance passes unanimously in Lyon County",
+      "source_domain": "wpsdlocal6.com",
+      "source_name": "wpsdlocal6.com",
+      "url": "https://wpsdlocal6.com/news/data-center-moratorium-ordinance-passes-unanimously-in-lyon-county/article_3e62c03d-096f-42d0-b78d-d1f7e51be074.html",
+      "date": "2026-08-19",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 05:28:00",
+      "url_hash": "12253b4362dd4128",
+      "content_hash": "a6f770bf8fdd7038",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T05:28:00Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-72e0c96939933fa4",
       "state": "US",
@@ -30,7 +350,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T04:19:46Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -352,7 +672,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T04:19:46Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -632,7 +952,7 @@
         "rss-dcd"
       ],
       "snippet": "Mandates that data center projects receive all required local approvals before permits are issued",
-      "last_seen": "2026-08-20T04:59:39Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -791,7 +1111,7 @@
         "rss-dcd"
       ],
       "snippet": "Facility to be located close to BESS and substation",
-      "last_seen": "2026-08-20T04:59:39Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1596,7 +1916,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-20T04:59:39Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5040,7 +5360,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-20T04:59:39Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7391,7 +7711,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-20T04:59:39Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8270,7 +8590,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-20T04:59:40Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11369,7 +11689,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-20T04:59:39Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11487,7 +11807,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-20T04:59:40Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12840,7 +13160,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-20T04:59:40Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35092,7 +35412,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-20T04:59:40Z",
+      "last_seen": "2026-08-20T05:28:00Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -42926,6 +43246,48 @@
     }
   ],
   "by_state": {
+    "NV": {
+      "state": "NV",
+      "count": 2,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 2
+      },
+      "latest_date": "2026-08-20"
+    },
+    "MO": {
+      "state": "MO",
+      "count": 10,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 6,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 10
+      },
+      "latest_date": "2026-08-20"
+    },
+    "VA": {
+      "state": "VA",
+      "count": 19,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 6,
+        "protested": 11,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 19
+      },
+      "latest_date": "2026-08-19"
+    },
     "DE": {
       "state": "DE",
       "count": 1,
@@ -43047,20 +43409,6 @@
       },
       "platforms": {
         "news": 3
-      },
-      "latest_date": "2026-08-18"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 18,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 11,
-        "banned": 5,
-        "announced": 2
-      },
-      "platforms": {
-        "news": 18
       },
       "latest_date": "2026-08-18"
     },
@@ -43186,21 +43534,6 @@
       },
       "latest_date": "2026-08-12"
     },
-    "MO": {
-      "state": "MO",
-      "count": 9,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 6,
-        "cancelled": 1,
-        "banned": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 9
-      },
-      "latest_date": "2026-08-12"
-    },
     "MD": {
       "state": "MD",
       "count": 5,
@@ -43290,18 +43623,6 @@
         "news": 9
       },
       "latest_date": "2026-08-06"
-    },
-    "NV": {
-      "state": "NV",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "announced": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-08-04"
     },
     "MN": {
       "state": "MN",
