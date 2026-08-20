@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-08-20T19:41:41Z",
+  "generated_at": "2026-08-20T20:00:24Z",
   "risk_score": {
-    "score": 54.6,
-    "tier": 24.3,
-    "engagement": 8.9,
-    "recency": 12.2,
-    "multi_source": 4.2,
+    "score": 55.2,
+    "tier": 24.6,
+    "engagement": 8.8,
+    "recency": 12.7,
+    "multi_source": 4.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 45.4,
+    "score": 44.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 57,
+  "count": 58,
   "tier_counts": {
-    "restrictive": 25,
+    "restrictive": 26,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,17 +36,17 @@
   },
   "outcome_counts": {
     "win": 22,
-    "pending": 29,
+    "pending": 30,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 32,
+    "local": 33,
     "statewide": 25
   },
   "issue_top": {
+    "community_impact": 11,
     "zoning": 10,
-    "community_impact": 10,
     "water": 7,
     "environmental": 5,
     "grid_energy": 5,
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-08-19",
+  "latest": "2026-08-20",
   "top_citations": [
+    {
+      "id": "news:gdelt-617dbd07fb18c279-va",
+      "date": "2026-08-20",
+      "jurisdiction": "tomshardware.com",
+      "title": "Virginia county with 250 data centers begins to rein in building Loudoun more than 250 data centers made it one of the richest counties in t",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://tomshardware.com/tech-industry/data-centers/virginia-county-with-250-data-centers-begins-to-rein-in-building-loudouns-more-than-250-data-centers-made-it-one-of-the-richest-counties-in-the-us-but-residents-are-pushing-back"
+    },
     {
       "id": "news:gdelt-49416e7e6273a5ba-va",
       "date": "2026-08-19",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/loudoun-county-considering-moratorium-on-new-data-center-applications-rejects-325-million-sq-ft-campus"
-    },
-    {
-      "id": "news:rss-dcd-6be7706d93346e77-va",
-      "date": "2026-07-22",
-      "jurisdiction": "DCD",
-      "title": "Details of four data centers planned for Petersburg, Virginia, revealed. Sites did not have to go through the rezoning process",
-      "tier": "supportive",
-      "outcome": "loss",
-      "url": "https://datacenterdynamics.com/en/news/details-of-four-data-centers-planned-for-petersburg-virginia-revealed"
     }
   ]
 }

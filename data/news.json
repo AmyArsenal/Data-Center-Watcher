@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-08-20T19:41:40Z",
+  "generated_at": "2026-08-20T20:00:23Z",
   "window_days": 90,
-  "count": 1090,
+  "count": 1096,
   "items": [
+    {
+      "id": "gdelt-617dbd07fb18c279",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "Virginia county with 250 data centers begins to rein in building Loudoun more than 250 data centers made it one of the richest counties in the US , but residents are pushing back",
+      "source_domain": "tomshardware.com",
+      "source_name": "tomshardware.com",
+      "url": "https://tomshardware.com/tech-industry/data-centers/virginia-county-with-250-data-centers-begins-to-rein-in-building-loudouns-more-than-250-data-centers-made-it-one-of-the-richest-counties-in-the-us-but-residents-are-pushing-back",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 20:00:22",
+      "url_hash": "617dbd07fb18c279",
+      "content_hash": "10c46746860952d2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T20:00:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4eab966ae97cbde3",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Lincoln County Commissioner Wants to Pull Sioux Falls into Data Center Discussion",
+      "source_domain": "kwsn.com",
+      "source_name": "kwsn.com",
+      "url": "https://kwsn.com/2026/08/20/952690",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 20:00:22",
+      "url_hash": "4eab966ae97cbde3",
+      "content_hash": "fad6aad9b05da2ef",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T20:00:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-45979e07dda07797",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Jersey City Council votes unanimously for ban on standalone data centers",
+      "source_domain": "hudsoncountyview.com",
+      "source_name": "hudsoncountyview.com",
+      "url": "http://hudsoncountyview.com/jersey-city-council-votes-unanimously-for-ban-on-standalone-data-centers",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 20:00:22",
+      "url_hash": "45979e07dda07797",
+      "content_hash": "4a281242051d0be4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T20:00:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7aaae35b91711768",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Developer files lawsuit against Gibraltar over proposed data center",
+      "source_domain": "thenewsherald.com",
+      "source_name": "thenewsherald.com",
+      "url": "https://thenewsherald.com/2026/08/20/developer-files-lawsuit-against-gibraltar-over-proposed-data-center",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 20:00:22",
+      "url_hash": "7aaae35b91711768",
+      "content_hash": "c2b6668d967be991",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T20:00:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5d3e74c40519e217",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Trump wants communities to embrace data centers , but opposition is growing",
+      "source_domain": "10news.com",
+      "source_name": "10news.com",
+      "url": "https://10news.com/politics/trump-wants-communities-to-embrace-data-centers-but-opposition-is-growing",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 20:00:22",
+      "url_hash": "5d3e74c40519e217",
+      "content_hash": "347ae484f1aa47da",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T20:00:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-aec1996e9bd5ae20",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents liken fight over data centers between small desert city and feds to  David versus Goliath",
+      "source_domain": "knpr.org",
+      "source_name": "knpr.org",
+      "url": "https://knpr.org/2026-08-20/residents-liken-fight-over-data-centers-between-small-desert-city-and-feds-to-david-versus-goliath",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 20:00:22",
+      "url_hash": "aec1996e9bd5ae20",
+      "content_hash": "348c84cf75f9f432",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T20:00:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-a89105308f67e798",
       "state": "MT",
@@ -30,7 +270,7 @@
         "rss-dcd"
       ],
       "snippet": "Leaders raise concerns over environmental impact of building projects",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2153,7 +2393,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5597,7 +5837,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7948,7 +8188,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8827,7 +9067,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11926,7 +12166,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12044,7 +12284,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13397,7 +13637,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35649,7 +35889,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-20T19:41:39Z",
+      "last_seen": "2026-08-20T20:00:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -43483,6 +43723,20 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 20,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 12,
+        "banned": 6,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 20
+      },
+      "latest_date": "2026-08-20"
+    },
     "MT": {
       "state": "MT",
       "count": 2,
@@ -43538,20 +43792,6 @@
         "news": 10
       },
       "latest_date": "2026-08-20"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 19,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 6,
-        "protested": 11,
-        "announced": 2
-      },
-      "platforms": {
-        "news": 19
-      },
-      "latest_date": "2026-08-19"
     },
     "DE": {
       "state": "DE",
