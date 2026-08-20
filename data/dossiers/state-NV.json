@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NV",
-  "generated_at": "2026-08-20T23:13:21Z",
+  "generated_at": "2026-08-20T23:38:20Z",
   "risk_score": {
-    "score": 51.0,
-    "tier": 26.4,
+    "score": 54.9,
+    "tier": 28.7,
     "engagement": 6.2,
-    "recency": 18.4,
+    "recency": 20.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.0,
+    "score": 45.1,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
-    "restrictive": 3,
+    "restrictive": 4,
     "null": 1,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 2,
+    "pending": 3,
     "win": 2,
     "loss": 1
   },
   "scope_counts": {
-    "local": 5
+    "local": 5,
+    "statewide": 1
   },
   "issue_top": {
     "environmental": 1,
@@ -60,6 +61,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://reviewjournal.com/news/politics-and-government/nevada/data-centers-banned-in-pahrump-3866399"
+    },
+    {
+      "id": "news:rss-rto-insider-ce20bdd351ae3020-nv",
+      "date": "2026-08-20",
+      "jurisdiction": "RTO Insider",
+      "title": "Nevada Governor, Congresswoman Spar Over Data Center. A controversial data center project on federal land in Nevada continues to test the re",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/140128-nevada-governor-congresswoman-spar-over-data-center"
     },
     {
       "id": "news:rss-dcd-0e7187d6a800c7b6-nv",
