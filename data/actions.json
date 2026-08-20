@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T03:35:22Z",
-  "count": 1929,
+  "generated_at": "2026-08-20T04:19:47Z",
+  "count": 1930,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -470,6 +470,51 @@
       "data_source": "news",
       "last_updated": "2026-08-19T14:49:30Z",
       "first_seen": "2026-08-19T14:49:30Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-72e0c96939933fa4-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "bothell-reporter.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-19",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Renton places one - year moratorium on data centers | Bothell - Kenmore Reporter",
+      "sources": [
+        "https://bothell-reporter.com/2026/08/19/renton-places-one-year-moratorium-on-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-20T04:19:46Z",
+      "first_seen": "2026-08-20T04:19:47Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -89232,21 +89277,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1125,
+      "count": 1126,
       "outcome_counts": {
         "pending": 624,
-        "win": 470,
+        "win": 471,
         "loss": 31,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1092,
+        "restrictive": 1093,
         "protective": 2,
         "supportive": 31,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1106,
+        "local": 1107,
         "statewide": 11,
         "federal": 8
       },
