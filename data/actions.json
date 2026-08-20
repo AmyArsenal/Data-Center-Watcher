@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T06:21:37Z",
-  "count": 1938,
+  "generated_at": "2026-08-20T07:13:19Z",
+  "count": 1939,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -199,6 +199,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9a4600daa28d60a2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "uppermichiganssource.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-08-20",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Forsyth Township officials hear opposition to data centers during town hall meeting",
+      "sources": [
+        "https://uppermichiganssource.com/2026/08/20/forsyth-township-officials-hear-opposition-data-centers-during-town-hall-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-20T07:13:17Z",
+      "first_seen": "2026-08-20T07:13:18Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-ba84c5055e1ec190-us",
@@ -89611,21 +89656,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1131,
+      "count": 1132,
       "outcome_counts": {
-        "pending": 626,
+        "pending": 627,
         "win": 474,
         "loss": 31,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1098,
+        "restrictive": 1099,
         "protective": 2,
         "supportive": 31,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1112,
+        "local": 1113,
         "statewide": 11,
         "federal": 8
       },
