@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T09:47:45Z",
-  "count": 1940,
+  "generated_at": "2026-08-20T10:16:26Z",
+  "count": 1941,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -381,6 +381,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:rss-dcd-bbf38e24f6d58166-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-20",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Norwegian developer withdraws proposal to build 50MW data center in city of Oton, Philippines. Tells journalists to \"just, fuck, go away\"",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/norwegian-developer-withdraws-proposal-to-build-50mw-data-center-in-city-of-oton-philippines"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-20T10:16:25Z",
+      "first_seen": "2026-08-20T10:16:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:gdelt-00f082704eeae253-us",
@@ -89701,21 +89746,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1132,
+      "count": 1133,
       "outcome_counts": {
         "pending": 627,
         "win": 474,
-        "loss": 31,
+        "loss": 32,
         "mixed": 0
       },
       "tier_counts": {
         "restrictive": 1099,
         "protective": 2,
-        "supportive": 31,
+        "supportive": 32,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1113,
+        "local": 1114,
         "statewide": 11,
         "federal": 8
       },
