@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MT",
-  "generated_at": "2026-08-20T12:39:54Z",
+  "generated_at": "2026-08-20T13:30:47Z",
   "risk_score": {
-    "score": 41.8,
-    "tier": 15.5,
-    "engagement": 10.9,
-    "recency": 2.8,
-    "multi_source": 7.5,
+    "score": 47.3,
+    "tier": 18.2,
+    "engagement": 10.4,
+    "recency": 7.0,
+    "multi_source": 6.7,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 58.2,
+    "score": 52.7,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 0,
     "approvals": 0,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,31 +26,41 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 8,
+  "count": 9,
   "tier_counts": {
     "unclear": 6,
     "null": 1,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 2,
+    "win": 3,
     "mixed": 1
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "grid_energy": 1,
     "anti_ai": 1,
-    "community_impact": 1
+    "community_impact": 1,
+    "environmental": 1
   },
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-10-30",
-  "latest": "2026-07-17",
+  "latest": "2026-08-20",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-a89105308f67e798-mt",
+      "date": "2026-08-20",
+      "jurisdiction": "DCD",
+      "title": "First Nations on Fort Peck Reservation in Montana banned from discussions with data center firms. Leaders raise concerns over environmental ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/first-nations-on-fort-peck-reservation-in-montana-banned-from-discussions-with-data-center-firms"
+    },
     {
       "id": "news:gdelt-a9046b042a6d1847-mt",
       "date": "2026-07-17",

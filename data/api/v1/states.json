@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-20T12:39:54Z",
+  "generated_at": "2026-08-20T13:30:47Z",
   "states": [
     {
       "state": "AK",
@@ -354,16 +354,16 @@
     },
     {
       "state": "MT",
-      "count": 8,
-      "risk_score": 41.8,
+      "count": 9,
+      "risk_score": 47.3,
       "grade": "C",
-      "grade_score": 58.2,
+      "grade_score": 52.7,
       "moratoriums": 0,
       "approvals": 0,
-      "denials": 2,
+      "denials": 3,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-07-17",
+      "latest": "2026-08-20",
       "url": "data/dossiers/state-MT.json"
     },
     {
