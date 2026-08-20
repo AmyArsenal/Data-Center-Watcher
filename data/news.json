@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-20T22:26:18Z",
+  "generated_at": "2026-08-20T22:51:26Z",
   "window_days": 90,
-  "count": 1097,
+  "count": 1099,
   "items": [
+    {
+      "id": "gdelt-e4eb6483eb8df576",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Echoing Senate GOP Memo , Fox Targets  Far Left  Data Center Opposition",
+      "source_domain": "nationalmemo.com",
+      "source_name": "nationalmemo.com",
+      "url": "https://nationalmemo.com/gop-fox-data-centers",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 22:51:25",
+      "url_hash": "e4eb6483eb8df576",
+      "content_hash": "a6783749e2edb065",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T22:51:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0764e2fa45b72045",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Palm Springs City Council to consider temporary data center moratorium",
+      "source_domain": "kesq.com",
+      "source_name": "kesq.com",
+      "url": "https://kesq.com/news/2026/08/20/palm-springs-city-council-to-consider-temporary-data-center-moratorium",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 22:51:25",
+      "url_hash": "0764e2fa45b72045",
+      "content_hash": "b383c867973337dd",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T22:51:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-77cb0946d5e157c3",
       "state": "US",
@@ -30,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T20:53:22Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -190,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T20:53:22Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -230,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T20:53:22Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -270,7 +350,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T20:53:22Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +390,7 @@
         "rss-dcd"
       ],
       "snippet": "Leaders raise concerns over environmental impact of building projects",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2433,7 +2513,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5877,7 +5957,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8228,7 +8308,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9107,7 +9187,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12206,7 +12286,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12324,7 +12404,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13677,7 +13757,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35929,7 +36009,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-20T22:26:17Z",
+      "last_seen": "2026-08-20T22:51:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

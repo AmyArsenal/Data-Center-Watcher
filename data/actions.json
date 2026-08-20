@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T22:26:18Z",
-  "count": 1951,
+  "generated_at": "2026-08-20T22:51:26Z",
+  "count": 1953,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-0764e2fa45b72045-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kesq.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-20",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Palm Springs City Council to consider temporary data center moratorium",
+      "sources": [
+        "https://kesq.com/news/2026/08/20/palm-springs-city-council-to-consider-temporary-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-20T22:51:25Z",
+      "first_seen": "2026-08-20T22:51:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-45979e07dda07797-us",
       "origin": "news",
@@ -696,6 +741,51 @@
       "data_source": "news",
       "last_updated": "2026-08-20T11:59:04Z",
       "first_seen": "2026-08-20T11:59:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-e4eb6483eb8df576-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "nationalmemo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-20",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Echoing Senate GOP Memo , Fox Targets  Far Left  Data Center Opposition",
+      "sources": [
+        "https://nationalmemo.com/gop-fox-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-20T22:51:25Z",
+      "first_seen": "2026-08-20T22:51:26Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -90204,21 +90294,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1141,
+      "count": 1143,
       "outcome_counts": {
-        "pending": 633,
-        "win": 476,
+        "pending": 634,
+        "win": 477,
         "loss": 32,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1107,
+        "restrictive": 1109,
         "protective": 2,
         "supportive": 32,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1122,
+        "local": 1124,
         "statewide": 11,
         "federal": 8
       },
