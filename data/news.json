@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-08-20T11:41:30Z",
+  "generated_at": "2026-08-20T11:59:05Z",
   "window_days": 90,
-  "count": 1087,
+  "count": 1089,
   "items": [
+    {
+      "id": "gdelt-d891629f6773bab8",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Statesboro City Council Opens Door for Data Centers",
+      "source_domain": "thegeorgeanne.com",
+      "source_name": "thegeorgeanne.com",
+      "url": "https://thegeorgeanne.com/52922/featured/statesboro-city-council-opens-door-for-data-centers",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 11:59:04",
+      "url_hash": "d891629f6773bab8",
+      "content_hash": "80dd3925ce101cb7",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T11:59:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7fc75b52a27c6903",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "AI Next Big Problem Is Not Chips Or Power . It Growing Opposition To Data Centers .",
+      "source_domain": "ibtimes.com",
+      "source_name": "ibtimes.com",
+      "url": "https://ibtimes.com/ais-next-big-problem-not-chips-power-its-growing-opposition-data-centers-3806564",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-20 11:59:04",
+      "url_hash": "7fc75b52a27c6903",
+      "content_hash": "804d1477f3779da4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-20T11:59:04Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-bbf38e24f6d58166",
       "state": "US",
@@ -30,7 +110,7 @@
         "rss-dcd"
       ],
       "snippet": "Tells journalists to \"just, fuck, go away\"",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +149,7 @@
         "rss-dcd"
       ],
       "snippet": "Developer intends to launch appeal",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -108,7 +188,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T07:13:17Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1070,7 +1150,7 @@
         "rss-dcd"
       ],
       "snippet": "Mandates that data center projects receive all required local approvals before permits are issued",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2034,7 +2114,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5478,7 +5558,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7829,7 +7909,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -8708,7 +8788,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11807,7 +11887,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11925,7 +12005,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13278,7 +13358,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35530,7 +35610,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-20T11:41:29Z",
+      "last_seen": "2026-08-20T11:59:04Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
