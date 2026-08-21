@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-21T05:46:05Z",
+  "generated_at": "2026-08-21T06:21:28Z",
   "window_days": 90,
-  "count": 1097,
+  "count": 1098,
   "items": [
+    {
+      "id": "gdelt-b1f497e9bd0bf8fa",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Petition Article Would Establish New Zoning Rules For Data Centers In Falmouth",
+      "source_domain": "capenews.net",
+      "source_name": "capenews.net",
+      "url": "https://capenews.net/falmouth/news/petition-article-would-establish-new-zoning-rules-for-data-centers-in-falmouth/article_4bb8e30d-79d3-43cc-bc51-f9e4aae12a95.html",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 06:21:27",
+      "url_hash": "b1f497e9bd0bf8fa",
+      "content_hash": "dac18022906417b3",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T06:21:27Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-d64b186d8bf80b22",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:08:41Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -150,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:08:41Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -190,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -230,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:08:41Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -270,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:08:41Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -312,7 +352,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:08:41Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -352,7 +392,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:08:41Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -392,7 +432,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -432,7 +472,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T05:08:41Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -552,7 +592,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A controversial data center project on federal land in Nevada continues to test the resolve of top lawmakers in the face of public opposition, sparking a public spat between the state’s Republican governor and a senior Democratic congresswoman. The post Nevada Governor, Congresswoman Spar Over Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -951,7 +991,7 @@
         "rss-dcd"
       ],
       "snippet": "Leaders raise concerns over environmental impact of building projects",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -3074,7 +3114,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6518,7 +6558,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8869,7 +8909,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9748,7 +9788,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12847,7 +12887,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12965,7 +13005,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14318,7 +14358,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -36570,7 +36610,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-21T05:46:04Z",
+      "last_seen": "2026-08-21T06:21:27Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
