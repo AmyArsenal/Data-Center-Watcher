@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T21:37:54Z",
-  "count": 1980,
+  "generated_at": "2026-08-21T21:57:57Z",
+  "count": 1982,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -105,6 +105,51 @@
       "data_source": "news",
       "last_updated": "2026-08-21T03:59:19Z",
       "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-236d6012c30321df-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "myfox28columbus.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan Republican Rogers backs temporary ban on data center construction",
+      "sources": [
+        "https://myfox28columbus.com/news/nation-world/michigan-republican-gop-mike-rogers-backs-temporary-ban-on-data-center-construction-democrat-abdul-el-sayed-us-senate-race-election"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T21:57:56Z",
+      "first_seen": "2026-08-21T21:57:57Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -835,6 +880,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d1a7b0eb9bb91397-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ktiv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "City of Salix files motion to dismiss lawsuit regarding potential data center",
+      "sources": [
+        "https://ktiv.com/2026/08/21/city-salix-files-motion-dismiss-lawsuit-regarding-potential-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T21:57:56Z",
+      "first_seen": "2026-08-21T21:57:57Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-d64b186d8bf80b22-us",
@@ -91521,21 +91611,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1161,
+      "count": 1162,
       "outcome_counts": {
         "pending": 640,
-        "win": 488,
+        "win": 489,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1126,
+        "restrictive": 1127,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1141,
+        "local": 1142,
         "statewide": 12,
         "federal": 8
       },
@@ -91753,21 +91843,21 @@
     },
     "MI": {
       "state": "MI",
-      "count": 23,
+      "count": 24,
       "outcome_counts": {
         "pending": 12,
-        "win": 11,
+        "win": 12,
         "loss": 0,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 20,
+        "restrictive": 21,
         "protective": 0,
         "supportive": 0,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 21,
+        "local": 22,
         "statewide": 2,
         "federal": 0
       },

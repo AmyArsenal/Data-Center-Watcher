@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-08-21T21:37:54Z",
+  "generated_at": "2026-08-21T21:57:57Z",
   "risk_score": {
-    "score": 60.0,
-    "tier": 36.3,
+    "score": 61.1,
+    "tier": 36.5,
     "engagement": 6.2,
-    "recency": 17.4,
+    "recency": 18.3,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 40.0,
+    "score": 38.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 9,
     "approvals": 0,
-    "denials": 11,
+    "denials": 12,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 2,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 23,
+  "count": 24,
   "tier_counts": {
-    "restrictive": 20,
+    "restrictive": 21,
     "null": 3
   },
   "outcome_counts": {
-    "win": 11,
+    "win": 12,
     "pending": 12
   },
   "scope_counts": {
-    "local": 21,
+    "local": 22,
     "statewide": 2
   },
   "issue_top": {
@@ -71,6 +71,15 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights"
+    },
+    {
+      "id": "news:gdelt-236d6012c30321df-mi",
+      "date": "2026-08-21",
+      "jurisdiction": "myfox28columbus.com",
+      "title": "Michigan Republican Rogers backs temporary ban on data center construction",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://myfox28columbus.com/news/nation-world/michigan-republican-gop-mike-rogers-backs-temporary-ban-on-data-center-construction-democrat-abdul-el-sayed-us-senate-race-election"
     },
     {
       "id": "news:gdelt-42aae70304557800-mi",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://cornellsun.com/article/2026/07/k9fstjzcajbc"
-    },
-    {
-      "id": "news:rss-rto-insider-c28c00b8bc4694bc-mi",
-      "date": "2026-07-17",
-      "jurisdiction": "RTO Insider",
-      "title": "Michigan Gov. Seeks Pledge from Data Center Developers. Michigan’s governor is inviting developers to sign a protection pledge as she launch",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://rtoinsider.com/136813-michigan-gov-seeks-pledge-from-data-center-developers"
     }
   ]
 }
