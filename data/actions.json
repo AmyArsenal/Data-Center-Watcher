@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T04:34:56Z",
-  "count": 1966,
+  "generated_at": "2026-08-21T05:08:42Z",
+  "count": 1967,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -381,6 +381,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d64b186d8bf80b22-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "southernminn.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Northfield moves to ban hyperscale data centers following packed public hearing",
+      "sources": [
+        "http://southernminn.com/northfield_news/news/northfield-moves-to-ban-hyperscale-data-centers-following-packed-public-hearing/article_1ad4df87-d379-4737-9751-9c99283588b9.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T05:08:41Z",
+      "first_seen": "2026-08-21T05:08:42Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-dca265ebb2de5141-us",
@@ -90883,21 +90928,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1151,
+      "count": 1152,
       "outcome_counts": {
         "pending": 637,
-        "win": 481,
+        "win": 482,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1116,
+        "restrictive": 1117,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1131,
+        "local": 1132,
         "statewide": 12,
         "federal": 8
       },
