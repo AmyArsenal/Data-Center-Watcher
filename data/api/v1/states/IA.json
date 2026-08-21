@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IA",
-  "generated_at": "2026-08-21T19:34:12Z",
+  "generated_at": "2026-08-21T19:54:03Z",
   "risk_score": {
-    "score": 50.0,
-    "tier": 28.8,
+    "score": 56.0,
+    "tier": 30.7,
     "engagement": 6.2,
-    "recency": 14.9,
+    "recency": 19.1,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.0,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 44.0,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 1,
+    "moratoriums": 2,
     "approvals": 0,
-    "denials": 0,
+    "denials": 1,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,17 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "null": 2,
-    "restrictive": 3
+    "restrictive": 4
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 4
+    "pending": 4,
+    "win": 1
   },
   "scope_counts": {
-    "local": 4,
+    "local": 5,
     "statewide": 1
   },
   "issue_top": {
@@ -49,8 +50,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-16",
-  "latest": "2026-08-11",
+  "latest": "2026-08-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-dadc5d820ec7328c-ia",
+      "date": "2026-08-21",
+      "jurisdiction": "kwit.org",
+      "title": "Salix Iowa Council shifts stance , does not place moratorium on possible data center in town",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kwit.org/podcast/spm-news/2026-08-21/salix-iowa-council-shifts-stance-does-not-place-moratorium-on-possible-data-center-in-town"
+    },
     {
       "id": "news:gdelt-a3000570522681af-ia",
       "date": "2026-08-11",

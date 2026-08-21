@@ -1,8 +1,328 @@
 {
-  "generated_at": "2026-08-21T19:34:11Z",
+  "generated_at": "2026-08-21T19:54:03Z",
   "window_days": 90,
-  "count": 1101,
+  "count": 1109,
   "items": [
+    {
+      "id": "gdelt-96e84535f625d5a9",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center moratorium ordinance passes unanimously in Lyon County ; Fiscal court expresses concern for Lake Barkley area",
+      "source_domain": "paducahsun.com",
+      "source_name": "paducahsun.com",
+      "url": "https://paducahsun.com/news/data-center-moratorium-ordinance-passes-unanimously-in-lyon-county-fiscal-court-expresses-concern-for-lake/article_94addbbb-4822-55dc-a2b0-c00b3b8aa6a8.html",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "96e84535f625d5a9",
+      "content_hash": "31801a2456e86c52",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4b44a5013bed02ce",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "REGIONAL : Data center moratorium imposed in Paonia , town to consider restrictions on the government AI use in the future",
+      "source_domain": "montrosepress.com",
+      "source_name": "montrosepress.com",
+      "url": "https://montrosepress.com/news/regional-data-center-moratorium-imposed-in-paonia-town-to-consider-restrictions-on-the-governments-ai/article_198fcf89-7fb2-526c-9dc9-08bc43316c59.html",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "4b44a5013bed02ce",
+      "content_hash": "6042a28402b88ba8",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b4996e1636277335",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Perry halts data center requests for 180 days",
+      "source_domain": "argus-press.com",
+      "source_name": "argus-press.com",
+      "url": "https://argus-press.com/news/article_607e09b1-3f16-4c93-b704-63bb4b5a4ad0.html",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "b4996e1636277335",
+      "content_hash": "6ee76b47116928ff",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-62a4b3a2c82170c4",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Pahrump data center ban passes unanimously as Nye looks to regulate development in other parts of the county .",
+      "source_domain": "pvtimes.com",
+      "source_name": "pvtimes.com",
+      "url": "https://pvtimes.com/news/data-centers-banned-in-pahrump-189671",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "62a4b3a2c82170c4",
+      "content_hash": "dcbb2dda8208dd1b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-dadc5d820ec7328c",
+      "state": "IA",
+      "city": null,
+      "category": "banned",
+      "headline": "Salix Iowa Council shifts stance , does not place moratorium on possible data center in town",
+      "source_domain": "kwit.org",
+      "source_name": "kwit.org",
+      "url": "https://kwit.org/podcast/spm-news/2026-08-21/salix-iowa-council-shifts-stance-does-not-place-moratorium-on-possible-data-center-in-town",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "dadc5d820ec7328c",
+      "content_hash": "0fb1135955a966ed",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6bb92ca3cb0cc562",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Snohomish County Council holds hearing on data center moratorium",
+      "source_domain": "heraldnet.com",
+      "source_name": "heraldnet.com",
+      "url": "https://heraldnet.com/2026/08/20/snohomish-county-council-holds-hearing-on-data-center-moratorium",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "6bb92ca3cb0cc562",
+      "content_hash": "2da5d54bb3a9f018",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b9769aa6ca3e6df2",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Tazewell County revisits data center ordinance ; Woodford County passes moratorium",
+      "source_domain": "933thedrive.com",
+      "source_name": "933thedrive.com",
+      "url": "https://933thedrive.com/2026/08/21/tazewell-county-revisits-data-center-ordinance-woodford-county-passes-moratorium",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "b9769aa6ca3e6df2",
+      "content_hash": "81366e54f8fb7804",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-b1138bbd26bf68ec",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data centers are not priorities over citizen : Charlotte mulls policy as moratorium ticks away",
+      "source_domain": "wfae.org",
+      "source_name": "wfae.org",
+      "url": "https://wfae.org/energy-environment/2026-08-21/halfway-through-the-charlotte-data-center-moratorium-the-city-still-has-questions",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 19:54:02",
+      "url_hash": "b1138bbd26bf68ec",
+      "content_hash": "9065043d3a14b9e6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T19:54:02Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-utilitydive-0c6dc3982ff6956c",
       "state": "TX",
@@ -69,7 +389,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -711,7 +1031,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A controversial data center project on federal land in Nevada continues to test the resolve of top lawmakers in the face of public opposition, sparking a public spat between the state’s Republican governor and a senior Democratic congresswoman. The post Nevada Governor, Congresswoman Spar Over Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3233,7 +3553,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6677,7 +6997,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9028,7 +9348,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9907,7 +10227,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13006,7 +13326,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -13124,7 +13444,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14477,7 +14797,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -36729,7 +37049,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-21T19:34:11Z",
+      "last_seen": "2026-08-21T19:54:02Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -43920,6 +44240,19 @@
     }
   ],
   "by_state": {
+    "IA": {
+      "state": "IA",
+      "count": 4,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 3
+      },
+      "platforms": {
+        "news": 4
+      },
+      "latest_date": "2026-08-21"
+    },
     "TX": {
       "state": "TX",
       "count": 48,
@@ -44288,18 +44621,6 @@
       },
       "platforms": {
         "news": 5
-      },
-      "latest_date": "2026-08-11"
-    },
-    "IA": {
-      "state": "IA",
-      "count": 3,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 3
-      },
-      "platforms": {
-        "news": 3
       },
       "latest_date": "2026-08-11"
     },
