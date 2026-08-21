@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-21T15:54:52Z",
+  "generated_at": "2026-08-21T16:16:57Z",
   "window_days": 90,
-  "count": 1100,
+  "count": 1101,
   "items": [
+    {
+      "id": "rss-utilitydive-0c6dc3982ff6956c",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "ERCOT targets December to complete Texas governor’s data center audit",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/ercot-texas-puc-data-center-audit/828472",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 16:16:56",
+      "url_hash": "0c6dc3982ff6956c",
+      "content_hash": "d0e112f7a6f94086",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+      "last_seen": "2026-08-21T16:16:56Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+        "rss_author": "Robert Walton",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-69824b7839150949",
       "state": "NJ",
@@ -672,7 +711,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A controversial data center project on federal land in Nevada continues to test the resolve of top lawmakers in the face of public opposition, sparking a public spat between the state’s Republican governor and a senior Democratic congresswoman. The post Nevada Governor, Congresswoman Spar Over Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3194,7 +3233,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6638,7 +6677,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8989,7 +9028,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9868,7 +9907,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12967,7 +13006,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -13085,7 +13124,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14438,7 +14477,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -36690,7 +36729,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-21T15:54:51Z",
+      "last_seen": "2026-08-21T16:16:56Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -43881,6 +43920,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 48,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 20,
+        "banned": 26,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 47,
+        "legal": 1
+      },
+      "latest_date": "2026-08-21"
+    },
     "NJ": {
       "state": "NJ",
       "count": 8,
@@ -44085,22 +44140,6 @@
       },
       "platforms": {
         "news": 6
-      },
-      "latest_date": "2026-08-18"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 47,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 19,
-        "banned": 26,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 46,
-        "legal": 1
       },
       "latest_date": "2026-08-18"
     },

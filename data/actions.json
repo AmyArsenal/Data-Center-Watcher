@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T15:54:52Z",
-  "count": 1970,
+  "generated_at": "2026-08-21T16:16:58Z",
+  "count": 1971,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -651,6 +651,53 @@
       "data_source": "news",
       "last_updated": "2026-08-21T03:59:19Z",
       "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-0c6dc3982ff6956c-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "ERCOT targets December to complete Texas governor’s data center audit. The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday",
+      "sources": [
+        "https://utilitydive.com/news/ercot-texas-puc-data-center-audit/828472"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T16:16:56Z",
+      "first_seen": "2026-08-21T16:16:57Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -91237,6 +91284,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "TX": {
+      "state": "TX",
+      "count": 75,
+      "outcome_counts": {
+        "pending": 37,
+        "win": 32,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 59,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 64,
+        "statewide": 11,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 20,
+        "community_impact": 11,
+        "water": 9
+      },
+      "latest_date": "2026-08-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "MO": {
       "state": "MO",
       "count": 26,
@@ -91584,35 +91660,6 @@
       "latest_date": "2026-08-18",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 74,
-      "outcome_counts": {
-        "pending": 36,
-        "win": 32,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 58,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 64,
-        "statewide": 10,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 19,
-        "community_impact": 11,
-        "water": 9
-      },
-      "latest_date": "2026-08-18",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "WI": {
       "state": "WI",
