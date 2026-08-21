@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-21T20:57:28Z",
+  "generated_at": "2026-08-21T21:14:49Z",
   "window_days": 90,
-  "count": 1109,
+  "count": 1110,
   "items": [
+    {
+      "id": "gdelt-e8fba9e34324dc5c",
+      "state": "MI",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents and officials feeling powerless in Michigan data center fights",
+      "source_domain": "bridgemi.com",
+      "source_name": "bridgemi.com",
+      "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 21:14:48",
+      "url_hash": "e8fba9e34324dc5c",
+      "content_hash": "c0b93791d7cc4ccd",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T21:14:48Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-96e84535f625d5a9",
       "state": "US",
@@ -30,7 +70,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T20:37:17Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -70,7 +110,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T20:37:17Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -150,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T20:37:17Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -190,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T20:37:17Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -230,7 +270,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T20:37:17Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -270,7 +310,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T20:37:17Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -310,7 +350,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-21T20:37:17Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1031,7 +1071,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A controversial data center project on federal land in Nevada continues to test the resolve of top lawmakers in the face of public opposition, sparking a public spat between the state’s Republican governor and a senior Democratic congresswoman. The post Nevada Governor, Congresswoman Spar Over Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3553,7 +3593,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -6997,7 +7037,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9348,7 +9388,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -10227,7 +10267,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13326,7 +13366,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -13444,7 +13484,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14797,7 +14837,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -37049,7 +37089,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-21T20:57:27Z",
+      "last_seen": "2026-08-21T21:14:48Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -44240,6 +44280,19 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 13,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 7,
+        "banned": 6
+      },
+      "platforms": {
+        "news": 13
+      },
+      "latest_date": "2026-08-21"
+    },
     "IA": {
       "state": "IA",
       "count": 4,
@@ -44528,19 +44581,6 @@
         "news": 13
       },
       "latest_date": "2026-08-17"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 12,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 6,
-        "protested": 6
-      },
-      "platforms": {
-        "news": 12
-      },
-      "latest_date": "2026-08-16"
     },
     "CO": {
       "state": "CO",

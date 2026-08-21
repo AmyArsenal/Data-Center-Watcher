@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-08-21T20:57:29Z",
+  "generated_at": "2026-08-21T21:14:50Z",
   "risk_score": {
-    "score": 58.8,
-    "tier": 36.2,
+    "score": 60.0,
+    "tier": 36.3,
     "engagement": 6.2,
-    "recency": 16.4,
+    "recency": 17.4,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.2,
+    "score": 40.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 22,
+  "count": 23,
   "tier_counts": {
-    "restrictive": 19,
+    "restrictive": 20,
     "null": 3
   },
   "outcome_counts": {
     "win": 11,
-    "pending": 11
+    "pending": 12
   },
   "scope_counts": {
-    "local": 20,
+    "local": 21,
     "statewide": 2
   },
   "issue_top": {
-    "community_impact": 7,
+    "community_impact": 8,
     "noise": 2,
     "grid_energy": 1,
     "water": 1,
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-08-16",
+  "latest": "2026-08-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-e8fba9e34324dc5c-mi",
+      "date": "2026-08-21",
+      "jurisdiction": "bridgemi.com",
+      "title": "Residents and officials feeling powerless in Michigan data center fights",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights"
+    },
     {
       "id": "news:gdelt-42aae70304557800-mi",
       "date": "2026-08-16",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/136813-michigan-gov-seeks-pledge-from-data-center-developers"
-    },
-    {
-      "id": "news:gdelt-6beb4ef7531607a2-mi",
-      "date": "2026-07-12",
-      "jurisdiction": "Lansing",
-      "title": "What Roth Watching : Lansing weighs data center freeze , small community library at risk & El - Sayed & Lawrence get boost from National pro",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://wkar.org/election-2026/2026-07-12/what-roths-watching-lansing-weighs-data-center-freeze-small-communitys-library-at-risk-el-sayed-lawrence-get-boost-from-national-progressives"
     }
   ]
 }
