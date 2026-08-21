@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "UT",
-  "generated_at": "2026-08-21T03:14:02Z",
+  "generated_at": "2026-08-21T03:59:20Z",
   "risk_score": {
-    "score": 56.9,
-    "tier": 37.2,
+    "score": 60.0,
+    "tier": 37.5,
     "engagement": 6.2,
-    "recency": 8.4,
+    "recency": 11.3,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.1,
+    "score": 40.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
     "null": 1,
-    "restrictive": 9
+    "restrictive": 10
   },
   "outcome_counts": {
     "mixed": 1,
-    "pending": 8,
+    "pending": 9,
     "win": 1
   },
   "scope_counts": {
     "statewide": 3,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "community_impact": 5,
@@ -54,8 +54,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-05-07",
-  "latest": "2026-07-19",
+  "latest": "2026-08-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-c261f3d1cc0e8cc8-ut",
+      "date": "2026-08-21",
+      "jurisdiction": "standard.net",
+      "title": "Utah lawmakers get a primer on data centers after a summer of protests and political fallout | News , Sports , Jobs",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://standard.net/news/2026/aug/19/utah-lawmakers-get-a-primer-on-data-centers-after-a-summer-of-protests-and-political-fallout"
+    },
     {
       "id": "news:gdelt-f9dc3015b017983b-ut",
       "date": "2026-07-19",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://nypost.com/2026/05/06/business/local-utah-officials-approval-of-shark-tank-mogul-kevin-olearys-massive-new-data-center-enrages-residents-shame"
-    },
-    {
-      "id": "research:ut-utah-legislature-20250507-utah-s-sb-132-modified-rocky-mountain-power-s-duty",
-      "date": "2025-05-07",
-      "jurisdiction": "Utah Legislature",
-      "title": "Utah's SB 132 modified Rocky Mountain Power's duty to serve large loads (100 MW+) by directing utility to file large-load tariff and requiri",
-      "tier": null,
-      "outcome": "mixed",
-      "url": "https://www.latitudemedia.com/news/utah-is-taking-a-different-approach-to-new-data-center-load/"
     }
   ]
 }

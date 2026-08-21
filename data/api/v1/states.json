@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-21T03:14:02Z",
+  "generated_at": "2026-08-21T03:59:20Z",
   "states": [
     {
       "state": "AK",
@@ -214,16 +214,16 @@
     },
     {
       "state": "KS",
-      "count": 15,
-      "risk_score": 40.3,
+      "count": 16,
+      "risk_score": 43.5,
       "grade": "C",
-      "grade_score": 59.7,
+      "grade_score": 56.5,
       "moratoriums": 3,
       "approvals": 2,
-      "denials": 3,
+      "denials": 4,
       "lawsuits": 0,
       "active_companies": 0,
-      "latest": "2026-08-06",
+      "latest": "2026-08-21",
       "url": "data/dossiers/state-KS.json"
     },
     {
@@ -312,16 +312,16 @@
     },
     {
       "state": "MN",
-      "count": 10,
-      "risk_score": 49.2,
-      "grade": "C",
-      "grade_score": 50.8,
+      "count": 11,
+      "risk_score": 52.6,
+      "grade": "D",
+      "grade_score": 47.4,
       "moratoriums": 8,
       "approvals": 0,
       "denials": 6,
       "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-07-31",
+      "latest": "2026-08-21",
       "url": "data/dossiers/state-MN.json"
     },
     {
@@ -480,16 +480,16 @@
     },
     {
       "state": "OH",
-      "count": 39,
-      "risk_score": 58.9,
+      "count": 40,
+      "risk_score": 59.7,
       "grade": "D",
-      "grade_score": 41.1,
+      "grade_score": 40.3,
       "moratoriums": 8,
       "approvals": 2,
       "denials": 16,
       "lawsuits": 1,
       "active_companies": 0,
-      "latest": "2026-08-19",
+      "latest": "2026-08-21",
       "url": "data/dossiers/state-OH.json"
     },
     {
@@ -606,16 +606,16 @@
     },
     {
       "state": "UT",
-      "count": 10,
-      "risk_score": 56.9,
+      "count": 11,
+      "risk_score": 60.0,
       "grade": "D",
-      "grade_score": 43.1,
+      "grade_score": 40.0,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 1,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-07-19",
+      "latest": "2026-08-21",
       "url": "data/dossiers/state-UT.json"
     },
     {

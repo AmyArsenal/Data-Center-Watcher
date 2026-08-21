@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MN",
-  "generated_at": "2026-08-21T03:14:02Z",
+  "generated_at": "2026-08-21T03:59:20Z",
   "risk_score": {
-    "score": 49.2,
-    "tier": 31.6,
+    "score": 52.6,
+    "tier": 32.4,
     "engagement": 6.2,
-    "recency": 11.3,
+    "recency": 13.9,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 50.8,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.4,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 8,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
-    "restrictive": 7,
+    "restrictive": 8,
     "null": 3
   },
   "outcome_counts": {
-    "pending": 3,
+    "pending": 4,
     "win": 6,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 9,
+    "local": 10,
     "statewide": 1
   },
   "issue_top": {
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-15",
-  "latest": "2026-07-31",
+  "latest": "2026-08-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-5c0c8c0525bbe60f-mn",
+      "date": "2026-08-21",
+      "jurisdiction": "mprnews.org",
+      "title": "Google launches a charm offensive in 2 Minnesota towns as data center opposition grows",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://mprnews.org/story/2026/08/20/google-launches-a-charm-offensive-in-2-minnesota-towns-as-data-center-opposition-grows"
+    },
     {
       "id": "news:rss-dcd-70033b444bd267ea-mn",
       "date": "2026-07-31",
@@ -133,15 +142,6 @@
       "tier": null,
       "outcome": "mixed",
       "url": "https://www.startribune.com/amazon-suspends-minnesota-data-center-as-lawmakers-plan-to-reduce-big-tech-tax-breaks/601359665"
-    },
-    {
-      "id": "research:mn-minnesota-legislature-20260315-environmental-advocates-union-reps-engineers-an",
-      "date": "2026-03-15",
-      "jurisdiction": "Minnesota Legislature",
-      "title": "Environmental advocates, union reps, engineers, and state lawmakers gathered at MN State Capitol to call for two-year moratorium on new hype",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://www.womenspress.com/minnesota-lawmakers-and-activists-call-for-moratorium-on-data-centers/"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "KS",
-  "generated_at": "2026-08-21T03:14:02Z",
+  "generated_at": "2026-08-21T03:59:20Z",
   "risk_score": {
-    "score": 40.3,
-    "tier": 16.3,
-    "engagement": 8.8,
-    "recency": 6.3,
-    "multi_source": 4.0,
+    "score": 43.5,
+    "tier": 17.8,
+    "engagement": 8.6,
+    "recency": 8.4,
+    "multi_source": 3.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 59.7,
+    "score": 56.5,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 2,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 0,
@@ -26,21 +26,21 @@
     "bills_passed": 0,
     "bills_enacted": 2
   },
-  "count": 15,
+  "count": 16,
   "tier_counts": {
     "unclear": 3,
     "supportive": 4,
     "null": 4,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
     "pending": 10,
-    "win": 3,
+    "win": 4,
     "loss": 2
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 8
+    "local": 9
   },
   "issue_top": {
     "community_impact": 6,
@@ -53,8 +53,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2023-03-08",
-  "latest": "2026-08-06",
+  "latest": "2026-08-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-22afea604ee9c7a9-ks",
+      "date": "2026-08-21",
+      "jurisdiction": "kmbc.com",
+      "title": "Kansas city sues citizens seeking vote to ban data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kmbc.com/article/edgerton-kansas-data-center-ban-lawsuit-citizen-petition/73489670"
+    },
     {
       "id": "news:rss-rto-insider-b8cca56ea81f5f0e-ks",
       "date": "2026-08-06",
@@ -135,15 +144,6 @@
       "tier": null,
       "outcome": "win",
       "url": "https://www.ksn.com/news/kansas-county-puts-moratorium-on-data-centers-and-nuclear-hydrogen-plants/"
-    },
-    {
-      "id": "openstates:ocd-bill-6964a2b1-f924-4746-acdc-a9eb12ec62b9-ks",
-      "date": "2026-01-27",
-      "jurisdiction": "KS Legislature",
-      "title": "Requiring data centers to use closed-loop cooling systems to mitigate water consumption.",
-      "tier": "unclear",
-      "outcome": "pending",
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB400/"
     }
   ]
 }

@@ -1,8 +1,490 @@
 {
-  "generated_at": "2026-08-21T03:14:02Z",
+  "generated_at": "2026-08-21T03:59:20Z",
   "window_days": 90,
-  "count": 1084,
+  "count": 1096,
   "items": [
+    {
+      "id": "gdelt-beffe38283812738",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Data center discussion : Spanish Fork City Council delays vote for amendments that could pave way for data center | News , Sports , Jobs",
+      "source_domain": "heraldextra.com",
+      "source_name": "heraldextra.com",
+      "url": "https://heraldextra.com/news/2026/aug/20/data-center-discussion-spanish-fork-city-council-delays-vote-for-amendments-that-could-pave-way-for-data-center",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "beffe38283812738",
+      "content_hash": "2eb297c112185b65",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0df6dbf266e409d7",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Gregg Township passes data center moratorium",
+      "source_domain": "standard-journal.com",
+      "source_name": "standard-journal.com",
+      "url": "https://standard-journal.com/news/local/gregg-township-passes-data-center-moratorium/article_bfb7a04d-5b42-4bbd-b862-5ae5f1f9918a.html",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "0df6dbf266e409d7",
+      "content_hash": "c28deed875885e79",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-7011ba11fffdd3c4",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "ERCOT says it plans to complete governor data center audit by December – Houston Public Media",
+      "source_domain": "houstonpublicmedia.org",
+      "source_name": "houstonpublicmedia.org",
+      "url": "https://houstonpublicmedia.org/articles/news/energy-environment/2026/08/20/559959/ercot-says-it-plans-to-complete-governors-data-center-audit-by-december",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "7011ba11fffdd3c4",
+      "content_hash": "67138d7405acbdbe",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-22afea604ee9c7a9",
+      "state": "KS",
+      "city": null,
+      "category": "banned",
+      "headline": "Kansas city sues citizens seeking vote to ban data centers",
+      "source_domain": "kmbc.com",
+      "source_name": "kmbc.com",
+      "url": "https://kmbc.com/article/edgerton-kansas-data-center-ban-lawsuit-citizen-petition/73489670",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "22afea604ee9c7a9",
+      "content_hash": "8bef1afb4f5ea03d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e731ee937414ac0f",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "How to Push for Safeguards When Data Centers Come to Your Community",
+      "source_domain": "wsls.com",
+      "source_name": "wsls.com",
+      "url": "https://wsls.com/news/local/2026/08/20/americans-for-responsible-innovation-on-data-centers-coming-to-swva",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "e731ee937414ac0f",
+      "content_hash": "625a7c146ddd7dd5",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ac0bb565d6797ebe",
+      "state": "OH",
+      "city": null,
+      "category": "protested",
+      "headline": "Data Centers Emerge as Key Issue in Ohio Senate Race",
+      "source_domain": "thedailybeast.com",
+      "source_name": "thedailybeast.com",
+      "url": "https://thedailybeast.com/data-centers-emerge-as-key-issue-in-ohio-senate-race",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "ac0bb565d6797ebe",
+      "content_hash": "50f3a394019cf6ae",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-5c0c8c0525bbe60f",
+      "state": "MN",
+      "city": null,
+      "category": "protested",
+      "headline": "Google launches a charm offensive in 2 Minnesota towns as data center opposition grows",
+      "source_domain": "mprnews.org",
+      "source_name": "mprnews.org",
+      "url": "https://mprnews.org/story/2026/08/20/google-launches-a-charm-offensive-in-2-minnesota-towns-as-data-center-opposition-grows",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Google"
+      ],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "5c0c8c0525bbe60f",
+      "content_hash": "2c801746596e2fcc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c261f3d1cc0e8cc8",
+      "state": "UT",
+      "city": null,
+      "category": "protested",
+      "headline": "Utah lawmakers get a primer on data centers after a summer of protests and political fallout | News , Sports , Jobs",
+      "source_domain": "standard.net",
+      "source_name": "standard.net",
+      "url": "https://standard.net/news/2026/aug/19/utah-lawmakers-get-a-primer-on-data-centers-after-a-summer-of-protests-and-political-fallout",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "c261f3d1cc0e8cc8",
+      "content_hash": "4834455b90aec261",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-dca265ebb2de5141",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Data center developer sues Gibraltar , says moratorium unlawfully halted project",
+      "source_domain": "wxyz.com",
+      "source_name": "wxyz.com",
+      "url": "https://wxyz.com/news/data-centers/data-center-developer-sues-gibraltar-claiming-moratorium-unlawfully-halted-project",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "dca265ebb2de5141",
+      "content_hash": "0c057e8ce629beb1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.78,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6adde5ceccdd3004",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Atlanta eyes new rules for data centers amid community concerns",
+      "source_domain": "fox5atlanta.com",
+      "source_name": "fox5atlanta.com",
+      "url": "https://fox5atlanta.com/news/atlanta-eyes-new-rules-data-centers-amid-community-concerns",
+      "date": "2026-08-21",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "6adde5ceccdd3004",
+      "content_hash": "773c3c430848289e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0f91f1a7ce2d2a98",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Rep . Josh Riley introduces bill to help utility bills costs amidst data center moratorium",
+      "source_domain": "wbng.com",
+      "source_name": "wbng.com",
+      "url": "https://wbng.com/2026/08/20/rep-josh-riley-introduces-bill-help-utility-bills-costs-amidst-data-center-moratorium",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "0f91f1a7ce2d2a98",
+      "content_hash": "3f025a93789f975c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ab16521d596692b7",
+      "state": "US",
+      "city": null,
+      "category": "cancelled",
+      "headline": "Lawsuit targets $3 billion Spartanburg County data center project",
+      "source_domain": "wyff4.com",
+      "source_name": "wyff4.com",
+      "url": "https://wyff4.com/article/lawsuit-filed-to-stop-spartanburg-county-data-center/73486156",
+      "date": "2026-08-20",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-21 03:59:19",
+      "url_hash": "ab16521d596692b7",
+      "content_hash": "de118c636235a53c",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-21T03:59:19Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-rto-insider-ce20bdd351ae3020",
       "state": "NV",
@@ -30,7 +512,7 @@
         "rss-rto-insider"
       ],
       "snippet": "A controversial data center project on federal land in Nevada continues to test the resolve of top lawmakers in the face of public opposition, sparking a public spat between the state’s Republican governor and a senior Democratic congresswoman. The post Nevada Governor, Congresswoman Spar Over Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -109,7 +591,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-20T23:38:19Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -429,7 +911,7 @@
         "rss-dcd"
       ],
       "snippet": "Leaders raise concerns over environmental impact of building projects",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -2552,7 +3034,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5996,7 +6478,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8347,7 +8829,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -9226,7 +9708,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -12325,7 +12807,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12443,7 +12925,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -13796,7 +14278,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -36048,7 +36530,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-21T03:14:01Z",
+      "last_seen": "2026-08-21T03:59:19Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -43239,6 +43721,60 @@
     }
   ],
   "by_state": {
+    "KS": {
+      "state": "KS",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 2
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-08-21"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 20,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 9,
+        "banned": 7,
+        "cancelled": 3,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 20
+      },
+      "latest_date": "2026-08-21"
+    },
+    "MN": {
+      "state": "MN",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 4
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-08-21"
+    },
+    "UT": {
+      "state": "UT",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 5,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-08-21"
+    },
     "NV": {
       "state": "NV",
       "count": 3,
@@ -43359,21 +43895,6 @@
       },
       "platforms": {
         "news": 7
-      },
-      "latest_date": "2026-08-19"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 19,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 8,
-        "banned": 7,
-        "cancelled": 3,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 19
       },
       "latest_date": "2026-08-19"
     },
@@ -43606,18 +44127,6 @@
       },
       "latest_date": "2026-08-07"
     },
-    "KS": {
-      "state": "KS",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 2
-      },
-      "platforms": {
-        "news": 2
-      },
-      "latest_date": "2026-08-06"
-    },
     "WA": {
       "state": "WA",
       "count": 9,
@@ -43631,19 +44140,6 @@
         "news": 9
       },
       "latest_date": "2026-08-06"
-    },
-    "MN": {
-      "state": "MN",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1,
-        "banned": 4
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-07-31"
     },
     "NJ": {
       "state": "NJ",
@@ -43685,19 +44181,6 @@
       },
       "platforms": {
         "news": 4
-      },
-      "latest_date": "2026-07-19"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "cancelled": 1,
-        "protested": 4
-      },
-      "platforms": {
-        "news": 5
       },
       "latest_date": "2026-07-19"
     },

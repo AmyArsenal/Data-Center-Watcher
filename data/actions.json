@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T03:14:02Z",
-  "count": 1954,
+  "generated_at": "2026-08-21T03:59:20Z",
+  "count": 1966,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,460 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-0df6dbf266e409d7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "standard-journal.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Gregg Township passes data center moratorium",
+      "sources": [
+        "https://standard-journal.com/news/local/gregg-township-passes-data-center-moratorium/article_bfb7a04d-5b42-4bbd-b862-5ae5f1f9918a.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-22afea604ee9c7a9-ks",
+      "origin": "news",
+      "state": "KS",
+      "county": null,
+      "jurisdiction": "kmbc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Kansas city sues citizens seeking vote to ban data centers",
+      "sources": [
+        "https://kmbc.com/article/edgerton-kansas-data-center-ban-lawsuit-citizen-petition/73489670"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-5c0c8c0525bbe60f-mn",
+      "origin": "news",
+      "state": "MN",
+      "county": null,
+      "jurisdiction": "mprnews.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Google launches a charm offensive in 2 Minnesota towns as data center opposition grows",
+      "sources": [
+        "https://mprnews.org/story/2026/08/20/google-launches-a-charm-offensive-in-2-minnesota-towns-as-data-center-opposition-grows"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-6adde5ceccdd3004-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fox5atlanta.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Atlanta eyes new rules for data centers amid community concerns",
+      "sources": [
+        "https://fox5atlanta.com/news/atlanta-eyes-new-rules-data-centers-amid-community-concerns"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-7011ba11fffdd3c4-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "houstonpublicmedia.org",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-08-21",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "ERCOT says it plans to complete governor data center audit by December – Houston Public Media",
+      "sources": [
+        "https://houstonpublicmedia.org/articles/news/energy-environment/2026/08/20/559959/ercot-says-it-plans-to-complete-governors-data-center-audit-by-december"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-ac0bb565d6797ebe-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "thedailybeast.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Centers Emerge as Key Issue in Ohio Senate Race",
+      "sources": [
+        "https://thedailybeast.com/data-centers-emerge-as-key-issue-in-ohio-senate-race"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-beffe38283812738-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "heraldextra.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center discussion : Spanish Fork City Council delays vote for amendments that could pave way for data center | News , Sports , Jobs",
+      "sources": [
+        "https://heraldextra.com/news/2026/aug/20/data-center-discussion-spanish-fork-city-council-delays-vote-for-amendments-that-could-pave-way-for-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-c261f3d1cc0e8cc8-ut",
+      "origin": "news",
+      "state": "UT",
+      "county": null,
+      "jurisdiction": "standard.net",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Utah lawmakers get a primer on data centers after a summer of protests and political fallout | News , Sports , Jobs",
+      "sources": [
+        "https://standard.net/news/2026/aug/19/utah-lawmakers-get-a-primer-on-data-centers-after-a-summer-of-protests-and-political-fallout"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-dca265ebb2de5141-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wxyz.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center developer sues Gibraltar , says moratorium unlawfully halted project",
+      "sources": [
+        "https://wxyz.com/news/data-centers/data-center-developer-sues-gibraltar-claiming-moratorium-unlawfully-halted-project"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e731ee937414ac0f-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wsls.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "How to Push for Safeguards When Data Centers Come to Your Community",
+      "sources": [
+        "https://wsls.com/news/local/2026/08/20/americans-for-responsible-innovation-on-data-centers-coming-to-swva"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-0764e2fa45b72045-us",
       "origin": "news",
@@ -60,6 +514,51 @@
       "data_source": "news",
       "last_updated": "2026-08-20T22:51:25Z",
       "first_seen": "2026-08-20T22:51:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-0f91f1a7ce2d2a98-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wbng.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-20",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Rep . Josh Riley introduces bill to help utility bills costs amidst data center moratorium",
+      "sources": [
+        "https://wbng.com/2026/08/20/rep-josh-riley-introduces-bill-help-utility-bills-costs-amidst-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -608,6 +1107,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-ab16521d596692b7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wyff4.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "lawsuit"
+      ],
+      "authority_level": null,
+      "date": "2026-08-20",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Lawsuit targets $3 billion Spartanburg County data center project",
+      "sources": [
+        "https://wyff4.com/article/lawsuit-filed-to-stop-spartanburg-county-data-center/73486156"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T03:59:19Z",
+      "first_seen": "2026-08-21T03:59:20Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
     },
     {
       "id": "news:gdelt-aec1996e9bd5ae20-us",
@@ -90339,30 +90883,146 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1143,
+      "count": 1151,
       "outcome_counts": {
-        "pending": 634,
-        "win": 477,
-        "loss": 32,
+        "pending": 637,
+        "win": 481,
+        "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1109,
+        "restrictive": 1116,
         "protective": 2,
-        "supportive": 32,
+        "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1124,
-        "statewide": 11,
+        "local": 1131,
+        "statewide": 12,
         "federal": 8
       },
       "issue_top": {
-        "community_impact": 215,
+        "community_impact": 217,
         "zoning": 89,
         "grid_energy": 21
       },
-      "latest_date": "2026-08-20",
+      "latest_date": "2026-08-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "UT": {
+      "state": "UT",
+      "count": 11,
+      "outcome_counts": {
+        "pending": 9,
+        "win": 1,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 10,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 8,
+        "statewide": 3,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 5,
+        "contract_guarantees": 1,
+        "grid_energy": 1
+      },
+      "latest_date": "2026-08-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "MN": {
+      "state": "MN",
+      "count": 11,
+      "outcome_counts": {
+        "pending": 4,
+        "win": 6,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 8,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 10,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "transparency": 3,
+        "grid_energy": 2,
+        "community_impact": 1
+      },
+      "latest_date": "2026-08-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 40,
+      "outcome_counts": {
+        "pending": 22,
+        "win": 16,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 32,
+        "protective": 0,
+        "supportive": 2,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 35,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "grid_energy": 5,
+        "ratepayer": 5
+      },
+      "latest_date": "2026-08-21",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "KS": {
+      "state": "KS",
+      "count": 16,
+      "outcome_counts": {
+        "pending": 10,
+        "win": 4,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 4,
+        "unclear": 3
+      },
+      "scope_counts": {
+        "local": 9,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 6,
+        "tax_incentive": 4,
+        "zoning": 3
+      },
+      "latest_date": "2026-08-21",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -90508,35 +91168,6 @@
         "water": 7
       },
       "latest_date": "2026-08-20",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 39,
-      "outcome_counts": {
-        "pending": 21,
-        "win": 16,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 31,
-        "protective": 0,
-        "supportive": 2,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 34,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 9,
-        "grid_energy": 5,
-        "ratepayer": 5
-      },
-      "latest_date": "2026-08-19",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -91177,64 +91808,6 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
-    "KS": {
-      "state": "KS",
-      "count": 15,
-      "outcome_counts": {
-        "pending": 10,
-        "win": 3,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 4,
-        "unclear": 3
-      },
-      "scope_counts": {
-        "local": 8,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 6,
-        "tax_incentive": 4,
-        "zoning": 3
-      },
-      "latest_date": "2026-08-06",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "MN": {
-      "state": "MN",
-      "count": 10,
-      "outcome_counts": {
-        "pending": 3,
-        "win": 6,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 7,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 9,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "transparency": 3,
-        "grid_energy": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-07-31",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
     "NJ": {
       "state": "NJ",
       "count": 33,
@@ -91292,35 +91865,6 @@
       "latest_date": "2026-07-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "UT": {
-      "state": "UT",
-      "count": 10,
-      "outcome_counts": {
-        "pending": 8,
-        "win": 1,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 9,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 7,
-        "statewide": 3,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 5,
-        "contract_guarantees": 1,
-        "grid_energy": 1
-      },
-      "latest_date": "2026-07-19",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "WY": {
       "state": "WY",

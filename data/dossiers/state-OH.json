@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-08-21T03:14:02Z",
+  "generated_at": "2026-08-21T03:59:20Z",
   "risk_score": {
-    "score": 58.9,
-    "tier": 33.6,
+    "score": 59.7,
+    "tier": 33.8,
     "engagement": 6.2,
-    "recency": 14.0,
+    "recency": 14.7,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.1,
+    "score": 40.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 39,
+  "count": 40,
   "tier_counts": {
-    "restrictive": 31,
+    "restrictive": 32,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
-    "pending": 21,
+    "pending": 22,
     "win": 16,
     "loss": 2
   },
   "scope_counts": {
-    "local": 34,
+    "local": 35,
     "statewide": 5
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-08-19",
+  "latest": "2026-08-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-ac0bb565d6797ebe-oh",
+      "date": "2026-08-21",
+      "jurisdiction": "thedailybeast.com",
+      "title": "Data Centers Emerge as Key Issue in Ohio Senate Race",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://thedailybeast.com/data-centers-emerge-as-key-issue-in-ohio-senate-race"
+    },
     {
       "id": "news:gdelt-631bf96bb407c708-oh",
       "date": "2026-08-19",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://newsandtribune.com/indiana/city-council-pauses-data-center-development-in-new-albany-for-1-year/article_dc3733a3-b9a5-4197-b780-9ffd5035aa89.html"
-    },
-    {
-      "id": "news:rss-dck-70ed87371489d6cd-oh",
-      "date": "2026-07-09",
-      "jurisdiction": "datacenterknowledge",
-      "title": "Can Transparency Become an AI Data Center Advantage?. After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data c",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterknowledge.com/data-center-site-selection/can-transparency-become-an-ai-data-center-advantage-"
     }
   ]
 }
