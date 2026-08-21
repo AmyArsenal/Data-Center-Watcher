@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T11:40:30Z",
-  "count": 1968,
+  "generated_at": "2026-08-21T11:58:34Z",
+  "count": 1969,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -246,6 +246,51 @@
       "bill_session": null,
       "tier": "supportive",
       "tier_reason": "project advancing"
+    },
+    {
+      "id": "news:gdelt-aa32a34d82afabf1-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "dailykos.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-21",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Abbreviated Pundit Roundup : Lack of trust with data centers and Flock cameras is and will be a voting issue",
+      "sources": [
+        "https://dailykos.com/stories/2026/8/21/800086978/community/abbreviated-pundit-roundup"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-21T11:58:33Z",
+      "first_seen": "2026-08-21T11:58:34Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-ac0bb565d6797ebe-oh",
@@ -90975,21 +91020,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1153,
+      "count": 1154,
       "outcome_counts": {
-        "pending": 638,
+        "pending": 639,
         "win": 482,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1118,
+        "restrictive": 1119,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1133,
+        "local": 1134,
         "statewide": 12,
         "federal": 8
       },
