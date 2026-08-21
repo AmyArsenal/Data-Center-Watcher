@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-08-21T15:20:14Z",
+  "generated_at": "2026-08-21T15:54:52Z",
   "risk_score": {
-    "score": 48.4,
-    "tier": 23.2,
-    "engagement": 8.7,
-    "recency": 7.6,
-    "multi_source": 3.9,
+    "score": 49.7,
+    "tier": 23.6,
+    "engagement": 8.6,
+    "recency": 8.5,
+    "multi_source": 3.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.6,
+    "score": 50.3,
     "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 1,
-    "denials": 11,
+    "denials": 12,
     "lawsuits": 2,
     "blocked": 3,
     "active_companies": 1,
@@ -26,9 +26,9 @@
     "bills_passed": 2,
     "bills_enacted": 0
   },
-  "count": 33,
+  "count": 34,
   "tier_counts": {
-    "restrictive": 14,
+    "restrictive": 15,
     "unclear": 9,
     "supportive": 3,
     "protective": 1,
@@ -36,11 +36,11 @@
   },
   "outcome_counts": {
     "pending": 21,
-    "win": 11,
+    "win": 12,
     "loss": 1
   },
   "scope_counts": {
-    "local": 17,
+    "local": 18,
     "statewide": 15,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-01-13",
-  "latest": "2026-07-30",
+  "latest": "2026-08-21",
   "top_citations": [
+    {
+      "id": "news:gdelt-69824b7839150949-nj",
+      "date": "2026-08-21",
+      "jurisdiction": "yahoo.com",
+      "title": "New Jersey second largest city just banned data centers . See which other towns have as well .",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://yahoo.com/news/us/articles/jerseys-second-largest-city-just-110048128.html"
+    },
     {
       "id": "news:rss-dcd-e746c12effa6a0ac-nj",
       "date": "2026-07-30",
@@ -144,15 +153,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/ban-on-data-centers-being-considered-in-andover-township-new-jersey-after-town-meeting-gets-violent"
-    },
-    {
-      "id": "news:gdelt-bf8fec78b9c6a9e6-nj",
-      "date": "2026-05-12",
-      "jurisdiction": "govtech.com",
-      "title": "New Jersey Town to Ban All Data Centers After Chaotic Meeting",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://govtech.com/artificial-intelligence/new-jersey-town-to-ban-all-data-centers-after-chaotic-meeting"
     }
   ]
 }
