@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T03:52:46Z",
-  "count": 1982,
+  "generated_at": "2026-08-22T04:19:04Z",
+  "count": 1985,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,143 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-0fbef41dd66f879a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "northcentralpa.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Gregg Township supervisors approve data center moratorium , PNK still on the table",
+      "sources": [
+        "https://northcentralpa.com/business/gregg-township-supervisors-approve-data-center-moratorium-pnks-still-on-the-table/article_0b0c06b6-6371-4756-b607-26a3bc7193d7.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-22T04:19:03Z",
+      "first_seen": "2026-08-22T04:19:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-aa8f2273ae1978b3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wobm.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Holmdel bans data centers but Bell Works proposal may move ahead",
+      "sources": [
+        "https://wobm.com/ixp/385/p/holmdel-data-center-bell-works"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-22T04:19:03Z",
+      "first_seen": "2026-08-22T04:19:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d9b2f89da13181a0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wbng.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-22",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Binghamton residents say data center moratorium doesnt go far enough",
+      "sources": [
+        "https://wbng.com/2026/08/21/binghamton-residents-say-data-center-moratorium-doesnt-go-far-enough"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-22T04:19:03Z",
+      "first_seen": "2026-08-22T04:19:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-0df6dbf266e409d7-us",
       "origin": "news",
@@ -91611,30 +91748,30 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1162,
+      "count": 1165,
       "outcome_counts": {
-        "pending": 640,
-        "win": 489,
+        "pending": 641,
+        "win": 491,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1127,
+        "restrictive": 1130,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1142,
+        "local": 1145,
         "statewide": 12,
         "federal": 8
       },
       "issue_top": {
-        "community_impact": 217,
+        "community_impact": 218,
         "zoning": 90,
         "grid_energy": 21
       },
-      "latest_date": "2026-08-21",
+      "latest_date": "2026-08-22",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
