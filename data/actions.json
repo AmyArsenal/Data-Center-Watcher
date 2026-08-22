@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T13:27:11Z",
-  "count": 1989,
+  "generated_at": "2026-08-22T13:49:56Z",
+  "count": 1991,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -246,6 +246,53 @@
       "tier_reason": "banned"
     },
     {
+      "id": "news:gdelt-a3bfdadb34fa8972-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kfgo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "public_comment"
+      ],
+      "authority_level": null,
+      "date": "2026-08-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Residents voice concerns over Mandan data center during town hall",
+      "sources": [
+        "https://kfgo.com/2026/08/22/1343710"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-22T13:49:55Z",
+      "first_seen": "2026-08-22T13:49:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-aa8f2273ae1978b3-us",
       "origin": "news",
       "state": "US",
@@ -285,6 +332,51 @@
       "data_source": "news",
       "last_updated": "2026-08-22T04:19:03Z",
       "first_seen": "2026-08-22T04:19:04Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-b130c025506ff1c6-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "gizmodo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-22",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "The One Big Issue That Connects the Data Center and Flock Backlash",
+      "sources": [
+        "https://gizmodo.com/the-one-big-issue-that-connects-the-data-center-and-flock-backlash-2000801584"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-22T13:49:55Z",
+      "first_seen": "2026-08-22T13:49:56Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -91928,26 +92020,26 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1169,
+      "count": 1171,
       "outcome_counts": {
-        "pending": 643,
+        "pending": 645,
         "win": 493,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1134,
+        "restrictive": 1136,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1149,
+        "local": 1151,
         "statewide": 12,
         "federal": 8
       },
       "issue_top": {
-        "community_impact": 218,
+        "community_impact": 219,
         "zoning": 90,
         "grid_energy": 21
       },
