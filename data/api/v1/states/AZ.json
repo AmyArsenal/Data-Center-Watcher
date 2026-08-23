@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AZ",
-  "generated_at": "2026-08-22T23:54:12Z",
+  "generated_at": "2026-08-23T00:29:35Z",
   "risk_score": {
-    "score": 50.9,
+    "score": 48.7,
     "tier": 21.3,
     "engagement": 8.9,
-    "recency": 11.6,
+    "recency": 9.3,
     "multi_source": 4.2,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "D",
-    "score": 49.1,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 51.3,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
