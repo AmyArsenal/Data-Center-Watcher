@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T17:54:42Z",
-  "count": 1992,
+  "generated_at": "2026-08-23T18:10:17Z",
+  "count": 1994,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,53 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-30cf7de60aa60311-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "chicagotribune.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Jasper County residents raise money for legal help against data center",
+      "sources": [
+        "https://chicagotribune.com/2026/08/23/we-want-to-stop-it-jasper-county-residents-raise-money-for-legal-help-against-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-23T18:10:16Z",
+      "first_seen": "2026-08-23T18:10:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-6c6c7a703a159dd2-us",
       "origin": "news",
@@ -64,6 +111,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-ce76ee0eff051e4a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kscj.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Despite protests , Salix leaders vote to proceed with data center project",
+      "sources": [
+        "https://kscj.com/2026/08/23/despite-protests-salix-leaders-vote-to-proceed-with-data-center-project"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-23T18:10:16Z",
+      "first_seen": "2026-08-23T18:10:16Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-0fbef41dd66f879a-us",
@@ -92065,26 +92157,26 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1172,
+      "count": 1174,
       "outcome_counts": {
-        "pending": 645,
+        "pending": 647,
         "win": 494,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1137,
+        "restrictive": 1139,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1152,
+        "local": 1154,
         "statewide": 12,
         "federal": 8
       },
       "issue_top": {
-        "community_impact": 219,
+        "community_impact": 220,
         "zoning": 90,
         "grid_energy": 21
       },
