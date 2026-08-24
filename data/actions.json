@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:47:35Z",
-  "count": 2000,
+  "generated_at": "2026-08-24T21:16:31Z",
+  "count": 2002,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -66,6 +66,51 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-5034116e1193f5d2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "moneytalksnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-24",
+      "status": "cancelled",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Trump Calls It  a Mistake  for Communities to Reject Data Centers",
+      "sources": [
+        "https://moneytalksnews.com/trump-calls-it-a-mistake-for-communities-to-reject-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T21:16:30Z",
+      "first_seen": "2026-08-24T21:16:30Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "cancelled"
+    },
+    {
       "id": "news:gdelt-60f3b3c616c5fcf9-us",
       "origin": "news",
       "state": "US",
@@ -105,6 +150,51 @@
       "data_source": "news",
       "last_updated": "2026-08-24T19:20:21Z",
       "first_seen": "2026-08-24T19:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-820d9c16852559e3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "patch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Ban Approved In Stafford Township",
+      "sources": [
+        "https://patch.com/new-jersey/barnegat-manahawkin/data-center-ban-approved-stafford-township"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T21:16:30Z",
+      "first_seen": "2026-08-24T21:16:30Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -92485,21 +92575,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1177,
+      "count": 1179,
       "outcome_counts": {
         "pending": 648,
-        "win": 496,
+        "win": 498,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1142,
+        "restrictive": 1144,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1157,
+        "local": 1159,
         "statewide": 12,
         "federal": 8
       },
