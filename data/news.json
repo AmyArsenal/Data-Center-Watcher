@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-08-24T18:55:59Z",
+  "generated_at": "2026-08-24T19:20:22Z",
   "window_days": 90,
-  "count": 1113,
+  "count": 1117,
   "items": [
+    {
+      "id": "gdelt-3a1bd618ee89caf9",
+      "state": "TX",
+      "city": null,
+      "category": "protested",
+      "headline": "ðŸŽ § Small Town Texas Opposes Big Data Center | Darlene Sanchez",
+      "source_domain": "theepochtimes.com",
+      "source_name": "theepochtimes.com",
+      "url": "https://theepochtimes.com/article/small-town-texas-opposes-big-data-center-darlene-sanchez-6077632",
+      "date": "2026-08-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-24 19:20:21",
+      "url_hash": "3a1bd618ee89caf9",
+      "content_hash": "2818eb07807dec46",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-24T19:20:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-f54a61eb86283b73",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Louis Navellier sends urgent data center message as moratorium worry mounts",
+      "source_domain": "finance.yahoo.com",
+      "source_name": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/articles/louis-navellier-sends-urgent-data-143700396.html",
+      "date": "2026-08-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-24 19:20:21",
+      "url_hash": "f54a61eb86283b73",
+      "content_hash": "edd31b06d58623f2",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-24T19:20:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-e086dd1c3902414e",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Billboards go up in opposition to Lowndes County data center",
+      "source_domain": "yellowhammernews.com",
+      "source_name": "yellowhammernews.com",
+      "url": "https://yellowhammernews.com/billboards-go-up-in-opposition-to-lowndes-county-data-center",
+      "date": "2026-08-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-24 19:20:21",
+      "url_hash": "e086dd1c3902414e",
+      "content_hash": "e4525117f04a1516",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-24T19:20:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-60f3b3c616c5fcf9",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Escondido City Council to vote on data center moratorium",
+      "source_domain": "10news.com",
+      "source_name": "10news.com",
+      "url": "https://10news.com/news/local-news/escondido-city-council-to-vote-on-data-center-moratorium",
+      "date": "2026-08-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-24 19:20:21",
+      "url_hash": "60f3b3c616c5fcf9",
+      "content_hash": "6ed3638251dc0f6a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-24T19:20:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dcd-5155f6393e4668d1",
       "state": "MI",
@@ -30,7 +190,7 @@
         "rss-dcd"
       ],
       "snippet": "Imposed moratorium curbed proposals for a 100MW data center in the city",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -74,7 +234,7 @@
         "rss-dcd"
       ],
       "snippet": "Meta, QTS, Amazon, SoftBank Energy, and Google all commit funds to the program",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1033,7 +1193,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4236,7 +4396,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -7680,7 +7840,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10031,7 +10191,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -10910,7 +11070,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14009,7 +14169,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -14127,7 +14287,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -15480,7 +15640,7 @@
         "rss-dck"
       ],
       "snippet": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -37732,7 +37892,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-24T18:55:58Z",
+      "last_seen": "2026-08-24T19:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -44404,6 +44564,22 @@
     }
   ],
   "by_state": {
+    "TX": {
+      "state": "TX",
+      "count": 48,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 21,
+        "banned": 25,
+        "cancelled": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 47,
+        "legal": 1
+      },
+      "latest_date": "2026-08-24"
+    },
     "MI": {
       "state": "MI",
       "count": 15,
@@ -44442,22 +44618,6 @@
       },
       "platforms": {
         "news": 4
-      },
-      "latest_date": "2026-08-21"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 47,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 20,
-        "banned": 25,
-        "cancelled": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 46,
-        "legal": 1
       },
       "latest_date": "2026-08-21"
     },

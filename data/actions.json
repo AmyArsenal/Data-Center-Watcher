@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T18:56:00Z",
-  "count": 1996,
+  "generated_at": "2026-08-24T19:20:22Z",
+  "count": 2000,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,186 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-3a1bd618ee89caf9-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "theepochtimes.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "ðŸŽ § Small Town Texas Opposes Big Data Center | Darlene Sanchez",
+      "sources": [
+        "https://theepochtimes.com/article/small-town-texas-opposes-big-data-center-darlene-sanchez-6077632"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T19:20:21Z",
+      "first_seen": "2026-08-24T19:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-60f3b3c616c5fcf9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "10news.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Escondido City Council to vote on data center moratorium",
+      "sources": [
+        "https://10news.com/news/local-news/escondido-city-council-to-vote-on-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T19:20:21Z",
+      "first_seen": "2026-08-24T19:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-e086dd1c3902414e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "yellowhammernews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Billboards go up in opposition to Lowndes County data center",
+      "sources": [
+        "https://yellowhammernews.com/billboards-go-up-in-opposition-to-lowndes-county-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T19:20:21Z",
+      "first_seen": "2026-08-24T19:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-f54a61eb86283b73-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "finance.yahoo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Louis Navellier sends urgent data center message as moratorium worry mounts",
+      "sources": [
+        "https://finance.yahoo.com/technology/articles/louis-navellier-sends-urgent-data-143700396.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T19:20:21Z",
+      "first_seen": "2026-08-24T19:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:rss-dcd-5155f6393e4668d1-mi",
       "origin": "news",
@@ -92305,21 +92485,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1174,
+      "count": 1177,
       "outcome_counts": {
-        "pending": 647,
-        "win": 494,
+        "pending": 648,
+        "win": 496,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1139,
+        "restrictive": 1142,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1154,
+        "local": 1157,
         "statewide": 12,
         "federal": 8
       },
@@ -92328,7 +92508,36 @@
         "zoning": 90,
         "grid_energy": 21
       },
-      "latest_date": "2026-08-23",
+      "latest_date": "2026-08-24",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 76,
+      "outcome_counts": {
+        "pending": 38,
+        "win": 32,
+        "loss": 3,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 60,
+        "protective": 0,
+        "supportive": 1,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 65,
+        "statewide": 11,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 20,
+        "community_impact": 11,
+        "water": 9
+      },
+      "latest_date": "2026-08-24",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
@@ -92443,35 +92652,6 @@
         "grid_energy": 7,
         "water": 4,
         "community_impact": 3
-      },
-      "latest_date": "2026-08-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "TX": {
-      "state": "TX",
-      "count": 75,
-      "outcome_counts": {
-        "pending": 37,
-        "win": 32,
-        "loss": 3,
-        "mixed": 3
-      },
-      "tier_counts": {
-        "restrictive": 59,
-        "protective": 0,
-        "supportive": 1,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 64,
-        "statewide": 11,
-        "federal": 0
-      },
-      "issue_top": {
-        "grid_energy": 20,
-        "community_impact": 11,
-        "water": 9
       },
       "latest_date": "2026-08-21",
       "map_color_tier": "restrictive",

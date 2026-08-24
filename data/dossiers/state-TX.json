@@ -1,9 +1,9 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-24T18:56:00Z",
+  "generated_at": "2026-08-24T19:20:22Z",
   "risk_score": {
-    "score": 65.3,
+    "score": 65.4,
     "tier": 33.9,
     "engagement": 6.3,
     "recency": 20.0,
@@ -12,7 +12,7 @@
   },
   "grade": {
     "letter": "F",
-    "score": 34.7,
+    "score": 34.6,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 75,
+  "count": 76,
   "tier_counts": {
-    "restrictive": 59,
+    "restrictive": 60,
     "null": 15,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 37,
+    "pending": 38,
     "mixed": 3,
     "loss": 3,
     "win": 32
   },
   "scope_counts": {
-    "local": 64,
+    "local": 65,
     "statewide": 11
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-21",
+  "latest": "2026-08-24",
   "top_citations": [
+    {
+      "id": "news:gdelt-3a1bd618ee89caf9-tx",
+      "date": "2026-08-24",
+      "jurisdiction": "theepochtimes.com",
+      "title": "ðŸŽ § Small Town Texas Opposes Big Data Center | Darlene Sanchez",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://theepochtimes.com/article/small-town-texas-opposes-big-data-center-darlene-sanchez-6077632"
+    },
     {
       "id": "news:rss-utilitydive-0c6dc3982ff6956c-tx",
       "date": "2026-08-21",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://kcby.com/news/nation-world/trump-criticizes-abbott-moratorium-on-texas-data-centers-connecting-to-power-grid"
-    },
-    {
-      "id": "news:rss-rto-insider-c505163a7b1e2734-tx",
-      "date": "2026-08-09",
-      "jurisdiction": "RTO Insider",
-      "title": "Texas PUC Special Session Tackles 765-kV, Data Center Issues. The Texas Public Utility Commission has scheduled a special open meeting to di",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://rtoinsider.com/138601-texas-puc-special-session-tackles-765-kv-data-center-issues"
     }
   ]
 }

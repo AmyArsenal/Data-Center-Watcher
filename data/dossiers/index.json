@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-24T18:56:00Z",
+  "generated_at": "2026-08-24T19:20:22Z",
   "states": [
     {
       "state": "AK",
@@ -592,16 +592,16 @@
     },
     {
       "state": "TX",
-      "count": 75,
-      "risk_score": 65.3,
+      "count": 76,
+      "risk_score": 65.4,
       "grade": "F",
-      "grade_score": 34.7,
+      "grade_score": 34.6,
       "moratoriums": 8,
       "approvals": 3,
       "denials": 32,
       "lawsuits": 4,
       "active_companies": 8,
-      "latest": "2026-08-21",
+      "latest": "2026-08-24",
       "url": "data/dossiers/state-TX.json"
     },
     {
