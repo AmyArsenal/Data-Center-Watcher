@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MI",
-  "generated_at": "2026-08-24T15:51:55Z",
+  "generated_at": "2026-08-24T16:20:29Z",
   "risk_score": {
-    "score": 58.9,
-    "tier": 36.5,
+    "score": 60.0,
+    "tier": 36.6,
     "engagement": 6.2,
-    "recency": 16.1,
+    "recency": 17.1,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 41.1,
+    "score": 40.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 9,
+    "moratoriums": 10,
     "approvals": 0,
-    "denials": 12,
+    "denials": 13,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 2,
@@ -26,17 +26,17 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 24,
+  "count": 25,
   "tier_counts": {
-    "restrictive": 21,
+    "restrictive": 22,
     "null": 3
   },
   "outcome_counts": {
-    "win": 12,
+    "win": 13,
     "pending": 12
   },
   "scope_counts": {
-    "local": 22,
+    "local": 23,
     "statewide": 2
   },
   "issue_top": {
@@ -61,8 +61,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-03-01",
-  "latest": "2026-08-21",
+  "latest": "2026-08-24",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-5155f6393e4668d1-mi",
+      "date": "2026-08-24",
+      "jurisdiction": "DCD",
+      "title": "Raeden claims Michigan moratorium unlawfully stopped its Gibraltar data center development. Imposed moratorium curbed proposals for a 100MW ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/raeden-claims-michigan-moratorium-unlawfully-stopped-its-gibraltar-data-center-development"
+    },
     {
       "id": "news:gdelt-e8fba9e34324dc5c-mi",
       "date": "2026-08-21",
@@ -143,15 +152,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/city-officials-in-michigan-denied-request-to-lift-data-center-moratorium"
-    },
-    {
-      "id": "news:gdelt-f0a6610a72ccf051-mi",
-      "date": "2026-07-18",
-      "jurisdiction": "Lansing",
-      "title": "Hochul Signs Moratorium on Data Center Permitting , Putting Lansing Data Center Plans in Question",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://cornellsun.com/article/2026/07/k9fstjzcajbc"
     }
   ]
 }
