@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T21:16:31Z",
-  "count": 2002,
+  "generated_at": "2026-08-24T22:12:18Z",
+  "count": 2003,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -375,6 +375,53 @@
       "data_source": "news",
       "last_updated": "2026-08-24T13:34:12Z",
       "first_seen": "2026-08-24T13:34:13Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dck-f626bcfba99690fa-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Construction at Midyear: Demand, Friction, and Building Discipline. Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration",
+      "sources": [
+        "https://datacenterknowledge.com/data-center-construction/data-center-construction-at-midyear-demand-friction-and-building-discipline"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T22:12:17Z",
+      "first_seen": "2026-08-24T22:12:18Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -92575,26 +92622,26 @@
     },
     "US": {
       "state": "US",
-      "count": 1179,
+      "count": 1180,
       "outcome_counts": {
-        "pending": 648,
+        "pending": 649,
         "win": 498,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1144,
+        "restrictive": 1145,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1159,
+        "local": 1160,
         "statewide": 12,
         "federal": 8
       },
       "issue_top": {
-        "community_impact": 220,
+        "community_impact": 221,
         "zoning": 90,
         "grid_energy": 21
       },
