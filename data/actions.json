@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T12:39:09Z",
-  "count": 1994,
+  "generated_at": "2026-08-24T13:34:13Z",
+  "count": 1995,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-e96e2b1442605e9b-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "AEP Ohio secures $18m from data center firms for bill assistance program. Meta, QTS, Amazon, SoftBank Energy, and Google all commit funds to the program",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/aep-ohio-secures-18m-from-data-center-firms-for-bill-assistance-program"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-24T13:34:12Z",
+      "first_seen": "2026-08-24T13:34:13Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-30cf7de60aa60311-us",
       "origin": "news",
@@ -92155,6 +92200,35 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 41,
+      "outcome_counts": {
+        "pending": 23,
+        "win": 16,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 33,
+        "protective": 0,
+        "supportive": 2,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 36,
+        "statewide": 5,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "grid_energy": 5,
+        "ratepayer": 5
+      },
+      "latest_date": "2026-08-24",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "US": {
       "state": "US",
       "count": 1174,
@@ -92241,35 +92315,6 @@
       "latest_date": "2026-08-21",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 40,
-      "outcome_counts": {
-        "pending": 22,
-        "win": 16,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 32,
-        "protective": 0,
-        "supportive": 2,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 35,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 9,
-        "grid_energy": 5,
-        "ratepayer": 5
-      },
-      "latest_date": "2026-08-21",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "KS": {
       "state": "KS",
