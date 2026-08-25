@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-25T15:00:04Z",
+  "generated_at": "2026-08-25T15:40:25Z",
   "window_days": 90,
-  "count": 1126,
+  "count": 1127,
   "items": [
+    {
+      "id": "rss-dcd-414623d9127fbd4f",
+      "state": "KY",
+      "city": null,
+      "category": "protested",
+      "headline": "Residents raise concerns over proposed 50MW data center in Hopkinsville, Kentucky",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/residents-raise-concerns-over-proposed-50mw-data-center-in-hopkinsville-kentucky",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 15:40:24",
+      "url_hash": "414623d9127fbd4f",
+      "content_hash": "5a81312d94d4268a",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "North Campbell Land Co. looking to convert its Bitcoin mining facility to AI and HPC",
+      "last_seen": "2026-08-25T15:40:24Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/residents-raise-concerns-over-proposed-50mw-data-center-in-hopkinsville-kentucky/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-29a8633f10d2ff25",
       "state": "US",
@@ -630,7 +669,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1912,7 +1951,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -5115,7 +5154,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8559,7 +8598,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10910,7 +10949,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11789,7 +11828,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14888,7 +14927,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -15006,7 +15045,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38611,7 +38650,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-25T15:00:03Z",
+      "last_seen": "2026-08-25T15:40:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -44925,6 +44964,19 @@
     }
   ],
   "by_state": {
+    "KY": {
+      "state": "KY",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 4,
+        "banned": 2
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-08-25"
+    },
     "GA": {
       "state": "GA",
       "count": 6,
@@ -45333,19 +45385,6 @@
         "news": 4
       },
       "latest_date": "2026-08-10"
-    },
-    "KY": {
-      "state": "KY",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 3,
-        "banned": 2
-      },
-      "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-08-07"
     },
     "WA": {
       "state": "WA",
