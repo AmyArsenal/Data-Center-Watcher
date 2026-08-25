@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T18:54:23Z",
+  "generated_at": "2026-08-25T19:20:43Z",
   "tier_timestamps": {
-    "fast": "2026-08-25T18:54:23Z",
+    "fast": "2026-08-25T19:20:43Z",
     "bills": "2026-08-25T17:00:03Z"
   },
   "counts_by_source": {
@@ -16,7 +16,7 @@
     "rss-court-dc": 1
   },
   "run_stats": {
-    "last_run_seconds": 32.74,
+    "last_run_seconds": 27.89,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
@@ -24,21 +24,15 @@
       "gdelt": 0
     },
     "inserted": 0,
-    "updated": 10,
-    "dropped_irrelevant": 180,
+    "updated": 11,
+    "dropped_irrelevant": 179,
     "accepted_by_source_this_run": {
+      "rss-utilitydive": 1,
+      "rss-dcd": 2,
       "rss-latitude": 1,
       "rss-canary": 1,
       "rss-dck": 5,
-      "rss-dcd": 2,
       "rss-court-dc": 1
-    },
-    "bills_last_run_seconds": 517.2,
-    "bills_raw_fetched": 0,
-    "bills_inserted": 0,
-    "bills_updated": 0,
-    "bills_noop": 0,
-    "bills_total_in_json": 193,
-    "bills_states_with_bills": 16
+    }
   }
 }
