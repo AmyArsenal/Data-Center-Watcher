@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T07:55:05Z",
-  "count": 2005,
+  "generated_at": "2026-08-25T08:26:27Z",
+  "count": 2011,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,282 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-0ba3d00ec2213233-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ktiv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Arthur residents want answers on data center",
+      "sources": [
+        "https://ktiv.com/2026/08/25/arthur-residents-ask-questions-pathones-data-center-meeting"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T08:26:26Z",
+      "first_seen": "2026-08-25T08:26:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-2392f86a0c45e079-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "41nbc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Byron residents raise concerns over proposed data center ordinance",
+      "sources": [
+        "https://41nbc.com/byron-residents-raise-concerns-over-proposed-data-center-ordinance"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T08:26:26Z",
+      "first_seen": "2026-08-25T08:26:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-4443d966186054ea-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wdio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pause on Data Centers in Carlton County",
+      "sources": [
+        "https://wdio.com/top-stories/pause-on-data-centers-in-carlton-county"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T08:26:26Z",
+      "first_seen": "2026-08-25T08:26:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-671b6fc8e9d17c17-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ktre.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "ordinance"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-08-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Athens City Council votes 3 - 2 in favor of ordinance banning data centers",
+      "sources": [
+        "https://ktre.com/2026/08/25/athens-city-council-votes-3-2-favor-ordinance-banning-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T08:26:26Z",
+      "first_seen": "2026-08-25T08:26:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-6ead7d094235f9e9-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "fox21online.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Carlton County passes one - year moratorium on creation of data centers",
+      "sources": [
+        "https://fox21online.com/news/local/carlton-county-passes-one-year-moratorium-on-creation-of-data-centers/article_4208b36a-16fd-4341-b2cf-7f148411caec.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T08:26:26Z",
+      "first_seen": "2026-08-25T08:26:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-ec844725046f49dc-mi",
+      "origin": "news",
+      "state": "MI",
+      "county": null,
+      "jurisdiction": "wowo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Michigan Residents Fight Data Centers as Local Officials Say They Have Little Power",
+      "sources": [
+        "https://wowo.com/michigan-residents-fight-data-centers-as-local-officials-say-they-have-little-power"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T08:26:26Z",
+      "first_seen": "2026-08-25T08:26:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-0e0c4b6a2eacf2c2-us",
       "origin": "news",
@@ -92652,6 +92928,64 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 26,
+      "outcome_counts": {
+        "pending": 13,
+        "win": 13,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 23,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 24,
+        "statewide": 2,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "noise": 2,
+        "environmental": 1
+      },
+      "latest_date": "2026-08-25",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "US": {
+      "state": "US",
+      "count": 1187,
+      "outcome_counts": {
+        "pending": 652,
+        "win": 502,
+        "loss": 33,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1152,
+        "protective": 2,
+        "supportive": 33,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 1167,
+        "statewide": 12,
+        "federal": 8
+      },
+      "issue_top": {
+        "community_impact": 223,
+        "zoning": 90,
+        "grid_energy": 21
+      },
+      "latest_date": "2026-08-25",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "OH": {
       "state": "OH",
       "count": 41,
@@ -92676,64 +93010,6 @@
         "community_impact": 9,
         "grid_energy": 5,
         "ratepayer": 5
-      },
-      "latest_date": "2026-08-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 25,
-      "outcome_counts": {
-        "pending": 12,
-        "win": 13,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 22,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 23,
-        "statewide": 2,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 8,
-        "noise": 2,
-        "environmental": 1
-      },
-      "latest_date": "2026-08-24",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 1182,
-      "outcome_counts": {
-        "pending": 649,
-        "win": 500,
-        "loss": 33,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1147,
-        "protective": 2,
-        "supportive": 33,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1162,
-        "statewide": 12,
-        "federal": 8
-      },
-      "issue_top": {
-        "community_impact": 221,
-        "zoning": 90,
-        "grid_energy": 21
       },
       "latest_date": "2026-08-24",
       "map_color_tier": "restrictive",

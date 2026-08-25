@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-08-25T07:55:05Z",
+  "generated_at": "2026-08-25T08:26:26Z",
   "window_days": 90,
-  "count": 1113,
+  "count": 1119,
   "items": [
+    {
+      "id": "gdelt-2392f86a0c45e079",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Byron residents raise concerns over proposed data center ordinance",
+      "source_domain": "41nbc.com",
+      "source_name": "41nbc.com",
+      "url": "https://41nbc.com/byron-residents-raise-concerns-over-proposed-data-center-ordinance",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 08:26:26",
+      "url_hash": "2392f86a0c45e079",
+      "content_hash": "fa462b10ab176f30",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T08:26:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-671b6fc8e9d17c17",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Athens City Council votes 3 - 2 in favor of ordinance banning data centers",
+      "source_domain": "ktre.com",
+      "source_name": "ktre.com",
+      "url": "https://ktre.com/2026/08/25/athens-city-council-votes-3-2-favor-ordinance-banning-data-centers",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 08:26:26",
+      "url_hash": "671b6fc8e9d17c17",
+      "content_hash": "38ee75ff33200210",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T08:26:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4443d966186054ea",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Pause on Data Centers in Carlton County",
+      "source_domain": "wdio.com",
+      "source_name": "wdio.com",
+      "url": "https://wdio.com/top-stories/pause-on-data-centers-in-carlton-county",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 08:26:26",
+      "url_hash": "4443d966186054ea",
+      "content_hash": "922da479ff8a65d0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T08:26:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-6ead7d094235f9e9",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Carlton County passes one - year moratorium on creation of data centers",
+      "source_domain": "fox21online.com",
+      "source_name": "fox21online.com",
+      "url": "https://fox21online.com/news/local/carlton-county-passes-one-year-moratorium-on-creation-of-data-centers/article_4208b36a-16fd-4341-b2cf-7f148411caec.html",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 08:26:26",
+      "url_hash": "6ead7d094235f9e9",
+      "content_hash": "df7b0f07044c3e2e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T08:26:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0ba3d00ec2213233",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Arthur residents want answers on data center",
+      "source_domain": "ktiv.com",
+      "source_name": "ktiv.com",
+      "url": "https://ktiv.com/2026/08/25/arthur-residents-ask-questions-pathones-data-center-meeting",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 08:26:26",
+      "url_hash": "0ba3d00ec2213233",
+      "content_hash": "7f348055e4f98dd1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T08:26:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-ec844725046f49dc",
+      "state": "MI",
+      "city": null,
+      "category": "protested",
+      "headline": "Michigan Residents Fight Data Centers as Local Officials Say They Have Little Power",
+      "source_domain": "wowo.com",
+      "source_name": "wowo.com",
+      "url": "https://wowo.com/michigan-residents-fight-data-centers-as-local-officials-say-they-have-little-power",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 08:26:26",
+      "url_hash": "ec844725046f49dc",
+      "content_hash": "5c67cc20fb11c28a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T08:26:26Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-5ee4389255d8652b",
       "state": "US",
@@ -110,7 +350,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-08-25T07:55:04Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -389,7 +629,7 @@
         "rss-dcd"
       ],
       "snippet": "Imposed moratorium curbed proposals for a 100MW data center in the city",
-      "last_seen": "2026-08-25T07:55:03Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -433,7 +673,7 @@
         "rss-dcd"
       ],
       "snippet": "Meta, QTS, Amazon, SoftBank Energy, and Google all commit funds to the program",
-      "last_seen": "2026-08-25T07:55:03Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1392,7 +1632,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-      "last_seen": "2026-08-25T07:55:03Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4595,7 +4835,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-25T07:55:03Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8039,7 +8279,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-25T07:55:04Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10390,7 +10630,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-25T07:55:04Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11269,7 +11509,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-25T07:55:04Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14368,7 +14608,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-25T07:55:04Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -14486,7 +14726,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-25T07:55:04Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38091,7 +38331,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-25T07:55:04Z",
+      "last_seen": "2026-08-25T08:26:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -44405,6 +44645,19 @@
     }
   ],
   "by_state": {
+    "MI": {
+      "state": "MI",
+      "count": 16,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 8,
+        "banned": 8
+      },
+      "platforms": {
+        "news": 16
+      },
+      "latest_date": "2026-08-25"
+    },
     "TX": {
       "state": "TX",
       "count": 48,
@@ -44418,19 +44671,6 @@
       "platforms": {
         "news": 47,
         "legal": 1
-      },
-      "latest_date": "2026-08-24"
-    },
-    "MI": {
-      "state": "MI",
-      "count": 15,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 8,
-        "protested": 7
-      },
-      "platforms": {
-        "news": 15
       },
       "latest_date": "2026-08-24"
     },
