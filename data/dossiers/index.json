@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-24T23:56:02Z",
+  "generated_at": "2026-08-25T00:32:26Z",
   "states": [
     {
       "state": "AK",
@@ -19,9 +19,9 @@
     {
       "state": "AL",
       "count": 7,
-      "risk_score": 63.9,
+      "risk_score": 60.8,
       "grade": "D",
-      "grade_score": 36.1,
+      "grade_score": 39.2,
       "moratoriums": 3,
       "approvals": 0,
       "denials": 5,
@@ -467,9 +467,9 @@
     {
       "state": "NY",
       "count": 39,
-      "risk_score": 58.9,
+      "risk_score": 58.7,
       "grade": "D",
-      "grade_score": 41.1,
+      "grade_score": 41.3,
       "moratoriums": 26,
       "approvals": 0,
       "denials": 29,
@@ -579,9 +579,9 @@
     {
       "state": "TN",
       "count": 5,
-      "risk_score": 44.6,
+      "risk_score": 42.8,
       "grade": "C",
-      "grade_score": 55.4,
+      "grade_score": 57.2,
       "moratoriums": 2,
       "approvals": 0,
       "denials": 3,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 58,
-      "risk_score": 54.3,
+      "risk_score": 54.1,
       "grade": "D",
-      "grade_score": 45.7,
+      "grade_score": 45.9,
       "moratoriums": 7,
       "approvals": 4,
       "denials": 22,
