@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T12:20:23Z",
-  "count": 2017,
+  "generated_at": "2026-08-25T13:24:27Z",
+  "count": 2018,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -113,6 +113,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-29a8633f10d2ff25-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wral.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Durham County adopts 9 - month pause on data centers",
+      "sources": [
+        "https://wral.com/news/local/durham-county-approves-data-center-moratorium-august-2026"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T13:24:26Z",
+      "first_seen": "2026-08-25T13:24:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     },
     {
       "id": "news:gdelt-4443d966186054ea-us",
@@ -93233,21 +93278,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1191,
+      "count": 1192,
       "outcome_counts": {
         "pending": 656,
-        "win": 502,
+        "win": 503,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1156,
+        "restrictive": 1157,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1171,
+        "local": 1172,
         "statewide": 12,
         "federal": 8
       },
