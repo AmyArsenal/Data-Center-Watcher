@@ -1,8 +1,168 @@
 {
-  "generated_at": "2026-08-25T11:49:57Z",
+  "generated_at": "2026-08-25T12:20:23Z",
   "window_days": 90,
-  "count": 1121,
+  "count": 1125,
   "items": [
+    {
+      "id": "gdelt-d339d30560d3edf1",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "North Coventry supervisors oppose data center plan",
+      "source_domain": "timesherald.com",
+      "source_name": "timesherald.com",
+      "url": "https://timesherald.com/2026/08/25/north-coventry-supervisors-oppose-data-center-plan",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 12:20:22",
+      "url_hash": "d339d30560d3edf1",
+      "content_hash": "5be052163517cf56",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T12:20:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c3948b01f7aab6ca",
+      "state": "GA",
+      "city": null,
+      "category": "banned",
+      "headline": "Savannah to vote on data center moratorium amid Georgia coast concerns",
+      "source_domain": "ajc.com",
+      "source_name": "ajc.com",
+      "url": "https://ajc.com/news/2026/08/savannah-to-vote-on-data-center-moratorium-amid-georgia-coast-concerns",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 12:20:22",
+      "url_hash": "c3948b01f7aab6ca",
+      "content_hash": "44b8b07b3944cf9b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T12:20:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-fb5afd68283d0186",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Possible data center in Adams County has residents worried",
+      "source_domain": "wvxu.org",
+      "source_name": "wvxu.org",
+      "url": "https://wvxu.org/local-news/2026-08-25/adams-county-ohio-utility-costs-data-center-amazon",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 12:20:22",
+      "url_hash": "fb5afd68283d0186",
+      "content_hash": "16b209f32e4ca1da",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T12:20:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-c45cf69fe079beb6",
+      "state": "MT",
+      "city": null,
+      "category": "banned",
+      "headline": "Montana should be the first state to ban data centers",
+      "source_domain": "dailyinterlake.com",
+      "source_name": "dailyinterlake.com",
+      "url": "https://dailyinterlake.com/news/2026/aug/25/montana-should-be-the-first-state-to-ban-data-centers",
+      "date": "2026-08-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-25 12:20:22",
+      "url_hash": "c45cf69fe079beb6",
+      "content_hash": "af22e3df29b379de",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-08-25T12:20:22Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-90151d1e9c6d1d46",
       "state": "US",
@@ -30,7 +190,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -70,7 +230,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -270,7 +430,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-25T08:26:26Z",
+      "last_seen": "2026-08-25T12:20:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -310,7 +470,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-08-25T08:26:26Z",
+      "last_seen": "2026-08-25T12:20:22Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -430,7 +590,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -709,7 +869,7 @@
         "rss-dcd"
       ],
       "snippet": "Imposed moratorium curbed proposals for a 100MW data center in the city",
-      "last_seen": "2026-08-25T11:49:55Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1712,7 +1872,7 @@
         "rss-utilitydive"
       ],
       "snippet": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-      "last_seen": "2026-08-25T11:49:55Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -4915,7 +5075,7 @@
         "rss-latitude"
       ],
       "snippet": "Gov. Abbott's interconnection pause will simply push data center development off-grid — at least for now. The post The grid&#8217;s woes just got bigger in Texas appeared first on Latitude Media .",
-      "last_seen": "2026-08-25T11:49:55Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8359,7 +8519,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10710,7 +10870,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11589,7 +11749,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14688,7 +14848,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -14806,7 +14966,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38411,7 +38571,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-25T11:49:56Z",
+      "last_seen": "2026-08-25T12:20:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -44725,6 +44885,32 @@
     }
   ],
   "by_state": {
+    "GA": {
+      "state": "GA",
+      "count": 6,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 1,
+        "protested": 5
+      },
+      "platforms": {
+        "news": 6
+      },
+      "latest_date": "2026-08-25"
+    },
+    "MT": {
+      "state": "MT",
+      "count": 3,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 1
+      },
+      "platforms": {
+        "news": 3
+      },
+      "latest_date": "2026-08-25"
+    },
     "MI": {
       "state": "MI",
       "count": 16,
@@ -44861,19 +45047,6 @@
       },
       "platforms": {
         "news": 19
-      },
-      "latest_date": "2026-08-20"
-    },
-    "MT": {
-      "state": "MT",
-      "count": 2,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1,
-        "protested": 1
-      },
-      "platforms": {
-        "news": 2
       },
       "latest_date": "2026-08-20"
     },
@@ -45118,18 +45291,6 @@
       },
       "platforms": {
         "news": 4
-      },
-      "latest_date": "2026-08-10"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 5,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 5
-      },
-      "platforms": {
-        "news": 5
       },
       "latest_date": "2026-08-10"
     },

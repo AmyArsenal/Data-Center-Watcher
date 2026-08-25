@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T11:49:57Z",
-  "count": 2013,
+  "generated_at": "2026-08-25T12:20:23Z",
+  "count": 2017,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -342,6 +342,141 @@
       "tier_reason": "active opposition"
     },
     {
+      "id": "news:gdelt-c3948b01f7aab6ca-ga",
+      "origin": "news",
+      "state": "GA",
+      "county": null,
+      "jurisdiction": "ajc.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Savannah to vote on data center moratorium amid Georgia coast concerns",
+      "sources": [
+        "https://ajc.com/news/2026/08/savannah-to-vote-on-data-center-moratorium-amid-georgia-coast-concerns"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T12:20:22Z",
+      "first_seen": "2026-08-25T12:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-c45cf69fe079beb6-mt",
+      "origin": "news",
+      "state": "MT",
+      "county": null,
+      "jurisdiction": "dailyinterlake.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Montana should be the first state to ban data centers",
+      "sources": [
+        "https://dailyinterlake.com/news/2026/aug/25/montana-should-be-the-first-state-to-ban-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T12:20:22Z",
+      "first_seen": "2026-08-25T12:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-d339d30560d3edf1-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "timesherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "North Coventry supervisors oppose data center plan",
+      "sources": [
+        "https://timesherald.com/2026/08/25/north-coventry-supervisors-oppose-data-center-plan"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T12:20:22Z",
+      "first_seen": "2026-08-25T12:20:22Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
       "id": "news:gdelt-ec844725046f49dc-mi",
       "origin": "news",
       "state": "MI",
@@ -383,6 +518,53 @@
       "data_source": "news",
       "last_updated": "2026-08-25T08:26:26Z",
       "first_seen": "2026-08-25T08:26:26Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-fb5afd68283d0186-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wvxu.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Possible data center in Adams County has residents worried",
+      "sources": [
+        "https://wvxu.org/local-news/2026-08-25/adams-county-ohio-utility-costs-data-center-amazon"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T12:20:22Z",
+      "first_seen": "2026-08-25T12:20:22Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -93051,28 +93233,86 @@
     },
     "US": {
       "state": "US",
-      "count": 1189,
+      "count": 1191,
       "outcome_counts": {
-        "pending": 654,
+        "pending": 656,
         "win": 502,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1154,
+        "restrictive": 1156,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1169,
+        "local": 1171,
         "statewide": 12,
         "federal": 8
       },
       "issue_top": {
-        "community_impact": 224,
+        "community_impact": 225,
         "zoning": 90,
         "grid_energy": 21
+      },
+      "latest_date": "2026-08-25",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "MT": {
+      "state": "MT",
+      "count": 10,
+      "outcome_counts": {
+        "pending": 5,
+        "win": 4,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 3,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 6
+      },
+      "scope_counts": {
+        "local": 3,
+        "statewide": 7,
+        "federal": 0
+      },
+      "issue_top": {
+        "anti_ai": 1,
+        "community_impact": 1,
+        "environmental": 1
+      },
+      "latest_date": "2026-08-25",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
+    },
+    "GA": {
+      "state": "GA",
+      "count": 22,
+      "outcome_counts": {
+        "pending": 16,
+        "win": 3,
+        "loss": 2,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 10,
+        "protective": 0,
+        "supportive": 3,
+        "unclear": 4
+      },
+      "scope_counts": {
+        "local": 12,
+        "statewide": 9,
+        "federal": 1
+      },
+      "issue_top": {
+        "community_impact": 7,
+        "water": 4,
+        "environmental": 3
       },
       "latest_date": "2026-08-25",
       "map_color_tier": "restrictive",
@@ -93367,35 +93607,6 @@
       "latest_date": "2026-08-20",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "MT": {
-      "state": "MT",
-      "count": 9,
-      "outcome_counts": {
-        "pending": 5,
-        "win": 3,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 2,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 6
-      },
-      "scope_counts": {
-        "local": 2,
-        "statewide": 7,
-        "federal": 0
-      },
-      "issue_top": {
-        "anti_ai": 1,
-        "community_impact": 1,
-        "environmental": 1
-      },
-      "latest_date": "2026-08-20",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
     },
     "VA": {
       "state": "VA",
@@ -93858,35 +94069,6 @@
         "transparency": 3
       },
       "latest_date": "2026-08-11",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 21,
-      "outcome_counts": {
-        "pending": 16,
-        "win": 2,
-        "loss": 2,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 9,
-        "protective": 0,
-        "supportive": 3,
-        "unclear": 4
-      },
-      "scope_counts": {
-        "local": 11,
-        "statewide": 9,
-        "federal": 1
-      },
-      "issue_top": {
-        "community_impact": 7,
-        "water": 4,
-        "environmental": 3
-      },
-      "latest_date": "2026-08-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

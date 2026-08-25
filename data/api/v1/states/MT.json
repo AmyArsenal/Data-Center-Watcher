@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MT",
-  "generated_at": "2026-08-25T11:49:57Z",
+  "generated_at": "2026-08-25T12:20:23Z",
   "risk_score": {
-    "score": 47.3,
-    "tier": 18.2,
-    "engagement": 10.4,
-    "recency": 7.0,
-    "multi_source": 6.7,
+    "score": 51.7,
+    "tier": 20.4,
+    "engagement": 10.0,
+    "recency": 10.3,
+    "multi_source": 6.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.7,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.3,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 0,
     "approvals": 0,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 0,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 2
   },
-  "count": 9,
+  "count": 10,
   "tier_counts": {
     "unclear": 6,
     "null": 1,
-    "restrictive": 2
+    "restrictive": 3
   },
   "outcome_counts": {
     "pending": 5,
-    "win": 3,
+    "win": 4,
     "mixed": 1
   },
   "scope_counts": {
     "statewide": 7,
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "grid_energy": 1,
@@ -50,8 +50,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2024-10-30",
-  "latest": "2026-08-20",
+  "latest": "2026-08-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-c45cf69fe079beb6-mt",
+      "date": "2026-08-25",
+      "jurisdiction": "dailyinterlake.com",
+      "title": "Montana should be the first state to ban data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dailyinterlake.com/news/2026/aug/25/montana-should-be-the-first-state-to-ban-data-centers"
+    },
     {
       "id": "news:rss-dcd-a89105308f67e798-mt",
       "date": "2026-08-20",

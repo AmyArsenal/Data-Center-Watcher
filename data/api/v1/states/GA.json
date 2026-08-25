@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-08-25T11:49:57Z",
+  "generated_at": "2026-08-25T12:20:23Z",
   "risk_score": {
-    "score": 46.3,
-    "tier": 22.3,
-    "engagement": 8.3,
-    "recency": 7.4,
-    "multi_source": 3.3,
+    "score": 48.4,
+    "tier": 23.1,
+    "engagement": 8.2,
+    "recency": 8.8,
+    "multi_source": 3.2,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 53.7,
+    "score": 51.6,
     "label": "Significant activity in both directions"
   },
   "quantified": {
-    "moratoriums": 3,
+    "moratoriums": 4,
     "approvals": 2,
-    "denials": 2,
+    "denials": 3,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 21,
+  "count": 22,
   "tier_counts": {
-    "restrictive": 9,
+    "restrictive": 10,
     "unclear": 4,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
     "pending": 16,
-    "win": 2,
+    "win": 3,
     "loss": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 11,
+    "local": 12,
     "statewide": 9,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
-  "latest": "2026-08-10",
+  "latest": "2026-08-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-c3948b01f7aab6ca-ga",
+      "date": "2026-08-25",
+      "jurisdiction": "ajc.com",
+      "title": "Savannah to vote on data center moratorium amid Georgia coast concerns",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://ajc.com/news/2026/08/savannah-to-vote-on-data-center-moratorium-amid-georgia-coast-concerns"
+    },
     {
       "id": "news:rss-dcd-f87ab45dc51aee75-ga",
       "date": "2026-08-10",
@@ -142,15 +151,6 @@
       "jurisdiction": "Columbus",
       "title": "Columbus City Council delays data center vote 45 days after resident concerns",
       "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://www.wtvm.com/2026/04/16/columbus-city-council-delays-vote-data-center-project-after-resident-concerns/"
-    },
-    {
-      "id": "research:ga-columbus-city-council-20260416-columbus-city-council-delayed-vote-on-technology-o",
-      "date": "2026-04-16",
-      "jurisdiction": "Columbus City Council",
-      "title": "Columbus City Council delayed vote on Technology Overlay District required for proposed $5.18B Project Ruby data center on 900 acres along L",
-      "tier": null,
       "outcome": "pending",
       "url": "https://www.wtvm.com/2026/04/16/columbus-city-council-delays-vote-data-center-project-after-resident-concerns/"
     }
