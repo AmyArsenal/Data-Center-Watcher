@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T15:40:25Z",
-  "count": 2019,
+  "generated_at": "2026-08-25T16:17:29Z",
+  "count": 2020,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -657,6 +657,51 @@
       "data_source": "news",
       "last_updated": "2026-08-25T15:40:24Z",
       "first_seen": "2026-08-25T15:40:25Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-463c42b351965321-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Banglalink deploys rooftop solar array on data center in Cumilla, Bangladesh. Has a capacity of 50kW",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-25T16:17:28Z",
+      "first_seen": "2026-08-25T16:17:29Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -93325,21 +93370,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1192,
+      "count": 1193,
       "outcome_counts": {
-        "pending": 656,
+        "pending": 657,
         "win": 503,
         "loss": 33,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1157,
+        "restrictive": 1158,
         "protective": 2,
         "supportive": 33,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1172,
+        "local": 1173,
         "statewide": 12,
         "federal": 8
       },
