@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-08-25T23:56:52Z",
+  "generated_at": "2026-08-26T00:40:28Z",
   "states": [
     {
       "state": "AK",
@@ -33,9 +33,9 @@
     {
       "state": "AR",
       "count": 13,
-      "risk_score": 57.3,
+      "risk_score": 56.6,
       "grade": "D",
-      "grade_score": 42.7,
+      "grade_score": 43.4,
       "moratoriums": 4,
       "approvals": 1,
       "denials": 6,
@@ -313,9 +313,9 @@
     {
       "state": "MN",
       "count": 11,
-      "risk_score": 51.7,
+      "risk_score": 50.9,
       "grade": "D",
-      "grade_score": 48.3,
+      "grade_score": 49.1,
       "moratoriums": 8,
       "approvals": 0,
       "denials": 6,
@@ -481,9 +481,9 @@
     {
       "state": "OH",
       "count": 41,
-      "risk_score": 60.5,
+      "risk_score": 60.0,
       "grade": "D",
-      "grade_score": 39.5,
+      "grade_score": 40.0,
       "moratoriums": 8,
       "approvals": 2,
       "denials": 16,
