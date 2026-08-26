@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-08-26T14:59:07Z",
+  "generated_at": "2026-08-26T16:14:41Z",
   "window_days": 90,
-  "count": 1109,
+  "count": 1111,
   "items": [
+    {
+      "id": "rss-dcd-026d241d3f034eb3",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Grid connection of data centers in France",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/opinions/grid-connection-of-data-centers-in-france",
+      "date": "2026-08-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-26 16:14:40",
+      "url_hash": "026d241d3f034eb3",
+      "content_hash": "54a2f6d24a0933db",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "A closer look at the legal framework and practical issues",
+      "last_seen": "2026-08-26T16:14:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/opinions/grid-connection-of-data-centers-in-france/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
+    {
+      "id": "rss-dcd-d2e521ce4bfe449c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Empyrion closes financing for Taipei, Taiwan data center with E.Sun Bank",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/empyrion-closes-financing-for-taipei-taiwan-data-center-with-esun-bank",
+      "date": "2026-08-26",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-26 16:14:40",
+      "url_hash": "d2e521ce4bfe449c",
+      "content_hash": "b533121735503588",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "APAC operator closes financing for 7MW data center in Neihu, Taipei",
+      "last_seen": "2026-08-26T16:14:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/empyrion-closes-financing-for-taipei-taiwan-data-center-with-esun-bank/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-463c42b351965321",
       "state": "US",
@@ -708,7 +786,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-08-26T14:59:06Z",
+      "last_seen": "2026-08-26T16:14:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8637,7 +8715,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-26T14:59:06Z",
+      "last_seen": "2026-08-26T16:14:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10988,7 +11066,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-26T14:59:06Z",
+      "last_seen": "2026-08-26T16:14:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11867,7 +11945,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-26T14:59:06Z",
+      "last_seen": "2026-08-26T16:14:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -14966,7 +15044,7 @@
         "rss-canary"
       ],
       "snippet": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly contested Aug. 11 Democratic primary for Wisconsin governor. At a lively town hall last week in…",
-      "last_seen": "2026-08-26T14:59:06Z",
+      "last_seen": "2026-08-26T16:14:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -15084,7 +15162,7 @@
         "rss-dck"
       ],
       "snippet": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "last_seen": "2026-08-26T14:59:06Z",
+      "last_seen": "2026-08-26T16:14:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38689,7 +38767,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-26T14:59:06Z",
+      "last_seen": "2026-08-26T16:14:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T14:59:07Z",
-  "count": 2020,
+  "generated_at": "2026-08-26T16:14:41Z",
+  "count": 2022,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,98 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-026d241d3f034eb3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Grid connection of data centers in France. A closer look at the legal framework and practical issues",
+      "sources": [
+        "https://datacenterdynamics.com/en/opinions/grid-connection-of-data-centers-in-france"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-26T16:14:40Z",
+      "first_seen": "2026-08-26T16:14:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-d2e521ce4bfe449c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-08-26",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Empyrion closes financing for Taipei, Taiwan data center with E.Sun Bank. APAC operator closes financing for 7MW data center in Neihu, Taipei",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/empyrion-closes-financing-for-taipei-taiwan-data-center-with-esun-bank"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-26T16:14:40Z",
+      "first_seen": "2026-08-26T16:14:41Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-0ba3d00ec2213233-us",
       "origin": "news",
@@ -93339,6 +93431,35 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 1195,
+      "outcome_counts": {
+        "pending": 659,
+        "win": 503,
+        "loss": 33,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1160,
+        "protective": 2,
+        "supportive": 33,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 1175,
+        "statewide": 12,
+        "federal": 8
+      },
+      "issue_top": {
+        "community_impact": 225,
+        "zoning": 90,
+        "grid_energy": 22
+      },
+      "latest_date": "2026-08-26",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "MI": {
       "state": "MI",
       "count": 26,
@@ -93367,35 +93488,6 @@
       "latest_date": "2026-08-25",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 1193,
-      "outcome_counts": {
-        "pending": 657,
-        "win": 503,
-        "loss": 33,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1158,
-        "protective": 2,
-        "supportive": 33,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1173,
-        "statewide": 12,
-        "federal": 8
-      },
-      "issue_top": {
-        "community_impact": 225,
-        "zoning": 90,
-        "grid_energy": 21
-      },
-      "latest_date": "2026-08-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "MT": {
       "state": "MT",
