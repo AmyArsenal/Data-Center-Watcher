@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T21:22:07Z",
-  "count": 2022,
+  "generated_at": "2026-08-27T00:54:08Z",
+  "count": 2023,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,54 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-rto-insider-b831b6d3d86c43ff-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "federal",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "federal_agency",
+      "date": "2026-08-27",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "grid_energy",
+        "ratepayer"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "State Advocates in PJM Ask FERC to Squelch Reliability Backstop Plan. Ratepayer advocates in a half-dozen PJM states and the District of Columbia are urging FERC to reject the RTO’s proposed reliability backstop procurement, saying it will unfairly burden the public with expenses tied to serving power-hungry data centers. The post State Advocates in PJM Ask FERC to Squelch Reliability Backstop Plan appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/141197-state-advocates-pjm-ask-ferc-squelch-reliability-backstop-plan"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-08-27T00:54:07Z",
+      "first_seen": "2026-08-27T00:54:08Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
+    },
     {
       "id": "news:rss-dcd-026d241d3f034eb3-us",
       "origin": "news",
@@ -93433,30 +93481,30 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1195,
+      "count": 1196,
       "outcome_counts": {
         "pending": 659,
         "win": 503,
-        "loss": 33,
+        "loss": 34,
         "mixed": 0
       },
       "tier_counts": {
         "restrictive": 1160,
         "protective": 2,
-        "supportive": 33,
+        "supportive": 34,
         "unclear": 0
       },
       "scope_counts": {
         "local": 1175,
         "statewide": 12,
-        "federal": 8
+        "federal": 9
       },
       "issue_top": {
         "community_impact": 225,
         "zoning": 90,
-        "grid_energy": 22
+        "grid_energy": 23
       },
-      "latest_date": "2026-08-26",
+      "latest_date": "2026-08-27",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
