@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-28T04:29:39Z",
+  "generated_at": "2026-08-28T16:49:06Z",
   "window_days": 90,
-  "count": 1059,
+  "count": 1060,
   "items": [
+    {
+      "id": "rss-dcd-e51345b7b20ee506",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "UK Green Party calls for nationwide data center moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium",
+      "date": "2026-08-28",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-08-28 16:49:05",
+      "url_hash": "e51345b7b20ee506",
+      "content_hash": "b6e0f32cbd71e5af",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Only 'local scale data centers for the local community' would be allowed",
+      "last_seen": "2026-08-28T16:49:05Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-rto-insider-b831b6d3d86c43ff",
       "state": "US",
@@ -825,7 +864,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-08-28T04:29:38Z",
+      "last_seen": "2026-08-28T16:49:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8754,7 +8793,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-28T04:29:38Z",
+      "last_seen": "2026-08-28T16:49:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11105,7 +11144,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-28T04:29:38Z",
+      "last_seen": "2026-08-28T16:49:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -11984,7 +12023,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-28T04:29:38Z",
+      "last_seen": "2026-08-28T16:49:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38806,7 +38845,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-28T04:29:38Z",
+      "last_seen": "2026-08-28T16:49:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
