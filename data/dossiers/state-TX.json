@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-08-27T20:45:41Z",
+  "generated_at": "2026-08-28T04:29:39Z",
   "risk_score": {
-    "score": 65.4,
+    "score": 65.2,
     "tier": 33.9,
     "engagement": 6.3,
-    "recency": 20.0,
+    "recency": 19.8,
     "multi_source": 0.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "F",
-    "score": 34.6,
+    "score": 34.8,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
