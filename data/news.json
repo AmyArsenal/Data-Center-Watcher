@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T23:46:39Z",
+  "generated_at": "2026-08-30T01:53:34Z",
   "window_days": 90,
-  "count": 1056,
+  "count": 1053,
   "items": [
     {
       "id": "rss-dcd-e51345b7b20ee506",
@@ -30,7 +30,7 @@
         "rss-dcd"
       ],
       "snippet": "Only 'local scale data centers for the local community' would be allowed",
-      "last_seen": "2026-08-29T23:46:38Z",
+      "last_seen": "2026-08-30T01:53:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -864,7 +864,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-08-29T23:46:38Z",
+      "last_seen": "2026-08-30T01:53:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8793,7 +8793,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-29T23:46:38Z",
+      "last_seen": "2026-08-30T01:53:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11144,7 +11144,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-29T23:46:38Z",
+      "last_seen": "2026-08-30T01:53:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12023,7 +12023,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-29T23:46:38Z",
+      "last_seen": "2026-08-30T01:53:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38845,7 +38845,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-29T23:46:38Z",
+      "last_seen": "2026-08-30T01:53:33Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41994,126 +41994,6 @@
         "rss_author": null,
         "rss_needs_dc_filter": false
       }
-    },
-    {
-      "id": "gdelt-4f54fb3434036e2d",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "SoftBank to spend up to $87 billion on French AI data centers country offers ample nuclear grid that US sites lack",
-      "source_domain": "tomshardware.com",
-      "source_name": "tomshardware.com",
-      "url": "https://tomshardware.com/tech-industry/softbank-to-spend-up-to-75-billion-on-french-ai-data-centers",
-      "date": "2026-05-31",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-31 20:04:14",
-      "url_hash": "4f54fb3434036e2d",
-      "content_hash": "7d1c1a3568cb0551",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-31T20:04:14Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-52975dea3016b872",
-      "state": "US",
-      "city": null,
-      "category": "announced",
-      "headline": "Parke County Commissioners rein in data centers amid rumored plans near county line",
-      "source_domain": "suncommercial.com",
-      "source_name": "suncommercial.com",
-      "url": "https://suncommercial.com/brazil_times/brazil_times/article_e73f053d-8700-55ff-bee3-d19452757019.html",
-      "date": "2026-05-31",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-31 16:46:15",
-      "url_hash": "52975dea3016b872",
-      "content_hash": "430cc025a080dfa1",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-31T16:46:15Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-cd2f4fc2ecdba3d3",
-      "state": "UT",
-      "city": null,
-      "category": "protested",
-      "headline": "A 9 - gigawatt data centre outraged a Utah community . The governor just issued new rules .",
-      "source_domain": "thenextweb.com",
-      "source_name": "thenextweb.com",
-      "url": "https://thenextweb.com/news/utah-governor-data-centre-rules-oleary-stratos-backlash",
-      "date": "2026-05-31",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-05-31 16:46:15",
-      "url_hash": "cd2f4fc2ecdba3d3",
-      "content_hash": "9e60ba6570aee53a",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-05-31T16:46:15Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (cancelled OR canceled OR withdrawn OR rejected) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
     }
   ],
   "by_state": {
@@ -42256,14 +42136,14 @@
     },
     "UT": {
       "state": "UT",
-      "count": 5,
+      "count": 4,
       "total_engagement": 0,
       "categories": {
-        "protested": 4,
+        "protested": 3,
         "cancelled": 1
       },
       "platforms": {
-        "news": 5
+        "news": 4
       },
       "latest_date": "2026-08-21"
     },

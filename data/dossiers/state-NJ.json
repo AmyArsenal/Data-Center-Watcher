@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NJ",
-  "generated_at": "2026-08-29T23:46:39Z",
+  "generated_at": "2026-08-30T01:53:34Z",
   "risk_score": {
-    "score": 48.9,
+    "score": 48.1,
     "tier": 23.6,
     "engagement": 8.6,
-    "recency": 7.8,
+    "recency": 7.0,
     "multi_source": 3.8,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.1,
+    "score": 51.9,
     "label": "Significant activity in both directions"
   },
   "quantified": {

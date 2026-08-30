@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-08-29T23:46:39Z",
+  "generated_at": "2026-08-30T01:53:34Z",
   "states": [
     {
       "state": "AK",
@@ -425,9 +425,9 @@
     {
       "state": "NJ",
       "count": 34,
-      "risk_score": 48.9,
+      "risk_score": 48.1,
       "grade": "C",
-      "grade_score": 51.1,
+      "grade_score": 51.9,
       "moratoriums": 2,
       "approvals": 1,
       "denials": 12,
@@ -467,9 +467,9 @@
     {
       "state": "NY",
       "count": 39,
-      "risk_score": 58.0,
+      "risk_score": 57.3,
       "grade": "D",
-      "grade_score": 42.0,
+      "grade_score": 42.7,
       "moratoriums": 26,
       "approvals": 0,
       "denials": 29,
@@ -607,9 +607,9 @@
     {
       "state": "UT",
       "count": 11,
-      "risk_score": 59.1,
+      "risk_score": 58.3,
       "grade": "D",
-      "grade_score": 40.9,
+      "grade_score": 41.7,
       "moratoriums": 0,
       "approvals": 0,
       "denials": 1,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 58,
-      "risk_score": 53.7,
+      "risk_score": 53.2,
       "grade": "D",
-      "grade_score": 46.3,
+      "grade_score": 46.8,
       "moratoriums": 7,
       "approvals": 4,
       "denials": 22,

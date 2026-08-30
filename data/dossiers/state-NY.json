@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NY",
-  "generated_at": "2026-08-29T23:46:39Z",
+  "generated_at": "2026-08-30T01:53:34Z",
   "risk_score": {
-    "score": 58.0,
+    "score": 57.3,
     "tier": 37.8,
     "engagement": 6.4,
-    "recency": 13.5,
+    "recency": 12.8,
     "multi_source": 0.3,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 42.0,
+    "score": 42.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
