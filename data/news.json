@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T22:42:33Z",
+  "generated_at": "2026-08-31T00:49:47Z",
   "window_days": 90,
-  "count": 1053,
+  "count": 1046,
   "items": [
     {
       "id": "rss-dcd-e51345b7b20ee506",
@@ -30,7 +30,7 @@
         "rss-dcd"
       ],
       "snippet": "Only 'local scale data centers for the local community' would be allowed",
-      "last_seen": "2026-08-30T22:42:32Z",
+      "last_seen": "2026-08-31T00:49:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -864,7 +864,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-08-30T22:42:32Z",
+      "last_seen": "2026-08-31T00:49:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8793,7 +8793,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-08-30T22:42:32Z",
+      "last_seen": "2026-08-31T00:49:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11144,7 +11144,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-08-30T22:42:32Z",
+      "last_seen": "2026-08-31T00:49:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -12023,7 +12023,7 @@
         "rss-dck"
       ],
       "snippet": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "last_seen": "2026-08-30T22:42:32Z",
+      "last_seen": "2026-08-31T00:49:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38845,7 +38845,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-08-30T22:42:32Z",
+      "last_seen": "2026-08-31T00:49:46Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -41718,295 +41718,19 @@
         "rss_author": null,
         "rss_needs_dc_filter": false
       }
-    },
-    {
-      "id": "gdelt-3db2076c7e5b19d6",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Erin Brockovich , the activist who defeated a utility giant and inspired a Julia Roberts film , is pushing data centers to be more transparent",
-      "source_domain": "yahoo.com",
-      "source_name": "yahoo.com",
-      "url": "https://yahoo.com/news/us/articles/erin-brockovich-activist-defeated-utility-175600894.html",
-      "date": "2026-06-01",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-01 23:20:06",
-      "url_hash": "3db2076c7e5b19d6",
-      "content_hash": "c881e4bb2b436e5f",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-01T23:20:06Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-b7d9d8be51be8499",
-      "state": "TN",
-      "city": null,
-      "category": "banned",
-      "headline": "Amid plans for new  high - density  AI data center campus in a Middle Tennessee city , locals push for moratorium on such facilities",
-      "source_domain": "wsmv.com",
-      "source_name": "wsmv.com",
-      "url": "https://wsmv.com/2026/06/01/amid-plans-new-high-density-ai-data-center-campus-middle-tennessee-city-locals-push-moratorium-such-facilities",
-      "date": "2026-06-01",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-01 21:46:28",
-      "url_hash": "b7d9d8be51be8499",
-      "content_hash": "9c3ba1ddb901b231",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-01T23:20:06Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"AI data center\" (community OR residents OR NIMBY) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-d5ba42a735519cbe",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Palo City Council to discuss a data center ordinance",
-      "source_domain": "kcrg.com",
-      "source_name": "kcrg.com",
-      "url": "https://kcrg.com/2026/06/01/palo-city-council-discuss-data-center-ordinance",
-      "date": "2026-06-01",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-01 18:20:51",
-      "url_hash": "d5ba42a735519cbe",
-      "content_hash": "fec32bdf806ad12f",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-01T18:20:51Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dck-a6fc795fc90a9d58",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "SoftBank’s $85B France Bet Puts Power at Center of AI Race",
-      "source_domain": "datacenterknowledge.com",
-      "source_name": "datacenterknowledge",
-      "url": "https://datacenterknowledge.com/data-center-construction/softbank-s-75-billion-france-bet-puts-power-at-center-of-ai-race",
-      "date": "2026-06-01",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-01 18:20:51",
-      "url_hash": "a6fc795fc90a9d58",
-      "content_hash": "09fa0b82a3990029",
-      "source": "rss-dck",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dck"
-      ],
-      "snippet": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
-      "last_seen": "2026-06-23T08:56:36Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterknowledge.com/data-center-construction/softbank-s-75-billion-france-bet-puts-power-at-center-of-ai-race",
-        "rss_author": "Shane Snider",
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-4c64959f1a836ef0",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Environmental activist Erin Brockovich launches US data center tracking website",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/environmental-activist-erin-brockovich-launches-us-data-center-tracking-website",
-      "date": "2026-06-01",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-01 18:20:51",
-      "url_hash": "4c64959f1a836ef0",
-      "content_hash": "08334dc06c3ffbe8",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Activist behind PG&amp;E Hinkley lawsuit turns her ire towards data centers",
-      "last_seen": "2026-06-02T10:59:34Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/environmental-activist-erin-brockovich-launches-us-data-center-tracking-website/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-ab93ee53a6b681c1",
-      "state": "KY",
-      "city": null,
-      "category": "protested",
-      "headline": "2,000-acre land parcel rezoned for data center use in Mason County, Kentucky",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/2000-acre-land-parcel-rezoned-for-data-center-use-in-mason-county-kentucky",
-      "date": "2026-06-01",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-01 18:20:51",
-      "url_hash": "ab93ee53a6b681c1",
-      "content_hash": "a8e5dcd4635251dc",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "But opposition continues to mount",
-      "last_seen": "2026-06-02T10:59:34Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/2000-acre-land-parcel-rezoned-for-data-center-use-in-mason-county-kentucky/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-47da99ea27d1ccd8",
-      "state": "US",
-      "city": null,
-      "category": "cancelled",
-      "headline": "LA data center firm Multacom sued by site owner, claims unpaid rent and other charges",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/la-data-center-firm-multacom-sued-by-site-owner-claims-unpaid-rent-and-other-charges",
-      "date": "2026-06-01",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-01 12:20:56",
-      "url_hash": "47da99ea27d1ccd8",
-      "content_hash": "333decf92e239e76",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Site owner Carolwood claims Multacom owes $401,128.25",
-      "last_seen": "2026-06-01T12:20:56Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/la-data-center-firm-multacom-sued-by-site-owner-claims-unpaid-rent-and-other-charges/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
     }
   ],
   "by_state": {
     "KY": {
       "state": "KY",
-      "count": 6,
+      "count": 5,
       "total_engagement": 0,
       "categories": {
-        "protested": 4,
+        "protested": 3,
         "banned": 2
       },
       "platforms": {
-        "news": 6
+        "news": 5
       },
       "latest_date": "2026-08-25"
     },
@@ -42499,13 +42223,13 @@
     },
     "TN": {
       "state": "TN",
-      "count": 2,
+      "count": 1,
       "total_engagement": 0,
       "categories": {
-        "banned": 2
+        "banned": 1
       },
       "platforms": {
-        "news": 2
+        "news": 1
       },
       "latest_date": "2026-06-15"
     },
