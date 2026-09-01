@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:56:15Z",
-  "count": 2026,
+  "generated_at": "2026-09-01T19:41:19Z",
+  "count": 2027,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "court:rss-court-dc-06900e2680d7d57a-us",
+      "origin": "court",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "CourtListener.com Custom Search Feed",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-09-01",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "State ex rel. Blankenship v. Trenton City Council. {¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
+      "sources": [
+        "https://courtlistener.com/opinion/10963744/state-ex-rel-blankenship-v-trenton-city-council"
+      ],
+      "data_source": "court",
+      "last_updated": "2026-09-01T19:41:18Z",
+      "first_seen": "2026-09-01T19:41:18Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-dcd-985b3f60787a93f7-us",
       "origin": "news",
@@ -93647,21 +93692,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1198,
+      "count": 1199,
       "outcome_counts": {
-        "pending": 660,
+        "pending": 661,
         "win": 504,
         "loss": 34,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1162,
+        "restrictive": 1163,
         "protective": 2,
         "supportive": 34,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1177,
+        "local": 1178,
         "statewide": 12,
         "federal": 9
       },
