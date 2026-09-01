@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T12:45:28Z",
-  "count": 2025,
+  "generated_at": "2026-09-01T16:56:15Z",
+  "count": 2026,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-985b3f60787a93f7-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-01",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway. Plan to colocate compute at the world's first floating wind installation",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-01T16:56:14Z",
+      "first_seen": "2026-09-01T16:56:15Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-rto-insider-950c18502ad5e1dd-nd",
       "origin": "news",
@@ -93602,21 +93647,21 @@
     },
     "US": {
       "state": "US",
-      "count": 1197,
+      "count": 1198,
       "outcome_counts": {
-        "pending": 659,
+        "pending": 660,
         "win": 504,
         "loss": 34,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1161,
+        "restrictive": 1162,
         "protective": 2,
         "supportive": 34,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1176,
+        "local": 1177,
         "statewide": 12,
         "federal": 9
       },
@@ -93625,7 +93670,7 @@
         "zoning": 90,
         "grid_energy": 23
       },
-      "latest_date": "2026-08-28",
+      "latest_date": "2026-09-01",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
