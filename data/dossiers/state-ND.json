@@ -1,10 +1,10 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "ND",
-  "generated_at": "2026-09-03T20:58:13Z",
+  "generated_at": "2026-09-03T22:55:32Z",
   "risk_score": {
-    "score": 65.7,
-    "tier": 34.4,
+    "score": 66.6,
+    "tier": 35.3,
     "engagement": 6.2,
     "recency": 20.0,
     "multi_source": 0.0,
@@ -12,13 +12,13 @@
   },
   "grade": {
     "letter": "F",
-    "score": 34.3,
+    "score": 33.4,
     "label": "Active moratoriums, high opposition success"
   },
   "quantified": {
     "moratoriums": 1,
     "approvals": 1,
-    "denials": 4,
+    "denials": 5,
     "lawsuits": 0,
     "blocked": 0,
     "active_companies": 1,
@@ -26,17 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 5,
+  "count": 6,
   "tier_counts": {
     "null": 1,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
     "loss": 1,
-    "win": 4
+    "win": 5
   },
   "scope_counts": {
-    "local": 5
+    "local": 5,
+    "statewide": 1
   },
   "issue_top": {
     "water": 1,
@@ -53,8 +54,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-09-02",
-  "latest": "2026-09-01",
+  "latest": "2026-09-03",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-9dc7a944297e0b4d-nd",
+      "date": "2026-09-03",
+      "jurisdiction": "RTO Insider",
+      "title": "North Dakota Lawmakers Reject Ban on Data Center NDAs. North Dakota lawmakers rejected a statewide ban on nondisclosure agreements between p",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://rtoinsider.com/142346-north-dakota-lawmakers-reject-ban-on-data-center-ndas"
+    },
     {
       "id": "news:rss-rto-insider-950c18502ad5e1dd-nd",
       "date": "2026-09-01",
