@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-09-02T23:24:28Z",
+  "generated_at": "2026-09-03T01:14:14Z",
   "states": [
     {
       "state": "AK",
@@ -439,9 +439,9 @@
     {
       "state": "NM",
       "count": 9,
-      "risk_score": 52.8,
+      "risk_score": 51.7,
       "grade": "D",
-      "grade_score": 47.2,
+      "grade_score": 48.3,
       "moratoriums": 3,
       "approvals": 1,
       "denials": 5,
@@ -621,9 +621,9 @@
     {
       "state": "VA",
       "count": 58,
-      "risk_score": 53.1,
+      "risk_score": 52.6,
       "grade": "D",
-      "grade_score": 46.9,
+      "grade_score": 47.4,
       "moratoriums": 7,
       "approvals": 4,
       "denials": 22,

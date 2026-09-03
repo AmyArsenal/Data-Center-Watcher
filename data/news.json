@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T23:24:28Z",
+  "generated_at": "2026-09-03T01:14:14Z",
   "window_days": 90,
-  "count": 1023,
+  "count": 1021,
   "items": [
     {
       "id": "rss-dcd-9168e3d9703dcef0",
@@ -69,7 +69,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-02T23:24:27Z",
+      "last_seen": "2026-09-03T01:14:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1020,7 +1020,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-02T23:24:27Z",
+      "last_seen": "2026-09-03T01:14:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -8949,7 +8949,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-09-02T23:24:27Z",
+      "last_seen": "2026-09-03T01:14:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -11300,7 +11300,7 @@
         "rss-dck"
       ],
       "snippet": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "last_seen": "2026-09-02T23:24:27Z",
+      "last_seen": "2026-09-03T01:14:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -39001,7 +39001,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-09-02T23:24:27Z",
+      "last_seen": "2026-09-03T01:14:13Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -40723,84 +40723,6 @@
         "rss_author": null,
         "rss_needs_dc_filter": false
       }
-    },
-    {
-      "id": "rss-dcd-b84714ee88b46b54",
-      "state": "NM",
-      "city": null,
-      "category": "announced",
-      "headline": "Plans for 10,000 acre data center scrapped in Socorro, New Mexico",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/plans-for-10000-acre-data-center-scrapped-in-socorro-new-mexico",
-      "date": "2026-06-04",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-04 14:25:58",
-      "url_hash": "b84714ee88b46b54",
-      "content_hash": "7b42abf9d2a42dea",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Insufficient continguous acreage, says President of New Mexico Institute of Mining and Technology",
-      "last_seen": "2026-06-05T10:39:03Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/plans-for-10000-acre-data-center-scrapped-in-socorro-new-mexico/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-f51654f1a1e5cc5f",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Asprofin Bank unveils $12bn proposal for data centers in UAE",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/asprofin-bank-unveils-12bn-proposal-for-data-centers-in-uae",
-      "date": "2026-06-04",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-04 05:02:14",
-      "url_hash": "f51654f1a1e5cc5f",
-      "content_hash": "2367bc5811a71da3",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "The plan features a cost efficiency model reducing capex to $4m-$8m per MW",
-      "last_seen": "2026-06-04T14:25:58Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/asprofin-bank-unveils-12bn-proposal-for-data-centers-in-uae/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
     }
   ],
   "by_state": {
@@ -41173,16 +41095,15 @@
     },
     "NM": {
       "state": "NM",
-      "count": 7,
+      "count": 6,
       "total_engagement": 0,
       "categories": {
         "protested": 1,
         "banned": 3,
-        "cancelled": 2,
-        "announced": 1
+        "cancelled": 2
       },
       "platforms": {
-        "news": 7
+        "news": 6
       },
       "latest_date": "2026-08-13"
     },
