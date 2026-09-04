@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T13:29:08Z",
-  "count": 2035,
+  "generated_at": "2026-09-04T16:56:20Z",
+  "count": 2036,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -60,6 +60,53 @@
       "data_source": "news",
       "last_updated": "2026-09-04T13:29:06Z",
       "first_seen": "2026-09-04T13:29:07Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-cec6902b5c8085ad-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Utilities eye small modular nuclear reactors for reliability as hyperscalers drive demand. Deep-pocketed tech companies and mission‑critical defense customers are emerging as the earliest adopters of advanced reactors, but utilities see potential if siting and cost recovery issues can be resolved",
+      "sources": [
+        "https://utilitydive.com/news/utilities-eye-small-modular-nuclear-reactors-for-reliability-as-hyperscaler/829681"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-04T16:56:19Z",
+      "first_seen": "2026-09-04T16:56:20Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -94034,28 +94081,28 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1206,
+      "count": 1207,
       "outcome_counts": {
-        "pending": 666,
+        "pending": 667,
         "win": 506,
         "loss": 34,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1170,
+        "restrictive": 1171,
         "protective": 2,
         "supportive": 34,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1184,
+        "local": 1185,
         "statewide": 13,
         "federal": 9
       },
       "issue_top": {
         "community_impact": 229,
         "zoning": 91,
-        "grid_energy": 24
+        "grid_energy": 25
       },
       "latest_date": "2026-09-04",
       "map_color_tier": "restrictive",
