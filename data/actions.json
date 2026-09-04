@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T09:08:49Z",
-  "count": 2034,
+  "generated_at": "2026-09-04T13:29:08Z",
+  "count": 2035,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-e6c6a3c23d2133a1-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-04",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Evolution DC signs pre-lease for first phase of Bangkok data center to unnamed hyperscaler. Company's first Thai facility due online later this year",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/evolution-dc-signs-pre-lease-for-first-phase-of-bangkok-data-center-to-unnamed-hyperscaler"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-04T13:29:06Z",
+      "first_seen": "2026-09-04T13:29:07Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-097c21fe4f55a912-us",
       "origin": "news",
@@ -93989,21 +94034,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1205,
+      "count": 1206,
       "outcome_counts": {
-        "pending": 665,
+        "pending": 666,
         "win": 506,
         "loss": 34,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1169,
+        "restrictive": 1170,
         "protective": 2,
         "supportive": 34,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1183,
+        "local": 1184,
         "statewide": 13,
         "federal": 9
       },
@@ -94012,7 +94057,7 @@
         "zoning": 91,
         "grid_energy": 24
       },
-      "latest_date": "2026-09-03",
+      "latest_date": "2026-09-04",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
