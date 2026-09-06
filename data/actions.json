@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T17:42:18Z",
-  "count": 2042,
+  "generated_at": "2026-09-06T19:29:57Z",
+  "count": 2044,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,96 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-68d6967f91b421d1-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "easternecho.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-09-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ypsilanti City Council continues data center moratorium discussion",
+      "sources": [
+        "https://easternecho.com/article/2026/09/ypsilanti-city-council-continues-data-center-moratorium-discussion"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-06T19:29:56Z",
+      "first_seen": "2026-09-06T19:29:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-6e472340fa7cb205-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "timesfreepress.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-09-06",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Walker County committee weighs potential data center rules amid new facility moratorium",
+      "sources": [
+        "https://timesfreepress.com/news/2026/sep/06/walker-county-committee-weighs-potential-data"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-06T19:29:56Z",
+      "first_seen": "2026-09-06T19:29:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-11d3dbdae2d4531f-us",
       "origin": "news",
@@ -94356,21 +94446,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1213,
+      "count": 1215,
       "outcome_counts": {
         "pending": 671,
-        "win": 508,
+        "win": 510,
         "loss": 34,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1177,
+        "restrictive": 1179,
         "protective": 2,
         "supportive": 34,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1191,
+        "local": 1193,
         "statewide": 13,
         "federal": 9
       },
@@ -94379,7 +94469,7 @@
         "zoning": 91,
         "grid_energy": 25
       },
-      "latest_date": "2026-09-04",
+      "latest_date": "2026-09-06",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
