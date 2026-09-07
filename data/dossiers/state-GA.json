@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-09-06T23:07:51Z",
+  "generated_at": "2026-09-07T00:58:17Z",
   "risk_score": {
-    "score": 48.4,
-    "tier": 23.1,
+    "score": 50.2,
+    "tier": 23.8,
     "engagement": 8.2,
-    "recency": 8.8,
-    "multi_source": 3.2,
+    "recency": 10.2,
+    "multi_source": 3.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 51.6,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 49.8,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 4,
+    "moratoriums": 5,
     "approvals": 2,
-    "denials": 3,
+    "denials": 4,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 22,
+  "count": 23,
   "tier_counts": {
-    "restrictive": 10,
+    "restrictive": 11,
     "unclear": 4,
     "supportive": 3,
     "null": 5
   },
   "outcome_counts": {
     "pending": 16,
-    "win": 3,
+    "win": 4,
     "loss": 2,
     "mixed": 1
   },
   "scope_counts": {
-    "local": 12,
+    "local": 13,
     "statewide": 9,
     "federal": 1
   },
@@ -62,8 +62,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-02-20",
-  "latest": "2026-08-25",
+  "latest": "2026-09-06",
   "top_citations": [
+    {
+      "id": "news:gdelt-8709a647498697c3-ga",
+      "date": "2026-09-06",
+      "jurisdiction": "timesfreepress.com",
+      "title": "Warnock calls for Georgia data center moratorium | Chattanooga Times Free Press",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://timesfreepress.com/news/2026/sep/06/warnock-calls-for-georgia-data-center-moratorium"
+    },
     {
       "id": "news:gdelt-c3948b01f7aab6ca-ga",
       "date": "2026-08-25",
@@ -144,15 +153,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/microsoft-confirms-plans-for-data-center-in-tyrone-georgia"
-    },
-    {
-      "id": "news:columbus-ga-2026-04-16-ga",
-      "date": "2026-04-16",
-      "jurisdiction": "Columbus",
-      "title": "Columbus City Council delays data center vote 45 days after resident concerns",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://www.wtvm.com/2026/04/16/columbus-city-council-delays-vote-data-center-project-after-resident-concerns/"
     }
   ]
 }

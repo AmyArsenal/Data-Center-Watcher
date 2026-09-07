@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-09-06T23:07:51Z",
+  "generated_at": "2026-09-07T00:58:17Z",
   "window_days": 90,
-  "count": 1008,
+  "count": 999,
   "items": [
+    {
+      "id": "gdelt-8709a647498697c3",
+      "state": "GA",
+      "city": null,
+      "category": "banned",
+      "headline": "Warnock calls for Georgia data center moratorium | Chattanooga Times Free Press",
+      "source_domain": "timesfreepress.com",
+      "source_name": "timesfreepress.com",
+      "url": "https://timesfreepress.com/news/2026/sep/06/warnock-calls-for-georgia-data-center-moratorium",
+      "date": "2026-09-06",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-07 00:58:16",
+      "url_hash": "8709a647498697c3",
+      "content_hash": "76651750bc4bf81b",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-07T00:58:16Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-68d6967f91b421d1",
       "state": "US",
@@ -350,7 +390,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Deep-pocketed tech companies and mission‑critical defense customers are emerging as the earliest adopters of advanced reactors, but utilities see potential if siting and cost recovery issues can be resolved.",
-      "last_seen": "2026-09-06T23:07:50Z",
+      "last_seen": "2026-09-07T00:58:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -548,7 +588,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The data center backlash may have escalated, but studies continue to vindicate data centers from the major complaint of increasing electric bills; other factors are the culprits. There is a disconnect between panic and reality, writes Kristen Walker. The post Data Centers Can Strengthen the Grid and Lower Bills appeared first on RTO Insider .",
-      "last_seen": "2026-09-06T23:07:50Z",
+      "last_seen": "2026-09-07T00:58:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -587,7 +627,7 @@
         "rss-rto-insider"
       ],
       "snippet": "North Dakota lawmakers rejected a statewide ban on nondisclosure agreements between public officials and data center developers after opposition from the governor and business groups. The post North Dakota Lawmakers Reject Ban on Data Center NDAs appeared first on RTO Insider .",
-      "last_seen": "2026-09-06T23:07:50Z",
+      "last_seen": "2026-09-07T00:58:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.78,
@@ -704,7 +744,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-06T23:07:50Z",
+      "last_seen": "2026-09-07T00:58:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1655,7 +1695,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-06T23:07:50Z",
+      "last_seen": "2026-09-07T00:58:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9584,7 +9624,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-09-06T23:07:50Z",
+      "last_seen": "2026-09-07T00:58:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39636,7 +39676,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-09-06T23:07:50Z",
+      "last_seen": "2026-09-07T00:58:16Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39807,404 +39847,22 @@
         "gdelt_sourcecountry": "United States",
         "gdelt_tone": null
       }
-    },
-    {
-      "id": "rss-rto-insider-91faf830eb693ad8",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "PJM Operating Committee Briefs: June 4, 2026",
-      "source_domain": "rtoinsider.com",
-      "source_name": "RTO Insider",
-      "url": "https://rtoinsider.com/133819-pjm-oc-060426",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 22:53:02",
-      "url_hash": "91faf830eb693ad8",
-      "content_hash": "4550e6fdcc44cd14",
-      "source": "rss-rto-insider",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-rto-insider"
-      ],
-      "snippet": "PJM is seeking to tighten the requirements for resources offering reactive power to get ahead of low-voltage issues that may arise as data center load proliferates. The post PJM Operating Committee Briefs: June 4, 2026 appeared first on RTO Insider .",
-      "last_seen": "2026-06-09T22:55:53Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "//www.rtoinsider.com/?p=133819",
-        "rss_author": "Devin Leith-Yessian",
-        "rss_needs_dc_filter": true
-      }
-    },
-    {
-      "id": "gdelt-9b0babd95f85fabe",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Builders must be part of the response to data center opposition",
-      "source_domain": "constructiondive.com",
-      "source_name": "constructiondive.com",
-      "url": "https://constructiondive.com/news/builders-must-respond-data-center-opposition/821893",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 21:19:46",
-      "url_hash": "9b0babd95f85fabe",
-      "content_hash": "625456ca063cb0cb",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-08T21:19:46Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-35e2d6d500bf36e3",
-      "state": "NY",
-      "city": null,
-      "category": "banned",
-      "headline": "New York Votes For Nation - First Pause On AI Data Centers",
-      "source_domain": "bigfrog104.com",
-      "source_name": "bigfrog104.com",
-      "url": "https://bigfrog104.com/ixp/854/p/ai-data-center-pause-new-york",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 21:19:46",
-      "url_hash": "35e2d6d500bf36e3",
-      "content_hash": "f1652aef4625e1bc",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-08T21:19:46Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-d06bc2c8f5393e8d",
-      "state": "NY",
-      "city": null,
-      "category": "banned",
-      "headline": "New York State Legislature passes bill to put a one - year moratorium on data centers",
-      "source_domain": "wcax.com",
-      "source_name": "wcax.com",
-      "url": "https://wcax.com/2026/06/05/new-york-state-legislature-passes-bill-put-one-year-moratorium-data-centers",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 21:19:46",
-      "url_hash": "d06bc2c8f5393e8d",
-      "content_hash": "932ba24f1afc38d6",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-08T21:19:46Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-471992c22b2d95c2",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "DeKalb County to consider extending data center moratorium",
-      "source_domain": "decaturish.com",
-      "source_name": "decaturish.com",
-      "url": "https://decaturish.com/news/dekalb/dekalb-county-to-consider-extending-data-center-moratorium/article_6af20c81-389a-43ec-8e57-0abe552f6c7c.html",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 21:19:46",
-      "url_hash": "471992c22b2d95c2",
-      "content_hash": "006941ba26b661d7",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-08T21:19:46Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-18ce0ba373665603",
-      "state": "KY",
-      "city": null,
-      "category": "banned",
-      "headline": "Some Kentucky counties and cities are hitting pause on data centers",
-      "source_domain": "the-messenger.com",
-      "source_name": "the-messenger.com",
-      "url": "https://the-messenger.com/news/article_ed7b9f82-e791-5866-965b-ad91c008270a.html",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 21:19:46",
-      "url_hash": "18ce0ba373665603",
-      "content_hash": "60740931746de92b",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-08T21:19:46Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dcd-7e5aef74381f7287",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Activist investor urges Segro to spin off data center business - report",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/activist-investor-urges-segro-to-spin-off-data-center-business-report",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 17:00:44",
-      "url_hash": "7e5aef74381f7287",
-      "content_hash": "d9b88afa582a6191",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Lauro Asset Management says Segro's business is undervalued",
-      "last_seen": "2026-06-09T09:24:58Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/activist-investor-urges-segro-to-spin-off-data-center-business-report/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-f3c4ff8aa1facd10",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Officials in Hamilton, Canada, deny proposal for data center",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/officials-in-hamilton-canada-deny-proposal-for-data-center",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 17:00:44",
-      "url_hash": "f3c4ff8aa1facd10",
-      "content_hash": "f9e1dd39d3aa9b51",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Eight-hour meeting saw strong opposition from local residents",
-      "last_seen": "2026-06-09T12:19:35Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/officials-in-hamilton-canada-deny-proposal-for-data-center/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-57c02ca8d81ce25b",
-      "state": "NY",
-      "city": null,
-      "category": "banned",
-      "headline": "New York state legislature passes data center moratorium, awaits governor Hochul's approval",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/new-york-state-legislature-passes-data-center-moratorium-awaits-governor-hochuls-approval",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 13:56:13",
-      "url_hash": "57c02ca8d81ce25b",
-      "content_hash": "93bda351e55d8416",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Would make New York the first in the US to impose state-wide moratorium",
-      "last_seen": "2026-06-09T09:24:58Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/new-york-state-legislature-passes-data-center-moratorium-awaits-governor-hochuls-approval/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-983029deb2fd6970",
-      "state": "UT",
-      "city": null,
-      "category": "protested",
-      "headline": "Utah Governor orders “higher bar” for data center development amid O’Leary data center debacle",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/utah-governor-orders-higher-bar-for-data-center-development-amid-oleary-data-center-debacle",
-      "date": "2026-06-08",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-08 09:53:34",
-      "url_hash": "983029deb2fd6970",
-      "content_hash": "5add7f46cceb454c",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "State agencies were directed to protect utility ratepayers and residents' quality of life",
-      "last_seen": "2026-06-08T13:56:13Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/utah-governor-orders-higher-bar-for-data-center-development-amid-oleary-data-center-debacle/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
     }
   ],
   "by_state": {
+    "GA": {
+      "state": "GA",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 2,
+        "protested": 5
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-09-06"
+    },
     "ND": {
       "state": "ND",
       "count": 5,
@@ -40219,27 +39877,14 @@
     },
     "KY": {
       "state": "KY",
-      "count": 5,
+      "count": 4,
       "total_engagement": 0,
       "categories": {
         "protested": 3,
-        "banned": 2
+        "banned": 1
       },
       "platforms": {
-        "news": 5
-      },
-      "latest_date": "2026-08-25"
-    },
-    "GA": {
-      "state": "GA",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1,
-        "protested": 5
-      },
-      "platforms": {
-        "news": 6
+        "news": 4
       },
       "latest_date": "2026-08-25"
     },
@@ -40356,14 +40001,14 @@
     },
     "UT": {
       "state": "UT",
-      "count": 4,
+      "count": 3,
       "total_engagement": 0,
       "categories": {
-        "protested": 3,
+        "protested": 2,
         "cancelled": 1
       },
       "platforms": {
-        "news": 4
+        "news": 3
       },
       "latest_date": "2026-08-21"
     },
@@ -40546,15 +40191,15 @@
     },
     "NY": {
       "state": "NY",
-      "count": 33,
+      "count": 30,
       "total_engagement": 0,
       "categories": {
-        "banned": 26,
+        "banned": 23,
         "protested": 6,
         "cancelled": 1
       },
       "platforms": {
-        "news": 33
+        "news": 30
       },
       "latest_date": "2026-08-14"
     },
