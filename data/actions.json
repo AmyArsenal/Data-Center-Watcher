@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T05:35:18Z",
-  "count": 2045,
+  "generated_at": "2026-09-07T10:42:56Z",
+  "count": 2047,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,98 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-068b37a9a46c573e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-07",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data center development halted in Masovian Voivodeship, Poland. City councillors voted unanimously against permitting the facility for Nowa Wieś to proceed",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/data-center-development-halted-in-masovian-voivodeship-poland"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-07T10:42:55Z",
+      "first_seen": "2026-09-07T10:42:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-801900b4bfe1f1f3-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-07",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Thailand pauses construction on 49 data centers, as it plans new regulations. Due to growing concerns over power consumption and local community impacts",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/thailand-pauses-construction-on-49-data-centers-as-it-plans-new-regulations"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-07T10:42:55Z",
+      "first_seen": "2026-09-07T10:42:56Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:gdelt-68d6967f91b421d1-us",
       "origin": "news",
@@ -94491,30 +94583,30 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1215,
+      "count": 1217,
       "outcome_counts": {
         "pending": 671,
-        "win": 510,
+        "win": 512,
         "loss": 34,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1179,
+        "restrictive": 1181,
         "protective": 2,
         "supportive": 34,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1193,
+        "local": 1195,
         "statewide": 13,
         "federal": 9
       },
       "issue_top": {
-        "community_impact": 231,
+        "community_impact": 232,
         "zoning": 91,
         "grid_energy": 25
       },
-      "latest_date": "2026-09-06",
+      "latest_date": "2026-09-07",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
