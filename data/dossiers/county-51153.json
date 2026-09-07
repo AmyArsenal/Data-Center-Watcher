@@ -3,26 +3,27 @@
   "state": "VA",
   "county_fips": "51153",
   "county_name": "Prince William County",
-  "generated_at": "2026-09-07T16:03:11Z",
+  "generated_at": "2026-09-07T19:54:58Z",
   "risk_score": {
-    "score": 30.2,
-    "tier": 20.0,
+    "score": 48.9,
+    "tier": 26.7,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 16.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
-    "restrictive": 1,
+    "restrictive": 2,
     "supportive": 1
   },
   "outcome_counts": {
     "win": 1,
-    "loss": 1
+    "loss": 1,
+    "pending": 1
   },
   "scope_counts": {
-    "local": 2
+    "local": 3
   },
   "issue_top": {
     "zoning": 1
@@ -30,8 +31,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-04-01",
-  "latest": "2026-05-13",
+  "latest": "2026-09-07",
   "top_citations": [
+    {
+      "id": "news:gdelt-c723f5fe8519e86e-va",
+      "date": "2026-09-07",
+      "jurisdiction": "potomaclocal.com",
+      "title": "News Links : Amtrak Halts Most Virginia - to - D . C . Trains ; Manassas Closes Lot for Data Center Work",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://potomaclocal.com/2026/09/07/news-links-amtrak-halts-most-virginia-to-d-c-trains-manassas-closes-lot-for-data-center-work"
+    },
     {
       "id": "news:rss-dcd-ec20f81ca2807d6a-va",
       "date": "2026-05-13",

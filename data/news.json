@@ -1,8 +1,167 @@
 {
-  "generated_at": "2026-09-07T16:03:11Z",
+  "generated_at": "2026-09-07T19:54:58Z",
   "window_days": 90,
-  "count": 1002,
+  "count": 1006,
   "items": [
+    {
+      "id": "gdelt-c723f5fe8519e86e",
+      "state": "VA",
+      "city": null,
+      "category": "protested",
+      "headline": "News Links : Amtrak Halts Most Virginia - to - D . C . Trains ; Manassas Closes Lot for Data Center Work",
+      "source_domain": "potomaclocal.com",
+      "source_name": "potomaclocal.com",
+      "url": "https://potomaclocal.com/2026/09/07/news-links-amtrak-halts-most-virginia-to-d-c-trains-manassas-closes-lot-for-data-center-work",
+      "date": "2026-09-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-07 19:54:57",
+      "url_hash": "c723f5fe8519e86e",
+      "content_hash": "f91cb976e76561d0",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-07T19:54:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-a749743f2a033234",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Community meeting scheduled in Jesup to discuss potential data center impacts",
+      "source_domain": "wtoc.com",
+      "source_name": "wtoc.com",
+      "url": "https://wtoc.com/2026/09/07/community-meeting-scheduled-jesup-discuss-potential-data-center-impacts",
+      "date": "2026-09-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-07 19:54:57",
+      "url_hash": "a749743f2a033234",
+      "content_hash": "33a4d816b8234708",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-07T19:54:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-0913e386dfa44528",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Jolly said majority of Floridians oppose new data centers . Polls back that up .",
+      "source_domain": "yahoo.com",
+      "source_name": "yahoo.com",
+      "url": "https://yahoo.com/news/politics/articles/jolly-said-majority-floridians-oppose-180000798.html",
+      "date": "2026-09-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-07 19:54:57",
+      "url_hash": "0913e386dfa44528",
+      "content_hash": "325cd2c3625a5131",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-07T19:54:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-rto-insider-c5d9e1e9bf655cb1",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "AUC Rejects 1.4-GW Gas Plant for Alberta Data Center",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/142478-auc-rejects-gas-plant-for-alberta-data-center",
+      "date": "2026-09-07",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-07 19:54:57",
+      "url_hash": "c5d9e1e9bf655cb1",
+      "content_hash": "780ab576047aee27",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "The Alberta Utilities Commission rejected a proposed 1,400-MW combined-cycle natural gas-fired plant, which would have powered a co-located data center in Olds, a town north of Calgary. The post AUC Rejects 1.4-GW Gas Plant for Alberta Data Center appeared first on RTO Insider .",
+      "last_seen": "2026-09-07T19:54:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=142478",
+        "rss_author": "Michael Cade",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-172b2222bff89056",
       "state": "US",
@@ -30,7 +189,7 @@
         "rss-dcd"
       ],
       "snippet": "Turning digital heat into community warmth",
-      "last_seen": "2026-09-07T16:03:10Z",
+      "last_seen": "2026-09-07T19:54:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -108,7 +267,7 @@
         "rss-dcd"
       ],
       "snippet": "Due to growing concerns over power consumption and local community impacts",
-      "last_seen": "2026-09-07T16:03:10Z",
+      "last_seen": "2026-09-07T19:54:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -507,7 +666,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Deep-pocketed tech companies and mission‑critical defense customers are emerging as the earliest adopters of advanced reactors, but utilities see potential if siting and cost recovery issues can be resolved.",
-      "last_seen": "2026-09-07T16:03:10Z",
+      "last_seen": "2026-09-07T19:54:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -861,7 +1020,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-07T16:03:10Z",
+      "last_seen": "2026-09-07T19:54:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1812,7 +1971,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-07T16:03:10Z",
+      "last_seen": "2026-09-07T19:54:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9741,7 +9900,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-09-07T16:03:10Z",
+      "last_seen": "2026-09-07T19:54:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39793,7 +39952,7 @@
         "rss-court-dc"
       ],
       "snippet": "at approximately 9:21am the GPS Surveillance Data Center notified CSO [(community supervision officer)] Original document",
-      "last_seen": "2026-09-07T16:03:10Z",
+      "last_seen": "2026-09-07T19:54:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39967,6 +40126,20 @@
     }
   ],
   "by_state": {
+    "VA": {
+      "state": "VA",
+      "count": 19,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 11,
+        "banned": 6,
+        "announced": 2
+      },
+      "platforms": {
+        "news": 19
+      },
+      "latest_date": "2026-09-07"
+    },
     "GA": {
       "state": "GA",
       "count": 7,
@@ -40140,20 +40313,6 @@
       },
       "platforms": {
         "news": 3
-      },
-      "latest_date": "2026-08-20"
-    },
-    "VA": {
-      "state": "VA",
-      "count": 18,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 10,
-        "banned": 6,
-        "announced": 2
-      },
-      "platforms": {
-        "news": 18
       },
       "latest_date": "2026-08-20"
     },

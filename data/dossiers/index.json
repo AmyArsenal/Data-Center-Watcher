@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-09-07T16:03:11Z",
+  "generated_at": "2026-09-07T19:54:58Z",
   "states": [
     {
       "state": "AK",
@@ -620,16 +620,16 @@
     },
     {
       "state": "VA",
-      "count": 58,
-      "risk_score": 52.1,
+      "count": 59,
+      "risk_score": 52.8,
       "grade": "D",
-      "grade_score": 47.9,
+      "grade_score": 47.2,
       "moratoriums": 7,
       "approvals": 4,
       "denials": 22,
       "lawsuits": 3,
       "active_companies": 3,
-      "latest": "2026-08-20",
+      "latest": "2026-09-07",
       "url": "data/dossiers/state-VA.json"
     },
     {
@@ -825,9 +825,9 @@
       "county_fips": "51153",
       "county_name": "Prince William County",
       "state": "VA",
-      "count": 2,
-      "risk_score": 30.2,
-      "latest": "2026-05-13",
+      "count": 3,
+      "risk_score": 48.9,
+      "latest": "2026-09-07",
       "url": "data/dossiers/county-51153.json"
     },
     {

@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-09-07T16:03:11Z",
+  "generated_at": "2026-09-07T19:54:58Z",
   "risk_score": {
-    "score": 52.1,
-    "tier": 24.6,
+    "score": 52.8,
+    "tier": 24.8,
     "engagement": 8.8,
-    "recency": 9.6,
+    "recency": 10.1,
     "multi_source": 4.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.9,
+    "score": 47.2,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,9 +26,9 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 58,
+  "count": 59,
   "tier_counts": {
-    "restrictive": 26,
+    "restrictive": 27,
     "unclear": 15,
     "protective": 3,
     "null": 11,
@@ -36,12 +36,12 @@
   },
   "outcome_counts": {
     "win": 22,
-    "pending": 30,
+    "pending": 31,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 33,
+    "local": 34,
     "statewide": 25
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-08-20",
+  "latest": "2026-09-07",
   "top_citations": [
+    {
+      "id": "news:gdelt-c723f5fe8519e86e-va",
+      "date": "2026-09-07",
+      "jurisdiction": "potomaclocal.com",
+      "title": "News Links : Amtrak Halts Most Virginia - to - D . C . Trains ; Manassas Closes Lot for Data Center Work",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://potomaclocal.com/2026/09/07/news-links-amtrak-halts-most-virginia-to-d-c-trains-manassas-closes-lot-for-data-center-work"
+    },
     {
       "id": "news:gdelt-617dbd07fb18c279-va",
       "date": "2026-08-20",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterknowledge.com/data-center-site-selection/virginia-report-finds-groundwater-running-dry-for-new-data-centers"
-    },
-    {
-      "id": "news:rss-dcd-ab4bd45682ad3c30-va",
-      "date": "2026-07-27",
-      "jurisdiction": "Loudoun County",
-      "title": "Loudoun County considering moratorium on new data center applications, rejects 3.25 million sq ft campus. Trouble in data center paradise",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/loudoun-county-considering-moratorium-on-new-data-center-applications-rejects-325-million-sq-ft-campus"
     }
   ]
 }
