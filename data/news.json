@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-09-08T20:15:04Z",
+  "generated_at": "2026-09-08T22:41:26Z",
   "window_days": 90,
-  "count": 1001,
+  "count": 1002,
   "items": [
+    {
+      "id": "rss-rto-insider-342b521ab7d0febb",
+      "state": "OR",
+      "city": null,
+      "category": "banned",
+      "headline": "Oregon Gov. Pauses Data Center Requests on State Land",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/142865-oregon-gov-pauses-data-center-requests-state-land",
+      "date": "2026-09-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-08 22:41:25",
+      "url_hash": "342b521ab7d0febb",
+      "content_hash": "9c6a6e13f6adffbb",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "Oregon Gov. Tina Kotek is pausing the processing of requests to build data centers on state land, in what she said is the state’s latest action to restrict new development until more is understood about the centers’ demand on infrastructure and the environment. The post Oregon Gov. Pauses Data Center Requests on State Land appeared first on RTO Insider .",
+      "last_seen": "2026-09-08T22:41:25Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=142865",
+        "rss_author": "Henrik Nilsson",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "gdelt-c723f5fe8519e86e",
       "state": "VA",
@@ -150,7 +189,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The Alberta Utilities Commission rejected a proposed 1,400-MW combined-cycle natural gas-fired plant, which would have powered a co-located data center in Olds, a town north of Calgary. The post AUC Rejects 1.4-GW Gas Plant for Alberta Data Center appeared first on RTO Insider .",
-      "last_seen": "2026-09-08T20:15:03Z",
+      "last_seen": "2026-09-08T22:41:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -666,7 +705,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Deep-pocketed tech companies and mission‑critical defense customers are emerging as the earliest adopters of advanced reactors, but utilities see potential if siting and cost recovery issues can be resolved.",
-      "last_seen": "2026-09-08T20:15:03Z",
+      "last_seen": "2026-09-08T22:41:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1020,7 +1059,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-08T20:15:03Z",
+      "last_seen": "2026-09-08T22:41:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1971,7 +2010,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-08T20:15:03Z",
+      "last_seen": "2026-09-08T22:41:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9900,7 +9939,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-09-08T20:15:03Z",
+      "last_seen": "2026-09-08T22:41:25Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39927,6 +39966,20 @@
     }
   ],
   "by_state": {
+    "OR": {
+      "state": "OR",
+      "count": 13,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 8,
+        "protested": 4,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 13
+      },
+      "latest_date": "2026-09-08"
+    },
     "VA": {
       "state": "VA",
       "count": 19,
@@ -40237,20 +40290,6 @@
         "news": 4
       },
       "latest_date": "2026-08-18"
-    },
-    "OR": {
-      "state": "OR",
-      "count": 12,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 4,
-        "banned": 7,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 12
-      },
-      "latest_date": "2026-08-17"
     },
     "CO": {
       "state": "CO",

@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-09-08T20:15:04Z",
+  "generated_at": "2026-09-08T22:41:26Z",
   "risk_score": {
-    "score": 60.5,
-    "tier": 31.6,
+    "score": 62.1,
+    "tier": 32.0,
     "engagement": 6.9,
-    "recency": 15.9,
+    "recency": 17.1,
     "multi_source": 1.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 39.5,
+    "score": 37.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 1,
-    "denials": 10,
+    "denials": 11,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 18,
+  "count": 19,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 13,
+    "restrictive": 14,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 10,
+    "win": 11,
     "loss": 1
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 12
+    "local": 13
   },
   "issue_top": {
     "community_impact": 3,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-08-17",
+  "latest": "2026-09-08",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-342b521ab7d0febb-or",
+      "date": "2026-09-08",
+      "jurisdiction": "RTO Insider",
+      "title": "Oregon Gov. Pauses Data Center Requests on State Land. Oregon Gov. Tina Kotek is pausing the processing of requests to build data centers on",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://rtoinsider.com/142865-oregon-gov-pauses-data-center-requests-state-land"
+    },
     {
       "id": "news:gdelt-44d4a70cb077463c-or",
       "date": "2026-08-17",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://kpic.com/news/local/gov-tina-kotek-orders-oregon-to-withdraw-land-sale-for-salem-area-data-center-local-environment-community-business-water-energy-"
-    },
-    {
-      "id": "news:gdelt-6fd4dcd4f12805e3-or",
-      "date": "2026-07-28",
-      "jurisdiction": "portlandmercury.com",
-      "title": "Good Morning , News : Oregon ( and the World ) is on Fire , A Pause on Data Centers in Hillsboro , and Mitch McConnell Still Trying to Comba",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://portlandmercury.com/good-morning-news/good-morning-news-oregon-and-the-world-is-on-fire-a-pause-on-data-centers-in-hillsboro-and-mitch-mcconnell-still-trying-to-combat-dead-allegations"
     }
   ]
 }
