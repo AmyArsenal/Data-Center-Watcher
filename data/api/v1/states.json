@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.states.v1",
-  "generated_at": "2026-09-07T22:19:48Z",
+  "generated_at": "2026-09-08T00:32:09Z",
   "states": [
     {
       "state": "AK",
@@ -481,9 +481,9 @@
     {
       "state": "OH",
       "count": 41,
-      "risk_score": 57.9,
+      "risk_score": 56.6,
       "grade": "D",
-      "grade_score": 42.1,
+      "grade_score": 43.4,
       "moratoriums": 8,
       "approvals": 2,
       "denials": 16,
@@ -509,9 +509,9 @@
     {
       "state": "OR",
       "count": 18,
-      "risk_score": 61.9,
+      "risk_score": 60.5,
       "grade": "D",
-      "grade_score": 38.1,
+      "grade_score": 39.5,
       "moratoriums": 5,
       "approvals": 1,
       "denials": 10,
@@ -593,9 +593,9 @@
     {
       "state": "TX",
       "count": 76,
-      "risk_score": 59.1,
+      "risk_score": 58.6,
       "grade": "D",
-      "grade_score": 40.9,
+      "grade_score": 41.4,
       "moratoriums": 8,
       "approvals": 3,
       "denials": 32,
