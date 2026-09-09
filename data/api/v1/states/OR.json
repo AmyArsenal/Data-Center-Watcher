@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OR",
-  "generated_at": "2026-09-09T09:42:34Z",
+  "generated_at": "2026-09-09T13:54:32Z",
   "risk_score": {
-    "score": 61.6,
-    "tier": 32.0,
+    "score": 63.1,
+    "tier": 32.4,
     "engagement": 6.9,
-    "recency": 16.6,
-    "multi_source": 1.1,
+    "recency": 17.8,
+    "multi_source": 1.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 38.4,
+    "score": 36.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 5,
     "approvals": 1,
-    "denials": 11,
+    "denials": 12,
     "lawsuits": 1,
     "blocked": 1,
     "active_companies": 1,
@@ -26,20 +26,20 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 19,
+  "count": 20,
   "tier_counts": {
     "unclear": 2,
     "null": 2,
-    "restrictive": 14,
+    "restrictive": 15,
     "supportive": 1
   },
   "outcome_counts": {
     "pending": 7,
-    "win": 11,
+    "win": 12,
     "loss": 1
   },
   "scope_counts": {
-    "statewide": 6,
+    "statewide": 7,
     "local": 13
   },
   "issue_top": {
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-01-13",
-  "latest": "2026-09-08",
+  "latest": "2026-09-09",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-ac2a2e307aff25d2-or",
+      "date": "2026-09-09",
+      "jurisdiction": "DCD",
+      "title": "Oregon pauses land sales of state owned property for data center projects through July 1, 2027. Governor directs all transactions on state p",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/oregon-pauses-land-sales-of-state-owned-property-for-data-center-projects-through-july-1-2027"
+    },
     {
       "id": "news:rss-rto-insider-342b521ab7d0febb-or",
       "date": "2026-09-08",
@@ -139,15 +148,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://datacenterdynamics.com/en/news/oregon-governor-blocks-data-center-development-stops-land-sale"
-    },
-    {
-      "id": "news:gdelt-a8c6e0afe22dc1e2-or",
-      "date": "2026-07-30",
-      "jurisdiction": "kpic.com",
-      "title": "Gov . Tina Kotek orders Oregon to withdraw land sale for Salem - area data center",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://kpic.com/news/local/gov-tina-kotek-orders-oregon-to-withdraw-land-sale-for-salem-area-data-center-local-environment-community-business-water-energy-"
     }
   ]
 }
