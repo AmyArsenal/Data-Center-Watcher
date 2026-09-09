@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T22:41:26Z",
+  "generated_at": "2026-09-09T00:14:09Z",
   "tier_timestamps": {
     "fast": "2026-09-08T22:41:26Z",
-    "bills": "2026-09-08T21:57:03Z"
+    "bills": "2026-09-09T00:14:09Z"
   },
   "counts_by_source": {
     "rss-rto-insider": 34,
@@ -31,6 +31,13 @@
       "rss-rto-insider": 2,
       "rss-dck": 2,
       "rss-court-dc": 2
-    }
+    },
+    "bills_last_run_seconds": 277.22,
+    "bills_raw_fetched": 0,
+    "bills_inserted": 0,
+    "bills_updated": 0,
+    "bills_noop": 0,
+    "bills_total_in_json": 193,
+    "bills_states_with_bills": 16
   }
 }
