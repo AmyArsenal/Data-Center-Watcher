@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-09-08T22:41:26Z",
+  "generated_at": "2026-09-09T00:35:00Z",
   "window_days": 90,
-  "count": 1002,
+  "count": 990,
   "items": [
+    {
+      "id": "gdelt-5ec5e653b4e8d507",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Tarrant considers data center pause as city weighs impacts on power , water , neighborhoods",
+      "source_domain": "abc3340.com",
+      "source_name": "abc3340.com",
+      "url": "https://abc3340.com/news/local/tarrant-considers-data-center-pause-as-city-weighs-impacts-on-power-water-neighborhoods",
+      "date": "2026-09-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-09 00:34:59",
+      "url_hash": "5ec5e653b4e8d507",
+      "content_hash": "c0b75631e12bcf80",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-09T00:34:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-3da59075f18c2283",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Eau Claire County Begins Work On Data Center Moratorium",
+      "source_domain": "volumeone.org",
+      "source_name": "volumeone.org",
+      "url": "https://volumeone.org/articles/2026/09/08/401677-eau-claire-county-begins-work-on-data-center-moratorium",
+      "date": "2026-09-08",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-09 00:34:59",
+      "url_hash": "3da59075f18c2283",
+      "content_hash": "c5b77e622baf516a",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-09T00:34:59Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-rto-insider-342b521ab7d0febb",
       "state": "OR",
@@ -30,7 +110,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Oregon Gov. Tina Kotek is pausing the processing of requests to build data centers on state land, in what she said is the state’s latest action to restrict new development until more is understood about the centers’ demand on infrastructure and the environment. The post Oregon Gov. Pauses Data Center Requests on State Land appeared first on RTO Insider .",
-      "last_seen": "2026-09-08T22:41:25Z",
+      "last_seen": "2026-09-09T00:34:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -705,7 +785,7 @@
         "rss-utilitydive"
       ],
       "snippet": "Deep-pocketed tech companies and mission‑critical defense customers are emerging as the earliest adopters of advanced reactors, but utilities see potential if siting and cost recovery issues can be resolved.",
-      "last_seen": "2026-09-08T22:41:25Z",
+      "last_seen": "2026-09-09T00:34:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1059,7 +1139,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-08T22:41:25Z",
+      "last_seen": "2026-09-09T00:34:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2010,7 +2090,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-08T22:41:25Z",
+      "last_seen": "2026-09-09T00:34:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -9939,7 +10019,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-09-08T22:41:25Z",
+      "last_seen": "2026-09-09T00:34:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39402,581 +39482,20 @@
         "rss_author": null,
         "rss_needs_dc_filter": false
       }
-    },
-    {
-      "id": "rss-rto-insider-c6804f1f813c9cc9",
-      "state": "OR",
-      "city": null,
-      "category": "banned",
-      "headline": "Oregon PUC Pauses PGE’s Data Center Rate Hikes",
-      "source_domain": "rtoinsider.com",
-      "source_name": "RTO Insider",
-      "url": "https://rtoinsider.com/134135-oregon-puc-pauses-pge-data-center-rate-hikes",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 23:53:02",
-      "url_hash": "c6804f1f813c9cc9",
-      "content_hash": "dee380b2180eff83",
-      "source": "rss-rto-insider",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-rto-insider"
-      ],
-      "snippet": "The Oregon Public Utility Commission paused implementation of rate hikes on Portland General Electric’s data center customers after finding issues with the utility’s compliance filing. The post Oregon PUC Pauses PGE’s Data Center Rate Hikes appeared first on RTO Insider .",
-      "last_seen": "2026-06-11T23:58:52Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "//www.rtoinsider.com/?p=134135",
-        "rss_author": "Henrik Nilsson",
-        "rss_needs_dc_filter": true
-      }
-    },
-    {
-      "id": "rss-dck-a34734cb7dc115de",
-      "state": "NY",
-      "city": null,
-      "category": "protested",
-      "headline": "New York Confronts the Data Center Boom: Balancing Growth and Grid Reform",
-      "source_domain": "datacenterknowledge.com",
-      "source_name": "datacenterknowledge",
-      "url": "https://datacenterknowledge.com/regulations/new-york-confronts-the-data-center-boom-balancing-growth-and-grid-reform",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 20:06:38",
-      "url_hash": "a34734cb7dc115de",
-      "content_hash": "8eaab837ec5e0ec2",
-      "source": "rss-dck",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dck"
-      ],
-      "snippet": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "last_seen": "2026-07-01T11:47:59Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterknowledge.com/regulations/new-york-confronts-the-data-center-boom-balancing-growth-and-grid-reform",
-        "rss_author": "Graham Coates, Brendan Connors, Nic Martell, Industry Perspectives",
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "gdelt-dc7a761f27a9a91a",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Floyd County implements temporary moratorium on data center projects .",
-      "source_domain": "wrganews.com",
-      "source_name": "wrganews.com",
-      "url": "https://wrganews.com/2026/06/10/the-floyd-county-commission-approved-an-80-day-moratorium-on-data-center-projects",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 17:47:42",
-      "url_hash": "dc7a761f27a9a91a",
-      "content_hash": "57976f5f467fe748",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T17:47:42Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-5c404eb756f6e460",
-      "state": "MS",
-      "city": null,
-      "category": "cancelled",
-      "headline": "Mississippi residents sue xAI and SpaceX over data center noise",
-      "source_domain": "yahoo.com",
-      "source_name": "yahoo.com",
-      "url": "https://yahoo.com/news/us/articles/mississippi-residents-sue-xai-spacex-121414683.html",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [
-        "xAI"
-      ],
-      "first_seen": "2026-06-10 17:47:42",
-      "url_hash": "5c404eb756f6e460",
-      "content_hash": "abb1673dbb5d1b05",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T17:47:42Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-ed4312b1a94f2fdf",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Plymouth Twp . Council Opposes Data Center , Cites Threat To Health And Safety",
-      "source_domain": "patch.com",
-      "source_name": "patch.com",
-      "url": "https://patch.com/pennsylvania/plymouthwhitemarsh/plymouth-twp-council-opposes-data-center-cites-threat-health-safety",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 17:47:42",
-      "url_hash": "ed4312b1a94f2fdf",
-      "content_hash": "d2c792392532b328",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T17:47:42Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dcd-df9ccab7e195f40a",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Trio of Republicans call for FBI investigation into data center opposition",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/trio-of-republicans-call-for-fbi-investigation-into-data-center-opposition",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 14:52:09",
-      "url_hash": "df9ccab7e195f40a",
-      "content_hash": "463d446e9913fe97",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Allege \"foreign influence campaigns\" are responsible for data center opposition",
-      "last_seen": "2026-06-11T07:02:34Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/trio-of-republicans-call-for-fbi-investigation-into-data-center-opposition/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "gdelt-26a133edd28bd5f4",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "This is real : Data center moratorium pushed to July after tense meeting",
-      "source_domain": "arktimes.com",
-      "source_name": "arktimes.com",
-      "url": "https://arktimes.com/arkansas-blog/2026/06/09/this-is-real-data-center-moratorium-pushed-to-july-after-tense-meeting",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "26a133edd28bd5f4",
-      "content_hash": "2fa4b8e0941c61ed",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T11:56:26Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-6e15ae118a87734c",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "El Paso city council votes to keep Meta data center incentive agreement",
-      "source_domain": "kfoxtv.com",
-      "source_name": "kfoxtv.com",
-      "url": "https://kfoxtv.com/news/local/el-paso-city-council-votes-to-keep-meta-data-center-incentive-agreement",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [
-        "Meta"
-      ],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "6e15ae118a87734c",
-      "content_hash": "477e3e601971d3cd",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T11:56:26Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-e5df1f150d06fcc6",
-      "state": "OH",
-      "city": "New Albany",
-      "category": "banned",
-      "headline": "New Albany mayor considers 1 - year pause on data center development",
-      "source_domain": "wdrb.com",
-      "source_name": "wdrb.com",
-      "url": "https://wdrb.com/news/new-albany-mayor-considers-1-year-pause-on-data-center-development/article_19a32a42-27ae-4b94-8e7c-20f04eef85cc.html",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "e5df1f150d06fcc6",
-      "content_hash": "14af5de005ec29b7",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T11:56:26Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-dac94a21a8e532bd",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "City council turns down temporary halt on AI data centers in Clinton",
-      "source_domain": "kcrg.com",
-      "source_name": "kcrg.com",
-      "url": "https://kcrg.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "dac94a21a8e532bd",
-      "content_hash": "ea5d4e284e6d8a36",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T11:56:26Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-69ab820d65758241",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Seattle enacts one - year ban on data centers",
-      "source_domain": "thedigitalcourier.com",
-      "source_name": "thedigitalcourier.com",
-      "url": "https://thedigitalcourier.com/news/national/seattle-enacts-one-year-ban-on-data-centers/article_53a2acc0-a54f-599f-8416-de8b171a843e.html",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "69ab820d65758241",
-      "content_hash": "9de87b5732d45433",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T11:56:26Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-8dd3c55120376401",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Cllinton Council rejects data center moratorium , members acknowledge public fears",
-      "source_domain": "clintonherald.com",
-      "source_name": "clintonherald.com",
-      "url": "https://clintonherald.com/news/local_news/cllinton-council-rejects-data-center-moratorium-members-acknowledge-public-fears/article_ddb35b41-cb2f-435e-843d-5bb758dfbc56.html",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "8dd3c55120376401",
-      "content_hash": "4aca9a5805571ff9",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-10T11:56:26Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dck-73c6a30fa3c9030e",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Data Center Architects Reimagine Facilities as Urban Assets",
-      "source_domain": "datacenterknowledge.com",
-      "source_name": "datacenterknowledge",
-      "url": "https://datacenterknowledge.com/build-design/from-ugly-boxes-to-city-assets-data-center-architecture-reimagined",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "73c6a30fa3c9030e",
-      "content_hash": "ad85195ef55d1c97",
-      "source": "rss-dck",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dck"
-      ],
-      "snippet": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "last_seen": "2026-06-30T16:00:42Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterknowledge.com/build-design/from-ugly-boxes-to-city-assets-data-center-architecture-reimagined",
-        "rss_author": "Nathan Eddy",
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-ae1c7d7442b61b85",
-      "state": "WY",
-      "city": null,
-      "category": "banned",
-      "headline": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\"",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer",
-      "date": "2026-06-10",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [
-        "Crusoe"
-      ],
-      "first_seen": "2026-06-10 11:56:26",
-      "url_hash": "ae1c7d7442b61b85",
-      "content_hash": "e7cf8a99685863f5",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "As company touts 5GW pipeline",
-      "last_seen": "2026-06-10T14:52:09Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
     }
   ],
   "by_state": {
     "OR": {
       "state": "OR",
-      "count": 13,
+      "count": 12,
       "total_engagement": 0,
       "categories": {
-        "banned": 8,
+        "banned": 7,
         "protested": 4,
         "cancelled": 1
       },
       "platforms": {
-        "news": 13
+        "news": 12
       },
       "latest_date": "2026-09-08"
     },
@@ -40075,16 +39594,16 @@
     },
     "OH": {
       "state": "OH",
-      "count": 18,
+      "count": 17,
       "total_engagement": 0,
       "categories": {
         "protested": 10,
-        "banned": 5,
+        "banned": 4,
         "cancelled": 2,
         "announced": 1
       },
       "platforms": {
-        "news": 18
+        "news": 17
       },
       "latest_date": "2026-08-24"
     },
@@ -40306,15 +39825,15 @@
     },
     "NY": {
       "state": "NY",
-      "count": 30,
+      "count": 29,
       "total_engagement": 0,
       "categories": {
         "banned": 23,
-        "protested": 6,
+        "protested": 5,
         "cancelled": 1
       },
       "platforms": {
-        "news": 30
+        "news": 29
       },
       "latest_date": "2026-08-14"
     },
@@ -40415,14 +39934,13 @@
     },
     "WY": {
       "state": "WY",
-      "count": 3,
+      "count": 2,
       "total_engagement": 0,
       "categories": {
-        "protested": 2,
-        "banned": 1
+        "protested": 2
       },
       "platforms": {
-        "news": 3
+        "news": 2
       },
       "latest_date": "2026-07-19"
     },
@@ -40485,18 +40003,6 @@
         "news": 1
       },
       "latest_date": "2026-06-12"
-    },
-    "MS": {
-      "state": "MS",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-06-10"
     }
   }
 }
