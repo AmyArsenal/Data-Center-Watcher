@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "GA",
-  "generated_at": "2026-09-09T22:02:03Z",
+  "generated_at": "2026-09-10T00:10:17Z",
   "risk_score": {
-    "score": 50.2,
+    "score": 49.1,
     "tier": 23.8,
     "engagement": 8.2,
-    "recency": 10.2,
+    "recency": 9.0,
     "multi_source": 3.0,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "D",
-    "score": 49.8,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 50.9,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 5,

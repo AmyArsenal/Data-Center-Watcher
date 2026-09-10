@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-09-09T22:02:03Z",
+  "generated_at": "2026-09-10T00:10:17Z",
   "counties": [
     {
       "county_fips": "04013",
@@ -34,7 +34,7 @@
       "county_name": "Jackson County",
       "state": "MO",
       "count": 3,
-      "risk_score": 65.4,
+      "risk_score": 56.5,
       "latest": "2026-08-10",
       "url": "data/dossiers/county-29095.json"
     },
@@ -97,7 +97,7 @@
       "county_name": "Bell County",
       "state": "TX",
       "count": 2,
-      "risk_score": 66.2,
+      "risk_score": 54.9,
       "latest": "2026-08-10",
       "url": "data/dossiers/county-48309.json"
     },
