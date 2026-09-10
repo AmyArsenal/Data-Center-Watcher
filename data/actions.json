@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T09:09:09Z",
-  "count": 2058,
+  "generated_at": "2026-09-10T13:32:59Z",
+  "count": 2062,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,188 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-505239135c6636ba-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kfoxtv.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Meta hires Lauren Zimmerman to lead community engagement for El Paso data center project",
+      "sources": [
+        "https://kfoxtv.com/news/local/meta-hires-lauren-zimmerman-to-manage-el-paso-outreach-for-planned-data-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-10T13:32:57Z",
+      "first_seen": "2026-09-10T13:32:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-53ceda8c882f491c-az",
+      "origin": "news",
+      "state": "AZ",
+      "county": null,
+      "jurisdiction": "ahwatukee.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-10",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Arizona Attorney General to hear , not probe , data center complaints",
+      "sources": [
+        "https://ahwatukee.com/news/arizona-attorney-general-to-hear-not-probe-data-center-complaints/article_96a43977-d121-4222-ac9d-1e9ea26df80e.html"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-10T13:32:57Z",
+      "first_seen": "2026-09-10T13:32:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-66917048af8cfc1b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "missionlocal.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-09-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "An S . F . supervisor is planning a moratorium on data centers",
+      "sources": [
+        "https://missionlocal.org/2026/09/data-center-moratorium-sf-board-of-supervisors"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-10T13:32:57Z",
+      "first_seen": "2026-09-10T13:32:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dcd-b95e3f4d4a3c3448-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-09-10",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "UK Prime Minister Andy Burnham rejects calls for national data center moratorium. Says AI Growth Zones will benefit communities",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/uk-prime-minister-andy-burnham-rejects-calls-for-national-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-10T13:32:57Z",
+      "first_seen": "2026-09-10T13:32:58Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:rss-dcd-739af87a69f1877b-us",
       "origin": "news",
@@ -95084,32 +95266,61 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1225,
+      "count": 1228,
       "outcome_counts": {
-        "pending": 676,
-        "win": 514,
+        "pending": 677,
+        "win": 516,
         "loss": 35,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1188,
+        "restrictive": 1191,
         "protective": 2,
         "supportive": 35,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1203,
+        "local": 1206,
         "statewide": 13,
         "federal": 9
       },
       "issue_top": {
-        "community_impact": 235,
+        "community_impact": 236,
         "zoning": 91,
         "grid_energy": 25
       },
-      "latest_date": "2026-09-09",
+      "latest_date": "2026-09-10",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
+    },
+    "AZ": {
+      "state": "AZ",
+      "count": 13,
+      "outcome_counts": {
+        "pending": 10,
+        "win": 3,
+        "loss": 0,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 5,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 5
+      },
+      "scope_counts": {
+        "local": 7,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "water": 2,
+        "zoning": 2,
+        "community_impact": 1
+      },
+      "latest_date": "2026-09-10",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "pending"
     },
     "OR": {
       "state": "OR",
@@ -95833,35 +96044,6 @@
         "ratepayer": 2
       },
       "latest_date": "2026-08-15",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "pending"
-    },
-    "AZ": {
-      "state": "AZ",
-      "count": 12,
-      "outcome_counts": {
-        "pending": 9,
-        "win": 3,
-        "loss": 0,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 4,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 5
-      },
-      "scope_counts": {
-        "local": 6,
-        "statewide": 6,
-        "federal": 0
-      },
-      "issue_top": {
-        "water": 2,
-        "zoning": 2,
-        "community_impact": 1
-      },
-      "latest_date": "2026-08-14",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
     },

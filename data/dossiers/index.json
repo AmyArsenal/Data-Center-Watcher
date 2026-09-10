@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-09-10T09:09:09Z",
+  "generated_at": "2026-09-10T13:32:59Z",
   "states": [
     {
       "state": "AK",
@@ -46,16 +46,16 @@
     },
     {
       "state": "AZ",
-      "count": 12,
-      "risk_score": 47.9,
-      "grade": "C",
-      "grade_score": 52.1,
+      "count": 13,
+      "risk_score": 51.2,
+      "grade": "D",
+      "grade_score": 48.8,
       "moratoriums": 2,
       "approvals": 0,
       "denials": 3,
       "lawsuits": 1,
       "active_companies": 1,
-      "latest": "2026-08-14",
+      "latest": "2026-09-10",
       "url": "data/dossiers/state-AZ.json"
     },
     {

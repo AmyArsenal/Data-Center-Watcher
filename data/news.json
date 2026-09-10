@@ -1,8 +1,169 @@
 {
-  "generated_at": "2026-09-10T09:09:09Z",
+  "generated_at": "2026-09-10T13:32:58Z",
   "window_days": 90,
-  "count": 987,
+  "count": 991,
   "items": [
+    {
+      "id": "gdelt-505239135c6636ba",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Meta hires Lauren Zimmerman to lead community engagement for El Paso data center project",
+      "source_domain": "kfoxtv.com",
+      "source_name": "kfoxtv.com",
+      "url": "https://kfoxtv.com/news/local/meta-hires-lauren-zimmerman-to-manage-el-paso-outreach-for-planned-data-center",
+      "date": "2026-09-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Meta"
+      ],
+      "first_seen": "2026-09-10 13:32:57",
+      "url_hash": "505239135c6636ba",
+      "content_hash": "6e7eb9424c0ca55d",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-10T13:32:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-53ceda8c882f491c",
+      "state": "AZ",
+      "city": null,
+      "category": "protested",
+      "headline": "Arizona Attorney General to hear , not probe , data center complaints",
+      "source_domain": "ahwatukee.com",
+      "source_name": "ahwatukee.com",
+      "url": "https://ahwatukee.com/news/arizona-attorney-general-to-hear-not-probe-data-center-complaints/article_96a43977-d121-4222-ac9d-1e9ea26df80e.html",
+      "date": "2026-09-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-10 13:32:57",
+      "url_hash": "53ceda8c882f491c",
+      "content_hash": "4bf61c5709283cd4",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-10T13:32:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-66917048af8cfc1b",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "An S . F . supervisor is planning a moratorium on data centers",
+      "source_domain": "missionlocal.org",
+      "source_name": "missionlocal.org",
+      "url": "https://missionlocal.org/2026/09/data-center-moratorium-sf-board-of-supervisors",
+      "date": "2026-09-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-10 13:32:57",
+      "url_hash": "66917048af8cfc1b",
+      "content_hash": "716673283f8471d6",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-10T13:32:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "rss-dcd-b95e3f4d4a3c3448",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "UK Prime Minister Andy Burnham rejects calls for national data center moratorium",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/uk-prime-minister-andy-burnham-rejects-calls-for-national-data-center-moratorium",
+      "date": "2026-09-10",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-10 13:32:57",
+      "url_hash": "b95e3f4d4a3c3448",
+      "content_hash": "b2656f38db9ac311",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Says AI Growth Zones will benefit communities",
+      "last_seen": "2026-09-10T13:32:57Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.6599999999999999,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/uk-prime-minister-andy-burnham-rejects-calls-for-national-data-center-moratorium/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-dcd-739af87a69f1877b",
       "state": "US",
@@ -1256,7 +1417,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-10T09:09:07Z",
+      "last_seen": "2026-09-10T13:32:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2207,7 +2368,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-10T09:09:08Z",
+      "last_seen": "2026-09-10T13:32:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10136,7 +10297,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-09-10T09:09:08Z",
+      "last_seen": "2026-09-10T13:32:57Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39360,6 +39521,19 @@
     }
   ],
   "by_state": {
+    "AZ": {
+      "state": "AZ",
+      "count": 4,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 2
+      },
+      "platforms": {
+        "news": 4
+      },
+      "latest_date": "2026-09-10"
+    },
     "OR": {
       "state": "OR",
       "count": 13,
@@ -39709,19 +39883,6 @@
       },
       "platforms": {
         "news": 29
-      },
-      "latest_date": "2026-08-14"
-    },
-    "AZ": {
-      "state": "AZ",
-      "count": 3,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1,
-        "banned": 2
-      },
-      "platforms": {
-        "news": 3
       },
       "latest_date": "2026-08-14"
     },

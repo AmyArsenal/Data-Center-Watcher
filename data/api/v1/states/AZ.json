@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "AZ",
-  "generated_at": "2026-09-10T09:09:09Z",
+  "generated_at": "2026-09-10T13:32:59Z",
   "risk_score": {
-    "score": 47.9,
-    "tier": 21.3,
-    "engagement": 8.9,
-    "recency": 8.6,
-    "multi_source": 4.2,
+    "score": 51.2,
+    "tier": 22.8,
+    "engagement": 8.7,
+    "recency": 11.0,
+    "multi_source": 3.8,
     "regulatory": 5.0
   },
   "grade": {
-    "letter": "C",
-    "score": 52.1,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 48.8,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 12,
+  "count": 13,
   "tier_counts": {
     "unclear": 5,
     "null": 3,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
-    "pending": 9,
+    "pending": 10,
     "win": 3
   },
   "scope_counts": {
     "statewide": 6,
-    "local": 6
+    "local": 7
   },
   "issue_top": {
     "zoning": 2,
@@ -56,8 +56,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-12-11",
-  "latest": "2026-08-14",
+  "latest": "2026-09-10",
   "top_citations": [
+    {
+      "id": "news:gdelt-53ceda8c882f491c-az",
+      "date": "2026-09-10",
+      "jurisdiction": "ahwatukee.com",
+      "title": "Arizona Attorney General to hear , not probe , data center complaints",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://ahwatukee.com/news/arizona-attorney-general-to-hear-not-probe-data-center-complaints/article_96a43977-d121-4222-ac9d-1e9ea26df80e.html"
+    },
     {
       "id": "news:gdelt-9bc5202f85c1d747-az",
       "date": "2026-08-14",
@@ -138,15 +147,6 @@
       "tier": "unclear",
       "outcome": "pending",
       "url": "https://apps.azleg.gov/BillStatus/BillOverview/84585?SessionId=130"
-    },
-    {
-      "id": "research:az-office-of-gov-katie-hobbs-20260109-gov-katie-hobbs-included-repeal-of-arizona-s-data",
-      "date": "2026-01-09",
-      "jurisdiction": "Office of Gov. Katie Hobbs",
-      "title": "Gov. Katie Hobbs included repeal of Arizona's data center sales-tax incentive program in FY26 executive budget; Rep. Neal Carter introduced ",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://tucson.com/news/state-regional/government-politics/article_fcd329d7-35f8-4e01-8f5c-dc419439f4f8.html"
     }
   ]
 }
