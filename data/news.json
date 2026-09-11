@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T23:28:14Z",
+  "generated_at": "2026-09-11T01:17:48Z",
   "window_days": 90,
-  "count": 993,
+  "count": 984,
   "items": [
     {
       "id": "gdelt-54f04df7b16e0cbb",
@@ -232,7 +232,7 @@
         "rss-dcd"
       ],
       "snippet": "Says AI Growth Zones will benefit communities",
-      "last_seen": "2026-09-10T23:28:13Z",
+      "last_seen": "2026-09-11T01:17:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -1497,7 +1497,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-10T23:28:13Z",
+      "last_seen": "2026-09-11T01:17:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2448,7 +2448,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-10T23:28:13Z",
+      "last_seen": "2026-09-11T01:17:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -10377,7 +10377,7 @@
         "rss-dck"
       ],
       "snippet": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
-      "last_seen": "2026-09-10T23:28:13Z",
+      "last_seen": "2026-09-11T01:17:47Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39240,377 +39240,19 @@
         "gdelt_sourcecountry": "United States",
         "gdelt_tone": null
       }
-    },
-    {
-      "id": "gdelt-39aaa53649d3dfab",
-      "state": "NJ",
-      "city": null,
-      "category": "protested",
-      "headline": "After a Data Center Proposal , New Jersey Town Bans Them",
-      "source_domain": "govtech.com",
-      "source_name": "govtech.com",
-      "url": "https://govtech.com/artificial-intelligence/after-a-data-center-proposal-new-jersey-town-bans-them",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-13 04:46:33",
-      "url_hash": "39aaa53649d3dfab",
-      "content_hash": "5fc9109c5e355ba1",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-13T04:46:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-a547c48cc903e284",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Residents fight to keep AI data center campus away from Nashville Zoo",
-      "source_domain": "abcnews.com",
-      "source_name": "abcnews.com",
-      "url": "https://abcnews.com/GMA/News/residents-fight-ai-data-center-campus-nashville-zoo/story?id=133810954",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-13 04:46:33",
-      "url_hash": "a547c48cc903e284",
-      "content_hash": "3a94eb61f32ddb9c",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-13T04:46:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-6bb78aa507e423a6",
-      "state": "WA",
-      "city": null,
-      "category": "protested",
-      "headline": "Company wont pursue project at Washington Twp . site amid data center opposition",
-      "source_domain": "yahoo.com",
-      "source_name": "yahoo.com",
-      "url": "https://yahoo.com/news/us/articles/company-wont-pursue-project-washington-230124410.html",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-13 04:46:33",
-      "url_hash": "6bb78aa507e423a6",
-      "content_hash": "8431901c3d2352ce",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-13T04:46:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-aaf107998c771442",
-      "state": "AZ",
-      "city": null,
-      "category": "banned",
-      "headline": "Arizona data center moratorium is only the beginning",
-      "source_domain": "azcapitoltimes.com",
-      "source_name": "azcapitoltimes.com",
-      "url": "https://azcapitoltimes.com/news/2026/06/12/arizonas-data-center-moratorium-is-only-the-beginning",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-13 04:46:33",
-      "url_hash": "aaf107998c771442",
-      "content_hash": "98c6207ed50cc41b",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-13T04:46:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-arstechnica-da6a05af3ba14f83",
-      "state": "US",
-      "city": null,
-      "category": "cancelled",
-      "headline": "$130 billion in data center projects blocked by protests so far this year",
-      "source_domain": "arstechnica.com",
-      "source_name": "Ars Technica - All content",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-12 19:21:37",
-      "url_hash": "da6a05af3ba14f83",
-      "content_hash": "5c25d92fd3d1aac8",
-      "source": "rss-arstechnica",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-arstechnica"
-      ],
-      "snippet": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "last_seen": "2026-06-15T19:31:22Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-        "rss_author": "Ashley Belanger",
-        "rss_needs_dc_filter": true
-      }
-    },
-    {
-      "id": "rss-dcd-698fe6bfccb09007",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Amazon data centers used 2.5bn gallons of water in 2025",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/amazon-data-centers-used-25bn-gallons-of-water-in-2025",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [
-        "Amazon",
-        "AWS"
-      ],
-      "first_seen": "2026-06-12 19:21:37",
-      "url_hash": "698fe6bfccb09007",
-      "content_hash": "1bd81fbbe3e74c1d",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "AWS shares the small number, as anti-data center protests focus on water usage",
-      "last_seen": "2026-06-15T15:32:05Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/amazon-data-centers-used-25bn-gallons-of-water-in-2025/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-1aa057b0a4831f0f",
-      "state": "ME",
-      "city": null,
-      "category": "protested",
-      "headline": "Sentinel DC backs off paper mill data center project in Maine",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-12 17:15:30",
-      "url_hash": "1aa057b0a4831f0f",
-      "content_hash": "135136e0838d7e18",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
-      "last_seen": "2026-06-15T15:32:05Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-dcd-bb5820b0a89cf2c9",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "DC Blox’s proposed 24-acre data center near Nashville Zoo could be blocked by moratorium",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/dc-bloxs-proposed-24-acre-data-center-near-nashville-zoo-could-be-blocked-by-moratorium",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-12 11:09:06",
-      "url_hash": "bb5820b0a89cf2c9",
-      "content_hash": "8f322f20d9362546",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Petition against proposal has garnered more than 386,000 signatures at time of writing",
-      "last_seen": "2026-06-12T14:14:22Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.78,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/dc-bloxs-proposed-24-acre-data-center-near-nashville-zoo-could-be-blocked-by-moratorium/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "rss-rto-insider-f265bc28d2cddc8d",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Report Offers a Dozen Options to Allocate Tx Costs for Large Loads",
-      "source_domain": "rtoinsider.com",
-      "source_name": "RTO Insider",
-      "url": "https://rtoinsider.com/134213-report-offers-a-dozen-options-to-allocate-tx-costs",
-      "date": "2026-06-12",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-12 02:56:56",
-      "url_hash": "f265bc28d2cddc8d",
-      "content_hash": "83f34f4cada2971b",
-      "source": "rss-rto-insider",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-rto-insider"
-      ],
-      "snippet": "The report offers details on the issues around large load growth and the grid, with 12 different options to assign data centers and other facilities their fair share of transmission expansion costs. The post Report Offers a Dozen Options to Allocate Tx Costs for Large Loads appeared first on RTO Insider .",
-      "last_seen": "2026-06-15T19:31:22Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "//www.rtoinsider.com/?p=134213",
-        "rss_author": "James Downing",
-        "rss_needs_dc_filter": true
-      }
     }
   ],
   "by_state": {
     "AZ": {
       "state": "AZ",
-      "count": 4,
+      "count": 3,
       "total_engagement": 0,
       "categories": {
         "protested": 2,
-        "banned": 2
+        "banned": 1
       },
       "platforms": {
-        "news": 4
+        "news": 3
       },
       "latest_date": "2026-09-10"
     },
@@ -39751,16 +39393,16 @@
     },
     "NJ": {
       "state": "NJ",
-      "count": 8,
+      "count": 7,
       "total_engagement": 0,
       "categories": {
         "banned": 3,
         "cancelled": 1,
-        "protested": 3,
+        "protested": 2,
         "announced": 1
       },
       "platforms": {
-        "news": 8
+        "news": 7
       },
       "latest_date": "2026-08-21"
     },
@@ -40022,15 +39664,15 @@
     },
     "WA": {
       "state": "WA",
-      "count": 8,
+      "count": 7,
       "total_engagement": 0,
       "categories": {
         "banned": 2,
-        "protested": 5,
+        "protested": 4,
         "cancelled": 1
       },
       "platforms": {
-        "news": 8
+        "news": 7
       },
       "latest_date": "2026-08-06"
     },
@@ -40107,18 +39749,6 @@
         "news": 1
       },
       "latest_date": "2026-06-15"
-    },
-    "ME": {
-      "state": "ME",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-06-12"
     }
   }
 }
