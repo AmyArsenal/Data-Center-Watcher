@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-09-11T11:13:43Z",
+  "generated_at": "2026-09-11T14:59:40Z",
   "window_days": 90,
-  "count": 986,
+  "count": 989,
   "items": [
+    {
+      "id": "gdelt-c3a4ec68e7661348",
+      "state": "OH",
+      "city": null,
+      "category": "banned",
+      "headline": "Ohio data center tax break cost the state $1 . 57 billion in 2025 , more than eleven times the original $135 . 8 million forecast , and the Governor has now paused new deals through the end of his term",
+      "source_domain": "dmnews.com",
+      "source_name": "dmnews.com",
+      "url": "https://dmnews.com/dmn-ohios-data-center-tax-break-cost-the-state-1-57-billion-in-2025-more-than-eleven-times-the-original-135-8-million-forecast-and-the-governor-has-now-paused-new-deals-through-the-end-of-his-term",
+      "date": "2026-09-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-11 14:59:39",
+      "url_hash": "c3a4ec68e7661348",
+      "content_hash": "aee0804ce992a05f",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-11T14:59:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9a8d575db68552a6",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Jacinto City leaders oppose proposed AI data center as company eyes October redevelopment",
+      "source_domain": "click2houston.com",
+      "source_name": "click2houston.com",
+      "url": "https://click2houston.com/news/local/2026/09/11/jacinto-city-leaders-oppose-proposed-ai-data-center-as-company-eyes-october-redevelopment",
+      "date": "2026-09-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-11 14:59:39",
+      "url_hash": "9a8d575db68552a6",
+      "content_hash": "c3f78676fec8e05e",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-11T14:59:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-49731427b5a6f6fb",
+      "state": "US",
+      "city": null,
+      "category": "banned",
+      "headline": "Holyoke banned new data centers . But it likes the eco - conscious one it already has",
+      "source_domain": "wbur.org",
+      "source_name": "wbur.org",
+      "url": "https://wbur.org/news/2026/09/11/holyoke-massachusetts-ai-data-center-ban-green-center",
+      "date": "2026-09-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-11 14:59:39",
+      "url_hash": "49731427b5a6f6fb",
+      "content_hash": "13f98f4a8239f484",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-11T14:59:39Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.54,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "rss-dck-f9a30ac9d7af0b8b",
       "state": "US",
@@ -30,7 +150,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-11T11:13:42Z",
+      "last_seen": "2026-09-11T14:59:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -71,7 +191,7 @@
         "rss-dcd"
       ],
       "snippet": "As data centers become an issue for the midterms, OpenAI looks to change the message",
-      "last_seen": "2026-09-11T11:13:42Z",
+      "last_seen": "2026-09-11T14:59:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1577,7 +1697,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-11T11:13:42Z",
+      "last_seen": "2026-09-11T14:59:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2528,7 +2648,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-11T11:13:42Z",
+      "last_seen": "2026-09-11T14:59:39Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39323,6 +39443,21 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 18,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 5,
+        "protested": 10,
+        "cancelled": 2,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 18
+      },
+      "latest_date": "2026-09-11"
+    },
     "AZ": {
       "state": "AZ",
       "count": 3,
@@ -39440,21 +39575,6 @@
       },
       "platforms": {
         "news": 44
-      },
-      "latest_date": "2026-08-24"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 17,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 10,
-        "banned": 4,
-        "cancelled": 2,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 17
       },
       "latest_date": "2026-08-24"
     },

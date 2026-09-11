@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:13:43Z",
-  "count": 2066,
+  "generated_at": "2026-09-11T14:59:40Z",
+  "count": 2069,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,143 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-49731427b5a6f6fb-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wbur.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-11",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Holyoke banned new data centers . But it likes the eco - conscious one it already has",
+      "sources": [
+        "https://wbur.org/news/2026/09/11/holyoke-massachusetts-ai-data-center-ban-green-center"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-11T14:59:39Z",
+      "first_seen": "2026-09-11T14:59:40Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9a8d575db68552a6-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "click2houston.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-11",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Jacinto City leaders oppose proposed AI data center as company eyes October redevelopment",
+      "sources": [
+        "https://click2houston.com/news/local/2026/09/11/jacinto-city-leaders-oppose-proposed-ai-data-center-as-company-eyes-october-redevelopment"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-11T14:59:39Z",
+      "first_seen": "2026-09-11T14:59:40Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-c3a4ec68e7661348-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "dmnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "governor",
+      "date": "2026-09-11",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "tax_incentive"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ohio data center tax break cost the state $1 . 57 billion in 2025 , more than eleven times the original $135 . 8 million forecast , and the Governor has now paused new deals through the end of his term",
+      "sources": [
+        "https://dmnews.com/dmn-ohios-data-center-tax-break-cost-the-state-1-57-billion-in-2025-more-than-eleven-times-the-original-135-8-million-forecast-and-the-governor-has-now-paused-new-deals-through-the-end-of-his-term"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-11T14:59:39Z",
+      "first_seen": "2026-09-11T14:59:40Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:rss-dcd-6051fd967187da1f-us",
       "origin": "news",
@@ -95448,21 +95585,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1232,
+      "count": 1234,
       "outcome_counts": {
-        "pending": 681,
-        "win": 516,
+        "pending": 682,
+        "win": 517,
         "loss": 35,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1195,
+        "restrictive": 1197,
         "protective": 2,
         "supportive": 35,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1210,
+        "local": 1212,
         "statewide": 13,
         "federal": 9
       },
@@ -95470,6 +95607,35 @@
         "community_impact": 237,
         "zoning": 91,
         "grid_energy": 25
+      },
+      "latest_date": "2026-09-11",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "OH": {
+      "state": "OH",
+      "count": 42,
+      "outcome_counts": {
+        "pending": 23,
+        "win": 17,
+        "loss": 2,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 34,
+        "protective": 0,
+        "supportive": 2,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 36,
+        "statewide": 6,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 9,
+        "grid_energy": 5,
+        "ratepayer": 5
       },
       "latest_date": "2026-09-11",
       "map_color_tier": "restrictive",
@@ -95704,35 +95870,6 @@
         "farmland": 1
       },
       "latest_date": "2026-08-25",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 41,
-      "outcome_counts": {
-        "pending": 23,
-        "win": 16,
-        "loss": 2,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 33,
-        "protective": 0,
-        "supportive": 2,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 36,
-        "statewide": 5,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 9,
-        "grid_energy": 5,
-        "ratepayer": 5
-      },
-      "latest_date": "2026-08-24",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },

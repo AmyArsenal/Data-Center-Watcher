@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-09-11T11:13:43Z",
+  "generated_at": "2026-09-11T14:59:40Z",
   "filter": {
     "issue_category": "tax_incentive"
   },
-  "count": 46,
+  "count": 47,
   "items": [
     {
       "id": "openstates:ocd-bill-272a4d6a-c291-47d9-982e-e335d0589403-ar",
@@ -1845,6 +1845,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "cancelled"
+    },
+    {
+      "id": "news:gdelt-c3a4ec68e7661348-oh",
+      "origin": "news",
+      "state": "OH",
+      "county": null,
+      "jurisdiction": "dmnews.com",
+      "lat": null,
+      "lng": null,
+      "scope": "statewide",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": "governor",
+      "date": "2026-09-11",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"tax_incentive\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Ohio data center tax break cost the state $1 . 57 billion in 2025 , more than eleven times the original $135 . 8 million forecast , and the Governor has now paused new deals through the end of his term",
+      "sources": "[\"https://dmnews.com/dmn-ohios-data-center-tax-break-cost-the-state-1-57-billion-in-2025-more-than-eleven-times-the-original-135-8-million-forecast-and-the-governor-has-now-paused-new-deals-through-the-end-of-his-term\"]",
+      "data_source": "news",
+      "last_updated": "2026-09-11T14:59:39Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }

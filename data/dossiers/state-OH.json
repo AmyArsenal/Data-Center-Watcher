@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-09-11T11:13:43Z",
+  "generated_at": "2026-09-11T14:59:40Z",
   "risk_score": {
-    "score": 55.7,
-    "tier": 34.0,
+    "score": 56.5,
+    "tier": 34.1,
     "engagement": 6.2,
-    "recency": 10.5,
+    "recency": 11.2,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.3,
+    "score": 43.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 8,
     "approvals": 2,
-    "denials": 16,
+    "denials": 17,
     "lawsuits": 1,
     "blocked": 3,
     "active_companies": 0,
@@ -26,26 +26,26 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 41,
+  "count": 42,
   "tier_counts": {
-    "restrictive": 33,
+    "restrictive": 34,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
     "pending": 23,
-    "win": 16,
+    "win": 17,
     "loss": 2
   },
   "scope_counts": {
     "local": 36,
-    "statewide": 5
+    "statewide": 6
   },
   "issue_top": {
     "community_impact": 9,
     "ratepayer": 5,
+    "tax_incentive": 5,
     "grid_energy": 5,
-    "tax_incentive": 4,
     "water": 3,
     "zoning": 2,
     "transparency": 2,
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-08-24",
+  "latest": "2026-09-11",
   "top_citations": [
+    {
+      "id": "news:gdelt-c3a4ec68e7661348-oh",
+      "date": "2026-09-11",
+      "jurisdiction": "dmnews.com",
+      "title": "Ohio data center tax break cost the state $1 . 57 billion in 2025 , more than eleven times the original $135 . 8 million forecast , and the ",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://dmnews.com/dmn-ohios-data-center-tax-break-cost-the-state-1-57-billion-in-2025-more-than-eleven-times-the-original-135-8-million-forecast-and-the-governor-has-now-paused-new-deals-through-the-end-of-his-term"
+    },
     {
       "id": "news:rss-dcd-e96e2b1442605e9b-oh",
       "date": "2026-08-24",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://rtoinsider.com/138431-puco-oks-changes-to-aep-retail-rules-to-prevent-data-center-cost-shifts"
-    },
-    {
-      "id": "news:rss-dcd-6a70df12676ea2a1-oh",
-      "date": "2026-07-27",
-      "jurisdiction": "DCD",
-      "title": "Nvidia considers $250bn backstop for OpenAI's planned 10GW Ohio data center - report. SoftBank facility is planned on Department of Energy l",
-      "tier": "supportive",
-      "outcome": "loss",
-      "url": "https://datacenterdynamics.com/en/news/nvidia-considers-250bn-backstop-for-openais-planned-10gw-ohio-data-center-report"
     }
   ]
 }
