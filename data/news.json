@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-09-11T18:10:25Z",
+  "generated_at": "2026-09-11T20:55:18Z",
   "window_days": 90,
-  "count": 990,
+  "count": 991,
   "items": [
+    {
+      "id": "rss-latitude-2f9d81350c452d51",
+      "state": "NM",
+      "city": null,
+      "category": "protested",
+      "headline": "Oracle and OpenAI bet that more solar could combat data center pushback",
+      "source_domain": "latitudemedia.com",
+      "source_name": "Latitude Media",
+      "url": "https://latitudemedia.com/news/oracle-and-openai-bet-that-more-solar-could-combat-data-center-pushback",
+      "date": "2026-09-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Oracle",
+        "OpenAI"
+      ],
+      "first_seen": "2026-09-11 20:55:17",
+      "url_hash": "2f9d81350c452d51",
+      "content_hash": "e2a9b36323bd786d",
+      "source": "rss-latitude",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-latitude"
+      ],
+      "snippet": "The Stargate project is balancing federal support and local opposition in New Mexico. The post Oracle and OpenAI bet that more solar could combat data center pushback appeared first on Latitude Media .",
+      "last_seen": "2026-09-11T20:55:17Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.latitudemedia.com/?p=16383",
+        "rss_author": "Maeve Allsup",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-71e5ae95d0cd1b29",
       "state": "US",
@@ -30,7 +72,7 @@
         "rss-dcd"
       ],
       "snippet": "Mayor says municipality never received data needed for the grid connection",
-      "last_seen": "2026-09-11T18:10:24Z",
+      "last_seen": "2026-09-11T20:55:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -189,7 +231,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-11T18:10:24Z",
+      "last_seen": "2026-09-11T20:55:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -230,7 +272,7 @@
         "rss-dcd"
       ],
       "snippet": "As data centers become an issue for the midterms, OpenAI looks to change the message",
-      "last_seen": "2026-09-11T18:10:24Z",
+      "last_seen": "2026-09-11T20:55:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1736,7 +1778,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-11T18:10:24Z",
+      "last_seen": "2026-09-11T20:55:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2687,7 +2729,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-11T18:10:24Z",
+      "last_seen": "2026-09-11T20:55:17Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39482,6 +39524,20 @@
     }
   ],
   "by_state": {
+    "NM": {
+      "state": "NM",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 3,
+        "cancelled": 2
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-09-11"
+    },
     "OH": {
       "state": "OH",
       "count": 18,
@@ -39846,20 +39902,6 @@
         "news": 29
       },
       "latest_date": "2026-08-14"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1,
-        "banned": 3,
-        "cancelled": 2
-      },
-      "platforms": {
-        "news": 6
-      },
-      "latest_date": "2026-08-13"
     },
     "AR": {
       "state": "AR",

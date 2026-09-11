@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NM",
-  "generated_at": "2026-09-11T18:10:25Z",
+  "generated_at": "2026-09-11T20:55:18Z",
   "risk_score": {
-    "score": 51.7,
-    "tier": 29.3,
+    "score": 55.2,
+    "tier": 30.4,
     "engagement": 6.2,
-    "recency": 16.1,
+    "recency": 18.5,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.3,
+    "score": 44.8,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 9,
+  "count": 10,
   "tier_counts": {
     "null": 2,
     "supportive": 1,
-    "restrictive": 6
+    "restrictive": 7
   },
   "outcome_counts": {
-    "pending": 3,
+    "pending": 4,
     "loss": 1,
     "win": 5
   },
   "scope_counts": {
     "statewide": 1,
     "federal": 1,
-    "local": 7
+    "local": 8
   },
   "issue_top": {
     "environmental": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-14",
-  "latest": "2026-08-13",
+  "latest": "2026-09-11",
   "top_citations": [
+    {
+      "id": "news:rss-latitude-2f9d81350c452d51-nm",
+      "date": "2026-09-11",
+      "jurisdiction": "Latitude Media",
+      "title": "Oracle and OpenAI bet that more solar could combat data center pushback. The Stargate project is balancing federal support and local opposit",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://latitudemedia.com/news/oracle-and-openai-bet-that-more-solar-could-combat-data-center-pushback"
+    },
     {
       "id": "news:rss-rto-insider-07e85b2f1ebb36a3-nm",
       "date": "2026-08-13",
