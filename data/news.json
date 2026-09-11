@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-09-11T14:59:40Z",
+  "generated_at": "2026-09-11T18:10:25Z",
   "window_days": 90,
-  "count": 989,
+  "count": 990,
   "items": [
+    {
+      "id": "rss-dcd-71e5ae95d0cd1b29",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Plans for 120MW data center withdrawn in Lombardy, Italy",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy",
+      "date": "2026-09-11",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-11 18:10:24",
+      "url_hash": "71e5ae95d0cd1b29",
+      "content_hash": "76fca5596c22d1a5",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "Mayor says municipality never received data needed for the grid connection",
+      "last_seen": "2026-09-11T18:10:24Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-c3a4ec68e7661348",
       "state": "OH",
@@ -110,7 +149,7 @@
         "gdelt"
       ],
       "snippet": null,
-      "last_seen": "2026-09-11T14:59:39Z",
+      "last_seen": "2026-09-11T18:10:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -150,7 +189,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-11T14:59:39Z",
+      "last_seen": "2026-09-11T18:10:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -191,7 +230,7 @@
         "rss-dcd"
       ],
       "snippet": "As data centers become an issue for the midterms, OpenAI looks to change the message",
-      "last_seen": "2026-09-11T14:59:39Z",
+      "last_seen": "2026-09-11T18:10:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1697,7 +1736,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-11T14:59:39Z",
+      "last_seen": "2026-09-11T18:10:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2648,7 +2687,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-11T14:59:39Z",
+      "last_seen": "2026-09-11T18:10:24Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

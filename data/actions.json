@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T14:59:40Z",
-  "count": 2069,
+  "generated_at": "2026-09-11T18:10:25Z",
+  "count": 2070,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -203,6 +203,53 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-71e5ae95d0cd1b29-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "project_withdrawal"
+      ],
+      "authority_level": null,
+      "date": "2026-09-11",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Plans for 120MW data center withdrawn in Lombardy, Italy. Mayor says municipality never received data needed for the grid connection",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-11T18:10:24Z",
+      "first_seen": "2026-09-11T18:10:25Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:rss-dck-f9a30ac9d7af0b8b-us",
@@ -95585,28 +95632,28 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1234,
+      "count": 1235,
       "outcome_counts": {
         "pending": 682,
         "win": 517,
-        "loss": 35,
+        "loss": 36,
         "mixed": 0
       },
       "tier_counts": {
         "restrictive": 1197,
         "protective": 2,
-        "supportive": 35,
+        "supportive": 36,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1212,
+        "local": 1213,
         "statewide": 13,
         "federal": 9
       },
       "issue_top": {
         "community_impact": 237,
         "zoning": 91,
-        "grid_energy": 25
+        "grid_energy": 26
       },
       "latest_date": "2026-09-11",
       "map_color_tier": "restrictive",
