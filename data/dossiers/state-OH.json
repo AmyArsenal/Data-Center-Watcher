@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "OH",
-  "generated_at": "2026-09-12T12:51:07Z",
+  "generated_at": "2026-09-12T15:54:07Z",
   "risk_score": {
-    "score": 56.5,
-    "tier": 34.1,
+    "score": 57.3,
+    "tier": 34.2,
     "engagement": 6.2,
-    "recency": 11.2,
+    "recency": 11.8,
     "multi_source": 0.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.5,
+    "score": 42.7,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 8,
     "approvals": 2,
-    "denials": 17,
+    "denials": 18,
     "lawsuits": 1,
     "blocked": 3,
     "active_companies": 0,
@@ -26,19 +26,19 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 42,
+  "count": 43,
   "tier_counts": {
-    "restrictive": 34,
+    "restrictive": 35,
     "null": 6,
     "supportive": 2
   },
   "outcome_counts": {
     "pending": 23,
-    "win": 17,
+    "win": 18,
     "loss": 2
   },
   "scope_counts": {
-    "local": 36,
+    "local": 37,
     "statewide": 6
   },
   "issue_top": {
@@ -54,8 +54,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-03-12",
-  "latest": "2026-09-11",
+  "latest": "2026-09-12",
   "top_citations": [
+    {
+      "id": "news:gdelt-4330744331b87c6c-oh",
+      "date": "2026-09-12",
+      "jurisdiction": "thenewsherald.com",
+      "title": "Legislation to ban tax abatements for data centers introduced in Ohio",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://thenewsherald.com/2026/09/12/legislation-to-ban-tax-abatements-for-data-centers-introduced-in-ohio"
+    },
     {
       "id": "news:gdelt-c3a4ec68e7661348-oh",
       "date": "2026-09-11",
@@ -136,15 +145,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://yahoo.com/news/politics/articles/ohio-supreme-court-sides-ashville-142413032.html"
-    },
-    {
-      "id": "news:rss-rto-insider-b8ecfd6e92b919fc-oh",
-      "date": "2026-08-05",
-      "jurisdiction": "RTO Insider",
-      "title": "PUCO OKs Changes to AEP Retail Rules to Prevent Data Center Cost Shifts. The Public Utilities Commission of Ohio issued an order directing A",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://rtoinsider.com/138431-puco-oks-changes-to-aep-retail-rules-to-prevent-data-center-cost-shifts"
     }
   ]
 }

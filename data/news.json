@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-09-12T12:51:06Z",
+  "generated_at": "2026-09-12T15:54:07Z",
   "window_days": 90,
-  "count": 984,
+  "count": 987,
   "items": [
+    {
+      "id": "gdelt-891faa676a275e5c",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Planning Commission recommends denial of proposed Orchard Hills data center rezoning",
+      "source_domain": "wyomingnews.com",
+      "source_name": "wyomingnews.com",
+      "url": "https://wyomingnews.com/laramieboomerang/laramieboomerang/news/planning-commission-recommends-denial-of-proposed-orchard-hills-data-center-rezoning/article_a54b7036-badb-4497-aa8d-15862963a9c9.html",
+      "date": "2026-09-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-12 15:54:06",
+      "url_hash": "891faa676a275e5c",
+      "content_hash": "31627b8b28422bb1",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-12T15:54:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-4330744331b87c6c",
+      "state": "OH",
+      "city": null,
+      "category": "banned",
+      "headline": "Legislation to ban tax abatements for data centers introduced in Ohio",
+      "source_domain": "thenewsherald.com",
+      "source_name": "thenewsherald.com",
+      "url": "https://thenewsherald.com/2026/09/12/legislation-to-ban-tax-abatements-for-data-centers-introduced-in-ohio",
+      "date": "2026-09-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-12 15:54:06",
+      "url_hash": "4330744331b87c6c",
+      "content_hash": "a0c721a57a5aba71",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-12T15:54:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
+    {
+      "id": "gdelt-9b9acbb8f3fd4956",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "Weld County commissioners approve permit for Global AI data center",
+      "source_domain": "kunc.org",
+      "source_name": "kunc.org",
+      "url": "https://kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+      "date": "2026-09-12",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-12 15:54:06",
+      "url_hash": "9b9acbb8f3fd4956",
+      "content_hash": "3c0bb0214c8a16bc",
+      "source": "gdelt",
+      "source_tier": "fast",
+      "sources_seen": [
+        "gdelt"
+      ],
+      "snippet": null,
+      "last_seen": "2026-09-12T15:54:06Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
+        "gdelt_language": "English",
+        "gdelt_sourcecountry": "United States",
+        "gdelt_tone": null
+      }
+    },
     {
       "id": "gdelt-25212b0e95611d39",
       "state": "US",
@@ -113,7 +233,7 @@
         "rss-latitude"
       ],
       "snippet": "The Stargate project is balancing federal support and local opposition in New Mexico. The post Oracle and OpenAI bet that more solar could combat data center pushback appeared first on Latitude Media .",
-      "last_seen": "2026-09-12T12:51:05Z",
+      "last_seen": "2026-09-12T15:54:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -152,7 +272,7 @@
         "rss-dcd"
       ],
       "snippet": "Mayor says municipality never received data needed for the grid connection",
-      "last_seen": "2026-09-12T12:51:05Z",
+      "last_seen": "2026-09-12T15:54:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -311,7 +431,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-12T12:51:05Z",
+      "last_seen": "2026-09-12T15:54:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -352,7 +472,7 @@
         "rss-dcd"
       ],
       "snippet": "As data centers become an issue for the midterms, OpenAI looks to change the message",
-      "last_seen": "2026-09-12T12:51:05Z",
+      "last_seen": "2026-09-12T15:54:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1858,7 +1978,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-12T12:51:05Z",
+      "last_seen": "2026-09-12T15:54:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2809,7 +2929,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-12T12:51:05Z",
+      "last_seen": "2026-09-12T15:54:06Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39244,6 +39364,21 @@
     }
   ],
   "by_state": {
+    "OH": {
+      "state": "OH",
+      "count": 19,
+      "total_engagement": 0,
+      "categories": {
+        "banned": 6,
+        "protested": 10,
+        "cancelled": 2,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 19
+      },
+      "latest_date": "2026-09-12"
+    },
     "NM": {
       "state": "NM",
       "count": 7,
@@ -39255,21 +39390,6 @@
       },
       "platforms": {
         "news": 7
-      },
-      "latest_date": "2026-09-11"
-    },
-    "OH": {
-      "state": "OH",
-      "count": 18,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 5,
-        "protested": 10,
-        "cancelled": 2,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 18
       },
       "latest_date": "2026-09-11"
     },
