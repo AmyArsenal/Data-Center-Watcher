@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MO",
-  "generated_at": "2026-09-11T22:50:07Z",
+  "generated_at": "2026-09-12T00:44:40Z",
   "risk_score": {
-    "score": 48.2,
+    "score": 47.1,
     "tier": 32.0,
     "engagement": 6.5,
-    "recency": 9.3,
+    "recency": 8.3,
     "multi_source": 0.4,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 51.8,
+    "score": 52.9,
     "label": "Significant activity in both directions"
   },
   "quantified": {
