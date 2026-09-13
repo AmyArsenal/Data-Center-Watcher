@@ -1,43 +1,43 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "IA",
-  "generated_at": "2026-09-13T06:05:55Z",
+  "generated_at": "2026-09-13T11:45:07Z",
   "risk_score": {
-    "score": 51.6,
-    "tier": 30.7,
+    "score": 56.5,
+    "tier": 32.0,
     "engagement": 6.2,
-    "recency": 14.7,
+    "recency": 18.3,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 48.4,
+    "score": 43.5,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 2,
     "approvals": 0,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 0,
-    "blocked": 0,
+    "blocked": 1,
     "active_companies": 0,
     "bills_introduced": 1,
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
     "null": 2,
-    "restrictive": 4
+    "restrictive": 5
   },
   "outcome_counts": {
     "mixed": 1,
     "pending": 4,
-    "win": 1
+    "win": 2
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 1
   },
   "issue_top": {
@@ -50,8 +50,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-01-16",
-  "latest": "2026-08-21",
+  "latest": "2026-09-13",
   "top_citations": [
+    {
+      "id": "news:gdelt-eaf51c8dc663ea16-ia",
+      "date": "2026-09-13",
+      "jurisdiction": "kiwaradio.com",
+      "title": "Northern Iowa County Panel Becomes Latest To Reject Call For Data Center – KIWA Radio",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://kiwaradio.com/news/northern-iowa-county-panel-becomes-latest-to-reject-call-for-data-center"
+    },
     {
       "id": "news:gdelt-dadc5d820ec7328c-ia",
       "date": "2026-08-21",
