@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T23:19:08Z",
+  "generated_at": "2026-09-13T01:12:00Z",
   "window_days": 90,
-  "count": 987,
+  "count": 985,
   "items": [
     {
       "id": "gdelt-891faa676a275e5c",
@@ -233,7 +233,7 @@
         "rss-latitude"
       ],
       "snippet": "The Stargate project is balancing federal support and local opposition in New Mexico. The post Oracle and OpenAI bet that more solar could combat data center pushback appeared first on Latitude Media .",
-      "last_seen": "2026-09-12T23:19:07Z",
+      "last_seen": "2026-09-13T01:11:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -272,7 +272,7 @@
         "rss-dcd"
       ],
       "snippet": "Mayor says municipality never received data needed for the grid connection",
-      "last_seen": "2026-09-12T23:19:07Z",
+      "last_seen": "2026-09-13T01:11:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -431,7 +431,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-12T23:19:07Z",
+      "last_seen": "2026-09-13T01:11:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -472,7 +472,7 @@
         "rss-dcd"
       ],
       "snippet": "As data centers become an issue for the midterms, OpenAI looks to change the message",
-      "last_seen": "2026-09-12T23:19:07Z",
+      "last_seen": "2026-09-13T01:11:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1978,7 +1978,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-12T23:19:07Z",
+      "last_seen": "2026-09-13T01:11:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2929,7 +2929,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-12T23:19:07Z",
+      "last_seen": "2026-09-13T01:11:59Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -39280,86 +39280,6 @@
         "rss_id": "https://www.datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado/",
         "rss_author": null,
         "rss_needs_dc_filter": false
-      }
-    },
-    {
-      "id": "gdelt-4c6f247e49d4ffc7",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Edwardsville zoning code does not allow data centers",
-      "source_domain": "theintelligencer.com",
-      "source_name": "theintelligencer.com",
-      "url": "https://theintelligencer.com/news/article/edwardsville-il-data-center-special-permit-22302143.php",
-      "date": "2026-06-14",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-14 10:06:19",
-      "url_hash": "4c6f247e49d4ffc7",
-      "content_hash": "67fa02e01bd9a3e3",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-14T12:12:55Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-b47fa1741c8207be",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Fayetteville City Council members say they aim to be proactive with consideration of data center rule changes",
-      "source_domain": "nwaonline.com",
-      "source_name": "nwaonline.com",
-      "url": "https://nwaonline.com/news/2026/jun/13/fayetteville-city-council-members-say-they-aim-to",
-      "date": "2026-06-14",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-14 10:06:19",
-      "url_hash": "b47fa1741c8207be",
-      "content_hash": "8414b4395040a429",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-14T12:12:55Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
       }
     }
   ],
