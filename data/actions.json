@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:34:25Z",
-  "count": 2077,
+  "generated_at": "2026-09-14T16:32:38Z",
+  "count": 2078,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-c19733159c2f6097-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-14",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Why coolant health is becoming an uptime issue for AI data centers. Small changes can be a warning sign",
+      "sources": [
+        "https://datacenterdynamics.com/en/opinions/why-coolant-health-is-becoming-an-uptime-issue-for-ai-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-14T16:32:37Z",
+      "first_seen": "2026-09-14T16:32:38Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:gdelt-eaf51c8dc663ea16-ia",
       "origin": "news",
@@ -95948,6 +95993,35 @@
     }
   ],
   "by_state": {
+    "US": {
+      "state": "US",
+      "count": 1240,
+      "outcome_counts": {
+        "pending": 685,
+        "win": 519,
+        "loss": 36,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1202,
+        "protective": 2,
+        "supportive": 36,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 1218,
+        "statewide": 13,
+        "federal": 9
+      },
+      "issue_top": {
+        "community_impact": 237,
+        "zoning": 92,
+        "grid_energy": 26
+      },
+      "latest_date": "2026-09-14",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "IA": {
       "state": "IA",
       "count": 7,
@@ -95976,35 +96050,6 @@
       "latest_date": "2026-09-13",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 1239,
-      "outcome_counts": {
-        "pending": 684,
-        "win": 519,
-        "loss": 36,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1201,
-        "protective": 2,
-        "supportive": 36,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1217,
-        "statewide": 13,
-        "federal": 9
-      },
-      "issue_top": {
-        "community_impact": 237,
-        "zoning": 92,
-        "grid_energy": 26
-      },
-      "latest_date": "2026-09-12",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "OH": {
       "state": "OH",
