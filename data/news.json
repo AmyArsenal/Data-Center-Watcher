@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T22:36:59Z",
+  "generated_at": "2026-09-14T00:24:42Z",
   "window_days": 90,
-  "count": 986,
+  "count": 976,
   "items": [
     {
       "id": "gdelt-eaf51c8dc663ea16",
@@ -273,7 +273,7 @@
         "rss-latitude"
       ],
       "snippet": "The Stargate project is balancing federal support and local opposition in New Mexico. The post Oracle and OpenAI bet that more solar could combat data center pushback appeared first on Latitude Media .",
-      "last_seen": "2026-09-13T22:36:58Z",
+      "last_seen": "2026-09-14T00:24:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -312,7 +312,7 @@
         "rss-dcd"
       ],
       "snippet": "Mayor says municipality never received data needed for the grid connection",
-      "last_seen": "2026-09-13T22:36:58Z",
+      "last_seen": "2026-09-14T00:24:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -471,7 +471,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-13T22:36:58Z",
+      "last_seen": "2026-09-14T00:24:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2018,7 +2018,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-13T22:36:58Z",
+      "last_seen": "2026-09-14T00:24:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2969,7 +2969,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-13T22:36:58Z",
+      "last_seen": "2026-09-14T00:24:41Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38920,407 +38920,6 @@
         "gdelt_sourcecountry": "United States",
         "gdelt_tone": null
       }
-    },
-    {
-      "id": "gdelt-5242ee4d71081252",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Fort Wayne Community Development pushes back on Google data center - related bills",
-      "source_domain": "journalgazette.net",
-      "source_name": "journalgazette.net",
-      "url": "https://journalgazette.net/local/local-government/fort-wayne-community-development-pushes-back-on-google-data-center-related-bills/article_12815f08-d1ba-4b2c-9c3c-d4a5d06c7e1d.html",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [
-        "Google"
-      ],
-      "first_seen": "2026-06-15 23:59:33",
-      "url_hash": "5242ee4d71081252",
-      "content_hash": "65bf558d978bfdcd",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-529a04ce47f36322",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "Olyphant residents who oppose data centers raising money to hire attorney",
-      "source_domain": "thetimes-tribune.com",
-      "source_name": "thetimes-tribune.com",
-      "url": "https://thetimes-tribune.com/2026/06/15/olyphant-residents-who-oppose-data-centers-raising-money-to-hire-attorney",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 23:59:33",
-      "url_hash": "529a04ce47f36322",
-      "content_hash": "7bf614651b6f48a0",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-90c4904c0b7757d7",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Commissioners discuss possible data center ban in Wakulla County",
-      "source_domain": "wctv.tv",
-      "source_name": "wctv.tv",
-      "url": "https://wctv.tv/2026/06/15/commissioners-discuss-possible-data-center-ban-wakulla-county",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 23:59:33",
-      "url_hash": "90c4904c0b7757d7",
-      "content_hash": "d32bff4089fb8484",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.42,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-a7913e31ba065408",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Lakeland Halts Large - Scale Data Centers Amid Community Concerns , Launches 12 - Month Moratorium",
-      "source_domain": "myq105.com",
-      "source_name": "myq105.com",
-      "url": "https://myq105.com/2026/06/15/lakeland-halts-large-scale-data-centers-amid-community-concerns-launches-12-month-moratorium",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 23:59:33",
-      "url_hash": "a7913e31ba065408",
-      "content_hash": "09e9ea68c3d19eb2",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.78,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-a3c8a7e006cce6dc",
-      "state": "IN",
-      "city": null,
-      "category": "banned",
-      "headline": "Boone County passes moratorium on data center development – Inside INdiana Business",
-      "source_domain": "insideindianabusiness.com",
-      "source_name": "insideindianabusiness.com",
-      "url": "https://insideindianabusiness.com/articles/boone-county-passes-moratorium-on-data-center-development",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 23:59:33",
-      "url_hash": "a3c8a7e006cce6dc",
-      "content_hash": "2cc02c21207ed54b",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-b2e431ff59f5a6a9",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Data centers in Jackson County are officially banned",
-      "source_domain": "wuwf.org",
-      "source_name": "wuwf.org",
-      "url": "https://wuwf.org/florida-news/2026-06-15/data-centers-in-jackson-county-are-officially-banned",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 22:02:55",
-      "url_hash": "b2e431ff59f5a6a9",
-      "content_hash": "b0f29dcb75aa8d6d",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (moratorium OR ban OR opposition OR protest) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-d48ce19bccd3b3c7",
-      "state": "TN",
-      "city": null,
-      "category": "banned",
-      "headline": "Multiple small Tennessee counties pass temporary data center bans Nashville also passed near - unanimous moratorium on first reading",
-      "source_domain": "tomshardware.com",
-      "source_name": "tomshardware.com",
-      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 22:02:55",
-      "url_hash": "d48ce19bccd3b3c7",
-      "content_hash": "16313a3214aa3a68",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-aef9d1126133fdea",
-      "state": "US",
-      "city": null,
-      "category": "banned",
-      "headline": "Boone County adopts 1 - year data center moratorium",
-      "source_domain": "yahoo.com",
-      "source_name": "yahoo.com",
-      "url": "https://yahoo.com/news/us/articles/boone-county-adopts-1-data-184744905.html",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 22:02:55",
-      "url_hash": "aef9d1126133fdea",
-      "content_hash": "cc7b0cce59547e2a",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (\"city council\" OR \"county commission\" OR \"zoning\") sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "gdelt-ca97ed9816e32996",
-      "state": "US",
-      "city": null,
-      "category": "protested",
-      "headline": "San Angelo City Council to Consider Data Center Rules , Zoning Changes",
-      "source_domain": "sanangelolive.com",
-      "source_name": "sanangelolive.com",
-      "url": "https://sanangelolive.com/news/san-angelo/2026-06-15/san-angelo-city-council-consider-data-center-rules-zoning-changes",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 22:02:55",
-      "url_hash": "ca97ed9816e32996",
-      "content_hash": "a4a45df856377e18",
-      "source": "gdelt",
-      "source_tier": "fast",
-      "sources_seen": [
-        "gdelt"
-      ],
-      "snippet": null,
-      "last_seen": "2026-06-15T23:59:33Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.54,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "gdelt_query": "\"data center\" (lawsuit OR \"court ruling\" OR appeal) sourcecountry:US",
-        "gdelt_language": "English",
-        "gdelt_sourcecountry": "United States",
-        "gdelt_tone": null
-      }
-    },
-    {
-      "id": "rss-dcd-ddef057efb1fdb57",
-      "state": "CO",
-      "city": null,
-      "category": "protested",
-      "headline": "50MW 'Project Taurus' data center gets go-ahead in Colorado",
-      "source_domain": "datacenterdynamics.com",
-      "source_name": "DCD",
-      "url": "https://datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado",
-      "date": "2026-06-15",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-15 19:31:22",
-      "url_hash": "ddef057efb1fdb57",
-      "content_hash": "5caa10a7f737650c",
-      "source": "rss-dcd",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-dcd"
-      ],
-      "snippet": "Those opposed can file an appeal before 5pm on June 22",
-      "last_seen": "2026-06-16T09:13:48Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.64,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado/",
-        "rss_author": null,
-        "rss_needs_dc_filter": false
-      }
     }
   ],
   "by_state": {
@@ -39599,14 +39198,14 @@
     },
     "IN": {
       "state": "IN",
-      "count": 8,
+      "count": 7,
       "total_engagement": 0,
       "categories": {
-        "banned": 7,
+        "banned": 6,
         "announced": 1
       },
       "platforms": {
-        "news": 8
+        "news": 7
       },
       "latest_date": "2026-08-19"
     },
@@ -39679,14 +39278,14 @@
     },
     "CO": {
       "state": "CO",
-      "count": 3,
+      "count": 2,
       "total_engagement": 0,
       "categories": {
-        "protested": 2,
+        "protested": 1,
         "banned": 1
       },
       "platforms": {
-        "news": 3
+        "news": 2
       },
       "latest_date": "2026-08-15"
     },
@@ -39819,18 +39418,6 @@
         "news": 1
       },
       "latest_date": "2026-06-18"
-    },
-    "TN": {
-      "state": "TN",
-      "count": 1,
-      "total_engagement": 0,
-      "categories": {
-        "banned": 1
-      },
-      "platforms": {
-        "news": 1
-      },
-      "latest_date": "2026-06-15"
     }
   }
 }
