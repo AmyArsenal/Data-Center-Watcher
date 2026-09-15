@@ -1,23 +1,23 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-09-15T12:05:16Z",
+  "generated_at": "2026-09-15T16:53:48Z",
   "risk_score": {
-    "score": 56.1,
-    "tier": 33.9,
+    "score": 56.0,
+    "tier": 33.5,
     "engagement": 6.3,
-    "recency": 10.6,
+    "recency": 11.0,
     "multi_source": 0.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 43.9,
+    "score": 44.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 8,
-    "approvals": 3,
+    "approvals": 4,
     "denials": 32,
     "lawsuits": 4,
     "blocked": 3,
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 76,
+  "count": 77,
   "tier_counts": {
     "restrictive": 60,
     "null": 15,
-    "supportive": 1
+    "supportive": 2
   },
   "outcome_counts": {
     "pending": 38,
     "mixed": 3,
-    "loss": 3,
+    "loss": 4,
     "win": 32
   },
   "scope_counts": {
-    "local": 65,
+    "local": 66,
     "statewide": 11
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-08-24",
+  "latest": "2026-09-15",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-31d240fbc8494d86-tx",
+      "date": "2026-09-15",
+      "jurisdiction": "DCD",
+      "title": "Digital Realty, Colovore, Hut 8, CoreSite, and DataBank file to build data centers in Texas. Lone Star State continues to appeal to operator",
+      "tier": "supportive",
+      "outcome": "loss",
+      "url": "https://datacenterdynamics.com/en/news/digital-realty-colovore-hut-8-coresite-and-databank-file-to-build-data-centers-in-texas"
+    },
     {
       "id": "news:gdelt-3a1bd618ee89caf9-tx",
       "date": "2026-08-24",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "pending",
       "url": "https://us105fm.com/temple-texas-data-center-plans"
-    },
-    {
-      "id": "news:gdelt-7e36741b51640e41-tx",
-      "date": "2026-08-10",
-      "jurisdiction": "kcby.com",
-      "title": "Trump criticizes Abbott moratorium on Texas data centers connecting to power grid",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://kcby.com/news/nation-world/trump-criticizes-abbott-moratorium-on-texas-data-centers-connecting-to-power-grid"
     }
   ]
 }
