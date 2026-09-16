@@ -1,6 +1,6 @@
 {
   "schema": "dcw.dossier.index.v1",
-  "generated_at": "2026-09-15T22:29:05Z",
+  "generated_at": "2026-09-16T00:38:14Z",
   "states": [
     {
       "state": "AK",
@@ -299,9 +299,9 @@
     {
       "state": "MI",
       "count": 26,
-      "risk_score": 57.5,
+      "risk_score": 56.5,
       "grade": "D",
-      "grade_score": 42.5,
+      "grade_score": 43.5,
       "moratoriums": 10,
       "approvals": 0,
       "denials": 13,
@@ -369,9 +369,9 @@
     {
       "state": "NC",
       "count": 14,
-      "risk_score": 56.7,
+      "risk_score": 52.2,
       "grade": "D",
-      "grade_score": 43.3,
+      "grade_score": 47.8,
       "moratoriums": 6,
       "approvals": 1,
       "denials": 6,

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T22:29:05Z",
+  "generated_at": "2026-09-16T00:38:13Z",
   "window_days": 90,
-  "count": 975,
+  "count": 974,
   "items": [
     {
       "id": "rss-dck-cbf14c1b82ee69f8",
@@ -30,7 +30,7 @@
         "rss-dck"
       ],
       "snippet": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
-      "last_seen": "2026-09-15T22:29:04Z",
+      "last_seen": "2026-09-16T00:38:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -72,7 +72,7 @@
         "rss-dcd"
       ],
       "snippet": "Lone Star State continues to appeal to operators",
-      "last_seen": "2026-09-15T22:29:04Z",
+      "last_seen": "2026-09-16T00:38:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.52,
@@ -111,7 +111,7 @@
         "rss-dcd"
       ],
       "snippet": "Would put a pause on projects of 50MW and up",
-      "last_seen": "2026-09-15T22:29:04Z",
+      "last_seen": "2026-09-16T00:38:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -471,7 +471,7 @@
         "rss-latitude"
       ],
       "snippet": "The Stargate project is balancing federal support and local opposition in New Mexico. The post Oracle and OpenAI bet that more solar could combat data center pushback appeared first on Latitude Media .",
-      "last_seen": "2026-09-15T22:29:04Z",
+      "last_seen": "2026-09-16T00:38:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -669,7 +669,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-15T22:29:04Z",
+      "last_seen": "2026-09-16T00:38:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2216,7 +2216,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-15T22:29:04Z",
+      "last_seen": "2026-09-16T00:38:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3167,7 +3167,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-15T22:29:04Z",
+      "last_seen": "2026-09-16T00:38:12Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -38838,45 +38838,6 @@
         "gdelt_sourcecountry": "United States",
         "gdelt_tone": null
       }
-    },
-    {
-      "id": "rss-canary-59854a1423dc5cb7",
-      "state": "NC",
-      "city": null,
-      "category": "protested",
-      "headline": "Data centers are key to fight over Duke electric rates in North Carolina",
-      "source_domain": "canarymedia.com",
-      "source_name": "Canary Media",
-      "url": "https://canarymedia.com/articles/data-centers/duke-electric-rates-north-carolina",
-      "date": "2026-06-17",
-      "platform": "news",
-      "engagement_score": 0,
-      "upvotes": null,
-      "comments": null,
-      "views": null,
-      "likes": null,
-      "sentiment": null,
-      "companies": [],
-      "first_seen": "2026-06-17 11:25:08",
-      "url_hash": "59854a1423dc5cb7",
-      "content_hash": "43ed15c06cd2aa42",
-      "source": "rss-canary",
-      "source_tier": "fast",
-      "sources_seen": [
-        "rss-canary"
-      ],
-      "snippet": "Data centers are set to proliferate, and Duke Energy electric rates are poised to soar — and North Carolinians are mad about both. They’re packing public hearings to complain about their utility bills and passing moratoriums in their communities to stop construction of the ginormous, computer-crammed warehouses. The…",
-      "last_seen": "2026-07-15T07:45:10Z",
-      "counties": [],
-      "dollars_mentioned": null,
-      "relevance_score": 0.6599999999999999,
-      "topics": [],
-      "ferc_dockets": [],
-      "platform_metadata": {
-        "rss_id": "https://www.canarymedia.com/articles/data-centers/duke-electric-rates-north-carolina",
-        "rss_author": "Elizabeth Ouzts",
-        "rss_needs_dc_filter": true
-      }
     }
   ],
   "by_state": {
@@ -39181,15 +39142,15 @@
     },
     "NC": {
       "state": "NC",
-      "count": 7,
+      "count": 6,
       "total_engagement": 0,
       "categories": {
         "banned": 2,
-        "protested": 4,
+        "protested": 3,
         "announced": 1
       },
       "platforms": {
-        "news": 7
+        "news": 6
       },
       "latest_date": "2026-08-19"
     },
