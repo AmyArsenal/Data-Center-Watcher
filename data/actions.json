@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:25:28Z",
-  "count": 2082,
+  "generated_at": "2026-09-16T18:15:33Z",
+  "count": 2083,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dcd-1e32e7f84cbba74b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-09-16",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Scotland's parliament backs defacto, temporary, moratorium on new hyperscale data centers. No plans will be approved until new planning guidance is published",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/scotland-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-16T18:15:32Z",
+      "first_seen": "2026-09-16T18:15:33Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:rss-dcd-31d240fbc8494d86-tx",
       "origin": "news",
@@ -96177,21 +96222,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1243,
+      "count": 1244,
       "outcome_counts": {
         "pending": 687,
-        "win": 520,
+        "win": 521,
         "loss": 36,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1205,
+        "restrictive": 1206,
         "protective": 2,
         "supportive": 36,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1221,
+        "local": 1222,
         "statewide": 13,
         "federal": 9
       },
@@ -96200,7 +96245,7 @@
         "zoning": 92,
         "grid_energy": 27
       },
-      "latest_date": "2026-09-15",
+      "latest_date": "2026-09-16",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
