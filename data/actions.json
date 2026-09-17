@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T06:38:02Z",
-  "count": 2083,
+  "generated_at": "2026-09-17T12:02:48Z",
+  "count": 2084,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,51 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:rss-dck-47db85b812297d5b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Zombie Workloads Haunt Data Center Efficiency Efforts. Abandoned jobs, instances, and volumes can run indefinitely. FinOps tools help, but GPU-era AI demands new zombie-hunting methods",
+      "sources": [
+        "https://datacenterknowledge.com/cloud/zombie-workloads-haunt-data-center-efficiency-efforts"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-17T12:02:47Z",
+      "first_seen": "2026-09-17T12:02:48Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
     {
       "id": "news:rss-dcd-1e32e7f84cbba74b-us",
       "origin": "news",
@@ -96222,21 +96267,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1244,
+      "count": 1245,
       "outcome_counts": {
-        "pending": 687,
+        "pending": 688,
         "win": 521,
         "loss": 36,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1206,
+        "restrictive": 1207,
         "protective": 2,
         "supportive": 36,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1222,
+        "local": 1223,
         "statewide": 13,
         "federal": 9
       },
@@ -96245,7 +96290,7 @@
         "zoning": 92,
         "grid_energy": 27
       },
-      "latest_date": "2026-09-16",
+      "latest_date": "2026-09-17",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
