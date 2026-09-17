@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T12:02:48Z",
+  "generated_at": "2026-09-17T16:55:36Z",
   "tier_timestamps": {
-    "fast": "2026-09-17T12:02:48Z",
+    "fast": "2026-09-17T16:55:36Z",
     "bills": "2026-09-17T11:46:03Z"
   },
   "counts_by_source": {
@@ -16,21 +16,21 @@
     "rss-canary": 3
   },
   "run_stats": {
-    "last_run_seconds": 27.82,
+    "last_run_seconds": 22.99,
     "raw_fetched": {
       "youtube": 0,
       "rss": 190,
       "reddit": 0,
       "gdelt": 0
     },
-    "inserted": 1,
-    "updated": 7,
+    "inserted": 0,
+    "updated": 8,
     "dropped_irrelevant": 182,
     "accepted_by_source_this_run": {
-      "rss-dcd": 1,
       "rss-latitude": 1,
-      "rss-court-dc": 2,
-      "rss-dck": 4
+      "rss-dck": 4,
+      "rss-dcd": 1,
+      "rss-court-dc": 2
     }
   }
 }
