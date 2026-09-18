@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T22:29:07Z",
-  "count": 2085,
+  "generated_at": "2026-09-18T00:36:11Z",
+  "count": 2086,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -60,6 +60,53 @@
       "data_source": "news",
       "last_updated": "2026-09-17T12:02:47Z",
       "first_seen": "2026-09-17T12:02:48Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-rto-insider-a2916637e2cd9abf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-17",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "grid_energy"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Regulators Confront AI Data Center Threats to Grid Operations. People who run much of the nation's power grid are urgently plying human intelligence the risk that AI data factories reacting to relatively small grid disturbances could cause potentially fatal wide-area blackouts. The post Regulators Confront AI Data Center Threats to Grid Operations appeared first on RTO Insider",
+      "sources": [
+        "https://rtoinsider.com/144052-regulators-confront-ai-data-center-threats-to-grid-operations"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-18T00:36:10Z",
+      "first_seen": "2026-09-18T00:36:11Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -96312,28 +96359,28 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1246,
+      "count": 1247,
       "outcome_counts": {
-        "pending": 689,
+        "pending": 690,
         "win": 521,
         "loss": 36,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1208,
+        "restrictive": 1209,
         "protective": 2,
         "supportive": 36,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1224,
+        "local": 1225,
         "statewide": 13,
         "federal": 9
       },
       "issue_top": {
         "community_impact": 237,
         "zoning": 92,
-        "grid_energy": 27
+        "grid_energy": 28
       },
       "latest_date": "2026-09-17",
       "map_color_tier": "restrictive",
