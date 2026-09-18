@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "VA",
-  "generated_at": "2026-09-18T13:48:40Z",
+  "generated_at": "2026-09-18T17:19:05Z",
   "risk_score": {
-    "score": 51.0,
-    "tier": 24.8,
+    "score": 51.7,
+    "tier": 25.1,
     "engagement": 8.8,
-    "recency": 8.3,
-    "multi_source": 4.1,
+    "recency": 8.8,
+    "multi_source": 4.0,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 49.0,
+    "score": 48.3,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
-    "moratoriums": 7,
+    "moratoriums": 8,
     "approvals": 4,
-    "denials": 22,
+    "denials": 23,
     "lawsuits": 3,
     "blocked": 2,
     "active_companies": 3,
@@ -26,22 +26,22 @@
     "bills_passed": 3,
     "bills_enacted": 7
   },
-  "count": 59,
+  "count": 60,
   "tier_counts": {
-    "restrictive": 27,
+    "restrictive": 28,
     "unclear": 15,
     "protective": 3,
     "null": 11,
     "supportive": 3
   },
   "outcome_counts": {
-    "win": 22,
+    "win": 23,
     "pending": 31,
     "loss": 4,
     "mixed": 2
   },
   "scope_counts": {
-    "local": 34,
+    "local": 35,
     "statewide": 25
   },
   "issue_top": {
@@ -70,8 +70,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-03-18",
-  "latest": "2026-09-07",
+  "latest": "2026-09-18",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-725f96a2c0ef698e-va",
+      "date": "2026-09-18",
+      "jurisdiction": "Loudoun County",
+      "title": "Virginia’s Loudoun County board votes to pause new data center applications. County introduces 12-month moratorium in data center hotspot",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications"
+    },
     {
       "id": "news:gdelt-c723f5fe8519e86e-va",
       "date": "2026-09-07",
@@ -152,15 +161,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/virginia-state-senators-call-for-review-into-data-center-groundwater-strain-and-potential-state-wide-moratorium"
-    },
-    {
-      "id": "news:rss-dck-03d67acb8e56dc1b-va",
-      "date": "2026-07-30",
-      "jurisdiction": "datacenterknowledge",
-      "title": "Virginia Report Finds Groundwater Running Dry for New Data Centers. No locations east of I-95 can support major new groundwater withdrawals ",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://datacenterknowledge.com/data-center-site-selection/virginia-report-finds-groundwater-running-dry-for-new-data-centers"
     }
   ]
 }
