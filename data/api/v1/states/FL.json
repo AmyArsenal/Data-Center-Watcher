@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "FL",
-  "generated_at": "2026-09-18T23:50:18Z",
+  "generated_at": "2026-09-19T01:48:26Z",
   "risk_score": {
-    "score": 50.2,
+    "score": 48.6,
     "tier": 30.1,
     "engagement": 7.7,
-    "recency": 10.0,
+    "recency": 8.4,
     "multi_source": 2.4,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "D",
-    "score": 49.8,
-    "label": "Opposition frequently succeeds"
+    "letter": "C",
+    "score": 51.4,
+    "label": "Significant activity in both directions"
   },
   "quantified": {
     "moratoriums": 2,
