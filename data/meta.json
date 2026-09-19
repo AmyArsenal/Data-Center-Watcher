@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T21:43:48Z",
+  "generated_at": "2026-09-19T23:33:32Z",
   "tier_timestamps": {
-    "fast": "2026-09-19T21:43:48Z",
+    "fast": "2026-09-19T23:33:32Z",
     "bills": "2026-09-19T20:43:00Z"
   },
   "counts_by_source": {
@@ -16,11 +16,11 @@
     "rss-canary": 3
   },
   "run_stats": {
-    "last_run_seconds": 24.25,
+    "last_run_seconds": 22.64,
     "raw_fetched": {
       "youtube": 0,
-      "reddit": 0,
       "rss": 190,
+      "reddit": 0,
       "gdelt": 0
     },
     "inserted": 0,
