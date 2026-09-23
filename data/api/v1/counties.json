@@ -1,6 +1,6 @@
 {
   "schema": "dcw.api.counties.v1",
-  "generated_at": "2026-09-22T22:29:33Z",
+  "generated_at": "2026-09-23T00:49:28Z",
   "counties": [
     {
       "county_fips": "04013",
@@ -133,7 +133,7 @@
       "county_name": "King County",
       "state": "WA",
       "count": 1,
-      "risk_score": 59.6,
+      "risk_score": 50.2,
       "latest": "2026-06-24",
       "url": "data/dossiers/county-53033.json"
     }
