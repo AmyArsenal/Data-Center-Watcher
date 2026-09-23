@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-09-23T14:58:29Z",
+  "generated_at": "2026-09-23T18:47:06Z",
   "window_days": 90,
-  "count": 902,
+  "count": 903,
   "items": [
+    {
+      "id": "rss-utilitydive-fb92339cf7cfb544",
+      "state": "US",
+      "city": null,
+      "category": "protested",
+      "headline": "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract",
+      "source_domain": "utilitydive.com",
+      "source_name": "Utility Dive - Latest News",
+      "url": "https://utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127",
+      "date": "2026-09-23",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-23 18:47:05",
+      "url_hash": "fb92339cf7cfb544",
+      "content_hash": "c36536414d231ee6",
+      "source": "rss-utilitydive",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-utilitydive"
+      ],
+      "snippet": "A 1.8-GW, $20-billion data center planned by PowerHouse Hillwood was underpinned by a $1 letter of credit &mdash; &ldquo;less than the price of a cup of coffee&rdquo; &mdash; that drew skepticism from FERC Commissioner David LaCerte.",
+      "last_seen": "2026-09-23T18:47:05Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.64,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127/",
+        "rss_author": "Ethan Howland",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-a8e9d2ad4599c82c",
       "state": "TX",
@@ -30,7 +69,7 @@
         "rss-dcd"
       ],
       "snippet": "ERCOT claims the audit will be completed by December",
-      "last_seen": "2026-09-23T14:58:28Z",
+      "last_seen": "2026-09-23T18:47:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -69,7 +108,7 @@
         "rss-rto-insider"
       ],
       "snippet": "The political backlash to data center development is largely owed to the lack of communication and community buy-in, Exelon CEO Calvin Butler said at an Atlantic Council event in New York City. The post Exelon’s Butler Expounds on Data Center Backlash at Atlantic Council appeared first on RTO Insider .",
-      "last_seen": "2026-09-23T14:58:28Z",
+      "last_seen": "2026-09-23T18:47:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -225,7 +264,7 @@
         "rss-dck"
       ],
       "snippet": "Abandoned jobs, instances, and volumes can run indefinitely. FinOps tools help, but GPU-era AI demands new zombie-hunting methods.",
-      "last_seen": "2026-09-23T14:58:28Z",
+      "last_seen": "2026-09-23T18:47:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -303,7 +342,7 @@
         "rss-dck"
       ],
       "snippet": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
-      "last_seen": "2026-09-23T14:58:28Z",
+      "last_seen": "2026-09-23T18:47:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -942,7 +981,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-23T14:58:28Z",
+      "last_seen": "2026-09-23T18:47:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2489,7 +2528,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-23T14:58:28Z",
+      "last_seen": "2026-09-23T18:47:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3440,7 +3479,7 @@
         "rss-dck"
       ],
       "snippet": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
-      "last_seen": "2026-09-23T14:58:28Z",
+      "last_seen": "2026-09-23T18:47:05Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:58:29Z",
-  "count": 2089,
+  "generated_at": "2026-09-23T18:47:06Z",
+  "count": 2090,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -107,6 +107,51 @@
       "data_source": "news",
       "last_updated": "2026-09-23T00:49:26Z",
       "first_seen": "2026-09-23T00:49:27Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-utilitydive-fb92339cf7cfb544-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "Utility Dive - Latest News",
+      "lat": null,
+      "lng": null,
+      "scope": "federal",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "federal_agency",
+      "date": "2026-09-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "FERC rejects ComEd’s cancellation of PowerHouse Hillwood data center contract. A 1.8-GW, $20-billion data center planned by PowerHouse Hillwood was underpinned by a $1 letter of credit &mdash; &ldquo;less than the price of a cup of coffee&rdquo; &mdash; that drew skepticism from FERC Commissioner David LaCerte",
+      "sources": [
+        "https://utilitydive.com/news/ferc-exelon-comed-powerhouse-hillwood-data-center/831127"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-23T18:47:05Z",
+      "first_seen": "2026-09-23T18:47:06Z",
       "bill_number": null,
       "bill_session": null,
       "tier": "restrictive",
@@ -96552,6 +96597,35 @@
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
+    "US": {
+      "state": "US",
+      "count": 1248,
+      "outcome_counts": {
+        "pending": 691,
+        "win": 521,
+        "loss": 36,
+        "mixed": 0
+      },
+      "tier_counts": {
+        "restrictive": 1210,
+        "protective": 2,
+        "supportive": 36,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 1225,
+        "statewide": 13,
+        "federal": 10
+      },
+      "issue_top": {
+        "community_impact": 237,
+        "zoning": 92,
+        "grid_energy": 28
+      },
+      "latest_date": "2026-09-23",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
     "VA": {
       "state": "VA",
       "count": 60,
@@ -96578,35 +96652,6 @@
         "water": 7
       },
       "latest_date": "2026-09-18",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
-    },
-    "US": {
-      "state": "US",
-      "count": 1247,
-      "outcome_counts": {
-        "pending": 690,
-        "win": 521,
-        "loss": 36,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1209,
-        "protective": 2,
-        "supportive": 36,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1225,
-        "statewide": 13,
-        "federal": 9
-      },
-      "issue_top": {
-        "community_impact": 237,
-        "zoning": 92,
-        "grid_energy": 28
-      },
-      "latest_date": "2026-09-17",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
