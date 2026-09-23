@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-09-23T18:47:06Z",
+  "generated_at": "2026-09-23T21:50:55Z",
   "filter": {
     "issue_category": "water"
   },
-  "count": 88,
+  "count": 89,
   "items": [
     {
       "id": "news:rss-utilitydive-d3df554b86365bde-us",
@@ -3527,6 +3527,46 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:rss-dck-0786139a4d02e9d2-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "datacenterknowledge",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"other_opposition\"]",
+      "authority_level": null,
+      "date": "2026-09-23",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": "[\"community_impact\",\"water\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Data Center Water Use: From Efficiency Metrics to Real-World Resilience. Water has shifted from a background utility to a core constraint for data centers, requiring site-specific resilience planning that addresses peak stress, local hydrology, and community impact, not just average efficiency metrics",
+      "sources": "[\"https://datacenterknowledge.com/cooling/data-center-water-use-from-efficiency-metrics-to-real-world-resilience\"]",
+      "data_source": "news",
+      "last_updated": "2026-09-23T21:50:54Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     }
   ]
 }
