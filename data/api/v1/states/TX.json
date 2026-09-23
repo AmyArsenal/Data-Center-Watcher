@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-09-23T05:19:12Z",
+  "generated_at": "2026-09-23T10:08:32Z",
   "risk_score": {
-    "score": 55.0,
-    "tier": 33.5,
+    "score": 55.4,
+    "tier": 33.6,
     "engagement": 6.3,
-    "recency": 10.0,
+    "recency": 10.4,
     "multi_source": 0.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 45.0,
+    "score": 44.6,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 77,
+  "count": 78,
   "tier_counts": {
-    "restrictive": 60,
+    "restrictive": 61,
     "null": 15,
     "supportive": 2
   },
   "outcome_counts": {
-    "pending": 38,
+    "pending": 39,
     "mixed": 3,
     "loss": 4,
     "win": 32
   },
   "scope_counts": {
-    "local": 66,
+    "local": 67,
     "statewide": 11
   },
   "issue_top": {
@@ -88,8 +88,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-06-20",
-  "latest": "2026-09-15",
+  "latest": "2026-09-23",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-a8e9d2ad4599c82c-tx",
+      "date": "2026-09-23",
+      "jurisdiction": "DCD",
+      "title": "Abbott halts new Texas data center permits pending ERCOT audit. ERCOT claims the audit will be completed by December",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/abbott-halts-new-texas-data-center-permits-pending-ercot-audit"
+    },
     {
       "id": "news:rss-dcd-31d240fbc8494d86-tx",
       "date": "2026-09-15",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://utilitydive.com/news/vistra-texas-data-center-pause-comanche-amazon-earnings/827434"
-    },
-    {
-      "id": "news:gdelt-7225f307b4f23799-tx",
-      "date": "2026-08-10",
-      "jurisdiction": "us105fm.com",
-      "title": "Temple , Texas Data Center Project Heads To Planning And Zoning In August",
-      "tier": "restrictive",
-      "outcome": "pending",
-      "url": "https://us105fm.com/temple-texas-data-center-plans"
     }
   ]
 }
