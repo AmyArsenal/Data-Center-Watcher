@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-09-24T14:24:47Z",
+  "generated_at": "2026-09-24T18:30:41Z",
   "window_days": 90,
-  "count": 886,
+  "count": 887,
   "items": [
+    {
+      "id": "rss-dcd-a9fe402653778bd1",
+      "state": "NM",
+      "city": null,
+      "category": "protested",
+      "headline": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report",
+      "date": "2026-09-24",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [
+        "Oracle"
+      ],
+      "first_seen": "2026-09-24 18:30:40",
+      "url_hash": "a9fe402653778bd1",
+      "content_hash": "dd0c4143a48eebe7",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "The 2.5GW site in New Mexico is set to come online in 2028",
+      "last_seen": "2026-09-24T18:30:40Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "rss-rto-insider-17cf910867a68f55",
       "state": "TX",
@@ -30,7 +71,7 @@
         "rss-rto-insider"
       ],
       "snippet": "Texas Gov. Greg Abbott has further tightened his de facto moratorium on data center interconnections with the ERCOT grid. The post Abbott Tightens Pause on ERCOT Data Center Interconnections appeared first on RTO Insider .",
-      "last_seen": "2026-09-24T14:24:46Z",
+      "last_seen": "2026-09-24T18:30:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.6599999999999999,
@@ -69,7 +110,7 @@
         "rss-dck"
       ],
       "snippet": "Water has shifted from a background utility to a core constraint for data centers, requiring site-specific resilience planning that addresses peak stress, local hydrology, and community impact, not just average efficiency metrics.",
-      "last_seen": "2026-09-24T14:24:46Z",
+      "last_seen": "2026-09-24T18:30:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -108,7 +149,7 @@
         "rss-utilitydive"
       ],
       "snippet": "A 1.8-GW, $20-billion data center planned by PowerHouse Hillwood was underpinned by a $1 letter of credit &mdash; &ldquo;less than the price of a cup of coffee&rdquo; &mdash; that drew skepticism from FERC Commissioner David LaCerte.",
-      "last_seen": "2026-09-24T14:24:46Z",
+      "last_seen": "2026-09-24T18:30:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -342,7 +383,7 @@
         "rss-dck"
       ],
       "snippet": "Abandoned jobs, instances, and volumes can run indefinitely. FinOps tools help, but GPU-era AI demands new zombie-hunting methods.",
-      "last_seen": "2026-09-24T14:24:46Z",
+      "last_seen": "2026-09-24T18:30:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -420,7 +461,7 @@
         "rss-dck"
       ],
       "snippet": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
-      "last_seen": "2026-09-24T14:24:46Z",
+      "last_seen": "2026-09-24T18:30:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1059,7 +1100,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-24T14:24:46Z",
+      "last_seen": "2026-09-24T18:30:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -2606,7 +2647,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-24T14:24:46Z",
+      "last_seen": "2026-09-24T18:30:40Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35318,6 +35359,20 @@
     }
   ],
   "by_state": {
+    "NM": {
+      "state": "NM",
+      "count": 7,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 3,
+        "banned": 3,
+        "cancelled": 1
+      },
+      "platforms": {
+        "news": 7
+      },
+      "latest_date": "2026-09-24"
+    },
     "TX": {
       "state": "TX",
       "count": 46,
@@ -35389,20 +35444,6 @@
         "news": 15
       },
       "latest_date": "2026-09-12"
-    },
-    "NM": {
-      "state": "NM",
-      "count": 6,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 2,
-        "banned": 3,
-        "cancelled": 1
-      },
-      "platforms": {
-        "news": 6
-      },
-      "latest_date": "2026-09-11"
     },
     "AZ": {
       "state": "AZ",

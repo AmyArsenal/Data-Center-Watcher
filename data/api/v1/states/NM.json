@@ -1,19 +1,19 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NM",
-  "generated_at": "2026-09-24T14:24:47Z",
+  "generated_at": "2026-09-24T18:30:42Z",
   "risk_score": {
-    "score": 48.9,
-    "tier": 30.4,
+    "score": 52.3,
+    "tier": 31.3,
     "engagement": 6.2,
-    "recency": 12.3,
+    "recency": 14.8,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
-    "letter": "C",
-    "score": 51.1,
-    "label": "Significant activity in both directions"
+    "letter": "D",
+    "score": 47.7,
+    "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 10,
+  "count": 11,
   "tier_counts": {
     "null": 2,
     "supportive": 1,
-    "restrictive": 7
+    "restrictive": 8
   },
   "outcome_counts": {
-    "pending": 4,
+    "pending": 5,
     "loss": 1,
     "win": 5
   },
   "scope_counts": {
     "statewide": 1,
     "federal": 1,
-    "local": 8
+    "local": 9
   },
   "issue_top": {
     "environmental": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-14",
-  "latest": "2026-09-11",
+  "latest": "2026-09-24",
   "top_citations": [
+    {
+      "id": "news:rss-dcd-a9fe402653778bd1-nm",
+      "date": "2026-09-24",
+      "jurisdiction": "DCD",
+      "title": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report. The 2.5GW site i",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report"
+    },
     {
       "id": "news:rss-latitude-2f9d81350c452d51-nm",
       "date": "2026-09-11",
@@ -139,15 +148,6 @@
       "tier": null,
       "outcome": "pending",
       "url": "https://sourcenm.com/2026/04/17/federal-regulatory-staff-protest-proposed-new-mexico-pipeline-for-data-center/"
-    },
-    {
-      "id": "research:nm-new-mexico-state-senate-20260214-new-mexico-senate-voted-22-20-to-pass-sb-235-stei",
-      "date": "2026-02-14",
-      "jurisdiction": "New Mexico State Senate",
-      "title": "New Mexico Senate voted 22-20 to pass SB 235 (Steinborn), the Microgrid Oversight Act, requiring PRC approval and Energy Transition Act comp",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://sourcenm.com/briefs/while-you-were-sleeping-senate-passes-microgrid-bill-and-more/"
     }
   ]
 }
