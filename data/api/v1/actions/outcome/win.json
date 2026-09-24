@@ -1,10 +1,10 @@
 {
   "schema": "dcw.api.actions.v1",
-  "generated_at": "2026-09-24T00:03:13Z",
+  "generated_at": "2026-09-24T04:41:09Z",
   "filter": {
     "community_outcome": "win"
   },
-  "count": 855,
+  "count": 856,
   "items": [
     {
       "id": "social:x-c778319fc8-me",
@@ -34218,6 +34218,46 @@
       "tier": "restrictive",
       "tier_reason": "banned",
       "county_fips": "51107"
+    },
+    {
+      "id": "news:rss-rto-insider-17cf910867a68f55-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "RTO Insider",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": "[\"moratorium\"]",
+      "authority_level": null,
+      "date": "2026-09-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": "[\"grid_energy\"]",
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": null,
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Abbott Tightens Pause on ERCOT Data Center Interconnections. Texas Gov. Greg Abbott has further tightened his de facto moratorium on data center interconnections with the ERCOT grid. The post Abbott Tightens Pause on ERCOT Data Center Interconnections appeared first on RTO Insider",
+      "sources": "[\"https://rtoinsider.com/146155-abbott-puts-halt-more-approvals-large-loads\"]",
+      "data_source": "news",
+      "last_updated": "2026-09-24T04:41:08Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
     }
   ]
 }
