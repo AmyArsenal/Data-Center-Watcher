@@ -1,24 +1,24 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NM",
-  "generated_at": "2026-09-25T00:00:09Z",
+  "generated_at": "2026-09-25T03:27:06Z",
   "risk_score": {
-    "score": 52.3,
-    "tier": 31.3,
+    "score": 55.1,
+    "tier": 32.0,
     "engagement": 6.2,
-    "recency": 14.8,
+    "recency": 16.9,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "D",
-    "score": 47.7,
+    "score": 44.9,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
     "moratoriums": 3,
     "approvals": 1,
-    "denials": 5,
+    "denials": 6,
     "lawsuits": 1,
     "blocked": 2,
     "active_companies": 1,
@@ -26,21 +26,21 @@
     "bills_passed": 1,
     "bills_enacted": 0
   },
-  "count": 11,
+  "count": 12,
   "tier_counts": {
     "null": 2,
     "supportive": 1,
-    "restrictive": 8
+    "restrictive": 9
   },
   "outcome_counts": {
     "pending": 5,
     "loss": 1,
-    "win": 5
+    "win": 6
   },
   "scope_counts": {
     "statewide": 1,
     "federal": 1,
-    "local": 9
+    "local": 10
   },
   "issue_top": {
     "environmental": 2,
@@ -57,8 +57,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2026-02-14",
-  "latest": "2026-09-24",
+  "latest": "2026-09-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-45b2c4f10b969295-nm",
+      "date": "2026-09-25",
+      "jurisdiction": "nmpoliticalreport.com",
+      "title": "U . S . Rep . Teresa Leger Fernández wants New Mexico to hit pause on data centers",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "http://nmpoliticalreport.com/2026/09/24/u-s-rep-teresa-leger-fernandez-wants-new-mexico-to-hit-pause-data-centers"
+    },
     {
       "id": "news:rss-dcd-a9fe402653778bd1-nm",
       "date": "2026-09-24",
@@ -139,15 +148,6 @@
       "tier": "supportive",
       "outcome": "loss",
       "url": "https://datacenterdynamics.com/en/news/plans-for-10000-acre-data-center-scrapped-in-socorro-new-mexico"
-    },
-    {
-      "id": "research:nm-ferc-staff-20260417-federal-regulatory-staff-at-ferc-formally-proteste",
-      "date": "2026-04-17",
-      "jurisdiction": "FERC staff",
-      "title": "Federal regulatory staff at FERC formally protested proposed natural gas pipeline that would serve Project Jupiter data center campus in Don",
-      "tier": null,
-      "outcome": "pending",
-      "url": "https://sourcenm.com/2026/04/17/federal-regulatory-staff-protest-proposed-new-mexico-pipeline-for-data-center/"
     }
   ]
 }

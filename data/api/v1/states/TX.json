@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "TX",
-  "generated_at": "2026-09-25T00:00:09Z",
+  "generated_at": "2026-09-25T03:27:06Z",
   "risk_score": {
-    "score": 55.5,
-    "tier": 33.7,
+    "score": 56.0,
+    "tier": 33.8,
     "engagement": 6.3,
-    "recency": 10.4,
+    "recency": 10.8,
     "multi_source": 0.1,
     "regulatory": 5.0
   },
   "grade": {
     "letter": "D",
-    "score": 44.5,
+    "score": 44.0,
     "label": "Opposition frequently succeeds"
   },
   "quantified": {
@@ -26,20 +26,20 @@
     "bills_passed": 0,
     "bills_enacted": 1
   },
-  "count": 79,
+  "count": 80,
   "tier_counts": {
-    "restrictive": 62,
+    "restrictive": 63,
     "null": 15,
     "supportive": 2
   },
   "outcome_counts": {
-    "pending": 39,
+    "pending": 40,
     "mixed": 3,
     "loss": 4,
     "win": 33
   },
   "scope_counts": {
-    "local": 68,
+    "local": 69,
     "statewide": 11
   },
   "issue_top": {
@@ -98,6 +98,15 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://rtoinsider.com/146155-abbott-puts-halt-more-approvals-large-loads"
+    },
+    {
+      "id": "news:gdelt-4fb7d051b098ea89-tx",
+      "date": "2026-09-24",
+      "jurisdiction": "newsweek.com",
+      "title": "What States Have Data Center Moratoriums ? Maryland vs Texas Approach to AI Construction",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://newsweek.com/data-centers-moratorium-states-map-12484752"
     },
     {
       "id": "news:rss-dcd-a8e9d2ad4599c82c-tx",
@@ -170,15 +179,6 @@
       "tier": "restrictive",
       "outcome": "win",
       "url": "https://datacenterdynamics.com/en/news/city-council-in-fort-worth-texas-issues-temporary-data-center-moratorium"
-    },
-    {
-      "id": "news:rss-dcd-9a8ac2ef0558bafe-tx",
-      "date": "2026-08-12",
-      "jurisdiction": "DCD",
-      "title": "Bloomberg NEF: Texas grid pause puts 20 percent of US data center pipeline at risk. Governor initiated a pause in interconnections earlier t",
-      "tier": "restrictive",
-      "outcome": "win",
-      "url": "https://datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk"
     }
   ]
 }

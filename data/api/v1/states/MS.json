@@ -1,12 +1,12 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "MS",
-  "generated_at": "2026-09-25T00:00:09Z",
+  "generated_at": "2026-09-25T03:27:06Z",
   "risk_score": {
-    "score": 36.2,
-    "tier": 26.0,
+    "score": 52.9,
+    "tier": 30.7,
     "engagement": 6.2,
-    "recency": 4.0,
+    "recency": 16.0,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
@@ -18,7 +18,7 @@
   "quantified": {
     "moratoriums": 0,
     "approvals": 0,
-    "denials": 1,
+    "denials": 2,
     "lawsuits": 0,
     "blocked": 1,
     "active_companies": 1,
@@ -26,18 +26,18 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 2,
+  "count": 3,
   "tier_counts": {
     "null": 1,
-    "restrictive": 1
+    "restrictive": 2
   },
   "outcome_counts": {
     "mixed": 1,
-    "win": 1
+    "win": 2
   },
   "scope_counts": {
     "statewide": 1,
-    "local": 1
+    "local": 2
   },
   "issue_top": {
     "community_impact": 2,
@@ -53,8 +53,17 @@
   ],
   "opposition_groups": [],
   "earliest": "2025-11-20",
-  "latest": "2026-06-10",
+  "latest": "2026-09-25",
   "top_citations": [
+    {
+      "id": "news:gdelt-1d234a63ae42b834-ms",
+      "date": "2026-09-25",
+      "jurisdiction": "hottytoddy.com",
+      "title": "Senate candidate Scott Colom calls for temporary ban on data centers in Mississippi - HottyToddy . com - Ole Miss Sports , Oxford Entertainm",
+      "tier": "restrictive",
+      "outcome": "win",
+      "url": "https://hottytoddy.com/2026/09/24/scott-colom-data-center-moratorium"
+    },
     {
       "id": "news:gdelt-5c404eb756f6e460-ms",
       "date": "2026-06-10",

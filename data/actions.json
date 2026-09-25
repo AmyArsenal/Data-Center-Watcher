@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T00:00:09Z",
-  "count": 2093,
+  "generated_at": "2026-09-25T03:27:06Z",
+  "count": 2106,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -20,6 +20,598 @@
     "property_values": "Property Values"
   },
   "items": [
+    {
+      "id": "news:gdelt-1d234a63ae42b834-ms",
+      "origin": "news",
+      "state": "MS",
+      "county": null,
+      "jurisdiction": "hottytoddy.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Senate candidate Scott Colom calls for temporary ban on data centers in Mississippi - HottyToddy . com - Ole Miss Sports , Oxford Entertainment , Dining & More",
+      "sources": [
+        "https://hottytoddy.com/2026/09/24/scott-colom-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-304811794ff71e7a-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wlwt.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Rep . Landsman introduces bill to ban data center non - disclosure agreements",
+      "sources": [
+        "https://wlwt.com/article/greg-landsman-bill-data-center-non-disclosure-agreements/73876633"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-45b2c4f10b969295-nm",
+      "origin": "news",
+      "state": "NM",
+      "county": null,
+      "jurisdiction": "nmpoliticalreport.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "U . S . Rep . Teresa Leger Fernández wants New Mexico to hit pause on data centers",
+      "sources": [
+        "http://nmpoliticalreport.com/2026/09/24/u-s-rep-teresa-leger-fernandez-wants-new-mexico-to-hit-pause-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-4b663777f4fb649c-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "ai-cio.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "What Does Growing NIMBY - ism Mean for Data Center Investing ?",
+      "sources": [
+        "https://ai-cio.com/news/what-does-growing-nimby-ism-mean-for-data-center-investing"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-524ef4fa9ad8aae8-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "hppr.org",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [
+        "environmental"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Gov . Greg Abbott broadens moratorium on data center approvals to include environmental permits",
+      "sources": [
+        "https://hppr.org/hppr-news/2026-09-24/gov-greg-abbott-broadens-moratorium-on-data-center-approvals-to-include-environmental-permits"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-a1b27cfb411b4a6e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "localnews8.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-09-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Pocatello City Council votes to deny conditional use permit for AI data center applicant for a second time - LocalNews8 . com",
+      "sources": [
+        "https://localnews8.com/news/2026/09/24/pocatello-city-council-votes-to-deny-conditional-use-permit-for-ai-data-center-applicant-for-a-second-time"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-a42d48fed906ed9b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "wjrz.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "NJ Fines Vineland Data Center $1 . 07M for Illegal Generators Amid Community Backlash",
+      "sources": [
+        "https://wjrz.com/2026/09/24/nj-fines-vineland-data-center-1-07m-for-illegal-generators-amid-community-backlash"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-d9a710a69b98fa0e-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "krdo.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": "city_council",
+      "date": "2026-09-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Mayor , City Council leadership release statements after tense city council meeting over proposed data center",
+      "sources": [
+        "https://krdo.com/news/2026/09/24/project-taurus-council-postponement"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-007d0a6c78cc3234-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "pressherald.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "South Berwick considers proposal to temporarily ban data centers",
+      "sources": [
+        "https://pressherald.com/2026/09/24/south-berwick-considers-proposal-to-temporarily-ban-data-centers"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-3422fda947d9ed7b-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "sun-sentinel.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Palm Beach County halts data centers for one year",
+      "sources": [
+        "https://sun-sentinel.com/2026/09/24/palm-beach-county-halts-data-centers-for-one-year"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-4fb7d051b098ea89-tx",
+      "origin": "news",
+      "state": "TX",
+      "county": null,
+      "jurisdiction": "newsweek.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "What States Have Data Center Moratoriums ? Maryland vs Texas Approach to AI Construction",
+      "sources": [
+        "https://newsweek.com/data-centers-moratorium-states-map-12484752"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-8177b57c150b54b0-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "kwch.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-24",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [
+        "community_impact"
+      ],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Sedgwick County unveils draft regulations for data centers amid community pushback",
+      "sources": [
+        "https://kwch.com/2026/09/24/sedgwick-county-unveils-draft-regulations-data-centers-amid-community-pushback"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:gdelt-fc155d7bae67cbcb-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "twincities.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "moratorium",
+        "study_or_report"
+      ],
+      "authority_level": null,
+      "date": "2026-09-24",
+      "status": "banned",
+      "community_outcome": "win",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Woodbury approves study and moratorium on data centers , other high - volume infrastructure",
+      "sources": [
+        "https://twincities.com/2026/09/24/woodbury-data-center-moratorium"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T03:27:05Z",
+      "first_seen": "2026-09-25T03:27:05Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "banned"
+    },
     {
       "id": "news:rss-dcd-a9fe402653778bd1-nm",
       "origin": "news",
@@ -96679,52 +97271,52 @@
     }
   ],
   "by_state": {
-    "TX": {
-      "state": "TX",
-      "count": 79,
+    "US": {
+      "state": "US",
+      "count": 1259,
       "outcome_counts": {
-        "pending": 39,
-        "win": 33,
-        "loss": 4,
-        "mixed": 3
+        "pending": 698,
+        "win": 525,
+        "loss": 36,
+        "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 62,
-        "protective": 0,
-        "supportive": 2,
+        "restrictive": 1221,
+        "protective": 2,
+        "supportive": 36,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 68,
-        "statewide": 11,
-        "federal": 0
+        "local": 1236,
+        "statewide": 13,
+        "federal": 10
       },
       "issue_top": {
-        "grid_energy": 21,
-        "community_impact": 11,
-        "water": 9
+        "community_impact": 240,
+        "zoning": 92,
+        "grid_energy": 28
       },
-      "latest_date": "2026-09-24",
+      "latest_date": "2026-09-25",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
     },
     "NM": {
       "state": "NM",
-      "count": 11,
+      "count": 12,
       "outcome_counts": {
         "pending": 5,
-        "win": 5,
+        "win": 6,
         "loss": 1,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 8,
+        "restrictive": 9,
         "protective": 0,
         "supportive": 1,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 9,
+        "local": 10,
         "statewide": 1,
         "federal": 1
       },
@@ -96732,6 +97324,64 @@
         "environmental": 2,
         "water": 2,
         "community_impact": 1
+      },
+      "latest_date": "2026-09-25",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "loss"
+    },
+    "MS": {
+      "state": "MS",
+      "count": 3,
+      "outcome_counts": {
+        "pending": 0,
+        "win": 2,
+        "loss": 0,
+        "mixed": 1
+      },
+      "tier_counts": {
+        "restrictive": 2,
+        "protective": 0,
+        "supportive": 0,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 2,
+        "statewide": 1,
+        "federal": 0
+      },
+      "issue_top": {
+        "community_impact": 2,
+        "grid_energy": 1,
+        "noise": 1
+      },
+      "latest_date": "2026-09-25",
+      "map_color_tier": "restrictive",
+      "map_color_outcome": "mixed"
+    },
+    "TX": {
+      "state": "TX",
+      "count": 80,
+      "outcome_counts": {
+        "pending": 40,
+        "win": 33,
+        "loss": 4,
+        "mixed": 3
+      },
+      "tier_counts": {
+        "restrictive": 63,
+        "protective": 0,
+        "supportive": 2,
+        "unclear": 0
+      },
+      "scope_counts": {
+        "local": 69,
+        "statewide": 11,
+        "federal": 0
+      },
+      "issue_top": {
+        "grid_energy": 21,
+        "community_impact": 11,
+        "water": 9
       },
       "latest_date": "2026-09-24",
       "map_color_tier": "restrictive",
@@ -96765,35 +97415,6 @@
       "latest_date": "2026-09-23",
       "map_color_tier": "restrictive",
       "map_color_outcome": "pending"
-    },
-    "US": {
-      "state": "US",
-      "count": 1249,
-      "outcome_counts": {
-        "pending": 692,
-        "win": 521,
-        "loss": 36,
-        "mixed": 0
-      },
-      "tier_counts": {
-        "restrictive": 1211,
-        "protective": 2,
-        "supportive": 36,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1226,
-        "statewide": 13,
-        "federal": 10
-      },
-      "issue_top": {
-        "community_impact": 238,
-        "zoning": 92,
-        "grid_energy": 28
-      },
-      "latest_date": "2026-09-23",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "loss"
     },
     "VA": {
       "state": "VA",
@@ -97866,35 +98487,6 @@
       "latest_date": "2026-06-12",
       "map_color_tier": "restrictive",
       "map_color_outcome": "loss"
-    },
-    "MS": {
-      "state": "MS",
-      "count": 2,
-      "outcome_counts": {
-        "pending": 0,
-        "win": 1,
-        "loss": 0,
-        "mixed": 1
-      },
-      "tier_counts": {
-        "restrictive": 1,
-        "protective": 0,
-        "supportive": 0,
-        "unclear": 0
-      },
-      "scope_counts": {
-        "local": 1,
-        "statewide": 1,
-        "federal": 0
-      },
-      "issue_top": {
-        "community_impact": 2,
-        "grid_energy": 1,
-        "noise": 1
-      },
-      "latest_date": "2026-06-10",
-      "map_color_tier": "restrictive",
-      "map_color_outcome": "mixed"
     },
     "NH": {
       "state": "NH",
