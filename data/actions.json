@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T14:22:04Z",
-  "count": 2107,
+  "generated_at": "2026-09-25T18:45:12Z",
+  "count": 2108,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -428,6 +428,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "active opposition"
+    },
+    {
+      "id": "news:rss-dcd-d516fd787cdb09de-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "DCD",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "announced",
+      "community_outcome": "loss",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Vocus to build 4,000km fiber link between Brisbane and Darwin. The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
+      "sources": [
+        "https://datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T18:45:10Z",
+      "first_seen": "2026-09-25T18:45:11Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "supportive",
+      "tier_reason": "project advancing"
     },
     {
       "id": "news:gdelt-007d0a6c78cc3234-us",
@@ -97318,21 +97363,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1260,
+      "count": 1261,
       "outcome_counts": {
         "pending": 699,
         "win": 525,
-        "loss": 36,
+        "loss": 37,
         "mixed": 0
       },
       "tier_counts": {
         "restrictive": 1222,
         "protective": 2,
-        "supportive": 36,
+        "supportive": 37,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1237,
+        "local": 1238,
         "statewide": 13,
         "federal": 10
       },

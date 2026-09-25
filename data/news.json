@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-09-25T14:22:04Z",
+  "generated_at": "2026-09-25T18:45:11Z",
   "window_days": 90,
-  "count": 891,
+  "count": 892,
   "items": [
+    {
+      "id": "rss-dcd-d516fd787cdb09de",
+      "state": "US",
+      "city": null,
+      "category": "announced",
+      "headline": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
+      "source_domain": "datacenterdynamics.com",
+      "source_name": "DCD",
+      "url": "https://datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin",
+      "date": "2026-09-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-25 18:45:10",
+      "url_hash": "d516fd787cdb09de",
+      "content_hash": "da69c6cb7b29e150",
+      "source": "rss-dcd",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-dcd"
+      ],
+      "snippet": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
+      "last_seen": "2026-09-25T18:45:10Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
+        "rss_author": null,
+        "rss_needs_dc_filter": false
+      }
+    },
     {
       "id": "gdelt-9959a6667e2bbfdf",
       "state": "US",
@@ -670,7 +709,7 @@
         "rss-dck"
       ],
       "snippet": "Water has shifted from a background utility to a core constraint for data centers, requiring site-specific resilience planning that addresses peak stress, local hydrology, and community impact, not just average efficiency metrics.",
-      "last_seen": "2026-09-25T14:22:03Z",
+      "last_seen": "2026-09-25T18:45:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -709,7 +748,7 @@
         "rss-utilitydive"
       ],
       "snippet": "A 1.8-GW, $20-billion data center planned by PowerHouse Hillwood was underpinned by a $1 letter of credit &mdash; &ldquo;less than the price of a cup of coffee&rdquo; &mdash; that drew skepticism from FERC Commissioner David LaCerte.",
-      "last_seen": "2026-09-25T14:22:03Z",
+      "last_seen": "2026-09-25T18:45:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.64,
@@ -943,7 +982,7 @@
         "rss-dck"
       ],
       "snippet": "Abandoned jobs, instances, and volumes can run indefinitely. FinOps tools help, but GPU-era AI demands new zombie-hunting methods.",
-      "last_seen": "2026-09-25T14:22:03Z",
+      "last_seen": "2026-09-25T18:45:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1021,7 +1060,7 @@
         "rss-dck"
       ],
       "snippet": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
-      "last_seen": "2026-09-25T14:22:03Z",
+      "last_seen": "2026-09-25T18:45:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1660,7 +1699,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-25T14:22:03Z",
+      "last_seen": "2026-09-25T18:45:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3207,7 +3246,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-25T14:22:03Z",
+      "last_seen": "2026-09-25T18:45:10Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
