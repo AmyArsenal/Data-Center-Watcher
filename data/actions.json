@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T03:27:06Z",
-  "count": 2106,
+  "generated_at": "2026-09-25T08:58:14Z",
+  "count": 2107,
   "issue_labels": {
     "zoning": "Zoning / Land Use",
     "water": "Water",
@@ -246,6 +246,51 @@
       "bill_session": null,
       "tier": "restrictive",
       "tier_reason": "banned"
+    },
+    {
+      "id": "news:gdelt-9959a6667e2bbfdf-us",
+      "origin": "news",
+      "state": "US",
+      "county": null,
+      "jurisdiction": "newsweek.com",
+      "lat": null,
+      "lng": null,
+      "scope": "local",
+      "action_type": [
+        "other_opposition"
+      ],
+      "authority_level": null,
+      "date": "2026-09-25",
+      "status": "active",
+      "community_outcome": "pending",
+      "issue_category": [],
+      "company": null,
+      "hyperscaler": null,
+      "project_name": null,
+      "investment_million_usd": null,
+      "megawatts": null,
+      "acreage": null,
+      "building_sq_ft": null,
+      "water_usage_gallons_per_day": null,
+      "jobs_promised": null,
+      "opposition_groups": [],
+      "opposition_website": null,
+      "opposition_facebook": null,
+      "opposition_instagram": null,
+      "opposition_twitter": null,
+      "petition_url": null,
+      "petition_signatures": null,
+      "summary": "Trump Home County Halts Data Centers Amid President AI Push",
+      "sources": [
+        "https://newsweek.com/trumps-home-county-halts-data-centers-amid-presidents-ai-push-12486109"
+      ],
+      "data_source": "news",
+      "last_updated": "2026-09-25T08:58:13Z",
+      "first_seen": "2026-09-25T08:58:14Z",
+      "bill_number": null,
+      "bill_session": null,
+      "tier": "restrictive",
+      "tier_reason": "active opposition"
     },
     {
       "id": "news:gdelt-a1b27cfb411b4a6e-us",
@@ -97273,21 +97318,21 @@
   "by_state": {
     "US": {
       "state": "US",
-      "count": 1259,
+      "count": 1260,
       "outcome_counts": {
-        "pending": 698,
+        "pending": 699,
         "win": 525,
         "loss": 36,
         "mixed": 0
       },
       "tier_counts": {
-        "restrictive": 1221,
+        "restrictive": 1222,
         "protective": 2,
         "supportive": 36,
         "unclear": 0
       },
       "scope_counts": {
-        "local": 1236,
+        "local": 1237,
         "statewide": 13,
         "federal": 10
       },
