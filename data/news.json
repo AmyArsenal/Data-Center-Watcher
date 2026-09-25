@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-09-25T18:45:11Z",
+  "generated_at": "2026-09-25T21:50:22Z",
   "window_days": 90,
-  "count": 892,
+  "count": 893,
   "items": [
+    {
+      "id": "rss-rto-insider-709f36b7adeb6a15",
+      "state": "NV",
+      "city": null,
+      "category": "protested",
+      "headline": "Democrats Fume Over Data Center Development on Public Lands",
+      "source_domain": "rtoinsider.com",
+      "source_name": "RTO Insider",
+      "url": "https://rtoinsider.com/146841-democrats-fume-over-data-center-development-on-public-lands",
+      "date": "2026-09-25",
+      "platform": "news",
+      "engagement_score": 0,
+      "upvotes": null,
+      "comments": null,
+      "views": null,
+      "likes": null,
+      "sentiment": null,
+      "companies": [],
+      "first_seen": "2026-09-25 21:50:21",
+      "url_hash": "709f36b7adeb6a15",
+      "content_hash": "38300e97b54b2d07",
+      "source": "rss-rto-insider",
+      "source_tier": "fast",
+      "sources_seen": [
+        "rss-rto-insider"
+      ],
+      "snippet": "Congressional Democrats are ramping up opposition to the Trump administration efforts to potentially use thousands of acres of federal lands in the West to house data centers in the wake of the Bureau of Land Management’s recent approval of a controversial project in Nevada. The post Democrats Fume Over Data Center Development on Public Lands appeared first on RTO Insider .",
+      "last_seen": "2026-09-25T21:50:21Z",
+      "counties": [],
+      "dollars_mentioned": null,
+      "relevance_score": 0.42,
+      "topics": [],
+      "ferc_dockets": [],
+      "platform_metadata": {
+        "rss_id": "//www.rtoinsider.com/?p=146841",
+        "rss_author": "Scott Streater",
+        "rss_needs_dc_filter": true
+      }
+    },
     {
       "id": "rss-dcd-d516fd787cdb09de",
       "state": "US",
@@ -30,7 +69,7 @@
         "rss-dcd"
       ],
       "snippet": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
-      "last_seen": "2026-09-25T18:45:10Z",
+      "last_seen": "2026-09-25T21:50:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -709,7 +748,7 @@
         "rss-dck"
       ],
       "snippet": "Water has shifted from a background utility to a core constraint for data centers, requiring site-specific resilience planning that addresses peak stress, local hydrology, and community impact, not just average efficiency metrics.",
-      "last_seen": "2026-09-25T18:45:10Z",
+      "last_seen": "2026-09-25T21:50:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -982,7 +1021,7 @@
         "rss-dck"
       ],
       "snippet": "Abandoned jobs, instances, and volumes can run indefinitely. FinOps tools help, but GPU-era AI demands new zombie-hunting methods.",
-      "last_seen": "2026-09-25T18:45:10Z",
+      "last_seen": "2026-09-25T21:50:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -1060,7 +1099,7 @@
         "rss-dck"
       ],
       "snippet": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
-      "last_seen": "2026-09-25T18:45:10Z",
+      "last_seen": "2026-09-25T21:50:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.54,
@@ -1699,7 +1738,7 @@
         "rss-dck"
       ],
       "snippet": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "last_seen": "2026-09-25T18:45:10Z",
+      "last_seen": "2026-09-25T21:50:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -3246,7 +3285,7 @@
         "rss-court-dc"
       ],
       "snippet": "{¶ 6} Trenton Data Center Campus, L.L.C. (“TDCC”), an entity constructing a data center in Trenton, filed Original document",
-      "last_seen": "2026-09-25T18:45:10Z",
+      "last_seen": "2026-09-25T21:50:21Z",
       "counties": [],
       "dollars_mentioned": null,
       "relevance_score": 0.42,
@@ -35563,6 +35602,20 @@
     }
   ],
   "by_state": {
+    "NV": {
+      "state": "NV",
+      "count": 4,
+      "total_engagement": 0,
+      "categories": {
+        "protested": 2,
+        "banned": 1,
+        "announced": 1
+      },
+      "platforms": {
+        "news": 4
+      },
+      "latest_date": "2026-09-25"
+    },
     "MS": {
       "state": "MS",
       "count": 1,
@@ -35805,20 +35858,6 @@
         "news": 2
       },
       "latest_date": "2026-08-21"
-    },
-    "NV": {
-      "state": "NV",
-      "count": 3,
-      "total_engagement": 0,
-      "categories": {
-        "protested": 1,
-        "banned": 1,
-        "announced": 1
-      },
-      "platforms": {
-        "news": 3
-      },
-      "latest_date": "2026-08-20"
     },
     "PA": {
       "state": "PA",

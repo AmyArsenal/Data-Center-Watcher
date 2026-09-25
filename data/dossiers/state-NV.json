@@ -1,18 +1,18 @@
 {
   "schema": "dcw.dossier.state.v1",
   "state": "NV",
-  "generated_at": "2026-09-25T18:45:12Z",
+  "generated_at": "2026-09-25T21:50:23Z",
   "risk_score": {
-    "score": 43.6,
-    "tier": 28.7,
+    "score": 49.7,
+    "tier": 30.3,
     "engagement": 6.2,
-    "recency": 8.7,
+    "recency": 13.1,
     "multi_source": 0.0,
     "regulatory": 0.0
   },
   "grade": {
     "letter": "C",
-    "score": 56.4,
+    "score": 50.3,
     "label": "Significant activity in both directions"
   },
   "quantified": {
@@ -26,19 +26,19 @@
     "bills_passed": 0,
     "bills_enacted": 0
   },
-  "count": 6,
+  "count": 7,
   "tier_counts": {
-    "restrictive": 4,
+    "restrictive": 5,
     "null": 1,
     "supportive": 1
   },
   "outcome_counts": {
-    "pending": 3,
+    "pending": 4,
     "win": 2,
     "loss": 1
   },
   "scope_counts": {
-    "local": 5,
+    "local": 6,
     "statewide": 1
   },
   "issue_top": {
@@ -51,8 +51,17 @@
   "companies": [],
   "opposition_groups": [],
   "earliest": "2026-04-22",
-  "latest": "2026-08-20",
+  "latest": "2026-09-25",
   "top_citations": [
+    {
+      "id": "news:rss-rto-insider-709f36b7adeb6a15-nv",
+      "date": "2026-09-25",
+      "jurisdiction": "RTO Insider",
+      "title": "Democrats Fume Over Data Center Development on Public Lands. Congressional Democrats are ramping up opposition to the Trump administration e",
+      "tier": "restrictive",
+      "outcome": "pending",
+      "url": "https://rtoinsider.com/146841-democrats-fume-over-data-center-development-on-public-lands"
+    },
     {
       "id": "news:gdelt-766b526dee292b1e-nv",
       "date": "2026-08-20",
